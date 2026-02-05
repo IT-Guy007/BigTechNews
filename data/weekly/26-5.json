@@ -5,7 +5,7 @@
   "year": 2026,
   "title": "Week 5",
   "dateRange": "Feb 2 – Feb 8, 2026",
-  "generatedAt": "2026-02-05T19:52:40.926Z",
+  "generatedAt": "2026-02-05T19:55:21.326Z",
   "highlights": [
     {
       "title": "Anthropic's Claude Opus 4.6 brings 1M token context and 'agent teams' to take on OpenAI's Codex",
@@ -129,6 +129,24 @@
       "category": "ai"
     },
     {
+      "title": "SpaceX acquires xAI in bid to develop orbital data centers",
+      "link": "https://spacenews.com/spacex-acquires-xai-in-bid-to-develop-orbital-data-centers/",
+      "description": "SpaceX has acquired xAI, an artificial intelligence company also run by Elon Musk, as part of his effort to develop orbital data centers.\nThe post SpaceX acquires xAI in bid to develop orbital data centers appeared first on SpaceNews.",
+      "published": "2026-02-02T22:39:05.000Z",
+      "source": "SpaceNews",
+      "sourceKey": "spacenews",
+      "priority": 2,
+      "relevanceScore": 18,
+      "matchedKeywords": [
+        "spacex",
+        "intel",
+        "xai",
+        "acquires",
+        "elon musk"
+      ],
+      "category": "ai"
+    },
+    {
       "title": "OpenAI launches new enterprise platform in bid to win more business customers",
       "link": "https://www.cnbc.com/2026/02/05/open-ai-frontier-enterprise-customers.html",
       "description": "Frontier can work with OpenAI agents, enterprise-build agents, as well as agents from third parties like Google, Microsoft and Anthropic.",
@@ -159,23 +177,6 @@
         "openai",
         "anthropic",
         "claude"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": "Super Bowl LX ads: all AI everything",
-      "link": "https://www.theverge.com/entertainment/874504/super-bowl-lx-ads-big-game",
-      "description": "Super Bowl LX is nearly here, with the Seattle Seahawks taking on the New England Patriots. While Bad Bunny will be the star of the halftime show, AI could be the star of the commercial breaks, much like crypto was a few years ago.\nLast year’s Super Bowl featured a Google Gemini ad that fumbled a Gouda cheese stat, and this year’s game is already slated to include an ad for Anthropic’s AI platform that takes jabs at its competitors, namely OpenAI. AI-generated ads could make an appearance, too. \nSuper Bowl LX is set to kick off at 6:30PM ET/3:30PM PT on Sunday, February 8th at Levi’s Stadium in Santa Clara, California. \nSam Altman responds to Anthropic’s ‘funny’ Super Bowl ads\n\t\t\t\nAnthropic’s first Super Bowl ad dunks on ChatGPT.\n\t\t\t\nDon’t expect any Kalshi or Polymarket ads during the Super Bowl.",
-      "published": "2026-02-05T18:18:34.000Z",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "priority": 1,
-      "relevanceScore": 16,
-      "matchedKeywords": [
-        "google",
-        "openai",
-        "anthropic",
-        "gemini"
       ],
       "category": "ai"
     }
@@ -300,6 +301,24 @@
           "anthropic",
           "chatgpt",
           "claude"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "SpaceX acquires xAI in bid to develop orbital data centers",
+        "link": "https://spacenews.com/spacex-acquires-xai-in-bid-to-develop-orbital-data-centers/",
+        "description": "SpaceX has acquired xAI, an artificial intelligence company also run by Elon Musk, as part of his effort to develop orbital data centers.\nThe post SpaceX acquires xAI in bid to develop orbital data centers appeared first on SpaceNews.",
+        "published": "2026-02-02T22:39:05.000Z",
+        "source": "SpaceNews",
+        "sourceKey": "spacenews",
+        "priority": 2,
+        "relevanceScore": 18,
+        "matchedKeywords": [
+          "spacex",
+          "intel",
+          "xai",
+          "acquires",
+          "elon musk"
         ],
         "category": "ai"
       },
@@ -1647,6 +1666,20 @@
         "category": "ai"
       },
       {
+        "title": "Neocities founder stuck in chatbot hell after Bing blocked 1.5 million sites",
+        "link": "https://arstechnica.com/tech-policy/2026/02/neocities-founder-stuck-in-chatbot-hell-after-bing-blocked-1-5m-sites/",
+        "description": "Microsoft won’t explain why Bing blocked 1.5 million Neocities websites.",
+        "published": "2026-02-05T19:32:28.000Z",
+        "source": "Ars Technica",
+        "sourceKey": "arstechnica",
+        "priority": 1,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "microsoft"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "Hollywood Is Losing Audiences to AI Fatigue",
         "link": "https://www.wired.com/story/hollywood-is-losing-audiences-to-ai-fatigue/",
         "description": "Entertainment about or made with artificial intelligence has been missing the mark with viewers over the past year.",
@@ -1837,6 +1870,20 @@
         "published": "2026-02-04T11:02:50.000Z",
         "source": "The Register",
         "sourceKey": "theregister",
+        "priority": 2,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "spacex"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "SpaceX pauses Falcon 9 launches after upper stage anomaly",
+        "link": "https://spacenews.com/spacex-pauses-falcon-9-launches-after-upper-stage-anomaly/",
+        "description": "SpaceX is pausing Falcon 9 launches after an issue with the rocket’s upper stage encountered at the end of a launch Feb. 2.\nThe post SpaceX pauses Falcon 9 launches after upper stage anomaly appeared first on SpaceNews.",
+        "published": "2026-02-03T12:29:06.000Z",
+        "source": "SpaceNews",
+        "sourceKey": "spacenews",
         "priority": 2,
         "relevanceScore": 4,
         "matchedKeywords": [
@@ -3004,6 +3051,21 @@
         "category": "business"
       },
       {
+        "title": "Morpheus raises $15 million in Series A+ round",
+        "link": "https://spacenews.com/morpheus-raises-15-million-in-series-a-round/",
+        "description": "SAN FRANCISCO — Morpheus Space raised $15 million in a Series A+ funding round announced Feb. 5. “This funding is intended to accelerate our production as we focus on bringing our GO-2 Electric Propulsion System fully to market,” Morpheus CEO Kevin Lausten told SpaceNews. “It’s about getting the product in the hands of our customers.” […]\nThe post Morpheus raises $15 million in Series A+ round appeared first on SpaceNews.",
+        "published": "2026-02-05T12:00:00.000Z",
+        "source": "SpaceNews",
+        "sourceKey": "spacenews",
+        "priority": 2,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "ceo",
+          "funding round"
+        ],
+        "category": "business"
+      },
+      {
         "title": "Tether Invests $100 Million in Crypto Bank Anchorage Digital",
         "link": "https://www.bloomberg.com/news/articles/2026-02-05/tether-invests-100-million-in-crypto-bank-anchorage-digital",
         "description": "Tether Holdings SA invested $100 million in Anchorage Digital Bank NA, boosting the federally charted crypto bank’s valuation to $4.2 billion.",
@@ -3015,6 +3077,20 @@
         "matchedKeywords": [
           "billion",
           "valuation"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "UK Space Agency CEO stepping down as agency folds into government",
+        "link": "https://spacenews.com/uk-space-agency-ceo-stepping-down-as-agency-folds-into-government/",
+        "description": "Paul Bate is stepping down as CEO of the UK Space Agency at the end of March as it transitions from a standalone body into the British government’s Department for Science, Innovation and Technology.\nThe post UK Space Agency CEO stepping down as agency folds into government appeared first on SpaceNews.",
+        "published": "2026-02-02T19:05:27.000Z",
+        "source": "SpaceNews",
+        "sourceKey": "spacenews",
+        "priority": 2,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "ceo"
         ],
         "category": "business"
       }
@@ -3032,21 +3108,6 @@
         "matchedKeywords": [
           "openai",
           "mistral"
-        ],
-        "category": "regulation"
-      },
-      {
-        "title": "Netflix says users can cancel service if HBO Max merger makes it too expensive ",
-        "link": "https://arstechnica.com/gadgets/2026/02/netflix-claims-subscribers-will-get-more-content-for-less-if-it-buys-hbo-max/",
-        "description": "Eighty percent of HBO Max subscribers subscribe to Netflix, Sarandos tells Senate.",
-        "published": "2026-02-03T23:41:39.000Z",
-        "source": "Ars Technica",
-        "sourceKey": "arstechnica",
-        "priority": 1,
-        "relevanceScore": 8,
-        "matchedKeywords": [
-          "netflix",
-          "merger"
         ],
         "category": "regulation"
       },
@@ -3201,5 +3262,5 @@
       }
     ]
   },
-  "totalArticles": 222
+  "totalArticles": 226
 }

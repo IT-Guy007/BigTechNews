@@ -4,8 +4,26 @@
   "title": "Monday, Feb 2",
   "dateRange": "February 2, 2026",
   "date": "2026-02-02",
-  "generatedAt": "2026-02-05T19:52:40.858Z",
+  "generatedAt": "2026-02-05T19:55:21.255Z",
   "highlights": [
+    {
+      "title": "SpaceX acquires xAI in bid to develop orbital data centers",
+      "link": "https://spacenews.com/spacex-acquires-xai-in-bid-to-develop-orbital-data-centers/",
+      "description": "SpaceX has acquired xAI, an artificial intelligence company also run by Elon Musk, as part of his effort to develop orbital data centers.\nThe post SpaceX acquires xAI in bid to develop orbital data centers appeared first on SpaceNews.",
+      "published": "2026-02-02T22:39:05.000Z",
+      "source": "SpaceNews",
+      "sourceKey": "spacenews",
+      "priority": 2,
+      "relevanceScore": 18,
+      "matchedKeywords": [
+        "spacex",
+        "intel",
+        "xai",
+        "acquires",
+        "elon musk"
+      ],
+      "category": "ai"
+    },
     {
       "title": "Waymo raises massive $16 billion round at $126 billion valuation, plans expansion to 20+ cities",
       "link": "https://electrek.co/2026/02/02/waymo-raises-16-billion-round-at-126-billion-valuation-plans-expansion/",
@@ -145,24 +163,199 @@
         "first ever"
       ],
       "category": "ev_autonomous"
-    },
-    {
-      "title": "Samsung’s Galaxy S26 Ultra will only include black or white S Pens, leaked image shows",
-      "link": "https://9to5google.com/2026/02/02/samsung-galaxy-s26-ultra-only-black-white-s-pen-leaked-image/",
-      "description": "The Galaxy S26 trio initially seemed like it might shake up Samsung’s usual status quo, but some stiff competition from Apple and a failed attempt to relaunch the Edge series seems to have thrown those original plans out the window. Now, it seems like the Galaxy S26 Ultra might be boring in a different way, as it appears to be losing out on its usual color-matching stylus for something a little more boardroom-friendly.\nmore…",
-      "published": "2026-02-02T15:10:00.000Z",
-      "source": "9to5Google",
-      "sourceKey": "9to5google",
-      "priority": 2,
-      "relevanceScore": 6,
-      "matchedKeywords": [
-        "apple",
-        "samsung"
-      ],
-      "category": "ai"
     }
   ],
   "byCategory": {
+    "ai": [
+      {
+        "title": "SpaceX acquires xAI in bid to develop orbital data centers",
+        "link": "https://spacenews.com/spacex-acquires-xai-in-bid-to-develop-orbital-data-centers/",
+        "description": "SpaceX has acquired xAI, an artificial intelligence company also run by Elon Musk, as part of his effort to develop orbital data centers.\nThe post SpaceX acquires xAI in bid to develop orbital data centers appeared first on SpaceNews.",
+        "published": "2026-02-02T22:39:05.000Z",
+        "source": "SpaceNews",
+        "sourceKey": "spacenews",
+        "priority": 2,
+        "relevanceScore": 18,
+        "matchedKeywords": [
+          "spacex",
+          "intel",
+          "xai",
+          "acquires",
+          "elon musk"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "OpenAI launches Codex app for macOS, here are the details",
+        "link": "https://9to5mac.com/2026/02/02/openai-launches-codex-app-for-macos-here-are-the-details/",
+        "description": "OpenAI has just launched a brand new Mac app: Codex, which it says is “the best way to build with agents.” Here are the details.\nmore…",
+        "published": "2026-02-02T18:27:42.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Samsung’s Galaxy S26 Ultra will only include black or white S Pens, leaked image shows",
+        "link": "https://9to5google.com/2026/02/02/samsung-galaxy-s26-ultra-only-black-white-s-pen-leaked-image/",
+        "description": "The Galaxy S26 trio initially seemed like it might shake up Samsung’s usual status quo, but some stiff competition from Apple and a failed attempt to relaunch the Edge series seems to have thrown those original plans out the window. Now, it seems like the Galaxy S26 Ultra might be boring in a different way, as it appears to be losing out on its usual color-matching stylus for something a little more boardroom-friendly.\nmore…",
+        "published": "2026-02-02T15:10:00.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "apple",
+          "samsung"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "9to5Mac Daily: February 2, 2026 – iPhone Flip and CarPlay rumors",
+        "link": "https://9to5mac.com/2026/02/02/daily-february-2-2026/",
+        "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Stuff: Stuff helps you get everything out of your head and into a simple, elegant system—closing open loops and reducing mental stress. Use code 9TO5 at checkout for 50% off your first year.\n\n\n\n\n more…",
+        "published": "2026-02-02T21:55:49.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google",
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple clears a major manufacturing hurdle in India amid regulatory tension",
+        "link": "https://9to5mac.com/2026/02/02/apple-clears-a-major-manufacturing-hurdle-in-india-amid-regulatory-tension/",
+        "description": "The Indian government approved a measure on Sunday that allows Apple to directly finance iPhone manufacturing equipment in India without risking additional taxes. Here are the details.\nmore…",
+        "published": "2026-02-02T21:46:49.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple just released new updates for old versions of iOS, macOS, watchOS, more",
+        "link": "https://9to5mac.com/2026/02/02/apple-just-released-new-updates-for-old-versions-of-ios-macos-watchos-more/",
+        "description": "Apple has just released a variety of new software updates for its devices, but they’re all for older versions of iOS, macOS, watchOS, and iPadOS. Here are the details.\nmore…",
+        "published": "2026-02-02T19:07:01.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple pulls select iOS updates due to connectivity issues [Updated]",
+        "link": "https://9to5mac.com/2026/02/02/apple-pulls-select-ios-updates-due-to-connectivity-issues/",
+        "description": "Update 2, February 2, 2026 10:10am PT: Apple has released iOS 16.7.14. \nUpdate 1, January 28, 3pm PT: As noted by Aaron Perris, Apple has started signing iOS 12.5.8, iOS 15.8.6, and iOS 18.7.4 again. iOS 16.7.13, however, remains unavailable.\nOriginal story (published January 28, 4:19am PT below): \nApple this week released an array of iOS updates, including iOS 26.2.1, iOS 18.7.4, and more.\nNow, however, it appears that Apple has pulled some of these new updates due to problems with network connectivity in Australia.\nmore…",
+        "published": "2026-02-02T18:11:02.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple TV unveils return of one of last year’s biggest hit series",
+        "link": "https://9to5mac.com/2026/02/02/apple-tv-unveils-your-friends-neighbors-season-2-return/",
+        "description": "Your Friends & Neighbors season 2 is coming soon, and Apple TV has just released the first trailer for the returning series—plus confirmed that season 3 is in the works.\nmore…",
+        "published": "2026-02-02T16:16:46.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Adobe Firefly offers unlimited image and video generations, third-party models included",
+        "link": "https://9to5mac.com/2026/02/02/adobe-firefly-offers-unlimited-image-and-video-generations-third-party-models-included/",
+        "description": "Adobe is removing generation limits from Firefly, giving subscribers unlimited image and video generations across both its own models and supported third-party AI models, but you have to act quick. Here are the details.\nmore…",
+        "published": "2026-02-02T14:00:56.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "adobe"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "What’s new in Android’s February 2026 Google System Updates ",
+        "link": "https://9to5google.com/2026/02/02/february-2026-google-system-updates/",
+        "description": "The monthly “Google System Release Notes” primarily detail what’s new in Play services, Play Store, and Play system update across Android phones/tablets, Wear OS, Google/Android TV, Auto, and PC. Some features apply to end users, while others are aimed at developers.\nmore…",
+        "published": "2026-02-02T22:53:15.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Google reduces Nest Cam ‘Video not available’ error with Home app 4.8",
+        "link": "https://9to5google.com/2026/02/02/nest-cam-video-not-available/",
+        "description": "Version 4.8 of the Google Home app widely rolled out today with a “foundational fix” for the “Video not available” error with Nest Cams. \nmore…",
+        "published": "2026-02-02T20:50:31.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Google Phone app rolls out ‘Keep portrait mode’ call setting on Android",
+        "link": "https://9to5google.com/2026/02/02/google-phone-keep-portrait-call-android/",
+        "description": "After testing in December, Phone by Google has now rolled out a “Keep portrait mode on calls” setting to prevent automatic landscape rotation. \nmore…",
+        "published": "2026-02-02T16:52:08.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Speechify adds celebrity voices to its AI Voice Assistant [U: ChatGPT integration]",
+        "link": "https://9to5mac.com/2026/02/02/speechify-adds-celebrity-voices-to-its-ai-voice-assistant/",
+        "description": "Update, 2:09 p.m. ET: Speechify also launched a ChatGPT integration today. See new details below.\nSpeechify’s AI Voice Assistant can now sound like celebrities, including Snoop Dogg, Gwyneth Paltrow, and MrBeast. Here are the details.\nmore…",
+        "published": "2026-02-02T14:00:29.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "chatgpt"
+        ],
+        "category": "ai"
+      }
+    ],
     "ev_autonomous": [
       {
         "title": "Waymo raises massive $16 billion round at $126 billion valuation, plans expansion to 20+ cities",
@@ -348,178 +541,20 @@
           "tim cook"
         ],
         "category": "business"
-      }
-    ],
-    "ai": [
-      {
-        "title": "OpenAI launches Codex app for macOS, here are the details",
-        "link": "https://9to5mac.com/2026/02/02/openai-launches-codex-app-for-macos-here-are-the-details/",
-        "description": "OpenAI has just launched a brand new Mac app: Codex, which it says is “the best way to build with agents.” Here are the details.\nmore…",
-        "published": "2026-02-02T18:27:42.000Z",
-        "source": "9to5Mac",
-        "sourceKey": "9to5mac",
-        "priority": 2,
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "openai"
-        ],
-        "category": "ai"
       },
       {
-        "title": "Samsung’s Galaxy S26 Ultra will only include black or white S Pens, leaked image shows",
-        "link": "https://9to5google.com/2026/02/02/samsung-galaxy-s26-ultra-only-black-white-s-pen-leaked-image/",
-        "description": "The Galaxy S26 trio initially seemed like it might shake up Samsung’s usual status quo, but some stiff competition from Apple and a failed attempt to relaunch the Edge series seems to have thrown those original plans out the window. Now, it seems like the Galaxy S26 Ultra might be boring in a different way, as it appears to be losing out on its usual color-matching stylus for something a little more boardroom-friendly.\nmore…",
-        "published": "2026-02-02T15:10:00.000Z",
-        "source": "9to5Google",
-        "sourceKey": "9to5google",
-        "priority": 2,
-        "relevanceScore": 6,
-        "matchedKeywords": [
-          "apple",
-          "samsung"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "9to5Mac Daily: February 2, 2026 – iPhone Flip and CarPlay rumors",
-        "link": "https://9to5mac.com/2026/02/02/daily-february-2-2026/",
-        "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Stuff: Stuff helps you get everything out of your head and into a simple, elegant system—closing open loops and reducing mental stress. Use code 9TO5 at checkout for 50% off your first year.\n\n\n\n\n more…",
-        "published": "2026-02-02T21:55:49.000Z",
-        "source": "9to5Mac",
-        "sourceKey": "9to5mac",
-        "priority": 2,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "google",
-          "apple"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Apple clears a major manufacturing hurdle in India amid regulatory tension",
-        "link": "https://9to5mac.com/2026/02/02/apple-clears-a-major-manufacturing-hurdle-in-india-amid-regulatory-tension/",
-        "description": "The Indian government approved a measure on Sunday that allows Apple to directly finance iPhone manufacturing equipment in India without risking additional taxes. Here are the details.\nmore…",
-        "published": "2026-02-02T21:46:49.000Z",
-        "source": "9to5Mac",
-        "sourceKey": "9to5mac",
-        "priority": 2,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Apple just released new updates for old versions of iOS, macOS, watchOS, more",
-        "link": "https://9to5mac.com/2026/02/02/apple-just-released-new-updates-for-old-versions-of-ios-macos-watchos-more/",
-        "description": "Apple has just released a variety of new software updates for its devices, but they’re all for older versions of iOS, macOS, watchOS, and iPadOS. Here are the details.\nmore…",
-        "published": "2026-02-02T19:07:01.000Z",
-        "source": "9to5Mac",
-        "sourceKey": "9to5mac",
-        "priority": 2,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Apple pulls select iOS updates due to connectivity issues [Updated]",
-        "link": "https://9to5mac.com/2026/02/02/apple-pulls-select-ios-updates-due-to-connectivity-issues/",
-        "description": "Update 2, February 2, 2026 10:10am PT: Apple has released iOS 16.7.14. \nUpdate 1, January 28, 3pm PT: As noted by Aaron Perris, Apple has started signing iOS 12.5.8, iOS 15.8.6, and iOS 18.7.4 again. iOS 16.7.13, however, remains unavailable.\nOriginal story (published January 28, 4:19am PT below): \nApple this week released an array of iOS updates, including iOS 26.2.1, iOS 18.7.4, and more.\nNow, however, it appears that Apple has pulled some of these new updates due to problems with network connectivity in Australia.\nmore…",
-        "published": "2026-02-02T18:11:02.000Z",
-        "source": "9to5Mac",
-        "sourceKey": "9to5mac",
-        "priority": 2,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Apple TV unveils return of one of last year’s biggest hit series",
-        "link": "https://9to5mac.com/2026/02/02/apple-tv-unveils-your-friends-neighbors-season-2-return/",
-        "description": "Your Friends & Neighbors season 2 is coming soon, and Apple TV has just released the first trailer for the returning series—plus confirmed that season 3 is in the works.\nmore…",
-        "published": "2026-02-02T16:16:46.000Z",
-        "source": "9to5Mac",
-        "sourceKey": "9to5mac",
-        "priority": 2,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Adobe Firefly offers unlimited image and video generations, third-party models included",
-        "link": "https://9to5mac.com/2026/02/02/adobe-firefly-offers-unlimited-image-and-video-generations-third-party-models-included/",
-        "description": "Adobe is removing generation limits from Firefly, giving subscribers unlimited image and video generations across both its own models and supported third-party AI models, but you have to act quick. Here are the details.\nmore…",
-        "published": "2026-02-02T14:00:56.000Z",
-        "source": "9to5Mac",
-        "sourceKey": "9to5mac",
-        "priority": 2,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "adobe"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "What’s new in Android’s February 2026 Google System Updates ",
-        "link": "https://9to5google.com/2026/02/02/february-2026-google-system-updates/",
-        "description": "The monthly “Google System Release Notes” primarily detail what’s new in Play services, Play Store, and Play system update across Android phones/tablets, Wear OS, Google/Android TV, Auto, and PC. Some features apply to end users, while others are aimed at developers.\nmore…",
-        "published": "2026-02-02T22:53:15.000Z",
-        "source": "9to5Google",
-        "sourceKey": "9to5google",
-        "priority": 2,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "google"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Google reduces Nest Cam ‘Video not available’ error with Home app 4.8",
-        "link": "https://9to5google.com/2026/02/02/nest-cam-video-not-available/",
-        "description": "Version 4.8 of the Google Home app widely rolled out today with a “foundational fix” for the “Video not available” error with Nest Cams. \nmore…",
-        "published": "2026-02-02T20:50:31.000Z",
-        "source": "9to5Google",
-        "sourceKey": "9to5google",
-        "priority": 2,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "google"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Google Phone app rolls out ‘Keep portrait mode’ call setting on Android",
-        "link": "https://9to5google.com/2026/02/02/google-phone-keep-portrait-call-android/",
-        "description": "After testing in December, Phone by Google has now rolled out a “Keep portrait mode on calls” setting to prevent automatic landscape rotation. \nmore…",
-        "published": "2026-02-02T16:52:08.000Z",
-        "source": "9to5Google",
-        "sourceKey": "9to5google",
-        "priority": 2,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "google"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Speechify adds celebrity voices to its AI Voice Assistant [U: ChatGPT integration]",
-        "link": "https://9to5mac.com/2026/02/02/speechify-adds-celebrity-voices-to-its-ai-voice-assistant/",
-        "description": "Update, 2:09 p.m. ET: Speechify also launched a ChatGPT integration today. See new details below.\nSpeechify’s AI Voice Assistant can now sound like celebrities, including Snoop Dogg, Gwyneth Paltrow, and MrBeast. Here are the details.\nmore…",
-        "published": "2026-02-02T14:00:29.000Z",
-        "source": "9to5Mac",
-        "sourceKey": "9to5mac",
+        "title": "UK Space Agency CEO stepping down as agency folds into government",
+        "link": "https://spacenews.com/uk-space-agency-ceo-stepping-down-as-agency-folds-into-government/",
+        "description": "Paul Bate is stepping down as CEO of the UK Space Agency at the end of March as it transitions from a standalone body into the British government’s Department for Science, Innovation and Technology.\nThe post UK Space Agency CEO stepping down as agency folds into government appeared first on SpaceNews.",
+        "published": "2026-02-02T19:05:27.000Z",
+        "source": "SpaceNews",
+        "sourceKey": "spacenews",
         "priority": 2,
         "relevanceScore": 3,
         "matchedKeywords": [
-          "chatgpt"
+          "ceo"
         ],
-        "category": "ai"
+        "category": "business"
       }
     ],
     "chips_cloud": [
@@ -570,5 +605,5 @@
       }
     ]
   },
-  "totalArticles": 29
+  "totalArticles": 31
 }

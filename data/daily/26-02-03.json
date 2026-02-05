@@ -4,7 +4,7 @@
   "title": "Tuesday, Feb 3",
   "dateRange": "February 3, 2026",
   "date": "2026-02-03",
-  "generatedAt": "2026-02-05T19:52:40.851Z",
+  "generatedAt": "2026-02-05T19:55:21.248Z",
   "highlights": [
     {
       "title": "xAI accused of destroying evidence in antitrust case against Apple and OpenAI",
@@ -91,21 +91,6 @@
       "category": "ai"
     },
     {
-      "title": "Netflix says users can cancel service if HBO Max merger makes it too expensive ",
-      "link": "https://arstechnica.com/gadgets/2026/02/netflix-claims-subscribers-will-get-more-content-for-less-if-it-buys-hbo-max/",
-      "description": "Eighty percent of HBO Max subscribers subscribe to Netflix, Sarandos tells Senate.",
-      "published": "2026-02-03T23:41:39.000Z",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "priority": 1,
-      "relevanceScore": 8,
-      "matchedKeywords": [
-        "netflix",
-        "merger"
-      ],
-      "category": "regulation"
-    },
-    {
       "title": " AMD CEO downplays PC memory crunch, saying 'our focus areas are enterprise' — company wants to focus on growing 'higher-end of the market' ",
       "link": "https://www.tomshardware.com/pc-components/cpus/amd-ceo-downplays-pc-memory-crunch-saying-our-focus-areas-are-enterprise-company-wants-to-focus-on-growing-higher-end-of-the-market",
       "description": "AMD's CEO doesn't seem concerned with current memory prices, suggesting the company is focusing its efforts on the enterprise.",
@@ -166,6 +151,21 @@
         "gpu"
       ],
       "category": "chips_cloud"
+    },
+    {
+      "title": "New Apple study shows how grouping similar sounds can speed up AI speech generation",
+      "link": "https://9to5mac.com/2026/02/02/new-apple-study-shows-how-grouping-similar-sounds-can-speed-up-ai-speech-generation/",
+      "description": "A group of Apple and Tel-Aviv University researchers figured out a way to speed up AI-based text-to-speech generation without sacrificing intelligibility. Here’s how they did it.\nmore…",
+      "published": "2026-02-03T00:04:53.000Z",
+      "source": "9to5Mac",
+      "sourceKey": "9to5mac",
+      "priority": 2,
+      "relevanceScore": 6,
+      "matchedKeywords": [
+        "apple",
+        "intel"
+      ],
+      "category": "ai"
     }
   ],
   "byCategory": {
@@ -400,23 +400,20 @@
           "data center"
         ],
         "category": "space"
-      }
-    ],
-    "regulation": [
+      },
       {
-        "title": "Netflix says users can cancel service if HBO Max merger makes it too expensive ",
-        "link": "https://arstechnica.com/gadgets/2026/02/netflix-claims-subscribers-will-get-more-content-for-less-if-it-buys-hbo-max/",
-        "description": "Eighty percent of HBO Max subscribers subscribe to Netflix, Sarandos tells Senate.",
-        "published": "2026-02-03T23:41:39.000Z",
-        "source": "Ars Technica",
-        "sourceKey": "arstechnica",
-        "priority": 1,
-        "relevanceScore": 8,
+        "title": "SpaceX pauses Falcon 9 launches after upper stage anomaly",
+        "link": "https://spacenews.com/spacex-pauses-falcon-9-launches-after-upper-stage-anomaly/",
+        "description": "SpaceX is pausing Falcon 9 launches after an issue with the rocket’s upper stage encountered at the end of a launch Feb. 2.\nThe post SpaceX pauses Falcon 9 launches after upper stage anomaly appeared first on SpaceNews.",
+        "published": "2026-02-03T12:29:06.000Z",
+        "source": "SpaceNews",
+        "sourceKey": "spacenews",
+        "priority": 2,
+        "relevanceScore": 4,
         "matchedKeywords": [
-          "netflix",
-          "merger"
+          "spacex"
         ],
-        "category": "regulation"
+        "category": "space"
       }
     ],
     "chips_cloud": [

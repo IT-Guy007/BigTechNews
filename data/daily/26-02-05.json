@@ -4,7 +4,7 @@
   "title": "Thursday, Feb 5",
   "dateRange": "February 5, 2026",
   "date": "2026-02-05",
-  "generatedAt": "2026-02-05T19:52:40.813Z",
+  "generatedAt": "2026-02-05T19:55:21.210Z",
   "highlights": [
     {
       "title": "Anthropic's Claude Opus 4.6 brings 1M token context and 'agent teams' to take on OpenAI's Codex",
@@ -918,6 +918,20 @@
         "category": "ai"
       },
       {
+        "title": "Neocities founder stuck in chatbot hell after Bing blocked 1.5 million sites",
+        "link": "https://arstechnica.com/tech-policy/2026/02/neocities-founder-stuck-in-chatbot-hell-after-bing-blocked-1-5m-sites/",
+        "description": "Microsoft won’t explain why Bing blocked 1.5 million Neocities websites.",
+        "published": "2026-02-05T19:32:28.000Z",
+        "source": "Ars Technica",
+        "sourceKey": "arstechnica",
+        "priority": 1,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "microsoft"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "Hollywood Is Losing Audiences to AI Fatigue",
         "link": "https://www.wired.com/story/hollywood-is-losing-audiences-to-ai-fatigue/",
         "description": "Entertainment about or made with artificial intelligence has been missing the mark with viewers over the past year.",
@@ -1130,6 +1144,21 @@
         "matchedKeywords": [
           "ipo",
           "billion"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Morpheus raises $15 million in Series A+ round",
+        "link": "https://spacenews.com/morpheus-raises-15-million-in-series-a-round/",
+        "description": "SAN FRANCISCO — Morpheus Space raised $15 million in a Series A+ funding round announced Feb. 5. “This funding is intended to accelerate our production as we focus on bringing our GO-2 Electric Propulsion System fully to market,” Morpheus CEO Kevin Lausten told SpaceNews. “It’s about getting the product in the hands of our customers.” […]\nThe post Morpheus raises $15 million in Series A+ round appeared first on SpaceNews.",
+        "published": "2026-02-05T12:00:00.000Z",
+        "source": "SpaceNews",
+        "sourceKey": "spacenews",
+        "priority": 2,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "ceo",
+          "funding round"
         ],
         "category": "business"
       },
@@ -1684,5 +1713,5 @@
       }
     ]
   },
-  "totalArticles": 105
+  "totalArticles": 107
 }
