@@ -1,6 +1,11 @@
 name: Big Tech News Digest
 
 on:
+  # Deploy on push to main
+  push:
+    branches:
+      - main
+  
   # Run daily at 6:30 UTC (7:30 CET / 8:30 CEST - before 9am Amsterdam)
   schedule:
     - cron: '30 6 * * *'

@@ -4,7 +4,7 @@
   "title": "Thursday, Feb 5",
   "dateRange": "February 5, 2026",
   "date": "2026-02-05",
-  "generatedAt": "2026-02-05T19:55:21.210Z",
+  "generatedAt": "2026-02-05T20:10:11.474Z",
   "highlights": [
     {
       "title": "Anthropic's Claude Opus 4.6 brings 1M token context and 'agent teams' to take on OpenAI's Codex",
@@ -14,6 +14,7 @@
       "source": "VentureBeat",
       "sourceKey": "venturebeat",
       "priority": 1,
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6VZH0g5VVs4i2b3mzTbaBl/597421e821b883c701decfb8aa3e542f/nuneybits_Hyper-realistic_image_of_a_retro_computer_with_a_glos_2bc491e9-a44d-4d0a-af61-2d6afdf3245f.webp?w=300&q=30",
       "relevanceScore": 24,
       "matchedKeywords": [
         "openai",
@@ -32,6 +33,7 @@
       "source": "VentureBeat",
       "sourceKey": "venturebeat",
       "priority": 1,
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6q6j5Utl7RXyCii94E9E0s/41571560192bd7474ad2be7d00de8e9b/nuneybits_Hyper-realistic_image_of_modern_Apple_iMac_computer_m_3c0cd8a7-3a95-4f7c-a7b1-c9917ee2c56a.webp?w=300&q=30",
       "relevanceScore": 21,
       "matchedKeywords": [
         "openai",
@@ -49,6 +51,7 @@
       "source": "Ars Technica",
       "sourceKey": "arstechnica",
       "priority": 1,
+      "image": null,
       "relevanceScore": 18,
       "matchedKeywords": [
         "openai",
@@ -65,6 +68,7 @@
       "source": "9to5Mac",
       "sourceKey": "9to5mac",
       "priority": 2,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-intelligence-gemini.jpg?quality=82&#038;strip=all&#038;w=1600",
       "relevanceScore": 18,
       "matchedKeywords": [
         "google",
@@ -76,6 +80,24 @@
       "category": "ai"
     },
     {
+      "title": "Anthropic Promises Claude Will Remain Ad-Free, Mocks ChatGPT Ads in Super Bowl Commercial",
+      "link": "https://www.macrumors.com/2026/02/04/anthropic-clause-no-ads/",
+      "description": "As OpenAI is making plans to introduce ads to ChatGPT, competitor Anthropic has promised to keep Claude ad-free. In a blog post today, the company said that there are \"many good places for advertising,\" but a \"conversation with Claude is not one of them.\"\r\n\r\n\r\nAccording to Anthropic, including ads in Claude would not be in line with its mission of creating a helpful assistant for work and deep thinking. Anthropic claims that users should not need to second-guess whether an AI is being helpful or \"subtly steering the conversation towards something monetizable.\"\r\n\r\nThere will be no ads or sponsored links in conversations with Claude, and Claude's responses will not be influenced by advertisers or include third-party product placements.\r\nOur analysis of conversations with Claude (conducted in a way that keeps all data private and anonymous) shows that an appreciable portion involve topics that are sensitive or deeply personal--the kinds of conversations you might have with a trusted advisor. Many other uses involve complex software engineering tasks, deep work, or thinking through difficult problems. The appearance of ads in these contexts would feel incongruous--and, in many cases, inappropriate.\n\r\nPromising an ad-free experience could encourage people to choose Claude over OpenAI's ChatGPT. In January, OpenAI said that it would start testing ads in the United States for free and Go tier subscribers, though subscribers with higher paid tiers will not see ads. OpenAI claims that ads will be clearly labeled and will not influence the answers that ChatGPT provides, nor will the company provide conversation details to advertisers.\r\n\r\nTo further reinforce the difference between Claude's ad-free experience and ChatGPT's ad-supported experience, Anthropic plans to run a humorous Super Bowl commercial where a man gets an unwanted cougar dating ad after asking about his mother. \"Ads are coming to AI,\" reads the video's text. \"But not to Claude.\"\r\n\r\n\n\r\nAnthropic plans to continue to monetize through enterprise contracts and paid subscriptions, with revenue reinvested in improving Claude. Anthropic will maintain a free tier, and the company says that it may also offer lower-cost subscription tiers and regional pricing in the future if there is demand for it. Claude Pro is priced at $20 per month, which is the same price as ChatGPT's higher-end Plus tier.\r\n\r\nTags: Anthropic, ChatGPT, OpenAI\nThis article, \"Anthropic Promises Claude Will Remain Ad-Free, Mocks ChatGPT Ads in Super Bowl Commercial\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+      "published": "2026-02-04T23:31:03.000Z",
+      "source": "MacRumors",
+      "sourceKey": "macrumors",
+      "priority": 2,
+      "image": "https://images.macrumors.com/article-new/2025/09/anthopic-claude.jpg",
+      "relevanceScore": 18,
+      "matchedKeywords": [
+        "openai",
+        "anthropic",
+        "chatgpt",
+        "claude"
+      ],
+      "category": "ai"
+    },
+    {
       "title": "OpenAI launches new enterprise platform in bid to win more business customers",
       "link": "https://www.cnbc.com/2026/02/05/open-ai-frontier-enterprise-customers.html",
       "description": "Frontier can work with OpenAI agents, enterprise-build agents, as well as agents from third parties like Google, Microsoft and Anthropic.",
@@ -83,6 +105,7 @@
       "source": "CNBC",
       "sourceKey": "cnbc_tech",
       "priority": 1,
+      "image": null,
       "relevanceScore": 17,
       "matchedKeywords": [
         "google",
@@ -100,6 +123,7 @@
       "source": "The Verge",
       "sourceKey": "theverge",
       "priority": 1,
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24008751/acastro_STK099_NFL_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "relevanceScore": 16,
       "matchedKeywords": [
         "google",
@@ -117,11 +141,28 @@
       "source": "CNBC",
       "sourceKey": "cnbc_tech",
       "priority": 1,
+      "image": null,
       "relevanceScore": 16,
       "matchedKeywords": [
         "openai",
         "anthropic",
         "chatgpt"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "OpenAI launches new agentic coding model only minutes after Anthropic drops its own",
+      "link": "https://techcrunch.com/2026/02/05/openai-launches-new-agentic-coding-model-only-minutes-after-anthropic-drops-its-own/",
+      "description": "The new model is build to accelerate the capabilities of Codex, the agentic coding tool OpenAI launched earlier this week.",
+      "published": "2026-02-05T20:01:39.000Z",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 15,
+      "matchedKeywords": [
+        "openai",
+        "anthropic"
       ],
       "category": "ai"
     },
@@ -133,46 +174,13 @@
       "source": "The Register",
       "sourceKey": "theregister",
       "priority": 2,
+      "image": null,
       "relevanceScore": 14,
       "matchedKeywords": [
         "openai",
         "anthropic"
       ],
       "category": "ai"
-    },
-    {
-      "title": "ElevenLabs CEO: Voice is the next interface for AI",
-      "link": "https://techcrunch.com/2026/02/05/elevenlabs-ceo-voice-is-the-next-interface-for-ai/",
-      "description": "ElevenLabs CEO argued at Web Summit Qatar that voice is the next interface for AI, as OpenAI, Google, and Apple push conversational systems into wearables, new hardware, and everyday interactions.",
-      "published": "2026-02-05T14:41:12.000Z",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "priority": 1,
-      "relevanceScore": 13,
-      "matchedKeywords": [
-        "google",
-        "apple",
-        "openai",
-        "ceo"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": "Zuckerberg considered changing how Meta studies social issues after research got it in trouble",
-      "link": "https://www.theverge.com/report/874176/meta-zuckerberg-new-mexico-email-teen-girls-research",
-      "description": "One day after The Wall Street Journal published a blockbuster story about Meta's own dismal findings about teen girls' mental health on Instagram, CEO Mark Zuckerberg wondered whether Meta should change how it studies its platforms' potential harms.\n\"Recent events have made me consider whether we should change our approach to research and analytics around social issues,\" Zuckerberg wrote in a September 15th, 2021, email to top executives including then-COO Sheryl Sandberg and head of global affairs Nick Clegg. The day before, the Journal published a story based on documents obtained from a whistleblower later revealed to be Frances Haugen,  …\nRead the full story at The Verge.",
-      "published": "2026-02-05T19:10:35.000Z",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "priority": 1,
-      "relevanceScore": 13,
-      "matchedKeywords": [
-        "meta",
-        "arm",
-        "ceo",
-        "mark zuckerberg"
-      ],
-      "category": "business"
     }
   ],
   "byCategory": {
@@ -185,6 +193,7 @@
         "source": "VentureBeat",
         "sourceKey": "venturebeat",
         "priority": 1,
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6VZH0g5VVs4i2b3mzTbaBl/597421e821b883c701decfb8aa3e542f/nuneybits_Hyper-realistic_image_of_a_retro_computer_with_a_glos_2bc491e9-a44d-4d0a-af61-2d6afdf3245f.webp?w=300&q=30",
         "relevanceScore": 24,
         "matchedKeywords": [
           "openai",
@@ -203,6 +212,7 @@
         "source": "VentureBeat",
         "sourceKey": "venturebeat",
         "priority": 1,
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6q6j5Utl7RXyCii94E9E0s/41571560192bd7474ad2be7d00de8e9b/nuneybits_Hyper-realistic_image_of_modern_Apple_iMac_computer_m_3c0cd8a7-3a95-4f7c-a7b1-c9917ee2c56a.webp?w=300&q=30",
         "relevanceScore": 21,
         "matchedKeywords": [
           "openai",
@@ -220,6 +230,7 @@
         "source": "Ars Technica",
         "sourceKey": "arstechnica",
         "priority": 1,
+        "image": null,
         "relevanceScore": 18,
         "matchedKeywords": [
           "openai",
@@ -236,6 +247,7 @@
         "source": "9to5Mac",
         "sourceKey": "9to5mac",
         "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-intelligence-gemini.jpg?quality=82&#038;strip=all&#038;w=1600",
         "relevanceScore": 18,
         "matchedKeywords": [
           "google",
@@ -247,6 +259,24 @@
         "category": "ai"
       },
       {
+        "title": "Anthropic Promises Claude Will Remain Ad-Free, Mocks ChatGPT Ads in Super Bowl Commercial",
+        "link": "https://www.macrumors.com/2026/02/04/anthropic-clause-no-ads/",
+        "description": "As OpenAI is making plans to introduce ads to ChatGPT, competitor Anthropic has promised to keep Claude ad-free. In a blog post today, the company said that there are \"many good places for advertising,\" but a \"conversation with Claude is not one of them.\"\r\n\r\n\r\nAccording to Anthropic, including ads in Claude would not be in line with its mission of creating a helpful assistant for work and deep thinking. Anthropic claims that users should not need to second-guess whether an AI is being helpful or \"subtly steering the conversation towards something monetizable.\"\r\n\r\nThere will be no ads or sponsored links in conversations with Claude, and Claude's responses will not be influenced by advertisers or include third-party product placements.\r\nOur analysis of conversations with Claude (conducted in a way that keeps all data private and anonymous) shows that an appreciable portion involve topics that are sensitive or deeply personal--the kinds of conversations you might have with a trusted advisor. Many other uses involve complex software engineering tasks, deep work, or thinking through difficult problems. The appearance of ads in these contexts would feel incongruous--and, in many cases, inappropriate.\n\r\nPromising an ad-free experience could encourage people to choose Claude over OpenAI's ChatGPT. In January, OpenAI said that it would start testing ads in the United States for free and Go tier subscribers, though subscribers with higher paid tiers will not see ads. OpenAI claims that ads will be clearly labeled and will not influence the answers that ChatGPT provides, nor will the company provide conversation details to advertisers.\r\n\r\nTo further reinforce the difference between Claude's ad-free experience and ChatGPT's ad-supported experience, Anthropic plans to run a humorous Super Bowl commercial where a man gets an unwanted cougar dating ad after asking about his mother. \"Ads are coming to AI,\" reads the video's text. \"But not to Claude.\"\r\n\r\n\n\r\nAnthropic plans to continue to monetize through enterprise contracts and paid subscriptions, with revenue reinvested in improving Claude. Anthropic will maintain a free tier, and the company says that it may also offer lower-cost subscription tiers and regional pricing in the future if there is demand for it. Claude Pro is priced at $20 per month, which is the same price as ChatGPT's higher-end Plus tier.\r\n\r\nTags: Anthropic, ChatGPT, OpenAI\nThis article, \"Anthropic Promises Claude Will Remain Ad-Free, Mocks ChatGPT Ads in Super Bowl Commercial\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-02-04T23:31:03.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2025/09/anthopic-claude.jpg",
+        "relevanceScore": 18,
+        "matchedKeywords": [
+          "openai",
+          "anthropic",
+          "chatgpt",
+          "claude"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "OpenAI launches new enterprise platform in bid to win more business customers",
         "link": "https://www.cnbc.com/2026/02/05/open-ai-frontier-enterprise-customers.html",
         "description": "Frontier can work with OpenAI agents, enterprise-build agents, as well as agents from third parties like Google, Microsoft and Anthropic.",
@@ -254,6 +284,7 @@
         "source": "CNBC",
         "sourceKey": "cnbc_tech",
         "priority": 1,
+        "image": null,
         "relevanceScore": 17,
         "matchedKeywords": [
           "google",
@@ -271,6 +302,7 @@
         "source": "The Verge",
         "sourceKey": "theverge",
         "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24008751/acastro_STK099_NFL_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "relevanceScore": 16,
         "matchedKeywords": [
           "google",
@@ -288,11 +320,28 @@
         "source": "CNBC",
         "sourceKey": "cnbc_tech",
         "priority": 1,
+        "image": null,
         "relevanceScore": 16,
         "matchedKeywords": [
           "openai",
           "anthropic",
           "chatgpt"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "OpenAI launches new agentic coding model only minutes after Anthropic drops its own",
+        "link": "https://techcrunch.com/2026/02/05/openai-launches-new-agentic-coding-model-only-minutes-after-anthropic-drops-its-own/",
+        "description": "The new model is build to accelerate the capabilities of Codex, the agentic coding tool OpenAI launched earlier this week.",
+        "published": "2026-02-05T20:01:39.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 15,
+        "matchedKeywords": [
+          "openai",
+          "anthropic"
         ],
         "category": "ai"
       },
@@ -304,6 +353,7 @@
         "source": "The Register",
         "sourceKey": "theregister",
         "priority": 2,
+        "image": null,
         "relevanceScore": 14,
         "matchedKeywords": [
           "openai",
@@ -319,6 +369,7 @@
         "source": "TechCrunch",
         "sourceKey": "techcrunch",
         "priority": 1,
+        "image": null,
         "relevanceScore": 13,
         "matchedKeywords": [
           "google",
@@ -336,6 +387,7 @@
         "source": "The Verge",
         "sourceKey": "theverge",
         "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_B_e941dd.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "relevanceScore": 11,
         "matchedKeywords": [
           "anthropic",
@@ -351,6 +403,7 @@
         "source": "Engadget",
         "sourceKey": "engadget",
         "priority": 2,
+        "image": null,
         "relevanceScore": 11,
         "matchedKeywords": [
           "meta",
@@ -367,6 +420,7 @@
         "source": "CNBC",
         "sourceKey": "cnbc_tech",
         "priority": 1,
+        "image": null,
         "relevanceScore": 11,
         "matchedKeywords": [
           "anthropic",
@@ -382,6 +436,7 @@
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
         "priority": 1,
+        "image": null,
         "relevanceScore": 11,
         "matchedKeywords": [
           "anthropic",
@@ -397,6 +452,7 @@
         "source": "CNBC",
         "sourceKey": "cnbc_tech",
         "priority": 1,
+        "image": null,
         "relevanceScore": 10,
         "matchedKeywords": [
           "alphabet",
@@ -413,6 +469,7 @@
         "source": "9to5Mac",
         "sourceKey": "9to5mac",
         "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/Claude-Opus-4.6-in-PowerPoint.webp?w=1600",
         "relevanceScore": 10,
         "matchedKeywords": [
           "anthropic",
@@ -428,6 +485,7 @@
         "source": "MacRumors",
         "sourceKey": "macrumors",
         "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2023/05/Tim-Cook-MacBook-16x9.jpeg",
         "relevanceScore": 10,
         "matchedKeywords": [
           "apple",
@@ -444,6 +502,7 @@
         "source": "The Verge",
         "sourceKey": "theverge",
         "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268317_Claude_has_been_having_a_moment_%E2%80%94-can_it_keep_it_up__CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "relevanceScore": 9,
         "matchedKeywords": [
           "anthropic",
@@ -459,6 +518,7 @@
         "source": "CNBC",
         "sourceKey": "cnbc_tech",
         "priority": 1,
+        "image": null,
         "relevanceScore": 9,
         "matchedKeywords": [
           "google",
@@ -474,6 +534,7 @@
         "source": "CNBC",
         "sourceKey": "cnbc_tech",
         "priority": 1,
+        "image": null,
         "relevanceScore": 9,
         "matchedKeywords": [
           "google",
@@ -489,6 +550,7 @@
         "source": "TechCrunch",
         "sourceKey": "techcrunch",
         "priority": 1,
+        "image": null,
         "relevanceScore": 8,
         "matchedKeywords": [
           "openai"
@@ -503,9 +565,26 @@
         "source": "TechCrunch",
         "sourceKey": "techcrunch",
         "priority": 1,
+        "image": null,
         "relevanceScore": 8,
         "matchedKeywords": [
           "anthropic"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Qualcomm stock sinks as memory shortage drags on forecast",
+        "link": "https://www.cnbc.com/2026/02/04/qualcomm-qcom-q1-2026-earnings.html",
+        "description": "\"We're starting to see that memory is going to define the size of the mobile market,\" Qualcomm CEO Cristiano Amon said in an interview.",
+        "published": "2026-02-04T23:26:18.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "qualcomm",
+          "ceo"
         ],
         "category": "ai"
       },
@@ -517,6 +596,7 @@
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
         "priority": 1,
+        "image": null,
         "relevanceScore": 8,
         "matchedKeywords": [
           "anthropic"
@@ -531,6 +611,7 @@
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
         "priority": 1,
+        "image": null,
         "relevanceScore": 8,
         "matchedKeywords": [
           "openai"
@@ -545,6 +626,7 @@
         "source": "TechCrunch",
         "sourceKey": "techcrunch",
         "priority": 1,
+        "image": null,
         "relevanceScore": 7,
         "matchedKeywords": [
           "cohere",
@@ -561,6 +643,7 @@
         "source": "TechCrunch",
         "sourceKey": "techcrunch",
         "priority": 1,
+        "image": null,
         "relevanceScore": 7,
         "matchedKeywords": [
           "claude",
@@ -576,6 +659,7 @@
         "source": "9to5Google",
         "sourceKey": "9to5google",
         "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Google-Gemini-Super-Bowl-2026-cover.jpg?quality=82&#038;strip=all&#038;w=1600",
         "relevanceScore": 7,
         "matchedKeywords": [
           "google",
@@ -591,6 +675,7 @@
         "source": "Wired",
         "sourceKey": "wired",
         "priority": 2,
+        "image": null,
         "relevanceScore": 6,
         "matchedKeywords": [
           "apple",
@@ -607,6 +692,7 @@
         "source": "CNBC",
         "sourceKey": "cnbc_tech",
         "priority": 1,
+        "image": null,
         "relevanceScore": 6,
         "matchedKeywords": [
           "alphabet",
@@ -622,6 +708,7 @@
         "source": "CNBC",
         "sourceKey": "cnbc_tech",
         "priority": 1,
+        "image": null,
         "relevanceScore": 6,
         "matchedKeywords": [
           "anthropic"
@@ -636,6 +723,7 @@
         "source": "9to5Mac",
         "sourceKey": "9to5mac",
         "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/Heres-how-Apple-may-protect-the-display-of-the-iPhone-Fold.jpg?quality=82&#038;strip=all&#038;w=1600",
         "relevanceScore": 6,
         "matchedKeywords": [
           "apple",
@@ -651,6 +739,7 @@
         "source": "TechCrunch",
         "sourceKey": "techcrunch",
         "priority": 1,
+        "image": null,
         "relevanceScore": 5,
         "matchedKeywords": [
           "meta"
@@ -665,9 +754,25 @@
         "source": "TechCrunch",
         "sourceKey": "techcrunch",
         "priority": 1,
+        "image": null,
         "relevanceScore": 5,
         "matchedKeywords": [
           "google"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Stripe alumni raise €30M Series A for Duna, backed by Stripe and Adyen execs",
+        "link": "https://techcrunch.com/2026/02/04/stripe-alumni-raise-e30m-series-a-for-duna-backed-by-stripe-and-adyen-execs/",
+        "description": "Having raised a €30 million Series A round led by CapitalG, business identity verification startup Duna is now among the most well-capitalized European startups founded by Stripe alumni.",
+        "published": "2026-02-04T23:49:18.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "stripe"
         ],
         "category": "ai"
       },
@@ -679,6 +784,7 @@
         "source": "Engadget",
         "sourceKey": "engadget",
         "priority": 2,
+        "image": null,
         "relevanceScore": 5,
         "matchedKeywords": [
           "nvidia",
@@ -694,6 +800,7 @@
         "source": "Engadget",
         "sourceKey": "engadget",
         "priority": 2,
+        "image": null,
         "relevanceScore": 5,
         "matchedKeywords": [
           "meta",
@@ -709,6 +816,7 @@
         "source": "Ars Technica",
         "sourceKey": "arstechnica",
         "priority": 1,
+        "image": null,
         "relevanceScore": 5,
         "matchedKeywords": [
           "google"
@@ -723,6 +831,7 @@
         "source": "Ars Technica",
         "sourceKey": "arstechnica",
         "priority": 1,
+        "image": null,
         "relevanceScore": 5,
         "matchedKeywords": [
           "arm"
@@ -737,6 +846,7 @@
         "source": "CNBC",
         "sourceKey": "cnbc_tech",
         "priority": 1,
+        "image": null,
         "relevanceScore": 5,
         "matchedKeywords": [
           "alphabet"
@@ -751,6 +861,7 @@
         "source": "VentureBeat",
         "sourceKey": "venturebeat",
         "priority": 1,
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/xQAJrXCEqJVZZ8XR58deG/1ee37fb8b0f2e5073789a90cd3349caa/3TAB6GEYAOuK63Z49gVbh_7rJTLGX7.png?w=300&q=30",
         "relevanceScore": 5,
         "matchedKeywords": [
           "deep learning",
@@ -768,6 +879,7 @@
         "source": "9to5Mac",
         "sourceKey": "9to5mac",
         "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/09/tim-cook-apple-event-oct.jpg?quality=82&#038;strip=all&#038;w=1600",
         "relevanceScore": 5,
         "matchedKeywords": [
           "apple",
@@ -783,6 +895,7 @@
         "source": "CNBC",
         "sourceKey": "cnbc_tech",
         "priority": 1,
+        "image": null,
         "relevanceScore": 4,
         "matchedKeywords": [
           "intel",
@@ -798,6 +911,7 @@
         "source": "9to5Mac",
         "sourceKey": "9to5mac",
         "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-tv-peacock-bundle.jpg?quality=82&#038;strip=all&#038;w=1600",
         "relevanceScore": 4,
         "matchedKeywords": [
           "apple"
@@ -812,6 +926,7 @@
         "source": "9to5Mac",
         "sourceKey": "9to5mac",
         "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
         "relevanceScore": 4,
         "matchedKeywords": [
           "google",
@@ -827,6 +942,7 @@
         "source": "9to5Mac",
         "sourceKey": "9to5mac",
         "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/civilization-VII-apple-arcade.jpg?quality=82&#038;strip=all&#038;w=1600",
         "relevanceScore": 4,
         "matchedKeywords": [
           "apple"
@@ -841,6 +957,7 @@
         "source": "MacRumors",
         "sourceKey": "macrumors",
         "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2025/08/iPad-Pro-2024-vs-Air-2024-Feature.jpg",
         "relevanceScore": 4,
         "matchedKeywords": [
           "apple"
@@ -855,6 +972,7 @@
         "source": "MacRumors",
         "sourceKey": "macrumors",
         "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2025/03/Foldable-iPhone-2023-Feature-Iridescent-1.jpg",
         "relevanceScore": 4,
         "matchedKeywords": [
           "apple"
@@ -869,6 +987,7 @@
         "source": "9to5Google",
         "sourceKey": "9to5google",
         "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/11/airdrop-quick-share-pixel-10.jpg?quality=82&#038;strip=all&#038;w=1600",
         "relevanceScore": 4,
         "matchedKeywords": [
           "google"
@@ -883,6 +1002,7 @@
         "source": "The Register",
         "sourceKey": "theregister",
         "priority": 2,
+        "image": null,
         "relevanceScore": 4,
         "matchedKeywords": [
           "microsoft"
@@ -897,6 +1017,7 @@
         "source": "The Register",
         "sourceKey": "theregister",
         "priority": 2,
+        "image": null,
         "relevanceScore": 4,
         "matchedKeywords": [
           "microsoft"
@@ -911,6 +1032,7 @@
         "source": "The Register",
         "sourceKey": "theregister",
         "priority": 2,
+        "image": null,
         "relevanceScore": 4,
         "matchedKeywords": [
           "qualcomm"
@@ -925,6 +1047,7 @@
         "source": "Ars Technica",
         "sourceKey": "arstechnica",
         "priority": 1,
+        "image": null,
         "relevanceScore": 3,
         "matchedKeywords": [
           "microsoft"
@@ -939,6 +1062,7 @@
         "source": "Wired",
         "sourceKey": "wired",
         "priority": 2,
+        "image": null,
         "relevanceScore": 3,
         "matchedKeywords": [
           "intel",
@@ -954,6 +1078,7 @@
         "source": "MacRumors",
         "sourceKey": "macrumors",
         "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/01/Second-Generation-AirTag-Feature-Purple.jpg",
         "relevanceScore": 3,
         "matchedKeywords": [
           "apple",
@@ -969,6 +1094,7 @@
         "source": "Tom's Hardware",
         "sourceKey": "tomshardware",
         "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/3nVy6PgRqeCbLk2BiLxR5W-1280-80.jpg",
         "relevanceScore": 3,
         "matchedKeywords": [
           "samsung",
@@ -984,6 +1110,7 @@
         "source": "CoinDesk",
         "sourceKey": "coindesk",
         "priority": 3,
+        "image": null,
         "relevanceScore": 3,
         "matchedKeywords": [
           "gemini"
@@ -1000,6 +1127,7 @@
         "source": "The Verge",
         "sourceKey": "theverge",
         "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546248/STK169_Mark_Zuckerburg_CVIRGINIA_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "relevanceScore": 13,
         "matchedKeywords": [
           "meta",
@@ -1017,6 +1145,7 @@
         "source": "Wired",
         "sourceKey": "wired",
         "priority": 2,
+        "image": null,
         "relevanceScore": 10,
         "matchedKeywords": [
           "netflix",
@@ -1033,6 +1162,7 @@
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
         "priority": 1,
+        "image": null,
         "relevanceScore": 10,
         "matchedKeywords": [
           "microsoft",
@@ -1049,6 +1179,7 @@
         "source": "9to5Mac",
         "sourceKey": "9to5mac",
         "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/Three-ways-Apple-achieved-the-best-iPhone-sales-in-history-in-China.jpg?quality=82&#038;strip=all&#038;w=1600",
         "relevanceScore": 10,
         "matchedKeywords": [
           "apple",
@@ -1061,10 +1192,11 @@
         "title": "Amazon set to report earnings with AI spend, cloud growth, job cuts in focus",
         "link": "https://www.cnbc.com/2026/02/05/amazon-amzn-q4-earnings-report-2025.html",
         "description": "Investors are expected to focus on cloud growth, AI spending and the recent layoffs in Amazon's corporate workforce.",
-        "published": "2026-02-05T17:00:01.000Z",
+        "published": "2026-02-05T20:03:50.000Z",
         "source": "CNBC",
         "sourceKey": "cnbc_tech",
         "priority": 1,
+        "image": null,
         "relevanceScore": 9,
         "matchedKeywords": [
           "amazon",
@@ -1080,6 +1212,7 @@
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
         "priority": 1,
+        "image": null,
         "relevanceScore": 8,
         "matchedKeywords": [
           "apple",
@@ -1095,25 +1228,11 @@
         "source": "9to5Mac",
         "sourceKey": "9to5mac",
         "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&#038;strip=all&#038;w=1600",
         "relevanceScore": 8,
         "matchedKeywords": [
           "apple",
           "acquisition"
-        ],
-        "category": "business"
-      },
-      {
-        "title": "Google parent beats on revenue, projects significant AI spending increase ",
-        "link": "https://www.cnbc.com/2026/02/04/alphabet-googl-q4-2025-earnings.html",
-        "description": "Alphabet beat on the top and bottom lines in its fourth-quarter earnings report, and said it expects to significantly increase spending on AI in 2026.",
-        "published": "2026-02-05T00:18:21.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_tech",
-        "priority": 1,
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "google",
-          "alphabet"
         ],
         "category": "business"
       },
@@ -1125,6 +1244,7 @@
         "source": "9to5Google",
         "sourceKey": "9to5google",
         "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/01/realme-p4-power-2.jpg?quality=82&#038;strip=all&#038;w=1600",
         "relevanceScore": 7,
         "matchedKeywords": [
           "merger",
@@ -1140,6 +1260,7 @@
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
         "priority": 1,
+        "image": null,
         "relevanceScore": 6,
         "matchedKeywords": [
           "ipo",
@@ -1155,6 +1276,7 @@
         "source": "SpaceNews",
         "sourceKey": "spacenews",
         "priority": 2,
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/rsz_go-2_11_25.jpg?fit=879%2C586&amp;ssl=1",
         "relevanceScore": 4,
         "matchedKeywords": [
           "ceo",
@@ -1170,6 +1292,7 @@
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
         "priority": 1,
+        "image": null,
         "relevanceScore": 3,
         "matchedKeywords": [
           "billion",
@@ -1187,6 +1310,7 @@
         "source": "The Verge",
         "sourceKey": "theverge",
         "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268319_Waymos_school_bus_problem_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "relevanceScore": 11,
         "matchedKeywords": [
           "alphabet",
@@ -1204,6 +1328,7 @@
         "source": "9to5Mac",
         "sourceKey": "9to5mac",
         "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/elon-musk-tesla-meeting-1.jpg?quality=82&#038;strip=all&#038;w=1600",
         "relevanceScore": 11,
         "matchedKeywords": [
           "apple",
@@ -1220,6 +1345,7 @@
         "source": "Electrek",
         "sourceKey": "electrek",
         "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2025/06/tesla-robotaxi-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
         "relevanceScore": 8,
         "matchedKeywords": [
           "tesla",
@@ -1235,6 +1361,7 @@
         "source": "The Verge",
         "sourceKey": "theverge",
         "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25480192/247141_NOTEPAD_X_BOX_CVIRGINIA.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "relevanceScore": 6,
         "matchedKeywords": [
           "microsoft",
@@ -1250,6 +1377,7 @@
         "source": "Ars Technica",
         "sourceKey": "arstechnica",
         "priority": 1,
+        "image": null,
         "relevanceScore": 5,
         "matchedKeywords": [
           "tesla"
@@ -1264,6 +1392,7 @@
         "source": "CNBC",
         "sourceKey": "cnbc_tech",
         "priority": 1,
+        "image": null,
         "relevanceScore": 5,
         "matchedKeywords": [
           "byd"
@@ -1278,6 +1407,7 @@
         "source": "MacRumors",
         "sourceKey": "macrumors",
         "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2025/02/iPhone-16e-Feature.jpg",
         "relevanceScore": 5,
         "matchedKeywords": [
           "apple",
@@ -1294,6 +1424,7 @@
         "source": "Electrek",
         "sourceKey": "electrek",
         "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-FSD-ownership.jpg?quality=82&#038;strip=all&#038;w=1600",
         "relevanceScore": 5,
         "matchedKeywords": [
           "tesla",
@@ -1309,6 +1440,7 @@
         "source": "The Verge",
         "sourceKey": "theverge",
         "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268300_The_personality_of_each_TV_company_and_the_tech_they_use_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "relevanceScore": 4,
         "matchedKeywords": [
           "breakthrough"
@@ -1323,6 +1455,7 @@
         "source": "Wired",
         "sourceKey": "wired",
         "priority": 2,
+        "image": null,
         "relevanceScore": 4,
         "matchedKeywords": [
           "apple"
@@ -1337,6 +1470,7 @@
         "source": "Electrek",
         "sourceKey": "electrek",
         "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2024/12/Chinese-EVs-Toyota-Xiaomi-SU7.jpeg?quality=82&#038;strip=all&#038;w=1400",
         "relevanceScore": 4,
         "matchedKeywords": [
           "xiaomi"
@@ -1351,11 +1485,223 @@
         "source": "Electrek",
         "sourceKey": "electrek",
         "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/QuantumScape-solid-state-pilot-production.jpg?quality=82&#038;strip=all&#038;w=1400",
         "relevanceScore": 3,
         "matchedKeywords": [
           "quantum"
         ],
         "category": "ev_autonomous"
+      }
+    ],
+    "chips_cloud": [
+      {
+        "title": "Arm CEO Says Data Center Business Is 'Exploding'",
+        "link": "https://www.bloomberg.com/news/videos/2026-02-05/arm-ceo-says-data-center-business-is-exploding-video",
+        "description": "Arm CEO Rene Haas says the company’s data center business is “exploding” and that it might soon play a larger role than handsets for the company. Haas joins Caroline Hyde and Ed Ludlow on “Bloomberg Tech.” (Source: Bloomberg)",
+        "published": "2026-02-05T19:51:00.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "arm",
+          "ceo",
+          "data center"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Qualcomm CEO: Issue for Handsets Is Memory, Not Demand",
+        "link": "https://www.bloomberg.com/news/videos/2026-02-05/qualcomm-ceo-issue-for-handsets-is-memory-not-demand-video",
+        "description": "Qualcomm CEO Cristiano Amon discusses the impact of memory constraints on the company’s outlook after the largest maker of smartphone processors gave a tepid revenue forecast for the current quarter. Amon joins Caroline Hyde and Ed Ludlow on “Bloomberg Tech.” (Source: Bloomberg)",
+        "published": "2026-02-05T19:31:34.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "qualcomm",
+          "ceo"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": " Intel clawed back CPU market share from AMD in the Steam Hardware survey for the first time in months — PC component crisis could be pushing builders to value-for-money builds ",
+        "link": "https://www.tomshardware.com/pc-components/cpus/intel-clawed-back-cpu-market-share-from-amd-in-the-steam-hardware-survey-for-the-first-time-in-months-pc-component-crisis-could-be-pushing-builders-to-value-for-money-builds",
+        "description": "After months of consistent decline, Intel’s consumer CPUs have enjoyed a small but significant spell of market share growth, at least according to the latest Steam Hardware Survey.",
+        "published": "2026-02-05T12:54:12.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/Et8iMNj9gVAVPT5SsJNZvB-1280-80.jpg",
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "intel",
+          "amd"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Nvidia&#8217;s RTX 50-series Super refresh is delayed, and the RTX 60-series might miss 2027",
+        "link": "https://www.theverge.com/tech/874439/nvidia-rtx-50-super-60-series-delay",
+        "description": "The Super refresh to Nvidia's RTX 50-series GPUs was expected at CES 2026 in January, but it didn't make an appearance. The Information reports that in December, Nvidia managers decided not to release the new cards as scheduled, choosing to prioritize AI chips instead due to the limited supply of RAM currently available. On top of that, \"Nvidia is also slashing production of its current line of gaming chips,\" the RTX 50-series, which are already in high demand and consistently sold out at retailers. \nThe priority shift away from gaming GPUs follows record-breaking revenue for Nvidia, driven by its AI chips. Data center revenue made up $51.2 …\nRead the full story at The Verge.",
+        "published": "2026-02-05T16:33:27.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK083_NVIDIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "nvidia",
+          "chip",
+          "gpu"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Qualcomm stock sinks 7% as company issues dire warning on memory shortage",
+        "link": "https://www.cnbc.com/2026/02/05/qualcomm-stock-memory-shortage-warning.html",
+        "description": "The chipmaker is grappling with a memory shortage hitting the entire industry as the AI data center buildout snaps up supply.",
+        "published": "2026-02-05T18:06:59.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "qualcomm",
+          "chip",
+          "data center"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Shares of Arm plunge in after hours trading amid concerns over smartphone chips",
+        "link": "https://www.cnbc.com/2026/02/05/arm-shares-fall-licensing-revenue-miss-ai-demand.html",
+        "description": "Shares of UK-based semiconductor designer Arm Holdings fell in aftermarket trading, despite the company posting record revenues amid AI demand.",
+        "published": "2026-02-05T15:28:19.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "arm",
+          "semiconductor",
+          "chip"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "AI for transformation: How SAP’s Joule for Consultants reimagines project delivery",
+        "link": "https://venturebeat.com/orchestration/ai-for-transformation-how-saps-joule-for-consultants-reimagines-project",
+        "description": "Presented by SAP\n\nSAP’s AI solution, Joule, has already transformed how business users work — turning siloed data and tasks into intelligent, connected workflows. But consultants on SAP projects face a different set of needs: navigating complex implementations, evolving best practices, and the pressure to deliver faster. They need timely, expert-level guidance. They need an AI partner that can deliver accurate SAP knowledge in an instant. Enter SAP Joule for Consultants, purpose-built to help system integrators and consulting teams drive smarter, faster outcomes for their clients.\n\"The consultant's focus is not using our business applications — it’s to help implement those systems, perform upgrades, and at the largest scale, help our customers transform their on-premises SAP ERP to SAP Business Suite in the cloud,\" says Victor Alvarez, head of product marketing, Joule, at SAP. \"Acting as a knowledge-grounded AI teammate, SAP Joule for Consultants delivers trusted answers at critical moments, guides design decisions, and keeps projects aligned with SAP’s latest best practices.\"\nIt can both compress timelines and improve project execution at every stage of delivery, resulting in a higher quality of service, he adds. \n\"Our customers want to complete their SAP projects as quickly as possible to realize the value of those initiatives sooner,\" Alvarez says. \"SAP Joule for Consultants puts the most accurate and up-to-date information at the fingertips of the consultants and system integrators performing these projects. It helps consultants decide and act with agility, reduce overall costs, and shorten project timelines without sacrificing quality.\"\nBuilding a better AI teammate\nAI is no longer an option in consulting. It’s reshaping how projects are designed, delivered, and scaled. For SAP consulting practices, this shift is especially pronounced as SAP cloud transformation and implementation projects demand deep knowledge and expertise. AI can help surface knowledge in seconds, making consultants more productive and improving project outcomes. As a result, practice leaders are not considering whether to use AI, but which AI solution to put at the core of their delivery model.\nWhat sets SAP Joule for Consultants apart is its underlying knowledge base. Any AI solution can generate an answer. What matters most is if the answer is accurate and can be trusted to guide project execution. SAP Joule for Consultants is grounded in SAP’s most authoritative, comprehensive, and up-to-date knowledge base. The knowledge base is expertly curated by SAP and includes exclusive content not available to third-party solutions or AI-enabled search engines. \n“We recognized an opportunity to help our partners transform their consulting practices with the most reliable AI assistance available,” Alvarez says. “We’ve leveraged our expertise and vast set of non-public customer enablement content to ground SAP Joule for Consultants with the most complete, accurate, and trustworthy knowledge.” \nFor SAP consultants at every level \nConsultants at all experience levels have traditionally spent enormous time searching for information before they can take the next step — whether it’s making an architectural decision that shapes an entire implementation or solving a specific, tactical issue.\nAll that research time is slashed to an extraordinary degree with SAP Joule for Consultants. By delivering expert-level answers drawn from a continually updated knowledge base, the solution helps consultants keep work moving and make smarter decisions that minimize rework.\n\"If you think about cloud transformation, there’s a huge return on investment,” Alvarez explains. “For SAP customers, this ROI goes beyond traditional cloud benefits to also unlock the AI innovations available in SAP Business Suite. SAP Joule for Consultants is part of our commitment to help our customers reduce time to value and achieve AI impact at scale.\"\nEnabling SAP customers too\nThe solution isn't just for consultants; it’s also for the IT departments within SAP customers. Organizations don’t have the luxury of engaging a consultant for every SAP project — sometimes the work needs to, or can be, done in-house. So, in the same way that SAP Joule for Consultants enables consultants with expert-level knowledge, internal IT teams can benefit from on-demand answers and guidance to accelerate internally staffed projects. \n\"They can use SAP Joule for Consultants to access the knowledge needed to take on more complex projects too,\" Alvarez says. \"That opens up more opportunity to engage system integrators on the more strategic and impactful projects.”\nIT teams also benefit from elevated collaboration with their consulting partners. SAP Joule for Consultants helps bridge knowledge gaps that traditionally limit how much internal staff can contribute to and influence project outcomes.\n\"SAP Joule for Consultants makes customers more informed, so that they can collaborate with their consultant partners in a more impactful way,\" he explains. \"It illuminates the nuances of a project, helping clients ask the right questions and participate more actively in critical project decisions to ensure the best possible project outcomes.\"\nPowerful new features coming soon\nSAP Joule for Consultants has been generally available for almost one year, and the demand from both large firms like KPMG and smaller organizations has been tremendous, Alvarez says — a strong validation of its value proposition. The next major milestone is already on the horizon: partner knowledge integration.\n“Our system integrator partners have institutional knowledge that embodies their industry experience and the best practices that distinguish their services and create predictable project outcomes,” he explains. “Soon, they’ll be able to add that institutional knowledge to their instance of SAP Joule for Consultants — creating a single, unified solution that puts both SAP and firm-specific knowledge at their consultants’ fingertips.”\n\nSponsored articles are content produced by a company that is either paying for the post or has a business relationship with VentureBeat, and they’re always clearly marked. For more information, contact sales@venturebeat.com.",
+        "published": "2026-02-05T05:00:00.000Z",
+        "source": "VentureBeat",
+        "sourceKey": "venturebeat",
+        "priority": 1,
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/zpzPUmfGYyOfoL2f0SekL/d5b4947a2e521ad8c698187bd0ceeffd/AdobeStock_320406170.jpeg?w=300&q=30",
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "intel",
+          "agi"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": " Secure a snappy gaming PC with an RTX 5060 and 16GB of DDR5 RAM for just $959 — MSI Codex R2 rig handles 1080p gameplay with a 10-core Intel CPU and 1TB of storage ",
+        "link": "https://www.tomshardware.com/desktops/gaming-pcs/secure-a-snappy-gaming-pc-with-an-rtx-5060-and-16gb-of-ddr5-ram-for-just-usd959-msi-codex-r2-rig-handles-1080p-gameplay-with-a-10-core-intel-cpu-and-1tb-of-storage",
+        "description": "This MSI Codex R2 gaming PC is on sale direct from MSI, costing just $959 for a rig with a 10-core Intel Core i5-14400F, Nvidia GeForce RTX 5060, 16GB of DDR5 RAM, and a 1TB SSD.",
+        "published": "2026-02-05T13:33:26.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/uMzmizajpr9LvAqfAtWGDC-1280-80.jpg",
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "nvidia",
+          "intel"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Valve pushes back Steam Machine launch due to storage and memory shortage",
+        "link": "https://www.engadget.com/gaming/pc/valve-pushes-back-steam-machine-launch-due-to-storage-and-memory-shortage-133000103.html?src=rss",
+        "description": "You will have to wait a bit longer before you can buy a Steam Machine — and you may have to pay more for one, too. Valve had intended to release the console-style SteamOS-powered device in early 2026, and AMD CEO Lisa Su just claimed that the company was on track to start shipping it soon. But in a new post detailing the latest updates for its upcoming Steam products, Valve has revealed that while it’s still aiming to start selling the console in the first half of the year, it has yet to decide on concrete pricing and a launch date for it. The release of Valve’s upcoming Steam Frame VR headset and controller will be delayed, as well.\nValve was hoping to be able to announce pricing and launch dates by now. The company cited industry-wide memory and storage shortages, which have grown since the Steam devices’ announcement, as the culprit for the delay. It explained that it has to rethink their exact shipping schedules and pricing due to the limited availability and the rising prices of those components. “We will keep you updated as much as we can as we finalize those plans as soon as possible,” Valve wrote. As The Wall Street Journal recently reported, the artificial intelligence industry has been hoovering up manufacturers’ available memory chips and hard drives for its infrastructure developments. That has led to shortages for other industries, like PCs and phones. \nThe Steam Machine is a compact cube-like PC for gaming powered by a semi-custom AMD CPU and GPU. Valve said during its announcement that it has “roughly six times the horsepower” of the Steam Deck and can support 4K gaming at 60 FPS with FSR. In the new post, Valve said that majority of Steam titles played great at those settings during testing, though some required more upscaling than others and may fare better when played at a lower framerate to maintain a 1080p resolution. It also revealed that you will have easy access to the Machine’s SSD and memory if you want to upgrade them. Meanwhile, the Steam Frame is a wireless, standalone VR headset that can play both PC and Android games. \nThis article originally appeared on Engadget at https://www.engadget.com/gaming/pc/valve-pushes-back-steam-machine-launch-due-to-storage-and-memory-shortage-133000103.html?src=rss",
+        "published": "2026-02-05T13:30:00.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "amd",
+          "ceo"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": " Report claims Nvidia will not be releasing any new RTX gaming GPUs in 2026, RTX 60 series likely debuting in 2028 ",
+        "link": "https://www.tomshardware.com/pc-components/gpus/report-claims-nvidia-will-not-be-releasing-any-new-rtx-gaming-gpus-in-2026-rtx-60-series-likely-debuting-in-2028",
+        "description": "Nvidia's RTX 50 series Super refresh supposedly is design complete, but the GPU maker won't be releasing any new RTX GPUs in 2026, according to a report in The Information.",
+        "published": "2026-02-05T18:44:15.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/RH2UfQ4PEty8QdC39Tkoom-1280-80.jpg",
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "nvidia",
+          "gpu"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "What Apple’s subscription model tells us about its future",
+        "link": "https://9to5mac.com/2026/02/05/what-apples-subscription-model-tells-us-about-its-future/",
+        "description": "You might have noticed that over the last several years, more and more companies have shifted to a subscription model for their products and services, and Apple has slowly begun to follow suit. As Apple hardware continues to improve, customers are keeping their devices for longer. Meaning that Apple is earning less per customer on their hardware purchases. This has pushed Apple to add more products to its services. Today, Apple offers subscriptions like cloud storage, media, productivity tools, AppleCare, and now products like Creator Studio. This suggests the company is willing to expand subscriptions into areas that were traditionally one-time purchases, a trend that we need to keep a close eye on. The easiest way to see how far Apple has leaned into subscriptions is to simply lay out everything the company currently offers.\nmore…",
+        "published": "2026-02-05T17:13:02.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/apple-subscriptions.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": " Yet another Windows update is wreaking havoc on gaming rigs worldwide — Nvidia recommends uninstalling Windows 11 KB5074109 January update to prevent framerate drops and artifacting ",
+        "link": "https://www.tomshardware.com/software/windows/yet-another-windows-update-is-wreaking-havoc-on-gaming-rigs-worldwide-nvidia-recommends-uninstalling-windows-11-kb5074109-january-update-to-prevent-framerate-drops-and-artifacting",
+        "description": "Nvidia representative recommends GeForce graphics card owners to uninstall the Windows 11 KB5074109 update to solve framerate drops and gaming artifacts.",
+        "published": "2026-02-05T17:03:19.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/tGcy5zaQqgrGNChc28FYod-1280-80.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "nvidia"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": " ASRock issues statement concerning yet another round of Ryzen 9000 CPU failures — motherboard vendor says it is 'working in seamless coordination' with AMD to investigate ",
+        "link": "https://www.tomshardware.com/pc-components/cpus/asrock-issues-statement-concerning-yet-another-round-of-ryzen-9000-cpu-failures-motherboard-vendor-says-it-is-working-in-seamless-coordination-with-amd-to-investigate",
+        "description": "While the scope of the faults appears to be quite small, ASRock joins the chorus of motherboard companies promising to search for a cause.",
+        "published": "2026-02-05T14:13:52.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/XX2KLW7DLQPkzfpMV8fwnW-1280-80.png",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "amd"
+        ],
+        "category": "chips_cloud"
       }
     ],
     "space": [
@@ -1367,6 +1713,7 @@
         "source": "Engadget",
         "sourceKey": "engadget",
         "priority": 2,
+        "image": null,
         "relevanceScore": 8,
         "matchedKeywords": [
           "google",
@@ -1384,6 +1731,7 @@
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
         "priority": 1,
+        "image": null,
         "relevanceScore": 6,
         "matchedKeywords": [
           "elon musk",
@@ -1400,194 +1748,13 @@
         "source": "The Register",
         "sourceKey": "theregister",
         "priority": 2,
+        "image": null,
         "relevanceScore": 5,
         "matchedKeywords": [
           "spacex",
           "satellite"
         ],
         "category": "space"
-      }
-    ],
-    "chips_cloud": [
-      {
-        "title": "Qualcomm CEO: Issue for Handsets Is Memory, Not Demand",
-        "link": "https://www.bloomberg.com/news/videos/2026-02-05/qualcomm-ceo-issue-for-handsets-is-memory-not-demand-video",
-        "description": "Qualcomm CEO Cristiano Amon discusses the impact of memory constraints on the company’s outlook after the largest maker of smartphone processors gave a tepid revenue forecast for the current quarter. Amon joins Caroline Hyde and Ed Ludlow on “Bloomberg Tech.” (Source: Bloomberg)",
-        "published": "2026-02-05T19:31:34.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "relevanceScore": 8,
-        "matchedKeywords": [
-          "qualcomm",
-          "ceo"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": " Intel clawed back CPU market share from AMD in the Steam Hardware survey for the first time in months — PC component crisis could be pushing builders to value-for-money builds ",
-        "link": "https://www.tomshardware.com/pc-components/cpus/intel-clawed-back-cpu-market-share-from-amd-in-the-steam-hardware-survey-for-the-first-time-in-months-pc-component-crisis-could-be-pushing-builders-to-value-for-money-builds",
-        "description": "After months of consistent decline, Intel’s consumer CPUs have enjoyed a small but significant spell of market share growth, at least according to the latest Steam Hardware Survey.",
-        "published": "2026-02-05T12:54:12.000Z",
-        "source": "Tom's Hardware",
-        "sourceKey": "tomshardware",
-        "priority": 2,
-        "relevanceScore": 8,
-        "matchedKeywords": [
-          "intel",
-          "amd"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": "Nvidia&#8217;s RTX 50-series Super refresh is delayed, and the RTX 60-series might miss 2027",
-        "link": "https://www.theverge.com/tech/874439/nvidia-rtx-50-super-60-series-delay",
-        "description": "The Super refresh to Nvidia's RTX 50-series GPUs was expected at CES 2026 in January, but it didn't make an appearance. The Information reports that in December, Nvidia managers decided not to release the new cards as scheduled, choosing to prioritize AI chips instead due to the limited supply of RAM currently available. On top of that, \"Nvidia is also slashing production of its current line of gaming chips,\" the RTX 50-series, which are already in high demand and consistently sold out at retailers. \nThe priority shift away from gaming GPUs follows record-breaking revenue for Nvidia, driven by its AI chips. Data center revenue made up $51.2 …\nRead the full story at The Verge.",
-        "published": "2026-02-05T16:33:27.000Z",
-        "source": "The Verge",
-        "sourceKey": "theverge",
-        "priority": 1,
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "nvidia",
-          "chip",
-          "gpu"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": "Qualcomm stock sinks 7% as company issues dire warning on memory shortage",
-        "link": "https://www.cnbc.com/2026/02/05/qualcomm-stock-memory-shortage-warning.html",
-        "description": "The chipmaker is grappling with a memory shortage hitting the entire industry as the AI data center buildout snaps up supply.",
-        "published": "2026-02-05T18:06:59.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_tech",
-        "priority": 1,
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "qualcomm",
-          "chip",
-          "data center"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": "Shares of Arm plunge in after hours trading amid concerns over smartphone chips",
-        "link": "https://www.cnbc.com/2026/02/05/arm-shares-fall-licensing-revenue-miss-ai-demand.html",
-        "description": "Shares of UK-based semiconductor designer Arm Holdings fell in aftermarket trading, despite the company posting record revenues amid AI demand.",
-        "published": "2026-02-05T15:28:19.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_tech",
-        "priority": 1,
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "arm",
-          "semiconductor",
-          "chip"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": "AI for transformation: How SAP’s Joule for Consultants reimagines project delivery",
-        "link": "https://venturebeat.com/orchestration/ai-for-transformation-how-saps-joule-for-consultants-reimagines-project",
-        "description": "Presented by SAP\n\nSAP’s AI solution, Joule, has already transformed how business users work — turning siloed data and tasks into intelligent, connected workflows. But consultants on SAP projects face a different set of needs: navigating complex implementations, evolving best practices, and the pressure to deliver faster. They need timely, expert-level guidance. They need an AI partner that can deliver accurate SAP knowledge in an instant. Enter SAP Joule for Consultants, purpose-built to help system integrators and consulting teams drive smarter, faster outcomes for their clients.\n\"The consultant's focus is not using our business applications — it’s to help implement those systems, perform upgrades, and at the largest scale, help our customers transform their on-premises SAP ERP to SAP Business Suite in the cloud,\" says Victor Alvarez, head of product marketing, Joule, at SAP. \"Acting as a knowledge-grounded AI teammate, SAP Joule for Consultants delivers trusted answers at critical moments, guides design decisions, and keeps projects aligned with SAP’s latest best practices.\"\nIt can both compress timelines and improve project execution at every stage of delivery, resulting in a higher quality of service, he adds. \n\"Our customers want to complete their SAP projects as quickly as possible to realize the value of those initiatives sooner,\" Alvarez says. \"SAP Joule for Consultants puts the most accurate and up-to-date information at the fingertips of the consultants and system integrators performing these projects. It helps consultants decide and act with agility, reduce overall costs, and shorten project timelines without sacrificing quality.\"\nBuilding a better AI teammate\nAI is no longer an option in consulting. It’s reshaping how projects are designed, delivered, and scaled. For SAP consulting practices, this shift is especially pronounced as SAP cloud transformation and implementation projects demand deep knowledge and expertise. AI can help surface knowledge in seconds, making consultants more productive and improving project outcomes. As a result, practice leaders are not considering whether to use AI, but which AI solution to put at the core of their delivery model.\nWhat sets SAP Joule for Consultants apart is its underlying knowledge base. Any AI solution can generate an answer. What matters most is if the answer is accurate and can be trusted to guide project execution. SAP Joule for Consultants is grounded in SAP’s most authoritative, comprehensive, and up-to-date knowledge base. The knowledge base is expertly curated by SAP and includes exclusive content not available to third-party solutions or AI-enabled search engines. \n“We recognized an opportunity to help our partners transform their consulting practices with the most reliable AI assistance available,” Alvarez says. “We’ve leveraged our expertise and vast set of non-public customer enablement content to ground SAP Joule for Consultants with the most complete, accurate, and trustworthy knowledge.” \nFor SAP consultants at every level \nConsultants at all experience levels have traditionally spent enormous time searching for information before they can take the next step — whether it’s making an architectural decision that shapes an entire implementation or solving a specific, tactical issue.\nAll that research time is slashed to an extraordinary degree with SAP Joule for Consultants. By delivering expert-level answers drawn from a continually updated knowledge base, the solution helps consultants keep work moving and make smarter decisions that minimize rework.\n\"If you think about cloud transformation, there’s a huge return on investment,” Alvarez explains. “For SAP customers, this ROI goes beyond traditional cloud benefits to also unlock the AI innovations available in SAP Business Suite. SAP Joule for Consultants is part of our commitment to help our customers reduce time to value and achieve AI impact at scale.\"\nEnabling SAP customers too\nThe solution isn't just for consultants; it’s also for the IT departments within SAP customers. Organizations don’t have the luxury of engaging a consultant for every SAP project — sometimes the work needs to, or can be, done in-house. So, in the same way that SAP Joule for Consultants enables consultants with expert-level knowledge, internal IT teams can benefit from on-demand answers and guidance to accelerate internally staffed projects. \n\"They can use SAP Joule for Consultants to access the knowledge needed to take on more complex projects too,\" Alvarez says. \"That opens up more opportunity to engage system integrators on the more strategic and impactful projects.”\nIT teams also benefit from elevated collaboration with their consulting partners. SAP Joule for Consultants helps bridge knowledge gaps that traditionally limit how much internal staff can contribute to and influence project outcomes.\n\"SAP Joule for Consultants makes customers more informed, so that they can collaborate with their consultant partners in a more impactful way,\" he explains. \"It illuminates the nuances of a project, helping clients ask the right questions and participate more actively in critical project decisions to ensure the best possible project outcomes.\"\nPowerful new features coming soon\nSAP Joule for Consultants has been generally available for almost one year, and the demand from both large firms like KPMG and smaller organizations has been tremendous, Alvarez says — a strong validation of its value proposition. The next major milestone is already on the horizon: partner knowledge integration.\n“Our system integrator partners have institutional knowledge that embodies their industry experience and the best practices that distinguish their services and create predictable project outcomes,” he explains. “Soon, they’ll be able to add that institutional knowledge to their instance of SAP Joule for Consultants — creating a single, unified solution that puts both SAP and firm-specific knowledge at their consultants’ fingertips.”\n\nSponsored articles are content produced by a company that is either paying for the post or has a business relationship with VentureBeat, and they’re always clearly marked. For more information, contact sales@venturebeat.com.",
-        "published": "2026-02-05T05:00:00.000Z",
-        "source": "VentureBeat",
-        "sourceKey": "venturebeat",
-        "priority": 1,
-        "relevanceScore": 6,
-        "matchedKeywords": [
-          "intel",
-          "agi"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": " Secure a snappy gaming PC with an RTX 5060 and 16GB of DDR5 RAM for just $959 — MSI Codex R2 rig handles 1080p gameplay with a 10-core Intel CPU and 1TB of storage ",
-        "link": "https://www.tomshardware.com/desktops/gaming-pcs/secure-a-snappy-gaming-pc-with-an-rtx-5060-and-16gb-of-ddr5-ram-for-just-usd959-msi-codex-r2-rig-handles-1080p-gameplay-with-a-10-core-intel-cpu-and-1tb-of-storage",
-        "description": "This MSI Codex R2 gaming PC is on sale direct from MSI, costing just $959 for a rig with a 10-core Intel Core i5-14400F, Nvidia GeForce RTX 5060, 16GB of DDR5 RAM, and a 1TB SSD.",
-        "published": "2026-02-05T13:33:26.000Z",
-        "source": "Tom's Hardware",
-        "sourceKey": "tomshardware",
-        "priority": 2,
-        "relevanceScore": 6,
-        "matchedKeywords": [
-          "nvidia",
-          "intel"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": "Valve pushes back Steam Machine launch due to storage and memory shortage",
-        "link": "https://www.engadget.com/gaming/pc/valve-pushes-back-steam-machine-launch-due-to-storage-and-memory-shortage-133000103.html?src=rss",
-        "description": "You will have to wait a bit longer before you can buy a Steam Machine — and you may have to pay more for one, too. Valve had intended to release the console-style SteamOS-powered device in early 2026, and AMD CEO Lisa Su just claimed that the company was on track to start shipping it soon. But in a new post detailing the latest updates for its upcoming Steam products, Valve has revealed that while it’s still aiming to start selling the console in the first half of the year, it has yet to decide on concrete pricing and a launch date for it. The release of Valve’s upcoming Steam Frame VR headset and controller will be delayed, as well.\nValve was hoping to be able to announce pricing and launch dates by now. The company cited industry-wide memory and storage shortages, which have grown since the Steam devices’ announcement, as the culprit for the delay. It explained that it has to rethink their exact shipping schedules and pricing due to the limited availability and the rising prices of those components. “We will keep you updated as much as we can as we finalize those plans as soon as possible,” Valve wrote. As The Wall Street Journal recently reported, the artificial intelligence industry has been hoovering up manufacturers’ available memory chips and hard drives for its infrastructure developments. That has led to shortages for other industries, like PCs and phones. \nThe Steam Machine is a compact cube-like PC for gaming powered by a semi-custom AMD CPU and GPU. Valve said during its announcement that it has “roughly six times the horsepower” of the Steam Deck and can support 4K gaming at 60 FPS with FSR. In the new post, Valve said that majority of Steam titles played great at those settings during testing, though some required more upscaling than others and may fare better when played at a lower framerate to maintain a 1080p resolution. It also revealed that you will have easy access to the Machine’s SSD and memory if you want to upgrade them. Meanwhile, the Steam Frame is a wireless, standalone VR headset that can play both PC and Android games. \nThis article originally appeared on Engadget at https://www.engadget.com/gaming/pc/valve-pushes-back-steam-machine-launch-due-to-storage-and-memory-shortage-133000103.html?src=rss",
-        "published": "2026-02-05T13:30:00.000Z",
-        "source": "Engadget",
-        "sourceKey": "engadget",
-        "priority": 2,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "amd",
-          "ceo"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": " Report claims Nvidia will not be releasing any new RTX gaming GPUs in 2026, RTX 60 series likely debuting in 2028 ",
-        "link": "https://www.tomshardware.com/pc-components/gpus/report-claims-nvidia-will-not-be-releasing-any-new-rtx-gaming-gpus-in-2026-rtx-60-series-likely-debuting-in-2028",
-        "description": "Nvidia's RTX 50 series Super refresh supposedly is design complete, but the GPU maker won't be releasing any new RTX GPUs in 2026, according to a report in The Information.",
-        "published": "2026-02-05T18:44:15.000Z",
-        "source": "Tom's Hardware",
-        "sourceKey": "tomshardware",
-        "priority": 2,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "nvidia",
-          "gpu"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": "What Apple’s subscription model tells us about its future",
-        "link": "https://9to5mac.com/2026/02/05/what-apples-subscription-model-tells-us-about-its-future/",
-        "description": "You might have noticed that over the last several years, more and more companies have shifted to a subscription model for their products and services, and Apple has slowly begun to follow suit. As Apple hardware continues to improve, customers are keeping their devices for longer. Meaning that Apple is earning less per customer on their hardware purchases. This has pushed Apple to add more products to its services. Today, Apple offers subscriptions like cloud storage, media, productivity tools, AppleCare, and now products like Creator Studio. This suggests the company is willing to expand subscriptions into areas that were traditionally one-time purchases, a trend that we need to keep a close eye on. The easiest way to see how far Apple has leaned into subscriptions is to simply lay out everything the company currently offers.\nmore…",
-        "published": "2026-02-05T17:13:02.000Z",
-        "source": "9to5Mac",
-        "sourceKey": "9to5mac",
-        "priority": 2,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": " Yet another Windows update is wreaking havoc on gaming rigs worldwide — Nvidia recommends uninstalling Windows 11 KB5074109 January update to prevent framerate drops and artifacting ",
-        "link": "https://www.tomshardware.com/software/windows/yet-another-windows-update-is-wreaking-havoc-on-gaming-rigs-worldwide-nvidia-recommends-uninstalling-windows-11-kb5074109-january-update-to-prevent-framerate-drops-and-artifacting",
-        "description": "Nvidia representative recommends GeForce graphics card owners to uninstall the Windows 11 KB5074109 update to solve framerate drops and gaming artifacts.",
-        "published": "2026-02-05T17:03:19.000Z",
-        "source": "Tom's Hardware",
-        "sourceKey": "tomshardware",
-        "priority": 2,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "nvidia"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": " ASRock issues statement concerning yet another round of Ryzen 9000 CPU failures — motherboard vendor says it is 'working in seamless coordination' with AMD to investigate ",
-        "link": "https://www.tomshardware.com/pc-components/cpus/asrock-issues-statement-concerning-yet-another-round-of-ryzen-9000-cpu-failures-motherboard-vendor-says-it-is-working-in-seamless-coordination-with-amd-to-investigate",
-        "description": "While the scope of the faults appears to be quite small, ASRock joins the chorus of motherboard companies promising to search for a cause.",
-        "published": "2026-02-05T14:13:52.000Z",
-        "source": "Tom's Hardware",
-        "sourceKey": "tomshardware",
-        "priority": 2,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "amd"
-        ],
-        "category": "chips_cloud"
       }
     ],
     "regulation": [
@@ -1599,6 +1766,7 @@
         "source": "9to5Mac",
         "sourceKey": "9to5mac",
         "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/apple-logo-milan-store.jpg?quality=82&#038;strip=all&#038;w=1500",
         "relevanceScore": 7,
         "matchedKeywords": [
           "apple",
@@ -1614,6 +1782,7 @@
         "source": "CoinDesk",
         "sourceKey": "coindesk",
         "priority": 3,
+        "image": null,
         "relevanceScore": 5,
         "matchedKeywords": [
           "regulation",
@@ -1629,6 +1798,7 @@
         "source": "Engadget",
         "sourceKey": "engadget",
         "priority": 2,
+        "image": null,
         "relevanceScore": 4,
         "matchedKeywords": [
           "amazon"
@@ -1643,6 +1813,7 @@
         "source": "9to5Google",
         "sourceKey": "9to5google",
         "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/04/Pixel-9a-Rear-2-1.jpg?quality=82&#038;strip=all&#038;w=1600",
         "relevanceScore": 4,
         "matchedKeywords": [
           "google"
@@ -1657,6 +1828,7 @@
         "source": "CoinDesk",
         "sourceKey": "coindesk",
         "priority": 3,
+        "image": null,
         "relevanceScore": 4,
         "matchedKeywords": [
           "regulation"
@@ -1673,6 +1845,7 @@
         "source": "Tom's Hardware",
         "sourceKey": "tomshardware",
         "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/dc5V8NmSNKPGgqGF9ZH27Z-1280-80.jpg",
         "relevanceScore": 5,
         "matchedKeywords": [
           "tesla",
@@ -1688,6 +1861,7 @@
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
         "priority": 1,
+        "image": null,
         "relevanceScore": 4,
         "matchedKeywords": [
           "ceo"
@@ -1704,6 +1878,7 @@
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
         "priority": 1,
+        "image": null,
         "relevanceScore": 4,
         "matchedKeywords": [
           "meta",
@@ -1713,5 +1888,5 @@
       }
     ]
   },
-  "totalArticles": 107
+  "totalArticles": 113
 }

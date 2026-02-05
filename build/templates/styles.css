@@ -150,6 +150,9 @@ a { color: inherit; text-decoration: none; }
   z-index: 999;
   transition: right 0.3s ease;
   overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior: contain;
+  padding-bottom: 40px;
 }
 
 .sidebar.open {

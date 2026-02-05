@@ -49,9 +49,14 @@ function generateHeroHTML(articles) {
   const main = articles[0];
   const secondary = articles.slice(1, 3);
 
+  // Hero main image or placeholder
+  const mainImage = main.image 
+    ? `<img class="hero-image" src="${esc(main.image)}" alt="" loading="lazy">`
+    : `<div class="hero-placeholder">${getIcon(main)}</div>`;
+
   let html = `
     <a href="${main.link}" target="_blank" rel="noopener" class="hero-main">
-      <div class="hero-placeholder">${getIcon(main)}</div>
+      ${mainImage}
       <div class="hero-content">
         <span class="hero-tag">${esc(main.source)}</span>
         <h2 class="hero-title">${esc(main.title)}</h2>
@@ -62,10 +67,14 @@ function generateHeroHTML(articles) {
   `;
 
   for (const article of secondary) {
+    const cardImage = article.image
+      ? `<img src="${esc(article.image)}" alt="" loading="lazy">`
+      : `<div class="hero-card-placeholder">${getIcon(article)}</div>`;
+    
     html += `
       <a href="${article.link}" target="_blank" rel="noopener" class="hero-card">
         <div class="hero-card-image">
-          <div class="hero-card-placeholder">${getIcon(article)}</div>
+          ${cardImage}
         </div>
         <div class="hero-card-content">
           <h3 class="hero-card-title">${esc(article.title)}</h3>

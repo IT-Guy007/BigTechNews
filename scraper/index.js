@@ -55,6 +55,35 @@ function parseArgs() {
 }
 
 /**
+ * Extract image from RSS entry
+ */
+function extractImage(entry) {
+  // Check enclosure (common in RSS feeds)
+  if (entry.enclosure?.url && entry.enclosure.type?.startsWith('image/')) {
+    return entry.enclosure.url;
+  }
+  
+  // Check media:content
+  if (entry['media:content']?.$.url) {
+    return entry['media:content'].$.url;
+  }
+  
+  // Check media:thumbnail
+  if (entry['media:thumbnail']?.$.url) {
+    return entry['media:thumbnail'].$.url;
+  }
+  
+  // Try to find image in content/description
+  const content = entry.content || entry['content:encoded'] || entry.description || '';
+  const imgMatch = content.match(/<img[^>]+src=["']([^"']+)["']/i);
+  if (imgMatch) {
+    return imgMatch[1];
+  }
+  
+  return null;
+}
+
+/**
  * Fetch RSS feed from a source
  */
 async function fetchFeed(sourceKey, source) {
@@ -67,7 +96,8 @@ async function fetchFeed(sourceKey, source) {
       published: entry.isoDate || entry.pubDate || new Date().toISOString(),
       source: source.name,
       sourceKey: sourceKey,
-      priority: source.priority || 2
+      priority: source.priority || 2,
+      image: extractImage(entry)
     }));
   } catch (error) {
     console.error(`  ⚠ ${source.name}: ${error.message}`);
