@@ -15,6 +15,10 @@ async function readTemplate(name) {
 }
 
 function render(template, data) {
+  // Handle simple conditionals {{#key}}...{{/key}}
+  template = template.replace(/\{\{#(\w+)\}\}([\s\S]*?)\{\{\/\1\}\}/g, (_, key, content) => {
+    return data[key] ? content.replace(/\{\{(\w+)\}\}/g, (__, k) => data[k] ?? '') : '';
+  });
   return template.replace(/\{\{(\w+)\}\}/g, (_, key) => data[key] ?? '');
 }
 
@@ -29,7 +33,130 @@ function truncate(text, max) {
   return clean.length <= max ? clean : clean.substring(0, max).trim() + '…';
 }
 
-// Generate highlight article HTML (numbered list style like bigtechdigest)
+// Get a category icon for an article
+function getIcon(article) {
+  if (!article.category) return '📰';
+  const cat = CATEGORIES[article.category];
+  return cat?.icon || '📰';
+}
+
+// Generate hero section (top story + 2 secondary)
+function generateHeroHTML(articles) {
+  if (!articles || articles.length === 0) {
+    return '<div class="empty">No stories today</div>';
+  }
+
+  const main = articles[0];
+  const secondary = articles.slice(1, 3);
+
+  let html = `
+    <a href="${main.link}" target="_blank" rel="noopener" class="hero-main">
+      <div class="hero-placeholder">${getIcon(main)}</div>
+      <div class="hero-content">
+        <span class="hero-tag">${esc(main.source)}</span>
+        <h2 class="hero-title">${esc(main.title)}</h2>
+        <p class="hero-meta">${main.matchedKeywords?.slice(0, 2).join(' · ') || ''}</p>
+      </div>
+    </a>
+    <div class="hero-secondary">
+  `;
+
+  for (const article of secondary) {
+    html += `
+      <a href="${article.link}" target="_blank" rel="noopener" class="hero-card">
+        <div class="hero-card-image">
+          <div class="hero-card-placeholder">${getIcon(article)}</div>
+        </div>
+        <div class="hero-card-content">
+          <h3 class="hero-card-title">${esc(article.title)}</h3>
+          <p class="hero-card-meta">${esc(article.source)}</p>
+        </div>
+      </a>
+    `;
+  }
+
+  html += '</div>';
+  return html;
+}
+
+// Generate news grid items
+function generateNewsGridHTML(articles, max = 6) {
+  if (!articles || articles.length === 0) {
+    return '<div class="news-item"><div class="news-content"><p class="news-title">No articles</p></div></div>';
+  }
+
+  return articles.slice(0, max).map((article, i) => `
+    <a href="${article.link}" target="_blank" rel="noopener" class="news-item">
+      <span class="news-rank">${i + 1}</span>
+      <div class="news-content">
+        <h3 class="news-title">${esc(article.title)}</h3>
+        <p class="news-meta">${esc(article.source)}</p>
+      </div>
+    </a>
+  `).join('');
+}
+
+// Generate sidebar links
+function generateSidebarHTML(items, type, max = 5) {
+  if (!items || items.length === 0) return '<li class="sidebar-item"><span class="sidebar-link">None</span></li>';
+  
+  return items.slice(0, max).map(item => `
+    <li class="sidebar-item">
+      <a href="${type}/${item.id}.html" class="sidebar-link">
+        <span>${esc(item.title)}</span>
+        <span class="sidebar-link-meta">${item.totalArticles}</span>
+      </a>
+    </li>
+  `).join('');
+}
+
+// Generate archive cards
+function generateArchiveHTML(daily, weekly, monthly) {
+  let html = '';
+  
+  // Show recent daily
+  for (const d of daily.slice(0, 3)) {
+    html += `
+      <a href="daily/${d.id}.html" class="archive-card">
+        <div>
+          <div class="archive-title">${esc(d.title)}</div>
+          <div class="archive-meta">${d.totalArticles} articles</div>
+        </div>
+        <span class="archive-arrow">→</span>
+      </a>
+    `;
+  }
+  
+  // Show recent weekly
+  for (const w of weekly.slice(0, 2)) {
+    html += `
+      <a href="weekly/${w.id}.html" class="archive-card">
+        <div>
+          <div class="archive-title">${esc(w.title)}</div>
+          <div class="archive-meta">${w.totalArticles} articles</div>
+        </div>
+        <span class="archive-arrow">→</span>
+      </a>
+    `;
+  }
+  
+  // Show monthly
+  for (const m of monthly.slice(0, 1)) {
+    html += `
+      <a href="monthly/${m.id}.html" class="archive-card">
+        <div>
+          <div class="archive-title">${esc(m.title)}</div>
+          <div class="archive-meta">${m.totalArticles} articles</div>
+        </div>
+        <span class="archive-arrow">→</span>
+      </a>
+    `;
+  }
+  
+  return html || '<div class="empty">No archives yet</div>';
+}
+
+// Article HTML for digest page
 function articleHTML(article, i) {
   const isTop = i < 3;
   return `
@@ -42,7 +169,7 @@ function articleHTML(article, i) {
     </li>`;
 }
 
-// Generate "more" section by category
+// More section by category
 function moreHTML(byCategory) {
   const entries = Object.entries(byCategory || {})
     .filter(([_, articles]) => articles.length > 0)
@@ -61,18 +188,6 @@ function moreHTML(byCategory) {
         <ul class="more-list">${items}</ul>
       </div>`;
   }).join('');
-}
-
-// Generate digest card for index
-function digestCardHTML(digest, type) {
-  return `
-    <a href="${type}/${digest.id}.html" class="digest-item">
-      <div>
-        <div class="digest-title">${esc(digest.title)}</div>
-        <div class="digest-meta">${digest.highlightCount} highlights · ${digest.totalArticles} total</div>
-      </div>
-      <span class="digest-arrow">→</span>
-    </a>`;
 }
 
 async function generateDigestPage(digest, type) {
@@ -95,26 +210,30 @@ async function generateDigestPage(digest, type) {
   });
 }
 
-async function generateIndexPage(index) {
+async function generateIndexPage(index, latestDaily, latestWeekly) {
   const template = await readTemplate('index');
   
-  const dailyListHTML = index.daily.length > 0
-    ? index.daily.map(d => digestCardHTML(d, 'daily')).join('')
-    : '<p class="empty">No daily digests yet.</p>';
-
-  const weeklyListHTML = index.weekly.length > 0
-    ? index.weekly.map(d => digestCardHTML(d, 'weekly')).join('')
-    : '<p class="empty">No weekly digests yet.</p>';
-
-  const monthlyListHTML = index.monthly.length > 0
-    ? index.monthly.map(d => digestCardHTML(d, 'monthly')).join('')
-    : '<p class="empty">No monthly digests yet.</p>';
+  // Get today's highlights for hero and grid
+  const todayHighlights = latestDaily?.highlights || [];
+  const weekHighlights = latestWeekly?.highlights || [];
 
   return render(template, {
-    lastUpdated: new Date(index.lastUpdated).toLocaleDateString('en-US', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' }),
-    dailyListHTML,
-    weeklyListHTML,
-    monthlyListHTML
+    lastUpdated: new Date(index.lastUpdated).toLocaleDateString('en-US', { 
+      weekday: 'short',
+      month: 'short', 
+      day: 'numeric', 
+      hour: '2-digit', 
+      minute: '2-digit'
+    }),
+    heroHTML: generateHeroHTML(todayHighlights),
+    todayNewsHTML: generateNewsGridHTML(todayHighlights.slice(3), 6),
+    weekNewsHTML: generateNewsGridHTML(weekHighlights, 6),
+    latestDailyLink: index.daily[0] ? `daily/${index.daily[0].id}.html` : '',
+    latestWeeklyLink: index.weekly[0] ? `weekly/${index.weekly[0].id}.html` : '',
+    sidebarDailyHTML: generateSidebarHTML(index.daily, 'daily', 7),
+    sidebarWeeklyHTML: generateSidebarHTML(index.weekly, 'weekly', 5),
+    sidebarMonthlyHTML: generateSidebarHTML(index.monthly, 'monthly', 3),
+    archiveHTML: generateArchiveHTML(index.daily, index.weekly, index.monthly)
   });
 }
 
@@ -139,8 +258,23 @@ async function build() {
     index = { lastUpdated: new Date().toISOString(), daily: [], weekly: [], monthly: [] };
   }
 
+  // Load latest daily and weekly for homepage
+  let latestDaily = null, latestWeekly = null;
+  
+  if (index.daily[0]) {
+    try {
+      latestDaily = JSON.parse(await fs.readFile(path.join(DATA_DIR, 'daily', `${index.daily[0].id}.json`), 'utf-8'));
+    } catch {}
+  }
+  
+  if (index.weekly[0]) {
+    try {
+      latestWeekly = JSON.parse(await fs.readFile(path.join(DATA_DIR, 'weekly', `${index.weekly[0].id}.json`), 'utf-8'));
+    } catch {}
+  }
+
   // Generate index
-  await fs.writeFile(path.join(PUBLIC_DIR, 'index.html'), await generateIndexPage(index));
+  await fs.writeFile(path.join(PUBLIC_DIR, 'index.html'), await generateIndexPage(index, latestDaily, latestWeekly));
   console.log('✓ index.html');
 
   // Generate digest pages

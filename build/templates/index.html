@@ -4,57 +4,126 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="color-scheme" content="dark">
+  <meta name="theme-color" content="#000">
   <title>Big Tech News</title>
+  <meta name="description" content="Curated big tech news ranked by relevance. Updated daily.">
   <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
-  <header>
-    <div class="container">
-      <a href="index.html" class="logo">⚡ Big Tech News</a>
+  <header class="header">
+    <div class="container header-inner">
+      <a href="index.html" class="logo">Big Tech News</a>
+      <div class="header-right">
+        <div class="mode-toggle">
+          <span>Simple</span>
+          <div class="toggle-switch" id="modeToggle"></div>
+        </div>
+        <button class="menu-toggle" id="menuToggle" aria-label="Menu">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+      </div>
     </div>
   </header>
 
-  <main class="container">
-    <div class="hero">
-      <span class="hero-badge">Updated {{lastUpdated}}</span>
-      <h1>Big Tech News</h1>
-      <p>Key developments ranked by relevance</p>
+  <div class="sidebar-overlay" id="sidebarOverlay"></div>
+  <nav class="sidebar" id="sidebar">
+    <div class="sidebar-section">
+      <div class="sidebar-title">Daily</div>
+      <ul class="sidebar-list">
+        {{sidebarDailyHTML}}
+      </ul>
+    </div>
+    <div class="sidebar-section">
+      <div class="sidebar-title">Weekly</div>
+      <ul class="sidebar-list">
+        {{sidebarWeeklyHTML}}
+      </ul>
+    </div>
+    <div class="sidebar-section">
+      <div class="sidebar-title">Monthly</div>
+      <ul class="sidebar-list">
+        {{sidebarMonthlyHTML}}
+      </ul>
+    </div>
+  </nav>
+
+  <main>
+    <div class="update-banner">
+      Updated <time>{{lastUpdated}}</time> (CET)
     </div>
 
-    <nav class="tabs">
-      <button class="tab active" data-tab="daily">Daily</button>
-      <button class="tab" data-tab="weekly">Weekly</button>
-      <button class="tab" data-tab="monthly">Monthly</button>
-    </nav>
+    <section class="hero-section">
+      <div class="container">
+        <div class="hero-grid">
+          {{heroHTML}}
+        </div>
+      </div>
+    </section>
 
-    <div id="daily" class="tab-content active">
-      <div class="digest-list">{{dailyListHTML}}</div>
-    </div>
+    <div class="container">
+      <div class="section-header">
+        <h2 class="section-title">Today's Top Stories</h2>
+        {{#latestDailyLink}}<a href="{{latestDailyLink}}" class="section-link">View all →</a>{{/latestDailyLink}}
+      </div>
+      <div class="news-grid">
+        {{todayNewsHTML}}
+      </div>
 
-    <div id="weekly" class="tab-content">
-      <div class="digest-list">{{weeklyListHTML}}</div>
-    </div>
+      <div class="section-header">
+        <h2 class="section-title">This Week</h2>
+        {{#latestWeeklyLink}}<a href="{{latestWeeklyLink}}" class="section-link">View all →</a>{{/latestWeeklyLink}}
+      </div>
+      <div class="news-grid">
+        {{weekNewsHTML}}
+      </div>
 
-    <div id="monthly" class="tab-content">
-      <div class="digest-list">{{monthlyListHTML}}</div>
+      <div class="section-header">
+        <h2 class="section-title">Archive</h2>
+      </div>
+      <div class="archive-grid">
+        {{archiveHTML}}
+      </div>
     </div>
   </main>
 
-  <footer>
+  <footer class="footer">
     <div class="container">
-      <p>Articles ranked to show what matters most.</p>
+      <p class="footer-text">Articles ranked by relevance to help you find what matters.</p>
       <p class="footer-links"><a href="https://github.com/IT-Guy007/BigTechNews">GitHub</a></p>
     </div>
   </footer>
 
   <script>
-    document.querySelectorAll('.tab').forEach(tab => {
-      tab.addEventListener('click', () => {
-        document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
-        document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
-        tab.classList.add('active');
-        document.getElementById(tab.dataset.tab).classList.add('active');
-      });
+    const menuToggle = document.getElementById('menuToggle');
+    const sidebar = document.getElementById('sidebar');
+    const overlay = document.getElementById('sidebarOverlay');
+    const modeToggle = document.getElementById('modeToggle');
+
+    menuToggle.addEventListener('click', () => {
+      menuToggle.classList.toggle('active');
+      sidebar.classList.toggle('open');
+      overlay.classList.toggle('open');
+    });
+
+    overlay.addEventListener('click', () => {
+      menuToggle.classList.remove('active');
+      sidebar.classList.remove('open');
+      overlay.classList.remove('open');
+    });
+
+    // Simple mode
+    const isSimple = localStorage.getItem('simpleMode') === 'true';
+    if (isSimple) {
+      document.body.classList.add('simple-mode');
+      modeToggle.classList.add('active');
+    }
+
+    modeToggle.addEventListener('click', () => {
+      modeToggle.classList.toggle('active');
+      document.body.classList.toggle('simple-mode');
+      localStorage.setItem('simpleMode', document.body.classList.contains('simple-mode'));
     });
   </script>
 </body>
