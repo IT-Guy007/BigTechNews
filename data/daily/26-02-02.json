@@ -4,25 +4,41 @@
   "title": "Monday, Feb 2",
   "dateRange": "February 2, 2026",
   "date": "2026-02-02",
-  "generatedAt": "2026-02-05T19:30:35.284Z",
+  "generatedAt": "2026-02-05T19:52:40.858Z",
   "highlights": [
     {
-      "title": "SpaceX acquires xAI in bid to develop orbital data centers",
-      "link": "https://spacenews.com/spacex-acquires-xai-in-bid-to-develop-orbital-data-centers/",
-      "description": "SpaceX has acquired xAI, an artificial intelligence company also run by Elon Musk, as part of his effort to develop orbital data centers.\nThe post SpaceX acquires xAI in bid to develop orbital data centers appeared first on SpaceNews.",
-      "published": "2026-02-02T22:39:05.000Z",
-      "source": "SpaceNews",
-      "sourceKey": "spacenews",
+      "title": "Waymo raises massive $16 billion round at $126 billion valuation, plans expansion to 20+ cities",
+      "link": "https://electrek.co/2026/02/02/waymo-raises-16-billion-round-at-126-billion-valuation-plans-expansion/",
+      "description": "Waymo just closed a $16 billion funding round at a $126 billion valuation, the largest investment ever in an autonomous vehicle company. The Alphabet-backed robotaxi leader plans to use the capital to expand to over 20 new cities this year, including its first international markets.\nmore…",
+      "published": "2026-02-02T23:18:58.000Z",
+      "source": "Electrek",
+      "sourceKey": "electrek",
       "priority": 2,
-      "relevanceScore": 18,
+      "relevanceScore": 14,
       "matchedKeywords": [
-        "spacex",
-        "intel",
-        "xai",
-        "acquires",
+        "alphabet",
+        "waymo",
+        "robotaxi",
+        "autonomous vehicle",
+        "billion"
+      ],
+      "category": "ev_autonomous"
+    },
+    {
+      "title": "Elon is in the files, Tesla sales are down, and Ford is NOT working with Xiaomi",
+      "link": "https://electrek.co/2026/02/02/elon-is-in-the-files-tesla-sales-are-down-and-ford-is-not-working-with-xiaomi/",
+      "description": "On today’s island-hopping episode of Quick Charge, we have to talk about Elon Musk’s cringey appearance in the Epstein files amid Tesla’s rapid sales decline in Europe, as well as the ultra-fast Xiaomi SU7 Ultra and its own rapid sales decline.\nmore…",
+      "published": "2026-02-02T23:40:14.000Z",
+      "source": "Electrek",
+      "sourceKey": "electrek",
+      "priority": 2,
+      "relevanceScore": 11,
+      "matchedKeywords": [
+        "tesla",
+        "xiaomi",
         "elon musk"
       ],
-      "category": "ai"
+      "category": "ev_autonomous"
     },
     {
       "title": "Tim Cook didn’t rule out price rises for Apple products, and here’s why",
@@ -144,43 +160,197 @@
         "samsung"
       ],
       "category": "ai"
-    },
-    {
-      "title": "Ford denies report that it plans to build EVs in the US with China’s Xiaomi",
-      "link": "https://electrek.co/2026/02/02/ford-denies-report-plans-build-evs-in-the-us-with-xiaomi/",
-      "description": "Ford is not planning to build electric vehicles in the US with China’s Xiaomi, despite a report claiming the partnership would “pave the way for Chinese carmakers to gain a foothold in the US.”\nmore…",
-      "published": "2026-02-02T15:19:00.000Z",
-      "source": "Electrek",
-      "sourceKey": "electrek",
-      "priority": 2,
-      "relevanceScore": 6,
-      "matchedKeywords": [
-        "xiaomi",
-        "arm"
-      ],
-      "category": "ev_autonomous"
     }
   ],
   "byCategory": {
-    "ai": [
+    "ev_autonomous": [
       {
-        "title": "SpaceX acquires xAI in bid to develop orbital data centers",
-        "link": "https://spacenews.com/spacex-acquires-xai-in-bid-to-develop-orbital-data-centers/",
-        "description": "SpaceX has acquired xAI, an artificial intelligence company also run by Elon Musk, as part of his effort to develop orbital data centers.\nThe post SpaceX acquires xAI in bid to develop orbital data centers appeared first on SpaceNews.",
-        "published": "2026-02-02T22:39:05.000Z",
-        "source": "SpaceNews",
-        "sourceKey": "spacenews",
+        "title": "Waymo raises massive $16 billion round at $126 billion valuation, plans expansion to 20+ cities",
+        "link": "https://electrek.co/2026/02/02/waymo-raises-16-billion-round-at-126-billion-valuation-plans-expansion/",
+        "description": "Waymo just closed a $16 billion funding round at a $126 billion valuation, the largest investment ever in an autonomous vehicle company. The Alphabet-backed robotaxi leader plans to use the capital to expand to over 20 new cities this year, including its first international markets.\nmore…",
+        "published": "2026-02-02T23:18:58.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
         "priority": 2,
-        "relevanceScore": 18,
+        "relevanceScore": 14,
         "matchedKeywords": [
-          "spacex",
-          "intel",
-          "xai",
-          "acquires",
+          "alphabet",
+          "waymo",
+          "robotaxi",
+          "autonomous vehicle",
+          "billion"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Elon is in the files, Tesla sales are down, and Ford is NOT working with Xiaomi",
+        "link": "https://electrek.co/2026/02/02/elon-is-in-the-files-tesla-sales-are-down-and-ford-is-not-working-with-xiaomi/",
+        "description": "On today’s island-hopping episode of Quick Charge, we have to talk about Elon Musk’s cringey appearance in the Epstein files amid Tesla’s rapid sales decline in Europe, as well as the ultra-fast Xiaomi SU7 Ultra and its own rapid sales decline.\nmore…",
+        "published": "2026-02-02T23:40:14.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "tesla",
+          "xiaomi",
           "elon musk"
         ],
-        "category": "ai"
+        "category": "ev_autonomous"
       },
+      {
+        "title": "Every Pixelsnap case for Google’s Pixel 10 series is $10 off right now at Amazon",
+        "link": "https://9to5google.com/2026/02/02/google-pixel-10-pixelsnap-case-discount-sale/",
+        "description": "Google finally brought built-in Qi2 support to the Pixel 10 series with Pixelsnap, but that doesn’t mean you can’t rely on magnet-equipped cases for your accessories. Right now, Google’s Pixelsnap cases for every Pixel 10 model in every single colorway are $10 off at Amazon.\nmore…",
+        "published": "2026-02-02T15:35:00.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "google",
+          "amazon"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "China finalizes proposed ban on Tesla-style hidden door handles for safety",
+        "link": "https://electrek.co/2026/02/02/china-finalizes-proposed-ban-on-tesla-style-hidden-door-handles-for-safety/",
+        "description": "China has officially moved forward with a proposed ban on flush EV door handles, with an effective date of January 1, 2027. The regulation will force a redesign of many EVs with sleek, electronically-actuated handles, a design popularized by Tesla.\nmore…",
+        "published": "2026-02-02T18:08:38.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "tesla",
+          "regulation"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Porsche Cayenne Electric enters production, we toured its battery factory",
+        "link": "https://electrek.co/2026/02/02/porsche-cayenne-electric-enters-production-we-toured-its-battery-factory/",
+        "description": "As Tesla CEO Elon Musk pleaded for more battery infrastructure in America, we toured Porsche’s incredibly advanced Smart Battery facility in Slovakia.\nmore…",
+        "published": "2026-02-02T14:13:14.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "tesla",
+          "ceo",
+          "elon musk"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Tesla still working on CarPlay support, here’s what we know",
+        "link": "https://9to5mac.com/2026/02/02/tesla-still-working-on-carplay-support-heres-what-we-know/",
+        "description": "Last November, Bloomberg broke the news that Tesla was working on CarPlay support, a dramatic shift in policy for Elon Musk’s company.\nHere’s the latest on what we know about Tesla’s plans to support CarPlay.\nmore…",
+        "published": "2026-02-02T16:31:04.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "tesla",
+          "elon musk"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Steve Jobs memorabilia auction sees first ever Apple check sell for $2.4M [U]",
+        "link": "https://9to5mac.com/2026/02/02/steve-jobs-memorabilia-auction-includes-his-desk-bow-ties-and-much-more/",
+        "description": "A Steve Jobs memorabilia auction included the first check the two Steves ever signed, and it sold for a mind-boggling $2,409,886.\nThe auction also included Steve’s desk and a set of bow ties he wore at school, as well as a wide range of general Apple memorabilia …\nmore…",
+        "published": "2026-02-02T12:59:52.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "apple",
+          "first ever"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Ford denies report that it plans to build EVs in the US with China’s Xiaomi",
+        "link": "https://electrek.co/2026/02/02/ford-denies-report-plans-build-evs-in-the-us-with-xiaomi/",
+        "description": "Ford is not planning to build electric vehicles in the US with China’s Xiaomi, despite a report claiming the partnership would “pave the way for Chinese carmakers to gain a foothold in the US.”\nmore…",
+        "published": "2026-02-02T15:19:00.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "xiaomi",
+          "arm"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Here’s everything new Apple TV has coming in February",
+        "link": "https://9to5mac.com/2026/02/02/heres-everything-new-apple-tv-has-coming-in-february/",
+        "description": "The early theme of Apple TV’s 2026 is new seasons of existing shows. January was packed with five such series, and now a couple more are coming in February—including a big-budget sci-fi epic. Here’s everything new coming to Apple TV in February.\nmore…",
+        "published": "2026-02-02T14:02:03.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Chinese EV leaders MG and BYD bring the price war overseas",
+        "link": "https://electrek.co/2026/02/02/chinese-ev-leaders-mg-and-byd-bring-price-war-overseas/",
+        "description": "MG launched the new MG4 EV Urban in the UK, priced at just £23,495 ($32,000), undercutting BYD’s popular Dolphin hatch as more affordable electric cars hit the market.\nmore…",
+        "published": "2026-02-02T19:37:30.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "byd"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Tesla (TSLA) can’t find the bottom in Europe as 2026 starts with another brutal decline",
+        "link": "https://electrek.co/2026/02/02/tesla-tsla-cant-find-bottom-europe-2026-brutal-decline/",
+        "description": "The first batch of January 2026 registration data is in from Europe, and Tesla’s freefall on the continent shows no sign of slowing down. Across five major markets that have reported so far, Tesla registrations are down a staggering 44% year-over-year, extending what is now more than two years of continuous decline.\nmore…",
+        "published": "2026-02-02T14:28:39.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "tesla"
+        ],
+        "category": "ev_autonomous"
+      }
+    ],
+    "business": [
+      {
+        "title": "Tim Cook didn’t rule out price rises for Apple products, and here’s why",
+        "link": "https://9to5mac.com/2026/02/02/tim-cook-didnt-rule-out-price-rises-for-apple-products-and-heres-why/",
+        "description": "Apple CEO Tim Cook declined to comment on repeated questions during Thursday’s earnings call about how the company would respond to rising memory costs.\nThe decision on whether to absorb rising costs or pass them on to customers in the form of higher prices is not going to be an easy one, and a look at the numbers makes it clear why Cook was unwilling to rule out the latter possibility …\nmore…",
+        "published": "2026-02-02T12:49:12.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "apple",
+          "ceo",
+          "tim cook"
+        ],
+        "category": "business"
+      }
+    ],
+    "ai": [
       {
         "title": "OpenAI launches Codex app for macOS, here are the details",
         "link": "https://9to5mac.com/2026/02/02/openai-launches-codex-app-for-macos-here-are-the-details/",
@@ -350,173 +520,6 @@
           "chatgpt"
         ],
         "category": "ai"
-      }
-    ],
-    "business": [
-      {
-        "title": "Tim Cook didn’t rule out price rises for Apple products, and here’s why",
-        "link": "https://9to5mac.com/2026/02/02/tim-cook-didnt-rule-out-price-rises-for-apple-products-and-heres-why/",
-        "description": "Apple CEO Tim Cook declined to comment on repeated questions during Thursday’s earnings call about how the company would respond to rising memory costs.\nThe decision on whether to absorb rising costs or pass them on to customers in the form of higher prices is not going to be an easy one, and a look at the numbers makes it clear why Cook was unwilling to rule out the latter possibility …\nmore…",
-        "published": "2026-02-02T12:49:12.000Z",
-        "source": "9to5Mac",
-        "sourceKey": "9to5mac",
-        "priority": 2,
-        "relevanceScore": 10,
-        "matchedKeywords": [
-          "apple",
-          "ceo",
-          "tim cook"
-        ],
-        "category": "business"
-      },
-      {
-        "title": "UK Space Agency CEO stepping down as agency folds into government",
-        "link": "https://spacenews.com/uk-space-agency-ceo-stepping-down-as-agency-folds-into-government/",
-        "description": "Paul Bate is stepping down as CEO of the UK Space Agency at the end of March as it transitions from a standalone body into the British government’s Department for Science, Innovation and Technology.\nThe post UK Space Agency CEO stepping down as agency folds into government appeared first on SpaceNews.",
-        "published": "2026-02-02T19:05:27.000Z",
-        "source": "SpaceNews",
-        "sourceKey": "spacenews",
-        "priority": 2,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "ceo"
-        ],
-        "category": "business"
-      }
-    ],
-    "ev_autonomous": [
-      {
-        "title": "Every Pixelsnap case for Google’s Pixel 10 series is $10 off right now at Amazon",
-        "link": "https://9to5google.com/2026/02/02/google-pixel-10-pixelsnap-case-discount-sale/",
-        "description": "Google finally brought built-in Qi2 support to the Pixel 10 series with Pixelsnap, but that doesn’t mean you can’t rely on magnet-equipped cases for your accessories. Right now, Google’s Pixelsnap cases for every Pixel 10 model in every single colorway are $10 off at Amazon.\nmore…",
-        "published": "2026-02-02T15:35:00.000Z",
-        "source": "9to5Google",
-        "sourceKey": "9to5google",
-        "priority": 2,
-        "relevanceScore": 8,
-        "matchedKeywords": [
-          "google",
-          "amazon"
-        ],
-        "category": "ev_autonomous"
-      },
-      {
-        "title": "China finalizes proposed ban on Tesla-style hidden door handles for safety",
-        "link": "https://electrek.co/2026/02/02/china-finalizes-proposed-ban-on-tesla-style-hidden-door-handles-for-safety/",
-        "description": "China has officially moved forward with a proposed ban on flush EV door handles, with an effective date of January 1, 2027. The regulation will force a redesign of many EVs with sleek, electronically-actuated handles, a design popularized by Tesla.\nmore…",
-        "published": "2026-02-02T18:08:38.000Z",
-        "source": "Electrek",
-        "sourceKey": "electrek",
-        "priority": 2,
-        "relevanceScore": 8,
-        "matchedKeywords": [
-          "tesla",
-          "regulation"
-        ],
-        "category": "ev_autonomous"
-      },
-      {
-        "title": "Porsche Cayenne Electric enters production, we toured its battery factory",
-        "link": "https://electrek.co/2026/02/02/porsche-cayenne-electric-enters-production-we-toured-its-battery-factory/",
-        "description": "As Tesla CEO Elon Musk pleaded for more battery infrastructure in America, we toured Porsche’s incredibly advanced Smart Battery facility in Slovakia.\nmore…",
-        "published": "2026-02-02T14:13:14.000Z",
-        "source": "Electrek",
-        "sourceKey": "electrek",
-        "priority": 2,
-        "relevanceScore": 8,
-        "matchedKeywords": [
-          "tesla",
-          "ceo",
-          "elon musk"
-        ],
-        "category": "ev_autonomous"
-      },
-      {
-        "title": "Tesla still working on CarPlay support, here’s what we know",
-        "link": "https://9to5mac.com/2026/02/02/tesla-still-working-on-carplay-support-heres-what-we-know/",
-        "description": "Last November, Bloomberg broke the news that Tesla was working on CarPlay support, a dramatic shift in policy for Elon Musk’s company.\nHere’s the latest on what we know about Tesla’s plans to support CarPlay.\nmore…",
-        "published": "2026-02-02T16:31:04.000Z",
-        "source": "9to5Mac",
-        "sourceKey": "9to5mac",
-        "priority": 2,
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "tesla",
-          "elon musk"
-        ],
-        "category": "ev_autonomous"
-      },
-      {
-        "title": "Steve Jobs memorabilia auction sees first ever Apple check sell for $2.4M [U]",
-        "link": "https://9to5mac.com/2026/02/02/steve-jobs-memorabilia-auction-includes-his-desk-bow-ties-and-much-more/",
-        "description": "A Steve Jobs memorabilia auction included the first check the two Steves ever signed, and it sold for a mind-boggling $2,409,886.\nThe auction also included Steve’s desk and a set of bow ties he wore at school, as well as a wide range of general Apple memorabilia …\nmore…",
-        "published": "2026-02-02T12:59:52.000Z",
-        "source": "9to5Mac",
-        "sourceKey": "9to5mac",
-        "priority": 2,
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "apple",
-          "first ever"
-        ],
-        "category": "ev_autonomous"
-      },
-      {
-        "title": "Ford denies report that it plans to build EVs in the US with China’s Xiaomi",
-        "link": "https://electrek.co/2026/02/02/ford-denies-report-plans-build-evs-in-the-us-with-xiaomi/",
-        "description": "Ford is not planning to build electric vehicles in the US with China’s Xiaomi, despite a report claiming the partnership would “pave the way for Chinese carmakers to gain a foothold in the US.”\nmore…",
-        "published": "2026-02-02T15:19:00.000Z",
-        "source": "Electrek",
-        "sourceKey": "electrek",
-        "priority": 2,
-        "relevanceScore": 6,
-        "matchedKeywords": [
-          "xiaomi",
-          "arm"
-        ],
-        "category": "ev_autonomous"
-      },
-      {
-        "title": "Here’s everything new Apple TV has coming in February",
-        "link": "https://9to5mac.com/2026/02/02/heres-everything-new-apple-tv-has-coming-in-february/",
-        "description": "The early theme of Apple TV’s 2026 is new seasons of existing shows. January was packed with five such series, and now a couple more are coming in February—including a big-budget sci-fi epic. Here’s everything new coming to Apple TV in February.\nmore…",
-        "published": "2026-02-02T14:02:03.000Z",
-        "source": "9to5Mac",
-        "sourceKey": "9to5mac",
-        "priority": 2,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "ev_autonomous"
-      },
-      {
-        "title": "Chinese EV leaders MG and BYD bring the price war overseas",
-        "link": "https://electrek.co/2026/02/02/chinese-ev-leaders-mg-and-byd-bring-price-war-overseas/",
-        "description": "MG launched the new MG4 EV Urban in the UK, priced at just £23,495 ($32,000), undercutting BYD’s popular Dolphin hatch as more affordable electric cars hit the market.\nmore…",
-        "published": "2026-02-02T19:37:30.000Z",
-        "source": "Electrek",
-        "sourceKey": "electrek",
-        "priority": 2,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "byd"
-        ],
-        "category": "ev_autonomous"
-      },
-      {
-        "title": "Tesla (TSLA) can’t find the bottom in Europe as 2026 starts with another brutal decline",
-        "link": "https://electrek.co/2026/02/02/tesla-tsla-cant-find-bottom-europe-2026-brutal-decline/",
-        "description": "The first batch of January 2026 registration data is in from Europe, and Tesla’s freefall on the continent shows no sign of slowing down. Across five major markets that have reported so far, Tesla registrations are down a staggering 44% year-over-year, extending what is now more than two years of continuous decline.\nmore…",
-        "published": "2026-02-02T14:28:39.000Z",
-        "source": "Electrek",
-        "sourceKey": "electrek",
-        "priority": 2,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "tesla"
-        ],
-        "category": "ev_autonomous"
       }
     ],
     "chips_cloud": [

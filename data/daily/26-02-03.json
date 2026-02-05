@@ -4,7 +4,7 @@
   "title": "Tuesday, Feb 3",
   "dateRange": "February 3, 2026",
   "date": "2026-02-03",
-  "generatedAt": "2026-02-05T19:30:35.278Z",
+  "generatedAt": "2026-02-05T19:52:40.851Z",
   "highlights": [
     {
       "title": "xAI accused of destroying evidence in antitrust case against Apple and OpenAI",
@@ -60,40 +60,6 @@
       "category": "space"
     },
     {
-      "title": "Waymo raises massive $16 billion round at $126 billion valuation, plans expansion to 20+ cities",
-      "link": "https://electrek.co/2026/02/02/waymo-raises-16-billion-round-at-126-billion-valuation-plans-expansion/",
-      "description": "Waymo just closed a $16 billion funding round at a $126 billion valuation, the largest investment ever in an autonomous vehicle company. The Alphabet-backed robotaxi leader plans to use the capital to expand to over 20 new cities this year, including its first international markets.\nmore…",
-      "published": "2026-02-02T23:18:58.000Z",
-      "source": "Electrek",
-      "sourceKey": "electrek",
-      "priority": 2,
-      "relevanceScore": 14,
-      "matchedKeywords": [
-        "alphabet",
-        "waymo",
-        "robotaxi",
-        "autonomous vehicle",
-        "billion"
-      ],
-      "category": "ev_autonomous"
-    },
-    {
-      "title": "Elon is in the files, Tesla sales are down, and Ford is NOT working with Xiaomi",
-      "link": "https://electrek.co/2026/02/02/elon-is-in-the-files-tesla-sales-are-down-and-ford-is-not-working-with-xiaomi/",
-      "description": "On today’s island-hopping episode of Quick Charge, we have to talk about Elon Musk’s cringey appearance in the Epstein files amid Tesla’s rapid sales decline in Europe, as well as the ultra-fast Xiaomi SU7 Ultra and its own rapid sales decline.\nmore…",
-      "published": "2026-02-02T23:40:14.000Z",
-      "source": "Electrek",
-      "sourceKey": "electrek",
-      "priority": 2,
-      "relevanceScore": 11,
-      "matchedKeywords": [
-        "tesla",
-        "xiaomi",
-        "elon musk"
-      ],
-      "category": "ev_autonomous"
-    },
-    {
       "title": "ChatGPT is down for many users in major OpenAI outage [U: Fixed]",
       "link": "https://9to5mac.com/2026/02/03/chatgpt-is-down-for-many-users-in-major-outage/",
       "description": "It’s not just you: ChatGPT is down for many users right now. Here’s the latest on OpenAI’s outage.\nUpdate: the problem was resolved with all elements of the service back online by February 4.\nmore…",
@@ -123,6 +89,36 @@
         "gemini"
       ],
       "category": "ai"
+    },
+    {
+      "title": "Netflix says users can cancel service if HBO Max merger makes it too expensive ",
+      "link": "https://arstechnica.com/gadgets/2026/02/netflix-claims-subscribers-will-get-more-content-for-less-if-it-buys-hbo-max/",
+      "description": "Eighty percent of HBO Max subscribers subscribe to Netflix, Sarandos tells Senate.",
+      "published": "2026-02-03T23:41:39.000Z",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "priority": 1,
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "netflix",
+        "merger"
+      ],
+      "category": "regulation"
+    },
+    {
+      "title": " AMD CEO downplays PC memory crunch, saying 'our focus areas are enterprise' — company wants to focus on growing 'higher-end of the market' ",
+      "link": "https://www.tomshardware.com/pc-components/cpus/amd-ceo-downplays-pc-memory-crunch-saying-our-focus-areas-are-enterprise-company-wants-to-focus-on-growing-higher-end-of-the-market",
+      "description": "AMD's CEO doesn't seem concerned with current memory prices, suggesting the company is focusing its efforts on the enterprise.",
+      "published": "2026-02-03T23:27:14.000Z",
+      "source": "Tom's Hardware",
+      "sourceKey": "tomshardware",
+      "priority": 2,
+      "relevanceScore": 7,
+      "matchedKeywords": [
+        "amd",
+        "ceo"
+      ],
+      "category": "chips_cloud"
     },
     {
       "title": " AMD reveals next-gen Xbox could launch in 2027 — CEO says semi-custom SoC ready to 'support launch in 2027' ",
@@ -252,6 +248,22 @@
         "matchedKeywords": [
           "apple",
           "intel"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Gemini ‘screen automation’ will place orders, book rides for you on Android [APK Insight]",
+        "link": "https://9to5google.com/2026/02/03/gemini-screen-automation-insight/",
+        "description": "It’s been clear for a while that Google is working to let Gemini control your Android phone, and we now have some details on how this “screen automation” will work.\nmore…",
+        "published": "2026-02-03T23:16:58.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "google",
+          "gemini",
+          "automation"
         ],
         "category": "ai"
       },
@@ -388,57 +400,135 @@
           "data center"
         ],
         "category": "space"
+      }
+    ],
+    "regulation": [
+      {
+        "title": "Netflix says users can cancel service if HBO Max merger makes it too expensive ",
+        "link": "https://arstechnica.com/gadgets/2026/02/netflix-claims-subscribers-will-get-more-content-for-less-if-it-buys-hbo-max/",
+        "description": "Eighty percent of HBO Max subscribers subscribe to Netflix, Sarandos tells Senate.",
+        "published": "2026-02-03T23:41:39.000Z",
+        "source": "Ars Technica",
+        "sourceKey": "arstechnica",
+        "priority": 1,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "netflix",
+          "merger"
+        ],
+        "category": "regulation"
+      }
+    ],
+    "chips_cloud": [
+      {
+        "title": " AMD CEO downplays PC memory crunch, saying 'our focus areas are enterprise' — company wants to focus on growing 'higher-end of the market' ",
+        "link": "https://www.tomshardware.com/pc-components/cpus/amd-ceo-downplays-pc-memory-crunch-saying-our-focus-areas-are-enterprise-company-wants-to-focus-on-growing-higher-end-of-the-market",
+        "description": "AMD's CEO doesn't seem concerned with current memory prices, suggesting the company is focusing its efforts on the enterprise.",
+        "published": "2026-02-03T23:27:14.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "amd",
+          "ceo"
+        ],
+        "category": "chips_cloud"
       },
       {
-        "title": "SpaceX pauses Falcon 9 launches after upper stage anomaly",
-        "link": "https://spacenews.com/spacex-pauses-falcon-9-launches-after-upper-stage-anomaly/",
-        "description": "SpaceX is pausing Falcon 9 launches after an issue with the rocket’s upper stage encountered at the end of a launch Feb. 2.\nThe post SpaceX pauses Falcon 9 launches after upper stage anomaly appeared first on SpaceNews.",
-        "published": "2026-02-03T12:29:06.000Z",
-        "source": "SpaceNews",
-        "sourceKey": "spacenews",
+        "title": " AMD reveals next-gen Xbox could launch in 2027 — CEO says semi-custom SoC ready to 'support launch in 2027' ",
+        "link": "https://www.tomshardware.com/pc-components/cpus/amd-reveals-next-gen-xbox-could-launch-in-2027-ceo-says-semi-custom-soc-ready-to-support-launch-in-2027",
+        "description": "AMD's CEO Dr. Lisa Su let out a hint about the next-gen Xbox, which will sport a semi-custom SoC that should be ready next year.",
+        "published": "2026-02-03T22:22:37.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
         "priority": 2,
-        "relevanceScore": 4,
+        "relevanceScore": 7,
         "matchedKeywords": [
-          "spacex"
+          "amd",
+          "ceo"
         ],
-        "category": "space"
+        "category": "chips_cloud"
+      },
+      {
+        "title": " Intel is co-developing new Z-Angle Memory to compete with HBM used in AI data centers — vertically-stacked memory touts 2 to 3x more capacity, greater bandwidth, and half the power consumption ",
+        "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/intel-is-co-developing-new-z-angle-memory-to-compete-with-hbm-used-in-ai-data-centers-vertically-stacked-memory-touts-2-to-3x-more-capacity-greater-bandwidth-and-half-the-power-consumption",
+        "description": "Intel and SoftBank subsidiary, Saimemory, have signed a new collaborative agreement to advance the development and manufacture of a new type of vertical-stacked memory known as Z-Angle Memory, or ZAM.",
+        "published": "2026-02-03T14:04:28.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "intel",
+          "softbank",
+          "data center"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": " Snag this 4K-capable gaming PC with an RTX 5070 Ti and 32GB of DDR5 RAM for less than $2,000 — a 26% saving on a powerhouse of a rig equipped with Intel's 24-core CPU and a 2TB SSD ",
+        "link": "https://www.tomshardware.com/desktops/gaming-pcs/snag-this-4k-capable-gaming-pc-with-an-rtx-5070-ti-and-32gb-of-ddr5-ram-for-less-than-usd2-000-a-26-percent-saving-on-a-powerhouse-of-a-rig-equipped-with-intels-24-core-cpu-and-a-2tb-ssd",
+        "description": "Take advantage of this Newegg deal on an ABS Kaze II Aqua gaming PC, down to just $1994.99 with discount code DEAL5ABS. This 26% saving nets you a PC with a 24-core Intel Core i9-14900KF CPU, an Nvidia GeForce RTX 5070 Ti GPU, a 2TB SSD, and 32GB of DDR5 RAM.",
+        "published": "2026-02-03T13:12:28.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "nvidia",
+          "intel",
+          "gpu"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": " AMD Radeon RX 9000 GPUs begin to appear in the Steam Hardware Survey at last — RX 9070 arrives with paltry 0.16% market share, less than the GeForce GT 730 ",
+        "link": "https://www.tomshardware.com/pc-components/gpus/amd-radeon-rx-9000-gpus-begin-to-appear-in-the-steam-hardware-survey-at-last-rx-9070-arrives-with-paltry-0-16-percent-market-share-less-than-the-geforce-gt-730",
+        "description": "The latest Steam Hardware Survey is out, and a single AMD RDNA4 architecture GPU has charted in the PC Video Card Usage tables.",
+        "published": "2026-02-03T12:59:43.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "amd",
+          "gpu"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": " Purported Arrow Lake Refresh CPUs might bring extra performance with no price premium — early retailer listings show practically no price hike for some Core Ultra 200K Plus chips ",
+        "link": "https://www.tomshardware.com/pc-components/cpus/purported-arrow-lake-refresh-cpus-might-bring-extra-performance-with-no-price-premium-early-retailer-listings-show-practically-no-price-hike-for-some-core-ultra-200k-plus-chips",
+        "description": "An overseas retailer has listed Intel's forthcoming Core Ultra 200K Plus (codenamed Arrow Lake Refresh) processors along with pricing, suggesting that the refreshed family will carry practically no premium over existing products.",
+        "published": "2026-02-03T20:02:43.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "intel",
+          "chip"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": " China-made Loongson 12-core chip is approximately three times slower than six-core Ryzen 5 9600X — 3B6000 hampered by low clock speeds in Linux benchmarks ",
+        "link": "https://www.tomshardware.com/pc-components/cpus/china-made-loongson-12-core-chip-is-approximately-three-times-slower-than-six-core-ryzen-5-9600x-3b6000-hampered-by-low-clock-speeds-in-linux-benchmarks",
+        "description": "One of Loongson's 12-core CPUs has been benchmarked by Phoronix. The Linux outlet discovered the chip is three times slower on average than AMD's latest six-core CPU the Ryzen 5 9600X.",
+        "published": "2026-02-03T17:12:09.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "amd",
+          "chip"
+        ],
+        "category": "chips_cloud"
       }
     ],
     "ev_autonomous": [
-      {
-        "title": "Waymo raises massive $16 billion round at $126 billion valuation, plans expansion to 20+ cities",
-        "link": "https://electrek.co/2026/02/02/waymo-raises-16-billion-round-at-126-billion-valuation-plans-expansion/",
-        "description": "Waymo just closed a $16 billion funding round at a $126 billion valuation, the largest investment ever in an autonomous vehicle company. The Alphabet-backed robotaxi leader plans to use the capital to expand to over 20 new cities this year, including its first international markets.\nmore…",
-        "published": "2026-02-02T23:18:58.000Z",
-        "source": "Electrek",
-        "sourceKey": "electrek",
-        "priority": 2,
-        "relevanceScore": 14,
-        "matchedKeywords": [
-          "alphabet",
-          "waymo",
-          "robotaxi",
-          "autonomous vehicle",
-          "billion"
-        ],
-        "category": "ev_autonomous"
-      },
-      {
-        "title": "Elon is in the files, Tesla sales are down, and Ford is NOT working with Xiaomi",
-        "link": "https://electrek.co/2026/02/02/elon-is-in-the-files-tesla-sales-are-down-and-ford-is-not-working-with-xiaomi/",
-        "description": "On today’s island-hopping episode of Quick Charge, we have to talk about Elon Musk’s cringey appearance in the Epstein files amid Tesla’s rapid sales decline in Europe, as well as the ultra-fast Xiaomi SU7 Ultra and its own rapid sales decline.\nmore…",
-        "published": "2026-02-02T23:40:14.000Z",
-        "source": "Electrek",
-        "sourceKey": "electrek",
-        "priority": 2,
-        "relevanceScore": 11,
-        "matchedKeywords": [
-          "tesla",
-          "xiaomi",
-          "elon musk"
-        ],
-        "category": "ev_autonomous"
-      },
       {
         "title": "Best Microsoft Surface Laptop (2026): Which Model to Buy or Avoid",
         "link": "https://www.wired.com/story/microsoft-surface-buying-guide/",
@@ -536,100 +626,6 @@
           "tesla"
         ],
         "category": "ev_autonomous"
-      }
-    ],
-    "chips_cloud": [
-      {
-        "title": " AMD reveals next-gen Xbox could launch in 2027 — CEO says semi-custom SoC ready to 'support launch in 2027' ",
-        "link": "https://www.tomshardware.com/pc-components/cpus/amd-reveals-next-gen-xbox-could-launch-in-2027-ceo-says-semi-custom-soc-ready-to-support-launch-in-2027",
-        "description": "AMD's CEO Dr. Lisa Su let out a hint about the next-gen Xbox, which will sport a semi-custom SoC that should be ready next year.",
-        "published": "2026-02-03T22:22:37.000Z",
-        "source": "Tom's Hardware",
-        "sourceKey": "tomshardware",
-        "priority": 2,
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "amd",
-          "ceo"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": " Intel is co-developing new Z-Angle Memory to compete with HBM used in AI data centers — vertically-stacked memory touts 2 to 3x more capacity, greater bandwidth, and half the power consumption ",
-        "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/intel-is-co-developing-new-z-angle-memory-to-compete-with-hbm-used-in-ai-data-centers-vertically-stacked-memory-touts-2-to-3x-more-capacity-greater-bandwidth-and-half-the-power-consumption",
-        "description": "Intel and SoftBank subsidiary, Saimemory, have signed a new collaborative agreement to advance the development and manufacture of a new type of vertical-stacked memory known as Z-Angle Memory, or ZAM.",
-        "published": "2026-02-03T14:04:28.000Z",
-        "source": "Tom's Hardware",
-        "sourceKey": "tomshardware",
-        "priority": 2,
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "intel",
-          "softbank",
-          "data center"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": " Snag this 4K-capable gaming PC with an RTX 5070 Ti and 32GB of DDR5 RAM for less than $2,000 — a 26% saving on a powerhouse of a rig equipped with Intel's 24-core CPU and a 2TB SSD ",
-        "link": "https://www.tomshardware.com/desktops/gaming-pcs/snag-this-4k-capable-gaming-pc-with-an-rtx-5070-ti-and-32gb-of-ddr5-ram-for-less-than-usd2-000-a-26-percent-saving-on-a-powerhouse-of-a-rig-equipped-with-intels-24-core-cpu-and-a-2tb-ssd",
-        "description": "Take advantage of this Newegg deal on an ABS Kaze II Aqua gaming PC, down to just $1994.99 with discount code DEAL5ABS. This 26% saving nets you a PC with a 24-core Intel Core i9-14900KF CPU, an Nvidia GeForce RTX 5070 Ti GPU, a 2TB SSD, and 32GB of DDR5 RAM.",
-        "published": "2026-02-03T13:12:28.000Z",
-        "source": "Tom's Hardware",
-        "sourceKey": "tomshardware",
-        "priority": 2,
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "nvidia",
-          "intel",
-          "gpu"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": " AMD Radeon RX 9000 GPUs begin to appear in the Steam Hardware Survey at last — RX 9070 arrives with paltry 0.16% market share, less than the GeForce GT 730 ",
-        "link": "https://www.tomshardware.com/pc-components/gpus/amd-radeon-rx-9000-gpus-begin-to-appear-in-the-steam-hardware-survey-at-last-rx-9070-arrives-with-paltry-0-16-percent-market-share-less-than-the-geforce-gt-730",
-        "description": "The latest Steam Hardware Survey is out, and a single AMD RDNA4 architecture GPU has charted in the PC Video Card Usage tables.",
-        "published": "2026-02-03T12:59:43.000Z",
-        "source": "Tom's Hardware",
-        "sourceKey": "tomshardware",
-        "priority": 2,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "amd",
-          "gpu"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": " Purported Arrow Lake Refresh CPUs might bring extra performance with no price premium — early retailer listings show practically no price hike for some Core Ultra 200K Plus chips ",
-        "link": "https://www.tomshardware.com/pc-components/cpus/purported-arrow-lake-refresh-cpus-might-bring-extra-performance-with-no-price-premium-early-retailer-listings-show-practically-no-price-hike-for-some-core-ultra-200k-plus-chips",
-        "description": "An overseas retailer has listed Intel's forthcoming Core Ultra 200K Plus (codenamed Arrow Lake Refresh) processors along with pricing, suggesting that the refreshed family will carry practically no premium over existing products.",
-        "published": "2026-02-03T20:02:43.000Z",
-        "source": "Tom's Hardware",
-        "sourceKey": "tomshardware",
-        "priority": 2,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "intel",
-          "chip"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": " China-made Loongson 12-core chip is approximately three times slower than six-core Ryzen 5 9600X — 3B6000 hampered by low clock speeds in Linux benchmarks ",
-        "link": "https://www.tomshardware.com/pc-components/cpus/china-made-loongson-12-core-chip-is-approximately-three-times-slower-than-six-core-ryzen-5-9600x-3b6000-hampered-by-low-clock-speeds-in-linux-benchmarks",
-        "description": "One of Loongson's 12-core CPUs has been benchmarked by Phoronix. The Linux outlet discovered the chip is three times slower on average than AMD's latest six-core CPU the Ryzen 5 9600X.",
-        "published": "2026-02-03T17:12:09.000Z",
-        "source": "Tom's Hardware",
-        "sourceKey": "tomshardware",
-        "priority": 2,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "amd",
-          "chip"
-        ],
-        "category": "chips_cloud"
       }
     ]
   },

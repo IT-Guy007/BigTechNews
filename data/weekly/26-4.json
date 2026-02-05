@@ -1,11 +1,11 @@
 {
-  "type": "monthly",
-  "id": "26-01",
-  "title": "January 2026",
-  "dateRange": "Jan 1 – Jan 31, 2026",
-  "month": 1,
+  "type": "weekly",
+  "id": "26-4",
+  "week": 4,
   "year": 2026,
-  "generatedAt": "2026-02-05T19:52:41.030Z",
+  "title": "Week 4",
+  "dateRange": "Jan 26 – Feb 1, 2026",
+  "generatedAt": "2026-02-05T19:52:40.938Z",
   "highlights": [
     {
       "title": "Elon Musk is rumored to be floating merger between Tesla, xAI, and SpaceX",
@@ -341,6 +341,20 @@
         "category": "ai"
       },
       {
+        "title": "Expect more upsells and subscription bundles from Apple, Creator Studio was just the start",
+        "link": "https://9to5mac.com/2026/02/01/more-apple-bundles-paid-upgrades-services-upsells/",
+        "description": "In the future, Apple users should expect more paid upgrades and subscription bundles just like what the company launched with Apple Creator Studio last month. As said by Mark Gurman in this week’s Power On newsletter, “I believe Apple is looking at all areas of its software and services” for further services monetization opportunities. \nObviously, the appeal of more subscription bundles depends on the particulars. For instance, Apple One has been very popular and seems relatively consumer friendly. But, while Creator Studio is a reasonable deal for hardcore users of Final Cut and Logic Pro, it also introduced exclusive paid features and upsell banners into Apple’s previously free-with-no-asterisks iWork suite of Pages, Keynote and Numbers. \nmore…",
+        "published": "2026-02-01T19:24:00.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "Amazon Fire TV is now blocking the installation of some sideloaded apps",
         "link": "https://9to5google.com/2026/01/31/amazon-fire-tv-is-now-blocking-the-installation-of-some-sideloaded-apps/",
         "description": "Amazon has been on a crusade to stop rampant piracy on Fire TV, with the company now blocking even the installation of certain sideloaded apps.\nmore…",
@@ -411,6 +425,20 @@
           "tesla",
           "ceo",
           "elon musk"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "The Bronx will be breathing a little easier with new Volvo VNR Electric",
+        "link": "https://electrek.co/2026/02/01/the-bronx-will-be-breathing-a-little-easier-with-new-volvo-vnr-electric/",
+        "description": "New York City’s largest food rescue organization is helping Bronx residents breathe a little bit easier with the recent acquisition and upcoming deployment of three brand-new, zero emission Volvo VNR Electric semi trucks.\nmore…",
+        "published": "2026-02-01T21:28:13.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "acquisition"
         ],
         "category": "business"
       }
@@ -675,5 +703,5 @@
       }
     ]
   },
-  "totalArticles": 42
+  "totalArticles": 44
 }

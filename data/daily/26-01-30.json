@@ -4,7 +4,7 @@
   "title": "Friday, Jan 30",
   "dateRange": "January 30, 2026",
   "date": "2026-01-30",
-  "generatedAt": "2026-02-05T19:30:35.291Z",
+  "generatedAt": "2026-02-05T19:52:40.869Z",
   "highlights": [
     {
       "title": "Elon Musk is rumored to be floating merger between Tesla, xAI, and SpaceX",
@@ -40,22 +40,6 @@
         "elon musk"
       ],
       "category": "ai"
-    },
-    {
-      "title": "Tesla’s own Robotaxi data confirms crash rate 3x worse than humans even with monitor",
-      "link": "https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/",
-      "description": "Tesla’s nascent robotaxi program is off to a rough start. New NHTSA crash data, combined with Tesla’s new disclosure of robotaxi mileage, reveals Tesla’s autonomous vehicles are crashing at a rate much higher tha human drivers, and that’s with a safety monitor in every car.\nmore…",
-      "published": "2026-01-29T23:11:59.000Z",
-      "source": "Electrek",
-      "sourceKey": "electrek",
-      "priority": 2,
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "tesla",
-        "robotaxi",
-        "autonomous vehicle"
-      ],
-      "category": "ev_autonomous"
     },
     {
       "title": "Worthwhile Gemini integrations in Google apps are finally here",
@@ -155,6 +139,20 @@
       "relevanceScore": 4,
       "matchedKeywords": [
         "samsung"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Podcast: Tesla’s auto suicide, Model S/X dead, Cybercab fiasco, and more",
+      "link": "https://electrek.co/2026/01/30/podcast-teslas-auto-suicide-model-s-x-dead-cybercab-fiasco-and-more/",
+      "description": "In the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Tesla’s automotive suicide, Model S/X getting axed in the process, the Cybercab fiasco, and more\n\n\n\n\n more…",
+      "published": "2026-01-30T20:48:16.000Z",
+      "source": "Electrek",
+      "sourceKey": "electrek",
+      "priority": 2,
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "tesla"
       ],
       "category": "ai"
     }
@@ -268,25 +266,39 @@
           "tesla"
         ],
         "category": "ai"
-      }
-    ],
-    "ev_autonomous": [
+      },
       {
-        "title": "Tesla’s own Robotaxi data confirms crash rate 3x worse than humans even with monitor",
-        "link": "https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/",
-        "description": "Tesla’s nascent robotaxi program is off to a rough start. New NHTSA crash data, combined with Tesla’s new disclosure of robotaxi mileage, reveals Tesla’s autonomous vehicles are crashing at a rate much higher tha human drivers, and that’s with a safety monitor in every car.\nmore…",
-        "published": "2026-01-29T23:11:59.000Z",
+        "title": "What really broke on the grid during Storm Fern – it wasn’t wind or solar",
+        "link": "https://electrek.co/2026/01/30/what-really-broke-on-the-grid-during-storm-fern-it-wasnt-wind-or-solar/",
+        "description": "Winter Storm Fern knocked out power for millions of people across the US and reignited a familiar political and media fight over what really causes large-scale outages during extreme weather. To separate the rhetoric from the operational reality, Electrek spoke with Leah Qusba, CEO of GoodPower, a research, strategic communications, and campaigning organization focused on advancing the global renewable energy transition. \nIn this Q&A, Qusba walks through what tends to fail first during major winter storms, what outage data shows about the role of wind, solar, and fossil generation during Fern, why fuel supply and winterization still matter more than the generation mix, and how coordinated disinformation campaigns exploit moments of uncertainty after grid emergencies and what works to counter them.\nmore…",
+        "published": "2026-01-30T23:29:29.000Z",
         "source": "Electrek",
         "sourceKey": "electrek",
         "priority": 2,
-        "relevanceScore": 9,
+        "relevanceScore": 3,
         "matchedKeywords": [
-          "tesla",
-          "robotaxi",
-          "autonomous vehicle"
+          "ceo"
         ],
-        "category": "ev_autonomous"
-      },
+        "category": "ai"
+      }
+    ],
+    "chips_cloud": [
+      {
+        "title": "Nvidia won’t give up on Shield TV updates ‘any time soon,’ new hardware could happen",
+        "link": "https://9to5google.com/2026/01/30/nvidia-shield-tv-updates-future-interview/",
+        "description": "Over a decade in, Nvidia says it isn’t giving up on the Shield TV any time soon, with updates still coming, and new hardware not necessarily off of the table.\nmore…",
+        "published": "2026-01-30T16:30:00.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "nvidia"
+        ],
+        "category": "chips_cloud"
+      }
+    ],
+    "ev_autonomous": [
       {
         "title": "CATL and BYD are betting on a new type of EV battery to overcome rising lithium prices",
         "link": "https://electrek.co/2026/01/30/catl-byd-betting-on-new-type-of-ev-battery/",
@@ -315,23 +327,7 @@
         ],
         "category": "ev_autonomous"
       }
-    ],
-    "chips_cloud": [
-      {
-        "title": "Nvidia won’t give up on Shield TV updates ‘any time soon,’ new hardware could happen",
-        "link": "https://9to5google.com/2026/01/30/nvidia-shield-tv-updates-future-interview/",
-        "description": "Over a decade in, Nvidia says it isn’t giving up on the Shield TV any time soon, with updates still coming, and new hardware not necessarily off of the table.\nmore…",
-        "published": "2026-01-30T16:30:00.000Z",
-        "source": "9to5Google",
-        "sourceKey": "9to5google",
-        "priority": 2,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "nvidia"
-        ],
-        "category": "chips_cloud"
-      }
     ]
   },
-  "totalArticles": 14
+  "totalArticles": 13
 }
