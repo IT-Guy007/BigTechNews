@@ -1,0 +1,24 @@
+{
+  "name": "big-tech-news",
+  "version": "1.0.0",
+  "description": "Weekly Big Tech news digest aggregator",
+  "main": "scraper/index.js",
+  "scripts": {
+    "scrape": "node scraper/index.js",
+    "scrape:backfill": "node scraper/index.js --backfill",
+    "build": "node build/generate.js",
+    "dev": "npx serve public",
+    "test": "node scraper/test.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "cheerio": "^1.0.0-rc.12",
+    "date-fns": "^3.3.1",
+    "dotenv": "^16.4.1",
+    "rss-parser": "^3.13.0",
+    "marked": "^12.0.0"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "MIT"
+}

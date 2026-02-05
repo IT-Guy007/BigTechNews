@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Big Tech News - Weekly Digest</title>
+  <meta name="description" content="Your weekly digest of the most important developments in big tech. AI, chips, EVs, crypto, and more.">
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="index.html" class="logo">
+        <span class="logo-icon">📡</span>
+        <span class="logo-text">Big Tech News</span>
+      </a>
+      <p class="tagline">Key developments in tech business. Aggregated weekly.</p>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="hero">
+      {{latestSummary}}
+    </section>
+
+    <section class="digests-section">
+      <h2>All Digests</h2>
+      <p class="section-meta">{{totalDigests}} weekly digests available</p>
+      
+      <div class="digests-grid">
+        {{digestsListHTML}}
+      </div>
+    </section>
+
+    <section class="about-section">
+      <h2>About</h2>
+      <p>
+        Big Tech News automatically aggregates stories from major tech publications including 
+        TechCrunch, The Verge, Ars Technica, CNBC, Reuters, and many more. Articles are filtered 
+        for relevance to big tech companies and emerging technology trends, then organized into 
+        weekly digests.
+      </p>
+      <p class="update-note">
+        Last updated: {{lastUpdated}}
+      </p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>Big Tech News © 2026 | Automated with GitHub Actions</p>
+      <p class="footer-note">For personal use only. All article links point to their original sources.</p>
+    </div>
+  </footer>
+</body>
+</html>

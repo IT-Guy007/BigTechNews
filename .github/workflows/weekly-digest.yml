@@ -1,0 +1,87 @@
+name: Weekly Big Tech News Digest
+
+on:
+  # Run every Monday at 8 AM UTC
+  schedule:
+    - cron: '0 8 * * 1'
+  
+  # Allow manual trigger
+  workflow_dispatch:
+    inputs:
+      backfill:
+        description: 'Backfill past 4 weeks'
+        required: false
+        default: 'false'
+        type: boolean
+
+jobs:
+  scrape-and-build:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run scraper (backfill)
+        if: ${{ github.event.inputs.backfill == 'true' || github.event_name == 'workflow_dispatch' && github.event.inputs.backfill != 'false' }}
+        run: npm run scrape:backfill
+
+      - name: Run scraper (current week)
+        if: ${{ github.event.inputs.backfill != 'true' }}
+        run: npm run scrape
+
+      - name: Build static site
+        run: npm run build
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/ public/
+          git diff --staged --quiet || git commit -m "Update digest $(date +'%Y-%m-%d')"
+          git push
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './public'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+  notify-on-failure:
+    needs: scrape-and-build
+    runs-on: ubuntu-latest
+    if: failure()
+    steps:
+      - name: Create issue on failure
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `Weekly Digest Failed - ${new Date().toISOString().split('T')[0]}`,
+              body: `The weekly digest workflow failed. Please check the [workflow run](${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}) for details.`,
+              labels: ['bug', 'automated']
+            })
