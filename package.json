@@ -1,14 +1,16 @@
 {
   "name": "big-tech-news",
-  "version": "1.0.0",
-  "description": "Weekly Big Tech news digest aggregator",
+  "version": "2.0.0",
+  "description": "Daily Big Tech news digest aggregator with weekly and monthly summaries",
   "main": "scraper/index.js",
   "scripts": {
-    "scrape": "node scraper/index.js",
+    "scrape": "node scraper/index.js --daily",
+    "scrape:daily": "node scraper/index.js --daily",
+    "scrape:weekly": "node scraper/index.js --weekly",
+    "scrape:monthly": "node scraper/index.js --monthly",
     "scrape:backfill": "node scraper/index.js --backfill",
     "build": "node build/generate.js",
-    "dev": "npx serve public",
-    "test": "node scraper/test.js"
+    "dev": "npx serve public -p 3000"
   },
   "dependencies": {
     "axios": "^1.6.7",

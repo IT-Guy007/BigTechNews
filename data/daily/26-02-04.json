@@ -1,0 +1,868 @@
+{
+  "type": "daily",
+  "id": "26-02-04",
+  "title": "Wednesday, Feb 4",
+  "dateRange": "February 4, 2026",
+  "date": "2026-02-04",
+  "generatedAt": "2026-02-05T19:30:35.270Z",
+  "highlights": [
+    {
+      "title": "Anthropic says it won't bring ads to Claude, unlike rival ChatGPT",
+      "link": "https://www.engadget.com/ai/anthropic-says-it-wont-bring-ads-to-claude-unlike-rival-chatgpt-171243642.html?src=rss",
+      "description": "Anthropic has announced that its chatbot Claude will remain ad-free. This is in direct contrast to rival company OpenAI, which recently brought ads to ChatGPT for many users.\nThe company says that \"including ads in conversations with Claude would be incompatible\" with the chatbot becoming a \"genuinely helpful assistant for work and for deep thinking.\" The reasoning here is rather simple. People tend to share personal details with chatbots, for better or for worse, and getting ads based on that stuff would be creepy. Imagine asking for mental health advice and getting an ad for St. John's wort or something.\n\n\nAnthropic notes that other conversations \"involve complex software engineering tasks, deep work or thinking through difficult problems. The appearance of ads in these contexts would feel incongruous—and, in many cases, inappropriate.\"\nThe company said that integrating advertising would \"work against\" the Claude Constitution, which counts \"being generally helpful\" as a core principle. \"Introducing advertising incentives at this stage would add another level of complexity. Our understanding of how models translate the goals we set them into specific behaviors is still developing; an ad-based system could therefore have unpredictable results,\" it writes in a blog post.\nThere are some real world concerns here. AI companies gobble up all money in sight and the returns haven't exactly been stellar. Ads are an easy way to recoup some of that investment, which is likely why OpenAI went that route. Engadget reached out to Anthropic to inquire about any kind of forthcoming financial hurdles that could force it to change course. A representative pointed to today's blog post and said it's \"all the information we have to share at this time.\"\nWe do know that Anthropic remains committed to commerce-based agentic AI. It said it will \"continue to build features that enable our users to find, compare or buy products, connect with businesses and more.\"\nThis article originally appeared on Engadget at https://www.engadget.com/ai/anthropic-says-it-wont-bring-ads-to-claude-unlike-rival-chatgpt-171243642.html?src=rss",
+      "published": "2026-02-04T17:12:44.000Z",
+      "source": "Engadget",
+      "sourceKey": "engadget",
+      "priority": 2,
+      "relevanceScore": 18,
+      "matchedKeywords": [
+        "openai",
+        "anthropic",
+        "chatgpt",
+        "claude"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Broadcom, Nvidia shares rise on surging Google capital expenditures for AI ",
+      "link": "https://www.cnbc.com/2026/02/04/broadcom-google-tpu-ai-nvidia.html",
+      "description": "Much of Google's AI software doesn't run on industry-standard Nvidia chips, but instead on its own tensor processing units. Broadcom helps Google make its TPUs.",
+      "published": "2026-02-04T22:27:03.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "relevanceScore": 15,
+      "matchedKeywords": [
+        "google",
+        "nvidia",
+        "broadcom",
+        "chip",
+        "tpu"
+      ],
+      "category": "chips_cloud"
+    },
+    {
+      "title": "Anthropic pokes fun at ads in ChatGPT with Superbowl ad [Video]",
+      "link": "https://9to5mac.com/2026/02/04/anthropic-pokes-fun-at-ads-in-chatgpt-with-superbowl-ad-video/",
+      "description": "OpenAI recently revealed that we will soon see ads in ChatGPT conversations, and Anthropic is having some fun with this. It will reportedly run an ad during Sunday’s Super Bowl (below) in which ChatGPT isn’t named but is very clearly the target …\nmore…",
+      "published": "2026-02-04T13:41:30.000Z",
+      "source": "9to5Mac",
+      "sourceKey": "9to5mac",
+      "priority": 2,
+      "relevanceScore": 15,
+      "matchedKeywords": [
+        "openai",
+        "anthropic",
+        "chatgpt"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Anthropic cements its position as the not-OpenAI with no-ads pledge",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/anthropic_no_advertising_in_claude/",
+      "description": "",
+      "published": "2026-02-04T20:37:08.000Z",
+      "source": "The Register",
+      "sourceKey": "theregister",
+      "priority": 2,
+      "relevanceScore": 14,
+      "matchedKeywords": [
+        "openai",
+        "anthropic"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Should AI chatbots have ads? Anthropic says no.",
+      "link": "https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/",
+      "description": "ChatGPT competitor comes out swinging with Super Bowl ad mocking AI product pitches.",
+      "published": "2026-02-04T21:15:07.000Z",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "priority": 1,
+      "relevanceScore": 11,
+      "matchedKeywords": [
+        "anthropic",
+        "chatgpt"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Mistral drops Voxtral Transcribe 2, an open-source speech model that runs on-device for pennies",
+      "link": "https://venturebeat.com/technology/mistral-drops-voxtral-transcribe-2-an-open-source-speech-model-that-runs-on",
+      "description": "Mistral AI, the Paris-based startup positioning itself as Europe's answer to OpenAI, released a pair of speech-to-text models on Wednesday that the company says can transcribe audio faster, more accurately, and far more cheaply than anything else on the market — all while running entirely on a smartphone or laptop.\nThe announcement marks the latest salvo in an increasingly competitive battle over voice AI, a technology that enterprise customers see as essential for everything from automated customer service to real-time translation. But unlike offerings from American tech giants, Mistral's new Voxtral Transcribe 2 models are designed to process sensitive audio without ever transmitting it to remote servers — a feature that could prove decisive for companies in regulated industries like healthcare, finance, and defense.\n\"You'd like your voice and the transcription of your voice to stay close to where you are, meaning you want it to happen on device—on a laptop, a phone, or a smartwatch,\" Pierre Stock, Mistral's vice president of science operations, said in an interview with VentureBeat. \"We make that possible because the model is only 4 billion parameters. It's small enough to fit almost anywhere.\"\nMistral splits its new AI transcription technology into batch processing and real-time applications\nMistral released two distinct models under the Voxtral Transcribe 2 banner, each engineered for different use cases.\n\nVoxtral Mini Transcribe V2 handles batch transcription, processing pre-recorded audio files in bulk. The company says it achieves the lowest word error rate of any transcription service and is available via API at $0.003 per minute, roughly one-fifth the price of major competitors. The model supports 13 languages, including English, Mandarin Chinese, Japanese, Arabic, Hindi, and several European languages.\n\nVoxtral Realtime, as its name suggests, processes live audio with a latency that can be configured down to 200 milliseconds — the blink of an eye. Mistral claims this is a breakthrough for applications where even a two-second delay proves unacceptable: live subtitling, voice agents, and real-time customer service augmentation.\n\nThe Realtime model ships under an Apache 2.0 open-source license, meaning developers can download the model weights from Hugging Face, modify them, and deploy them without paying Mistral a licensing fee. For companies that prefer not to run their own infrastructure, API access costs $0.006 per minute.\nStock said Mistral is betting on the open-source community to expand the model's reach. \"The open-source community is very imaginative when it comes to applications,\" he said. \"We're excited to see what they're going to do.\"\nWhy on-device AI processing matters for enterprises handling sensitive data\nThe decision to engineer models small enough to run locally reflects a calculation about where the enterprise market is heading. As companies integrate AI into ever more sensitive workflows — transcribing medical consultations, financial advisory calls, legal depositions — the question of where that data travels has become a dealbreaker.\nStock painted a vivid picture of the problem during his interview. Current note-taking applications with audio capabilities, he explained, often pick up ambient noise in problematic ways: \"It might pick up the lyrics of the music in the background. It might pick up another conversation. It might hallucinate from a background noise.\"\nMistral invested heavily in training data curation and model architecture to address these issues. \"All of that, we spend a lot of time ironing out the data and the way we train the model to robustify it,\" Stock said.\nThe company also added enterprise-specific features that its American competitors have been slower to implement. Context biasing allows customers to upload a list of specialized terminology — medical jargon, proprietary product names, industry acronyms — and the model will automatically favor those terms when transcribing ambiguous audio. Unlike fine-tuning, which requires retraining the model, context biasing works through a simple API parameter.\n\"You only need a text list,\" Stock explained. \"And then the model will automatically bias the transcription toward these acronyms or these weird words. And it's zero shots, no need for retraining, no need for weird stuff.\"\nFrom factory floors to call centers, Mistral targets high-noise industrial environments\nStock described two scenarios that capture how Mistral envisions the technology being deployed.\nThe first involves industrial auditing. Imagine technicians walking through a manufacturing facility, inspecting heavy machinery while shouting observations over the din of factory noise. \"In the end, imagine like a perfect timestamped notes identifying who said what — so diarization — while being super robust,\" Stock said. The challenge is handling what he called \"weird technical language that no one is able to spell except these people.\"\nThe second scenario targets customer service operations. When a caller contacts a support center, Voxtral Realtime can transcribe the conversation in real time, feeding text to backend systems that pull up relevant customer records before the caller finishes explaining the problem.\n\"The status will appear for the operator on the screen before the customer stops the sentence and stops complaining,\" Stock explained. \"Which means you can just interact and say, 'Okay, I can see the status. Let me correct the address and send back the shipment.'\"\nHe estimated this could reduce typical customer service interactions from multiple back-and-forth exchanges to just two interactions: the customer explains the problem, and the agent resolves it immediately.\nReal-time translation across languages could arrive by the end of 2026\nFor all the focus on transcription, Stock made clear that Mistral views these models as foundational technology for a more ambitious goal: real-time speech-to-speech translation that feels natural.\n\"Maybe the end goal application and what the model is laying the groundwork for is live translation,\" he said. \"I speak French, you speak English. It's key to have minimal latency, because otherwise you don't build empathy. Your face is not out of sync with what you said one second ago.\"\nThat goal puts Mistral in direct competition with Apple and Google, both of which have been racing to solve the same problem. Google's latest translation model operates at a two-second delay — ten times slower than what Mistral claims for Voxtral Realtime.\nMistral positions itself as the privacy-first alternative for enterprise customers\nMistral occupies an unusual position in the AI landscape. Founded in 2023 by alumni of Meta and Google DeepMind, the company has raised over $2 billion and now carries a valuation of approximately $13.6 billion. Yet it operates with a fraction of the compute resources available to American hyperscalers — and has built its strategy around efficiency rather than brute force.\n\"The models we release are enterprise grade, industry leading, efficient — in particular, in terms of cost — can be embedded into the edge, unlocks privacy, unlocks control, transparency,\" Stock said.\nThat approach has resonated particularly with European customers wary of dependence on American technology. In January, France's Ministry of the Armed Forces signed a framework agreement giving the country's military access to Mistral's AI models—a deal that explicitly requires deployment on French-controlled infrastructure.\nData privacy remains one of the biggest barriers to voice AI adoption in the enterprise. For companies in sensitive industries — finance, manufacturing, healthcare, insurance — sending audio data to external cloud servers is often a non-starter. The information needs to stay either on the device itself or within the company's own infrastructure.\nMistral faces stiff competition from OpenAI, Google, and a rising China\nThe transcription market has grown fiercely competitive. OpenAI's Whisper model has become something of an industry standard, available both through API and as downloadable open-source weights. Google, Amazon, and Microsoft all offer enterprise-grade speech services. Specialized players like Assembly AI and Deepgram have built substantial businesses serving developers who need reliable, scalable transcription.\nMistral claims its new models outperform all of them on accuracy benchmarks while undercutting them on price. \"We are better than them on the benchmarks,\" Stock said. Independent verification of those claims will take time, but the company points to performance on FLEURS, a widely used multilingual speech benchmark, where Voxtral models achieve word error rates competitive with or superior to alternatives from OpenAI and Google.\nPerhaps more significantly, Mistral's CEO Arthur Mensch has warned that American AI companies face pressure from an unexpected direction. Speaking at the World Economic Forum in Davos last month, Mensch dismissed the notion that Chinese AI lags behind the West as \"a fairy tale.\"\n\"The capabilities of China's open-source technology is probably stressing the CEOs in the US,\" he said.\nThe French startup bets that trust will determine the winner in enterprise voice AI\nStock predicted that 2026 would be \"the year of note-taking\" — the moment when AI transcription becomes reliable enough that users trust it completely.\n\"You need to trust the model, and the model basically cannot make any mistake, otherwise you would just lose trust in the product and stop using it,\" he said. \"The threshold is super, super hard.\"\nWhether Mistral has crossed that threshold remains to be seen. Enterprise customers will be the ultimate judges, and they tend to move slowly, testing claims against reality before committing budgets and workflows to new technology. The audio playground in Mistral Studio, where developers can test Voxtral Transcribe 2 with their own files, went live today.\nBut Stock's broader argument deserves attention. In a market where American giants compete by throwing billions of dollars at ever-larger models, Mistral is making a different wager: that in the age of AI, smaller and local might beat bigger and distant. For the executives who spend their days worrying about data sovereignty, regulatory compliance, and vendor lock-in, that pitch may prove more compelling than any benchmark.\nThe race to dominate enterprise voice AI is no longer just about who builds the most powerful model. It's about who builds the model you're willing to let listen.",
+      "published": "2026-02-04T20:30:00.000Z",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "priority": 1,
+      "relevanceScore": 10,
+      "matchedKeywords": [
+        "openai",
+        "mistral"
+      ],
+      "category": "regulation"
+    },
+    {
+      "title": "Two Tesla board members are all over the Epstein files: what happens next?",
+      "link": "https://electrek.co/2026/02/04/two-tesla-board-members-are-all-over-the-epstein-files-what-happens-next/",
+      "description": "How far are you willing to go to make a buck? For Tesla shareholders, looking the other way when two board members had close relationships with the head of a sex trafficking organization, and lied about it, is evidently on the table.\nThe newly released Epstein files contain extensive correspondence involving not one, but two current Tesla board members, CEO Elon Musk and his brother Kimbal Musk. The documents directly contradict Elon’s public claims about his relationship with the convicted sex offender, reveal that Epstein was arranging women for Kimbal, and show the kind of conduct that would end careers at any company with functioning corporate governance.\nBut Tesla isn’t any company. And Tesla shareholders have made it abundantly clear that stock price is all that matters.\nmore…",
+      "published": "2026-02-04T17:03:10.000Z",
+      "source": "Electrek",
+      "sourceKey": "electrek",
+      "priority": 2,
+      "relevanceScore": 10,
+      "matchedKeywords": [
+        "tesla",
+        "ceo",
+        "elon musk"
+      ],
+      "category": "ev_autonomous"
+    },
+    {
+      "title": "Alphabet Plans Record Spending in Race to Dominate AI Market",
+      "link": "https://www.bloomberg.com/news/articles/2026-02-04/alphabet-to-blow-past-investor-expectations-on-spending",
+      "description": "Alphabet Inc. is poised to spend more in 2026 than it has invested in the past three years combined to finance an unprecedented expansion of data centers critical to its artificial intelligence ambitions.",
+      "published": "2026-02-04T21:08:22.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "alphabet",
+        "intel",
+        "artificial intelligence",
+        "data center"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": " HetCCL makes clustered Nvidia and AMD AI accelerators play nice with each other via RDMA — vendor-agnostic collective communications library removes an obstacle to heterogeneous AI data centers ",
+      "link": "https://www.tomshardware.com/networking/hetccl-makes-clustered-nvidia-and-amd-ai-accelerators-play-nice-with-each-other-via-rdma-vendor-agnostic-collective-communications-library-removes-an-obstacle-to-heterogeneous-ai-data-centers",
+      "description": "HetCCL, a proposed computing library, could make Nvidia and AMD AI accelerators play nicely with one another in the same cluster by bridging the two companies' hardware over RDMA.",
+      "published": "2026-02-04T11:00:00.000Z",
+      "source": "Tom's Hardware",
+      "sourceKey": "tomshardware",
+      "priority": 2,
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "nvidia",
+        "amd",
+        "data center"
+      ],
+      "category": "chips_cloud"
+    },
+    {
+      "title": "Netflix says users can cancel service if HBO Max merger makes it too expensive ",
+      "link": "https://arstechnica.com/gadgets/2026/02/netflix-claims-subscribers-will-get-more-content-for-less-if-it-buys-hbo-max/",
+      "description": "Eighty percent of HBO Max subscribers subscribe to Netflix, Sarandos tells Senate.",
+      "published": "2026-02-03T23:41:39.000Z",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "priority": 1,
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "netflix",
+        "merger"
+      ],
+      "category": "regulation"
+    }
+  ],
+  "byCategory": {
+    "ai": [
+      {
+        "title": "Anthropic says it won't bring ads to Claude, unlike rival ChatGPT",
+        "link": "https://www.engadget.com/ai/anthropic-says-it-wont-bring-ads-to-claude-unlike-rival-chatgpt-171243642.html?src=rss",
+        "description": "Anthropic has announced that its chatbot Claude will remain ad-free. This is in direct contrast to rival company OpenAI, which recently brought ads to ChatGPT for many users.\nThe company says that \"including ads in conversations with Claude would be incompatible\" with the chatbot becoming a \"genuinely helpful assistant for work and for deep thinking.\" The reasoning here is rather simple. People tend to share personal details with chatbots, for better or for worse, and getting ads based on that stuff would be creepy. Imagine asking for mental health advice and getting an ad for St. John's wort or something.\n\n\nAnthropic notes that other conversations \"involve complex software engineering tasks, deep work or thinking through difficult problems. The appearance of ads in these contexts would feel incongruous—and, in many cases, inappropriate.\"\nThe company said that integrating advertising would \"work against\" the Claude Constitution, which counts \"being generally helpful\" as a core principle. \"Introducing advertising incentives at this stage would add another level of complexity. Our understanding of how models translate the goals we set them into specific behaviors is still developing; an ad-based system could therefore have unpredictable results,\" it writes in a blog post.\nThere are some real world concerns here. AI companies gobble up all money in sight and the returns haven't exactly been stellar. Ads are an easy way to recoup some of that investment, which is likely why OpenAI went that route. Engadget reached out to Anthropic to inquire about any kind of forthcoming financial hurdles that could force it to change course. A representative pointed to today's blog post and said it's \"all the information we have to share at this time.\"\nWe do know that Anthropic remains committed to commerce-based agentic AI. It said it will \"continue to build features that enable our users to find, compare or buy products, connect with businesses and more.\"\nThis article originally appeared on Engadget at https://www.engadget.com/ai/anthropic-says-it-wont-bring-ads-to-claude-unlike-rival-chatgpt-171243642.html?src=rss",
+        "published": "2026-02-04T17:12:44.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "relevanceScore": 18,
+        "matchedKeywords": [
+          "openai",
+          "anthropic",
+          "chatgpt",
+          "claude"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Anthropic pokes fun at ads in ChatGPT with Superbowl ad [Video]",
+        "link": "https://9to5mac.com/2026/02/04/anthropic-pokes-fun-at-ads-in-chatgpt-with-superbowl-ad-video/",
+        "description": "OpenAI recently revealed that we will soon see ads in ChatGPT conversations, and Anthropic is having some fun with this. It will reportedly run an ad during Sunday’s Super Bowl (below) in which ChatGPT isn’t named but is very clearly the target …\nmore…",
+        "published": "2026-02-04T13:41:30.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "relevanceScore": 15,
+        "matchedKeywords": [
+          "openai",
+          "anthropic",
+          "chatgpt"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Anthropic cements its position as the not-OpenAI with no-ads pledge",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/anthropic_no_advertising_in_claude/",
+        "description": "",
+        "published": "2026-02-04T20:37:08.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "relevanceScore": 14,
+        "matchedKeywords": [
+          "openai",
+          "anthropic"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Should AI chatbots have ads? Anthropic says no.",
+        "link": "https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/",
+        "description": "ChatGPT competitor comes out swinging with Super Bowl ad mocking AI product pitches.",
+        "published": "2026-02-04T21:15:07.000Z",
+        "source": "Ars Technica",
+        "sourceKey": "arstechnica",
+        "priority": 1,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "anthropic",
+          "chatgpt"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Alphabet Plans Record Spending in Race to Dominate AI Market",
+        "link": "https://www.bloomberg.com/news/articles/2026-02-04/alphabet-to-blow-past-investor-expectations-on-spending",
+        "description": "Alphabet Inc. is poised to spend more in 2026 than it has invested in the past three years combined to finance an unprecedented expansion of data centers critical to its artificial intelligence ambitions.",
+        "published": "2026-02-04T21:08:22.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "alphabet",
+          "intel",
+          "artificial intelligence",
+          "data center"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Amazon's Alexa+ Now Free for All U.S. Prime Members, Beating Apple's Smarter Siri to Market",
+        "link": "https://www.macrumors.com/2026/02/04/amazon-alexa-plus-prime/",
+        "description": "Amazon's Alexa+ AI assistant is rolling out to all U.S. Amazon Prime subscribers beginning today, with the service available at no additional cost.\r\n\r\n\r\nAmazon says that Prime subscribers can access Alexa+ with the Alexa app, Alexa-enabled devices, or the Alexa.com website. Prime members can access Alexa+ by saying \"Alexa, upgrade to Alexa+,\" or by logging into their Amazon account on the Alexa website.\r\n\r\nbeen in testing since February 2025, offering a smarter, more personalized, and more proactive assistant experience. Amazon says Alexa+ is much more capable than the prior version of Alexa thanks to its updated architecture that uses large language models from Amazon Nova and Anthropic.\r\n\r\nAlexa is able to do things like order takeout, make restaurant reservations, book rides, and schedule home repairs, plus it can control smart home products and answer questions like any other chatbot. It integrates with Amazon services, and can integrate with hardware like Ring cameras.\r\n\r\nAmazon Prime in the U.S. is priced at $14.99 per month or $139 per year, and Alexa+ is considered one of the Prime benefits. Customers without Prime can try Alexa+ through a limited, free chat experience on Alexa.com and in the Alexa app. Subscribing solely to Alexa+ costs $19.99 per month, which makes no sense for anyone since Prime is cheaper.\r\n\r\nSiri. ‌Siri‌ is going to get an update in spring 2026, likely in iOS 26.4.\r\n\r\nTag: Amazon\nThis article, \"Amazon's Alexa+ Now Free for All U.S. Prime Members, Beating Apple's Smarter Siri to Market\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-02-04T21:55:10.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "apple",
+          "amazon"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Eddy Cue and Formula 1 CEO tease ‘F1: The Movie’ sequel at Apple TV press day event",
+        "link": "https://9to5mac.com/2026/02/04/eddy-cue-and-formula-1-ceo-tease-f1-the-movie-sequel-at-apple-tv-press-day-event/",
+        "description": "Act surprised, but it is looking increasingly likely that Apple TV’s most successful movie to date might get a sequel. Here are the details.\nmore…",
+        "published": "2026-02-04T22:05:06.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "apple",
+          "ceo"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Tim Cook revealed standout AI feature for users, and it’s rumored to get even better",
+        "link": "https://9to5mac.com/2026/02/04/tim-cook-revealed-standout-ai-feature-for-users-and-its-rumored-to-get-even-better/",
+        "description": "Tim Cook recently called out one specific AI feature—visual intelligence—as being among the most popular Apple Intelligence capabilities so far. And rumors indicate that later this year, it could get a lot more powerful.\nmore…",
+        "published": "2026-02-04T20:37:47.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "apple",
+          "intel",
+          "tim cook"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Samsung Galaxy Unpacked 2026: Everything we're expecting from the S26 launch",
+        "link": "https://www.engadget.com/mobile/smartphones/samsung-galaxy-unpacked-2026-everything-were-expecting-from-the-s26-launch-130000556.html?src=rss",
+        "description": "Samsung’s 2025 was filled with new foldables, an ultra-thin new form factor and the launch of Google's XR platform. After making some announcements at CES 2026, the company is expected to host its first Galaxy Unpacked of the year in February to introduce the Galaxy S26 lineup. Official invites have yet to be shared, but the date is widely expected to be near the end of the month, probably on February 25 But as usual, we know a lot about what’s expected when Samsung does hold its next event.\nWhenever it does happen, Engadget will be covering Galaxy Unpacked live, and we'll most likely have hands-on coverage of Samsung's new smartphones soon after they're announced. While we wait for an official invite, here's everything we expect Samsung will introduce at the first Galaxy Unpacked event of 2026.\nWhat is Unpacked 2026 taking place?\nBut first, when is Unpacked going to happen? A recent image shared by leakster Evan Blass indicated Unpacked should be taking place on “February 25 2026.” Blass has a long history of credible leaks, which means this date is all but confirmed, and the main questions remaining would be — what time and in what timezone? We’re still waiting on Samsung for the official details, which should include answers to those questions.\nGalaxy S26, S26+ and S26 Ultra\nSamsung Galaxy S25 Ultra hands-on photo\nPhoto by Sam Rutherford/Engadget\n\nSamsung's restrained approach to updating its phones will likely continue with the Galaxy S26. Based on leaked images of the new lineup, the company is not expected to radically reinvent the look of the Galaxy S26, Galaxy S26+ or Galaxy S26 Ultra, and instead will stick with a similar design to what it used on the Galaxy S25. The phones will have a flat front screen and frame, with rounded corners and cameras housed in a vertical pill-shaped plateau on the back. Unlike Apple's move from the iPhone 16 Pro to the iPhone 17 Pro, the biggest difference here will likely be internal components like the screens, chips and camera sensors Samsung uses.\nQualcomm's new Snapdragon 8 Elite Gen 5 chip is expected to be in all Samsung Galaxy S26 phones, though Korean news site Yonhap News reports Samsung's relatively new Exynos 2600 chip could be used in some phones in the lineup depending on the region, a strategy Samsung has deployed in the past. Either way the new phones should be more performant than the previous generation, and in the case of the models with the Snapdragon 8 Elite Gen 5, particularly good at on-device AI processing.\n\nI have compiled the most accurate comprehensive parameter comparison of Galaxy S25, S25+ and Galaxy S26、 S26+. Which one do you want to buy? pic.twitter.com/aQpoSvYjOz\n— Ice Universe (@UniverseIce) November 29, 2025\n\nOne notable difference between the Galaxy S26 and the Galaxy S25 could be the phone's screen. The new phone will reportedly feature a 6.3-inch FHD+ display according to specs shared by leaker Ice Universe, which makes it ever so slightly larger than the 6.2-inch display used on the Galaxy S25. The S26 will also allegedly come with 12GB of RAM, either 256GB or 512GB of storage and a slightly larger 4,300mAh battery. Samsung isn't changing the cameras on the entry-level phone, though: leaks suggest it'll feature the same 50-megapixel main camera, 12-megapixel ultrawide, 10-megapixel 3x telephoto and 12-megapixel selfie camera as the previous generation. Changes appear to be even more minor on the Galaxy S26+. Other than the new Snapdragon chip, the phone will reportedly feature the same 6.7-inch FHD+ screen, 4,900mAh battery, 12GB of RAM and the same camera array used on the base Galaxy S26.\nThe difference between the Galaxy S26 Ultra and Galaxy S25 Ultra is reportedly a bit clearer. According to Android Headlines, the new phone's cameras will be slightly more raised, and stand out thanks to a new metallic finish. Samsung may also switch back to using an aluminum frame on the Galaxy S26 Ultra, after using titanium frames on both the Galaxy S24 and S25 Ultras. Most importantly, to make the phone actually support Qi2 rather than only technically work with the standard when a case is attached, rumors suggest Samsung will remove the S Pen digitizer layer in the phone and adopt a new method for accepting stylus input. It's not clear what that new method will actually be, but it could let the Galaxy S26 Ultra more easily work with Qi2 accessories without losing its stylus.\nAndroid Headlines also recently shared what appear to be full image renders of the S26 series, and they generally line up with what has already been rumored, leaked and reported so far. If these pictures are accurate, they give us a clearer look at the camera bump and two color variants of the S26 Ultra.\nFans of magnets may continue to be disappointed by Samsung if the latest rumors are accurate. Despite the launch of the Qi 2 wireless charging standard adding support for convenient magnetic alignment years ago, Samsung has yet to bring that feature to its phones. Though the S-series have the higher speed charging rates that the spec enables,  Nieuwemobiel.nl is reporting that, due to images it received of cases with magnetic rings, the S26 series likely won’t have built-in magnets. Samsung has made these cases to add the magnetic capability to its S-series in the past, and the existence of the images of these accessories lends weight to the idea that the company will continue this approach.\nGalaxy Buds 4\nGalaxy Buds 3 Pro in case.\nEngadget\n\nSamsung released the Galaxy Buds 3 and 3 Pro in 2024, with a major redesign that brought them much more in line with Apple's AirPods. The Galaxy Buds 4 and Buds 4 Pro Samsung is rumored to be announcing soon won't necessarily change that, though they will feature a more compact case and less angular stems, according to leaked images from the Samsung Tips app.\nSupport for head gestures to accept and decline calls, a feature Apple includes on the AirPods Pro 3 and AirPods 4, is also rumored to work on both versions of the new Galaxy Buds. SamMobile reports the Galaxy Buds 4 and 4 Pro may also ship with a new Ultra Wideband chip that will make them easier to find with Google's Find Hub network.\nGalaxy Z Trifold\nYes, the TriFold has a crease, two in fact. But they still don't ruin the experience. \nSam Rutherford for Engadget\n\nSamsung announced the Galaxy Z TriFold in late 2025 without firm details of when the new smartphone-that-folds-into-a-tablet would be available in North America. That info came on January 27, when the company announced the TriFold would be available in the US on January 30, for a whopping $2,900. Considering we’ve already seen the device in person at CES 2026 and people are most likely to have had a chance to look at, if not buy the foldable for themselves by the time Unpacked rolls around, we don’t expect Samsung to spend too much time dwelling on it, if at all.\nGalaxy S26 Edge\nAt just 5.8mm thick, the Samsung Galaxy S25 Edge is one of the thinnest smartphones ever made. \nSam Rutherford for Engadget\n\nWhen the Galaxy S25 Edge was announced in 2025, it seemed possible that Samsung could replace its \"Plus\" smartphone with a unique form factor, just like Apple has opted to do with the iPhone Air. There have been conflicting reports on the matter, but it seems like Samsung will not be doing that with the Galaxy S26 Edge.\nInstead, the smartphone will reportedly remain another option, much like foldables are for customers not swayed by Samsung's traditional smartphones. The Galaxy S26 Edge is rumored to feature a slightly different design than last year's model, according to Android Headlines, with a large rectangular camera plateau that's reminiscent of Google's Pixel phones, and the raised oval Apple used on the iPhone Air. Beyond that, the phone is also expected to be ever so slightly thinner at 5.5mm than the 5.8mm Galaxy S25 Edge.\nBixby and other AI features\n\n\nSamsung already acts as a first place Google can show off new AI features for Android, but the company is reportedly exploring other AI partnerships, too. In June 2025, Bloomberg reported that Samsung was nearing a deal with Perplexity to integrate its AI-powered search engine across OneUI and its homegrown mobile browser. Perplexity already has a deal with Motorola on its Razr phones, so the only thing that would make a deal with Samsung unusual is the close relationship the company already has with Google.\nThe company also accidentally announced a new version of its Bixby AI assistant, which will likely also be integrated with Perplexity and could serve as an alternative to Google Gemini. Both a new Bixby and a deeper integration with Perplexity seem like natural new software features to show off at Galaxy Unpacked.\nUpdate, January 27 2026, 11:55AM ET: This story has been updated to reflect the latest news around the Galaxy Z TriFold’s price and availability in the US.\nUpdate, January 30 2026, 12:45PM ET: This story has been updated to include the latest leaks on the possible dates for Unpacked 2026.\nUpdate, February 02 2026, 11:30AM ET: This story has been updated to include the latest leaks with full image renders of the S26 trio of devices.\nUpdate, February 03 2026, 11:00AM ET: This story has been updated to include the latest leaks about the possible lack of magnetic support on the S26 series.\nThis article originally appeared on Engadget at https://www.engadget.com/mobile/smartphones/samsung-galaxy-unpacked-2026-everything-were-expecting-from-the-s26-launch-130000556.html?src=rss",
+        "published": "2026-02-04T16:51:50.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "google",
+          "samsung"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Arm Rallies After Analysts Praise Results, Citing AI Gains",
+        "link": "https://www.bloomberg.com/news/articles/2026-02-04/arm-forecast-disappoints-increasingly-skeptical-investors",
+        "description": "Arm Holdings Plc shares rebounded after Wall Street analysts praised the chip designer’s latest quarterly report, which initially drew a tepid response from investors.",
+        "published": "2026-02-04T21:05:54.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "arm",
+          "chip"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "9to5Mac Daily: February 4, 2026 – Apple Music Replay, Xcode upgrade",
+        "link": "https://9to5mac.com/2026/02/04/daily-february-4-2026/",
+        "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Stuff: Stuff helps you get everything out of your head and into a simple, elegant system—closing open loops and reducing mental stress. Use code 9TO5 at checkout for 50% off your first year.\n\n\n\n\n more…",
+        "published": "2026-02-04T21:29:49.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "google",
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Gemini ‘screen automation’ will place orders, book rides for you on Android [APK Insight]",
+        "link": "https://9to5google.com/2026/02/03/gemini-screen-automation-insight/",
+        "description": "It’s been clear for a while that Google is working to let Gemini control your Android phone, and we now have some details on how this “screen automation” will work.\nmore…",
+        "published": "2026-02-03T23:16:58.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "google",
+          "gemini",
+          "automation"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Mistral's New Ultra-Fast Translation Model Gives Big AI Labs a Run for Their Money",
+        "link": "https://www.wired.com/story/mistral-voxtral-real-time-ai-translation/",
+        "description": "“Too many GPUs makes you lazy,” says the French startup’s vice president of science operations, as the company carves out a different path than the major US AI companies.",
+        "published": "2026-02-04T15:32:45.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "mistral",
+          "gpu"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Egypt to block Roblox for all users",
+        "link": "https://www.engadget.com/gaming/egypt-to-block-roblox-for-all-users-161343443.html?src=rss",
+        "description": "Egyptian regulators have banned Roblox, a popular children's video game, Bloomberg reports. The nation's Supreme Council for Media Regulation is coordinating with the National Telecommunications Regulatory Authority on the decision to ensure its enforcement.\nThe state-owned outlet reported that Senator Walaa Hermas Radwandid had proposed regulation of the platform to “protect children’s moral and educational values.\" The senator outlined his concerns with the nature of the Roblox platform, including the ability to communicate directly with strangers as well as \"potential psychological and behavioral effects on young users.\" In a statement to Bloomberg, Roblox stated that it has \"built rigorous safeguards that go beyond those of many other platforms.\"\n\nEgypt joins others including Iraq, Algeria, Saudi Arabia and the UAE that have banned or heavily restricted the US-based gaming platform; Turkey and Russia also enacted blanket bans on Roblox recently, citing the \"promotion of homosexuality\" and \"LGBT propaganda.\"\nRoblox has a significant presence in the Middle East and North Africa (MENA) region. The company's most recent economic impact report claims it added $15 million to total GDP across Egypt, Saudi Arabia, Morocco, Qatar and the UAE between 2021 and 2024.\nRoblox recently tightened its age verification requirements for certain in-game features following pressure from numerous US state attorneys general over child safety, though the new system is reportedly a mess.\nAll of this comes against the backdrop of globally internet restrictions, especially for social media services. A raft of nations including Australia, Spain and Denmark have moved to ban social media entirely for children.\nThis article originally appeared on Engadget at https://www.engadget.com/gaming/egypt-to-block-roblox-for-all-users-161343443.html?src=rss",
+        "published": "2026-02-04T16:13:43.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "regulation"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple confirms ongoing Xcode Cloud disruption affecting all developers [U: Solved]",
+        "link": "https://9to5mac.com/2026/02/04/apple-confirms-ongoing-xcode-cloud-disruption-affecting-all-developers/",
+        "description": "Update, 4:22 p.m. ET: Apple says the issue has now been resolved. The original post follows below.\nApple Developer’s System Status page reports that Xcode Cloud has been experiencing issues since yesterday. Here are the details.\nmore…",
+        "published": "2026-02-04T19:53:01.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Civilization VII Coming to Apple Arcade Tomorrow",
+        "link": "https://www.macrumors.com/2026/02/04/apple-arcade-civilization-vii/",
+        "description": "Popular strategy game Civilization VII is set to launch on Apple Arcade tomorrow, allowing ‌Apple Arcade‌ subscribers to play on iPhone, iPad, and Mac.\r\n\r\n\r\nSid Meier's Civilization VII ‌Apple Arcade‌ Edition features the Civilization VII base game experience, with mouse support, controller support, and intuitive touch controls available. Players take on the role of one of many legendary leaders from history, aiming to build the greatest empire the world has ever known.\r\n\r\nGamers will construct cities and control armies to expand their territory, conquering or cooperating with rival civilizations for the resources to evolve and discover new technological breakthroughs. Multiplayer gameplay is not supported at launch, and DLC add-ons are not available. Large map sizes are limited to devices that have at least 8GB RAM.\r\n\r\nFelicity's Door, puzzle game I Love Hue Too+, and classic video arcade title Retrocade. Retrocade is available on the Vision Pro as well as the ‌iPhone‌ and ‌iPad‌.\r\n\r\nTag: Apple Arcade\nThis article, \"Civilization VII Coming to Apple Arcade Tomorrow\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-02-04T21:09:18.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple Releases watchOS 26.3, tvOS 26.3 and visionOS 26.3 Release Candidates",
+        "link": "https://www.macrumors.com/2026/02/04/apple-releases-watchos-26-3-rc/",
+        "description": "Apple today provided developers with the release candidate versions of upcoming watchOS 26.3, tvOS 26.3, and visionOS 26.3 updates for testing purposes. The software comes a week after Apple provided the third betas. The release candidates are the final version of the updates that will be provided to the public as long as no bugs are found.\r\n\r\n\r\nThe software updates are available through the Settings app on each device, and because these are developer betas, a free developer account is required.\r\n\r\nWe don't know what new features might be added in watchOS 26.3, visionOS 26.3, and tvOS 26.3, and nothing new has been discovered so far. Apple doesn't typically provide release notes for betas, so we might not know what's new until the software updates see a public launch unless there are outward-facing changes.\r\n\r\nThis article, \"Apple Releases watchOS 26.3, tvOS 26.3 and visionOS 26.3 Release Candidates\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-02-04T19:09:00.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple's Studio Display 2 Rumored to Have Up to 90Hz Refresh Rate Instead of 120Hz",
+        "link": "https://www.macrumors.com/2026/02/04/apple-studio-display-2-unusual-feature-rumor/",
+        "description": "Apple reportedly plans to release a new Studio Display this year, and it has once again been rumored that the monitor's maximum refresh rate will be 90Hz.\r\n\r\n\r\nIn November 2024, an anonymous listener of the Relay FM tech podcast \"Upgrade\" claimed that Apple was developing 90Hz display technology that could be used for the next Studio Display, as well as future iPad Air and iMac models. A higher refresh rate can make videos and scrolling look smoother to the eye, but 90Hz would stop short of the 120Hz refresh rate that iPhone, iPad, and Mac models with ProMotion support can achieve.\r\n\r\nMacRumors tipster has backed up that claim, based on alleged information from an internal build of iOS 26 that was leaked online. Indeed, they believe the next Studio Display is likely to max out at 90Hz rather than 120Hz.\r\n\r\nApple's existing devices typically have up to 60Hz or 120Hz refresh rates, so 90Hz would be unusual for Apple. However, while there is no explicit confirmation, the tipster claimed that multiple code strings and display controller references in the internal iOS 26 build suggest the next Studio Display will max out at 90Hz.\r\n\r\nThe tipster believes that a 90Hz refresh rate would make sense due to bandwidth considerations. Thunderbolt 5 can support 5K resolution at 120Hz without any compression, but they think Apple likely wants to ensure there will be plenty of remaining bandwidth for connecting other devices and peripherals to the new Studio Display.\r\n\r\nThe current Studio Display has a 60Hz refresh rate.\r\n\r\nBloomberg's Mark Gurman.\r\n\r\nsurfaced in a Chinese regulatory database, and it is likely the Studio Display 2.\r\n\r\nmini-LED backlighting, a higher refresh rate of up to 90Hz or 120Hz, HDR support, and an A19 chip or A19 Pro chip.\r\n\r\nRelated Roundups: Apple Pro Display XDR, Apple Studio Display\nRelated Forum: Mac Accessories\nThis article, \"Apple's Studio Display 2 Rumored to Have Up to 90Hz Refresh Rate Instead of 120Hz\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-02-04T17:53:04.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Six New Leagues Coming to Apple Sports",
+        "link": "https://www.macrumors.com/2026/02/04/six-new-leagues-coming-to-apple-sports/",
+        "description": "Following today's update, Apple plans to add support for six new soccer leagues to the next version of the Sports app, MacRumors has discovered.\r\n\r\n\r\nEarlier today, Apple released version 3.7 of the Sports app, introducing support for every PGA and LPGA tournament, with live leaderboards, round-by-round scorecards for every golfer, and real-time updates in the app, widgets, and Live Activities. The app already supported the NFL, MLB, NBA, NHL, Premier League, NASCAR, F1, and more. The update also expanded the soccer lineup with support for Copa del Rey, Coppa Italia, Coupe de France, and DFB-Pokal. In addition, tennis coverage now supports real-time stats, making it easier to keep up with the action.\r\n\r\nMacRumors reveals what's next for Apple Sports in version 3.8. Apple is planning to add support for six South American soccer leagues, including Brazil Serie A, Argentina Primera A, Colombia Primera Liga, Ecuador Serie A, Peru Primera Division, and Chile Primera Division.\r\n\r\niPhone in the U.S., the UK, Canada, France, Germany, Ireland, Italy, Portugal, Spain, the Netherlands, Sweden, Norway, Finland, Denmark, and other select European countries.\nTag: Apple Sports\nThis article, \"Six New Leagues Coming to Apple Sports\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-02-04T16:15:49.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Samsung teases Galaxy S26 camera by pretending it’ll actually be an upgrade",
+        "link": "https://9to5google.com/2026/02/04/samsung-teases-galaxy-s26-camera-by-pretending-itll-actually-be-an-upgrade/",
+        "description": "Samsung’s Galaxy S26 trio is shaping up to be an interesting launch — it’s just that the phones themselves aren’t actually the interesting part. We already know that a lot of what could’ve made the S26 lineup different from its predecessors has been thrown out the window thanks to failed concepts and stiff competition. Now, Samsung needs to try to tease a lineup that appears unchanged even by this brand’s own standards, and so far, it’s a bit of a mixed bag.\nmore…",
+        "published": "2026-02-04T16:42:00.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "samsung"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "'The EU runs on Microsoft' – and Uncle Sam could turn it off, claims MEP",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/eu_foss_fears/",
+        "description": "",
+        "published": "2026-02-04T10:49:51.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "microsoft"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "UK to properly probe xAI to test if its revolting robo-smut generator broke the law",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/uk_spain_social_media_regulation/",
+        "description": "",
+        "published": "2026-02-04T06:46:07.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "xai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Too much AI for some, too little for others: Why AMD can't win with investors",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/amd_q4_fy_2025/",
+        "description": "",
+        "published": "2026-02-04T02:11:57.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "amd"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "X's 'open source' algorithm isn't a win for transparency, researchers say",
+        "link": "https://www.engadget.com/social-media/xs-open-source-algorithm-isnt-a-win-for-transparency-researchers-say-181836233.html?src=rss",
+        "description": "When X's engineering team published the code that powers the platform's \"for you\" algorithm last month, Elon Musk said the move was a victory for transparency. \"We know the algorithm is dumb and needs massive improvements, but at least you can see us struggle to make it better in real-time and with transparency,\" Musk wrote. \"No other social media companies do this.\" \nWhile it's true that X is the only major social network to make elements of its recommendation algorithm open source, researchers say that what the company has published doesn't offer the kind of transparency that would actually be useful for anyone trying to understand how X works in 2026. \nThe code, much like an earlier version published in 2023, is a \"redacted\" version of X's algorithm, according to John Thickstun, an assistant professor of computer science at Cornell University. \"What troubles me about these releases is that they give you a pretense that they're being transparent for releasing code and the sense that someone might be able to use this release to do some kind of auditing work or oversight work,\" Thickstun told Engadget. \"And the fact is that that's not really possible at all.\"\nPredictably, as soon as the code was released, users on X began posting lengthy threads about what it means for creators hoping to boost their visibility on the platform. For example, one post that was viewed more than 350,000 times advises users that X \"will reward people who conversate\" and \"raise the vibrations of X.\" Another post with more than 20,000 views claims that posting video is the answer. Another post says that users should stick to their \"niche\" because \"topic switching hurts your reach.\" But Thickstun cautioned against reading too much into supposed strategies for going viral. \"They can't possibly draw those conclusions from what was released,\" he says. \nWhile there are some small details that shed light on how X recommends posts — for example, it filters out content that's more than a day old — Thickstun says that much of it is \"not actionable\" for content creators. \nStructurally, one of the biggest differences between the current algorithm and the version released in 2023 is that the new system relies on a Grok-like large language model to rank posts. \"In the previous version, this was hard coded: you took how many times something was liked, how many times something was shared, how many times something was replied … and then based on that you calculate a score, and then you rank the post based on the score,\" explains Ruggero Lazzaroni, a pHD researcher at the University of Graz. \"Now the score is derived not by the real amounts of likes and shares, but by how likely Grok thinks that you would like and share a post.\"\nThat also makes the algorithm even more opaque than it was before, says Thickstun. \"So much more of the decisionmaking … is happening within black box neural networks that they're training on their data,\" he says. \"More and more of the decisionmaking power of these algorithms is shifting not just out of public view, but actually really out of view or understanding of even the internal engineers that are working on these systems, because they're being shifted into these neural networks.\"\nThe release has even less detail about some aspects of the algorithm that were made public in 2023. At the time, the company included information about how it weighted various interactions to determine which posts should rank higher. For example, a reply was \"worth\" 27 retweets and a reply that generated a response from the original author was worth 75 retweets. But X has now redacted information about how it's weighing these factors, saying that this information was excluded \"for security reasons.\" \nThe code also doesn't include any information about the data the algorithm was trained on, which could help researchers and others understand it or conduct audits. \"One of the things I would really want to see is, what is the training data that they're using for this model,\" says Mohsen Foroughifar, an assistant professor of business technologies at Carnegie Mellon University. \"if the data that is used for training this model is inherently biased, then the model might actually end up still being biased, regardless of what kind of things that you consider within the model.\" \nBeing able to conduct research on the X recommendation algorithm would be extremely valuable, says Lazzaroni, who is working on an EU-funded project exploring alternative recommendation algorithms for social media platforms. Much of Lazzaroni's work involves simulating real-world social media platforms to test different approaches. But he says the code released by X doesn't have enough information to actually reproduce its recommendation algorithm. \n\"We have the code to run the algorithm, but we don't have the model that you need to run the algorithm,\" he says.\nIf researchers were able to study the X algorithm, it could yield insights that could impact more than just social media platforms. Many of the same questions and concerns that have been raised about how social media algorithms behave are likely to re-emerge in the context of AI chatbots.\"A lot of these challenges that we're seeing on social media platforms and the recommendation [systems] appear in a very similar way with these generative systems as well,\" Thickstun said. \"So you can kind of extrapolate forward the kinds of challenges that we've seen with social media platforms to the kind of challenges that we'll see with interaction with GenAI platforms.\"\nLazzaroni, who spends a lot of time simulating some of the most toxic behavior on social media, is even more blunt. \"AI companies, to maximize profit, optimize the large language models for user engagement and not for telling the truth or caring about the mental health of the users. And this is the same exact problem: they make more profit, but the users get a worse society, or they get worse mental health out of it.\"\n\nThis article originally appeared on Engadget at https://www.engadget.com/social-media/xs-open-source-algorithm-isnt-a-win-for-transparency-researchers-say-181836233.html?src=rss",
+        "published": "2026-02-04T18:18:36.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "elon musk"
+        ],
+        "category": "ai"
+      }
+    ],
+    "chips_cloud": [
+      {
+        "title": "Broadcom, Nvidia shares rise on surging Google capital expenditures for AI ",
+        "link": "https://www.cnbc.com/2026/02/04/broadcom-google-tpu-ai-nvidia.html",
+        "description": "Much of Google's AI software doesn't run on industry-standard Nvidia chips, but instead on its own tensor processing units. Broadcom helps Google make its TPUs.",
+        "published": "2026-02-04T22:27:03.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "relevanceScore": 15,
+        "matchedKeywords": [
+          "google",
+          "nvidia",
+          "broadcom",
+          "chip",
+          "tpu"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": " HetCCL makes clustered Nvidia and AMD AI accelerators play nice with each other via RDMA — vendor-agnostic collective communications library removes an obstacle to heterogeneous AI data centers ",
+        "link": "https://www.tomshardware.com/networking/hetccl-makes-clustered-nvidia-and-amd-ai-accelerators-play-nice-with-each-other-via-rdma-vendor-agnostic-collective-communications-library-removes-an-obstacle-to-heterogeneous-ai-data-centers",
+        "description": "HetCCL, a proposed computing library, could make Nvidia and AMD AI accelerators play nicely with one another in the same cluster by bridging the two companies' hardware over RDMA.",
+        "published": "2026-02-04T11:00:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "nvidia",
+          "amd",
+          "data center"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": " The new Valve Steam Machine is 'on track' to begin shipping early this year, says AMD — CEO suggests new 4K mini gaming PC, powered by semi-custom Zen 4 CPU, to launch soon ",
+        "link": "https://www.tomshardware.com/pc-components/gpus/the-new-valve-steam-machine-is-on-track-to-begin-shipping-early-this-year-says-amd-ceo-suggests-new-4k-mini-gaming-pc-powered-by-semi-custom-zen-4-cpu-to-launch-soon",
+        "description": "AMD CEO Dr Lisa Su, during the company's latest Q4 2025 earnings call, seemingly confirmed that the release for the new Valve Steam Machine is \"on track\" to launch during early 2026.",
+        "published": "2026-02-04T15:19:13.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "amd",
+          "ceo"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": " AMD CEO downplays PC memory crunch, saying 'our focus areas are enterprise' — company wants to focus on growing 'higher-end of the market' ",
+        "link": "https://www.tomshardware.com/pc-components/cpus/amd-ceo-downplays-pc-memory-crunch-saying-our-focus-areas-are-enterprise-company-wants-to-focus-on-growing-higher-end-of-the-market",
+        "description": "AMD's CEO doesn't seem concerned with current memory prices, suggesting the company is focusing its efforts on the enterprise.",
+        "published": "2026-02-03T23:27:14.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "amd",
+          "ceo"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "While some US states try to kill e-bikes, one is pushing more kids onto them",
+        "link": "https://electrek.co/2026/02/04/while-some-us-states-try-to-kill-e-bikes-one-is-pushing-more-kids-onto-them/",
+        "description": "Across the US, the e-bike policy map is starting to look oddly contradictory. In some states, lawmakers are responding to the rise of high-powered, moped-like electric bikes by reaching for blunt instruments: licensing requirements, insurance mandates, registration schemes, and laws that effectively treat e-bikes like motorcycles. New Jersey’s recent move to scrap the widely adopted three-class system in favor of motor-vehicle-style regulation is a prime example of how quickly a state can go from “e-bikes are the future” to “please don’t ride one at all.”\nmore…",
+        "published": "2026-02-04T12:43:00.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "regulation"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Positron: we don’t need no fancy HBM to compete with Nvidia’s Rubin",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/positron_hbm_no_need/",
+        "description": "",
+        "published": "2026-02-04T22:06:19.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "nvidia"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "US Army looks for robots that can clean up chemical and bioweapons messes",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/army_bots_cleanup_ai_biological_chemical/",
+        "description": "",
+        "published": "2026-02-04T17:16:59.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "arm"
+        ],
+        "category": "chips_cloud"
+      }
+    ],
+    "regulation": [
+      {
+        "title": "Mistral drops Voxtral Transcribe 2, an open-source speech model that runs on-device for pennies",
+        "link": "https://venturebeat.com/technology/mistral-drops-voxtral-transcribe-2-an-open-source-speech-model-that-runs-on",
+        "description": "Mistral AI, the Paris-based startup positioning itself as Europe's answer to OpenAI, released a pair of speech-to-text models on Wednesday that the company says can transcribe audio faster, more accurately, and far more cheaply than anything else on the market — all while running entirely on a smartphone or laptop.\nThe announcement marks the latest salvo in an increasingly competitive battle over voice AI, a technology that enterprise customers see as essential for everything from automated customer service to real-time translation. But unlike offerings from American tech giants, Mistral's new Voxtral Transcribe 2 models are designed to process sensitive audio without ever transmitting it to remote servers — a feature that could prove decisive for companies in regulated industries like healthcare, finance, and defense.\n\"You'd like your voice and the transcription of your voice to stay close to where you are, meaning you want it to happen on device—on a laptop, a phone, or a smartwatch,\" Pierre Stock, Mistral's vice president of science operations, said in an interview with VentureBeat. \"We make that possible because the model is only 4 billion parameters. It's small enough to fit almost anywhere.\"\nMistral splits its new AI transcription technology into batch processing and real-time applications\nMistral released two distinct models under the Voxtral Transcribe 2 banner, each engineered for different use cases.\n\nVoxtral Mini Transcribe V2 handles batch transcription, processing pre-recorded audio files in bulk. The company says it achieves the lowest word error rate of any transcription service and is available via API at $0.003 per minute, roughly one-fifth the price of major competitors. The model supports 13 languages, including English, Mandarin Chinese, Japanese, Arabic, Hindi, and several European languages.\n\nVoxtral Realtime, as its name suggests, processes live audio with a latency that can be configured down to 200 milliseconds — the blink of an eye. Mistral claims this is a breakthrough for applications where even a two-second delay proves unacceptable: live subtitling, voice agents, and real-time customer service augmentation.\n\nThe Realtime model ships under an Apache 2.0 open-source license, meaning developers can download the model weights from Hugging Face, modify them, and deploy them without paying Mistral a licensing fee. For companies that prefer not to run their own infrastructure, API access costs $0.006 per minute.\nStock said Mistral is betting on the open-source community to expand the model's reach. \"The open-source community is very imaginative when it comes to applications,\" he said. \"We're excited to see what they're going to do.\"\nWhy on-device AI processing matters for enterprises handling sensitive data\nThe decision to engineer models small enough to run locally reflects a calculation about where the enterprise market is heading. As companies integrate AI into ever more sensitive workflows — transcribing medical consultations, financial advisory calls, legal depositions — the question of where that data travels has become a dealbreaker.\nStock painted a vivid picture of the problem during his interview. Current note-taking applications with audio capabilities, he explained, often pick up ambient noise in problematic ways: \"It might pick up the lyrics of the music in the background. It might pick up another conversation. It might hallucinate from a background noise.\"\nMistral invested heavily in training data curation and model architecture to address these issues. \"All of that, we spend a lot of time ironing out the data and the way we train the model to robustify it,\" Stock said.\nThe company also added enterprise-specific features that its American competitors have been slower to implement. Context biasing allows customers to upload a list of specialized terminology — medical jargon, proprietary product names, industry acronyms — and the model will automatically favor those terms when transcribing ambiguous audio. Unlike fine-tuning, which requires retraining the model, context biasing works through a simple API parameter.\n\"You only need a text list,\" Stock explained. \"And then the model will automatically bias the transcription toward these acronyms or these weird words. And it's zero shots, no need for retraining, no need for weird stuff.\"\nFrom factory floors to call centers, Mistral targets high-noise industrial environments\nStock described two scenarios that capture how Mistral envisions the technology being deployed.\nThe first involves industrial auditing. Imagine technicians walking through a manufacturing facility, inspecting heavy machinery while shouting observations over the din of factory noise. \"In the end, imagine like a perfect timestamped notes identifying who said what — so diarization — while being super robust,\" Stock said. The challenge is handling what he called \"weird technical language that no one is able to spell except these people.\"\nThe second scenario targets customer service operations. When a caller contacts a support center, Voxtral Realtime can transcribe the conversation in real time, feeding text to backend systems that pull up relevant customer records before the caller finishes explaining the problem.\n\"The status will appear for the operator on the screen before the customer stops the sentence and stops complaining,\" Stock explained. \"Which means you can just interact and say, 'Okay, I can see the status. Let me correct the address and send back the shipment.'\"\nHe estimated this could reduce typical customer service interactions from multiple back-and-forth exchanges to just two interactions: the customer explains the problem, and the agent resolves it immediately.\nReal-time translation across languages could arrive by the end of 2026\nFor all the focus on transcription, Stock made clear that Mistral views these models as foundational technology for a more ambitious goal: real-time speech-to-speech translation that feels natural.\n\"Maybe the end goal application and what the model is laying the groundwork for is live translation,\" he said. \"I speak French, you speak English. It's key to have minimal latency, because otherwise you don't build empathy. Your face is not out of sync with what you said one second ago.\"\nThat goal puts Mistral in direct competition with Apple and Google, both of which have been racing to solve the same problem. Google's latest translation model operates at a two-second delay — ten times slower than what Mistral claims for Voxtral Realtime.\nMistral positions itself as the privacy-first alternative for enterprise customers\nMistral occupies an unusual position in the AI landscape. Founded in 2023 by alumni of Meta and Google DeepMind, the company has raised over $2 billion and now carries a valuation of approximately $13.6 billion. Yet it operates with a fraction of the compute resources available to American hyperscalers — and has built its strategy around efficiency rather than brute force.\n\"The models we release are enterprise grade, industry leading, efficient — in particular, in terms of cost — can be embedded into the edge, unlocks privacy, unlocks control, transparency,\" Stock said.\nThat approach has resonated particularly with European customers wary of dependence on American technology. In January, France's Ministry of the Armed Forces signed a framework agreement giving the country's military access to Mistral's AI models—a deal that explicitly requires deployment on French-controlled infrastructure.\nData privacy remains one of the biggest barriers to voice AI adoption in the enterprise. For companies in sensitive industries — finance, manufacturing, healthcare, insurance — sending audio data to external cloud servers is often a non-starter. The information needs to stay either on the device itself or within the company's own infrastructure.\nMistral faces stiff competition from OpenAI, Google, and a rising China\nThe transcription market has grown fiercely competitive. OpenAI's Whisper model has become something of an industry standard, available both through API and as downloadable open-source weights. Google, Amazon, and Microsoft all offer enterprise-grade speech services. Specialized players like Assembly AI and Deepgram have built substantial businesses serving developers who need reliable, scalable transcription.\nMistral claims its new models outperform all of them on accuracy benchmarks while undercutting them on price. \"We are better than them on the benchmarks,\" Stock said. Independent verification of those claims will take time, but the company points to performance on FLEURS, a widely used multilingual speech benchmark, where Voxtral models achieve word error rates competitive with or superior to alternatives from OpenAI and Google.\nPerhaps more significantly, Mistral's CEO Arthur Mensch has warned that American AI companies face pressure from an unexpected direction. Speaking at the World Economic Forum in Davos last month, Mensch dismissed the notion that Chinese AI lags behind the West as \"a fairy tale.\"\n\"The capabilities of China's open-source technology is probably stressing the CEOs in the US,\" he said.\nThe French startup bets that trust will determine the winner in enterprise voice AI\nStock predicted that 2026 would be \"the year of note-taking\" — the moment when AI transcription becomes reliable enough that users trust it completely.\n\"You need to trust the model, and the model basically cannot make any mistake, otherwise you would just lose trust in the product and stop using it,\" he said. \"The threshold is super, super hard.\"\nWhether Mistral has crossed that threshold remains to be seen. Enterprise customers will be the ultimate judges, and they tend to move slowly, testing claims against reality before committing budgets and workflows to new technology. The audio playground in Mistral Studio, where developers can test Voxtral Transcribe 2 with their own files, went live today.\nBut Stock's broader argument deserves attention. In a market where American giants compete by throwing billions of dollars at ever-larger models, Mistral is making a different wager: that in the age of AI, smaller and local might beat bigger and distant. For the executives who spend their days worrying about data sovereignty, regulatory compliance, and vendor lock-in, that pitch may prove more compelling than any benchmark.\nThe race to dominate enterprise voice AI is no longer just about who builds the most powerful model. It's about who builds the model you're willing to let listen.",
+        "published": "2026-02-04T20:30:00.000Z",
+        "source": "VentureBeat",
+        "sourceKey": "venturebeat",
+        "priority": 1,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "openai",
+          "mistral"
+        ],
+        "category": "regulation"
+      },
+      {
+        "title": "Netflix says users can cancel service if HBO Max merger makes it too expensive ",
+        "link": "https://arstechnica.com/gadgets/2026/02/netflix-claims-subscribers-will-get-more-content-for-less-if-it-buys-hbo-max/",
+        "description": "Eighty percent of HBO Max subscribers subscribe to Netflix, Sarandos tells Senate.",
+        "published": "2026-02-03T23:41:39.000Z",
+        "source": "Ars Technica",
+        "sourceKey": "arstechnica",
+        "priority": 1,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "netflix",
+          "merger"
+        ],
+        "category": "regulation"
+      },
+      {
+        "title": "Apple TV Announces 12 New Shows and Films Coming This Year",
+        "link": "https://www.macrumors.com/2026/02/04/upcoming-apple-tv-shows-and-movies/",
+        "description": "Apple on Tuesday previewed 12 new shows and films that will be premiering on the Apple TV streaming service throughout 2026.\r\n\r\n\r\nThe new series:\r\n\r\n  \nImperfect Women — March 18, 2026\n\r\n  \nMargo's Got Money Troubles — April 15, 2026\n\r\n  \nWidow's Bay — April 29, 2026\n\r\n  \nMaximum Pleasure Guaranteed — May 20, 2026\n\r\n  \nCape Fear — June 5, 2026\n\r\n  \nLucky — July 15, 2026\n\r\n\r\n\r\nThe new films:\r\n\r\n  \nEternity — February 13, 2026\n\r\n  \nOutcome — April 10, 2026\n\r\n  \nThe Dink — July 24, 2026\n\r\n  \nMayday — September 4, 2026\n\r\n  \nMatchbox: The Movie — October 9, 2026\n\r\n  \nWay of the Warrior Kid — November 20, 2026\n\r\nWe have provided a brief overview of each new show and film below.\r\n\r\nNew Series\n\r\nImperfect Women\n\r\n\n\r\nBased on Araminta Hall's novel of the same name, \"Imperfect Women\" is a psychological thriller that \"examines a crime that shatters the lives of a decades-long friendship of three women.\" The series stars Elisabeth Moss, Kerry Washington, and Kate Mara.\r\n\r\nMargo's Got Money Troubles\n\r\n\n\r\n\"Margo's Got Money Troubles\" is described as \"a bold, heartwarming, and comedic family drama\" that follows recent college dropout and aspiring writer, Margo (Elle Fanning), the daughter of an ex-Hooters waitress (Michelle Pfeiffer) and ex-pro wrestler (Nick Offerman). Margo has a new baby, mounting bills, and dwindling ways to pay for things.\r\n\r\nWidow's Bay\n\r\n\n\r\nApple says \"Widow's Bay\" blends genuine horror with character-driven comedy.\r\n\r\nWidow's Bay is \"a quaint island town 40 miles off the coast of New England,\" but \"something lurks beneath the surface.\" Mayor Tom Loftis (Matthew Rhys) is desperate to revive his struggling community, but as tourists start arriving, it appears that local residents might have been right about the island being cursed after all.\r\n\r\nMaximum Pleasure Guaranteed\n\r\n\r\nBilled as a darkly comedic thriller, \"Maximum Pleasure Guaranteed\" follows newly divorced mom Paula (Tatiana Maslany).\r\n\r\n\"Convinced she witnessed a murder — while simultaneously struggling through a custody battle and an identity crisis — Paula begins her own investigation, one that could unravel a greater conspiracy while also holding the keys to rebuilding her family and sense of self.\"\r\n\r\nCape Fear\n\r\n\r\nA mini-series, inspired by the 1991 remake directed by Martin Scorsese and produced by Steven Spielberg: \"A storm is coming for happily married attorneys Anna (Amy Adams) and Tom Bowden (Patrick Wilson) when Max Cady (Javier Bardem), the notorious killer they are responsible for putting behind bars, is let out of prison — and he wants vengeance.\"\r\n\r\nLucky\n\r\n\n\r\nBased on Marissa Stapley's bestselling novel, \"Lucky\" centers on a young woman (Anya Taylor-Joy) who \"left behind the life of crime she was raised in years ago, but must now embrace her darker, criminal side one final time in a desperate attempt to escape her past.\"\r\n\r\nNew Films\n\r\nOutcome\n\r\n\r\n\"Outcome\" is a dark comedy that centers on Reef Hawk (Keanu Reeves), a Hollywood star facing extortion. With the support of his lifelong friends Kyle (Cameron Diaz) and Xander (Matt Bomer), and his lawyer Ira (Jonah Hill), Reef tries to make amends with anyone he could have possibly wronged in hopes of identifying the blackmailer.\r\n\r\nEternity\n\r\n\n\r\n\"Eternity\" is a rom-com: \"In an afterlife where souls have one week to decide where to spend eternity, Joan (Elizabeth Olsen) is faced with the impossible choice between the man she spent her life with (Miles Teller) and her first love (Callum Turner), who died young and has waited decades for her to arrive.\"\r\n\r\nThe Dink\n\r\n\r\nIn this comedy movie, \"washed up former tennis prodigy Dusty Boyd (Jake Johnson) has been reduced to coaching unruly children at his father Chuck's (Ed Harris) suburban country club. Desperate for his father's approval, Dusty blindly supports Chuck's vendetta against the new craze taking over the club: pickleball.\"\r\n\r\nMayday\n\r\n\r\nRyan Reynolds and Kenneth Branagh team up in \"Mayday,\" a \"genre-bending, action-packed buddy comedy movie that flips the spy thriller on its head.\"\r\n\r\n\"When hotshot U.S. Navy pilot Lieutenant Troy 'Assassin' Kelly (Reynolds) is sent on a top-secret mission into Russian territory at the height of the Cold War, the operation implodes, leaving him stranded behind enemy lines. Discovered by Nikolai Ustinov (Branagh), a gruff ex-KGB agent with a penchant for American culture, Troy thinks he's toast — but could an unlikely alliance between the two lead to Troy's rescue and a bond neither saw coming?\"\r\n\r\nMatchbox: The Movie\n\r\n\r\nInspired by the Mattel toys, \"Matchbox: The Movie\" is an \"action-packed, globetrotting adventure about a group of friends since childhood who have their lives upended when undercover CIA agent Sean (John Cena), their long-absent former leader, returns to their small town and unwittingly gets them embroiled in a frantic international pursuit to save the world.\"\r\n\r\nWay of the Warrior Kid\n\r\n\r\nTag: Apple TV Shows\nThis article, \"Apple TV Announces 12 New Shows and Films Coming This Year\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-02-04T20:29:30.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "regulation"
+      }
+    ],
+    "ev_autonomous": [
+      {
+        "title": "Two Tesla board members are all over the Epstein files: what happens next?",
+        "link": "https://electrek.co/2026/02/04/two-tesla-board-members-are-all-over-the-epstein-files-what-happens-next/",
+        "description": "How far are you willing to go to make a buck? For Tesla shareholders, looking the other way when two board members had close relationships with the head of a sex trafficking organization, and lied about it, is evidently on the table.\nThe newly released Epstein files contain extensive correspondence involving not one, but two current Tesla board members, CEO Elon Musk and his brother Kimbal Musk. The documents directly contradict Elon’s public claims about his relationship with the convicted sex offender, reveal that Epstein was arranging women for Kimbal, and show the kind of conduct that would end careers at any company with functioning corporate governance.\nBut Tesla isn’t any company. And Tesla shareholders have made it abundantly clear that stock price is all that matters.\nmore…",
+        "published": "2026-02-04T17:03:10.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "tesla",
+          "ceo",
+          "elon musk"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Tesla UK sales plunge 57% in January as BYD races ahead",
+        "link": "https://electrek.co/2026/02/04/tesla-uk-sales-plunge-57-in-january-as-byd-races-ahead/",
+        "description": "Tesla’s struggles in Europe have reached the UK, with January 2026 registrations plunging more than 57% year-over-year to just 647 vehicles, according to new data.\nThe decline was the steepest among major automakers and far exceeded the 6.4% drop in overall UK battery-electric vehicle sales for the month.\nmore…",
+        "published": "2026-02-04T14:41:23.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "tesla",
+          "byd"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "FBI stymied by Apple's Lockdown Mode after seizing journalist's iPhone",
+        "link": "https://arstechnica.com/tech-policy/2026/02/fbi-stymied-by-apples-lockdown-mode-after-seizing-journalists-iphone/",
+        "description": "Post reporter was compelled to unlock MacBook Pro with fingerprint, however.",
+        "published": "2026-02-04T22:41:15.000Z",
+        "source": "Ars Technica",
+        "sourceKey": "arstechnica",
+        "priority": 1,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "CarPlay could make a splash in an unexpected vehicle",
+        "link": "https://9to5mac.com/2026/02/04/carplay-could-make-a-splash-in-an-unexpected-vehicle/",
+        "description": "While Tesla may be the last automaker anyone expected to consider CarPlay, there’s an even more unlikely vehicle maker that could adopt Apple’s infotainment feature in the future.\nmore…",
+        "published": "2026-02-04T15:59:00.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple",
+          "tesla"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "PSA: Check your Apple Home is up to date in the next few days",
+        "link": "https://9to5mac.com/2026/02/04/psa-check-your-apple-home-is-up-to-date-in-the-next-few-days/",
+        "description": "It’s well over three years since the launch of a new Apple Home architecture to make HomeKit more reliable and to support the Matter standard.\nStill, not everyone has yet updated, and if you’re among them, you now have less than a week to do so before your smart home stops working … \nmore…",
+        "published": "2026-02-04T12:07:12.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Apple Seeds iOS 26.3 and iPadOS 26.3 Release Candidates",
+        "link": "https://www.macrumors.com/2026/02/04/apple-seeds-ios-26-3-rc/",
+        "description": "Apple today seeded the release candidate (RC) versions of upcoming iOS 26.3 and iPadOS 26.3 updates to developers for testing purposes, with the software coming a week after the release of the third betas. The RCs represent the final versions of iOS 26.3 and iPadOS 26.3 that will be provided to the public if no bugs are found in the updates.  \r\n\r\n\r\nRegistered developers can download the updates from the Settings app on the iPhone or iPad by going to the General section and selecting the Software Update option.\r\n\r\niOS 26.3 adds a tool for transitioning from an ‌iPhone‌ to an Android device. Transfers can be initiated during the device setup process, and moving data from one device to another can now be done without having to download a specific app.\r\n\r\nApple's transfer process supports moving photos, messages, notes, apps, passwords, phone number, and more.\r\n\r\niOS 26.3 beta feature list.\r\n\r\nRelated Roundups: iOS 26, iPadOS 26\nRelated Forum: iOS 26\nThis article, \"Apple Seeds iOS 26.3 and iPadOS 26.3 Release Candidates\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-02-04T19:10:23.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Apple Begins Selling Refurbished iPhone 16 and iPhone 16 Pro Models at Lower Prices",
+        "link": "https://www.macrumors.com/2026/02/04/apple-refurbished-iphone-16-and-16-pro/",
+        "description": "Apple today began selling certified refurbished iPhone 16, iPhone 16 Plus, iPhone 16 Pro, and iPhone 16 Pro Max models on its online store in the U.S., with prices discounted by 12% to 22% compared to Apple's current or former pricing for the devices.\r\n\r\n\r\nHere were Apple's starting prices when the devices launched in September 2024:\n\r\n  \niPhone 16: $799\n\r\n  \niPhone 16 Plus: $899\n\r\n  \niPhone 16 Pro: $999\n\r\n  \niPhone 16 Pro Max: $1,199\nApple has since lowered its starting prices for new iPhone 16 and iPhone 16 Plus models, which remain available as previous-generation options:\n\r\n  \niPhone 16: $699\n\r\n  \niPhone 16 Plus: $799\nFinally, here are Apple's starting prices for the refurbished models:\n\r\n  \niPhone 16: $619\n\r\n  \niPhone 16 Plus: $699\n\r\n  \niPhone 16 Pro: $759\n\r\n  \niPhone 16 Pro Max: $929\nThe refurbished iPhone 16 lineup is also rolling out on Apple's online store in Canada, the U.K., France, Germany, Italy, Spain, the Netherlands, Belgium, Switzerland, and select other countries, but not every model is available in every country yet.\r\n\r\nApple's refurbished iPhones are unlocked, and they come with a new battery, a new outer shell, and a plain box with a USB-C cable. The devices are also covered by Apple's one-year limited warranty, and they are eligible for extended AppleCare+ or AppleCare One coverage. Apple says its refurbished products are thoroughly cleaned and tested, and generally they are virtually indistinguishable from brand new devices.\r\n\r\niPhone 16 Pro and Pro Max models feature 6.3-inch and 6.9-inch displays, respectively, up from the 6.1-inch iPhone 15 Pro and 6.7-inch iPhone 15 Pro Max. Other new features included a Camera Control button, an A18 Pro chip optimized for Apple Intelligence, a 48-megapixel Ultra Wide camera, support for 4K at 120 FPS video recording, longer battery life, faster charging over MagSafe, and improved microphones.\r\n\r\nRelated Roundup: iPhone 16\nTag: Apple Refurbished Products\nRelated Forum: iPhone\nThis article, \"Apple Begins Selling Refurbished iPhone 16 and iPhone 16 Pro Models at Lower Prices\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-02-04T15:44:44.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ev_autonomous"
+      }
+    ],
+    "business": [
+      {
+        "title": "Amazon CEO Andy Jassy picks marketplace exec to be his new 'shadow' advisor",
+        "link": "https://www.cnbc.com/2026/02/04/amazon-jassy-new-shadow-advisor-dharmesh-mehta.html",
+        "description": "Jassy was Jeff Bezos' shadow in the early 2000s before going on to lead Amazon Web Services.",
+        "published": "2026-02-04T20:45:10.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "amazon",
+          "ceo"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Microsoft brings back executive Hayete Gallot to run cybersecurity, as Charlie Bell takes new role",
+        "link": "https://www.cnbc.com/2026/02/04/microsoft-brings-back-hayete-gallot-to-run-security-new-role-for-bell.html",
+        "description": "Under Charlie Bell, Microsoft's cybersecurity business grew, but the company also dealt with the fallout from cyberattacks.",
+        "published": "2026-02-04T19:56:59.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "microsoft"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Alphabet reports Q4 2025 revenue of $113.8 billion",
+        "link": "https://9to5google.com/2026/02/04/alphabet-q4-2025-earnings/",
+        "description": "Alphabet today announced Q4 2025 earnings with $113.8 billion in revenue. These numbers range from October to December and wrap up the fiscal year.\nmore…",
+        "published": "2026-02-04T21:04:28.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "alphabet",
+          "billion"
+        ],
+        "category": "business"
+      }
+    ],
+    "robotics": [
+      {
+        "title": "Apple boosts Indian manufacturing investment with new supplier Education Hub",
+        "link": "https://9to5mac.com/2026/02/04/apple-boosts-indian-manufacturing-investment-with-education-hub/",
+        "description": "As part of its broader manufacturing push in India, Apple is expanding supplier training to include Swift coding, robotics, automation technology, and smart manufacturing. Here are the details.\nmore…",
+        "published": "2026-02-04T21:21:03.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "apple",
+          "automation"
+        ],
+        "category": "robotics"
+      }
+    ],
+    "space": [
+      {
+        "title": "SpaceX halts Falcon 9 flights after second stage anomaly",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/spacex_halts_falcon_9_flights/",
+        "description": "",
+        "published": "2026-02-04T11:02:50.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "spacex"
+        ],
+        "category": "space"
+      }
+    ]
+  },
+  "totalArticles": 57
+}

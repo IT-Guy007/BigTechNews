@@ -17,5 +17,6 @@ Thumbs.db
 *.log
 npm-debug.log*
 
-# Build outputs (will be generated)
+# Build outputs (generated on deploy)
+public/
 # Note: We DO commit public/ and data/ for GitHub Pages

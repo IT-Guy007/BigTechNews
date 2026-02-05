@@ -1,6 +1,5 @@
 /**
  * Static Site Generator for Big Tech News
- * Generates HTML pages from digest JSON data
  */
 
 const fs = require('fs').promises;
@@ -11,232 +10,154 @@ const DATA_DIR = path.join(__dirname, '..', 'data');
 const PUBLIC_DIR = path.join(__dirname, '..', 'public');
 const TEMPLATES_DIR = path.join(__dirname, 'templates');
 
-/**
- * Read template file
- */
 async function readTemplate(name) {
-  const filepath = path.join(TEMPLATES_DIR, `${name}.html`);
-  return fs.readFile(filepath, 'utf-8');
+  return fs.readFile(path.join(TEMPLATES_DIR, `${name}.html`), 'utf-8');
 }
 
-/**
- * Simple template engine
- */
 function render(template, data) {
-  return template.replace(/\{\{(\w+)\}\}/g, (match, key) => {
-    return data[key] !== undefined ? data[key] : match;
-  });
+  return template.replace(/\{\{(\w+)\}\}/g, (_, key) => data[key] ?? '');
 }
 
-/**
- * Escape HTML
- */
-function escapeHtml(text) {
+function esc(text) {
   if (!text) return '';
-  return text
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;')
-    .replace(/'/g, '&#039;');
+  return text.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 }
 
-/**
- * Truncate text
- */
-function truncate(text, maxLength) {
+function truncate(text, max) {
   if (!text) return '';
-  const cleaned = text.replace(/<[^>]*>/g, '').trim();
-  if (cleaned.length <= maxLength) return cleaned;
-  return cleaned.substring(0, maxLength).trim() + '...';
+  const clean = text.replace(/<[^>]*>/g, '').trim();
+  return clean.length <= max ? clean : clean.substring(0, max).trim() + '…';
 }
 
-/**
- * Generate highlight HTML
- */
-function generateHighlightHTML(highlight, index) {
-  const tags = highlight.matchedKeywords?.slice(0, 3).map(k => 
-    `<span class="highlight-tag">${escapeHtml(k)}</span>`
-  ).join('') || '';
-  
+// Generate highlight article HTML (numbered list style like bigtechdigest)
+function articleHTML(article, i) {
+  const isTop = i < 3;
   return `
-    <article class="highlight-item">
-      <div class="highlight-rank">${index + 1}</div>
-      <div class="highlight-content">
-        <h3><a href="${highlight.link}" target="_blank" rel="noopener">${escapeHtml(highlight.title)}</a></h3>
-        <p class="highlight-description">${escapeHtml(truncate(highlight.description, 180))}</p>
-        <div class="highlight-meta">
-          <span class="highlight-source">${escapeHtml(highlight.source)}</span>
-          <div class="highlight-tags">${tags}</div>
-        </div>
+    <li class="article">
+      <span class="article-num${isTop ? ' top' : ''}">${i + 1}</span>
+      <div class="article-body">
+        <div class="article-title"><a href="${article.link}" target="_blank" rel="noopener">${esc(article.title)}</a></div>
+        <span class="article-source">${esc(article.source)}</span>
       </div>
-    </article>
-  `;
+    </li>`;
 }
 
-/**
- * Generate category section HTML
- */
-function generateCategoryHTML(categoryKey, articles) {
-  const category = CATEGORIES[categoryKey];
-  if (!category) return '';
-  
-  const articlesList = articles.slice(0, 6).map(article => `
-    <li class="category-article">
-      <a href="${article.link}" target="_blank" rel="noopener">${escapeHtml(article.source)}</a>
-      ${escapeHtml(truncate(article.title, 70))}
-    </li>
-  `).join('');
-
-  return `
-    <div class="category-section">
-      <div class="category-header">
-        <span class="category-icon">${category.icon || '📰'}</span>
-        <span class="category-name">${escapeHtml(category.name)}</span>
-        <span class="category-count">${articles.length}</span>
-      </div>
-      <ul class="category-list">
-        ${articlesList}
-      </ul>
-    </div>
-  `;
-}
-
-/**
- * Generate digest page HTML
- */
-async function generateDigestPage(digest) {
-  const template = await readTemplate('digest');
-  
-  const highlightsHTML = digest.highlights?.length > 0 
-    ? digest.highlights.map((h, i) => generateHighlightHTML(h, i)).join('')
-    : '<div class="empty-state"><p>No highlights available for this week.</p></div>';
-
-  const categoriesHTML = Object.entries(digest.byCategory || {})
+// Generate "more" section by category
+function moreHTML(byCategory) {
+  const entries = Object.entries(byCategory || {})
     .filter(([_, articles]) => articles.length > 0)
-    .sort((a, b) => b[1].length - a[1].length)
-    .map(([key, articles]) => generateCategoryHTML(key, articles))
-    .join('');
+    .sort((a, b) => b[1].length - a[1].length);
 
-  const html = render(template, {
+  if (entries.length === 0) return '<p class="empty">No additional articles.</p>';
+
+  return entries.map(([key, articles]) => {
+    const cat = CATEGORIES[key] || { name: key, icon: '📰' };
+    const items = articles.slice(0, 5).map(a => 
+      `<li class="more-item"><a href="${a.link}" target="_blank" rel="noopener">${esc(truncate(a.title, 80))}</a><span class="source">${esc(a.source)}</span></li>`
+    ).join('');
+    return `
+      <div class="category">
+        <div class="category-title">${cat.icon} ${esc(cat.name)} <span class="category-count">${articles.length}</span></div>
+        <ul class="more-list">${items}</ul>
+      </div>`;
+  }).join('');
+}
+
+// Generate digest card for index
+function digestCardHTML(digest, type) {
+  return `
+    <a href="${type}/${digest.id}.html" class="digest-item">
+      <div>
+        <div class="digest-title">${esc(digest.title)}</div>
+        <div class="digest-meta">${digest.highlightCount} highlights · ${digest.totalArticles} total</div>
+      </div>
+      <span class="digest-arrow">→</span>
+    </a>`;
+}
+
+async function generateDigestPage(digest, type) {
+  const template = await readTemplate('digest');
+  const typeLabels = { daily: 'Daily', weekly: 'Weekly', monthly: 'Monthly' };
+  
+  const highlightsHTML = digest.highlights?.length > 0
+    ? digest.highlights.map((a, i) => articleHTML(a, i)).join('')
+    : '<li class="empty">No highlights.</li>';
+
+  return render(template, {
     title: digest.title,
+    digestType: typeLabels[type] || 'Digest',
     dateRange: digest.dateRange,
     totalArticles: digest.totalArticles || 0,
     highlightCount: digest.highlights?.length || 0,
-    highlightsHTML: highlightsHTML,
-    categoriesHTML: categoriesHTML || '<div class="empty-state"><p>No additional articles.</p></div>',
-    generatedAt: new Date(digest.generatedAt).toLocaleDateString('en-US', {
-      year: 'numeric',
-      month: 'short',
-      day: 'numeric',
-      hour: '2-digit',
-      minute: '2-digit'
-    })
+    highlightsHTML,
+    moreHTML: moreHTML(digest.byCategory),
+    generatedAt: new Date(digest.generatedAt).toLocaleDateString('en-US', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' })
   });
-
-  return html;
 }
 
-/**
- * Generate index page HTML
- */
 async function generateIndexPage(index) {
   const template = await readTemplate('index');
   
-  const digestsListHTML = index.digests.map(digest => `
-    <a href="${digest.id}.html" class="digest-card">
-      <div class="digest-week">${escapeHtml(digest.title)}</div>
-      <div class="digest-date">${escapeHtml(digest.dateRange)}</div>
-      <div class="digest-stats">
-        <span class="digest-stat">${digest.highlightCount || 0} highlights</span>
-        <span class="digest-stat">${digest.totalArticles} total</span>
-      </div>
-    </a>
-  `).join('');
+  const dailyListHTML = index.daily.length > 0
+    ? index.daily.map(d => digestCardHTML(d, 'daily')).join('')
+    : '<p class="empty">No daily digests yet.</p>';
 
-  const latestDigest = index.digests[0];
-  const latestSummary = latestDigest ? `
-    <div class="latest-digest">
-      <h2>${escapeHtml(latestDigest.title)}</h2>
-      <p>${escapeHtml(latestDigest.dateRange)} · ${latestDigest.totalArticles} articles curated</p>
-      <a href="${latestDigest.id}.html" class="btn-primary">Read Latest Digest →</a>
-    </div>
-  ` : '<div class="empty-state"><p>No digests available yet. Run the scraper to generate content.</p></div>';
+  const weeklyListHTML = index.weekly.length > 0
+    ? index.weekly.map(d => digestCardHTML(d, 'weekly')).join('')
+    : '<p class="empty">No weekly digests yet.</p>';
 
-  const html = render(template, {
-    lastUpdated: new Date(index.lastUpdated).toLocaleDateString('en-US', {
-      year: 'numeric',
-      month: 'short',
-      day: 'numeric',
-      hour: '2-digit',
-      minute: '2-digit'
-    }),
-    digestsListHTML: digestsListHTML || '<div class="empty-state"><p>No digests available.</p></div>',
-    latestSummary: latestSummary,
-    totalDigests: index.digests.length
+  const monthlyListHTML = index.monthly.length > 0
+    ? index.monthly.map(d => digestCardHTML(d, 'monthly')).join('')
+    : '<p class="empty">No monthly digests yet.</p>';
+
+  return render(template, {
+    lastUpdated: new Date(index.lastUpdated).toLocaleDateString('en-US', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' }),
+    dailyListHTML,
+    weeklyListHTML,
+    monthlyListHTML
   });
-
-  return html;
 }
 
-/**
- * Main build function
- */
 async function build() {
-  console.log('╔════════════════════════════════════════╗');
-  console.log('║     Big Tech News Site Generator       ║');
-  console.log('╚════════════════════════════════════════╝\n');
+  console.log('Building site...\n');
 
-  // Ensure public directory exists
-  await fs.mkdir(PUBLIC_DIR, { recursive: true });
+  // Create directories
+  await fs.mkdir(path.join(PUBLIC_DIR, 'css'), { recursive: true });
+  await fs.mkdir(path.join(PUBLIC_DIR, 'daily'), { recursive: true });
+  await fs.mkdir(path.join(PUBLIC_DIR, 'weekly'), { recursive: true });
+  await fs.mkdir(path.join(PUBLIC_DIR, 'monthly'), { recursive: true });
 
-  // Copy static assets
-  try {
-    await fs.mkdir(path.join(PUBLIC_DIR, 'css'), { recursive: true });
-    const cssSource = path.join(TEMPLATES_DIR, 'styles.css');
-    const cssDest = path.join(PUBLIC_DIR, 'css', 'styles.css');
-    await fs.copyFile(cssSource, cssDest);
-    console.log('✓ Copied styles.css');
-  } catch (error) {
-    console.error('✗ Error copying CSS:', error.message);
-  }
+  // Copy CSS
+  await fs.copyFile(path.join(TEMPLATES_DIR, 'styles.css'), path.join(PUBLIC_DIR, 'css', 'styles.css'));
+  console.log('✓ styles.css');
 
-  // Read index
+  // Load index
   let index;
   try {
-    const indexContent = await fs.readFile(path.join(DATA_DIR, 'index.json'), 'utf-8');
-    index = JSON.parse(indexContent);
-    console.log(`✓ Loaded index with ${index.digests.length} digests`);
-  } catch (error) {
-    console.log('⚠ No index.json found, creating empty index');
-    index = { lastUpdated: new Date().toISOString(), digests: [] };
+    index = JSON.parse(await fs.readFile(path.join(DATA_DIR, 'index.json'), 'utf-8'));
+  } catch {
+    index = { lastUpdated: new Date().toISOString(), daily: [], weekly: [], monthly: [] };
   }
 
-  // Generate index page
-  const indexHTML = await generateIndexPage(index);
-  await fs.writeFile(path.join(PUBLIC_DIR, 'index.html'), indexHTML);
-  console.log('✓ Generated index.html');
+  // Generate index
+  await fs.writeFile(path.join(PUBLIC_DIR, 'index.html'), await generateIndexPage(index));
+  console.log('✓ index.html');
 
-  // Generate individual digest pages
-  for (const digestInfo of index.digests) {
-    try {
-      const digestPath = path.join(DATA_DIR, 'digests', `${digestInfo.id}.json`);
-      const digestContent = await fs.readFile(digestPath, 'utf-8');
-      const digest = JSON.parse(digestContent);
-
-      const pageHTML = await generateDigestPage(digest);
-      await fs.writeFile(path.join(PUBLIC_DIR, `${digestInfo.id}.html`), pageHTML);
-      console.log(`✓ Generated ${digestInfo.id}.html`);
-    } catch (error) {
-      console.error(`✗ Error generating ${digestInfo.id}:`, error.message);
+  // Generate digest pages
+  for (const type of ['daily', 'weekly', 'monthly']) {
+    for (const info of index[type]) {
+      try {
+        const digest = JSON.parse(await fs.readFile(path.join(DATA_DIR, type, `${info.id}.json`), 'utf-8'));
+        await fs.writeFile(path.join(PUBLIC_DIR, type, `${digest.id}.html`), await generateDigestPage(digest, type));
+        console.log(`✓ ${type}/${digest.id}.html`);
+      } catch (e) {
+        console.error(`✗ ${type}/${info.id}: ${e.message}`);
+      }
     }
   }
 
-  console.log('\n✅ Build completed successfully!\n');
+  console.log('\n✅ Done');
+  process.exit(0);
 }
 
-// Run build
-build().catch(error => {
-  console.error('Build failed:', error);
-  process.exit(1);
-});
+build().catch(e => { console.error(e); process.exit(1); });

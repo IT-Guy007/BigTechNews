@@ -143,4 +143,4 @@ MIT - This is for personal use. All article links point to their original source
 
 ## ⚠️ Disclaimer
 
-This project aggregates RSS feeds for personal use. All article content remains on the original publishers' sites. Please respect the terms of service of each news source.
+This project aggregates RSS feeds. All article content remains on the original publishers' sites. Please respect the terms of service of each news source.

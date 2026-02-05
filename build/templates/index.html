@@ -4,59 +4,58 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="color-scheme" content="dark">
-  <title>Big Tech News — Weekly Digest</title>
-  <meta name="description" content="Curated weekly digest of the most important big tech news. AI, chips, EVs, regulation, and more.">
+  <title>Big Tech News</title>
   <link rel="stylesheet" href="css/styles.css">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 </head>
 <body>
-  <header class="site-header">
+  <header>
     <div class="container">
-      <div class="header-content">
-        <a href="index.html" class="logo">
-          <span class="logo-icon">⚡</span>
-          <span class="logo-text">Big Tech News</span>
-        </a>
-        <span class="tagline">Weekly curated digest</span>
-      </div>
+      <a href="index.html" class="logo">⚡ Big Tech News</a>
     </div>
   </header>
 
   <main class="container">
-    <section class="hero">
-      {{latestSummary}}
-    </section>
+    <div class="hero">
+      <span class="hero-badge">Updated {{lastUpdated}}</span>
+      <h1>Big Tech News</h1>
+      <p>Key developments ranked by relevance</p>
+    </div>
 
-    <section class="digests-section">
-      <div class="section-header">
-        <h2>Archive</h2>
-        <span class="section-meta">{{totalDigests}} digests</span>
-      </div>
-      
-      <div class="digests-grid">
-        {{digestsListHTML}}
-      </div>
-    </section>
+    <nav class="tabs">
+      <button class="tab active" data-tab="daily">Daily</button>
+      <button class="tab" data-tab="weekly">Weekly</button>
+      <button class="tab" data-tab="monthly">Monthly</button>
+    </nav>
 
-    <section class="about-section">
-      <h2>About</h2>
-      <p>
-        Big Tech News aggregates and curates stories from TechCrunch, The Verge, 
-        Ars Technica, CNBC, VentureBeat, and other major publications. Articles are 
-        filtered for relevance to focus on what matters: major AI developments, 
-        big company moves, regulation, and industry shifts.
-      </p>
-      <p class="update-note">Last updated: {{lastUpdated}}</p>
-    </section>
+    <div id="daily" class="tab-content active">
+      <div class="digest-list">{{dailyListHTML}}</div>
+    </div>
+
+    <div id="weekly" class="tab-content">
+      <div class="digest-list">{{weeklyListHTML}}</div>
+    </div>
+
+    <div id="monthly" class="tab-content">
+      <div class="digest-list">{{monthlyListHTML}}</div>
+    </div>
   </main>
 
-  <footer class="site-footer">
+  <footer>
     <div class="container">
-      <p>Big Tech News · Automated via GitHub Actions</p>
-      <p class="footer-note">Personal use only. All links to original sources.</p>
+      <p>Articles ranked to show what matters most.</p>
+      <p class="footer-links"><a href="https://github.com/IT-Guy007/BigTechNews">GitHub</a></p>
     </div>
   </footer>
+
+  <script>
+    document.querySelectorAll('.tab').forEach(tab => {
+      tab.addEventListener('click', () => {
+        document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+        document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+        tab.classList.add('active');
+        document.getElementById(tab.dataset.tab).classList.add('active');
+      });
+    });
+  </script>
 </body>
 </html>
