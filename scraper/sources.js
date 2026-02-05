@@ -1,6 +1,6 @@
 /**
  * News Sources Configuration
- * These are the same sources used by Big Tech Digest
+ * Curated sources for high-quality big tech news
  */
 
 const SOURCES = {
@@ -8,246 +8,247 @@ const SOURCES = {
   techcrunch: {
     name: 'TechCrunch',
     rss: 'https://techcrunch.com/feed/',
-    categories: ['ai', 'startups', 'apps', 'venture']
+    priority: 1
   },
   theverge: {
     name: 'The Verge',
     rss: 'https://www.theverge.com/rss/index.xml',
-    categories: ['tech', 'science', 'entertainment']
+    priority: 1
   },
   engadget: {
     name: 'Engadget',
     rss: 'https://www.engadget.com/rss.xml',
-    categories: ['tech', 'gadgets', 'gaming']
+    priority: 2
   },
   arstechnica: {
     name: 'Ars Technica',
     rss: 'https://feeds.arstechnica.com/arstechnica/index',
-    categories: ['tech', 'science', 'policy']
+    priority: 1
   },
   wired: {
     name: 'Wired',
     rss: 'https://www.wired.com/feed/rss',
-    categories: ['tech', 'science', 'culture']
+    priority: 2
   },
   
   // Business & Finance Tech
   cnbc_tech: {
-    name: 'CNBC Tech',
+    name: 'CNBC',
     rss: 'https://www.cnbc.com/id/19854910/device/rss/rss.html',
-    categories: ['business', 'markets', 'tech']
-  },
-  reuters_tech: {
-    name: 'Reuters Tech',
-    rss: 'https://www.reutersagency.com/feed/?best-topics=tech&post_type=best',
-    categories: ['business', 'tech']
+    priority: 1
   },
   bloomberg_tech: {
-    name: 'Bloomberg Technology',
+    name: 'Bloomberg',
     rss: 'https://feeds.bloomberg.com/technology/news.rss',
-    categories: ['business', 'tech']
+    priority: 1
   },
 
   // AI Specific
   venturebeat: {
     name: 'VentureBeat',
     rss: 'https://venturebeat.com/feed/',
-    categories: ['ai', 'enterprise', 'startups']
+    priority: 1
   },
   
   // Apple focused
   '9to5mac': {
     name: '9to5Mac',
     rss: 'https://9to5mac.com/feed/',
-    categories: ['apple', 'ios', 'mac']
+    priority: 2
   },
   macrumors: {
     name: 'MacRumors',
     rss: 'https://feeds.macrumors.com/MacRumors-All',
-    categories: ['apple', 'ios', 'mac']
+    priority: 2
   },
   
   // Google/Android focused
   '9to5google': {
     name: '9to5Google',
     rss: 'https://9to5google.com/feed/',
-    categories: ['google', 'android', 'chrome']
+    priority: 2
   },
   
   // EV & Auto Tech
   electrek: {
     name: 'Electrek',
     rss: 'https://electrek.co/feed/',
-    categories: ['ev', 'tesla', 'energy']
+    priority: 2
   },
   
-  // Hardware
+  // Hardware & Semiconductors
   tomshardware: {
     name: "Tom's Hardware",
     rss: 'https://www.tomshardware.com/feeds/all',
-    categories: ['hardware', 'chips', 'components']
+    priority: 2
   },
-  
-  // Crypto/Blockchain
-  coindesk: {
-    name: 'CoinDesk',
-    rss: 'https://www.coindesk.com/arc/outboundfeeds/rss/',
-    categories: ['crypto', 'blockchain', 'web3']
-  },
-  cointelegraph: {
-    name: 'Cointelegraph',
-    rss: 'https://cointelegraph.com/rss',
-    categories: ['crypto', 'blockchain', 'defi']
-  },
-
-  // Semiconductor & Cloud
   theregister: {
     name: 'The Register',
     rss: 'https://www.theregister.com/headlines.atom',
-    categories: ['enterprise', 'cloud', 'hardware']
+    priority: 2
   },
   
-  // Gaming
-  polygon: {
-    name: 'Polygon',
-    rss: 'https://www.polygon.com/rss/index.xml',
-    categories: ['gaming', 'entertainment']
-  },
-
-  // Robotics
-  therobotreport: {
-    name: 'The Robot Report',
-    rss: 'https://www.therobotreport.com/feed/',
-    categories: ['robotics', 'automation']
-  },
-
-  // Search & SEO
-  searchengineland: {
-    name: 'Search Engine Land',
-    rss: 'https://searchengineland.com/feed',
-    categories: ['search', 'google', 'seo']
+  // Crypto/Blockchain (reduced priority - only major news)
+  coindesk: {
+    name: 'CoinDesk',
+    rss: 'https://www.coindesk.com/arc/outboundfeeds/rss/',
+    priority: 3
   },
 
   // Space
   spacenews: {
     name: 'SpaceNews',
     rss: 'https://spacenews.com/feed/',
-    categories: ['space', 'satellites']
+    priority: 2
   }
 };
 
-// Big Tech company keywords for filtering
-const BIG_TECH_KEYWORDS = [
-  // Companies
-  'google', 'alphabet', 'microsoft', 'apple', 'amazon', 'meta', 'facebook',
-  'nvidia', 'openai', 'anthropic', 'tesla', 'spacex', 'intel', 'amd',
-  'qualcomm', 'broadcom', 'tsmc', 'samsung', 'netflix', 'spotify', 'uber',
-  'alibaba', 'tencent', 'bytedance', 'tiktok', 'baidu', 'xiaomi', 'huawei',
-  'oracle', 'salesforce', 'adobe', 'zoom', 'slack', 'twitter', 'x corp',
-  'snap', 'snapchat', 'pinterest', 'linkedin', 'github', 'gitlab',
-  'coinbase', 'binance', 'stripe', 'paypal', 'square', 'block inc',
-  'shopify', 'ebay', 'waymo', 'cruise', 'rivian', 'lucid', 'byd',
-  'foxconn', 'arm holdings', 'softbank', 'berkshire', 'palantir',
-  'snowflake', 'databricks', 'cloudflare', 'crowdstrike', 'palo alto',
-  'coreweave', 'scale ai', 'perplexity', 'mistral', 'cohere', 'stability ai',
-  'midjourney', 'runway', 'figma', 'canva', 'notion', 'discord', 'reddit',
-  'xai', 'neuralink', 'boring company', 'world', 'worldcoin',
+// HIGH-IMPACT keywords - stories mentioning these get bonus points
+const HIGH_IMPACT_KEYWORDS = [
+  // Major AI developments
+  'openai', 'anthropic', 'chatgpt', 'gpt-5', 'claude', 'gemini', 'llama',
+  'artificial general intelligence', 'agi', 'superintelligence',
   
-  // Products & Technologies
-  'chatgpt', 'gpt-4', 'gpt-5', 'claude', 'gemini', 'llama', 'copilot',
-  'siri', 'alexa', 'bard', 'dall-e', 'midjourney', 'stable diffusion',
-  'iphone', 'ipad', 'macbook', 'airpods', 'apple watch', 'vision pro',
-  'android', 'pixel', 'chromebook', 'windows', 'azure', 'aws', 'gcp',
-  'kubernetes', 'docker', 'tensorflow', 'pytorch', 'transformer',
-  'model 3', 'model y', 'cybertruck', 'robotaxi', 'optimus',
-  'starlink', 'starship', 'falcon', 'dragon',
-  'quest', 'oculus', 'hololens', 'playstation', 'xbox', 'switch',
-  'bitcoin', 'ethereum', 'stablecoin', 'nft', 'defi', 'web3',
-  'blackwell', 'hopper', 'a100', 'h100', 'b200',
+  // Big company moves
+  'acquisition', 'acquires', 'merger', 'billion dollar', 'ipo', 'layoffs',
+  'antitrust', 'monopoly', 'regulation', 'ftc', 'doj', 'eu commission',
   
-  // Concepts
-  'artificial intelligence', 'machine learning', 'deep learning', 'neural network',
-  'large language model', 'llm', 'generative ai', 'gen ai',
-  'autonomous vehicle', 'self-driving', 'robotaxi', 'ev', 'electric vehicle',
-  'quantum computing', 'semiconductor', 'chip', 'processor', 'gpu', 'cpu',
-  'cloud computing', 'data center', 'hyperscaler',
-  'social media', 'streaming', 'e-commerce', 'fintech', 'regtech',
-  'antitrust', 'monopoly', 'regulation', 'privacy', 'data protection',
-  'metaverse', 'virtual reality', 'augmented reality', 'mixed reality',
-  'ipo', 'acquisition', 'merger', 'layoff', 'earnings',
-  'series a', 'series b', 'series c', 'unicorn', 'valuation'
+  // Leadership
+  'ceo', 'sam altman', 'elon musk', 'mark zuckerberg', 'sundar pichai',
+  'satya nadella', 'tim cook', 'jensen huang', 'dario amodei',
+  
+  // Breakthrough tech
+  'breakthrough', 'revolutionary', 'first ever', 'world record',
+  'quantum', 'fusion', 'robotaxi', 'humanoid robot'
 ];
 
-// Categories for organizing news (similar to Big Tech Digest)
+// Companies that matter for big tech digest
+const BIG_TECH_COMPANIES = [
+  'google', 'alphabet', 'microsoft', 'apple', 'amazon', 'meta', 'facebook',
+  'nvidia', 'openai', 'anthropic', 'tesla', 'spacex', 'intel', 'amd',
+  'qualcomm', 'broadcom', 'tsmc', 'samsung', 'netflix', 'uber',
+  'bytedance', 'tiktok', 'baidu', 'xiaomi', 'huawei',
+  'oracle', 'salesforce', 'adobe',
+  'coinbase', 'stripe', 'waymo', 'cruise', 'rivian', 'byd',
+  'foxconn', 'arm', 'softbank', 'palantir', 'coreweave',
+  'perplexity', 'mistral', 'cohere', 'stability ai', 'midjourney',
+  'xai', 'neuralink', 'figure ai', 'boston dynamics'
+];
+
+// Topics that are RELEVANT (digest-worthy)
+const RELEVANT_TOPICS = [
+  // AI & ML
+  'artificial intelligence', 'machine learning', 'deep learning', 'neural network',
+  'large language model', 'llm', 'generative ai', 'foundation model',
+  'ai safety', 'alignment', 'ai regulation',
+  
+  // Chips & Infrastructure
+  'semiconductor', 'chip', 'gpu', 'data center', 'supercomputer',
+  'blackwell', 'hopper', 'h100', 'b200', 'tpu',
+  
+  // Autonomous & Robotics
+  'autonomous vehicle', 'self-driving', 'robotaxi', 'humanoid robot',
+  'automation', 'optimus',
+  
+  // Space & Frontier
+  'starlink', 'starship', 'rocket launch', 'satellite',
+  
+  // Major Business Moves
+  'antitrust', 'regulation', 'lawsuit', 'ipo', 'acquisition',
+  'billion', 'valuation', 'funding round', 'layoffs',
+  
+  // Crypto (only major)
+  'bitcoin', 'stablecoin', 'crypto regulation'
+];
+
+// Topics to EXCLUDE (not digest-worthy)
+const EXCLUDED_PATTERNS = [
+  // Product deals & sales
+  /deal/i, /\bsale\b/i, /discount/i, /save \$/i, /% off/i, /prime day/i, /black friday/i,
+  /best buy/i, /walmart/i, /cheap/i, /budget/i, /price drop/i, /price cut/i,
+  
+  // Reviews & buying guides
+  /\breview:/i, /hands-on/i, /unboxing/i, /\bvs\.?\b/i, /compared/i, /buying guide/i,
+  /best phones/i, /best laptops/i, /best tv/i, /best headphones/i, /best wireless/i,
+  /top \d+ /i, /\d+ best /i,
+  
+  // How-to & tips
+  /how to/i, /tips for/i, /guide to/i, /tutorial/i, /step by step/i,
+  /ways to/i, /things you/i, /everything you need/i,
+  
+  // Minor updates
+  /now available/i, /rolling out/i, /coming soon/i, /early access/i,
+  /gets a new/i, /adds support/i,
+  
+  // Entertainment/lifestyle
+  /game review/i, /movie review/i, /tv show/i, /playlist/i,
+  /recipe/i, /fitness/i, /wellness/i,
+  
+  // Clickbait patterns
+  /you need to/i, /you should/i, /why you/i, /don't miss/i, /must have/i,
+  /\bsecret\b/i, /\bhack\b/i, /\btrick\b/i, /won't believe/i, /this is why/i
+];
+
+// Categories for organizing news
 const CATEGORIES = {
   ai: {
     name: 'AI',
+    icon: '🤖',
     keywords: ['ai', 'artificial intelligence', 'machine learning', 'llm', 'chatgpt', 
                'claude', 'gemini', 'openai', 'anthropic', 'gpt', 'neural', 'deep learning',
-               'generative ai', 'copilot', 'perplexity', 'midjourney', 'stable diffusion']
+               'generative ai', 'copilot', 'perplexity', 'midjourney', 'stable diffusion',
+               'foundation model', 'training', 'inference']
   },
   chips_cloud: {
-    name: 'Chips / Cloud',
-    keywords: ['nvidia', 'amd', 'intel', 'qualcomm', 'tsmc', 'samsung', 'chip', 'semiconductor',
+    name: 'Chips & Cloud',
+    icon: '💾',
+    keywords: ['nvidia', 'amd', 'intel', 'qualcomm', 'tsmc', 'samsung chip', 'semiconductor',
                'processor', 'gpu', 'cpu', 'aws', 'azure', 'gcp', 'cloud', 'data center',
                'blackwell', 'hopper', 'coreweave', 'broadcom', 'arm']
   },
   robotics: {
     name: 'Robotics',
+    icon: '🦾',
     keywords: ['robot', 'robotics', 'optimus', 'humanoid', 'automation', 'boston dynamics',
-               'figure', 'agility']
-  },
-  commerce: {
-    name: 'Commerce',
-    keywords: ['amazon', 'shopify', 'ebay', 'e-commerce', 'retail', 'warehouse', 'delivery',
-               'prime', 'alibaba', 'temu', 'shein']
-  },
-  social_media: {
-    name: 'Social Media',
-    keywords: ['meta', 'facebook', 'instagram', 'twitter', 'x corp', 'tiktok', 'bytedance',
-               'snap', 'snapchat', 'linkedin', 'reddit', 'threads', 'bluesky', 'mastodon']
-  },
-  content: {
-    name: 'Content / Entertainment',
-    keywords: ['netflix', 'disney', 'spotify', 'youtube', 'streaming', 'music', 'video',
-               'gaming', 'twitch', 'hbo', 'apple tv', 'paramount']
-  },
-  device_hardware: {
-    name: 'Device / Hardware',
-    keywords: ['iphone', 'ipad', 'macbook', 'pixel', 'samsung galaxy', 'surface', 'airpods',
-               'apple watch', 'vision pro', 'quest', 'headset', 'wearable', 'laptop', 'phone',
-               'switch', 'playstation', 'xbox']
-  },
-  app_platform: {
-    name: 'App / Platform',
-    keywords: ['app store', 'play store', 'ios', 'android', 'windows', 'macos', 'linux',
-               'software', 'platform', 'developer', 'api']
+               'figure', 'agility', 'warehouse robot']
   },
   ev_autonomous: {
-    name: 'EV / Autonomous',
+    name: 'EV & Autonomous',
+    icon: '🚗',
     keywords: ['tesla', 'ev', 'electric vehicle', 'waymo', 'cruise', 'autonomous', 'self-driving',
-               'robotaxi', 'rivian', 'lucid', 'byd', 'nio', 'xpeng', 'charging', 'battery']
+               'robotaxi', 'rivian', 'lucid', 'byd', 'nio', 'xpeng', 'battery', 'charging']
   },
   space: {
     name: 'Space',
+    icon: '🚀',
     keywords: ['spacex', 'starlink', 'starship', 'nasa', 'rocket', 'satellite', 'orbit',
-               'blue origin', 'virgin galactic', 'kuiper']
-  },
-  crypto: {
-    name: 'Crypto / Blockchain',
-    keywords: ['bitcoin', 'ethereum', 'crypto', 'blockchain', 'stablecoin', 'defi', 'nft',
-               'web3', 'coinbase', 'binance', 'token', 'wallet']
+               'blue origin', 'kuiper', 'launch']
   },
   regulation: {
     name: 'Regulation',
+    icon: '⚖️',
     keywords: ['antitrust', 'regulation', 'ftc', 'doj', 'eu', 'gdpr', 'privacy', 'lawsuit',
-               'fine', 'compliance', 'congress', 'senate', 'bill', 'law']
+               'fine', 'compliance', 'congress', 'senate', 'bill', 'monopoly']
   },
   business: {
-    name: 'Business / Finance',
-    keywords: ['earnings', 'revenue', 'profit', 'ipo', 'acquisition', 'merger', 'layoff',
-               'valuation', 'funding', 'investment', 'stock', 'market cap']
+    name: 'Business',
+    icon: '📈',
+    keywords: ['acquisition', 'merger', 'ipo', 'funding', 'valuation', 'layoff',
+               'earnings', 'revenue', 'billion', 'ceo', 'executive']
+  },
+  crypto: {
+    name: 'Crypto',
+    icon: '₿',
+    keywords: ['bitcoin', 'ethereum', 'crypto', 'blockchain', 'stablecoin',
+               'coinbase', 'binance', 'sec crypto', 'crypto regulation']
   }
 };
 
-module.exports = { SOURCES, BIG_TECH_KEYWORDS, CATEGORIES };
+module.exports = { 
+  SOURCES, 
+  HIGH_IMPACT_KEYWORDS, 
+  BIG_TECH_COMPANIES, 
+  RELEVANT_TOPICS, 
+  EXCLUDED_PATTERNS, 
+  CATEGORIES 
+};
