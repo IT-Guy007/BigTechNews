@@ -7,7 +7,7 @@
 const Parser = require('rss-parser');
 const fs = require('fs').promises;
 const path = require('path');
-const { format, subDays, subWeeks, subMonths, isWithinInterval, parseISO, startOfDay, endOfDay, startOfWeek, endOfWeek, startOfMonth, endOfMonth } = require('date-fns');
+const { format, subDays, subWeeks, subMonths, isWithinInterval, parseISO, startOfDay, endOfDay, startOfWeek, endOfWeek, startOfMonth, endOfMonth, getISOWeek, getISOWeekYear } = require('date-fns');
 const { 
   SOURCES, 
   HIGH_IMPACT_KEYWORDS, 
@@ -194,15 +194,11 @@ function isInRange(articleDate, start, end) {
 }
 
 /**
- * Get week number and year (ISO week)
+ * Get week number and year (ISO week) using date-fns
  */
 function getWeekInfo(date) {
   const d = new Date(date);
-  const dayNum = d.getUTCDay() || 7;
-  d.setUTCDate(d.getUTCDate() + 4 - dayNum);
-  const yearStart = new Date(Date.UTC(d.getUTCFullYear(), 0, 1));
-  const weekNo = Math.ceil((((d - yearStart) / 86400000) + 1) / 7);
-  return { week: weekNo, year: d.getUTCFullYear() };
+  return { week: getISOWeek(d), year: getISOWeekYear(d) };
 }
 
 /**
@@ -324,19 +320,18 @@ async function generateDailyDigest(date, articles) {
 }
 
 /**
- * Generate weekly digest
+ * Generate weekly digest using ISO week dates
  */
 async function generateWeeklyDigest(weekNum, year, articles) {
-  const jan1 = new Date(year, 0, 1);
-  const firstMonday = new Date(jan1);
-  firstMonday.setDate(jan1.getDate() + ((8 - jan1.getDay()) % 7));
+  // Calculate ISO week 1 start: the Monday of the week containing Jan 4
+  const jan4 = new Date(year, 0, 4);
+  const week1Start = startOfWeek(jan4, { weekStartsOn: 1 });
   
-  const weekStart = new Date(firstMonday);
-  weekStart.setDate(firstMonday.getDate() + (weekNum - 1) * 7);
+  // Calculate this week's start/end by adding weeks
+  const weekStart = new Date(week1Start);
+  weekStart.setDate(week1Start.getDate() + (weekNum - 1) * 7);
   
-  const weekEnd = new Date(weekStart);
-  weekEnd.setDate(weekStart.getDate() + 6);
-  weekEnd.setHours(23, 59, 59, 999);
+  const weekEnd = endOfWeek(weekStart, { weekStartsOn: 1 });
 
   const processed = processArticles(articles, weekStart, weekEnd);
   const id = generateWeekId(weekNum, year);
@@ -513,7 +508,9 @@ async function main() {
     }
     
     case 'weekly': {
-      const weekInfo = getWeekInfo(now);
+      // Generate digest for the PREVIOUS week (the completed one)
+      const lastWeekDate = subWeeks(now, 1);
+      const weekInfo = getWeekInfo(lastWeekDate);
       console.log(`\n━━━ Week ${weekInfo.week}, ${weekInfo.year} ━━━`);
       const digest = await generateWeeklyDigest(weekInfo.week, weekInfo.year, articles);
       await saveDigest(digest, 'weekly');
@@ -521,8 +518,10 @@ async function main() {
     }
     
     case 'monthly': {
-      console.log(`\n━━━ ${format(now, 'MMMM yyyy')} ━━━`);
-      const digest = await generateMonthlyDigest(now, articles);
+      // Generate digest for the PREVIOUS month (the completed one)
+      const lastMonth = subMonths(now, 1);
+      console.log(`\n━━━ ${format(lastMonth, 'MMMM yyyy')} ━━━`);
+      const digest = await generateMonthlyDigest(lastMonth, articles);
       await saveDigest(digest, 'monthly');
       break;
     }

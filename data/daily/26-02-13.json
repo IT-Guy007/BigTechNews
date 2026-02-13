@@ -4,8 +4,63 @@
   "title": "Friday, Feb 13",
   "dateRange": "February 13, 2026",
   "date": "2026-02-13",
-  "generatedAt": "2026-02-13T07:30:58.976Z",
+  "generatedAt": "2026-02-13T12:26:16.585Z",
   "highlights": [
+    {
+      "title": " OpenAI launches GPT-5.3-Codex-Spark on Cerebras chips — marks AI giants first production deployment away from Nvidia ",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-lauches-gpt-53-codes-spark-on-cerebras-chips",
+      "description": "OpenAI on Thursday released GPT-5.3-Codex-Spark, its first AI model served on chips from Cerebras Systems, marking the ChatGPT maker’s first production deployment on non-Nvidia silicon.",
+      "published": "2026-02-13T11:00:00.000Z",
+      "source": "Tom's Hardware",
+      "sourceKey": "tomshardware",
+      "priority": 2,
+      "image": "https://cdn.mos.cms.futurecdn.net/3RxgZNHyDXJGF2AYGg6sBo-1280-80.png",
+      "relevanceScore": 18,
+      "matchedKeywords": [
+        "nvidia",
+        "openai",
+        "chatgpt",
+        "gpt-5",
+        "chip"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "The Next Tech Dawn: Quantum Computing & Real-World Applications",
+      "link": "https://www.bloomberg.com/news/videos/2026-02-13/quantum-computing-real-world-applications-video",
+      "description": "December 9, 2024 marked a turning point for quantum computing, when Google unveiled its Willow chip - triggering a surge in investor interest and sending publicly traded quantum stocks soaring. More than a year later, Bloomberg's Tom Mackenzie speaks to leading European pioneers to ask: Are we any closer to real-world, mainstream quantum computing? We hear from Nu Quantum CEO & founder Carmen Palacios-Berraquero, Phasecraft CEO & co-founder Ashley Montanaro and Riverlane CEO & founder Steve Brierley about the technoloy's from theory and research into practical applications.  (Source: Bloomberg)",
+      "published": "2026-02-13T09:54:15.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 12,
+      "matchedKeywords": [
+        "google",
+        "arm",
+        "ceo",
+        "quantum",
+        "chip"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "AWS CEO Garman says software AI fears are 'overblown'",
+      "link": "https://www.cnbc.com/2026/02/12/aws-ceo-garman-software-ai-fears.html",
+      "description": "Amazon's cloud business is seeing faster growth than expected, and its margin is widening.",
+      "published": "2026-02-12T23:14:19.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 10,
+      "matchedKeywords": [
+        "amazon",
+        "arm",
+        "ceo"
+      ],
+      "category": "chips_cloud"
+    },
     {
       "title": "Waymo is paying DoorDash gig workers to close its robotaxi doors",
       "link": "https://www.cnbc.com/2026/02/12/waymo-is-paying-doordash-gig-workers-to-close-its-robotaxi-doors.html",
@@ -21,6 +76,23 @@
         "robotaxi"
       ],
       "category": "ev_autonomous"
+    },
+    {
+      "title": "Finland's IQM Urges Europe to Close the Gap in Global Quantum Race",
+      "link": "https://www.bloomberg.com/news/videos/2026-02-13/iqm-ceo-urges-europe-to-close-the-gap-in-quantum-race-video",
+      "description": "Bloomberg's Tom Mackenzie speaks with IQM Quantum Computing CEO and co-founder Jan Goetz about the growing battle between the US and China to dominate quantum computing. With $600 million raised and partnerships including Nvidia, the Finland-based firm is pushing for Europe to secure its place in the global tech race or risk being left behind. (Source: Bloomberg)",
+      "published": "2026-02-13T12:00:26.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "nvidia",
+        "ceo",
+        "quantum"
+      ],
+      "category": "ai"
     },
     {
       "title": "China Is Snapping Up Overseas Assets Again From Puma to Metals",
@@ -39,24 +111,57 @@
       "category": "ai"
     },
     {
-      "title": "Capgemini Says AI Pivot, Sovereignty Push Will Drive Growth",
-      "link": "https://www.bloomberg.com/news/articles/2026-02-13/capgemini-says-ai-pivot-sovereignty-push-will-drive-growth",
-      "description": "Capgemini Chief Executive Officer Aiman Ezzat said the French IT company is “clearly pivoting” to facilitate artificial intelligence adoption, which will fuel sales this year.",
-      "published": "2026-02-13T06:15:37.000Z",
+      "title": "Apple's stock has worst day since April as iPhone maker faces FTC scrutiny, reports of Siri delay",
+      "link": "https://www.cnbc.com/2026/02/12/apple-stock-worst-day-ftc-siri.html",
+      "description": "The iPhone maker faces reported delays in its AI assistant and pressure from FTC chair Andrew Ferguson to look into possible political bias.",
+      "published": "2026-02-12T23:52:25.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "apple",
+        "ftc"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Nvidia Shares Go Cold Even as Big Tech Spending on AI Balloons",
+      "link": "https://www.bloomberg.com/news/articles/2026-02-13/nvidia-shares-go-cold-even-as-big-tech-spending-on-ai-balloons",
+      "description": "Big Tech keeps raising its spending plans for artificial intelligence infrastructure, yet shares of Nvidia Corp., one of the biggest beneficiaries of that flood of cash, have been largely stagnant for months.",
+      "published": "2026-02-13T11:32:33.000Z",
       "source": "Bloomberg",
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 7,
+      "relevanceScore": 8,
       "matchedKeywords": [
+        "nvidia",
         "intel",
-        "gemini",
         "artificial intelligence"
       ],
       "category": "ai"
     },
     {
-      "title": "GDS-Backed DayOne Said to Pick Banks for $5 Billion US IPO",
+      "title": "Quantum Computing and AI Boom: Inside the High-Stakes Tech Race | Bloomberg Tech: Europe 2/13/2026",
+      "link": "https://www.bloomberg.com/news/videos/2026-02-13/quantum-computing-race-bloomberg-tech-europe-video",
+      "description": "In this episode of \"Bloomberg Tech: Europe,\" Tom Mackenzie explores the race to unlock quantum computing — a technology promising exponential leaps in processing power. As venture capital floods into the sector, investors are betting it could transform drug discovery, machine learning, cybersecurity, finance and defense. But with practical applications still years away, can quantum live up to the hype? Tom speaks to leading CEOs and founders about the road to commercialization and asks if Europe can compete with the US and China in this tech battle.\n\n\"Bloomberg Tech: Europe\" spotlights the biggest names and trends shaping the region's technology ecosystem as the global competition heats up. This monthly, 30-minute magazine-style show features in-depth interviews with top technology leaders, as well as major investors and policymakers - giving you a compelling A to Z of the most consequential innovations, opportunities and challenges.  (Source: Bloomberg)",
+      "published": "2026-02-13T09:51:31.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "ceo",
+        "quantum",
+        "machine learning"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Asian Firm DayOne Said to Pick Banks for $5 Billion US IPO",
       "link": "https://www.bloomberg.com/news/articles/2026-02-13/gds-backed-dayone-is-said-to-pick-banks-for-5-billion-us-ipo",
       "description": "DayOne Data Centers Ltd. has selected banks to help arrange a US initial public offering that may raise about $5 billion, according to people familiar with the matter.",
       "published": "2026-02-13T03:02:50.000Z",
@@ -71,151 +176,65 @@
         "billion"
       ],
       "category": "business"
-    },
-    {
-      "title": "Waymo is asking DoorDash drivers to shut the doors of its self-driving cars",
-      "link": "https://techcrunch.com/2026/02/12/waymo-is-asking-doordash-drivers-to-shut-the-doors-of-its-self-driving-cars/",
-      "description": "If a passenger accidentally leaves a Waymo door open, the vehicle can get stuck in place.",
-      "published": "2026-02-13T04:41:41.000Z",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 6,
-      "matchedKeywords": [
-        "waymo",
-        "self-driving"
-      ],
-      "category": "ev_autonomous"
-    },
-    {
-      "title": "When Amazon badly needed a ride, Europe's Ariane 6 rocket delivered",
-      "link": "https://arstechnica.com/space/2026/02/when-amazon-badly-needed-a-ride-europes-ariane-6-rocket-delivered/",
-      "description": "This was the first launch of the Ariane 64, the most powerful rocket in European space history.",
-      "published": "2026-02-13T00:34:29.000Z",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 5,
-      "matchedKeywords": [
-        "amazon"
-      ],
-      "category": "space"
-    },
-    {
-      "title": "Amazon's Ring cancels Flock partnership amid Super Bowl ad backlash",
-      "link": "https://www.cnbc.com/2026/02/12/amazons-ring-cancels-flock-partnership-amid-super-bowl-ad-backlash.html",
-      "description": "Ring's decision to cancel its partnership with Flock comes as tech companies face growing pressure to reexamine their work with federal agencies.",
-      "published": "2026-02-13T01:50:29.000Z",
-      "source": "CNBC",
-      "sourceKey": "cnbc_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 5,
-      "matchedKeywords": [
-        "amazon"
-      ],
-      "category": null
-    },
-    {
-      "title": "InsuranceDekho Owner Is Said to Plan $250 Million India IPO",
-      "link": "https://www.bloomberg.com/news/articles/2026-02-13/insurancedekho-owner-is-said-to-plan-250-million-india-ipo",
-      "description": "Girnar Insurance Brokers Pvt., which operates insurance tech startup InsuranceDekho, is weighing an initial public offering in Mumbai that could raise as much as $250 million, according to people familiar with the matter.",
-      "published": "2026-02-13T07:13:52.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 5,
-      "matchedKeywords": [
-        "ipo"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": "Thailand’s Minor International Is Said to Explore Hong Kong IPO for Restaurant Unit",
-      "link": "https://www.bloomberg.com/news/articles/2026-02-13/thailand-s-minor-international-said-to-explore-hong-kong-ipo-of-restaurant-unit",
-      "description": "Thailand’s Minor International Pcl, one of Asia’s largest hospitality groups, is considering a Hong Kong initial public offering for its restaurant business, people familiar with the matter said, at a time when Bangkok’s stock market tries to revive activity at home.",
-      "published": "2026-02-13T04:02:57.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 5,
-      "matchedKeywords": [
-        "ipo"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": "Apple wins long-running court battle against Optis over 4G patents in the US",
-      "link": "https://9to5mac.com/2026/02/12/apple-wins-long-running-court-battle-against-optis-over-4g-patents-in-the-us/",
-      "description": "Following two court losses and two successful appeals, Apple was cleared today on all counts of patent infringement in a 2019 lawsuit brought by Texas-based Optis Wireless. A second case, however, still looms in the UK. Here are the details.\nmore…",
-      "published": "2026-02-13T00:05:41.000Z",
-      "source": "9to5Mac",
-      "sourceKey": "9to5mac",
-      "priority": 2,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/Apple-seeking-permission-to-appeal-loss-in-1B-developer-lawsuit.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "relevanceScore": 5,
-      "matchedKeywords": [
-        "apple",
-        "lawsuit"
-      ],
-      "category": "ai"
     }
   ],
   "byCategory": {
-    "ev_autonomous": [
+    "ai": [
       {
-        "title": "Waymo is paying DoorDash gig workers to close its robotaxi doors",
-        "link": "https://www.cnbc.com/2026/02/12/waymo-is-paying-doordash-gig-workers-to-close-its-robotaxi-doors.html",
-        "description": "Waymo is relying on humans for certain tasks, showing some of the limitations of its autonomous operations.",
-        "published": "2026-02-13T02:10:42.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_tech",
+        "title": " OpenAI launches GPT-5.3-Codex-Spark on Cerebras chips — marks AI giants first production deployment away from Nvidia ",
+        "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-lauches-gpt-53-codes-spark-on-cerebras-chips",
+        "description": "OpenAI on Thursday released GPT-5.3-Codex-Spark, its first AI model served on chips from Cerebras Systems, marking the ChatGPT maker’s first production deployment on non-Nvidia silicon.",
+        "published": "2026-02-13T11:00:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/3RxgZNHyDXJGF2AYGg6sBo-1280-80.png",
+        "relevanceScore": 18,
+        "matchedKeywords": [
+          "nvidia",
+          "openai",
+          "chatgpt",
+          "gpt-5",
+          "chip"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "The Next Tech Dawn: Quantum Computing & Real-World Applications",
+        "link": "https://www.bloomberg.com/news/videos/2026-02-13/quantum-computing-real-world-applications-video",
+        "description": "December 9, 2024 marked a turning point for quantum computing, when Google unveiled its Willow chip - triggering a surge in investor interest and sending publicly traded quantum stocks soaring. More than a year later, Bloomberg's Tom Mackenzie speaks to leading European pioneers to ask: Are we any closer to real-world, mainstream quantum computing? We hear from Nu Quantum CEO & founder Carmen Palacios-Berraquero, Phasecraft CEO & co-founder Ashley Montanaro and Riverlane CEO & founder Steve Brierley about the technoloy's from theory and research into practical applications.  (Source: Bloomberg)",
+        "published": "2026-02-13T09:54:15.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "google",
+          "arm",
+          "ceo",
+          "quantum",
+          "chip"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Finland's IQM Urges Europe to Close the Gap in Global Quantum Race",
+        "link": "https://www.bloomberg.com/news/videos/2026-02-13/iqm-ceo-urges-europe-to-close-the-gap-in-quantum-race-video",
+        "description": "Bloomberg's Tom Mackenzie speaks with IQM Quantum Computing CEO and co-founder Jan Goetz about the growing battle between the US and China to dominate quantum computing. With $600 million raised and partnerships including Nvidia, the Finland-based firm is pushing for Europe to secure its place in the global tech race or risk being left behind. (Source: Bloomberg)",
+        "published": "2026-02-13T12:00:26.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
         "relevanceScore": 9,
         "matchedKeywords": [
-          "waymo",
-          "robotaxi"
+          "nvidia",
+          "ceo",
+          "quantum"
         ],
-        "category": "ev_autonomous"
+        "category": "ai"
       },
-      {
-        "title": "Waymo is asking DoorDash drivers to shut the doors of its self-driving cars",
-        "link": "https://techcrunch.com/2026/02/12/waymo-is-asking-doordash-drivers-to-shut-the-doors-of-its-self-driving-cars/",
-        "description": "If a passenger accidentally leaves a Waymo door open, the vehicle can get stuck in place.",
-        "published": "2026-02-13T04:41:41.000Z",
-        "source": "TechCrunch",
-        "sourceKey": "techcrunch",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 6,
-        "matchedKeywords": [
-          "waymo",
-          "self-driving"
-        ],
-        "category": "ev_autonomous"
-      },
-      {
-        "title": "Samsung says it's first to ship HBM4, a day after Micron revealed its own sales",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/13/samsung_and_micron_start_shipping/",
-        "description": "",
-        "published": "2026-02-13T03:45:37.000Z",
-        "source": "The Register",
-        "sourceKey": "theregister",
-        "priority": 2,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "samsung"
-        ],
-        "category": "ev_autonomous"
-      }
-    ],
-    "ai": [
       {
         "title": "China Is Snapping Up Overseas Assets Again From Puma to Metals",
         "link": "https://www.bloomberg.com/news/articles/2026-02-13/china-is-snapping-up-overseas-assets-again-from-puma-to-metals",
@@ -233,6 +252,56 @@
         "category": "ai"
       },
       {
+        "title": "Apple's stock has worst day since April as iPhone maker faces FTC scrutiny, reports of Siri delay",
+        "link": "https://www.cnbc.com/2026/02/12/apple-stock-worst-day-ftc-siri.html",
+        "description": "The iPhone maker faces reported delays in its AI assistant and pressure from FTC chair Andrew Ferguson to look into possible political bias.",
+        "published": "2026-02-12T23:52:25.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "apple",
+          "ftc"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Nvidia Shares Go Cold Even as Big Tech Spending on AI Balloons",
+        "link": "https://www.bloomberg.com/news/articles/2026-02-13/nvidia-shares-go-cold-even-as-big-tech-spending-on-ai-balloons",
+        "description": "Big Tech keeps raising its spending plans for artificial intelligence infrastructure, yet shares of Nvidia Corp., one of the biggest beneficiaries of that flood of cash, have been largely stagnant for months.",
+        "published": "2026-02-13T11:32:33.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "nvidia",
+          "intel",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Quantum Computing and AI Boom: Inside the High-Stakes Tech Race | Bloomberg Tech: Europe 2/13/2026",
+        "link": "https://www.bloomberg.com/news/videos/2026-02-13/quantum-computing-race-bloomberg-tech-europe-video",
+        "description": "In this episode of \"Bloomberg Tech: Europe,\" Tom Mackenzie explores the race to unlock quantum computing — a technology promising exponential leaps in processing power. As venture capital floods into the sector, investors are betting it could transform drug discovery, machine learning, cybersecurity, finance and defense. But with practical applications still years away, can quantum live up to the hype? Tom speaks to leading CEOs and founders about the road to commercialization and asks if Europe can compete with the US and China in this tech battle.\n\n\"Bloomberg Tech: Europe\" spotlights the biggest names and trends shaping the region's technology ecosystem as the global competition heats up. This monthly, 30-minute magazine-style show features in-depth interviews with top technology leaders, as well as major investors and policymakers - giving you a compelling A to Z of the most consequential innovations, opportunities and challenges.  (Source: Bloomberg)",
+        "published": "2026-02-13T09:51:31.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "ceo",
+          "quantum",
+          "machine learning"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "Capgemini Says AI Pivot, Sovereignty Push Will Drive Growth",
         "link": "https://www.bloomberg.com/news/articles/2026-02-13/capgemini-says-ai-pivot-sovereignty-push-will-drive-growth",
         "description": "Capgemini Chief Executive Officer Aiman Ezzat said the French IT company is “clearly pivoting” to facilitate artificial intelligence adoption, which will fuel sales this year.",
@@ -246,6 +315,68 @@
           "intel",
           "gemini",
           "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "OK, so Anthropic's AI built a C compiler. That don't impress me much",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/13/anthropic_c_compiler/",
+        "description": "",
+        "published": "2026-02-13T11:00:13.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "anthropic"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Nvidia’s Upstart Rivals See Cracks in AI Chip Market Leader’s Dominance",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-02-13/ai-chip-startups-hope-to-compete-with-nvidia",
+        "description": "Recent moves hint at competition in a new slice of the market",
+        "published": "2026-02-13T12:02:01.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "nvidia",
+          "chip"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple Confirms Revamped Siri is Still Coming in 2026",
+        "link": "https://www.macrumors.com/2026/02/12/siri-ios-26-launch-confirmed-apple/",
+        "description": "Apple is still planning to launch the smarter, more capable version of Siri in 2026, the company told CNBC today. Apple's statement comes just a day after Bloomberg reported Apple is having issues with the updated version of ‌Siri‌, leading to potential delays of the feature.\r\n\r\n\r\nApple initially intended to launch the Apple Intelligence-powered version of ‌Siri‌ in spring 2025, but right around when a debut was expected in March 2025, Apple said that Siri wasn't ready and needed more time. Later in the year, Apple said that it would launch its Siri update in 2026.\r\n\r\nBloomberg said the company was aiming to include Siri in iOS 26.4, an update planned for spring 2026. Bloomberg's latest report suggests the ‌Siri‌ functionality will not be ready in time to be included in iOS 26.4, so the new features could be pushed to iOS 26.5 or iOS 27.\r\n\r\nApple may miss its internal target for the 2026 ‌Siri‌ launch, but since the company never publicly gave timing beyond 2026, there's no actual delay yet. Apple has until December 2026 to launch ‌Siri‌ within the timeframe that it promised in summer of 2025.\r\n\r\nBack in June 2024, Apple previewed three new ‌Siri‌ features, including onscreen awareness, personal context, and the ability to do more in and between apps. Apple has since started working on additional ‌Siri‌ features like image generation and a tool for searching the web.\r\n\r\niOS 26 updates planned for 2026, and iOS 27 will launch in September 2026.\r\n\r\nCNBC with a statement because the company's stock dropped five percent today, both due to the ‌Siri‌ delay rumors and FTC scrutiny over Apple News.\r\n\r\nRelated Roundups: iOS 26, iPadOS 26\nTag: Siri\nRelated Forum: iOS 26\nThis article, \"Apple Confirms Revamped Siri is Still Coming in 2026\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-02-12T23:35:11.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2025/08/Finder-Siri-Feature.jpg",
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "apple",
+          "intel"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "China's Baidu adds OpenClaw AI into search app for 700 million users ahead of Lunar New Year",
+        "link": "https://www.cnbc.com/2026/02/13/baidu-openclaw-ai-search-app-integration-china-lunar-new-year.html",
+        "description": "Chinese search engine operator Baidu plans Friday to start letting smartphone app users to directly tell OpenClaw AI to perform tasks.",
+        "published": "2026-02-13T08:03:24.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "baidu"
         ],
         "category": "ai"
       },
@@ -296,6 +427,127 @@
         "category": "ai"
       },
       {
+        "title": " Tachyum forced to shutter R&D office due to unpaid rent, wages, and taxes — firm still claims forthcoming Prodigy chip will have a 21x performance leap on Nvidia Rubin Ultra ",
+        "link": "https://www.tomshardware.com/tech-industry/semiconductors/tachyum-forced-to-shutter-r-and-d-office-due-to-unpaid-rent-wages-and-taxes-firm-still-claims-forthcoming-prodigy-chip-will-have-a-21x-performance-leap-on-nvidia-rubin-ultra",
+        "description": "Tachyum forced to vacate R&D office due to unpaid rent, wages, and taxes",
+        "published": "2026-02-13T10:33:52.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/UEJthTbqFTfLBjfMo8CRwb-1280-80.jpg",
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "nvidia",
+          "chip"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Amid disappointing earnings, Pinterest claims it sees more searches than ChatGPT",
+        "link": "https://techcrunch.com/2026/02/12/amid-disappointing-earnings-pinterest-claims-it-sees-more-searches-than-chatgpt/",
+        "description": "Pinterest's stock tumbles after an earnings miss, with higher-than-expected usage its only bright spot.",
+        "published": "2026-02-12T23:26:56.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "chatgpt"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "The next Metal Gear Solid remaster collection arrives this summer",
+        "link": "https://www.engadget.com/gaming/playstation/the-next-metal-gear-solid-remaster-collection-arrives-this-summer-231711005.html?src=rss",
+        "description": "Volume two of the Metal Gear Solid: Master Collection will arrive on August 27, publisher Konami announced today during Sony’s latest State of Play presentation. The bundle will feature 2008’s Metal Gear Solid 4: Guns of the Patriots, the HD remaster of 2010’s Metal Gear Solid: Peace Walker and a selection of bonus content, including Metal Gear: Ghost Babel, which was originally released for Game Boy Color in 2000. All told, that’s a smaller selection of games than Konami made available with Vol. 1 of the Master Collection, but Metal Gear fans will be excited nonetheless, if only for the fact it will mark the first time MGS4 will be officially playable on a platform other than the PlayStation 3. \n\n\n\nThat it has taken Konami nearly two decades to release the conclusion of Solid Snake’s story on more systems has to do with the nature of the game as a PS3 exclusive. MGS4 took extensive advantage of the console’s unique Cell architecture, a fact that made it difficult (and expensive) proposition to port to more recent x86-based systems. In recent years, it’s been possible to emulate the game on a powerful PC, but not everyone has that kind of hardware.    \nMetal Gear Solid: Master Collection Vol.2  will be available on PS5, Xbox Series X/S, PC, Nintendo Switch and Nintendo Switch 2.\nUpdate, February 12, 6:30PM ET: This story was updated after publish to add details about Metal Gear Solid: Master Collection Vol.2’s launch platforms.\nThis article originally appeared on Engadget at https://www.engadget.com/gaming/playstation/the-next-metal-gear-solid-remaster-collection-arrives-this-summer-231711005.html?src=rss",
+        "published": "2026-02-12T23:17:11.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "meta"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Can Quantum Computing Power the AI Boom?",
+        "link": "https://www.bloomberg.com/news/videos/2026-02-13/can-quantum-computing-power-the-ai-boom-video",
+        "description": "Quantum computing is being hailed at the next frontier in high-performance processing. But can the technology live up to the hype? Bloomberg's Tom Mackenzie breaks down the global race for quantum supremacy, and what comes next. (Source: Bloomberg)",
+        "published": "2026-02-13T12:01:05.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "quantum"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple study looks into how people expect to interact with AI agents",
+        "link": "https://9to5mac.com/2026/02/12/apple-study-looks-into-how-people-expect-to-interact-with-ai-agents/",
+        "description": "A team of Apple researchers set out to understand what real users expect from AI agents, and how they’d rather interact with them. Here’s what they found.\nmore…",
+        "published": "2026-02-12T23:15:29.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/machine-learning-research.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple says it is still on track to launch new Siri this year, as promised",
+        "link": "https://9to5mac.com/2026/02/12/apple-iphone-siri-promise-this-year/",
+        "description": "Bloomberg’s Mark Gurman yesterday reported that Apple’s new Siri initiative was facing internal delays, having originally been planned to start rolling out with iOS 26.4. Gurman suggested features may start appearing in iOS 26.5, or later releases in the year.\nThat report has seemingly rocked investor confidence, with Apple stock plummeting today. Seemingly in response, CNBC’s Steve Kovach says Apple confirmed to him that it remains on track to launch new Siri this year, which is essentially reaffirming what it has promised publicly all along.\nmore…",
+        "published": "2026-02-12T23:08:01.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/02/siri-iphone.jpeg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Marvel Tōkon: Fighting Souls lands on PS5 and PC August 6 with X-Men in tow",
+        "link": "https://www.engadget.com/gaming/marvel-tokon-fighting-souls-lands-on-ps5-and-pc-august-6-with-x-men-in-tow-095235773.html?src=rss",
+        "description": "Marvel Tōkon: Fighting Souls was first announced last year as a tag fighting game feature superheroes including Captain America, Ms Marvel and Spider-Man, with a launch sometime in 2026. We expected more details to be revealed at Sony's State of Play yesterday and indeed they were. The game will arrive August 6 on PS5 and PC and include the Unbreakable X-Men's Storm, Magik, Wolverine, and Danger. \nThe trailer teases each character's fighting style, with Magik and Wolverine using a more in-your-face melee fighting style. Storm and Danger, meanwhile, offer more diverse attack abilities, with Storm manipulating wind and lightning and Magik deploying sorcery skills. We also saw a team-based finisher attack with all four characters joining forces to unleash a flurry of attacks. The trailer also revealed that Marvel Tōkon: Fighting Souls will offer an Episode Mode with a \"new form of storytelling adapted for a modern video game format\" that marries Manga with American comics. \n\nMARVEL Tōkon: Fighting Souls launches on August 6, 2026 for PS5 and PC. Pre-orders open February 19, 2026 at the PlayStation Store and PC storefronts. It will be sold in three versions: the $60 Standard Edition, $85 Digital Deluxe Edition (includes the full game, all pre-order incentives, a Year 1 Characters and Stage Pass) and Howard the Duck and Cosmo. Finally, the $100 Ultimate Edition includes all the preceding, plus costumes for Storm, Captain America, Doctor Doom, Iron Man, and Spider-Man, along with an Animated Chromatic color unlock for all 20 launch characters. \nThis article originally appeared on Engadget at https://www.engadget.com/gaming/marvel-tokon-fighting-souls-lands-on-ps5-and-pc-august-6-with-x-men-in-tow-095235773.html?src=rss",
+        "published": "2026-02-13T09:52:35.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "agi"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "China AI App Zhipu Plans Shanghai Float After Soaring 320% in HK",
+        "link": "https://www.bloomberg.com/news/articles/2026-02-13/china-ai-app-zhipu-plans-shanghai-float-after-soaring-320-in-hk",
+        "description": "Chinese artificial-intelligence model developer Zhipu is planning a second listing in Shanghai following its recent $558 million initial public offering in Hong Kong, a sign of confidence that the country’s generative-AI rally still has legs.",
+        "published": "2026-02-13T08:51:46.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "intel"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "AI to make call center agents 'superheroes,' not unemployed, says industry CEO",
         "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/13/call_center_ai_superheroes/",
         "description": "",
@@ -311,9 +563,168 @@
         "category": "ai"
       }
     ],
+    "chips_cloud": [
+      {
+        "title": "AWS CEO Garman says software AI fears are 'overblown'",
+        "link": "https://www.cnbc.com/2026/02/12/aws-ceo-garman-software-ai-fears.html",
+        "description": "Amazon's cloud business is seeing faster growth than expected, and its margin is widening.",
+        "published": "2026-02-12T23:14:19.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "amazon",
+          "arm",
+          "ceo"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Broker Clear Street Postpones IPO Citing Market Conditions",
+        "link": "https://www.bloomberg.com/news/articles/2026-02-12/broker-clear-street-postpones-us-ipo-citing-market-conditions",
+        "description": "Clear Street Group Inc., a Wall Street broker built on cloud computing technology, has postponed its US initial public offering after cutting the target by nearly two-thirds.",
+        "published": "2026-02-12T23:19:48.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "ipo"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Cisco stock has worst day since 2022 as memory prices pressure margins",
+        "link": "https://www.cnbc.com/2026/02/12/cisco-stock-has-worst-day-since-2022-as-memory-prices-pressure-margins.html",
+        "description": "Cisco shares plunged 12% Thursday after the company issued lukewarm guidance as memory prices weigh on profit margins",
+        "published": "2026-02-12T23:34:14.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "arm"
+        ],
+        "category": "chips_cloud"
+      }
+    ],
+    "ev_autonomous": [
+      {
+        "title": "Waymo is paying DoorDash gig workers to close its robotaxi doors",
+        "link": "https://www.cnbc.com/2026/02/12/waymo-is-paying-doordash-gig-workers-to-close-its-robotaxi-doors.html",
+        "description": "Waymo is relying on humans for certain tasks, showing some of the limitations of its autonomous operations.",
+        "published": "2026-02-13T02:10:42.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "waymo",
+          "robotaxi"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Fusion startup Helion hits blistering temps as it races toward 2028 deadline",
+        "link": "https://techcrunch.com/2026/02/13/fusion-startup-helion-hits-blistering-temps-as-it-races-toward-2028-deadline/",
+        "description": "Helion's Polaris device hit 150 million degrees C recently, a milestone that nudges the company toward its commercial power plant that will sell electricity to Microsoft.",
+        "published": "2026-02-13T10:00:00.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "microsoft",
+          "fusion"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Waymo is asking DoorDash drivers to shut the doors of its self-driving cars",
+        "link": "https://techcrunch.com/2026/02/12/waymo-is-asking-doordash-drivers-to-shut-the-doors-of-its-self-driving-cars/",
+        "description": "If a passenger accidentally leaves a Waymo door open, the vehicle can get stuck in place.",
+        "published": "2026-02-13T04:41:41.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "waymo",
+          "self-driving"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Rivian was saved by software in 2025",
+        "link": "https://techcrunch.com/2026/02/12/rivian-was-saved-by-software-in-2025/",
+        "description": "The company's annual revenue was boosted by its technology joint venture with Volkswagen Group.",
+        "published": "2026-02-12T23:17:32.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "rivian"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Rivian stock rises 15% as automaker tops Q4 expectations, targets significant production increase",
+        "link": "https://www.cnbc.com/2026/02/12/rivian-automotive-rivn-earnings-q4-2025.html",
+        "description": "Rivian's 2026 guidance includes increasing vehicle deliveries to between 62,000 and 67,000 units, which would be up by 47% to 59% compared to 2025.",
+        "published": "2026-02-12T23:01:37.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "rivian"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "AppleCare+ Coverage Launches in Indonesia",
+        "link": "https://www.macrumors.com/2026/02/13/applecare-coverage-launches-indonesia/",
+        "description": "Apple today announced the launch of AppleCare+ coverage in Indonesia, bringing the option of additional hardware protection and technical support to customers across the country.\r\n\r\n\r\nMost Apple products come with a one-year limited warranty that covers hardware failures and manufacturing defects, and up to 90 days of complimentary technical support. AppleCare+ extends coverage for devices like iPhone, iPad, Mac, Apple Watch, Pro Display XDR, and Apple TV, including accidental damage protection for incidents like drops and spills, battery replacement when capacity drops below 80 percent, and 24/7 priority access to support.\r\n\r\n\"AppleCare brings peace of mind and mind to our customers, with comprehensive protection for their products and support from Apple experts,\" said Kaiann Drance, Apple's vice president for Worldwide iPhone Product Marketing. \"Today's launch is part of our ongoing commitment to expand access to AppleCare coverage and deliver the best experience for our customers around the world.\"\nAppleCare+ in Indonesia extends Apple's paid support and repair coverage through its network of Apple Authorized Service Providers. Customers can use mail-in or in-store repairs for supported Apple products, and Mac users may be eligible for onsite service. Global repair coverage also allows customers traveling abroad to obtain service through Apple's international network, subject to local parts and service availability. \r\n\r\negional AppleCare+ webpage.\nTags: AppleCare, Indonesia\nThis article, \"AppleCare+ Coverage Launches in Indonesia\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-02-13T10:15:41.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2021/12/applecare-apple-care-banner.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Samsung says it's first to ship HBM4, a day after Micron revealed its own sales",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/13/samsung_and_micron_start_shipping/",
+        "description": "",
+        "published": "2026-02-13T03:45:37.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "samsung"
+        ],
+        "category": "ev_autonomous"
+      }
+    ],
     "business": [
       {
-        "title": "GDS-Backed DayOne Said to Pick Banks for $5 Billion US IPO",
+        "title": "Asian Firm DayOne Said to Pick Banks for $5 Billion US IPO",
         "link": "https://www.bloomberg.com/news/articles/2026-02-13/gds-backed-dayone-is-said-to-pick-banks-for-5-billion-us-ipo",
         "description": "DayOne Data Centers Ltd. has selected banks to help arrange a US initial public offering that may raise about $5 billion, according to people familiar with the matter.",
         "published": "2026-02-13T03:02:50.000Z",
@@ -326,6 +737,51 @@
           "ipo",
           "data center",
           "billion"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Instacart stock pops 14% on revenue beat, optimistic guidance",
+        "link": "https://www.cnbc.com/2026/02/12/instacart-cart-q4-2025-earnings.html",
+        "description": "CEO Chris Rogers said Instacart's technology and customer-oriented approach are driving more growth and engagement to the platform.",
+        "published": "2026-02-12T23:32:31.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "ceo"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Pinterest shares tank as CEO blames tariffs for revenue miss, weak outlook",
+        "link": "https://www.cnbc.com/2026/02/12/pinterest-pins-q4-earnings-report-2025.html",
+        "description": "\"Looking ahead to Q1, we expect these headwinds will continue and may become slightly more pronounced,\" CFO Julia Donnelly told analysts on Thursday.",
+        "published": "2026-02-13T10:15:17.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "ceo"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "NatWest CEO on Earnings, AI in Finance, UK Economy",
+        "link": "https://www.bloomberg.com/news/videos/2026-02-13/natwest-ceo-on-earnings-ai-in-finance-uk-economy-video",
+        "description": "Paul Thwaite, chief executive officer of NatWest Group Plc, discusses the lender’s fourth-quarter earnings which beat estimates with a 30% jump in pretax income. Speaking on Bloomberg Television, he also comments on the UK economic outlook and the use of AI in the financial industry. (Source: Bloomberg)",
+        "published": "2026-02-13T07:52:16.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "ceo"
         ],
         "category": "business"
       },
@@ -343,6 +799,22 @@
           "ceo"
         ],
         "category": "business"
+      },
+      {
+        "title": "PGI Global CEO handed 20-year sentence for $200 million bitcoin, forex Ponzi scheme",
+        "link": "https://www.coindesk.com/policy/2026/02/13/pgi-global-ceo-gets-20-years-sentence-over-usd200-million-bitcoin-ponzi-scheme",
+        "description": "Instead of investing in bitcoin and foreign currency trading, as promised, Palafox used new investor funds to pay old ones and siphoned millions for personal use.",
+        "published": "2026-02-13T10:59:32.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "ceo",
+          "bitcoin"
+        ],
+        "category": "business"
       }
     ],
     "space": [
@@ -358,6 +830,21 @@
         "relevanceScore": 5,
         "matchedKeywords": [
           "amazon"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "The Morning After: Meta turned Threads algorithm complaints into an official feature",
+        "link": "https://www.engadget.com/general/the-morning-after-meta-turned-threads-algorithm-complaints-into-an-official-feature-121500663.html?src=rss",
+        "description": "Threads users have complained about its recommendation algorithm since the dawn of time 2023. Users even started writing posts addressed to the algorithm, specifying the topics they wanted to see more of. Now, that’s part of the system: Users can write a post that begins with “dear algo” to adjust their preferences, officially.\nFor example, you could write: “Dear algo, show me more posts about sous vide recipes.” You can also ask to see fewer posts about topics you don’t want to see, like “Dear algo, stop showing me posts about air fryers.” You can even retweet other users’ “dear algo” posts to have those topics reflected in your feed. “Dear algo” posts will work for Threads users in the US, UK, Australia and New Zealand, with more countries coming “soon.”\n— Mat Smith\nThe biggest stories in tech you might have missed.\n\nThe first Control Resonant gameplay trailer shows a sideways NYC \n\nApple’s Siri relaunch is reportedly behind schedule \n\nThe next Metal Gear Solid remaster collection arrives this summer\n\n\nElon Musk’s latest scheme is a satellite catapult on the Moon\nI think that’s a Drag Race song.\nWith a bigger focus on the Moon, Elon Musk is making some wild new plans. According to audio heard by The New York Times, Musk said xAI needed to build an AI satellite factory on the Moon with a gigantic catapult to launch the satellites into space. Sometimes you just want to be the Bond villain.\n“You have to go to the Moon” to build the required AI capabilities, Musk told employees. “It’s difficult to imagine what an intelligence of that scale would think about, but it’s going to be incredibly exciting to see it happen.” Such a catapult would certainly need to be powerful — though the Moon has only one-sixth Earth’s gravity, the minimum escape velocity required for orbit is still around 3,800 mph, or five times the speed of sound. That’s currently possible with electromagnetic railguns, but the satellites would have to withstand that force.\nContinue reading.\nPokémon Pokopia is cosy AF\nStardew Valley + Animal Crossing X Pokémon.\nTMA\nNintendo\n\nIn a bid to distract from a lot of things, Nintendo’s new Pokémon game is a gently paced game where, instead of playing as a generic trainer, you take control of a sole Ditto. \nAs a Ditto, you can transform into other Pokémon, though the process is sort of incomplete, meaning you can only learn one skill from the monsters you befriend. Instead of using tools, you can transform into other Pokémon (like Lapras or Dragonite) to use their abilities to traverse obstacles or shape the world around you.\nContinue reading.\nSony WF-1000XM6 headphones review\nFacing tougher competition.\nTMA\nEngadget\n\nSony unveiled the latest entry in its best wireless earbud series, the WF-1000XM6, featuring yet another redesign, both inside and out. Once again, strong features and audio performance remain, but competition from all sides is tougher than ever. As Billy Steele explains in his review, if you want the strongest active noise cancellation, that will be Bose’s QuietComfort Ultra Earbuds. If the best sound quality is your goal, the Technics AZ100 is your best bet in this price range. I’ll also mention Sennheiser’s Momentum True Wireless 4, which offers great sound quality, respectable ANC and a comfier fit than the M6. The WF-1000XM6 is available now for $330.\nContinue reading.\nThis article originally appeared on Engadget at https://www.engadget.com/general/the-morning-after-meta-turned-threads-algorithm-complaints-into-an-official-feature-121500663.html?src=rss",
+        "published": "2026-02-13T12:15:00.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Poke%CC%81mon_Pokopia_Media_Preview_Screenshot_1_EN.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "meta"
         ],
         "category": "space"
       }
@@ -378,7 +865,24 @@
         ],
         "category": "regulation"
       }
+    ],
+    "crypto": [
+      {
+        "title": "Wall Street analysts cut Coinbase price targets following Q4 earnings miss",
+        "link": "https://www.coindesk.com/markets/2026/02/13/wall-street-analysts-cut-coinbase-price-targets-following-q4-earnings-miss",
+        "description": "JPMorgan said weak crypto markets pressured fourth-quarter results, but backs Coinbase’s strategy of investing through the cycle and returning capital via buybacks.",
+        "published": "2026-02-13T09:50:28.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "coinbase"
+        ],
+        "category": "crypto"
+      }
     ]
   },
-  "totalArticles": 14
+  "totalArticles": 46
 }

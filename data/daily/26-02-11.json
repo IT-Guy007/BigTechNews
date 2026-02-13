@@ -4,57 +4,76 @@
   "title": "Wednesday, Feb 11",
   "dateRange": "February 11, 2026",
   "date": "2026-02-11",
-  "generatedAt": "2026-02-11T07:34:31.829Z",
+  "generatedAt": "2026-02-13T12:26:16.638Z",
   "highlights": [
     {
-      "title": "With co-founders leaving and an IPO looming, Elon Musk turns talk to the moon",
-      "link": "https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/",
-      "description": "According to The New York Times, which reports that it heard the meeting, Musk told employees that xAI needs a lunar manufacturing facility, a factory on the moon that will build AI satellites and fling them into space via a giant catapult.",
-      "published": "2026-02-11T05:23:26.000Z",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 11,
+      "title": "Anthropic beefs up Claude's free tier as OpenAI prepares to stuff ads into ChatGPT's",
+      "link": "https://www.engadget.com/ai/anthropic-beefs-up-claudes-free-tier-as-openai-prepares-to-stuff-ads-into-chatgpts-194100939.html?src=rss",
+      "description": "Anthropic is upgrading Claude's free tier, apparently to capitalize on OpenAI's planned integration of ads into ChatGPT. On Wednesday, Anthropic said free Claude users can now create files, connect to external services, use skills and more.\nAnthropic added the ability for paid users to create files in September. Starting today, free users of the chatbot can also create and edit Excel spreadsheets, PowerPoint presentations, Word docs and PDFs. Claude's file creation abilities are powered by Sonnet 4.5.\nFree users can now create and edit Excel spreadsheets, PowerPoint presentations, Word docs, and PDFs.\nAnthropic\n\nMeanwhile, Connectors allow free users to link Claude to third-party services. There's a long list of available ones, including Canva, Slack, Notion, Zapier and PayPal.\nSkills, on the other hand, let you teach Claude to \"complete specific tasks in repeatable ways.\" In short, the chatbot loads folders of instructions, scripts and other resources when performing relevant tasks. Other upgrades to the free tier include longer conversations, interactive responses and improved voice and image search.\nClaude's free-tier upgrades appear to be a direct response to ChatGPT's planned introduction of ads for its free users. Anthropic's announcement today ended with the tag line, \"No ads in sight.\" This follows the company's promise last week that Claude will remain ad-free. Anthropic even poked fun at OpenAI's cash-seeking move in a Super Bowl ad (below), which also took a swipe at GPT-4o's penchant for kissing ass.\n\n\n\nThis article originally appeared on Engadget at https://www.engadget.com/ai/anthropic-beefs-up-claudes-free-tier-as-openai-prepares-to-stuff-ads-into-chatgpts-194100939.html?src=rss",
+      "published": "2026-02-11T19:41:00.000Z",
+      "source": "Engadget",
+      "sourceKey": "engadget",
+      "priority": 2,
+      "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/1_-_Free_Plan_Upgrade.png",
+      "relevanceScore": 20,
       "matchedKeywords": [
-        "xai",
-        "ipo",
-        "elon musk",
-        "satellite"
+        "openai",
+        "anthropic",
+        "chatgpt",
+        "claude"
       ],
       "category": "ai"
     },
     {
-      "title": "Okay, now exactly half of xAI’s founding team has left the company",
-      "link": "https://techcrunch.com/2026/02/10/nearly-half-of-xais-founding-team-has-now-left-the-company/",
-      "description": "Whatever the cause of the departures, the cumulative impact is alarming. There is a lot of work left to do at xAI, and an IPO will bring more scrutiny than the lab has ever faced before.",
-      "published": "2026-02-11T01:50:00.000Z",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
+      "title": "Anthropic’s Claude Cowork finally lands on Windows — and it wants to automate your workday",
+      "link": "https://venturebeat.com/technology/anthropics-claude-cowork-finally-lands-on-windows-and-it-wants-to-automate",
+      "description": "Anthropic released its Claude Cowork AI agent software for Windows on Monday, bringing the file management and task automation tool to roughly 70 percent of the desktop computing market and intensifying a remarkable corporate realignment that has seen Microsoft embrace a direct competitor to its longtime AI partner, OpenAI.\nThe Windows launch arrives with what Anthropic calls \"full feature parity\" with the macOS version: file access, multi-step task execution, plugins, and Model Context Protocol (MCP) connectors for integrating external services. Users can now also set global and folder-specific instructions that Claude follows in every session, a feature developers on Reddit described as \"a game-changer\" for maintaining context across projects.\n\"Cowork is now available on Windows,\" Anthropic announced on X. \"We're bringing full feature parity with MacOS: file access, multi-step task execution, plugins, and MCP connectors.\"\nThe release closes a critical platform gap that had limited Cowork to Apple's operating system since its January 12 debut. The Windows expansion underscores a broader transformation already underway in enterprise AI, with Microsoft simultaneously selling its own GitHub Copilot to customers while encouraging thousands of its own employees to adopt Anthropic's competing tools internally.\n\nInside Microsoft's surprising pivot toward its biggest AI rival\nThe relationship between Microsoft and Anthropic has accelerated with striking speed. In November, the two companies announced a strategic partnership allowing Microsoft Foundry customers access to Claude Sonnet 4.5, Claude Opus 4.1, and Claude Haiku 4.5. As part of that arrangement, Anthropic committed to purchasing $30 billion of Azure compute capacity.\nBut the partnership has expanded well beyond cloud hosting. According to a January 22 report in The Verge, Microsoft has begun encouraging thousands of employees from some of its most prolific teams to adopt Claude Code — and now, by extension, Cowork — even if they have no coding experience.\nMicrosoft's CoreAI team, the new AI engineering group led by former Meta engineering chief Jay Parikh, has tested Claude Code in recent months, The Verge reported. The company has also approved Claude Code across all code and repositories for its Business and Industry Copilot teams.\n\"Software engineers at Microsoft are now expected to use both Claude Code and GitHub Copilot and give feedback comparing the two,\" The Verge reported.\nThe company's spending on Anthropic approaches $500 million annually, according to The Information. Microsoft has even begun counting Anthropic AI model sales toward Azure sales quotas — an unusual incentive structure that the company typically reserves for homegrown products or models from OpenAI.\nA $13 billion partnership faces new questions as Microsoft hedges its bets\nMicrosoft's embrace of Anthropic raises uncomfortable questions about its $13 billion investment in OpenAI, which has long served as the exclusive provider of frontier AI models for Microsoft's products. The two companies signed their landmark partnership in 2019, with Microsoft providing Azure computing infrastructure in exchange for preferential access to OpenAI's technology.\nThat relationship now appears to be evolving into something more nuanced. Microsoft has started favoring Anthropic's Claude models inside Microsoft 365 apps and Copilot recently, deploying them in specific applications or features where Anthropic's models have proven more capable than OpenAI's counterparts.\nOn February 5, Microsoft announced that Claude Opus 4.6 — Anthropic's most advanced model — would become available in Microsoft Foundry, the company's enterprise AI platform. The Azure blog post framed the integration as bringing \"even more capability to agents that increasingly learn from and act on business systems.\"\n\"At Microsoft we believe that intelligence and trust are the core requirements of agentic AI at scale,\" the announcement stated. \"Built on Azure, Microsoft Foundry brings these capabilities together on a secure, scalable cloud foundation for enterprise AI.\"\nThe timing and tone suggest Microsoft views Anthropic not merely as a hedging strategy but as a genuine technical leader in certain domains. Claude Opus 4.6 offers a one-million-token context window and 128,000-token maximum output — specifications that position it for complex, long-running enterprise tasks that require processing vast amounts of information.\nWhy a $285 billion stock selloff has the software industry questioning its future\nThe deepening Microsoft-Anthropic alliance takes on added significance when viewed against a backdrop of genuine alarm rippling through the software industry. Within days of the macOS launch in January, investors began repricing SaaS companies whose products overlap with Cowork's capabilities — project management tools, writing assistants, data analysis platforms, and workflow automation software all saw sharp declines.\nBloomberg reported that Cowork triggered a $285 billion software stocks selloff. The carnage reflected growing investor conviction that AI agents capable of automating knowledge work could render entire categories of enterprise software obsolete.\nThe fear is not abstract. Cowork operates as a desktop agent powered by Claude Opus 4.6 that can read local files, execute multi-step tasks, and interact with external services through plugins — all running directly on a user's machine. Unlike chatbot interfaces that respond to individual prompts, Cowork plans and executes complete workflows across files, applications, and connected services.\nAnthropic has leaned into this positioning. On January 30, the company's Anthropic Labs division released 11 open-source agentic plugins spanning sales, legal, finance, marketing, data analysis, and software development. These plugins connect Cowork to external tools, enabling the agent to pull data from CRMs, draft legal documents, analyze spreadsheets, or manage project boards without users switching applications.\nThe hidden risks of giving an AI agent access to your files\nSuch convenience comes with tradeoffs, and Anthropic has been transparent about the risks inherent in agent software that can read, write, and delete files. The company's support documentation warns users to \"be cautious about granting access to sensitive information like financial documents, credentials, or personal records\" and suggests saving backups and creating dedicated folders with nonsensitive information.\nCowork remains susceptible to prompt injection attacks — hidden instructions embedded in documents or websites that can hijack AI agents and redirect their actions. The browser automation feature includes an explicit disclaimer warning that hidden code in websites may \"steal your data, inject malware into your systems, or take over your system.\"\n\"We use a virtual machine under the hood,\" Boris Cherny, Anthropic's head of Claude Code, told Wired. \"This means you have to say which folders Claude has access to. And if you don't give it access to a folder, Claude literally cannot see that folder.\"\nThe Windows version includes additional safety constraints. According to user reports on Reddit, Cowork on Windows restricts file access to the user's personal folder, preventing the agent from accessing common development directories like C:\\git. While some users expressed frustration at this limitation, others noted it as a prudent safeguard for less technical users.\n\"To be fair, seeing how many people nuked themselves with Claude Code, it is much safer to limit people to reduce the collateral damage,\" wrote one Reddit user.\nMajor corporations are already betting on Claude's enterprise potential\nDespite the security caveats, early enterprise adoption suggests meaningful interest. Customer testimonials published alongside the Claude Opus 4.6 announcement on the Microsoft Azure blog included statements from Adobe, Dentons, and other major organizations already integrating Anthropic's technology into their workflows.\n\"At Adobe, we're continuously evaluating new AI capabilities that can help us deliver more powerful, responsible, and intuitive experiences for our customers,\" said Michael Marth, VP Engineering for Experience Manager and LLM Optimizer. \"Foundry gives us a flexible, enterprise-ready environment to explore frontier models while maintaining the trust, governance, and scale that are critical for Adobe.\"\nMatej Jambrich, CTO of Dentons Europe, described deploying Claude for legal work: \"Better model reasoning reduces rework and improves consistency, so our lawyers can focus on higher value judgment.\"\nOn Reddit, an Anthropic representative wrote that the Windows release addresses \"the most consistent request\" since Cowork's macOS debut — a demand that came \"especially from enterprise teams.\" The detail underscores the tool's perceived value in corporate environments where Windows dominates the desktop landscape.\nAt $20 a month, Cowork positions itself as a premium productivity play\nAccess to these capabilities comes at a price. Cowork for Windows is available in research preview at claude.com/cowork for all paid Claude subscription tiers, including Pro ($20/month), Max ($100/month), Team, and Enterprise. Free-tier users cannot access the feature.\nThis pricing structure positions Cowork as a premium productivity tool rather than a mass-market offering — at least for now. Anthropic has not announced plans for broader availability, and the \"research preview\" designation suggests the company continues to gather user feedback before committing to a general release.\nThe January macOS launch was similarly restricted to $100/month Max subscribers before expanding to other paid tiers, suggesting Anthropic may follow a gradual rollout strategy as it refines the product. For enterprise customers evaluating the tool, the pricing represents a fraction of what many pay for traditional software licenses—a calculus that could accelerate adoption if Cowork delivers on its automation promises.\nThe battle for the future of work has a new front line\nFor Microsoft, the deepening Anthropic partnership reflects a pragmatic recognition that AI leadership may require embracing multiple frontier providers rather than relying exclusively on a single partner.\nThe company's willingness to deploy Claude tools internally while selling GitHub Copilot externally suggests confidence that the enterprise market can accommodate competing approaches — or perhaps an acknowledgment that betting everything on OpenAI carries its own risks.\nFor the broader software industry, Cowork's expansion to Windows extends the competitive threat to an even larger installed base. Companies whose value propositions rest on task automation, file management, or workflow orchestration now face a well-funded competitor capable of replicating their core functionality through natural language commands.\nThe $285 billion in market capitalization that evaporated after Cowork's January launch may prove to be just an opening salvo. With Windows support now live, Anthropic has removed the last major platform barrier between its AI agent and the enterprise customers most likely to adopt it.\nThe software industry spent decades building tools to help knowledge workers manage files, automate tasks, and organize information. Now it faces a future where a single application, powered by an AI that learns and improves with every interaction, threatens to do all of that and more. The question is no longer whether AI agents will reshape enterprise software, but how much of the old world will survive the transformation.",
+      "published": "2026-02-11T20:25:00.000Z",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
       "priority": 1,
-      "image": null,
-      "relevanceScore": 11,
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3zZt7h2lLYSWgfFacvlwfj/10356ce36ca2ca349cbb0011f4469485/nuneybits_Vector_art_of_retro_Windows_CRT_computer_Anthropic_or_3d5dbd7c-7959-45de-83c5-134898f3e9e2.webp?w=300&q=30",
+      "relevanceScore": 20,
       "matchedKeywords": [
-        "arm",
-        "xai",
-        "ipo"
+        "microsoft",
+        "openai",
+        "anthropic",
+        "claude",
+        "alignment"
       ],
       "category": "ai"
     },
     {
-      "title": "Musk's xAI loses second co-founder in two days",
-      "link": "https://www.cnbc.com/2026/02/10/musks-xai-loses-second-co-founder-in-two-days-as-jimmy-ba-departs.html",
-      "description": "After SpaceX merger, xAI is shedding co-founders with influential researcher Jimmy Ba the latest to depart.",
-      "published": "2026-02-11T01:52:08.000Z",
-      "source": "CNBC",
-      "sourceKey": "cnbc_tech",
-      "priority": 1,
+      "title": "AI Industry Rivals Are Teaming Up on a Startup Accelerator",
+      "link": "https://www.wired.com/story/ai-industry-rivals-are-teaming-up-on-a-startup-accelerator/",
+      "description": "OpenAI, Anthropic, Google, and a host of other major tech companies have found common ground in F/ai, a new startup accelerator based out of Paris.",
+      "published": "2026-02-11T10:55:24.000Z",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "priority": 2,
       "image": null,
+      "relevanceScore": 12,
+      "matchedKeywords": [
+        "google",
+        "openai",
+        "anthropic"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "9to5Mac Daily: February 11, 2026 – Apple’s recent acquisitions",
+      "link": "https://9to5mac.com/2026/02/11/daily-february-11-2026/",
+      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Stuff: Stuff helps you get everything out of your head and into a simple, elegant system—closing open loops and reducing mental stress. Use code 9TO5 at checkout for 50% off your first year.\n\n\n\n\n more…",
+      "published": "2026-02-11T15:20:21.000Z",
+      "source": "9to5Mac",
+      "sourceKey": "9to5mac",
+      "priority": 2,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
       "relevanceScore": 10,
       "matchedKeywords": [
-        "spacex",
-        "xai",
-        "merger"
+        "google",
+        "apple",
+        "acquisition"
       ],
       "category": "ai"
     },
@@ -76,311 +95,378 @@
       "category": "business"
     },
     {
-      "title": "OpenAI policy exec who opposed chatbot’s “adult mode” reportedly fired on discrimination claim",
-      "link": "https://techcrunch.com/2026/02/10/openai-policy-exec-who-opposed-chatbots-adult-mode-reportedly-fired-on-discrimination-claim/",
-      "description": "The executive has denied the allegation that she engaged in discrimination.",
-      "published": "2026-02-11T02:15:27.000Z",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 8,
+      "title": "Hyundai is reportedly looking to supply Waymo with 50,000 IONIQ 5 for robotaxis",
+      "link": "https://electrek.co/2026/02/11/hyundai-supply-waymo-50000-ioniq-5-robotaxis/",
+      "description": "Hyundai Motor is reportedly looking to supply Waymo with 50,000 IONIQ 5 autonomous vehicles by 2028 in what would amount to a roughly $2.5 billion deal, and if it goes through, it would be a massive signal that the robotaxi industry is entering a new phase of real, industrial-scale deployment.\nmore…",
+      "published": "2026-02-11T14:36:42.000Z",
+      "source": "Electrek",
+      "sourceKey": "electrek",
+      "priority": 2,
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2024/10/Hyundais-IONIQ-5-Waymo.jpeg?quality=82&#038;strip=all&#038;w=1400",
+      "relevanceScore": 10,
       "matchedKeywords": [
-        "openai"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": "Salesforce employees call on CEO Benioff to cancel ICE 'opportunities'",
-      "link": "https://www.cnbc.com/2026/02/10/salesforce-employees-call-on-ceo-benioff-to-cancel-ice-opportunities.html",
-      "description": "More than 1,400 Salesforce employees have signed a letter calling on CEO Marc Benioff to cancel all potential business with the U.S. ICE agency.",
-      "published": "2026-02-11T03:46:34.000Z",
-      "source": "CNBC",
-      "sourceKey": "cnbc_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 8,
-      "matchedKeywords": [
-        "salesforce",
-        "ceo"
+        "waymo",
+        "robotaxi",
+        "autonomous vehicle",
+        "billion"
       ],
       "category": "ev_autonomous"
     },
     {
-      "title": "Samsung Galaxy Unpacked 2026: Everything we're expecting from the S26 launch on February 25",
-      "link": "https://www.engadget.com/mobile/smartphones/samsung-galaxy-unpacked-2026-everything-were-expecting-from-the-s26-launch-on-february-25-130000524.html?src=rss",
-      "description": "Samsung’s 2025 was filled with new foldables, an ultra-thin new form factor and the launch of Google's XR platform. After making some announcements at CES 2026, the company has just announced its first Galaxy Unpacked of the year will take place on February 25, where it is expected to introduce the Galaxy S26 lineup. Official invites have just been shared, but actual information on what devices are arriving then is still unknown. But as usual, we know a lot about what’s expected at Unpacked.\nEngadget will be covering Galaxy Unpacked live, and we'll most likely have hands-on coverage of Samsung's new smartphones soon after they're announced. While we wait for the full details, here's everything we expect Samsung will introduce at the first Galaxy Unpacked event of 2026.\n\n\n\nWhen is Unpacked 2026 taking place?\nAccording to the official invite that Samsung shared on February 10, Unpacked will happen on February 25, 2026 in San Francisco. The keynote will start at 10AM PT (1PM ET) and be livestreamed on Samsung.com, as well as the company’s newsroom and YouTube channel. The announcement on February 10 also said this launch will mark “a new phase in the era of AI as intelligence becomes truly personal and adaptive.” It’s not a lot to go on, since we’ve heard a version of this from various companies over the last few years, but at least we won’t be shocked when we hear more about AI in just about two weeks.\nGalaxy S26, S26+ and S26 Ultra\nSamsung Galaxy S25 Ultra hands-on photo\nPhoto by Sam Rutherford/Engadget\n\nSamsung's restrained approach to updating its phones will likely continue with the Galaxy S26. Based on leaked images of the new lineup, the company is not expected to radically reinvent the look of the Galaxy S26, Galaxy S26+ or Galaxy S26 Ultra, and instead will stick with a similar design to what it used on the Galaxy S25. The phones will have a flat front screen and frame, with rounded corners and cameras housed in a vertical pill-shaped plateau on the back. Unlike Apple's move from the iPhone 16 Pro to the iPhone 17 Pro, the biggest difference here will likely be internal components like the screens, chips and camera sensors Samsung uses.\nQualcomm's new Snapdragon 8 Elite Gen 5 chip is expected to be in all Samsung Galaxy S26 phones, though Korean news site Yonhap News reports Samsung's relatively new Exynos 2600 chip could be used in some phones in the lineup depending on the region, a strategy Samsung has deployed in the past. Either way the new phones should be more performant than the previous generation, and in the case of the models with the Snapdragon 8 Elite Gen 5, particularly good at on-device AI processing.\n\nI have compiled the most accurate comprehensive parameter comparison of Galaxy S25, S25+ and Galaxy S26、 S26+. Which one do you want to buy? pic.twitter.com/aQpoSvYjOz\n— Ice Universe (@UniverseIce) November 29, 2025\n\nOne notable difference between the Galaxy S26 and the Galaxy S25 could be the phone's screen. The new phone will reportedly feature a 6.3-inch FHD+ display according to specs shared by leaker Ice Universe, which makes it ever so slightly larger than the 6.2-inch display used on the Galaxy S25. The S26 will also allegedly come with 12GB of RAM, either 256GB or 512GB of storage and a slightly larger 4,300mAh battery. Samsung isn't changing the cameras on the entry-level phone, though: leaks suggest it'll feature the same 50-megapixel main camera, 12-megapixel ultrawide, 10-megapixel 3x telephoto and 12-megapixel selfie camera as the previous generation. Changes appear to be even more minor on the Galaxy S26+. Other than the new Snapdragon chip, the phone will reportedly feature the same 6.7-inch FHD+ screen, 4,900mAh battery, 12GB of RAM and the same camera array used on the base Galaxy S26.\nThe difference between the Galaxy S26 Ultra and Galaxy S25 Ultra is reportedly a bit clearer. According to Android Headlines, the new phone's cameras will be slightly more raised, and stand out thanks to a new metallic finish. Samsung may also switch back to using an aluminum frame on the Galaxy S26 Ultra, after using titanium frames on both the Galaxy S24 and S25 Ultras. Most importantly, to make the phone actually support Qi2 rather than only technically work with the standard when a case is attached, rumors suggest Samsung will remove the S Pen digitizer layer in the phone and adopt a new method for accepting stylus input. It's not clear what that new method will actually be, but it could let the Galaxy S26 Ultra more easily work with Qi2 accessories without losing its stylus.\nAndroid Headlines also recently shared what appear to be full image renders of the S26 series, and they generally line up with what has already been rumored, leaked and reported so far. If these pictures are accurate, they give us a clearer look at the camera bump and two color variants of the S26 Ultra.\nFans of magnets may continue to be disappointed by Samsung if the latest rumors are accurate. Despite the launch of the Qi 2 wireless charging standard adding support for convenient magnetic alignment years ago, Samsung has yet to bring that feature to its phones. Though the S-series have the higher speed charging rates that the spec enables,  Nieuwemobiel.nl is reporting that, due to images it received of cases with magnetic rings, the S26 series likely won’t have built-in magnets. Samsung has made these cases to add the magnetic capability to its S-series in the past, and the existence of the images of these accessories lends weight to the idea that the company will continue this approach.\nGalaxy Buds 4\nGalaxy Buds 3 Pro in case.\nEngadget\n\nSamsung released the Galaxy Buds 3 and 3 Pro in 2024, with a major redesign that brought them much more in line with Apple's AirPods. The Galaxy Buds 4 and Buds 4 Pro Samsung is rumored to be announcing soon won't necessarily change that, though they will feature a more compact case and less angular stems, according to leaked images from the Samsung Tips app.\nSupport for head gestures to accept and decline calls, a feature Apple includes on the AirPods Pro 3 and AirPods 4, is also rumored to work on both versions of the new Galaxy Buds. SamMobile reports the Galaxy Buds 4 and 4 Pro may also ship with a new Ultra Wideband chip that will make them easier to find with Google's Find Hub network.\nGalaxy Z Trifold\nYes, the TriFold has a crease, two in fact. But they still don't ruin the experience. \nSam Rutherford for Engadget\n\nSamsung announced the Galaxy Z TriFold in late 2025 without firm details of when the new smartphone-that-folds-into-a-tablet would be available in North America. That info came on January 27, when the company announced the TriFold would be available in the US on January 30, for a whopping $2,900. Considering we’ve already seen the device in person at CES 2026 and people are most likely to have had a chance to look at, if not buy the foldable for themselves by the time Unpacked rolls around, we don’t expect Samsung to spend too much time dwelling on it, if at all.\nGalaxy S26 Edge\nAt just 5.8mm thick, the Samsung Galaxy S25 Edge is one of the thinnest smartphones ever made. \nSam Rutherford for Engadget\n\nWhen the Galaxy S25 Edge was announced in 2025, it seemed possible that Samsung could replace its \"Plus\" smartphone with a unique form factor, just like Apple has opted to do with the iPhone Air. There have been conflicting reports on the matter, but it seems like Samsung will not be doing that with the Galaxy S26 Edge.\nInstead, the smartphone will reportedly remain another option, much like foldables are for customers not swayed by Samsung's traditional smartphones. The Galaxy S26 Edge is rumored to feature a slightly different design than last year's model, according to Android Headlines, with a large rectangular camera plateau that's reminiscent of Google's Pixel phones, and the raised oval Apple used on the iPhone Air. Beyond that, the phone is also expected to be ever so slightly thinner at 5.5mm than the 5.8mm Galaxy S25 Edge.\nBixby and other AI features\n\n\nSamsung already acts as a first place Google can show off new AI features for Android, but the company is reportedly exploring other AI partnerships, too. In June 2025, Bloomberg reported that Samsung was nearing a deal with Perplexity to integrate its AI-powered search engine across OneUI and its homegrown mobile browser. Perplexity already has a deal with Motorola on its Razr phones, so the only thing that would make a deal with Samsung unusual is the close relationship the company already has with Google.\nThe company also accidentally announced a new version of its Bixby AI assistant, which will likely also be integrated with Perplexity and could serve as an alternative to Google Gemini. Both a new Bixby and a deeper integration with Perplexity seem like natural new software features to show off at Galaxy Unpacked.\nUpdate, January 27 2026, 11:55AM ET: This story has been updated to reflect the latest news around the Galaxy Z TriFold’s price and availability in the US.\nUpdate, January 30 2026, 12:45PM ET: This story has been updated to include the latest leaks on the possible dates for Unpacked 2026.\nUpdate, February 02 2026, 11:30AM ET: This story has been updated to include the latest leaks with full image renders of the S26 trio of devices.\nUpdate, February 03 2026, 11:00AM ET: This story has been updated to include the latest leaks about the possible lack of magnetic support on the S26 series.\nUpdate, February 10 2026, 7:15PM ET: This story has been updated to include the official date of Galaxy Unpacked as Samsung announced it today. The intro was also edited to reflect that detail.\nThis article originally appeared on Engadget at https://www.engadget.com/mobile/smartphones/samsung-galaxy-unpacked-2026-everything-were-expecting-from-the-s26-launch-on-february-25-130000524.html?src=rss",
-      "published": "2026-02-11T00:17:12.000Z",
-      "source": "Engadget",
-      "sourceKey": "engadget",
+      "title": "Apple reportedly pushing back Gemini-powered Siri features beyond iOS 26.4",
+      "link": "https://9to5mac.com/2026/02/11/apple-reportedly-pushing-back-gemini-powered-siri-features-beyond-ios-26-4/",
+      "description": "Despite inking a deal with Google to use Gemini AI as the brains behind upgraded Siri, Apple is reportedly facing internal challenges in getting the final product ready for prime time. The reported delays could stretch into iOS 27 this fall. Apple first announced a more capable version of Siri in 2024; that update hasn’t shipped yet.\nmore…",
+      "published": "2026-02-11T19:59:59.000Z",
+      "source": "9to5Mac",
+      "sourceKey": "9to5mac",
       "priority": 2,
-      "image": "https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2025-01/59db82d0-d8d0-11ef-babd-deb856accfc5",
-      "relevanceScore": 6,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/siri-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "relevanceScore": 9,
       "matchedKeywords": [
         "google",
-        "samsung"
+        "apple",
+        "gemini"
       ],
       "category": "ai"
     },
     {
-      "title": "China’s Top Chipmaker Warns Rushed AI Capacity Could Sit Idle",
-      "link": "https://www.bloomberg.com/news/articles/2026-02-11/china-s-top-chipmaker-warns-rushed-ai-capacity-could-sit-idle",
-      "description": "China’s top chipmaker has warned that breakaway spending on artificial intelligence chips is bringing forward years of future demand, raising the risk that some data centers could sit idle.",
-      "published": "2026-02-11T05:33:22.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 6,
+      "title": "Kuzu database company joins Apple’s list of recent acquisitions",
+      "link": "https://9to5mac.com/2026/02/11/kuzu-database-company-joins-apples-list-of-recent-acquisitions/",
+      "description": "Earlier this month, Apple confirmed its blockbuster $2 billion acquisition of the mysterious AI startup Q.ai. In addition to that deal, Apple also recently acquired a database company called Kuzu. Here’s an in-depth list of recent acquisitions made by Apple.\nmore…",
+      "published": "2026-02-11T13:26:53.000Z",
+      "source": "9to5Mac",
+      "sourceKey": "9to5mac",
+      "priority": 2,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/12/Apple-Park.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "relevanceScore": 9,
       "matchedKeywords": [
-        "intel",
-        "artificial intelligence",
-        "chip",
-        "data center"
+        "apple",
+        "acquisition",
+        "billion"
+      ],
+      "category": "business"
+    },
+    {
+      "title": "Xiaomi Tag leaks with Android Find Hub & Apple Find My support for €17.99, no UWB",
+      "link": "https://9to5google.com/2026/02/11/xiaomi-tag-android-find-hub-tracker-leak/",
+      "description": "After months of leaks and rumors, the “Xiaomi Tag” appears to be nearing launch, with the AirTag-like device including support for both Android Find Hub and Apple’s Find My networks at a low price.\nmore…",
+      "published": "2026-02-11T15:05:00.000Z",
+      "source": "9to5Google",
+      "sourceKey": "9to5google",
+      "priority": 2,
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/xiaomi-tag-leak-1.jpg?quality=82&#038;strip=all&#038;w=1200",
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "apple",
+        "xiaomi"
       ],
       "category": "ai"
     },
     {
-      "title": "Samsung Shares Reverse Drop After Executive Touts HBM4 Advantage",
-      "link": "https://www.bloomberg.com/news/articles/2026-02-11/samsung-shares-reverse-drop-after-executive-touts-hbm4-advantage",
-      "description": "Samsung Electronics Co. is back at the top of the memory industry with its new HBM4 technology, President and chip division Chief Technology Officer Jaihyuk Song said on Wednesday, erasing a drop in the company’s shares.",
-      "published": "2026-02-11T02:38:05.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 6,
+      "title": "Tesla calls police on IG Metall rep at Giga Berlin works council meeting before critical vote",
+      "link": "https://electrek.co/2026/02/11/tesla-calls-police-ig-metall-rep-at-giga-berlin-works-council-meeting-before-critical-vote/",
+      "description": "Tesla filed a criminal complaint and called police to its Gigafactory Berlin after accusing an IG Metall union representative of secretly recording a closed works council meeting on Tuesday. Police seized the representative’s laptop. The incident comes just three weeks before roughly 11,000 employees vote in a works council election that could reshape the future of the plant.\nThe confrontation marks the latest, and most dramatic, escalation in the increasingly bitter fight between Tesla and Germany’s most powerful industrial union at the automaker’s only European factory.\nmore…",
+      "published": "2026-02-11T20:03:45.000Z",
+      "source": "Electrek",
+      "sourceKey": "electrek",
+      "priority": 2,
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2025/03/Heil-tesla-gigafactory-berlin.png?w=1600",
+      "relevanceScore": 8,
       "matchedKeywords": [
-        "samsung",
-        "chip"
+        "meta",
+        "tesla"
       ],
-      "category": "ai"
-    },
-    {
-      "title": "Samsung to hold its Galaxy S26 event on February 25",
-      "link": "https://techcrunch.com/2026/02/10/samsung-to-hold-its-galaxy-s26-event-on-february-25/",
-      "description": "Samsung is going to launch S26 lineup just before Mobile World Congress (MWC).",
-      "published": "2026-02-11T07:06:44.000Z",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 5,
-      "matchedKeywords": [
-        "samsung"
-      ],
-      "category": "regulation"
+      "category": "ev_autonomous"
     }
   ],
   "byCategory": {
     "ai": [
       {
-        "title": "With co-founders leaving and an IPO looming, Elon Musk turns talk to the moon",
-        "link": "https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/",
-        "description": "According to The New York Times, which reports that it heard the meeting, Musk told employees that xAI needs a lunar manufacturing facility, a factory on the moon that will build AI satellites and fling them into space via a giant catapult.",
-        "published": "2026-02-11T05:23:26.000Z",
-        "source": "TechCrunch",
-        "sourceKey": "techcrunch",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 11,
+        "title": "Anthropic beefs up Claude's free tier as OpenAI prepares to stuff ads into ChatGPT's",
+        "link": "https://www.engadget.com/ai/anthropic-beefs-up-claudes-free-tier-as-openai-prepares-to-stuff-ads-into-chatgpts-194100939.html?src=rss",
+        "description": "Anthropic is upgrading Claude's free tier, apparently to capitalize on OpenAI's planned integration of ads into ChatGPT. On Wednesday, Anthropic said free Claude users can now create files, connect to external services, use skills and more.\nAnthropic added the ability for paid users to create files in September. Starting today, free users of the chatbot can also create and edit Excel spreadsheets, PowerPoint presentations, Word docs and PDFs. Claude's file creation abilities are powered by Sonnet 4.5.\nFree users can now create and edit Excel spreadsheets, PowerPoint presentations, Word docs, and PDFs.\nAnthropic\n\nMeanwhile, Connectors allow free users to link Claude to third-party services. There's a long list of available ones, including Canva, Slack, Notion, Zapier and PayPal.\nSkills, on the other hand, let you teach Claude to \"complete specific tasks in repeatable ways.\" In short, the chatbot loads folders of instructions, scripts and other resources when performing relevant tasks. Other upgrades to the free tier include longer conversations, interactive responses and improved voice and image search.\nClaude's free-tier upgrades appear to be a direct response to ChatGPT's planned introduction of ads for its free users. Anthropic's announcement today ended with the tag line, \"No ads in sight.\" This follows the company's promise last week that Claude will remain ad-free. Anthropic even poked fun at OpenAI's cash-seeking move in a Super Bowl ad (below), which also took a swipe at GPT-4o's penchant for kissing ass.\n\n\n\nThis article originally appeared on Engadget at https://www.engadget.com/ai/anthropic-beefs-up-claudes-free-tier-as-openai-prepares-to-stuff-ads-into-chatgpts-194100939.html?src=rss",
+        "published": "2026-02-11T19:41:00.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/1_-_Free_Plan_Upgrade.png",
+        "relevanceScore": 20,
         "matchedKeywords": [
-          "xai",
-          "ipo",
-          "elon musk",
-          "satellite"
+          "openai",
+          "anthropic",
+          "chatgpt",
+          "claude"
         ],
         "category": "ai"
       },
       {
-        "title": "Okay, now exactly half of xAI’s founding team has left the company",
-        "link": "https://techcrunch.com/2026/02/10/nearly-half-of-xais-founding-team-has-now-left-the-company/",
-        "description": "Whatever the cause of the departures, the cumulative impact is alarming. There is a lot of work left to do at xAI, and an IPO will bring more scrutiny than the lab has ever faced before.",
-        "published": "2026-02-11T01:50:00.000Z",
-        "source": "TechCrunch",
-        "sourceKey": "techcrunch",
+        "title": "Anthropic’s Claude Cowork finally lands on Windows — and it wants to automate your workday",
+        "link": "https://venturebeat.com/technology/anthropics-claude-cowork-finally-lands-on-windows-and-it-wants-to-automate",
+        "description": "Anthropic released its Claude Cowork AI agent software for Windows on Monday, bringing the file management and task automation tool to roughly 70 percent of the desktop computing market and intensifying a remarkable corporate realignment that has seen Microsoft embrace a direct competitor to its longtime AI partner, OpenAI.\nThe Windows launch arrives with what Anthropic calls \"full feature parity\" with the macOS version: file access, multi-step task execution, plugins, and Model Context Protocol (MCP) connectors for integrating external services. Users can now also set global and folder-specific instructions that Claude follows in every session, a feature developers on Reddit described as \"a game-changer\" for maintaining context across projects.\n\"Cowork is now available on Windows,\" Anthropic announced on X. \"We're bringing full feature parity with MacOS: file access, multi-step task execution, plugins, and MCP connectors.\"\nThe release closes a critical platform gap that had limited Cowork to Apple's operating system since its January 12 debut. The Windows expansion underscores a broader transformation already underway in enterprise AI, with Microsoft simultaneously selling its own GitHub Copilot to customers while encouraging thousands of its own employees to adopt Anthropic's competing tools internally.\n\nInside Microsoft's surprising pivot toward its biggest AI rival\nThe relationship between Microsoft and Anthropic has accelerated with striking speed. In November, the two companies announced a strategic partnership allowing Microsoft Foundry customers access to Claude Sonnet 4.5, Claude Opus 4.1, and Claude Haiku 4.5. As part of that arrangement, Anthropic committed to purchasing $30 billion of Azure compute capacity.\nBut the partnership has expanded well beyond cloud hosting. According to a January 22 report in The Verge, Microsoft has begun encouraging thousands of employees from some of its most prolific teams to adopt Claude Code — and now, by extension, Cowork — even if they have no coding experience.\nMicrosoft's CoreAI team, the new AI engineering group led by former Meta engineering chief Jay Parikh, has tested Claude Code in recent months, The Verge reported. The company has also approved Claude Code across all code and repositories for its Business and Industry Copilot teams.\n\"Software engineers at Microsoft are now expected to use both Claude Code and GitHub Copilot and give feedback comparing the two,\" The Verge reported.\nThe company's spending on Anthropic approaches $500 million annually, according to The Information. Microsoft has even begun counting Anthropic AI model sales toward Azure sales quotas — an unusual incentive structure that the company typically reserves for homegrown products or models from OpenAI.\nA $13 billion partnership faces new questions as Microsoft hedges its bets\nMicrosoft's embrace of Anthropic raises uncomfortable questions about its $13 billion investment in OpenAI, which has long served as the exclusive provider of frontier AI models for Microsoft's products. The two companies signed their landmark partnership in 2019, with Microsoft providing Azure computing infrastructure in exchange for preferential access to OpenAI's technology.\nThat relationship now appears to be evolving into something more nuanced. Microsoft has started favoring Anthropic's Claude models inside Microsoft 365 apps and Copilot recently, deploying them in specific applications or features where Anthropic's models have proven more capable than OpenAI's counterparts.\nOn February 5, Microsoft announced that Claude Opus 4.6 — Anthropic's most advanced model — would become available in Microsoft Foundry, the company's enterprise AI platform. The Azure blog post framed the integration as bringing \"even more capability to agents that increasingly learn from and act on business systems.\"\n\"At Microsoft we believe that intelligence and trust are the core requirements of agentic AI at scale,\" the announcement stated. \"Built on Azure, Microsoft Foundry brings these capabilities together on a secure, scalable cloud foundation for enterprise AI.\"\nThe timing and tone suggest Microsoft views Anthropic not merely as a hedging strategy but as a genuine technical leader in certain domains. Claude Opus 4.6 offers a one-million-token context window and 128,000-token maximum output — specifications that position it for complex, long-running enterprise tasks that require processing vast amounts of information.\nWhy a $285 billion stock selloff has the software industry questioning its future\nThe deepening Microsoft-Anthropic alliance takes on added significance when viewed against a backdrop of genuine alarm rippling through the software industry. Within days of the macOS launch in January, investors began repricing SaaS companies whose products overlap with Cowork's capabilities — project management tools, writing assistants, data analysis platforms, and workflow automation software all saw sharp declines.\nBloomberg reported that Cowork triggered a $285 billion software stocks selloff. The carnage reflected growing investor conviction that AI agents capable of automating knowledge work could render entire categories of enterprise software obsolete.\nThe fear is not abstract. Cowork operates as a desktop agent powered by Claude Opus 4.6 that can read local files, execute multi-step tasks, and interact with external services through plugins — all running directly on a user's machine. Unlike chatbot interfaces that respond to individual prompts, Cowork plans and executes complete workflows across files, applications, and connected services.\nAnthropic has leaned into this positioning. On January 30, the company's Anthropic Labs division released 11 open-source agentic plugins spanning sales, legal, finance, marketing, data analysis, and software development. These plugins connect Cowork to external tools, enabling the agent to pull data from CRMs, draft legal documents, analyze spreadsheets, or manage project boards without users switching applications.\nThe hidden risks of giving an AI agent access to your files\nSuch convenience comes with tradeoffs, and Anthropic has been transparent about the risks inherent in agent software that can read, write, and delete files. The company's support documentation warns users to \"be cautious about granting access to sensitive information like financial documents, credentials, or personal records\" and suggests saving backups and creating dedicated folders with nonsensitive information.\nCowork remains susceptible to prompt injection attacks — hidden instructions embedded in documents or websites that can hijack AI agents and redirect their actions. The browser automation feature includes an explicit disclaimer warning that hidden code in websites may \"steal your data, inject malware into your systems, or take over your system.\"\n\"We use a virtual machine under the hood,\" Boris Cherny, Anthropic's head of Claude Code, told Wired. \"This means you have to say which folders Claude has access to. And if you don't give it access to a folder, Claude literally cannot see that folder.\"\nThe Windows version includes additional safety constraints. According to user reports on Reddit, Cowork on Windows restricts file access to the user's personal folder, preventing the agent from accessing common development directories like C:\\git. While some users expressed frustration at this limitation, others noted it as a prudent safeguard for less technical users.\n\"To be fair, seeing how many people nuked themselves with Claude Code, it is much safer to limit people to reduce the collateral damage,\" wrote one Reddit user.\nMajor corporations are already betting on Claude's enterprise potential\nDespite the security caveats, early enterprise adoption suggests meaningful interest. Customer testimonials published alongside the Claude Opus 4.6 announcement on the Microsoft Azure blog included statements from Adobe, Dentons, and other major organizations already integrating Anthropic's technology into their workflows.\n\"At Adobe, we're continuously evaluating new AI capabilities that can help us deliver more powerful, responsible, and intuitive experiences for our customers,\" said Michael Marth, VP Engineering for Experience Manager and LLM Optimizer. \"Foundry gives us a flexible, enterprise-ready environment to explore frontier models while maintaining the trust, governance, and scale that are critical for Adobe.\"\nMatej Jambrich, CTO of Dentons Europe, described deploying Claude for legal work: \"Better model reasoning reduces rework and improves consistency, so our lawyers can focus on higher value judgment.\"\nOn Reddit, an Anthropic representative wrote that the Windows release addresses \"the most consistent request\" since Cowork's macOS debut — a demand that came \"especially from enterprise teams.\" The detail underscores the tool's perceived value in corporate environments where Windows dominates the desktop landscape.\nAt $20 a month, Cowork positions itself as a premium productivity play\nAccess to these capabilities comes at a price. Cowork for Windows is available in research preview at claude.com/cowork for all paid Claude subscription tiers, including Pro ($20/month), Max ($100/month), Team, and Enterprise. Free-tier users cannot access the feature.\nThis pricing structure positions Cowork as a premium productivity tool rather than a mass-market offering — at least for now. Anthropic has not announced plans for broader availability, and the \"research preview\" designation suggests the company continues to gather user feedback before committing to a general release.\nThe January macOS launch was similarly restricted to $100/month Max subscribers before expanding to other paid tiers, suggesting Anthropic may follow a gradual rollout strategy as it refines the product. For enterprise customers evaluating the tool, the pricing represents a fraction of what many pay for traditional software licenses—a calculus that could accelerate adoption if Cowork delivers on its automation promises.\nThe battle for the future of work has a new front line\nFor Microsoft, the deepening Anthropic partnership reflects a pragmatic recognition that AI leadership may require embracing multiple frontier providers rather than relying exclusively on a single partner.\nThe company's willingness to deploy Claude tools internally while selling GitHub Copilot externally suggests confidence that the enterprise market can accommodate competing approaches — or perhaps an acknowledgment that betting everything on OpenAI carries its own risks.\nFor the broader software industry, Cowork's expansion to Windows extends the competitive threat to an even larger installed base. Companies whose value propositions rest on task automation, file management, or workflow orchestration now face a well-funded competitor capable of replicating their core functionality through natural language commands.\nThe $285 billion in market capitalization that evaporated after Cowork's January launch may prove to be just an opening salvo. With Windows support now live, Anthropic has removed the last major platform barrier between its AI agent and the enterprise customers most likely to adopt it.\nThe software industry spent decades building tools to help knowledge workers manage files, automate tasks, and organize information. Now it faces a future where a single application, powered by an AI that learns and improves with every interaction, threatens to do all of that and more. The question is no longer whether AI agents will reshape enterprise software, but how much of the old world will survive the transformation.",
+        "published": "2026-02-11T20:25:00.000Z",
+        "source": "VentureBeat",
+        "sourceKey": "venturebeat",
         "priority": 1,
-        "image": null,
-        "relevanceScore": 11,
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3zZt7h2lLYSWgfFacvlwfj/10356ce36ca2ca349cbb0011f4469485/nuneybits_Vector_art_of_retro_Windows_CRT_computer_Anthropic_or_3d5dbd7c-7959-45de-83c5-134898f3e9e2.webp?w=300&q=30",
+        "relevanceScore": 20,
         "matchedKeywords": [
-          "arm",
-          "xai",
-          "ipo"
+          "microsoft",
+          "openai",
+          "anthropic",
+          "claude",
+          "alignment"
         ],
         "category": "ai"
       },
       {
-        "title": "Musk's xAI loses second co-founder in two days",
-        "link": "https://www.cnbc.com/2026/02/10/musks-xai-loses-second-co-founder-in-two-days-as-jimmy-ba-departs.html",
-        "description": "After SpaceX merger, xAI is shedding co-founders with influential researcher Jimmy Ba the latest to depart.",
-        "published": "2026-02-11T01:52:08.000Z",
+        "title": "AI Industry Rivals Are Teaming Up on a Startup Accelerator",
+        "link": "https://www.wired.com/story/ai-industry-rivals-are-teaming-up-on-a-startup-accelerator/",
+        "description": "OpenAI, Anthropic, Google, and a host of other major tech companies have found common ground in F/ai, a new startup accelerator based out of Paris.",
+        "published": "2026-02-11T10:55:24.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "google",
+          "openai",
+          "anthropic"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "9to5Mac Daily: February 11, 2026 – Apple’s recent acquisitions",
+        "link": "https://9to5mac.com/2026/02/11/daily-february-11-2026/",
+        "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Stuff: Stuff helps you get everything out of your head and into a simple, elegant system—closing open loops and reducing mental stress. Use code 9TO5 at checkout for 50% off your first year.\n\n\n\n\n more…",
+        "published": "2026-02-11T15:20:21.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "google",
+          "apple",
+          "acquisition"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple reportedly pushing back Gemini-powered Siri features beyond iOS 26.4",
+        "link": "https://9to5mac.com/2026/02/11/apple-reportedly-pushing-back-gemini-powered-siri-features-beyond-ios-26-4/",
+        "description": "Despite inking a deal with Google to use Gemini AI as the brains behind upgraded Siri, Apple is reportedly facing internal challenges in getting the final product ready for prime time. The reported delays could stretch into iOS 27 this fall. Apple first announced a more capable version of Siri in 2024; that update hasn’t shipped yet.\nmore…",
+        "published": "2026-02-11T19:59:59.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/siri-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "google",
+          "apple",
+          "gemini"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Xiaomi Tag leaks with Android Find Hub & Apple Find My support for €17.99, no UWB",
+        "link": "https://9to5google.com/2026/02/11/xiaomi-tag-android-find-hub-tracker-leak/",
+        "description": "After months of leaks and rumors, the “Xiaomi Tag” appears to be nearing launch, with the AirTag-like device including support for both Android Find Hub and Apple’s Find My networks at a low price.\nmore…",
+        "published": "2026-02-11T15:05:00.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/xiaomi-tag-leak-1.jpg?quality=82&#038;strip=all&#038;w=1200",
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "apple",
+          "xiaomi"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple acquires all rights to Severance; showrunners open to spin-offs, prequel, more",
+        "link": "https://9to5mac.com/2026/02/11/apple-acquires-all-rights-to-severance-showrunners-open-to-spin-offs-prequel-more/",
+        "description": "Deadline reports that Apple now owns “the IP and all rights” to Severance, and that future plans might include more than just four seasons. Here are the details.\nmore…",
+        "published": "2026-02-11T22:59:34.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/severance-s2-mdr.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "apple",
+          "acquires"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Amazon's same-day prescription deliveries are coming to even more cities",
+        "link": "https://www.engadget.com/big-tech/amazons-same-day-prescription-deliveries-are-coming-to-even-more-cities-192221224.html?src=rss",
+        "description": "Amazon has announced that it will bring its same-day prescription delivery service to 4,500 new cities and towns by the end of 2026. The company originally launched Amazon Pharmacy in 2020 with a two-day delivery option, and has continued to increase the availability and delivery speed of the service in the years that followed, including expanding access to nearly half of all US residents in 2024.\nThe company's announcement doesn't break down all the new cities same-day deliveries will be available in, but does note that the delivery option is coming to Idaho and Massachusetts for the first time. In the past, access to same-day deliveries has been determined by where Amazon has fulfillment centers that it can open pharmacies in. Amazon Pharmacy also offers next-day delivery and in some cities, the ability to pick up prescriptions from Amazon's OneMedical offices.\nAmazon reportedly applied for Amazon Pharmacy trademarks in the UK, Canada and Australia in 2020, but has yet to expand its prescription delivery service to those regions. In 2023, Amazon launched RxPass, a separate $5 per month subscription that lets Amazon Prime customers order from a collection over 50 common medications for a flat fee. Amazon began letting Medicare recipients access the subscription in 2024.\nThis article originally appeared on Engadget at https://www.engadget.com/big-tech/amazons-same-day-prescription-deliveries-are-coming-to-even-more-cities-192221224.html?src=rss",
+        "published": "2026-02-11T19:22:21.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "amazon",
+          "arm"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Instagram chief likens social media addiction to being hooked on a Netflix show in trial testimony",
+        "link": "https://www.cnbc.com/2026/02/11/meta-trial-instagram-mosseri-social-media-addiction.html",
+        "description": "Instagram head Adam Mosseri said during the trial that he thinks there can be problematic usage of social media, but disagrees it is addiction.",
+        "published": "2026-02-11T22:44:18.000Z",
         "source": "CNBC",
         "sourceKey": "cnbc_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 10,
+        "relevanceScore": 5,
         "matchedKeywords": [
-          "spacex",
-          "xai",
-          "merger"
+          "netflix"
         ],
         "category": "ai"
       },
       {
-        "title": "OpenAI policy exec who opposed chatbot’s “adult mode” reportedly fired on discrimination claim",
-        "link": "https://techcrunch.com/2026/02/10/openai-policy-exec-who-opposed-chatbots-adult-mode-reportedly-fired-on-discrimination-claim/",
-        "description": "The executive has denied the allegation that she engaged in discrimination.",
-        "published": "2026-02-11T02:15:27.000Z",
-        "source": "TechCrunch",
-        "sourceKey": "techcrunch",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 8,
-        "matchedKeywords": [
-          "openai"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Samsung Galaxy Unpacked 2026: Everything we're expecting from the S26 launch on February 25",
-        "link": "https://www.engadget.com/mobile/smartphones/samsung-galaxy-unpacked-2026-everything-were-expecting-from-the-s26-launch-on-february-25-130000524.html?src=rss",
-        "description": "Samsung’s 2025 was filled with new foldables, an ultra-thin new form factor and the launch of Google's XR platform. After making some announcements at CES 2026, the company has just announced its first Galaxy Unpacked of the year will take place on February 25, where it is expected to introduce the Galaxy S26 lineup. Official invites have just been shared, but actual information on what devices are arriving then is still unknown. But as usual, we know a lot about what’s expected at Unpacked.\nEngadget will be covering Galaxy Unpacked live, and we'll most likely have hands-on coverage of Samsung's new smartphones soon after they're announced. While we wait for the full details, here's everything we expect Samsung will introduce at the first Galaxy Unpacked event of 2026.\n\n\n\nWhen is Unpacked 2026 taking place?\nAccording to the official invite that Samsung shared on February 10, Unpacked will happen on February 25, 2026 in San Francisco. The keynote will start at 10AM PT (1PM ET) and be livestreamed on Samsung.com, as well as the company’s newsroom and YouTube channel. The announcement on February 10 also said this launch will mark “a new phase in the era of AI as intelligence becomes truly personal and adaptive.” It’s not a lot to go on, since we’ve heard a version of this from various companies over the last few years, but at least we won’t be shocked when we hear more about AI in just about two weeks.\nGalaxy S26, S26+ and S26 Ultra\nSamsung Galaxy S25 Ultra hands-on photo\nPhoto by Sam Rutherford/Engadget\n\nSamsung's restrained approach to updating its phones will likely continue with the Galaxy S26. Based on leaked images of the new lineup, the company is not expected to radically reinvent the look of the Galaxy S26, Galaxy S26+ or Galaxy S26 Ultra, and instead will stick with a similar design to what it used on the Galaxy S25. The phones will have a flat front screen and frame, with rounded corners and cameras housed in a vertical pill-shaped plateau on the back. Unlike Apple's move from the iPhone 16 Pro to the iPhone 17 Pro, the biggest difference here will likely be internal components like the screens, chips and camera sensors Samsung uses.\nQualcomm's new Snapdragon 8 Elite Gen 5 chip is expected to be in all Samsung Galaxy S26 phones, though Korean news site Yonhap News reports Samsung's relatively new Exynos 2600 chip could be used in some phones in the lineup depending on the region, a strategy Samsung has deployed in the past. Either way the new phones should be more performant than the previous generation, and in the case of the models with the Snapdragon 8 Elite Gen 5, particularly good at on-device AI processing.\n\nI have compiled the most accurate comprehensive parameter comparison of Galaxy S25, S25+ and Galaxy S26、 S26+. Which one do you want to buy? pic.twitter.com/aQpoSvYjOz\n— Ice Universe (@UniverseIce) November 29, 2025\n\nOne notable difference between the Galaxy S26 and the Galaxy S25 could be the phone's screen. The new phone will reportedly feature a 6.3-inch FHD+ display according to specs shared by leaker Ice Universe, which makes it ever so slightly larger than the 6.2-inch display used on the Galaxy S25. The S26 will also allegedly come with 12GB of RAM, either 256GB or 512GB of storage and a slightly larger 4,300mAh battery. Samsung isn't changing the cameras on the entry-level phone, though: leaks suggest it'll feature the same 50-megapixel main camera, 12-megapixel ultrawide, 10-megapixel 3x telephoto and 12-megapixel selfie camera as the previous generation. Changes appear to be even more minor on the Galaxy S26+. Other than the new Snapdragon chip, the phone will reportedly feature the same 6.7-inch FHD+ screen, 4,900mAh battery, 12GB of RAM and the same camera array used on the base Galaxy S26.\nThe difference between the Galaxy S26 Ultra and Galaxy S25 Ultra is reportedly a bit clearer. According to Android Headlines, the new phone's cameras will be slightly more raised, and stand out thanks to a new metallic finish. Samsung may also switch back to using an aluminum frame on the Galaxy S26 Ultra, after using titanium frames on both the Galaxy S24 and S25 Ultras. Most importantly, to make the phone actually support Qi2 rather than only technically work with the standard when a case is attached, rumors suggest Samsung will remove the S Pen digitizer layer in the phone and adopt a new method for accepting stylus input. It's not clear what that new method will actually be, but it could let the Galaxy S26 Ultra more easily work with Qi2 accessories without losing its stylus.\nAndroid Headlines also recently shared what appear to be full image renders of the S26 series, and they generally line up with what has already been rumored, leaked and reported so far. If these pictures are accurate, they give us a clearer look at the camera bump and two color variants of the S26 Ultra.\nFans of magnets may continue to be disappointed by Samsung if the latest rumors are accurate. Despite the launch of the Qi 2 wireless charging standard adding support for convenient magnetic alignment years ago, Samsung has yet to bring that feature to its phones. Though the S-series have the higher speed charging rates that the spec enables,  Nieuwemobiel.nl is reporting that, due to images it received of cases with magnetic rings, the S26 series likely won’t have built-in magnets. Samsung has made these cases to add the magnetic capability to its S-series in the past, and the existence of the images of these accessories lends weight to the idea that the company will continue this approach.\nGalaxy Buds 4\nGalaxy Buds 3 Pro in case.\nEngadget\n\nSamsung released the Galaxy Buds 3 and 3 Pro in 2024, with a major redesign that brought them much more in line with Apple's AirPods. The Galaxy Buds 4 and Buds 4 Pro Samsung is rumored to be announcing soon won't necessarily change that, though they will feature a more compact case and less angular stems, according to leaked images from the Samsung Tips app.\nSupport for head gestures to accept and decline calls, a feature Apple includes on the AirPods Pro 3 and AirPods 4, is also rumored to work on both versions of the new Galaxy Buds. SamMobile reports the Galaxy Buds 4 and 4 Pro may also ship with a new Ultra Wideband chip that will make them easier to find with Google's Find Hub network.\nGalaxy Z Trifold\nYes, the TriFold has a crease, two in fact. But they still don't ruin the experience. \nSam Rutherford for Engadget\n\nSamsung announced the Galaxy Z TriFold in late 2025 without firm details of when the new smartphone-that-folds-into-a-tablet would be available in North America. That info came on January 27, when the company announced the TriFold would be available in the US on January 30, for a whopping $2,900. Considering we’ve already seen the device in person at CES 2026 and people are most likely to have had a chance to look at, if not buy the foldable for themselves by the time Unpacked rolls around, we don’t expect Samsung to spend too much time dwelling on it, if at all.\nGalaxy S26 Edge\nAt just 5.8mm thick, the Samsung Galaxy S25 Edge is one of the thinnest smartphones ever made. \nSam Rutherford for Engadget\n\nWhen the Galaxy S25 Edge was announced in 2025, it seemed possible that Samsung could replace its \"Plus\" smartphone with a unique form factor, just like Apple has opted to do with the iPhone Air. There have been conflicting reports on the matter, but it seems like Samsung will not be doing that with the Galaxy S26 Edge.\nInstead, the smartphone will reportedly remain another option, much like foldables are for customers not swayed by Samsung's traditional smartphones. The Galaxy S26 Edge is rumored to feature a slightly different design than last year's model, according to Android Headlines, with a large rectangular camera plateau that's reminiscent of Google's Pixel phones, and the raised oval Apple used on the iPhone Air. Beyond that, the phone is also expected to be ever so slightly thinner at 5.5mm than the 5.8mm Galaxy S25 Edge.\nBixby and other AI features\n\n\nSamsung already acts as a first place Google can show off new AI features for Android, but the company is reportedly exploring other AI partnerships, too. In June 2025, Bloomberg reported that Samsung was nearing a deal with Perplexity to integrate its AI-powered search engine across OneUI and its homegrown mobile browser. Perplexity already has a deal with Motorola on its Razr phones, so the only thing that would make a deal with Samsung unusual is the close relationship the company already has with Google.\nThe company also accidentally announced a new version of its Bixby AI assistant, which will likely also be integrated with Perplexity and could serve as an alternative to Google Gemini. Both a new Bixby and a deeper integration with Perplexity seem like natural new software features to show off at Galaxy Unpacked.\nUpdate, January 27 2026, 11:55AM ET: This story has been updated to reflect the latest news around the Galaxy Z TriFold’s price and availability in the US.\nUpdate, January 30 2026, 12:45PM ET: This story has been updated to include the latest leaks on the possible dates for Unpacked 2026.\nUpdate, February 02 2026, 11:30AM ET: This story has been updated to include the latest leaks with full image renders of the S26 trio of devices.\nUpdate, February 03 2026, 11:00AM ET: This story has been updated to include the latest leaks about the possible lack of magnetic support on the S26 series.\nUpdate, February 10 2026, 7:15PM ET: This story has been updated to include the official date of Galaxy Unpacked as Samsung announced it today. The intro was also edited to reflect that detail.\nThis article originally appeared on Engadget at https://www.engadget.com/mobile/smartphones/samsung-galaxy-unpacked-2026-everything-were-expecting-from-the-s26-launch-on-february-25-130000524.html?src=rss",
-        "published": "2026-02-11T00:17:12.000Z",
-        "source": "Engadget",
-        "sourceKey": "engadget",
+        "title": " China's top chipmaker warns that rushed AI data center capacity could remain idle — SMIC chief says utilizing ballooning capacity 'has not been fully thought through' ",
+        "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-top-chipmaker-warns-that-rushed-ai-data-center-capacity-could-remain-idle-smic-chief-says-utilizing-ballooning-capacity-has-not-been-fully-thought-through",
+        "description": "Co-CEO of SMIC warns that massive data centers that are currently being built in the U.S. and other regions could end up sitting idle if some AI projects do not take off.",
+        "published": "2026-02-11T12:26:39.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
         "priority": 2,
-        "image": "https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2025-01/59db82d0-d8d0-11ef-babd-deb856accfc5",
-        "relevanceScore": 6,
+        "image": "https://cdn.mos.cms.futurecdn.net/5Mq4J9jfCyPqV9qsyhUWe8-1280-80.jpg",
+        "relevanceScore": 5,
         "matchedKeywords": [
-          "google",
-          "samsung"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "China’s Top Chipmaker Warns Rushed AI Capacity Could Sit Idle",
-        "link": "https://www.bloomberg.com/news/articles/2026-02-11/china-s-top-chipmaker-warns-rushed-ai-capacity-could-sit-idle",
-        "description": "China’s top chipmaker has warned that breakaway spending on artificial intelligence chips is bringing forward years of future demand, raising the risk that some data centers could sit idle.",
-        "published": "2026-02-11T05:33:22.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 6,
-        "matchedKeywords": [
-          "intel",
-          "artificial intelligence",
+          "ceo",
           "chip",
           "data center"
         ],
         "category": "ai"
       },
       {
-        "title": "Samsung Shares Reverse Drop After Executive Touts HBM4 Advantage",
-        "link": "https://www.bloomberg.com/news/articles/2026-02-11/samsung-shares-reverse-drop-after-executive-touts-hbm4-advantage",
-        "description": "Samsung Electronics Co. is back at the top of the memory industry with its new HBM4 technology, President and chip division Chief Technology Officer Jaihyuk Song said on Wednesday, erasing a drop in the company’s shares.",
-        "published": "2026-02-11T02:38:05.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 6,
-        "matchedKeywords": [
-          "samsung",
-          "chip"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Amazon Ring’s Super Bowl ad sparks backlash amid fears of mass surveillance",
-        "link": "https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash",
-        "description": "The ad promotes Ring cameras’ new capability to search neighborhoods for a lost dog. | Screenshot from Ring video\t\n\nRing's new Search Party feature has once again drawn backlash for the company. A 30-second ad that aired during Sunday's Super Bowl showed Ring cameras \"surveilling\" neighborhoods to locate a lost dog. In the current political climate, a prime-time ad celebrating neighborhood surveillance struck a nerve.\nPeople voiced concerns across social media that the AI-powered technology Ring uses to identify dogs could soon be used to search for humans. Combined with Ring's recent rollout of its new facial recognition capability, it feels like a short leap for a pet-finding feature to be turned into a tool for state surveillance. \nPrivacy expert Chr …\nRead the full story at The Verge.",
-        "published": "2026-02-11T01:17:36.000Z",
-        "source": "The Verge",
-        "sourceKey": "theverge",
-        "priority": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Screenshot-2026-02-10-at-7.36.46%E2%80%AFPM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "title": " Microsoft turns to superconductors for distributing power to its AI data centers — zero-resistance cables could reduce power losses and produce zero heat ",
+        "link": "https://www.tomshardware.com/desktops/servers/microsoft-turns-to-superconductors-for-distributing-power-to-its-ai-data-centers-zero-resistance-cables-could-reduce-power-losses-and-produce-zero-heat",
+        "description": "Microsoft wants to use superconducting cables to transport electricity with zero losses, allowing it to save space and build more data centers without putting more strain on the grid.",
+        "published": "2026-02-11T11:00:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/bNebuWGAQz2tbQ5mXsntcH-1280-80.jpg",
         "relevanceScore": 5,
         "matchedKeywords": [
-          "amazon"
+          "microsoft",
+          "data center"
         ],
         "category": "ai"
       },
       {
-        "title": "AI Loser Software Stocks Overshadowed as Hardware Earnings Jump",
-        "link": "https://www.bloomberg.com/news/articles/2026-02-11/ai-loser-software-stocks-overshadowed-as-hardware-earnings-jump",
-        "description": "Europe’s software companies are set for slower earnings growth than their hardware counterparts this year, compounding fears in global markets that artificial intelligence will reshape software firms’ business models.",
-        "published": "2026-02-11T05:30:00.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "intel",
-          "artificial intelligence"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Wall Street’s New Trade: Dump Stocks in AI Crosshairs",
-        "link": "https://www.bloomberg.com/news/videos/2026-02-11/wall-street-s-new-trade-dump-stocks-in-ai-crosshairs-video",
-        "description": "Rising fears about artificial intelligence are affecting the shares of companies at risk of being disrupted by it, from small software companies to big wealth-management firms. Bloomberg's Stephanie Hughes explains. (Source: Bloomberg)",
-        "published": "2026-02-11T02:38:10.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "intel",
-          "artificial intelligence"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Wall Street’s New Trade Is Dumping Any Stock in AI’s Crosshairs",
-        "link": "https://www.bloomberg.com/news/articles/2026-02-11/the-new-ai-stock-trade-is-dumping-any-company-in-its-crosshairs",
-        "description": "On Wall Street, rising fears about artificial intelligence keep pummeling shares of companies at risk of being caught on the wrong side of it all, from small software makers to big wealth-management firms.",
-        "published": "2026-02-11T00:06:57.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "intel",
-          "artificial intelligence"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "AI connector for Google Calendar makes convenient malware launchpad, researchers show",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/11/claude_desktop_extensions_prompt_injection/",
-        "description": "",
-        "published": "2026-02-11T00:24:51.000Z",
-        "source": "The Register",
-        "sourceKey": "theregister",
+        "title": "Apple just released iOS 26.3 alongside updates for the Mac, iPad and Apple Watch",
+        "link": "https://www.engadget.com/mobile/smartphones/apple-just-released-ios-263-alongside-updates-for-the-mac-ipad-and-apple-watch-193532483.html?src=rss",
+        "description": "Apple has released the software update 26.3 for its various platforms. This includes the iPhone, iPad, Mac and Apple Watch. In other words, don't be surprised when your iPhone notifies you of a pending update.\nUnfortunately, there isn't all that much to talk about here. Consider this a minor update that focuses primarily on bug fixes, which is important but not exactly fun. It is worth noting that the new iOS and iPadOS has an especially long list of fixes. There are 37 security issues addressed by the update, according to a report by 9to5Mac. \n\niOS 26.3 and iPadOS 26.3 do include a new tool for transitioning from an Apple device to an Android device, which is handy. It transfers photos, notes, messages, apps and other data to an Android phone but doesn't do anything with health data, protected notes or photos. There's also a new option to forward notifications from an iPhone or iPad to another device, but only for users in the EU. \nThe update to macOS Tahoe 26.3 is just bug fixes and security enhancements. The same goes for watchOS 26.3.\nWhy the small fries update? Rumors have been swirling that Apple is saving the big guns for the next release. Insiders have suggested that software update 26.4 will include the long-awaited Siri refresh and new emoji functionality.\nThis article originally appeared on Engadget at https://www.engadget.com/mobile/smartphones/apple-just-released-ios-263-alongside-updates-for-the-mac-ipad-and-apple-watch-193532483.html?src=rss",
+        "published": "2026-02-11T19:35:32.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
         "priority": 2,
         "image": null,
         "relevanceScore": 4,
         "matchedKeywords": [
-          "google"
+          "apple"
         ],
         "category": "ai"
       },
       {
-        "title": "Hong Kong working to allow perpetual contracts, chief regulator says",
-        "link": "https://www.coindesk.com/policy/2026/02/11/hong-kong-working-to-allow-perpetual-contracts-chief-regulator-says",
-        "description": "Hong Kong's Securities and Futures Commission will publish a \"high-level framework\" allowing perpetual contracts, SFC CEO Julia Leung said.",
-        "published": "2026-02-11T05:13:18.000Z",
-        "source": "CoinDesk",
-        "sourceKey": "coindesk",
-        "priority": 3,
+        "title": "Meta turned Threads algorithm complaints into an official feature",
+        "link": "https://www.engadget.com/social-media/meta-turned-threads-algorithm-complaints-into-an-official-feature-180000236.html?src=rss",
+        "description": "Threads users have been complaining about its recommendation algorithm pretty much since the beginning of the platform. At some point, this turned into a meme, with users writing posts jokingly addressed to the algorithm in which they requested to see more posts about the topics they're actually interested in.\nNow, Meta is turning those \"Dear algorithm\" posts into an official feature that it says will allow Threads users to tune their recommendations in real time. With the change, users can write a post that begins with \"dear algo\" to adjust their preferences. For example, you could write \"dear algo, show me more posts about cute cats.\" You can also ask to see fewer posts about topics you don't want to see, like \"dear algo, stop showing me posts about sick pets.\"\nYou can track your requests to the algorithm in the app's settings in order to revisit them or remove them. You can also retweet other users' \"dear algo\" posts to have those topics reflected in your feed. Importantly, \"dear algo\" requests are temporary and only last for three days at a time, which Meta says is meant to keep the algorithm feel fresher and more flexible.  \nThe rollout of the feature follows a limited test late last year. Now, \"dear algo\" posts will work for Threads users in the US, UK, Australia and New Zealand with more countries coming \"soon.\"\n\nThis article originally appeared on Engadget at https://www.engadget.com/social-media/meta-turned-threads-algorithm-complaints-into-an-official-feature-180000236.html?src=rss",
+        "published": "2026-02-11T18:00:00.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
         "image": null,
-        "relevanceScore": 3,
+        "relevanceScore": 4,
         "matchedKeywords": [
-          "ceo"
+          "meta"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Computer History Museum to celebrate Apple’s 50th anniversary with special programming",
+        "link": "https://9to5mac.com/2026/02/11/computer-history-museum-to-celebrate-apples-50th-anniversary-with-special-programming/",
+        "description": "With Apple’s 50th anniversary fast approaching, the Computer History Museum is planning a series of programs and a temporary exhibit to celebrate the company’s history. Here are the details.\nmore…",
+        "published": "2026-02-11T22:05:49.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/chm-apple-50.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple releases watchOS 26.3, tvOS 26.3, and visionOS 26.3",
+        "link": "https://9to5mac.com/2026/02/11/apple-releases-watchos-26-3-tvos-26-3-and-visionos-26-3/",
+        "description": "Apple has released its latest wave of software updates. New updates are available for the full lineup of Apple devices, including watchOS 26.3 for Apple Watch, tvOS 26.3 for Apple TV, and visionOS 26.3 for Vision Pro.\nmore…",
+        "published": "2026-02-11T18:11:29.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/watchOS-26.3-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple releases iOS 26.3 for iPhone, here’s what’s new",
+        "link": "https://9to5mac.com/2026/02/11/apple-releases-ios-26-3-for-iphone-heres-whats-new/",
+        "description": "There’s a new software update available for iPhone. Apple has released iOS 26.3, the third big update to Apple’s redesigned operating system and the last before a major improvement to Siri.\nmore…",
+        "published": "2026-02-11T18:07:24.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/iOS-26.3-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "U.S. TikTok Introduces 'Local Feed' to Surface Nearby Events and Content",
+        "link": "https://www.macrumors.com/2026/02/11/tiktok-us-local-feed/",
+        "description": "The U.S. version of TikTok is being updated with a new community-focused \"Local Feed,\" according to a blog post shared by the TikTok USDS Joint Venture.\r\n\r\n\r\nThe Local Feed is designed to let TikTok users \"discover and connect with content, businesses, and services\" wherever they are. Available from a tab on the TikTok home screen, the feed features content related to travel, events, restaurants, and shopping, plus posts from nearby small businesses and local creators.\r\n\r\nTikTok U.S. says that posts are selected based on location, the topic of the content, and when the content was posted. TikTok users who want access to the Local Feed will need to turn on precise location.\r\n\r\n\"This approach is consistent with how many modern apps use location today and gives people the choice to enable it when they want more relevant, local experiences, while keeping them in control,\" reads the blog post.\r\n\r\nPrecise Location is off by default, and the feature is opt-in with location only relayed when the app is in active use. Location data is \"protected in the TikTok USDS JV secure environment.\"\r\n\r\nTikTok U.S. says that it wants to \"make sure TikTok is useful, locally relevant, and trusted.\" A similar \"Nearby Feeds\" feature rolled out for TikTok users in Europe back in December.\r\n\r\nin late January, and the transition hasn't gone smoothly. TikTok users were unable to upload videos and had posts flagged as ineligible for recommendation, an issue that U.S. TikTok said was due to a power outage at a data center.\r\n\r\nTikTok USDS Joint Venture LLC is 80.1 percent owned by U.S. and global investors, including Oracle, Silver Lake, and Abu Dhabi-based MGX. The three companies each own 15 percent as managing investors, and other U.S. stakeholders include the Dell Family Office and affiliates of Susquehanna International Group. TikTok parent company ByteDance continues to hold a 19.9 percent stake.\r\n\r\nA seven-member majority-American board of directors is operating the U.S. version of TikTok, with Adam Presser, TikTok's former global head of operations serving as CEO.\r\n\r\nTag: TikTok\nThis article, \"U.S. TikTok Introduces 'Local Feed' to Surface Nearby Events and Content\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-02-11T22:47:45.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2020/08/tiktok-logo.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "tiktok"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Tesla partners with Tencent to bring WeChat inside over 1 million cars in China",
+        "link": "https://electrek.co/2026/02/11/tesla-partners-with-tencent-to-bring-wechat-inside-over-1-million-cars-in-china/",
+        "description": "Tencent Cloud announced today that it has partnered with Tesla to integrate WeChat-linked features directly into Tesla vehicles in China. The over-the-air update will roll out to over 1 million Model 3 and Model Y vehicles built at Giga Shanghai, delivering one-tap location sharing from WeChat and AI-powered service suggestions — a significant concession by Tesla to China’s dominant digital ecosystem.\nmore…",
+        "published": "2026-02-11T16:21:02.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2024/08/Tesla-cheaper-model-3-interior.jpeg?quality=82&#038;strip=all&#038;w=1440",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "tesla"
         ],
         "category": "ai"
       }
@@ -404,104 +490,340 @@
         "category": "business"
       },
       {
-        "title": "Hinge Health CEO on Earnings, AI's Impact on Business",
-        "link": "https://www.bloomberg.com/news/videos/2026-02-11/hinge-health-ceo-on-earnings-ai-s-impact-on-business-video",
-        "description": "Daniel Perez, co-founder and CEO of Hinge Health, discusses the company’s latest earnings, performance and outlook following the results. He speaks with Scarlet Fu and Katie Greifeld on “The Close.” (Source: Bloomberg)",
-        "published": "2026-02-11T00:12:22.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 4,
+        "title": "Kuzu database company joins Apple’s list of recent acquisitions",
+        "link": "https://9to5mac.com/2026/02/11/kuzu-database-company-joins-apples-list-of-recent-acquisitions/",
+        "description": "Earlier this month, Apple confirmed its blockbuster $2 billion acquisition of the mysterious AI startup Q.ai. In addition to that deal, Apple also recently acquired a database company called Kuzu. Here’s an in-depth list of recent acquisitions made by Apple.\nmore…",
+        "published": "2026-02-11T13:26:53.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/12/Apple-Park.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 9,
         "matchedKeywords": [
-          "ceo"
+          "apple",
+          "acquisition",
+          "billion"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "UK launcher Orbex files for administration after failed funding efforts",
+        "link": "https://spacenews.com/uk-launcher-orbex-files-for-administration-after-failed-funding-efforts/",
+        "description": "MILAN — United Kingdom-based launch company Orbex announced that its business is folding after multiple attempts to stay solvent fell through.  The company announced Feb. 11 that it has filed a notice of intention to appoint administrators — a process in the U.K. that’s similar to declaring bankruptcy — after fundraising, merger and acquisition efforts […]\nThe post UK launcher Orbex files for administration after failed funding efforts appeared first on SpaceNews.",
+        "published": "2026-02-11T21:50:49.000Z",
+        "source": "SpaceNews",
+        "sourceKey": "spacenews",
+        "priority": 2,
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/orbexprime-nov2025.jpeg?fit=1024%2C682&amp;ssl=1",
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "acquisition",
+          "merger"
         ],
         "category": "business"
       }
     ],
     "ev_autonomous": [
       {
-        "title": "Salesforce employees call on CEO Benioff to cancel ICE 'opportunities'",
-        "link": "https://www.cnbc.com/2026/02/10/salesforce-employees-call-on-ceo-benioff-to-cancel-ice-opportunities.html",
-        "description": "More than 1,400 Salesforce employees have signed a letter calling on CEO Marc Benioff to cancel all potential business with the U.S. ICE agency.",
-        "published": "2026-02-11T03:46:34.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_tech",
-        "priority": 1,
-        "image": null,
+        "title": "Hyundai is reportedly looking to supply Waymo with 50,000 IONIQ 5 for robotaxis",
+        "link": "https://electrek.co/2026/02/11/hyundai-supply-waymo-50000-ioniq-5-robotaxis/",
+        "description": "Hyundai Motor is reportedly looking to supply Waymo with 50,000 IONIQ 5 autonomous vehicles by 2028 in what would amount to a roughly $2.5 billion deal, and if it goes through, it would be a massive signal that the robotaxi industry is entering a new phase of real, industrial-scale deployment.\nmore…",
+        "published": "2026-02-11T14:36:42.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2024/10/Hyundais-IONIQ-5-Waymo.jpeg?quality=82&#038;strip=all&#038;w=1400",
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "waymo",
+          "robotaxi",
+          "autonomous vehicle",
+          "billion"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Tesla calls police on IG Metall rep at Giga Berlin works council meeting before critical vote",
+        "link": "https://electrek.co/2026/02/11/tesla-calls-police-ig-metall-rep-at-giga-berlin-works-council-meeting-before-critical-vote/",
+        "description": "Tesla filed a criminal complaint and called police to its Gigafactory Berlin after accusing an IG Metall union representative of secretly recording a closed works council meeting on Tuesday. Police seized the representative’s laptop. The incident comes just three weeks before roughly 11,000 employees vote in a works council election that could reshape the future of the plant.\nThe confrontation marks the latest, and most dramatic, escalation in the increasingly bitter fight between Tesla and Germany’s most powerful industrial union at the automaker’s only European factory.\nmore…",
+        "published": "2026-02-11T20:03:45.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2025/03/Heil-tesla-gigafactory-berlin.png?w=1600",
         "relevanceScore": 8,
         "matchedKeywords": [
-          "salesforce",
-          "ceo"
+          "meta",
+          "tesla"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Jeffrey Epstein Advised an Elon Musk Associate on Taking Tesla Private",
+        "link": "https://www.wired.com/story/jeffrey-epstein-advised-an-elon-musk-associate-on-taking-tesla-private/",
+        "description": "The financier recommended adding Margaret Thatcher to Tesla’s board, even though she had been dead for five years.",
+        "published": "2026-02-11T18:11:45.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "tesla",
+          "elon musk"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Apple Music doubles the penalty for fraudulent streaming",
+        "link": "https://9to5mac.com/2026/02/11/apple-music-doubles-the-penalty-for-fraudulent-streaming/",
+        "description": "Fraudulent streaming is a long-running problem in the music business. In a recent interview, Oliver Schusser, who oversees Apple Music, Apple TV, and more, offered some fascinating insight into Apple’s work to crack down on fake streams on Apple Music.\nThe report also reveals that Apple recently doubled the penalty for Apple Music fraud …\nmore…",
+        "published": "2026-02-11T18:28:21.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/apple-music-app-icon-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Apple is officially working on a sequel to F1: The Movie",
+        "link": "https://9to5mac.com/2026/02/11/apple-is-officially-working-on-a-sequel-to-f1-the-movie/",
+        "description": "Apple has previously teased that it wants to make a sequel to F1: The Movie, but today the film’s producer officially confirmed that one is in the works.\nmore…",
+        "published": "2026-02-11T14:51:31.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/f1-brad-pitt-tim-cook-apple-store-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "[Update: Delayed] Google launches Android 17 Beta for Pixel",
+        "link": "https://9to5google.com/2026/02/11/android-17-beta-1-pixel/",
+        "description": "Given the continuous Android Canary channel, the next major version of Google’s mobile OS is debuting as a Beta release. Android 17 Beta 1 is rolling out today to Pixel devices.\nmore…",
+        "published": "2026-02-11T18:00:00.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Android-17-5.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Samsung’s Galaxy S26 trio could still include a free storage upgrade at launch",
+        "link": "https://9to5google.com/2026/02/11/samsung-galaxy-s26-trio-free-storage-upgrade-at-launch-rumor/",
+        "description": "Samsung’s Galaxy S26 launch is officially set for February 25th, but that still leaves us with two weeks of leaks and speculation until the big reveal. Thankfully, today’s rumors sounds pretty positive. Despite some not-so-great rumors surrounding this year’s pricing, it seems like Samsung could still provide its usual storage upgrades for early adopters at launch — component shortage be damned.\nmore…",
+        "published": "2026-02-11T15:10:00.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/02/Galaxy-S25-review-10.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "samsung"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Samsung confirms Galaxy S26 launch on February 25, up to $900 off with reservation",
+        "link": "https://9to5google.com/2026/02/10/samsung-galaxy-s26-launch-date-confirmed/",
+        "description": "Samsung has officially confirmed that its next Unpacked event will take place on February 25, with the Galaxy S26 series set to be the star of the show.\nmore…",
+        "published": "2026-02-10T23:00:00.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-unpacked-teaser-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "samsung"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Tesla launches Cybertruck V2G program in Texas, earning money with your truck’s battery pack",
+        "link": "https://electrek.co/2026/02/11/tesla-launches-cybertruck-v2g-program-texas-earning-money-truck-battery-pack/",
+        "description": "Tesla has launched its first vehicle-to-grid (V2G) program in the United States, starting in select Texas markets. The “Powershare Grid Support” program allows Cybertruck owners to discharge their truck’s massive 123 kWh battery, equivalent to roughly nine Powerwalls, back to the grid during high-demand events and earn bill credits in return.\nThe announcement, made by Tesla Energy on social media, marks a significant milestone for a company that has been promising bidirectional charging capabilities for years but has consistently delayed delivering them across its vehicle lineup.\nmore…",
+        "published": "2026-02-11T17:41:29.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2024/04/Tesla-Cybertruck-Powershare-installation.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "tesla"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "iPhone 18 Pro 5G via satellite rumor gets new support",
+        "link": "https://9to5mac.com/2026/02/11/iphone-18-pro-5g-via-satellite-rumor-gets-new-support/",
+        "description": "Apple is believed to be on a gradual journey that began with Emergency SOS via Satellite on the iPhone 14 back in 2022 and will at some point progress to full 5G access via satellite, bypassing ground-based antenna altogether.\nIt’s previously been suggested that the iPhone 18 Pro might take a significant step in this direction with support for 5G over satellite links. A new report today adds weight to that idea …\nmore…",
+        "published": "2026-02-11T12:30:01.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/03/SpaceX-trying-to-block-Apple-satellite-messaging-expansion.webp?w=1600",
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "apple",
+          "satellite"
         ],
         "category": "ev_autonomous"
       }
     ],
-    "regulation": [
+    "chips_cloud": [
       {
-        "title": "Samsung to hold its Galaxy S26 event on February 25",
-        "link": "https://techcrunch.com/2026/02/10/samsung-to-hold-its-galaxy-s26-event-on-february-25/",
-        "description": "Samsung is going to launch S26 lineup just before Mobile World Congress (MWC).",
-        "published": "2026-02-11T07:06:44.000Z",
-        "source": "TechCrunch",
-        "sourceKey": "techcrunch",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 5,
+        "title": " Microsoft confirms Windows 11 26H1 will be for Arm devices only at launch — Snapdragon X2-powered devices officially shipping with 26H1 ",
+        "link": "https://www.tomshardware.com/software/windows/microsoft-confirms-windows-11-26h1-will-be-for-arm-devices-only-at-launch-snapdragon-x2-powered-devices-officially-shipping-with-26h1",
+        "description": "Microsoft has released an all-new version of Windows 11, 26H1, that is designed only to support the Snapdragon X2 and unnamed future bleeding-edge hardware. 26H1 will be device-specific, and PCs running Windows 11 25H2 can't upgrade to it.",
+        "published": "2026-02-11T17:56:10.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/A3bqjPsbEd6W9WtTAebSpJ-1280-80.jpg",
+        "relevanceScore": 8,
         "matchedKeywords": [
-          "samsung"
+          "microsoft",
+          "arm"
         ],
-        "category": "regulation"
+        "category": "chips_cloud"
       },
       {
-        "title": "Booming Asian Markets Widen Their Lead Over US and Europe",
-        "link": "https://www.bloomberg.com/news/articles/2026-02-11/investors-rush-to-join-asia-s-ai-boom-as-global-markets-whipsaw",
-        "description": "In what is shaping up to be another blockbuster year, Asia’s markets are outpacing peers in the US and Europe, drawing global investors as extreme swings rattle assets from tech stocks to metals.",
-        "published": "2026-02-11T00:19:28.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 3,
+        "title": " Intel Nova Lake die sizes leak, signaling higher cost — smaller compute tile still demands higher price on TSMC N2 ",
+        "link": "https://www.tomshardware.com/pc-components/cpus/intel-nova-lake-die-sizes-leak-signaling-higher-cost-smaller-compute-tile-still-demands-higher-price-on-tsmc-n2",
+        "description": "The compute tile of Intel's Nova Lake CPU will be slightly smaller than compute tile of Arrow Lake CPU, but will likely be more expensive to make at TSMC.",
+        "published": "2026-02-11T16:13:20.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/rUzVDpwrJBke8kCerp8yzL-1280-80.jpg",
+        "relevanceScore": 8,
         "matchedKeywords": [
-          "meta"
+          "intel",
+          "tsmc"
         ],
-        "category": "regulation"
+        "category": "chips_cloud"
+      },
+      {
+        "title": " Our testing shows the Ryzen 7 9800X3D can match the pricier Ryzen 7 9850X3D with simple PBO settings — AMD's latest CPU can't leverage extra clock speed in games ",
+        "link": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-9850x3d-pbo-overclock-testing",
+        "description": "The Ryzen 7 9850X3D is the fastest gaming CPU around, but the Ryzen 7 9800X3D can match it if you simply flick on PBO. Our benchmarking shows that the Ryzen 7 9800X3D can make up the performance gap without manual overclocking in games.",
+        "published": "2026-02-11T13:30:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/7k8sTnJ6KjRrHv4pdqLRba-1280-80.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "amd"
+        ],
+        "category": "chips_cloud"
       }
     ],
-    "crypto": [
+    "space": [
       {
-        "title": "Robinhood’s Crypto Chief on Market Turmoil",
-        "link": "https://www.bloomberg.com/news/videos/2026-02-11/robinhood-s-crypto-chief-on-market-turmoil-video",
-        "description": "Robinhood’s Senior VP and GM for Crypto, Johann Kerbrat, speaks with Bloomberg’s Annabelle Droulers at Consensus Hong Kong about the recent crypto rout, shifting retail and institutional flows, and how Robinhood plans to grow despite market volatility. He discusses the firm’s move into blockchain infrastructure, tokenized assets, and expansion across Asia, including acquisitions in Indonesia and Singapore. Kerbrat also shares how AI is transforming Robinhood’s operations and customer tools on Insight with Haslinda Amin. (Source: Bloomberg)",
-        "published": "2026-02-11T06:50:25.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 5,
+        "title": "SpaceX IPO may suck oxygen from market before unleashing broad capital surge",
+        "link": "https://spacenews.com/spacex-ipo-may-suck-oxygen-from-market-before-unleashing-broad-capital-surge/",
+        "description": "Space investors and dealmakers anticipate SpaceX’s planned IPO this year will trigger a surge of capital across the industry, but not without the risk of pulling investor attention away from other companies in the run-up.\nThe post SpaceX IPO may suck oxygen from market before unleashing broad capital surge appeared first on SpaceNews.",
+        "published": "2026-02-11T22:49:50.000Z",
+        "source": "SpaceNews",
+        "sourceKey": "spacenews",
+        "priority": 2,
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Tyler-Smallsat-2026-scaled.jpg?fit=1024%2C566&amp;ssl=1",
+        "relevanceScore": 8,
         "matchedKeywords": [
-          "acquisition"
+          "spacex",
+          "ipo"
         ],
-        "category": "crypto"
+        "category": "space"
       },
       {
-        "title": "Bullish CEO Sees Consolidation for Bitcoin in 2026",
-        "link": "https://www.bloomberg.com/news/videos/2026-02-11/bullish-ceo-sees-consolidation-for-bitcoin-in-2026-video",
-        "description": "Bullish CEO Tom Farley says 2026 will be a year of consolidation for crypto assets. He tells Bloomberg about his outlook for Bitcoin amid the recent slump. He speaks from the sidelines of “Consensus Hong Kong” with Bloomberg’s Annabelle Droulers. (Source: Bloomberg)",
-        "published": "2026-02-11T04:29:15.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 5,
+        "title": "Apple’s most affordable products are about to get a lot more exciting",
+        "link": "https://9to5mac.com/2026/02/11/apples-most-affordable-products-are-about-to-get-a-lot-more-exciting/",
+        "description": "Apple has a lot of new products rumored to launch soon, and among them, the most affordable iPhone, iPad, and MacBook models will get a lot more exciting. Here’s what’s coming.\nmore…",
+        "published": "2026-02-11T15:29:27.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/03/tim-cook-apple-fifth-ave-joz.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
         "matchedKeywords": [
-          "ceo",
-          "bitcoin"
+          "apple"
         ],
-        "category": "crypto"
+        "category": "space"
+      },
+      {
+        "title": "Instagram, YouTube, TikTok, and more agree to be graded on mental health impacts",
+        "link": "https://9to5mac.com/2026/02/11/instagram-youtube-tiktok-and-more-agree-to-be-graded-on-mental-health-impacts/",
+        "description": "A number of major tech companies have agreed to submit to independent grading of the mental health impacts of using their apps. Platforms on board at the launch of the Safe Online Standards initiative include Discord, YouTube, Instagram, TikTok, Pinterest, Roblox, and Twitch …\nmore…",
+        "published": "2026-02-11T14:36:46.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/Meta-YouTube-TikTok-and-more-agree-to-be-graded-on-mental-health-impacts.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "tiktok"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "Google cancels today’s Android 17 Beta 1 release",
+        "link": "https://9to5google.com/2026/02/11/android-17-beta-1-cancel/",
+        "description": "Android 17 Beta 1 was supposed to launch today, but Google has since pulled the release.\nmore…",
+        "published": "2026-02-11T19:14:20.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Android-17-logo.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "How much is vertical integration squeezing the smallsat opportunity?",
+        "link": "https://spacenews.com/how-much-is-vertical-integration-squeezing-the-smallsat-opportunity/",
+        "description": "As SpaceX and other vertically integrated space giants expand their reach, questions are growing over just how much room other small satellite companies have to build scalable businesses.\nThe post How much is vertical integration squeezing the smallsat opportunity? appeared first on SpaceNews.",
+        "published": "2026-02-11T16:36:22.000Z",
+        "source": "SpaceNews",
+        "sourceKey": "spacenews",
+        "priority": 2,
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Armand-M-Symposium-2026-scaled.jpg?fit=1024%2C570&amp;ssl=1",
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "spacex",
+          "satellite"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "Reusable launch vehicles will change everything in space, and on Earth",
+        "link": "https://spacenews.com/reusable-launch-vehicles-will-change-everything-in-space-and-on-earth/",
+        "description": "“When you have a fully reusable vehicle … you can send it anywhere … to the moon … past Mars”  —Jared Isaacman, NASA Administrator. Imagine a future where thousands of people travel to space every year. Some stay a week. Some a month. Some never come back — they stay, build and live. Space is […]\nThe post Reusable launch vehicles will change everything in space, and on Earth appeared first on SpaceNews.",
+        "published": "2026-02-11T14:00:00.000Z",
+        "source": "SpaceNews",
+        "sourceKey": "spacenews",
+        "priority": 2,
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/flight11preview.jpeg?fit=1024%2C576&amp;ssl=1",
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "agi"
+        ],
+        "category": "space"
       }
     ]
   },
-  "totalArticles": 20
+  "totalArticles": 49
 }

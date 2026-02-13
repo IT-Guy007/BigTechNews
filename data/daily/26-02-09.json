@@ -4,314 +4,442 @@
   "title": "Monday, Feb 9",
   "dateRange": "February 9, 2026",
   "date": "2026-02-09",
-  "generatedAt": "2026-02-09T07:36:35.029Z",
+  "generatedAt": "2026-02-13T12:26:16.649Z",
   "highlights": [
     {
-      "title": "Samsung Stock Rises After Report on Mass Production of AI Chips",
-      "link": "https://www.bloomberg.com/news/articles/2026-02-09/samsung-stock-rises-after-report-on-mass-production-of-ai-chips",
-      "description": "Samsung Electronics Co.’s shares climbed as much as 6.4% after a report that the company will soon begin mass production of HBM4 memory chips, used as part of the buildout for artificial intelligence infrastructure.",
-      "published": "2026-02-09T00:29:52.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 9,
+      "title": "You might start seeing ChatGPT ads today",
+      "link": "https://9to5google.com/2026/02/09/you-might-start-seeing-chatgpt-ads-today/",
+      "description": "Last month, OpenAI announced that ChatGPT would start testing ads in a move that CEO Sam Altman had previously called “a last resort” for the company, and now those ads are apparently going to start rolling out.\nmore…",
+      "published": "2026-02-09T15:30:00.000Z",
+      "source": "9to5Google",
+      "sourceKey": "9to5google",
+      "priority": 2,
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/01/chatgpt-ads-test-2.jpg?quality=82&#038;strip=all&#038;w=1280",
+      "relevanceScore": 14,
       "matchedKeywords": [
-        "intel",
-        "samsung",
-        "artificial intelligence",
-        "chip"
+        "openai",
+        "chatgpt",
+        "ceo",
+        "sam altman"
       ],
       "category": "ai"
     },
     {
-      "title": "OpenAI’s supposedly ‘leaked’ Super Bowl ad with ear buds and a shiny orb was a hoax",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/875615/openai-super-bowl-ai-hardware-leak-hoax-fake",
-      "description": "As if OpenAI didn't have enough drama around the Super Bowl and advertising, as the game wound down, word spread of a \"leaked\" ad that actually wasn't leaked at all; it was just a fake. Screenshots of a now-deleted Reddit thread told the tale of a frustrated employee who, while posting about how upset they were because the ad they'd worked on didn't run, accidentally leaked the entire advertisement video, seemingly showing Murderbot star Alexander Skarsgård with what could have been OpenAI's first hardware device, portrayed as a shiny orb that went with some wraparound earbuds. \nOpenAI president Greg Brockman commented on X with a tweet cal …\nRead the full story at The Verge.",
-      "published": "2026-02-09T04:54:36.000Z",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "priority": 1,
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "title": "Rivian launching Apple Watch app with remote controls and Gen 1 digital key feature",
+      "link": "https://9to5mac.com/2026/02/09/rivian-launching-apple-watch-app-with-remote-controls-and-gen-1-digital-key-feature/",
+      "description": "Back in December, Rivian released support for using an Apple Watch as a digital key. Next, the EV maker is launching a dedicated Apple Watch app with remote access and control capabilities. \nmore…",
+      "published": "2026-02-09T22:59:24.000Z",
+      "source": "9to5Mac",
+      "sourceKey": "9to5mac",
+      "priority": 2,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/Rivian-hands-free-watch.jpg?quality=82&#038;strip=all&#038;w=1400",
       "relevanceScore": 8,
       "matchedKeywords": [
-        "openai"
+        "apple",
+        "rivian"
       ],
-      "category": "ai"
+      "category": "ev_autonomous"
     },
     {
-      "title": "Nvidia-Backed AI Startup Gets $10 Billion in Blackstone-Led Loan",
-      "link": "https://www.bloomberg.com/news/articles/2026-02-09/blackstone-coatue-grant-10-billion-loan-to-australia-ai-firm",
-      "description": "Australian AI startup Firmus Technologies Pty. secured a $10 billion loan from a group including Blackstone Inc.-led funds to boost its data center rollout in one of the country’s largest private credit financings.",
-      "published": "2026-02-09T01:50:44.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
+      "title": "BYD outsells Tesla 10-to-1 in Australia as Chinese EVs dominate January sales",
+      "link": "https://electrek.co/2026/02/09/byd-outsells-tesla-10-to-1-in-australia-as-chinese-evs-dominate-january-sales/",
+      "description": "BYD sold 5,001 vehicles in Australia in January, a staggering 641% increase year-over-year, while Tesla managed just 501, leaving the American automaker in 24th place as Chinese brands continue their takeover of the Australian EV market.\nmore…",
+      "published": "2026-02-09T14:21:14.000Z",
+      "source": "Electrek",
+      "sourceKey": "electrek",
+      "priority": 2,
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/01/BYD-new-flagship-EVs.jpeg?quality=82&#038;strip=all&#038;w=1400",
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "tesla",
+        "byd"
+      ],
+      "category": "ev_autonomous"
+    },
+    {
+      "title": "DOJ faces investigation over removal of ICE-tracking apps from the App Store",
+      "link": "https://9to5mac.com/2026/02/09/doj-faces-investigation-over-removal-of-ice-tracking-apps-from-the-app-store/",
+      "description": "POLITICO reports that House Judiciary Committee ranking member Jamie Raskin (D-Md.) has launched an investigation into whether the Department of Justice pressured Apple and Google to remove ICEBlock and similar apps from the App Store and Play Store. Here are the details.\nmore…",
+      "published": "2026-02-09T19:59:55.000Z",
+      "source": "9to5Mac",
+      "sourceKey": "9to5mac",
+      "priority": 2,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/Former-veteran-Apple-marketing-exec-challenges-Tim-Cook-on-human-rights-over-ICEBlock.jpg?quality=82&#038;strip=all&#038;w=1600",
       "relevanceScore": 7,
       "matchedKeywords": [
-        "nvidia",
-        "data center",
-        "billion"
-      ],
-      "category": "chips_cloud"
-    },
-    {
-      "title": "ByteDance’s New Video Model Sparks Rally in China AI App Stocks",
-      "link": "https://www.bloomberg.com/news/articles/2026-02-09/bytedance-s-new-video-model-sparks-rally-in-china-ai-app-stocks",
-      "description": "ByteDance Ltd.’s latest video generation model triggered gains in shares of Chinese media and artificial-intelligence application firms, after impressing analysts with the quality of content creation.",
-      "published": "2026-02-09T03:53:18.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 7,
-      "matchedKeywords": [
-        "intel",
-        "bytedance"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": "China Digital Exports Surge As Alibaba, Tencent Lead Global Push",
-      "link": "https://www.bloomberg.com/news/articles/2026-02-09/china-digital-exports-surge-as-alibaba-tencent-lead-global-push",
-      "description": "Chinese revenue from digital services sold abroad is soaring as tech champions from ByteDance Ltd. to Tencent Holdings Ltd. ramp up their overseas push in live streaming, e-commerce and artificial intelligence.",
-      "published": "2026-02-09T02:05:11.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 6,
-      "matchedKeywords": [
-        "intel",
-        "bytedance",
-        "artificial intelligence"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": "Abu Dhabi’s G42 Leads $1 Billion Data Center Project in Vietnam",
-      "link": "https://www.bloomberg.com/news/articles/2026-02-09/abu-dhabi-s-g42-leads-1-billion-data-center-project-in-vietnam",
-      "description": "G42 is leading a project with commitments of as much as $1 billion to build data centers and cloud computing services in Vietnam, part of an effort by the United Arab Emirates artificial intelligence champion to expand beyond the Gulf nation.",
-      "published": "2026-02-09T00:40:00.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 6,
-      "matchedKeywords": [
-        "intel",
-        "artificial intelligence",
-        "data center",
-        "billion"
-      ],
-      "category": "chips_cloud"
-    },
-    {
-      "title": "Epstein's Silicon Valley connections went beyond Gates and Musk",
-      "link": "https://www.cnbc.com/2026/02/09/tech-leaders-epstein-records-silicon-valley-sergey-brin-thiel-sinofsky-reid-hoffman-musk-gates.html",
-      "description": "The new Epstein files released by the DOJ show that the deceased financier was able to build relationships across Silicon Valley, from Bill Gates to Peter Thiel.",
-      "published": "2026-02-09T06:54:16.000Z",
-      "source": "CNBC",
-      "sourceKey": "cnbc_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 4,
-      "matchedKeywords": [
+        "google",
+        "apple",
         "doj"
       ],
-      "category": "regulation"
+      "category": "ai"
     },
     {
-      "title": "iOS 27 to Focus on Bug Fixes, Performance, and Design Tweaks",
-      "link": "https://www.macrumors.com/2026/02/08/ios-27-to-focus-on-bug-fixes-and-tweaks/",
-      "description": "Apple's new software updates to be previewed at 2026's Worldwide Developers Conference (WWDC) could be relatively modest, Bloomberg's Mark Gurman claims.\r\n\r\n\r\nIn today's \"Power On\" newsletter, Gurman said that iOS 27 will be unveiled at WWDC this year, and while it will deliver further Apple Intelligence improvements, the event will be \"a fairly muted affair this year.\" The headline new software features will apparently be a \"more personalized Siri with a chatbot interface,\" as previously rumored, but the software platforms will generally focus on performance improvements, bug fixes, and fine-tuning the design.  \r\n\r\nduring the week of February 23, featuring \"some components\" of the long-anticipated improvements to ‌Siri‌.\r\n\r\nWWDC 2026 is likely to be announced toward the end of March and take place in the first or second week of June. The major new software updates unveiled at the event will probably be available to developers in beta immediately after the keynote address, and release to the public in the fall. \r\n\r\n\nTags: iOS 27, WWDC 2026\nThis article, \"iOS 27 to Focus on Bug Fixes, Performance, and Design Tweaks\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-      "published": "2026-02-09T02:45:00.000Z",
-      "source": "MacRumors",
-      "sourceKey": "macrumors",
+      "title": "BYD hits a milestone with solid-state EV batteries due out as soon as 2027",
+      "link": "https://electrek.co/2026/02/09/byd-hits-solid-state-ev-battery-milestone-due-out-as-soon-as-2027/",
+      "description": "The world’s leading EV maker is preparing to introduce new battery chemistries to stay a step ahead of the competition. After a series of breakthroughs, BYD is expected to begin producing solid-state EV batteries as soon as next year.\nmore…",
+      "published": "2026-02-09T20:09:22.000Z",
+      "source": "Electrek",
+      "sourceKey": "electrek",
       "priority": 2,
-      "image": "https://images.macrumors.com/article-new/2025/11/iOS-27-Mock-Quick.jpg",
-      "relevanceScore": 4,
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/BYD-solid-state-EV-batteries.jpeg?quality=82&#038;strip=all&#038;w=1400",
+      "relevanceScore": 7,
+      "matchedKeywords": [
+        "byd",
+        "breakthrough"
+      ],
+      "category": "ev_autonomous"
+    },
+    {
+      "title": "Leak suggests Apple’s M5 Pro and M5 Max may be the same chip",
+      "link": "https://9to5mac.com/2026/02/09/leak-suggests-apples-m5-pro-and-m5-max-may-be-the-same-chip/",
+      "description": "It’s previously been suggested that the upcoming M5 Pro and M5 Max MacBook Pro models will allow you to make a more flexible choice of CPU and GPU cores. A recent change to Apple’s website seems to support this theory.\nA new report suggests that the change could be even more radical, and that the M5 Pro and M5 Max might be not two distinct chips but rather variants of the same one …\nmore…",
+      "published": "2026-02-09T13:11:40.000Z",
+      "source": "9to5Mac",
+      "sourceKey": "9to5mac",
+      "priority": 2,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/m5_max.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "relevanceScore": 6,
       "matchedKeywords": [
         "apple",
-        "intel"
+        "chip",
+        "gpu"
+      ],
+      "category": "chips_cloud"
+    },
+    {
+      "title": "Samsung might bring back Galaxy S9’s variable aperture camera just to copy iPhone",
+      "link": "https://9to5google.com/2026/02/09/samsung-variable-aperture-iphone-report/",
+      "description": "Back in 2018, Samsung’s big new camera feature on the Galaxy S9 was the ability to change the physical aperture of the camera on the fly, and now, it might be making a comeback, thanks to Apple.\nmore…",
+      "published": "2026-02-09T18:40:00.000Z",
+      "source": "9to5Google",
+      "sourceKey": "9to5google",
+      "priority": 2,
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2018/07/samsung_galaxy_s9_plus_04-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "relevanceScore": 6,
+      "matchedKeywords": [
+        "apple",
+        "samsung"
+      ],
+      "category": null
+    },
+    {
+      "title": "Apple TV is about to bring back two of its best sci-fi series",
+      "link": "https://9to5mac.com/2026/02/09/apple-tv-is-about-to-bring-back-two-of-its-best-sci-fi-series/",
+      "description": "Apple TV has a deep bench of acclaimed sci-fi series, and two of its best are coming back soon: the Godzilla-starring Monarch: Legacy of Monsters and space race drama For All Mankind.\nmore…",
+      "published": "2026-02-09T21:26:49.000Z",
+      "source": "9to5Mac",
+      "sourceKey": "9to5mac",
+      "priority": 2,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-tv-tvos26-screensaver-01.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "apple"
       ],
       "category": "ai"
     },
     {
-      "title": "Here's why the quantum threat for bitcoin may be smaller than people fear",
-      "link": "https://www.coindesk.com/markets/2026/02/09/the-quantum-threat-to-bitcoin-is-smaller-than-people-think-coinshares",
-      "description": "The key point is that most of the potentially exposed bitcoin isn’t sitting in a handful of giant, juicy targets. It’s scattered across more than 32,000 separate wallets.",
-      "published": "2026-02-09T06:29:43.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "priority": 3,
-      "image": null,
+      "title": "Apple highlights how England Rugby uses iPads and Macs to analyze live match data",
+      "link": "https://9to5mac.com/2026/02/09/apple-highlights-how-england-rugby-uses-ipads-and-macs-to-analyze-live-match-data/",
+      "description": "Apple has kicked off a new campaign, titled Apple at Play, showcasing how England Rugby uses Apple devices for in-game analysis. Watch it below.\nmore…",
+      "published": "2026-02-09T20:41:17.000Z",
+      "source": "9to5Mac",
+      "sourceKey": "9to5mac",
+      "priority": 2,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/apple-at-play-england-rugby.jpg?quality=82&#038;strip=all&#038;w=1600",
       "relevanceScore": 4,
       "matchedKeywords": [
-        "quantum",
-        "bitcoin"
+        "apple"
       ],
-      "category": "crypto"
+      "category": "ai"
+    },
+    {
+      "title": "Apple’s new ‘MacBook’ is coming: Here’s every rumored feature",
+      "link": "https://9to5mac.com/2026/02/09/apples-new-macbook-is-coming-heres-every-rumored-feature/",
+      "description": "Apple is rumored to have a brand new ‘MacBook’ launching soon—a Mac laptop with no Air or Pro suffix. Here’s everything we know right now.\nmore…",
+      "published": "2026-02-09T20:29:45.000Z",
+      "source": "9to5Mac",
+      "sourceKey": "9to5mac",
+      "priority": 2,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/06/Screenshot-2023-06-05-at-1.06.09-PM.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "apple"
+      ],
+      "category": "ai"
     }
   ],
   "byCategory": {
     "ai": [
       {
-        "title": "Samsung Stock Rises After Report on Mass Production of AI Chips",
-        "link": "https://www.bloomberg.com/news/articles/2026-02-09/samsung-stock-rises-after-report-on-mass-production-of-ai-chips",
-        "description": "Samsung Electronics Co.’s shares climbed as much as 6.4% after a report that the company will soon begin mass production of HBM4 memory chips, used as part of the buildout for artificial intelligence infrastructure.",
-        "published": "2026-02-09T00:29:52.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 9,
+        "title": "You might start seeing ChatGPT ads today",
+        "link": "https://9to5google.com/2026/02/09/you-might-start-seeing-chatgpt-ads-today/",
+        "description": "Last month, OpenAI announced that ChatGPT would start testing ads in a move that CEO Sam Altman had previously called “a last resort” for the company, and now those ads are apparently going to start rolling out.\nmore…",
+        "published": "2026-02-09T15:30:00.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/01/chatgpt-ads-test-2.jpg?quality=82&#038;strip=all&#038;w=1280",
+        "relevanceScore": 14,
         "matchedKeywords": [
-          "intel",
-          "samsung",
-          "artificial intelligence",
-          "chip"
+          "openai",
+          "chatgpt",
+          "ceo",
+          "sam altman"
         ],
         "category": "ai"
       },
       {
-        "title": "OpenAI’s supposedly ‘leaked’ Super Bowl ad with ear buds and a shiny orb was a hoax",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/875615/openai-super-bowl-ai-hardware-leak-hoax-fake",
-        "description": "As if OpenAI didn't have enough drama around the Super Bowl and advertising, as the game wound down, word spread of a \"leaked\" ad that actually wasn't leaked at all; it was just a fake. Screenshots of a now-deleted Reddit thread told the tale of a frustrated employee who, while posting about how upset they were because the ad they'd worked on didn't run, accidentally leaked the entire advertisement video, seemingly showing Murderbot star Alexander Skarsgård with what could have been OpenAI's first hardware device, portrayed as a shiny orb that went with some wraparound earbuds. \nOpenAI president Greg Brockman commented on X with a tweet cal …\nRead the full story at The Verge.",
-        "published": "2026-02-09T04:54:36.000Z",
-        "source": "The Verge",
-        "sourceKey": "theverge",
-        "priority": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "relevanceScore": 8,
-        "matchedKeywords": [
-          "openai"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "ByteDance’s New Video Model Sparks Rally in China AI App Stocks",
-        "link": "https://www.bloomberg.com/news/articles/2026-02-09/bytedance-s-new-video-model-sparks-rally-in-china-ai-app-stocks",
-        "description": "ByteDance Ltd.’s latest video generation model triggered gains in shares of Chinese media and artificial-intelligence application firms, after impressing analysts with the quality of content creation.",
-        "published": "2026-02-09T03:53:18.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
+        "title": "DOJ faces investigation over removal of ICE-tracking apps from the App Store",
+        "link": "https://9to5mac.com/2026/02/09/doj-faces-investigation-over-removal-of-ice-tracking-apps-from-the-app-store/",
+        "description": "POLITICO reports that House Judiciary Committee ranking member Jamie Raskin (D-Md.) has launched an investigation into whether the Department of Justice pressured Apple and Google to remove ICEBlock and similar apps from the App Store and Play Store. Here are the details.\nmore…",
+        "published": "2026-02-09T19:59:55.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/Former-veteran-Apple-marketing-exec-challenges-Tim-Cook-on-human-rights-over-ICEBlock.jpg?quality=82&#038;strip=all&#038;w=1600",
         "relevanceScore": 7,
         "matchedKeywords": [
-          "intel",
-          "bytedance"
+          "google",
+          "apple",
+          "doj"
         ],
         "category": "ai"
       },
       {
-        "title": "China Digital Exports Surge As Alibaba, Tencent Lead Global Push",
-        "link": "https://www.bloomberg.com/news/articles/2026-02-09/china-digital-exports-surge-as-alibaba-tencent-lead-global-push",
-        "description": "Chinese revenue from digital services sold abroad is soaring as tech champions from ByteDance Ltd. to Tencent Holdings Ltd. ramp up their overseas push in live streaming, e-commerce and artificial intelligence.",
-        "published": "2026-02-09T02:05:11.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 6,
-        "matchedKeywords": [
-          "intel",
-          "bytedance",
-          "artificial intelligence"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "iOS 27 to Focus on Bug Fixes, Performance, and Design Tweaks",
-        "link": "https://www.macrumors.com/2026/02/08/ios-27-to-focus-on-bug-fixes-and-tweaks/",
-        "description": "Apple's new software updates to be previewed at 2026's Worldwide Developers Conference (WWDC) could be relatively modest, Bloomberg's Mark Gurman claims.\r\n\r\n\r\nIn today's \"Power On\" newsletter, Gurman said that iOS 27 will be unveiled at WWDC this year, and while it will deliver further Apple Intelligence improvements, the event will be \"a fairly muted affair this year.\" The headline new software features will apparently be a \"more personalized Siri with a chatbot interface,\" as previously rumored, but the software platforms will generally focus on performance improvements, bug fixes, and fine-tuning the design.  \r\n\r\nduring the week of February 23, featuring \"some components\" of the long-anticipated improvements to ‌Siri‌.\r\n\r\nWWDC 2026 is likely to be announced toward the end of March and take place in the first or second week of June. The major new software updates unveiled at the event will probably be available to developers in beta immediately after the keynote address, and release to the public in the fall. \r\n\r\n\nTags: iOS 27, WWDC 2026\nThis article, \"iOS 27 to Focus on Bug Fixes, Performance, and Design Tweaks\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-        "published": "2026-02-09T02:45:00.000Z",
-        "source": "MacRumors",
-        "sourceKey": "macrumors",
+        "title": "Apple TV is about to bring back two of its best sci-fi series",
+        "link": "https://9to5mac.com/2026/02/09/apple-tv-is-about-to-bring-back-two-of-its-best-sci-fi-series/",
+        "description": "Apple TV has a deep bench of acclaimed sci-fi series, and two of its best are coming back soon: the Godzilla-starring Monarch: Legacy of Monsters and space race drama For All Mankind.\nmore…",
+        "published": "2026-02-09T21:26:49.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
         "priority": 2,
-        "image": "https://images.macrumors.com/article-new/2025/11/iOS-27-Mock-Quick.jpg",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-tv-tvos26-screensaver-01.jpg?quality=82&#038;strip=all&#038;w=1600",
         "relevanceScore": 4,
         "matchedKeywords": [
-          "apple",
-          "intel"
+          "apple"
         ],
         "category": "ai"
+      },
+      {
+        "title": "Apple highlights how England Rugby uses iPads and Macs to analyze live match data",
+        "link": "https://9to5mac.com/2026/02/09/apple-highlights-how-england-rugby-uses-ipads-and-macs-to-analyze-live-match-data/",
+        "description": "Apple has kicked off a new campaign, titled Apple at Play, showcasing how England Rugby uses Apple devices for in-game analysis. Watch it below.\nmore…",
+        "published": "2026-02-09T20:41:17.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/apple-at-play-england-rugby.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple’s new ‘MacBook’ is coming: Here’s every rumored feature",
+        "link": "https://9to5mac.com/2026/02/09/apples-new-macbook-is-coming-heres-every-rumored-feature/",
+        "description": "Apple is rumored to have a brand new ‘MacBook’ launching soon—a Mac laptop with no Air or Pro suffix. Here’s everything we know right now.\nmore…",
+        "published": "2026-02-09T20:29:45.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/06/Screenshot-2023-06-05-at-1.06.09-PM.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "It sounds like Apple will continue a positive CarPlay trend around iOS 27",
+        "link": "https://9to5mac.com/2026/02/09/carplay-improvements-coming/",
+        "description": "When Apple previewed “next-generation CarPlay” in 2022, it felt like Apple froze development of the CarPlay version actually used by drivers. Eventually, next-gen CarPlay became CarPlay Ultra, and CarPlay for non-Aston Martin drivers rapidly started to see new improvements again. Now it sounds like that trend will continue either before or as part of iOS 27.\nmore…",
+        "published": "2026-02-09T20:10:00.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/bmw-carplay.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple Music lets you get 3 free months and import your music library, here’s how",
+        "link": "https://9to5mac.com/2026/02/09/apple-music-lets-you-get-3-free-months-and-import-your-music-library-heres-how/",
+        "description": "Apple Music had a big presence at the Super Bowl, promoting two offers for potential switchers: the ability to transfer your music library and playlists, plus get three months free. Here are the details.\nmore…",
+        "published": "2026-02-09T17:53:59.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/apple-music-app-icon-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple’s next AirPods Pro will come with cameras, says leaker",
+        "link": "https://9to5mac.com/2026/02/09/apples-next-airpods-pro-will-come-with-cameras-says-leaker/",
+        "description": "Apple is rumored to have new AirPods Pro coming this year, and a leaker just corroborated the main new feature we’ve been expecting: built-in cameras.\nmore…",
+        "published": "2026-02-09T15:11:44.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/Getting-the-best-fit-for-your-AirPods-Pro-3.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "New Apple-backed AI model can generate sound and speech from silent videos",
+        "link": "https://9to5mac.com/2026/02/09/new-apple-backed-ai-model-can-generate-sound-and-speech-from-silent-videos/",
+        "description": "The new model, called VSSFlow, leverages a creative architecture to generate sounds and speech with a single unified system, with state-of-the-art results. Watch (and hear) some demos below.\nmore…",
+        "published": "2026-02-09T14:47:05.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/vssflow-fi.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Jony Ive Ferrari interior might be a glimpse of the Apple Car that never was",
+        "link": "https://9to5mac.com/2026/02/09/jony-ive-ferrari-interior-might-be-a-glimpse-of-the-apple-car-that-never-was/",
+        "description": "Jony Ive would have done years of work on the design of the Apple Car interior before the project was finally abandoned. While we’ll almost certainly never see those designs, a new electric Ferrari may provide a good clue as to the aesthetic of the interior.\nThe cockpit of the upcoming Ferrari Luce was designed by Ives’ consultancy Lovefrom, and it likely echoes a number of the elements we could have expected to see in an Apple car … \nmore…",
+        "published": "2026-02-09T13:53:06.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/Jony-Ive-Ferrari-interior-might-be-a-glimpse-of-the-Apple-Car-that-never-was.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Gemini on Android desktop will have persistent icon, keyboard shortcut",
+        "link": "https://9to5google.com/2026/02/09/gemini-icon-android-desktop/",
+        "description": "When the Android desktop interface leaked last month, there was a Gemini icon in the status bar. We now know a bit more about that persistent access.\nmore…",
+        "published": "2026-02-09T22:10:00.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/06/android-16-qpr1-desktop-mode-8.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "gemini"
+        ],
+        "category": "ai"
+      }
+    ],
+    "ev_autonomous": [
+      {
+        "title": "Rivian launching Apple Watch app with remote controls and Gen 1 digital key feature",
+        "link": "https://9to5mac.com/2026/02/09/rivian-launching-apple-watch-app-with-remote-controls-and-gen-1-digital-key-feature/",
+        "description": "Back in December, Rivian released support for using an Apple Watch as a digital key. Next, the EV maker is launching a dedicated Apple Watch app with remote access and control capabilities. \nmore…",
+        "published": "2026-02-09T22:59:24.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/Rivian-hands-free-watch.jpg?quality=82&#038;strip=all&#038;w=1400",
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "apple",
+          "rivian"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "BYD outsells Tesla 10-to-1 in Australia as Chinese EVs dominate January sales",
+        "link": "https://electrek.co/2026/02/09/byd-outsells-tesla-10-to-1-in-australia-as-chinese-evs-dominate-january-sales/",
+        "description": "BYD sold 5,001 vehicles in Australia in January, a staggering 641% increase year-over-year, while Tesla managed just 501, leaving the American automaker in 24th place as Chinese brands continue their takeover of the Australian EV market.\nmore…",
+        "published": "2026-02-09T14:21:14.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/01/BYD-new-flagship-EVs.jpeg?quality=82&#038;strip=all&#038;w=1400",
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "tesla",
+          "byd"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "BYD hits a milestone with solid-state EV batteries due out as soon as 2027",
+        "link": "https://electrek.co/2026/02/09/byd-hits-solid-state-ev-battery-milestone-due-out-as-soon-as-2027/",
+        "description": "The world’s leading EV maker is preparing to introduce new battery chemistries to stay a step ahead of the competition. After a series of breakthroughs, BYD is expected to begin producing solid-state EV batteries as soon as next year.\nmore…",
+        "published": "2026-02-09T20:09:22.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/BYD-solid-state-EV-batteries.jpeg?quality=82&#038;strip=all&#038;w=1400",
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "byd",
+          "breakthrough"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Rivian R2 enters final validation testing, spotted uncamouflaged on streets",
+        "link": "https://electrek.co/2026/02/09/rivian-r2-enters-final-validation-testing-spotted-uncamouflaged-on-streets/",
+        "description": "Rivian’s upcoming R2 SUV is undergoing final validation testing, ahead of its planned release in the first half of this year – with at least one vehicle spotted without camouflage (but with a wrap) on public roads in recent days.\nmore…",
+        "published": "2026-02-09T20:08:32.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/rivian-r2-testing-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "rivian"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Tesla reveals final Semi specs with two trims ahead of customer deliveries",
+        "link": "https://electrek.co/2026/02/09/tesla-reveals-final-semi-specs-with-two-trims-ahead-of-customer-deliveries/",
+        "description": "Tesla has quietly updated its official Semi website with final specifications for the production version of its all-electric Class 8 truck, confirming two trim levels — Standard Range and Long Range — as customer deliveries approach.\nmore…",
+        "published": "2026-02-09T13:19:42.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/01/Tesla-Semi-Megacharger-with-Pilot-truck-stops.jpg?quality=82&#038;strip=all&#038;w=1137",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "tesla"
+        ],
+        "category": "ev_autonomous"
       }
     ],
     "chips_cloud": [
       {
-        "title": "Nvidia-Backed AI Startup Gets $10 Billion in Blackstone-Led Loan",
-        "link": "https://www.bloomberg.com/news/articles/2026-02-09/blackstone-coatue-grant-10-billion-loan-to-australia-ai-firm",
-        "description": "Australian AI startup Firmus Technologies Pty. secured a $10 billion loan from a group including Blackstone Inc.-led funds to boost its data center rollout in one of the country’s largest private credit financings.",
-        "published": "2026-02-09T01:50:44.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "nvidia",
-          "data center",
-          "billion"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": "Abu Dhabi’s G42 Leads $1 Billion Data Center Project in Vietnam",
-        "link": "https://www.bloomberg.com/news/articles/2026-02-09/abu-dhabi-s-g42-leads-1-billion-data-center-project-in-vietnam",
-        "description": "G42 is leading a project with commitments of as much as $1 billion to build data centers and cloud computing services in Vietnam, part of an effort by the United Arab Emirates artificial intelligence champion to expand beyond the Gulf nation.",
-        "published": "2026-02-09T00:40:00.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
+        "title": "Leak suggests Apple’s M5 Pro and M5 Max may be the same chip",
+        "link": "https://9to5mac.com/2026/02/09/leak-suggests-apples-m5-pro-and-m5-max-may-be-the-same-chip/",
+        "description": "It’s previously been suggested that the upcoming M5 Pro and M5 Max MacBook Pro models will allow you to make a more flexible choice of CPU and GPU cores. A recent change to Apple’s website seems to support this theory.\nA new report suggests that the change could be even more radical, and that the M5 Pro and M5 Max might be not two distinct chips but rather variants of the same one …\nmore…",
+        "published": "2026-02-09T13:11:40.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/m5_max.jpg?quality=82&#038;strip=all&#038;w=1600",
         "relevanceScore": 6,
         "matchedKeywords": [
-          "intel",
-          "artificial intelligence",
-          "data center",
-          "billion"
+          "apple",
+          "chip",
+          "gpu"
         ],
         "category": "chips_cloud"
-      }
-    ],
-    "regulation": [
-      {
-        "title": "Epstein's Silicon Valley connections went beyond Gates and Musk",
-        "link": "https://www.cnbc.com/2026/02/09/tech-leaders-epstein-records-silicon-valley-sergey-brin-thiel-sinofsky-reid-hoffman-musk-gates.html",
-        "description": "The new Epstein files released by the DOJ show that the deceased financier was able to build relationships across Silicon Valley, from Bill Gates to Peter Thiel.",
-        "published": "2026-02-09T06:54:16.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "doj"
-        ],
-        "category": "regulation"
-      }
-    ],
-    "crypto": [
-      {
-        "title": "Here's why the quantum threat for bitcoin may be smaller than people fear",
-        "link": "https://www.coindesk.com/markets/2026/02/09/the-quantum-threat-to-bitcoin-is-smaller-than-people-think-coinshares",
-        "description": "The key point is that most of the potentially exposed bitcoin isn’t sitting in a handful of giant, juicy targets. It’s scattered across more than 32,000 separate wallets.",
-        "published": "2026-02-09T06:29:43.000Z",
-        "source": "CoinDesk",
-        "sourceKey": "coindesk",
-        "priority": 3,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "quantum",
-          "bitcoin"
-        ],
-        "category": "crypto"
       }
     ]
   },
-  "totalArticles": 9
+  "totalArticles": 19
 }

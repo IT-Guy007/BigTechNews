@@ -4,7 +4,7 @@
   "title": "Thursday, Feb 12",
   "dateRange": "February 12, 2026",
   "date": "2026-02-12",
-  "generatedAt": "2026-02-12T07:34:08.030Z",
+  "generatedAt": "2026-02-13T12:26:16.623Z",
   "highlights": [
     {
       "title": "Anthropic's Claude Gets More Free Features as OpenAI Starts Showing Ads in ChatGPT",
@@ -25,29 +25,133 @@
       "category": "ai"
     },
     {
-      "title": "SoftBank Swings to Profit on Boost From Its OpenAI Bet",
-      "link": "https://www.bloomberg.com/news/articles/2026-02-12/softbank-swings-to-profit-on-valuation-boost-from-its-openai-bet",
-      "description": "SoftBank Group Corp. sprang back to a quarterly profit after Masayoshi Son’s bet on OpenAI paid off in valuation gains on optimism around artificial intelligence spending.",
-      "published": "2026-02-12T06:51:03.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
+      "title": "Anthropic raises another $30B in Series G, with a new value of $380B",
+      "link": "https://techcrunch.com/2026/02/12/anthropic-raises-another-30-billion-in-series-g-with-a-new-value-of-380-billion/",
+      "description": "The infusion of funding for the AI startup takes place as it is vying for customers and cultural attention with its competitor, OpenAI.",
+      "published": "2026-02-12T20:18:37.000Z",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
       "priority": 1,
       "image": null,
       "relevanceScore": 16,
       "matchedKeywords": [
         "openai",
-        "intel",
-        "softbank",
-        "artificial intelligence",
-        "valuation"
+        "anthropic",
+        "fusion"
       ],
       "category": "ai"
     },
     {
-      "title": "SoftBank Vision Fund books $2.4 billion quarterly gain boosted by OpenAI bet",
+      "title": "OpenAI deploys Cerebras chips for 'near-instant' code generation in first major move beyond Nvidia",
+      "link": "https://venturebeat.com/technology/openai-deploys-cerebras-chips-for-15x-faster-code-generation-in-first-major",
+      "description": "OpenAI on Thursday launched GPT-5.3-Codex-Spark, a stripped-down coding model engineered for near-instantaneous response times, marking the company's first significant inference partnership outside its traditional Nvidia-dominated infrastructure. The model runs on hardware from Cerebras Systems, a Sunnyvale-based chipmaker whose wafer-scale processors specialize in low-latency AI workloads.\nThe partnership arrives at a pivotal moment for OpenAI. The company finds itself navigating a frayed relationship with longtime chip supplier Nvidia, mounting criticism over its decision to introduce advertisements into ChatGPT, a newly announced Pentagon contract, and internal organizational upheaval that has seen a safety-focused team disbanded and at least one researcher resign in protest.\n\"GPUs remain foundational across our training and inference pipelines and deliver the most cost effective tokens for broad usage,\" an OpenAI spokesperson told VentureBeat. \"Cerebras complements that foundation by excelling at workflows that demand extremely low latency, tightening the end-to-end loop so use cases such as real-time coding in Codex feel more responsive as you iterate.\"\nThe careful framing — emphasizing that GPUs \"remain foundational\" while positioning Cerebras as a \"complement\" — underscores the delicate balance OpenAI must strike as it diversifies its chip suppliers without alienating Nvidia, the dominant force in AI accelerators.\nSpeed gains come with capability tradeoffs that OpenAI says developers will accept\nCodex-Spark represents OpenAI's first model purpose-built for real-time coding collaboration. The company claims the model delivers more than 1000 tokens per second when served on ultra-low latency hardware, though it declined to provide specific latency metrics such as time-to-first-token figures.\n\"We aren't able to share specific latency numbers, however Codex-Spark is optimized to feel near-instant — delivering more than 1000 tokens per second while remaining highly capable for real-world coding tasks,\" the OpenAI spokesperson said.\nThe speed gains come with acknowledged capability tradeoffs. On SWE-Bench Pro and Terminal-Bench 2.0 — two industry benchmarks that evaluate AI systems' ability to perform complex software engineering tasks autonomously — Codex-Spark underperforms the full GPT-5.3-Codex model. OpenAI positions this as an acceptable exchange: developers get responses fast enough to maintain creative flow, even if the underlying model cannot tackle the most sophisticated multi-step programming challenges.\nThe model launches with a 128,000-token context window and supports text only — no image or multimodal inputs. OpenAI has made it available as a research preview to ChatGPT Pro subscribers through the Codex app, command-line interface, and Visual Studio Code extension. A small group of enterprise partners will receive API access to evaluate integration possibilities.\n\"We are making Codex-Spark available in the API for a small set of design partners to understand how developers want to integrate Codex-Spark into their products,\" the spokesperson explained. \"We'll expand access over the coming weeks as we continue tuning our integration under real workloads.\"\nCerebras hardware eliminates bottlenecks that plague traditional GPU clusters\nThe technical architecture behind Codex-Spark tells a story about inference economics that increasingly matters as AI companies scale consumer-facing products. Cerebras's Wafer Scale Engine 3 — a single chip roughly the size of a dinner plate containing 4 trillion transistors — eliminates much of the communication overhead that occurs when AI workloads spread across clusters of smaller processors.\nFor training massive models, that distributed approach remains necessary and Nvidia's GPUs excel at it. But for inference — the process of generating responses to user queries — Cerebras argues its architecture can deliver results with dramatically lower latency. Sean Lie, Cerebras's CTO and co-founder, framed the partnership as an opportunity to reshape how developers interact with AI systems.\n\"What excites us most about GPT-5.3-Codex-Spark is partnering with OpenAI and the developer community to discover what fast inference makes possible — new interaction patterns, new use cases, and a fundamentally different model experience,\" Lie said in a statement. \"This preview is just the beginning.\"\nOpenAI's infrastructure team did not limit its optimization work to the Cerebras hardware. The company announced latency improvements across its entire inference stack that benefit all Codex models regardless of underlying hardware, including persistent WebSocket connections and optimizations within the Responses API. The results: 80 percent reduction in overhead per client-server round trip, 30 percent reduction in per-token overhead, and 50 percent reduction in time-to-first-token.\nA $100 billion Nvidia megadeal has quietly fallen apart behind the scenes\nThe Cerebras partnership takes on additional significance given the increasingly complicated relationship between OpenAI and Nvidia. Last fall, when OpenAI announced its Stargate infrastructure initiative, Nvidia publicly committed to investing $100 billion to support OpenAI as it built out AI infrastructure. The announcement appeared to cement a strategic alliance between the world's most valuable AI company and its dominant chip supplier.\nFive months later, that megadeal has effectively stalled, according to multiple reports. Nvidia CEO Jensen Huang has publicly denied tensions, telling reporters in late January that there is \"no drama\" and that Nvidia remains committed to participating in OpenAI's current funding round. But the relationship has cooled considerably, with friction stemming from multiple sources.\nOpenAI has aggressively pursued partnerships with alternative chip suppliers, including the Cerebras deal and separate agreements with AMD and Broadcom. From Nvidia's perspective, OpenAI may be using its influence to commoditize the very hardware that made its AI breakthroughs possible. From OpenAI's perspective, reducing dependence on a single supplier represents prudent business strategy.\n\"We will continue working with the ecosystem on evaluating the most price-performant chips across all use cases on an ongoing basis,\" OpenAI's spokesperson told VentureBeat. \"GPUs remain our priority for cost-sensitive and throughput-first use cases across research and inference.\" The statement reads as a careful effort to avoid antagonizing Nvidia while preserving flexibility — and reflects a broader reality that training frontier AI models still requires exactly the kind of massive parallel processing that Nvidia GPUs provide.\nDisbanded safety teams and researcher departures raise questions about OpenAI's priorities\nThe Codex-Spark launch comes as OpenAI navigates a series of internal challenges that have intensified scrutiny of the company's direction and values. Earlier this week, reports emerged that OpenAI disbanded its mission alignment team, a group established in September 2024 to promote the company's stated goal of ensuring artificial general intelligence benefits humanity. The team's seven members have been reassigned to other roles, with leader Joshua Achiam given a new title as OpenAI's \"chief futurist.\"\nOpenAI previously disbanded another safety-focused group, the superalignment team, in 2024. That team had concentrated on long-term existential risks from AI. The pattern of dissolving safety-oriented teams has drawn criticism from researchers who argue that OpenAI's commercial pressures are overwhelming its original non-profit mission.\nThe company also faces fallout from its decision to introduce advertisements into ChatGPT. Researcher Zoë Hitzig resigned this week over what she described as the \"slippery slope\" of ad-supported AI, warning in a New York Times essay that ChatGPT's archive of intimate user conversations creates unprecedented opportunities for manipulation. Anthropic seized on the controversy with a Super Bowl advertising campaign featuring the tagline: \"Ads are coming to AI. But not to Claude.\"\nSeparately, the company agreed to provide ChatGPT to the Pentagon through Genai.mil, a new Department of Defense program that requires OpenAI to permit \"all lawful uses\" without company-imposed restrictions — terms that Anthropic reportedly rejected. And reports emerged that Ryan Beiermeister, OpenAI's vice president of product policy who had expressed concerns about a planned explicit content feature, was terminated in January following a discrimination allegation she denies.\nOpenAI envisions AI coding assistants that juggle quick edits and complex autonomous tasks\nDespite the surrounding turbulence, OpenAI's technical roadmap for Codex suggests ambitious plans. The company envisions a coding assistant that seamlessly blends rapid-fire interactive editing with longer-running autonomous tasks — an AI that handles quick fixes while simultaneously orchestrating multiple agents working on more complex problems in the background.\n\"Over time, the modes will blend — Codex can keep you in a tight interactive loop while delegating longer-running work to sub-agents in the background, or fanning out tasks to many models in parallel when you want breadth and speed, so you don't have to choose a single mode up front,\" the OpenAI spokesperson told VentureBeat.\nThis vision would require not just faster inference but sophisticated task decomposition and coordination across models of varying sizes and capabilities. Codex-Spark establishes the low-latency foundation for the interactive portion of that experience; future releases will need to deliver the autonomous reasoning and multi-agent coordination that would make the full vision possible.\nFor now, Codex-Spark operates under separate rate limits from other OpenAI models, reflecting constrained Cerebras infrastructure capacity during the research preview. \"Because it runs on specialized low-latency hardware, usage is governed by a separate rate limit that may adjust based on demand during the research preview,\" the spokesperson noted. The limits are designed to be \"generous,\" with OpenAI monitoring usage patterns as it determines how to scale.\nThe real test is whether faster responses translate into better software\nThe Codex-Spark announcement arrives amid intense competition for AI-powered developer tools. Anthropic's Claude Cowork product triggered a selloff in traditional software stocks last week as investors considered whether AI assistants might displace conventional enterprise applications. Microsoft, Google, and Amazon continue investing heavily in AI coding capabilities integrated with their respective cloud platforms.\nOpenAI's Codex app has demonstrated rapid adoption since launching ten days ago, with more than one million downloads and weekly active users growing 60 percent week-over-week. More than 325,000 developers now actively use Codex across free and paid tiers. But the fundamental question facing OpenAI — and the broader AI industry — is whether speed improvements like those promised by Codex-Spark translate into meaningful productivity gains or merely create more pleasant experiences without changing outcomes.\nEarly evidence from AI coding tools suggests that faster responses encourage more iterative experimentation. Whether that experimentation produces better software remains contested among researchers and practitioners alike. What seems clear is that OpenAI views inference latency as a competitive frontier worth substantial investment, even as that investment takes it beyond its traditional Nvidia partnership into untested territory with alternative chip suppliers.\nThe Cerebras deal is a calculated bet that specialized hardware can unlock use cases that general-purpose GPUs cannot cost-effectively serve. For a company simultaneously battling competitors, managing strained supplier relationships, and weathering internal dissent over its commercial direction, it is also a reminder that in the AI race, standing still is not an option. OpenAI built its reputation by moving fast and breaking conventions. Now it must prove it can move even faster — without breaking itself.",
+      "published": "2026-02-12T18:00:00.000Z",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "priority": 1,
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/7MjHYzZPCTPOi36CDs5heb/2e9b08153059f61306abd7a467cb2274/nuneybits_Vector_art_of_retro_CRT_monitor_displaying_cascading__4c1978f2-debf-4c64-bcac-269b5f7df6ca.webp?w=300&q=30",
+      "relevanceScore": 16,
+      "matchedKeywords": [
+        "nvidia",
+        "openai",
+        "gpt-5",
+        "chip"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Anthropic closes $30 billion funding round as cash keeps flowing into top AI startups",
+      "link": "https://www.cnbc.com/2026/02/12/anthropic-closes-30-billion-funding-round-at-380-billion-valuation.html",
+      "description": "After OpenAI raised the largest private tech financing round on record last year at over $40 billion, Anthropic is now second, with its $30 billion raise.",
+      "published": "2026-02-12T20:44:04.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 15,
+      "matchedKeywords": [
+        "openai",
+        "anthropic",
+        "billion",
+        "funding round"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "US FTC airs concerns over allegations that Apple News suppresses right-wing content",
+      "link": "https://techcrunch.com/2026/02/12/us-ftc-airs-concerns-over-allegations-that-apple-suppresses-right-wing-content-on-apple-news/",
+      "description": "In a letter to Apple CEO Tim Cook, FTC chair Andrew Ferguson cited reports from Media Research Center, a right-leaning think tank, which accused Apple of excluding right-leaning outlets from the top 20 articles in the Apple News feed.",
+      "published": "2026-02-12T14:40:03.000Z",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 14,
+      "matchedKeywords": [
+        "apple",
+        "ftc",
+        "ceo",
+        "tim cook"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Claude’s free tier now connects to apps, can create Microsoft Office documents, and more",
+      "link": "https://9to5mac.com/2026/02/12/claudes-free-tier-now-connects-to-apps-can-create-microsoft-office-documents-and-more/",
+      "description": "Anthropic has just launched significant new features to Claude’s free tier. Connecting to apps was previously a pro feature available only to paid subscribers, but this is now included in the free tier.\nClaude can connect to a wide range of apps, including Canva, Figma, Monday, Notion, Slack, Square, Wix, WordPress, and Google Workspace apps …\nmore…",
+      "published": "2026-02-12T14:42:49.000Z",
+      "source": "9to5Mac",
+      "sourceKey": "9to5mac",
+      "priority": 2,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/Claudes-free-tier-now-connects-to-apps-can-create-Microsoft-Office-documents-and-more.jpg?quality=82&#038;strip=all&#038;w=1422",
+      "relevanceScore": 14,
+      "matchedKeywords": [
+        "google",
+        "microsoft",
+        "anthropic",
+        "claude"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips",
+      "link": "https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/",
+      "description": "OpenAI's new GPT‑5.3‑Codex‑Spark is 15 times faster at coding than its predecessor.",
+      "published": "2026-02-12T22:56:02.000Z",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 13,
+      "matchedKeywords": [
+        "nvidia",
+        "openai",
+        "chip"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Anthropic gives $20 million to group pushing for AI regulations ahead of 2026 elections",
+      "link": "https://www.cnbc.com/2026/02/12/anthropic-gives-20-million-to-group-pushing-for-ai-regulations-.html",
+      "description": "Public First Action is taking on a PAC backed by the AI industry, supporting candidates who favor more regulation.",
+      "published": "2026-02-12T18:36:21.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 13,
+      "matchedKeywords": [
+        "anthropic",
+        "regulation",
+        "ai regulation"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "SoftBank books $4.2 billion gain on OpenAI bet, boosting its Vision Fund",
       "link": "https://www.cnbc.com/2026/02/12/softbank-vision-fund-openai.html",
       "description": "SoftBank posted a $2.4 billion gain at its Vision Fund as a jump in the value of its OpenAI investment helped offset losses in some of its other bets.",
-      "published": "2026-02-12T07:15:29.000Z",
+      "published": "2026-02-12T12:12:18.000Z",
       "source": "CNBC",
       "sourceKey": "cnbc_tech",
       "priority": 1,
@@ -61,120 +165,22 @@
       "category": "ai"
     },
     {
-      "title": "SpaceX takes down Dragon crew arm, giving Starship a leg up in Florida",
-      "link": "https://arstechnica.com/space/2026/02/heres-why-americas-most-historic-launch-pad-is-getting-yet-another-facelift/",
-      "description": "SpaceX's crew missions will now launch from Cape Canaveral Space Force Station.",
-      "published": "2026-02-12T02:23:50.000Z",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 10,
-      "matchedKeywords": [
-        "spacex",
-        "arm",
-        "starship"
-      ],
-      "category": "space"
-    },
-    {
-      "title": "FTC chair questions Tim Cook over claims Apple News sidelines conservative publications",
-      "link": "https://9to5mac.com/2026/02/11/ftc-chair-questions-tim-cook-over-claims-apple-news-sidelines-conservative-publications/",
-      "description": "FTC Chairman Andrew Ferguson is asking Tim Cook to review Apple News’ curation policies after claims that the service suppresses conservative publications. Here are the details.\nmore…",
-      "published": "2026-02-12T03:04:24.000Z",
-      "source": "9to5Mac",
-      "sourceKey": "9to5mac",
+      "title": "iOS 27 Will Add These New Features to Your iPhone",
+      "link": "https://www.macrumors.com/2026/02/12/ios-27-features-rumors/",
+      "description": "While the first beta of iOS 27 is still four months away, there are already plenty of rumors about new features that will be included in the update.\r\n\r\n\r\nBelow, we recap iOS 27 rumors so far:\nSiri Chatbot: iOS 27 will reportedly include a full-out Siri chatbot that you can have back-and-forth conversations with. This would make Siri more like OpenAI's ChatGPT and Google's Gemini. Due to delays, iOS 27 might also include at least some personalized Siri features that were announced back in 2024.\n\r\nNew Apple Intelligence Features: Apple and Google announced that Gemini will help power some new Apple Intelligence features, which will likely begin rolling out on iOS 27. For example, it has been rumored that Apple Intelligence capabilities are coming to Apple's Calendar app. There was also a rumor about an Apple Health+ subscription service that would have included personalized, AI-powered health and fitness recommendations, but Apple has reportedly gone back to the drawing board on that, so only bits and pieces of it might arrive.\n\r\nNew Satellite Features: iOS 27 will reportedly support 5G satellite internet connectivity, although this functionality might be limited to the upcoming iPhone 18 Pro models with Apple's next-generation C2 modem. Additional satellite features have been rumored, including Apple Maps via satellite and the ability to send and receive photos when using Messages via satellite.\n\r\nBug Fixes and Stability Focus: iOS 27 will reportedly be similar to Mac OS X Snow Leopard, in the sense that Apple is apparently focused on improving \"quality and underlying performance.\" Apple is expected to focus on bug fixes, improved stability, and Liquid Glass design enhancements.\niOS 27 beta testing is expected to begin during WWDC in June, and the update should be released to all users with a compatible iPhone in September.\nTag: iOS 27\nThis article, \"iOS 27 Will Add These New Features to Your iPhone\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+      "published": "2026-02-12T14:49:55.000Z",
+      "source": "MacRumors",
+      "sourceKey": "macrumors",
       "priority": 2,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/01/apple-news-app.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "relevanceScore": 10,
-      "matchedKeywords": [
-        "apple",
-        "ftc",
-        "tim cook"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": "Google: China's APT31 used Gemini to plan cyberattacks against US orgs",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/google_china_apt31_gemini/",
-      "description": "",
-      "published": "2026-02-12T07:00:08.000Z",
-      "source": "The Register",
-      "sourceKey": "theregister",
-      "priority": 2,
-      "image": null,
-      "relevanceScore": 7,
+      "image": "https://images.macrumors.com/article-new/2025/11/iOS-27-Mock-Quick.jpg",
+      "relevanceScore": 13,
       "matchedKeywords": [
         "google",
+        "openai",
+        "chatgpt",
         "gemini"
       ],
       "category": "ai"
-    },
-    {
-      "title": "Anthropic promises its datacenters totally won't drive up your utility bill",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/anthropic_power_promises/",
-      "description": "",
-      "published": "2026-02-12T00:47:13.000Z",
-      "source": "The Register",
-      "sourceKey": "theregister",
-      "priority": 2,
-      "image": null,
-      "relevanceScore": 7,
-      "matchedKeywords": [
-        "anthropic"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": "Siemens CEO Says Demand From US Data Centers Is 'Very Strong'",
-      "link": "https://www.bloomberg.com/news/videos/2026-02-12/siemens-ceo-sees-very-strong-demand-from-us-data-centers-video",
-      "description": "Siemens CEO Roland Busch discusses the firm's growing factory automation business and demand for electrification products from data centers. He speaks to Bloomberg's Tom Mackenzie after first-quarter profit in the Digital Industries unit, which makes factory software and automation products, jumped 37%. (Source: Bloomberg)",
-      "published": "2026-02-12T06:54:23.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 6,
-      "matchedKeywords": [
-        "ceo",
-        "data center",
-        "automation"
-      ],
-      "category": "chips_cloud"
-    },
-    {
-      "title": "Samsung Says It Starts Commercial Shipment of HBM4 to Customer",
-      "link": "https://www.bloomberg.com/news/articles/2026-02-12/samsung-says-it-starts-commercial-shipment-of-hbm4-to-customer-mlj2njno",
-      "description": "Samsung Electronics Co. has begun commercial shipments of the latest version of its HBM4 memory chips to an unnamed customer, signaling a strategic lead over its rivals in the high-stakes AI memory market.",
-      "published": "2026-02-12T06:22:32.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 6,
-      "matchedKeywords": [
-        "samsung",
-        "chip"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": "Blue Owl’s Stack Adds to AI Debt Rush With $2.1 Billion Loan",
-      "link": "https://www.bloomberg.com/news/articles/2026-02-12/blue-owl-s-stack-adds-to-ai-debt-rush-with-2-1-billion-loan",
-      "description": "Blue Owl Capital-owned data center company Stack Infrastructure Inc. is seeking a loan of around A$3 billion ($2.1 billion), according to people familiar with the matter, as it accelerates development in Australia to meet surging demand for artificial intelligence and cloud services.",
-      "published": "2026-02-12T00:09:51.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 6,
-      "matchedKeywords": [
-        "intel",
-        "artificial intelligence",
-        "data center",
-        "billion"
-      ],
-      "category": "chips_cloud"
     }
   ],
   "byCategory": {
@@ -198,29 +204,133 @@
         "category": "ai"
       },
       {
-        "title": "SoftBank Swings to Profit on Boost From Its OpenAI Bet",
-        "link": "https://www.bloomberg.com/news/articles/2026-02-12/softbank-swings-to-profit-on-valuation-boost-from-its-openai-bet",
-        "description": "SoftBank Group Corp. sprang back to a quarterly profit after Masayoshi Son’s bet on OpenAI paid off in valuation gains on optimism around artificial intelligence spending.",
-        "published": "2026-02-12T06:51:03.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
+        "title": "Anthropic raises another $30B in Series G, with a new value of $380B",
+        "link": "https://techcrunch.com/2026/02/12/anthropic-raises-another-30-billion-in-series-g-with-a-new-value-of-380-billion/",
+        "description": "The infusion of funding for the AI startup takes place as it is vying for customers and cultural attention with its competitor, OpenAI.",
+        "published": "2026-02-12T20:18:37.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
         "priority": 1,
         "image": null,
         "relevanceScore": 16,
         "matchedKeywords": [
           "openai",
-          "intel",
-          "softbank",
-          "artificial intelligence",
-          "valuation"
+          "anthropic",
+          "fusion"
         ],
         "category": "ai"
       },
       {
-        "title": "SoftBank Vision Fund books $2.4 billion quarterly gain boosted by OpenAI bet",
+        "title": "OpenAI deploys Cerebras chips for 'near-instant' code generation in first major move beyond Nvidia",
+        "link": "https://venturebeat.com/technology/openai-deploys-cerebras-chips-for-15x-faster-code-generation-in-first-major",
+        "description": "OpenAI on Thursday launched GPT-5.3-Codex-Spark, a stripped-down coding model engineered for near-instantaneous response times, marking the company's first significant inference partnership outside its traditional Nvidia-dominated infrastructure. The model runs on hardware from Cerebras Systems, a Sunnyvale-based chipmaker whose wafer-scale processors specialize in low-latency AI workloads.\nThe partnership arrives at a pivotal moment for OpenAI. The company finds itself navigating a frayed relationship with longtime chip supplier Nvidia, mounting criticism over its decision to introduce advertisements into ChatGPT, a newly announced Pentagon contract, and internal organizational upheaval that has seen a safety-focused team disbanded and at least one researcher resign in protest.\n\"GPUs remain foundational across our training and inference pipelines and deliver the most cost effective tokens for broad usage,\" an OpenAI spokesperson told VentureBeat. \"Cerebras complements that foundation by excelling at workflows that demand extremely low latency, tightening the end-to-end loop so use cases such as real-time coding in Codex feel more responsive as you iterate.\"\nThe careful framing — emphasizing that GPUs \"remain foundational\" while positioning Cerebras as a \"complement\" — underscores the delicate balance OpenAI must strike as it diversifies its chip suppliers without alienating Nvidia, the dominant force in AI accelerators.\nSpeed gains come with capability tradeoffs that OpenAI says developers will accept\nCodex-Spark represents OpenAI's first model purpose-built for real-time coding collaboration. The company claims the model delivers more than 1000 tokens per second when served on ultra-low latency hardware, though it declined to provide specific latency metrics such as time-to-first-token figures.\n\"We aren't able to share specific latency numbers, however Codex-Spark is optimized to feel near-instant — delivering more than 1000 tokens per second while remaining highly capable for real-world coding tasks,\" the OpenAI spokesperson said.\nThe speed gains come with acknowledged capability tradeoffs. On SWE-Bench Pro and Terminal-Bench 2.0 — two industry benchmarks that evaluate AI systems' ability to perform complex software engineering tasks autonomously — Codex-Spark underperforms the full GPT-5.3-Codex model. OpenAI positions this as an acceptable exchange: developers get responses fast enough to maintain creative flow, even if the underlying model cannot tackle the most sophisticated multi-step programming challenges.\nThe model launches with a 128,000-token context window and supports text only — no image or multimodal inputs. OpenAI has made it available as a research preview to ChatGPT Pro subscribers through the Codex app, command-line interface, and Visual Studio Code extension. A small group of enterprise partners will receive API access to evaluate integration possibilities.\n\"We are making Codex-Spark available in the API for a small set of design partners to understand how developers want to integrate Codex-Spark into their products,\" the spokesperson explained. \"We'll expand access over the coming weeks as we continue tuning our integration under real workloads.\"\nCerebras hardware eliminates bottlenecks that plague traditional GPU clusters\nThe technical architecture behind Codex-Spark tells a story about inference economics that increasingly matters as AI companies scale consumer-facing products. Cerebras's Wafer Scale Engine 3 — a single chip roughly the size of a dinner plate containing 4 trillion transistors — eliminates much of the communication overhead that occurs when AI workloads spread across clusters of smaller processors.\nFor training massive models, that distributed approach remains necessary and Nvidia's GPUs excel at it. But for inference — the process of generating responses to user queries — Cerebras argues its architecture can deliver results with dramatically lower latency. Sean Lie, Cerebras's CTO and co-founder, framed the partnership as an opportunity to reshape how developers interact with AI systems.\n\"What excites us most about GPT-5.3-Codex-Spark is partnering with OpenAI and the developer community to discover what fast inference makes possible — new interaction patterns, new use cases, and a fundamentally different model experience,\" Lie said in a statement. \"This preview is just the beginning.\"\nOpenAI's infrastructure team did not limit its optimization work to the Cerebras hardware. The company announced latency improvements across its entire inference stack that benefit all Codex models regardless of underlying hardware, including persistent WebSocket connections and optimizations within the Responses API. The results: 80 percent reduction in overhead per client-server round trip, 30 percent reduction in per-token overhead, and 50 percent reduction in time-to-first-token.\nA $100 billion Nvidia megadeal has quietly fallen apart behind the scenes\nThe Cerebras partnership takes on additional significance given the increasingly complicated relationship between OpenAI and Nvidia. Last fall, when OpenAI announced its Stargate infrastructure initiative, Nvidia publicly committed to investing $100 billion to support OpenAI as it built out AI infrastructure. The announcement appeared to cement a strategic alliance between the world's most valuable AI company and its dominant chip supplier.\nFive months later, that megadeal has effectively stalled, according to multiple reports. Nvidia CEO Jensen Huang has publicly denied tensions, telling reporters in late January that there is \"no drama\" and that Nvidia remains committed to participating in OpenAI's current funding round. But the relationship has cooled considerably, with friction stemming from multiple sources.\nOpenAI has aggressively pursued partnerships with alternative chip suppliers, including the Cerebras deal and separate agreements with AMD and Broadcom. From Nvidia's perspective, OpenAI may be using its influence to commoditize the very hardware that made its AI breakthroughs possible. From OpenAI's perspective, reducing dependence on a single supplier represents prudent business strategy.\n\"We will continue working with the ecosystem on evaluating the most price-performant chips across all use cases on an ongoing basis,\" OpenAI's spokesperson told VentureBeat. \"GPUs remain our priority for cost-sensitive and throughput-first use cases across research and inference.\" The statement reads as a careful effort to avoid antagonizing Nvidia while preserving flexibility — and reflects a broader reality that training frontier AI models still requires exactly the kind of massive parallel processing that Nvidia GPUs provide.\nDisbanded safety teams and researcher departures raise questions about OpenAI's priorities\nThe Codex-Spark launch comes as OpenAI navigates a series of internal challenges that have intensified scrutiny of the company's direction and values. Earlier this week, reports emerged that OpenAI disbanded its mission alignment team, a group established in September 2024 to promote the company's stated goal of ensuring artificial general intelligence benefits humanity. The team's seven members have been reassigned to other roles, with leader Joshua Achiam given a new title as OpenAI's \"chief futurist.\"\nOpenAI previously disbanded another safety-focused group, the superalignment team, in 2024. That team had concentrated on long-term existential risks from AI. The pattern of dissolving safety-oriented teams has drawn criticism from researchers who argue that OpenAI's commercial pressures are overwhelming its original non-profit mission.\nThe company also faces fallout from its decision to introduce advertisements into ChatGPT. Researcher Zoë Hitzig resigned this week over what she described as the \"slippery slope\" of ad-supported AI, warning in a New York Times essay that ChatGPT's archive of intimate user conversations creates unprecedented opportunities for manipulation. Anthropic seized on the controversy with a Super Bowl advertising campaign featuring the tagline: \"Ads are coming to AI. But not to Claude.\"\nSeparately, the company agreed to provide ChatGPT to the Pentagon through Genai.mil, a new Department of Defense program that requires OpenAI to permit \"all lawful uses\" without company-imposed restrictions — terms that Anthropic reportedly rejected. And reports emerged that Ryan Beiermeister, OpenAI's vice president of product policy who had expressed concerns about a planned explicit content feature, was terminated in January following a discrimination allegation she denies.\nOpenAI envisions AI coding assistants that juggle quick edits and complex autonomous tasks\nDespite the surrounding turbulence, OpenAI's technical roadmap for Codex suggests ambitious plans. The company envisions a coding assistant that seamlessly blends rapid-fire interactive editing with longer-running autonomous tasks — an AI that handles quick fixes while simultaneously orchestrating multiple agents working on more complex problems in the background.\n\"Over time, the modes will blend — Codex can keep you in a tight interactive loop while delegating longer-running work to sub-agents in the background, or fanning out tasks to many models in parallel when you want breadth and speed, so you don't have to choose a single mode up front,\" the OpenAI spokesperson told VentureBeat.\nThis vision would require not just faster inference but sophisticated task decomposition and coordination across models of varying sizes and capabilities. Codex-Spark establishes the low-latency foundation for the interactive portion of that experience; future releases will need to deliver the autonomous reasoning and multi-agent coordination that would make the full vision possible.\nFor now, Codex-Spark operates under separate rate limits from other OpenAI models, reflecting constrained Cerebras infrastructure capacity during the research preview. \"Because it runs on specialized low-latency hardware, usage is governed by a separate rate limit that may adjust based on demand during the research preview,\" the spokesperson noted. The limits are designed to be \"generous,\" with OpenAI monitoring usage patterns as it determines how to scale.\nThe real test is whether faster responses translate into better software\nThe Codex-Spark announcement arrives amid intense competition for AI-powered developer tools. Anthropic's Claude Cowork product triggered a selloff in traditional software stocks last week as investors considered whether AI assistants might displace conventional enterprise applications. Microsoft, Google, and Amazon continue investing heavily in AI coding capabilities integrated with their respective cloud platforms.\nOpenAI's Codex app has demonstrated rapid adoption since launching ten days ago, with more than one million downloads and weekly active users growing 60 percent week-over-week. More than 325,000 developers now actively use Codex across free and paid tiers. But the fundamental question facing OpenAI — and the broader AI industry — is whether speed improvements like those promised by Codex-Spark translate into meaningful productivity gains or merely create more pleasant experiences without changing outcomes.\nEarly evidence from AI coding tools suggests that faster responses encourage more iterative experimentation. Whether that experimentation produces better software remains contested among researchers and practitioners alike. What seems clear is that OpenAI views inference latency as a competitive frontier worth substantial investment, even as that investment takes it beyond its traditional Nvidia partnership into untested territory with alternative chip suppliers.\nThe Cerebras deal is a calculated bet that specialized hardware can unlock use cases that general-purpose GPUs cannot cost-effectively serve. For a company simultaneously battling competitors, managing strained supplier relationships, and weathering internal dissent over its commercial direction, it is also a reminder that in the AI race, standing still is not an option. OpenAI built its reputation by moving fast and breaking conventions. Now it must prove it can move even faster — without breaking itself.",
+        "published": "2026-02-12T18:00:00.000Z",
+        "source": "VentureBeat",
+        "sourceKey": "venturebeat",
+        "priority": 1,
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/7MjHYzZPCTPOi36CDs5heb/2e9b08153059f61306abd7a467cb2274/nuneybits_Vector_art_of_retro_CRT_monitor_displaying_cascading__4c1978f2-debf-4c64-bcac-269b5f7df6ca.webp?w=300&q=30",
+        "relevanceScore": 16,
+        "matchedKeywords": [
+          "nvidia",
+          "openai",
+          "gpt-5",
+          "chip"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Anthropic closes $30 billion funding round as cash keeps flowing into top AI startups",
+        "link": "https://www.cnbc.com/2026/02/12/anthropic-closes-30-billion-funding-round-at-380-billion-valuation.html",
+        "description": "After OpenAI raised the largest private tech financing round on record last year at over $40 billion, Anthropic is now second, with its $30 billion raise.",
+        "published": "2026-02-12T20:44:04.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 15,
+        "matchedKeywords": [
+          "openai",
+          "anthropic",
+          "billion",
+          "funding round"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "US FTC airs concerns over allegations that Apple News suppresses right-wing content",
+        "link": "https://techcrunch.com/2026/02/12/us-ftc-airs-concerns-over-allegations-that-apple-suppresses-right-wing-content-on-apple-news/",
+        "description": "In a letter to Apple CEO Tim Cook, FTC chair Andrew Ferguson cited reports from Media Research Center, a right-leaning think tank, which accused Apple of excluding right-leaning outlets from the top 20 articles in the Apple News feed.",
+        "published": "2026-02-12T14:40:03.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 14,
+        "matchedKeywords": [
+          "apple",
+          "ftc",
+          "ceo",
+          "tim cook"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Claude’s free tier now connects to apps, can create Microsoft Office documents, and more",
+        "link": "https://9to5mac.com/2026/02/12/claudes-free-tier-now-connects-to-apps-can-create-microsoft-office-documents-and-more/",
+        "description": "Anthropic has just launched significant new features to Claude’s free tier. Connecting to apps was previously a pro feature available only to paid subscribers, but this is now included in the free tier.\nClaude can connect to a wide range of apps, including Canva, Figma, Monday, Notion, Slack, Square, Wix, WordPress, and Google Workspace apps …\nmore…",
+        "published": "2026-02-12T14:42:49.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/Claudes-free-tier-now-connects-to-apps-can-create-Microsoft-Office-documents-and-more.jpg?quality=82&#038;strip=all&#038;w=1422",
+        "relevanceScore": 14,
+        "matchedKeywords": [
+          "google",
+          "microsoft",
+          "anthropic",
+          "claude"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips",
+        "link": "https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/",
+        "description": "OpenAI's new GPT‑5.3‑Codex‑Spark is 15 times faster at coding than its predecessor.",
+        "published": "2026-02-12T22:56:02.000Z",
+        "source": "Ars Technica",
+        "sourceKey": "arstechnica",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 13,
+        "matchedKeywords": [
+          "nvidia",
+          "openai",
+          "chip"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Anthropic gives $20 million to group pushing for AI regulations ahead of 2026 elections",
+        "link": "https://www.cnbc.com/2026/02/12/anthropic-gives-20-million-to-group-pushing-for-ai-regulations-.html",
+        "description": "Public First Action is taking on a PAC backed by the AI industry, supporting candidates who favor more regulation.",
+        "published": "2026-02-12T18:36:21.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 13,
+        "matchedKeywords": [
+          "anthropic",
+          "regulation",
+          "ai regulation"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "SoftBank books $4.2 billion gain on OpenAI bet, boosting its Vision Fund",
         "link": "https://www.cnbc.com/2026/02/12/softbank-vision-fund-openai.html",
         "description": "SoftBank posted a $2.4 billion gain at its Vision Fund as a jump in the value of its OpenAI investment helped offset losses in some of its other bets.",
-        "published": "2026-02-12T07:15:29.000Z",
+        "published": "2026-02-12T12:12:18.000Z",
         "source": "CNBC",
         "sourceKey": "cnbc_tech",
         "priority": 1,
@@ -230,6 +340,58 @@
           "openai",
           "softbank",
           "billion"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "iOS 27 Will Add These New Features to Your iPhone",
+        "link": "https://www.macrumors.com/2026/02/12/ios-27-features-rumors/",
+        "description": "While the first beta of iOS 27 is still four months away, there are already plenty of rumors about new features that will be included in the update.\r\n\r\n\r\nBelow, we recap iOS 27 rumors so far:\nSiri Chatbot: iOS 27 will reportedly include a full-out Siri chatbot that you can have back-and-forth conversations with. This would make Siri more like OpenAI's ChatGPT and Google's Gemini. Due to delays, iOS 27 might also include at least some personalized Siri features that were announced back in 2024.\n\r\nNew Apple Intelligence Features: Apple and Google announced that Gemini will help power some new Apple Intelligence features, which will likely begin rolling out on iOS 27. For example, it has been rumored that Apple Intelligence capabilities are coming to Apple's Calendar app. There was also a rumor about an Apple Health+ subscription service that would have included personalized, AI-powered health and fitness recommendations, but Apple has reportedly gone back to the drawing board on that, so only bits and pieces of it might arrive.\n\r\nNew Satellite Features: iOS 27 will reportedly support 5G satellite internet connectivity, although this functionality might be limited to the upcoming iPhone 18 Pro models with Apple's next-generation C2 modem. Additional satellite features have been rumored, including Apple Maps via satellite and the ability to send and receive photos when using Messages via satellite.\n\r\nBug Fixes and Stability Focus: iOS 27 will reportedly be similar to Mac OS X Snow Leopard, in the sense that Apple is apparently focused on improving \"quality and underlying performance.\" Apple is expected to focus on bug fixes, improved stability, and Liquid Glass design enhancements.\niOS 27 beta testing is expected to begin during WWDC in June, and the update should be released to all users with a compatible iPhone in September.\nTag: iOS 27\nThis article, \"iOS 27 Will Add These New Features to Your iPhone\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-02-12T14:49:55.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2025/11/iOS-27-Mock-Quick.jpg",
+        "relevanceScore": 13,
+        "matchedKeywords": [
+          "google",
+          "openai",
+          "chatgpt",
+          "gemini"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "FTC tells Tim Cook to look into reports Apple News is censoring conservatives",
+        "link": "https://www.cnbc.com/2026/02/12/ftc-tim-cook-apple-news-censorship.html",
+        "description": "Ferguson cited a study from the conservative Media Research Center that said Apple News did not feature right-leaning news during high-traffic windows.",
+        "published": "2026-02-12T21:45:38.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "apple",
+          "ftc",
+          "tim cook"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Why Alphabet’s 100-year sterling bond is raising new fears over debt-fuelled AI arms race",
+        "link": "https://www.cnbc.com/2026/02/12/alphabet-100-year-bond-debt-fears-ai-credit-risk.html",
+        "description": "The novel ultra-long corporate bond diversifies the Google owner's lender base as it ramps up its capex spend.",
+        "published": "2026-02-12T10:09:46.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "google",
+          "alphabet",
+          "arm"
         ],
         "category": "ai"
       },
@@ -247,6 +409,249 @@
           "apple",
           "ftc",
           "tim cook"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "A new version of OpenAI’s Codex is powered by a new dedicated chip",
+        "link": "https://techcrunch.com/2026/02/12/a-new-version-of-openais-codex-is-powered-by-a-new-dedicated-chip/",
+        "description": "OpenAI calls the new coding tool the \"first milestone\" in its relationship with the chipmaker.",
+        "published": "2026-02-12T18:00:00.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "openai",
+          "chip"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Nvidia’s new technique cuts LLM reasoning costs by 8x without losing accuracy",
+        "link": "https://venturebeat.com/orchestration/nvidias-new-technique-cuts-llm-reasoning-costs-by-8x-without-losing-accuracy",
+        "description": "Researchers at Nvidia have developed a technique that can reduce the memory costs of large language model reasoning by up to eight times. Their technique, called dynamic memory sparsification (DMS), compresses the key value (KV) cache, the temporary memory LLMs generate and store as they process prompts and reason through problems and documents.\nWhile researchers have proposed various methods to compress this cache before, most struggle to do so without degrading the model's intelligence. Nvidia's approach manages to discard much of the cache while maintaining (and in some cases improving) the model's reasoning capabilities.\nExperiments show that DMS enables LLMs to \"think\" longer and explore more solutions without the usual penalty in speed or memory costs.\nThe bottleneck of reasoning\nLLMs improve their performance on complex tasks by generating \"chain-of-thought\" tokens, essentially writing out their reasoning steps before arriving at a final answer. Inference-time scaling techniques leverage this by giving the model a larger budget to generate these thinking tokens or to explore multiple potential reasoning paths in parallel.\nHowever, this improved reasoning comes with a significant computational cost. As the model generates more tokens, it builds up a KV cache. \nFor real-world applications, the KV cache is a major bottleneck. As the reasoning chain grows, the cache grows linearly, consuming vast amounts of memory on GPUs. This forces the hardware to spend more time reading data from memory than actually computing, which slows down generation and increases latency. It also caps the number of users a system can serve simultaneously, as running out of VRAM causes the system to crash or slow to a crawl.\nNvidia researchers frame this not just as a technical hurdle, but as a fundamental economic one for the enterprise.\n\"The question isn't just about hardware quantity; it's about whether your infrastructure is processing 100 reasoning threads or 800 threads for the same cost,\" Piotr Nawrot, Senior Deep Learning Engineer at Nvidia, told VentureBeat.\nPrevious attempts to solve this focused on heuristics-based approaches. These methods use rigid rules, such as a \"sliding window\" that only caches the most recent tokens and deletes the rest. While this reduces memory usage, it often forces the model to discard critical information required for solving the problem, degrading the accuracy of the output.\n\"Standard eviction methods attempt to select old and unused tokens for eviction using heuristics,\" the researchers said. \"They simplify the problem, hoping that if they approximate the model's internal mechanics, the answer will remain correct.\"\nOther solutions use paging to offload the unused parts of the KV cache to slower memory, but the constant swapping of data introduces latency overhead that makes real-time applications sluggish.\nDynamic memory sparsification\nDMS takes a different approach by \"retrofitting\" existing LLMs to intelligently manage their own memory. Rather than applying a fixed rule for what to delete, DMS trains the model to identify which tokens are essential for future reasoning and which are disposable.\n\"It doesn't just guess importance; it learns a policy that explicitly preserves the model's final output distribution,\" Nawrot said.\nThe process transforms a standard, pre-trained LLM such as Llama 3 or Qwen 3 into a self-compressing model. Crucially, this does not require training the model from scratch, which would be prohibitively expensive. Instead, DMS repurposes existing neurons within the model’s attention layers to output a \"keep\" or \"evict\" signal for each token.\nFor teams worried about the complexity of retrofitting, the researchers noted that the process is designed to be lightweight. \"To improve the efficiency of this process, the model's weights can be frozen, which makes the process similar to Low-Rank Adaptation (LoRA),\" Nawrot said. This means a standard enterprise model like Qwen3-8B \"can be retrofitted with DMS within hours on a single DGX H100.\"\nOne of the important parts of DMS is a mechanism called \"delayed eviction.\" In standard sparsification, if a token is deemed unimportant, it is deleted immediately. This is risky because the model might need a split second to integrate that token's context into its current state.\nDMS mitigates this by flagging a token for eviction but keeping it accessible for a short window of time (e.g., a few hundred steps). This delay allows the model to \"extract\" any remaining necessary information from the token and merge it into the current context before the token is wiped from the KV cache.\n“The ‘delayed eviction’ mechanism is crucial because not all tokens are simply ‘important’ (keep forever) or ‘useless’ (delete immediately). Many fall in between — they carry some information, but not enough to justify occupying an entire slot in memory,” Nawrot said. “This is where the redundancy lies. By keeping these tokens in a local window for a short time before eviction, we allow the model to attend to them and redistribute their information into future tokens.”\nThe researchers found that this retrofitting process is highly efficient. They could equip a pre-trained LLM with DMS in just 1,000 training steps, a tiny fraction of the compute required for the original training. The resulting models use standard kernels and can drop directly into existing high-performance inference stacks without custom hardware or complex software rewriting.\nDMS in action\nTo validate the technique, the researchers applied DMS to several reasoning models, including the Qwen-R1 series (distilled from DeepSeek R1) and Llama 3.2, and tested them on difficult benchmarks like AIME 24 (math), GPQA Diamond (science), and LiveCodeBench (coding).\nThe results show that DMS effectively moves the Pareto frontier, the optimal trade-off between cost and performance. On the AIME 24 math benchmark, a Qwen-R1 32B model equipped with DMS achieved a score 12.0 points higher than a standard model when constrained to the same memory bandwidth budget. By compressing the cache, the model could afford to \"think\" much deeper and wider than the standard model could for the same memory and compute budget.\nPerhaps most surprisingly, DMS defied the common wisdom that compression hurts long-context understanding. In \"needle-in-a-haystack\" tests, which measure a model's ability to find a specific piece of information buried in a large document, DMS variants actually outperformed the standard models. By actively managing its memory rather than passively accumulating noise, the model maintained a cleaner, more useful context.\nFor enterprise infrastructure, the efficiency gains translate directly to throughput and hardware savings. Because the memory cache is significantly smaller, the GPU spends less time fetching data, reducing the wait time for users. In tests with the Qwen3-8B model, DMS matched the accuracy of the vanilla model while delivering up to 5x higher throughput. This means a single server can handle five times as many customer queries per second without a drop in quality.\nThe future of memory\nNvidia has released DMS as part of its KVPress library. Regarding how enterprises can get started with DMS, Nawrot emphasized that the barrier to entry is low. \"The 'minimum viable infrastructure' is standard Hugging Face pipelines — no custom CUDA kernels are required,\" Nawrot said, noting that the code is fully compatible with standard FlashAttention. \nLooking ahead, the team views DMS as part of a larger shift where memory management becomes a distinct, intelligent layer of the AI stack. Nawrot also confirmed that DMS is \"fully compatible\" with newer architectures like the Multi-Head Latent Attention (MLA) used in DeepSeek’s models, suggesting that combining these approaches could yield even greater efficiency gains.\nAs enterprises move from simple chatbots to complex agentic systems that require extended reasoning, the cost of inference is becoming a primary concern. Techniques like DMS provide a path to scale these capabilities sustainably.\n\"We’ve barely scratched the surface of what is possible,\" Nawrot said, \"and we expect inference-time scaling to further evolve.\"",
+        "published": "2026-02-12T22:00:00.000Z",
+        "source": "VentureBeat",
+        "sourceKey": "venturebeat",
+        "priority": 1,
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6Op858lSN4iIkbMucN5ayA/a2b5ca432d5f5c7573cca25abb650546/Spase_attention.jpg?w=300&q=30",
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "nvidia",
+          "intel",
+          "large language model",
+          "llm"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple Vision Pro finally gets a YouTube app today",
+        "link": "https://www.engadget.com/ar-vr/apple-vision-pro-finally-gets-a-youtube-app-today-170000886.html?src=rss",
+        "description": "Apple’s Vision Pro is a curious product — it initially wowed me two years ago, but it was hard to ignore that the visionOS platform felt incomplete without dedicated apps for YouTube and Netflix. Well, it seems that Google has finally decided to take the Vision Pro seriously, as it’s launching a YouTube app on the platform today. Previously, you could only view YouTube videos via Safari, or through third-party apps like Tubular Pro.\nAccording to an Apple representative, the YouTube Vision Pro app features every video on on the service, including shorts, 360, 3D and VR 180 content. I haven’t tried it myself yet, but it certainly couldn’t be worse than trying to navigate through YouTube’s desktop app via finger gestures. Now that Google is spinning up its Android XR ecosystem, the company probably couldn’t avoid the Vision Pro for long. And don’t forget, we may also see a cheaper Vision Air next year.\nYour move, Netflix.\n\n\n\nThis article originally appeared on Engadget at https://www.engadget.com/ar-vr/apple-vision-pro-finally-gets-a-youtube-app-today-170000886.html?src=rss",
+        "published": "2026-02-12T17:00:00.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "google",
+          "apple",
+          "netflix"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Trump FTC wants Apple News to promote more Fox News and Breitbart stories",
+        "link": "https://arstechnica.com/tech-policy/2026/02/trump-ftc-denies-being-speech-police-but-says-apple-news-is-too-liberal/",
+        "description": "FTC claims Apple News suppresses conservatives, cites study by pro-Trump group.",
+        "published": "2026-02-12T20:30:38.000Z",
+        "source": "Ars Technica",
+        "sourceKey": "arstechnica",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "apple",
+          "ftc"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Attackers prompted Gemini over 100,000 times while trying to clone it, Google says",
+        "link": "https://arstechnica.com/ai/2026/02/attackers-prompted-gemini-over-100000-times-while-trying-to-clone-it-google-says/",
+        "description": "Distillation technique lets copycats mimic Gemini at a fraction of the development cost.",
+        "published": "2026-02-12T19:42:08.000Z",
+        "source": "Ars Technica",
+        "sourceKey": "arstechnica",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "google",
+          "gemini"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Google Chrome ships WebMCP in early preview, turning every website into a structured tool for AI agents",
+        "link": "https://venturebeat.com/infrastructure/google-chrome-ships-webmcp-in-early-preview-turning-every-website-into-a",
+        "description": "When an AI agent visits a website, it’s essentially a tourist who doesn’t speak the local language. Whether built on LangChain, Claude Code, or the increasingly popular OpenClaw framework, the agent is reduced to guessing which buttons to press: scraping raw HTML, firing off screenshots to multimodal models, and burning through thousands of tokens just to figure out where a search bar is.\nThat era may be ending. Earlier this week, the Google Chrome team launched WebMCP — Web Model Context Protocol — as an early preview in Chrome 146 Canary. WebMCP, which was developed jointly by engineers at Google and Microsoft and incubated through the W3C's Web Machine Learning community group, is a proposed web standard that lets any website expose structured, callable tools directly to AI agents through a new browser API: navigator.modelContext.\nThe implications for enterprise IT are significant. Instead of building and maintaining separate back-end MCP servers in Python or Node.js to connect their web applications to AI platforms, development teams can now wrap their existing client-side JavaScript logic into agent-readable tools — without re-architecting a single page.\nAI agents are expensive, fragile tourists on the web\nThe cost and reliability issues with current approaches to web-agent (browser agents)  interaction are well understood by anyone who has deployed them at scale. The two dominant methods — visual screen-scraping and DOM parsing — both suffer from fundamental inefficiencies that directly affect enterprise budgets.\n\n\nWith screenshot-based approaches, agents pass images into multimodal models (like Claude and Gemini) and hope the model can identify not only what is on the screen, but where buttons, form fields, and interactive elements are located. Each image consumes thousands of tokens and can have a long latency. With DOM-based approaches, agents ingest raw HTML and JavaScript — a foreign language full of various tags, CSS rules, and structural markup that is irrelevant to the task at hand but still consumes context window space and inference cost.\nIn both cases, the agent is translating between what the website was designed for (human eyes) and what the model needs (structured data about available actions). A single product search that a human completes in seconds can require dozens of sequential agent interactions — clicking filters, scrolling pages, parsing results — each one an inference call that adds latency and cost.\nHow WebMCP works: Two APIs, one standard\nWebMCP proposes two complementary APIs that serve as a bridge between websites and AI agents.\nThe Declarative API handles standard actions that can be defined directly in existing HTML forms. For organizations with well-structured forms already in production, this pathway requires minimal additional work; by adding tool names and descriptions to existing form markup, developers can make those forms callable by agents. If your HTML forms are already clean and well-structured, you are probably already 80% of the way there.\nThe Imperative API handles more complex, dynamic interactions that require JavaScript execution. This is where developers define richer tool schemas — conceptually similar to the tool definitions sent to the OpenAI or Anthropic API endpoints, but running entirely client-side in the browser. Through the registerTool(), a website can expose functions like searchProducts(query, filters) or orderPrints(copies, page_size) with full parameter schemas and natural language descriptions.\nThe key insight is that a single tool call through WebMCP can replace what might have been dozens of browser-use interactions. An e-commerce site that registers a searchProducts tool lets the agent make one structured function call and receive structured JSON results, rather than having the agent click through filter dropdowns, scroll through paginated results, and screenshot each page.\nThe enterprise case: Cost, reliability, and the end of fragile scraping\nFor IT decision makers evaluating agentic AI deployments, WebMCP addresses three persistent pain points simultaneously.\nCost reduction is the most immediately quantifiable benefit. By replacing sequences of screenshot captures, multimodal inference calls, and iterative DOM parsing with single structured tool calls, organizations can expect significant reductions in token consumption. \nReliability improves because agents are no longer guessing about page structure. When a website explicitly publishes a tool contract — \"here are the functions I support, here are their parameters, here is what they return\" — the agent operates with certainty rather than inference. Failed interactions due to UI changes, dynamic content loading, or ambiguous element identification are largely eliminated for any interaction covered by a registered tool.\nDevelopment velocity accelerates because web teams can leverage their existing front-end JavaScript rather than standing up separate backend infrastructure. The specification emphasizes that any task a user can accomplish through a page's UI can be made into a tool by reusing much of the page's existing JavaScript code. Teams do not need to learn new server frameworks or maintain separate API surfaces for agent consumers.\nHuman-in-the-loop by design, not an afterthought\nA critical architectural decision separates WebMCP from the fully autonomous agent paradigm that has dominated recent headlines. The standard is explicitly designed around cooperative, human-in-the-loop workflows — not unsupervised automation.\nAccording to Khushal Sagar, a staff software engineer for Chrome, the WebMCP specification identifies three pillars that underpin this philosophy. \n\nContext: All the data agents need to understand what the user is doing, including content that is often not currently visible on screen. \n\nCapabilities: Actions the agent can take on the user's behalf, from answering questions to filling out forms. \n\nCoordination: Controlling the handoff between user and agent when the agent encounters situations it cannot resolve autonomously.\n\nThe specification's authors at Google and Microsoft illustrate this with a shopping scenario: a user named Maya asks her AI assistant to help find an eco-friendly dress for a wedding. The agent suggests vendors, opens a browser to a dress site, and discovers the page exposes WebMCP tools like getDresses() and showDresses().  When Maya's criteria go beyond the site's basic filters, the agent calls those tools to fetch product data, uses its own reasoning to filter for \"cocktail-attire appropriate,\" and then calls showDresses()to update the page with only the relevant results. It's a fluid loop of human taste and agent capability, exactly the kind of collaborative browsing that WebMCP is designed to enable.\nThis is not a headless browsing standard. The specification explicitly states that headless and fully autonomous scenarios are non-goals. For those use cases, the authors point to existing protocols like Google's Agent-to-Agent (A2A) protocol. WebMCP is about the browser — where the user is present, watching, and collaborating.\nNot a replacement for MCP, but a complement\nWebMCP is not a replacement for Anthropic's Model Context Protocol, despite sharing a conceptual lineage and a portion of its name. It does not follow the JSON-RPC specification that MCP uses for client-server communication. Where MCP operates as a back-end protocol connecting AI platforms to service providers through hosted servers, WebMCP operates entirely client-side within the browser.\nThe relationship is complementary. A travel company might maintain a back-end MCP server for direct API integrations with AI platforms like ChatGPT or Claude, while simultaneously implementing WebMCP tools on its consumer-facing website so that browser-based agents can interact with its booking flow in the context of a user's active session. The two standards serve different interaction patterns without conflict.\nThe distinction matters for enterprise architects. Back-end MCP integrations are appropriate for service-to-service automation where no browser UI is needed. WebMCP is appropriate when the user is present and the interaction benefits from shared visual context — which describes the majority of consumer-facing web interactions that enterprises care about.\nWhat comes next: From flag to standard\nWebMCP is currently available in Chrome 146 Canary behind the \"WebMCP for testing\" flag at chrome://flags. Developers can join the Chrome Early Preview Program for access to documentation and demos. Other browsers have not yet announced implementation timelines, though Microsoft's active co-authorship of the specification suggests Edge support is likely.\nIndustry observers expect formal browser announcements by mid-to-late 2026, with Google Cloud Next and Google I/O as probable venues for broader rollout announcements. The specification is transitioning from community incubation within the W3C to a formal draft — a process that historically takes months but signals serious institutional commitment.\nThe comparison that Sagar has drawn is instructive: WebMCP aims to become the USB-C of AI agent interactions with the web. A single, standardized interface that any agent can plug into, replacing the current tangle of bespoke scraping strategies and fragile automation scripts.\nWhether that vision is realized depends on adoption — by both browser vendors and web developers. But with Google and Microsoft jointly shipping code, the W3C providing institutional scaffolding, and Chrome 146 already running the implementation behind a flag, WebMCP has cleared the most difficult hurdle any web standard faces: getting from proposal to working software.",
+        "published": "2026-02-12T16:30:00.000Z",
+        "source": "VentureBeat",
+        "sourceKey": "venturebeat",
+        "priority": 1,
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1qICIKh5QjKnFUVNWBfR1s/3e006949fd944a8ef8fb6e3ab0db67b9/webmcp-story.png?w=300&q=30",
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "google",
+          "claude"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple's M5 iPad Pro Hits Multiple Record Low Prices on Amazon [Updated]",
+        "link": "https://www.macrumors.com/2026/02/12/m5-ipad-pro-record-low-prices/",
+        "description": "Amazon this week is offering discounts across the M5 iPad Pro lineup, including both 11-inch and 13-inch models. Every deal on the 11-inch M5 iPad Pro that we're tracking below is a match of the all-time low price on these tablets.\r\n\r\nNote: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\r\n\r\n$799.91, down from $999.00. Amazon provides an estimated delivery date around February 17 for free delivery, but Prime members should see earlier delivery dates in many cases.\r\n\r\n\n$199 OFF\n11-inch M5 iPad Pro (256GB Wi-Fi) for $799.91\n\n\r\n\n$150 OFF\n11-inch M5 iPad Pro (1TB Nano-Texture Wi-Fi) for $1,549.00\n\n\r\n\r\nThere are fewer 13-inch M5 iPad Pro models on sale during this event, but you can find $150 off a few Wi-Fi models on Amazon. Prices start at $1,199.00 for the 256GB Wi-Fi 13-inch M5 iPad Pro ($100 off), and also include the 1TB Wi-Fi Nano-Texture Glass model for $1,849.00 ($150 off).\r\n\r\n11-Inch M5 iPad Pro\n\r\n\n256GB Wi-Fi - $799.91 ($199 off)\n\r\n512GB Wi-Fi - $1,099.00 ($100 off)\n\r\n1TB Wi-Fi - $1,449.00 ($150 off)\n\r\n1TB Nano-Texture Glass Wi-Fi - $1,549.00 ($150 off)\n\r\n2TB Wi-Fi - $1,849.00 ($150 off)\n\r\n2TB Nano-Texture Glass Wi-Fi - $1,949.00 ($150 off)\n\r\n13-Inch M5 iPad Pro\n\r\n\n256GB Wi-Fi - $1,199.00 ($100 off)\n\r\n512GB Wi-Fi - $1,399.00 ($100 off)\n\r\n1TB Wi-Fi - $1,749.00 ($150 off)\n\r\n1TB Nano-Texture Glass Wi-Fi - $1,849.00 ($150 off)\n\r\n\r\nApple Deals roundup where we recap the best Apple-related bargains of the past week.\r\n\r\nUpdate: Amazon has further discounted the 256GB 11-inch iPad Pro, now available for $199 off.\r\n\r\n\r\n\r\nDeals Newsletter\n\r\nInterested in hearing more about the best deals you can find in 2026? Sign up for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!\r\n\r\n\r\n\r\n\n\n\n\n\n\r\n\nRelated Roundup: Apple Deals\nThis article, \"Apple's M5 iPad Pro Hits Multiple Record Low Prices on Amazon [Updated]\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-02-12T15:12:53.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2025/10/m5-ipad-pro.jpeg",
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "apple",
+          "amazon"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": " Anthropic promises to pay for electricity price increases due to it's AI data centers — firm to pay 100% of its grid infrastructure costs, produce new power sources as sector predicted to hit 50 GW in coming years ",
+        "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-promises-to-pay-for-electricity-price-increases-due-to-its-ai-data-centers-firm-to-pay-100-percent-of-its-grid-infrastructure-costs-produce-new-power-sources-as-sector-predicted-to-hit-50-gw-in-coming-years",
+        "description": "The company says that it will pay for the infrastructure upgrades needed for its power demand and that it will also find new sources to keep electricity prices down for the average consumer.",
+        "published": "2026-02-12T12:46:20.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/dgDDQskor8eLNcHin58bwH-1280-80.jpg",
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "anthropic",
+          "data center"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Amazon's Send to Alexa+ feature arrives on Kindle Scribe and Scribe Colorsoft",
+        "link": "https://www.engadget.com/mobile/tablets/amazons-send-to-alexa-feature-arrives-on-kindle-scribe-and-scribe-colorsoft-140000093.html?src=rss",
+        "description": "Amazon is launching a feature that will add a new artificial intelligence layer to its writing tablets. \"Send to Alexa+\" is rolling out to the current generation of Kindle Scribe and Kindle Scribe Colorsoft devices. This concept was announced when Amazon first debuted the Kindle Scribe Colorsoft last fall, but the company said that the feature wouldn't be available until this year.\nAs the name implies, “Send to Alexa+” lets users share their notebooks and documents from their supported Kindle with the Alexa+ AI assistant, making their information accessible on other Amazon platforms, including Alexa.com and the Alexa app. Prime members and Alexa+ subscribers will also be able to reach their Kindle documents on Echo and Fire TV devices. Alexa+ will be able to perform additional tasks such as summarizing notes, creating to-do lists and adding either calendar items or reminders. \nThis article originally appeared on Engadget at https://www.engadget.com/mobile/tablets/amazons-send-to-alexa-feature-arrives-on-kindle-scribe-and-scribe-colorsoft-140000093.html?src=rss",
+        "published": "2026-02-12T14:00:00.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "amazon",
+          "intel",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "OpenAI’s President Gave Millions to Trump. He Says It’s for Humanity",
+        "link": "https://www.wired.com/story/openai-president-greg-brockman-political-donations-trump-humanity/",
+        "description": "In an interview with WIRED, Greg Brockman says his political donations support OpenAI's mission—even if some employees at the company disagree.",
+        "published": "2026-02-12T19:00:00.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "MiniMax's new open M2.5 and M2.5 Lightning near state-of-the-art while costing 1/20th of Claude Opus 4.6",
+        "link": "https://venturebeat.com/technology/minimaxs-new-open-m2-5-and-m2-5-lightning-near-state-of-the-art-while",
+        "description": "Chinese AI startup MiniMax, headquartered in Shanghai, has sent shockwaves through the AI industry today with the release of its new M2.5 language model in two variants, which promise to make high-end artificial intelligence so cheap you might stop worrying about the bill entirely. \nIt's also said to be \"open source,\" though the weights (settings) and code haven't been posted yet, nor has the exact license type or terms. But that's almost beside the point given how cheap MiniMax is serving it through its API and those of partners.\nFor the last few years, using the world’s most powerful AI was like hiring an expensive consultant—it was brilliant, but you watched the clock (and the token count) constantly. M2.5 changes that math, dropping the cost of the frontier by as much as 95%.\n\nBy delivering performance that rivals the top-tier models from Google and Anthropic at a fraction of the cost,  particularly in agentic tool use for enterprise tasks, including creating Microsoft Word, Excel and PowerPoint files, MiniMax is betting that the future isn't just about how smart a model is, but how often you can afford to use it.\nIndeed, to this end, MiniMax says it worked \"with senior professionals in fields such as finance, law, and social sciences\" to ensure the model could perform real work up to their specifications and standards.\nThis release matters because it signals a shift from AI as a \"chatbot\" to AI as a \"worker\". When intelligence becomes \"too cheap to meter,\" developers stop building simple Q&A tools and start building \"agents\"—software that can spend hours autonomously coding, researching, and organizing complex projects without breaking the bank.\nIn fact, MiniMax has already deployed this model into its own operations. Currently, 30% of all tasks at MiniMax HQ are completed by M2.5, and a staggering 80% of their newly committed code is generated by M2.5!\nAs the MiniMax team writes in their release blog post, \"we believe that M2.5 provides virtually limitless possibilities for the development and operation of agents in the economy.\"\nTechnology: sparse power and the CISPO breakthrough\nThe secret to M2.5’s efficiency lies in its Mixture of Experts (MoE) architecture. Rather than running all of its 230 billion parameters for every single word it generates, the model only \"activates\" 10 billion. This allows it to maintain the reasoning depth of a massive model while moving with the agility of a much smaller one.\nTo train this complex system, MiniMax developed a proprietary Reinforcement Learning (RL) framework called Forge. MiniMax engineer Olive Song stated on the ThursdAI podcast on YouTube that this technique was instrumental to scaling the performance even while using the relatively small number of parameters, and that the model was trained over a period of two months.\n\nForge is designed to help the model learn from \"real-world environments\" — essentially letting the AI practice coding and using tools in thousands of simulated workspaces. \n\"What we realized is that there's a lot of potential with a small model like this if we train reinforcement learning on it with a large amount of environments and agents,\" Song said. \"But it's not a very easy thing to do,\" adding that was what they spent \"a lot of time\" on.\nTo keep the model stable during this intense training, they used a mathematical approach called CISPO (Clipping Importance Sampling Policy Optimization) and shared the formula on their blog.\nThis formula ensures the model doesn't over-correct during training, allowing it to develop what MiniMax calls an \"Architect Mindset\". Instead of jumping straight into writing code, M2.5 has learned to proactively plan the structure, features, and interface of a project first.\nState-of-the-art (and near) benchmarks\nThe results of this architecture are reflected in the latest industry leaderboards. M2.5 hasn't just improved; it has vaulted into the top tier of coding models, approaching Anthropic's latest model, Claude Opus 4.6, released just a week ago, and showing that Chinese companies are now just days away from catching up to far better resourced (in terms of GPUs) U.S. labs.\nHere are some of the new MiniMax M2.5 benchmark highlights:\n\nSWE-Bench Verified: 80.2% — Matches Claude Opus 4.6 speeds\n\nBrowseComp: 76.3% — Industry-leading search & tool use.\n\nMulti-SWE-Bench: 51.3% — SOTA in multi-language coding\n\nBFCL (Tool Calling): 76.8% — High-precision agentic workflows.\n\nOn the ThursdAI podcast, host Alex Volkov pointed out that MiniMax M2.5 operates extremely quickly and therefore uses less tokens to complete tasks, on the order $0.15 per task compared to $3.00 for Claude Opus 4.6.\nBreaking the cost barrier\nMiniMax is offering two versions of the model through its API, both focused on high-volume production use:\n\nM2.5-Lightning: Optimized for speed, delivering 100 tokens per second. It costs $0.30 per 1M input tokens and $2.40 per 1M output tokens.\n\nStandard M2.5: Optimized for cost, running at 50 tokens per second. It costs half as much as the Lightning version ($0.15 per 1M input tokens / $1.20 per 1M output tokens).\n\nIn plain language: MiniMax claims you can run four \"agents\" (AI workers) continuously for an entire year for roughly $10,000. \nFor enterprise users, this pricing is roughly 1/10th to 1/20th the cost of competing proprietary models like GPT-5 or Claude 4.6 Opus.\n\n\nModel\n\nInput\n\nOutput\n\nTotal Cost\n\nSource\n\n\nQwen 3 Turbo\n\n$0.05\n\n$0.20\n\n$0.25\n\nAlibaba Cloud\n\n\ndeepseek-chat (V3.2-Exp)\n\n$0.28\n\n$0.42\n\n$0.70\n\nDeepSeek\n\n\ndeepseek-reasoner (V3.2-Exp)\n\n$0.28\n\n$0.42\n\n$0.70\n\nDeepSeek\n\n\nGrok 4.1 Fast (reasoning)\n\n$0.20\n\n$0.50\n\n$0.70\n\nxAI\n\n\nGrok 4.1 Fast (non-reasoning)\n\n$0.20\n\n$0.50\n\n$0.70\n\nxAI\n\n\nMiniMax M2.5\n\n$0.15\n\n$1.20\n\n$1.35\n\nMiniMax\n\n\nMiniMax M2.5-Lightning\n\n$0.30\n\n$2.40\n\n$2.70\n\nMiniMax\n\n\nGemini 3 Flash Preview\n\n$0.50\n\n$3.00\n\n$3.50\n\nGoogle\n\n\nKimi-k2.5\n\n$0.60\n\n$3.00\n\n$3.60\n\nMoonshot\n\n\nGLM-5\n\n$1.00\n\n$3.20\n\n$4.20\n\nZ.ai\n\n\nERNIE 5.0\n\n$0.85\n\n$3.40\n\n$4.25\n\nBaidu\n\n\nClaude Haiku 4.5\n\n$1.00\n\n$5.00\n\n$6.00\n\nAnthropic\n\n\nQwen3-Max (2026-01-23)\n\n$1.20\n\n$6.00\n\n$7.20\n\nAlibaba Cloud\n\n\nGemini 3 Pro (≤200K)\n\n$2.00\n\n$12.00\n\n$14.00\n\nGoogle\n\n\nGPT-5.2\n\n$1.75\n\n$14.00\n\n$15.75\n\nOpenAI\n\n\nClaude Sonnet 4.5\n\n$3.00\n\n$15.00\n\n$18.00\n\nAnthropic\n\n\nGemini 3 Pro (>200K)\n\n$4.00\n\n$18.00\n\n$22.00\n\nGoogle\n\n\nClaude Opus 4.6\n\n$5.00\n\n$25.00\n\n$30.00\n\nAnthropic\n\n\nGPT-5.2 Pro\n\n$21.00\n\n$168.00\n\n$189.00\n\nOpenAI\n\n\nStrategic implications for enterprises and leaders\nFor technical leaders, M2.5 represents more than just a cheaper API. It changes the operational playbook for enterprises right now.\nThe pressure to \"optimize\" prompts to save money is gone. You can now deploy high-context, high-reasoning models for routine tasks that were previously cost-prohibitive.\nThe 37% speed improvement in end-to-end task completion means the \"agentic\" pipelines valued by AI orchestrators — where models talk to other models — finally move fast enough for real-time user applications.\nIn addition, M2.5’s high scores in financial modeling (74.4% on MEWC) suggest it can handle the \"tacit knowledge\" of specialized industries like law and finance with minimal oversight.\nBecause M2.5 is positioned as an open-source model, organizations can potentially run intensive, automated code audits at a scale that was previously impossible without massive human intervention, all while maintaining better control over data privacy, but until the licensing terms and weights are posted, this remains just a moniker. \nMiniMax M2.5 is a signal that the frontier of AI is no longer just about who can build the biggest brain, but who can make that brain the most useful—and affordable—worker in the room.",
+        "published": "2026-02-12T20:28:00.000Z",
+        "source": "VentureBeat",
+        "sourceKey": "venturebeat",
+        "priority": 1,
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/7BkiJw4Sda8kmGOMjm0AHC/d1258ce9ca1f941e68065f23464ce4a9/Zmf7qn_asvrC8yIjNKJqx_gtzOnyvS.png?w=300&q=30",
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "intel",
+          "claude",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Sony’s WF-1000XM6 earbuds pack 32-bit audio and Google Gemini for a hefty $329",
+        "link": "https://9to5google.com/2026/02/12/sony-wf-1000xm6-earbuds-launch/",
+        "description": "Sony officially released its flagship WF-1000XM6 earbuds with what appears to be a plethora of thoughtful touches, including 32-bit audio processing reserved for high-end earbuds.\nmore…",
+        "published": "2026-02-12T17:21:28.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Sony-WF-1000XM6-official-1.jpg?quality=82&#038;strip=all&#038;w=1400",
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "google",
+          "gemini"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": " MyMiniFactory acquires Thingiverse to save 3D printing file sharing from AI — Thingverse has eight million users and 2.5 million 'things' ",
+        "link": "https://www.tomshardware.com/3d-printing/myminifactory-acquires-thingiverse-to-save-3d-printing-file-sharing-from-ai-thingverse-has-eight-million-users-and-2-5-million-things",
+        "description": "MyMiniFactory has announced the surprise acquisition of the world’s oldest and largest 3D printing file sharing site, Thingiverse.",
+        "published": "2026-02-12T15:57:52.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/qyZPS9woxeVvcc7EcLDMP9-1280-80.png",
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "acquisition",
+          "acquires"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "OpenAI dishes out its first model on a plate of Cerebras silicon",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/openai_model_cerebras/",
+        "description": "",
+        "published": "2026-02-12T22:32:01.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Elon Musk paints exodus of xAI co-founders as 'evolution'",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/musk_xai_departures/",
+        "description": "",
+        "published": "2026-02-12T14:46:07.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "xai",
+          "elon musk"
         ],
         "category": "ai"
       },
@@ -282,48 +687,142 @@
         "category": "ai"
       },
       {
-        "title": "Samsung Says It Starts Commercial Shipment of HBM4 to Customer",
-        "link": "https://www.bloomberg.com/news/articles/2026-02-12/samsung-says-it-starts-commercial-shipment-of-hbm4-to-customer-mlj2njno",
-        "description": "Samsung Electronics Co. has begun commercial shipments of the latest version of its HBM4 memory chips to an unnamed customer, signaling a strategic lead over its rivals in the high-stakes AI memory market.",
-        "published": "2026-02-12T06:22:32.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 6,
+        "title": "YouTube Launches on Apple Vision Pro",
+        "link": "https://www.macrumors.com/2026/02/12/youtube-app-apple-vision-pro/",
+        "description": "Starting today, an official YouTube app is available on the Apple Vision Pro, allowing you to watch videos on a theater-sized screen with immersive visionOS Environments. \r\n\r\n\r\nEvery video on YouTube is available in the new, standalone visionOS app, including standard videos, 180° videos, 360° videos, and YouTube Shorts. And on the newer Apple Vision Pro with the M5 chip, you can even watch YouTube videos in 8K.\r\n\r\nApple Vision Pro users can access their YouTube subscriptions, playlists, watch history, and more.\r\n\r\n\r\nIt was already possible to watch YouTube videos via the Safari browser on the Apple Vision Pro, but there was no official YouTube app on the device until now. A third-party YouTube app called \"Juno\" was available on visionOS in 2024, but it was quickly removed from the App Store because it was deemed to be violating YouTube's Terms of Service.\r\n\r\nin the visionOS App Store. The app is compatible with Apple Vision Pro models with the M2 chip and the M5 chip.\nRelated Roundup: Apple Vision Pro\nTag: YouTube\nBuyer's Guide: Vision Pro (Buy Now)\nRelated Forum: Apple Vision Pro\nThis article, \"YouTube Launches on Apple Vision Pro\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-02-12T17:00:03.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/02/YouTube-App-Apple-Vision-Pro-visionOS.jpeg",
+        "relevanceScore": 5,
         "matchedKeywords": [
-          "samsung",
+          "apple",
           "chip"
         ],
         "category": "ai"
       },
       {
-        "title": "Clear Street Said to Weigh Downsizing IPO on Investor Pushback",
-        "link": "https://www.bloomberg.com/news/articles/2026-02-12/clear-street-said-to-weigh-downsizing-ipo-on-investor-pushback",
-        "description": "Clear Street Group Inc. is considering reducing the size and price range of its initial public offering, according to people familiar with the matter.",
-        "published": "2026-02-12T03:19:07.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
+        "title": "Gemini 3 Deep Think gets ‘major upgrade’ aimed at practical applications",
+        "link": "https://9to5google.com/2026/02/12/gemini-3-deep-think-upgrade/",
+        "description": "Deep Think is Gemini’s “specialized reasoning mode,” and Google today announced a “major upgrade” to let it “solve modern challenges across science, research, and engineering.” \nmore…",
+        "published": "2026-02-12T17:13:38.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Gemini-3-Deep-Think-update-cover-1.jpg?quality=82&#038;strip=all&#038;w=1600",
         "relevanceScore": 5,
         "matchedKeywords": [
-          "ipo"
+          "google",
+          "gemini"
         ],
         "category": "ai"
       },
       {
-        "title": "WhatsApp Says Russia Has Tried to Block Its Messaging Service",
-        "link": "https://www.bloomberg.com/news/articles/2026-02-12/whatsapp-says-russia-has-tried-to-block-its-messaging-service",
-        "description": "WhatsApp said Russia’s government has moved to “fully block” its popular encrypted messaging service in the country as part of an effort to drive adoption of a new, state-sponsored app.",
-        "published": "2026-02-12T01:31:00.000Z",
+        "title": " Montage's strong IPO highlights Chinese investment rush into AI and data center ecosystems — push for self-sufficiency demands immense amounts of capital ",
+        "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/montages-strong-ipo-highlights-chinese-investment-rush-into-ai-and-data-center-ecosystems-push-for-self-sufficiency-demands-immense-amounts-of-capital",
+        "description": "AI and microelectronics boom in China drives IPOs as investors put money both in AI startups and adjacent sectors.",
+        "published": "2026-02-12T12:38:21.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/mS9LgPSRpja32Ubyvnp83i-1280-80.jpg",
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "ipo",
+          "data center"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Asia leapfrogging the West in onchain retail use as regional hubs lead on stablecoin rules",
+        "link": "https://www.coindesk.com/business/2026/02/12/asia-leapfrogging-the-west-in-onchain-retail-use-as-regional-hubs-lead-on-stablecoin-rules",
+        "description": "Experts at Consensus Hong Kong said regional focus on user utility and stablecoin regulation is driving adoption.",
+        "published": "2026-02-12T15:00:04.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "regulation",
+          "stablecoin"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Spotify says its best developers haven’t written a line of code since December, thanks to AI",
+        "link": "https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/",
+        "description": "Spotify credits Claude Code and its internal AI system Honk with speeding up development.",
+        "published": "2026-02-12T18:30:12.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "claude"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Highguard studio lays off 'most' of its team just weeks after the game went live",
+        "link": "https://www.engadget.com/gaming/highguard-studio-lays-off-most-of-its-team-just-weeks-after-the-game-went-live-165919815.html?src=rss",
+        "description": "Wildlight Entertainment, the studio behind Highguard, has laid off many staffers. Level designer Alex Graner wrote in a LinkedIn post that the layoffs impacted \"most of the team.\" The company says it's keeping a \"core group of developers to continue innovating on and supporting the game.\" That sounds like a skeleton crew.\n\nToday we made an incredibly difficult decision to part ways with a number of our team members while keeping a core group of developers to continue innovating on and supporting the game.\nWe're proud of the team, talent, and the product we've created together. We're also grateful…\n— Wildlight Entertainment (@WildlightEnt) February 12, 2026\nHighguard is an arena shooter with an impressive pedigree. The team included many Apex Legends and Titanfall developers. The title was first announced as a \"one more thing\" surprise during the 2025 Game Awards, which was met with a lukewarm response by those looking for something a bit more exciting to close out the show.\n\nThe game was released at the end of January, but the response to the final game was also a bit tepid. However, Wildlight proved quick to make adjustments based on player feedback. That's not always the case.\n\nDespite the company's efforts, the concurrent player count on Steam quickly dropped from around 100,000 to under 3,000 (where it sits right now.) It looks like that dwindling player count has now translated to massive layoffs just weeks after the initial release. Wildlight says it's \"grateful for players who gave the game a shot, and those who continue to be a part of our community.\"\nThis article originally appeared on Engadget at https://www.engadget.com/gaming/highguard-studio-lays-off-most-of-its-team-just-weeks-after-the-game-went-live-165919815.html?src=rss",
+        "published": "2026-02-12T16:59:19.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "layoffs"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple's Siri relaunch is reportedly behind schedule",
+        "link": "https://www.engadget.com/mobile/apples-siri-relaunch-is-reportedly-behind-schedule-125347471.html?src=rss",
+        "description": "Apple’s long-delayed AI-powered Siri redesign may not be rolling out this year, at least in the way the company had planned. According to Bloomberg’s Mark Gurman, Apple found problems with its software upon testing, such as the virtual assistant taking too long to accomplish tasks or even not processing queries properly altogether. Siri’s new version was also reportedly so sluggish during testing that its developers believed Apple would have to push back its launch by months. Instead of releasing the redesigned assistant in March as was previously reported, Gurman says Apple will roll out its capabilities piecemeal over future software updates. \nThe company originally unveiled the redesigned Siri back in 2024, promising an AI-powered assistant that can do tasks for you, such as finding specific photos or tracking details, adding information to contact cards, editing photos and sharing note summaries to be sent as emails. It was slated to make its way to iOS users in 2025, but Apple announced that year that it was going to be delayed. “It’s going to take us longer than we thought to deliver on these features and we anticipate rolling them out in the coming year,” the company said. Bloomberg reported back then that the new AI-infused Siri was going to be included in a planned iOS 26.4 update due in March instead. Based on this latest report, however, we might only get a portion of Siri’s new capabilities next month. More capabilities could be released with iOS 26.5  in May and with iOS 27 later this year.\nIn January this year, Apple confirmed reports that Google’s Gemini models will help power the new Siri. “After careful evaluation, Apple determined that Google's Al technology provides the most capable foundation for Apple Foundation Models and is excited about the innovative new experiences it will unlock for Apple users,” the company said in a statement. The revamped assistant is expected to behave like an AI chatbot, similar to OpenAI's ChatGPT, when it does become available. \nThis article originally appeared on Engadget at https://www.engadget.com/mobile/apples-siri-relaunch-is-reportedly-behind-schedule-125347471.html?src=rss",
+        "published": "2026-02-12T12:53:47.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Russia blocks WhatsApp as messaging app crackdown gathers pace",
+        "link": "https://www.cnbc.com/2026/02/12/russia-whatsapp-meta-max.html",
+        "description": "WhatsApp on Thursday said Russia had attempted to \"fully block\" its service, with 100 million users affected. The Kremlin later confirmed the move.",
+        "published": "2026-02-12T11:28:16.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "agi"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Former Karaoke Company Drags Logistics Into the ‘AI Scare Trade’",
+        "link": "https://www.bloomberg.com/news/articles/2026-02-12/logistics-stocks-plunge-as-latest-victim-in-ai-disruption-trade",
+        "description": "Logistics stocks plunged on Thursday as the group became the latest victim of the artificial intelligence “scare trade.” At the center of the selloff: a former karaoke company with a stock-market value of only $6 million.",
+        "published": "2026-02-12T16:55:25.000Z",
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
         "relevanceScore": 4,
         "matchedKeywords": [
-          "agi"
+          "intel",
+          "artificial intelligence"
         ],
         "category": "ai"
       },
@@ -344,6 +843,187 @@
         "category": "ai"
       },
       {
+        "title": "Apple’s WebKit team outlines browser interoperability priorities for 2026",
+        "link": "https://9to5mac.com/2026/02/12/apples-webkit-team-outlines-browser-interoperability-priorities-for-2026/",
+        "description": "Following last week’s release of the Interop 2025 results, Apple and the other members of the browser interoperability group have now outlined their objectives for the year ahead. Here are the details.\nmore…",
+        "published": "2026-02-12T20:48:09.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/safari-ios26.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple just gave AirPods Pro 3 and more new beta firmware",
+        "link": "https://9to5mac.com/2026/02/12/apple-just-gave-airpods-pro-3-and-more-new-beta-firmware/",
+        "description": "Apple has new beta firmware available today for AirPods Pro 3, AirPods Pro 2, and AirPods 4. Here are the details.\nmore…",
+        "published": "2026-02-12T19:33:44.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/airpods-pro-3-in-case.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "9to5Mac Daily: February 12, 2026 – Siri features delayed once again",
+        "link": "https://9to5mac.com/2026/02/12/daily-february-12-2026/",
+        "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Stuff: Stuff helps you get everything out of your head and into a simple, elegant system—closing open loops and reducing mental stress. Use code 9TO5 at checkout for 50% off your first year.\n\n\n\n\n more…",
+        "published": "2026-02-12T17:41:49.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google",
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple Creator Studio AI usage limits seem dramatically lower than promised",
+        "link": "https://9to5mac.com/2026/02/12/apple-creator-studio-ai-usage-limits-seem-dramatically-lower-than-promised/",
+        "description": "When Apple launched the Apple Creator Studio (ACS) subscription, the company indicated that you could use the AI features to produce 50 Keynote presentations per month “as a minimum.” However, developer and security researcher Steve Troughton-Smith had a very different experience when it came to AI usage limits.\nHe reported that far from being able to produce 50 presentations, a single Keynote slideshow used half of his monthly ACS limit, so the limit would be just two …\nmore…",
+        "published": "2026-02-12T12:13:06.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/Apple-Creator-Studio-AI-usage-limits-seem-dramatically-lower-than-promised.jpg?quality=82&#038;strip=all&#038;w=1500",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Live Activities Taking Over Your Apple Watch? Here's the Fix",
+        "link": "https://www.macrumors.com/how-to/apple-watch-live-activities-fix/",
+        "description": "In watchOS 26, the Smart Stack for your Apple Watch is pretty clever. The collection of widgets can be pulled up with a scroll of the Digital Crown, and shows you relevant information throughout your day. But sometimes, its eagerness to help can be a bit much, especially when it comes to Live Activities.\r\n\r\n\r\nYou're probably familiar with this scenario: You raise your wrist expecting to see your customized watch face, but it's been replaced by media playback controls because someone's watching your Apple TV, or a timer you set earlier for cooking that still has ages left to run. Live Activities in the Smart Stack can clearly be useful, but having them automatically take over your display isn't always ideal. Here's how to take back control:\r\n\r\n  \nOpen Settings on your Apple Watch.\n\r\n  \nTap Smart Stack.\n\r\n  \nSelect Live Activities.\n\r\n  \nToggle off the switch next to Auto-Launch Live Activities.\n\r\n\r\n\r\nAfter disabling auto-launch, Live Activities will still be available in your Smart Stack when you want them – you'll just need to manually scroll to see them instead of having them pop up automatically.\r\n\r\nIf you want more granular control, you're in luck. From the same settings screen you can control which Apple apps display Live Activities. Using the Watch app on your iPhone, you can also manage Live Activities settings for third-party apps. This lets you keep the notifications you find useful while preventing the less important ones from interrupting your watch face.\r\n\r\nMedia Apps in the same settings menu and turn off Live Activities completely, or alternatively under \"Auto-Launch,\" select Off or Smart Stack for a more focused watch face experience.\nThis article, \"Live Activities Taking Over Your Apple Watch? Here's the Fix\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-02-12T20:22:16.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2024/12/live-activities-watch.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple Releases New Beta Firmware for AirPods Pro 2, AirPods Pro 3 and AirPods 4",
+        "link": "https://www.macrumors.com/2026/02/12/apple-airpods-beta-firmware-8b5034f/",
+        "description": "Apple today released new beta firmware for the AirPods Pro 2, AirPods Pro 3, and AirPods 4. The firmware is limited to developers at the current time, and it has a build number of 8B5034f.\r\n\r\n\r\nApple is not testing any iOS updates right now, so it is unclear what's in the AirPods firmware beta.\r\n\r\niOS 26, iPadOS 26, and macOS Tahoe, Apple added a beta firmware update installation option that's available from the AirPods settings interface when the AirPods are connected to an iPhone, iPad, or Mac, which facilitates beta testing.\r\n\r\nThis article, \"Apple Releases New Beta Firmware for AirPods Pro 2, AirPods Pro 3 and AirPods 4\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-02-12T19:29:38.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2021/06/AirPods-Pro-Beta-Firmware-2.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple Releases Safari Technology Preview 237 With Bug Fixes and Performance Improvements",
+        "link": "https://www.macrumors.com/2026/02/12/apple-releases-safari-technology-preview-237/",
+        "description": "Apple today released a new update for Safari Technology Preview, the experimental browser that was first introduced in March 2016. Apple designed ‌Safari Technology Preview‌ to allow users to test features that are planned for future release versions of the Safari browser.\r\n\r\n\r\n‌Safari Technology Preview‌ 237 includes fixes and updates for Accessibility, CSS, DOM, HTML, Networking, Rendering, SVG, Web API, Web Authentication, Web Extensions, Web Inspector, and WebRTC.\r\n\r\nmacOS Tahoe, the newest version of macOS.\r\n\r\ndownloaded the browser from Apple’s website. Complete release notes for the update are available on the Safari Technology Preview website.\r\n\r\nThis article, \"Apple Releases Safari Technology Preview 237 With Bug Fixes and Performance Improvements\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-02-12T18:21:13.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2024/07/Safari-Technology-Preview-Updated-Feature-1.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple Stores See iPhone 16e, iPad Air Shortages as New Models Near",
+        "link": "https://www.macrumors.com/2026/02/12/apple-stores-iphone-16e-ipad-air-shortages/",
+        "description": "Apple's retail inventory of iPhone 16e and iPad Air models has reportedly dwindled to almost nothing as the company inches towards the release of new versions of both devices. They are expected to launch in the coming weeks.\r\n\r\n\r\nIn a post on X (Twitter), Bloomberg reporter Mark Gurman said that stock of iPhone 16e models has \"basically dried out,\" while the iPad Air is seeing shortages as well, based on what his Apple retail contacts are telling him.\r\n\r\nimminently\" with four new features, including the A19 chip, MagSafe connectivity, Apple's new cellular C1X modem chip, and its N1 chip for Bluetooth, Wi-Fi, and Thread connectivity. The device is expected to retain the same $599 starting price as its predecessor.\r\n\r\nnear future. Both devices are not expected to feature design changes or major enhancements, and will instead feature new chips. The 12th-generation ‌iPad‌ is set to feature the A18 chip with Apple Intelligence, while the eighth-generation ‌iPad Air‌ will apparently feature the M4 chip.\r\n\r\nMacRumors, so stay tuned.\nRelated Roundups: iPad Air , iPhone 16e\nTag: Mark Gurman\nBuyer's Guide: iPad Air (Neutral), iPhone 16e (Caution)\nRelated Forums: iPad, iPhone\nThis article, \"Apple Stores See iPhone 16e, iPad Air Shortages as New Models Near\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-02-12T10:34:06.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2025/07/iPhone-17e-Feature-1.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Google Maps reportedly prepping car icon and color picker for Android Auto",
+        "link": "https://9to5google.com/2026/02/12/google-maps-reportedly-prepping-car-icon-and-color-picker-for-android-auto/",
+        "description": "The new Google Maps custom car icons have been available for a year, and more recently, the existence of custom icons in the Android Auto build. A new APK teardown report alleges that Google is preparing to bring that car color and icon picker to Android Auto displays, too.\nmore…",
+        "published": "2026-02-12T15:50:25.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/05/Android-Auto-Maps-and-Music-playback-3.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": " Nvidia DGX Spark update cuts idle power by 32% or more — hot-plug detection on ConnectX NIC makes for a more efficient AI workstation ",
+        "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-dgx-spark-update-cuts-idle-power-by-32-percent-or-more-hot-plug-detection-on-connectx-nic-makes-for-a-more-efficient-ai-workstation",
+        "description": "The latest software update for Nvidia's DGX Spark reduces idle power by 32% or more, thanks to better power management on its 200 Gbps ConnectX NIC.",
+        "published": "2026-02-12T20:15:26.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/CpXqLWLuKomTcBNGL65C3k-1280-80.png",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "nvidia"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Waymo launching China-made van that won't fail in rain, snow, or gloom of night",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/waymo_6th_gen_autonomous_driving_system/",
+        "description": "",
+        "published": "2026-02-12T21:36:35.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "waymo"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Oracle suits up for Air Force Cloud One program with $88M contract",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/oracle_airforce_cloud_88m/",
+        "description": "",
+        "published": "2026-02-12T17:40:15.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "oracle"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "Microsoft warns that poisoned AI buttons and links may betray your trust",
         "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/microsoft_ai_recommendation_poisoning/",
         "description": "",
@@ -359,23 +1039,463 @@
         "category": "ai"
       },
       {
-        "title": "Siemens Boosts Outlook on Data Center and Software Demand",
-        "link": "https://www.bloomberg.com/news/articles/2026-02-12/siemens-boosts-outlook-after-automation-demand-offsets-fx-drag",
-        "description": "Siemens AG raised its outlook after demand for factory automation products boosted returns and orders including for data centers rose.",
-        "published": "2026-02-12T06:00:02.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
+        "title": "Space startups find more paths to liquidity as investors warm to maturing sector",
+        "link": "https://spacenews.com/space-startups-find-more-paths-to-liquidity-as-investors-warm-to-maturing-sector/",
+        "description": "Young space companies are gaining more ways to cash out or raise larger pools of capital as the industry matures and investors grow more comfortable with the sector.\nThe post Space startups find more paths to liquidity as investors warm to maturing sector appeared first on SpaceNews.",
+        "published": "2026-02-12T22:27:20.000Z",
+        "source": "SpaceNews",
+        "sourceKey": "spacenews",
+        "priority": 2,
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Mike-SmallSat-2026-scaled.jpg?fit=1024%2C566&amp;ssl=1",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "arm"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Eufy’s midrange X10 Pro Omni robovac has fallen to its best-ever price",
+        "link": "https://www.theverge.com/gadgets/877673/eufy-x10-pro-omni-nothing-phone-3-deal-sale",
+        "description": "Spring doesn’t officially kick off until March 20th, but there’s something to be said about getting a head start on your spring cleaning. Lucky for you, Eufy’s X10 Pro Omni is currently on sale at Amazon, Walmart, and directly from Eufy (with promo code WS7DV2D5LF9F) for $449.99 ($450 off), matching its lowest price to date.\nEufy X10 Pro Omni\n\nWhere to Buy:\n\n $899.99 $449.99 at Amazon\n $899.99 $449.99 at Eufy (with code WS7DV2D5LF9F)\n $899.99 $449.99 at Walmart\n\nAlthough it’s since been dethroned as our favorite midrange robot vacuum / mop hybrid, X10 Pro Omni remains a solid choice thanks to its excellent AI-powered obstacle detection, powerful oscillating mops, and user-friendly app. The dual-spinning brushes are capable of removing dried stains with 1kg of downward pressure, and a built-in water reservoir prevents the robovac from having to frequently return to the dock just to refill its tank. Unlike a lot of bots in this price range, it also benefits from heated drying function — though not heated mop washing — thus preventing the base from smelling after repeated use.\nOn the vacuuming front, the X10 Omni features a single rubber / bristle roller brush and 8,000Pa of suction, resulting in good performance on both carpet and tile surfaces. It offers great AI-powered object recognition, too, allowing it to deftly avoid pet messes, cables, toys, and other objects that might impede performance. Then there’s the Eufy Clean app — which lets you set schedules, establish no-go zones, and create virtual boundaries — culminating in a still-solid midrange vac. The fact that it can automatically empty its dust bin and refill its own water tank via the included multifunction dock just adds to the appeal.\nOther deals and discounts\nNothing Phone 3, the company’s “first true flagship phone,” is on sale at Amazon and Nothing’s online storefront with 12GB of RAM and 256GB of storage starting at $638.99 ($160 off), its best price to date. The newer flagship is really an exercise in form over function, as it’s equipped with a weaker chipset than rival models and a less capable camera array. Still, its circular dot-matrix display is wholly unique, especially if you’re willing to spend time tinkering with the various display pictures and icons. Read our review.\nEarlier this week, accessory maker Nomad introduced a “cosmic orange” version of its braided, USB-C ChargeKey. If you prefer the original black version, though, Nomad is currently selling a like-new, open-box version for an all-time low of $20 ($9 off). The nifty, keychain-friendly doohickey packs 240W of power and 10Gbps data transfer speeds, which is great if you want to quickly top off your iPhone or use it with an SSD for external video recording.\nIf you or someone you know is an aspiring birder — or, heaven forbid, a twitcher — the Birdbuddy Pro Solar is available at Target and Chewy for around $179 ($120 off), which is the lowest price we’ve seen. The solar-powered version is pretty similar to the standard model in that it can capture 2K video / 5-megapixel stills, offers several viewing angles (115 or 122 degrees), and provides plenty of detail regarding visiting birds; however, unlike the base model, the solar version doesn’t need to be charged every two or three weeks just to keep an eye on your feathery friends.",
+        "published": "2026-02-12T18:59:21.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
         "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Eufy-X10-Pro-Omni-Deal.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "amazon"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Elon Musk’s X Appears to Be Violating US Sanctions by Selling Premium Accounts to Iranian Leaders",
+        "link": "https://www.wired.com/story/elon-musk-x-premium-accounts-iran/",
+        "description": "While publicly supporting protesters in Iran, Elon Musk’s X appears to have been selling premium accounts to regime officials. Check marks were removed from certain accounts after a WIRED inquiry.",
+        "published": "2026-02-12T14:27:09.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
         "image": null,
         "relevanceScore": 3,
         "matchedKeywords": [
-          "data center",
-          "automation"
+          "elon musk"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "I Tried RentAHuman, Where AI Agents Hired Me to Hype Their AI Startups",
+        "link": "https://www.wired.com/story/i-tried-rentahuman-ai-agents-hired-me-to-hype-their-ai-startups/",
+        "description": "Rather than offering a revolutionary new approach to gig work, RentAHuman is filled with bots that just want me to be another cog in the AI hype machine.",
+        "published": "2026-02-12T11:00:00.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "revolutionary"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": " Corsair fights back against RAM scammers and thieves with packaging shift — ditches iconic yellow boxes for transparent plastic and anti-tampering labels ",
+        "link": "https://www.tomshardware.com/pc-components/ram/corsair-fights-back-against-ram-scammers-and-thieves-with-packaging-shift-ditches-iconic-yellow-boxes-for-transparent-plastic-and-anti-tampering-labels",
+        "description": "Corsair has informed its customers that it is revamping the packaging for its Vengeance DDR5 memory kits to enhance security and transparency.",
+        "published": "2026-02-12T18:21:52.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/Kb7m8r7tNXsvQatjtYDfN8-1280-80.jpg",
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "agi"
         ],
         "category": "ai"
       }
     ],
+    "regulation": [
+      {
+        "title": "Tim Cook Faces FTC Warning Over Apple News Curation",
+        "link": "https://www.macrumors.com/2026/02/12/tim-cook-faces-ftc-warning-apple-news/",
+        "description": "Apple has been issued a warning letter from the U.S. Federal Trade Commission, urging it to review its content curation for Apple News so as to ensure that it is not suppressing conservative publications.\r\n\r\n\r\nIn a letter to Apple CEO Tim Cook, seen by the Financial Times, FTC chairman Andrew Ferguson cites recent press coverage of a report from conservative media watchdog Media Research Center (MRC), which claimed that Apple has promoted \"leftist outlets\" in its content choices.\r\n\r\nFox News, the New York Post, the Daily Mail, Breitbart, and The Gateway Pundit.\r\n\r\nThe Washington Post, The Associated Press, Reuters, and The Wall Street Journal – publications that are traditionallly considered either center outlets or nonpartisan. \r\n\r\nFerguson, whom President Trump appointed to lead the U.S. competition and consumer protection watchdog, said Apple should conduct a \"comprehensive review\" of its terms of service and take corrective action if its content curation does not comply with them.\r\n\r\nFerguson added that the choice of stories on Apple News may violate the FTC Act, arguing that the stifling or promotion of content \"based on the perceived ideological or political viewpoint of the article or publication\" may be \"inconsistent\" with Apple's terms of service or the \"reasonable expectations of consumers.\"\r\n\"The FTC is not the speech police; we do not have the authority to require Apple or any other firm to take affirmative positions on any political issue, nor to curate news offerings consistent with one ideology or another. But Congress mandated that we protect consumers from material misrepresentations or omissions, including when the product or service offered to consumers is a speech-related product.\"\nThe letter came the day after President Donald Trump shared coverage of the MRC report on Truth Social. White House press secretary Karoline Leavitt also shared coverage of the MRC report on X on Wednesday.\r\n\r\nApple has not commented. The letter amounts to a sharp rebuke of Cook and marks an escalation in public tensions between Apple and members of the Trump administration. \r\n\r\nglass plaque mounted on a 24-carat gold base, a gesture that prompted an online backlash for its perceived obsequiousness.\nTags: Apple News, FTC\nThis article, \"Tim Cook Faces FTC Warning Over Apple News Curation\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-02-12T12:07:46.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2025/11/ios-26-2-apple-news-update.jpg",
+        "relevanceScore": 13,
+        "matchedKeywords": [
+          "apple",
+          "ftc",
+          "ceo",
+          "tim cook"
+        ],
+        "category": "regulation"
+      },
+      {
+        "title": "Top DOJ antitrust enforcer is out weeks before Live Nation trial",
+        "link": "https://www.theverge.com/policy/878163/doj-antitrust-chief-gail-slater-departs",
+        "description": "Gail Slater, the top antitrust enforcer at the Justice Department, announced Thursday that she has left her post, just weeks before the agency's next major tech monopoly trial against entertainment giant Live Nation is set to begin.\n\"It is with great sadness and abiding hope that I leave my role as AAG for Antitrust today,\" Slater posted from her personal X account. Slater thanked the staff of the Antitrust Division and called the role \"the honor of a lifetime.\" In a statement, Attorney General Pam Bondi thanked Slater for her service, but did not directly address questions about what precipitated her departure or who would take over as the …\nRead the full story at The Verge.",
+        "published": "2026-02-12T17:38:22.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKP214_GAIL_SLATER_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "antitrust",
+          "monopoly",
+          "doj"
+        ],
+        "category": "regulation"
+      },
+      {
+        "title": "Antitrust head overseeing Netflix-Warner merger resigns",
+        "link": "https://www.engadget.com/big-tech/antitrust-head-overseeing-netflix-warner-merger-resigns-192854114.html?src=rss",
+        "description": "The head of the antitrust division is out at the US Department of Justice. Gail Slater, a former JD Vance adviser and Fox Corp VP, reportedly clashed with Attorney General Pam Bondi. Their longstanding feud is said to have centered around Slater's skepticism of corporate mergers.\n\"It is with great sadness and abiding hope that I leave my role as [Assistant Attorney General] for Antitrust today,\" Slater posted on X. \"It was indeed the honor of a lifetime to serve in this role.\"\nAlthough Slater technically resigned, The Guardian reports that she was forced out. The fallout was said to be over her differences with Bondi (who just yesterday yelled, insulted and deflected her way through a hearing over the DOJ's stonewalling of the Epstein files). In recent weeks, Bondi reportedly reiterated to the White House that Slater's views on the antitrust division's direction made the pair's relationship irreconcilable.\nAttorney General Pam Bondi (Photo by Win McNamee/Getty Images)\nWin McNamee via Getty Images\n\nThe tensions reportedly began simmering last summer, when Slater sought to block the merger between Hewlett-Packard Enterprise and Juniper Networks. She opposed the deal out of concerns that it would create a duopoly in cloud computing and wireless networking. In addition, Slater reportedly told Bondi that US intelligence hadn't raised any concerns about blocking the merger. However, CIA Director John Ratcliffe later claimed that blocking it would pose national security risks because it could lead to the loss of business to China. The Trump administration's merger-friendly DOJ ultimately approved the deal.\nAlongside Bondi, Slater was overseeing the DOJ's review of Netflix's proposed acquisition of Warner Bros. Discovery. In December, Trump said he would be involved in the regulatory review. That followed intense lobbying by Netflix and Paramount, the latter of which launched a hostile takeover bid. Earlier this month, The Wall Street Journal reported that the department was investigating whether Netflix was involved in anticompetitive practices during the process.\nSlater's ousting also comes weeks ahead of the DOJ's antitrust trial against Ticketmaster owner Live Nation. The department's lawsuit was filed during the Biden administration. It claims that Live Nation is operating as a monopoly, harming competition, fans, industry promoters and artists.\nThis article originally appeared on Engadget at https://www.engadget.com/big-tech/antitrust-head-overseeing-netflix-warner-merger-resigns-192854114.html?src=rss",
+        "published": "2026-02-12T19:28:54.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-02/3a14502b-2d5e-47c5-860a-157f9f246cd9",
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "netflix",
+          "merger",
+          "antitrust"
+        ],
+        "category": "regulation"
+      },
+      {
+        "title": "In one swoop, Trump kills US greenhouse gas regulations",
+        "link": "https://www.theverge.com/science/877371/trump-carbon-pollution-endangerment-finding-repeal-climate-change",
+        "description": "Exhaust billows out of a car tailpipe on January 2nd, 2008, in San Francisco. | Photo: Getty Images\t\n\nThe Trump administration just eliminated the landmark finding that has underpinned federal regulations on planet-heating pollution since 2009. \nFor nearly the past two decades, the \"endangerment finding\" has allowed the Environmental Protection Agency (EPA) to craft rules limiting greenhouse gas emissions under the Clean Air Act. Rather than repealing those rules individually, the Trump administration can undermine them all at once by attacking the endangerment finding.\nToday, the EPA finalized its plans to overturn the endangerment finding as part of its attempts to overhaul tailpipe pollution standards. The move could also affect efforts …\nRead the full story at The Verge.",
+        "published": "2026-02-12T19:35:41.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-78713689.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "regulation"
+        ],
+        "category": "regulation"
+      },
+      {
+        "title": "EU reportedly opens another probe into Google's ads pricing",
+        "link": "https://www.engadget.com/big-tech/eu-reportedly-opens-another-probe-into-googles-ads-pricing-194435095.html?src=rss",
+        "description": "The European Commission has opened a new probe into Google, this time focused on the company's massive online advertising business, Bloomberg reports. European Union regulators have already fined Google billions for violating the Digital Markets Act, and being found guilty of anticompetitive behavior in online advertising could add to that total.\nWhile the Commission has yet to announce a formal investigation, Bloomberg writes that it has started contacting Google's customers and competitors for information about its dominance across multiple online advertising markets. Regulators are particularly concerned that Google could be \"artificially increasing the clearing price\" of ad auctions \"to the detriment of advertisers.\" If the company is found to be violating the EU's competition rules, Google could be fined 10 percent of its global annual sales.\nGoogle's approach to advertising to minors was reportedly already under investigation by the EU as of December 2024, and besides fines, regulators have ordered the company to open up Android to competing AI assistants and share search data with rivals. In the US, there's also precedent for finding Google's approach to online advertising anticompetitive.\nA US federal judge found that Google is a monopolist in online advertising in April 2025, the conclusion of a legal battle that started with a Department of Justice lawsuit accusing the company of dominating the ad market and using its control to charge more and keep a larger portion of ad sales. The DOJ ultimately wants Google to sell its ad tech business, but a final decision hasn't been reached as to how the company's anticompetitive behavior should be remedied. \nThis article originally appeared on Engadget at https://www.engadget.com/big-tech/eu-reportedly-opens-another-probe-into-googles-ads-pricing-194435095.html?src=rss",
+        "published": "2026-02-12T19:44:35.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "google",
+          "billion"
+        ],
+        "category": "regulation"
+      }
+    ],
+    "ev_autonomous": [
+      {
+        "title": "Waymo Asks the DC Public to Pressure Their City Officials",
+        "link": "https://www.wired.com/story/waymo-asks-the-dc-public-to-pressure-their-city-officials/",
+        "description": "Stuck in regulatory limbo, the self-driving-vehicle developer is encouraging residents of Washington, DC, to message public officials to help get its robotaxis onto roads.",
+        "published": "2026-02-12T20:00:15.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "waymo",
+          "agi",
+          "robotaxi",
+          "self-driving"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Waymo begins deploying next-gen Ojai robotaxis to extend its U.S. lead",
+        "link": "https://www.cnbc.com/2026/02/12/waymo-begins-deploying-next-gen-ojai-robotaxis-to-extend-its-us-lead.html",
+        "description": "The company is preparing to expand in several new cities in 2026.",
+        "published": "2026-02-12T16:18:50.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "waymo",
+          "robotaxi"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Apple acquires all rights to ‘Severance,’ will produce future seasons in-house",
+        "link": "https://techcrunch.com/2026/02/12/apple-acquires-all-rights-to-severance-will-produce-future-seasons-in-house/",
+        "description": "The show is expected to run for four seasons, with the possibility of spin-offs, a prequel, and foreign versions.",
+        "published": "2026-02-12T15:34:11.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "apple",
+          "acquires"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "More Siri delays, imminent new hardware, and Apple’s upcoming 50th birthday ",
+        "link": "https://9to5mac.com/2026/02/12/happy-hour-577/",
+        "description": "Benjamin and Chance react to the disappointing news shared by Bloomberg’s Mark Gurman that the new Siri features are facing even more delays, but in happier news, a bunch of iPhones, iPads and Macs are due for an imminent refresh. Meanwhile, Tim Cook reminisces ahead of Apple’s 50th birthday.  \nAnd in Happy Hour Plus, thoughts on the design of the Ferrari Luce and Jony Ive’s sniping comments about his former employer.\nSponsored by Shopify: See less carts go abandoned and more sales. Sign up for a $1 per month trial at shopify.com/happyhour.\nSponsored by Square: Get up to $200 off Square hardware when you sign up at square.com/go/happyhour.\nSponsored by 1Password: Take the first step to better security by securing your team’s credentials. Find out more at 1password.com/happyhour and start securing every login.\n\n\n\n\n more…",
+        "published": "2026-02-12T20:05:10.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "apple",
+          "tim cook"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Ford is taking a page from BYD after the Chinese EV maker outsold it for the first time",
+        "link": "https://electrek.co/2026/02/12/ford-takes-page-from-byd-after-chinese-ev-maker-outsold-it/",
+        "description": "After it was outsold by China’s BYD globally for the first time last year, CEO Jim Farley said Ford “isn’t backing away from EVs.” It’s betting on more affordable models that will start at around $30,000.\nmore…",
+        "published": "2026-02-12T20:59:01.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2025/06/BYDs-EV-price-cuts-1.jpeg?quality=82&#038;strip=all&#038;w=1400",
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "byd",
+          "ceo"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "EPA kills foundation of greenhouse gas regulations",
+        "link": "https://arstechnica.com/tech-policy/2026/02/as-expected-trumps-epa-guts-climate-endangerment-finding/",
+        "description": "The agency is betting the the Supreme Court will reverse a prior ruling.",
+        "published": "2026-02-12T21:04:22.000Z",
+        "source": "Ars Technica",
+        "sourceKey": "arstechnica",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "regulation"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "1,200 Ubisoft workers strike in response to layoffs",
+        "link": "https://www.engadget.com/gaming/1200-ubisoft-workers-went-on-strike-in-response-to-company-restructuring-and-mandatory-return-to-work-policy-163714986.html?src=rss",
+        "description": "At the end of last month, Ubisoft workers in the publisher’s native France threatened to strike in the wake of sweeping layoffs and cost-cutting measures. This week, they made good on those threats. According to GamesIndustry.biz, union members confirmed that at least 1,200 staff participated in the three-day strike, which was due to run from February 10 to February 12.\nWhile the strike action primarily took place in France, GamesIndustry.biz was told that Ubisoft’s Milan office also took part. The union Solidaires Informatique, which represents French workers from a number of companies in the video game sector, including Blizzard and Ubisoft, had previously called for strikes to take place on January 27. Their demands included a 10 percent increase on all salaries and the implementation of a 4-day work week.\n\nSome striking employees held up signs outside Ubisoft’s Paris headquarters, with one (pictured) wearing a Rabbids mask to hide their face. Their grievances are wide-ranging. As well as reportedly laying off hundreds of employees already in 2026, Ubisoft also introduced a mandate for its staff to return to work on site for five days a week. One employee who publicly voiced their disapproval of the new policy was reportedly fired for doing so.\nUbisoft has had a rocky start to 2026 on the software side too. The long-awaited Prince of Persia: The Sands of Time remake was among six games canceled by the struggling publisher last month, when it also confirmed several studio closures as part of the company’s organizational restructuring.\nUpdate, Feb. 12 2026, 12:39PM ET:  \"We understand these changes, particularly those affecting work organization, are generating strong feelings,\" Ubisoft wrote in a statement shared with Engadget. \"Since the announcement, we have held a series of discussions and information sessions at multiple levels to help teams better understand the new organization and to give them the opportunity to share their questions and concerns.\" The company added that it \"remains committed to maintaining an open and constructive dialogue with employees and employee representatives.”\nThis article originally appeared on Engadget at https://www.engadget.com/gaming/1200-ubisoft-workers-went-on-strike-in-response-to-company-restructuring-and-mandatory-return-to-work-policy-163714986.html?src=rss",
+        "published": "2026-02-12T17:43:01.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "layoffs"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Apple Card is moving to Chase, here’s everything we know",
+        "link": "https://9to5mac.com/2026/02/12/apple-card-is-moving-to-chase-heres-everything-we-know/",
+        "description": "After multiple years of speculation, last month Apple officially announced that Chase is set to become the new issuer of Apple Card. Apple says the transition from Goldman Sachs to Chase will occur in approximately 24 months. Here’s everything we know about what this transition means for Apple Card users …\nmore…",
+        "published": "2026-02-12T20:29:57.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-card-chase.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Apple is reviving the ‘MacBook’ soon, without any of its old problems",
+        "link": "https://9to5mac.com/2026/02/12/apple-is-reviving-the-macbook-soon-without-any-of-its-old-problems/",
+        "description": "Apple has a new ‘MacBook’ coming soon, and based on the latest rumors, it sounds like all of the problems that plagued the previously discontinued model will be addressed.\nmore…",
+        "published": "2026-02-12T19:10:28.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2019/01/12-inch-macbook.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "YouTube launches native app for Apple Vision Pro",
+        "link": "https://9to5mac.com/2026/02/12/youtube-launches-native-app-for-apple-vision-pro/",
+        "description": "YouTube was one of the biggest apps missing from the Vision Pro platform at launch in February 2024. That changes today, however, with the launch of an official YouTube app for visionOS. \nmore…",
+        "published": "2026-02-12T17:00:00.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/youtube-vision-pro.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "These Apple Wallet features helped me replace my physical wallet [Video]",
+        "link": "https://9to5mac.com/2026/02/12/these-apple-wallet-features-helped-me-replace-my-physical-wallet-video/",
+        "description": "When most people think of the Apple Wallet app, they think of just Apple Pay. They think it’s a way to pay for things digitally instead of using a physical card. While this is true, the Apple Wallet App can do so much more and is quietly becoming one of the most useful apps on your iPhone. It can give you public transit access, a form of digital keys for your home or car, peer-to-peer payments, and even storing your physical card information (finally!). Apple Wallet in iOS 26 can realistically replace most of what people still carry in their pockets, as it has for me. If you’ve only used it for Apple Pay, you’re honestly missing the best parts. Here are some of the best Apple Wallet features!\nmore…",
+        "published": "2026-02-12T14:20:40.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/Apple-wallet-FI.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Rivian (RIVN) Q4 and full 2025 earnings report: Tremendous YoY growth led by software",
+        "link": "https://electrek.co/2026/02/12/rivian-rivn-q4-2025-earnings-report-yoy-growth/",
+        "description": "Rivian has just posted its letter to shareholders and earnings report, detailing its financial results and other accomplishments for Q4 2025 and the previous fiscal year. \nmore…",
+        "published": "2026-02-12T21:03:30.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/Rivian-Q4-earnings-R2.jpg?quality=82&#038;strip=all&#038;w=1400",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "rivian"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Waymo begins fully autonomous ops with 6th-gen Driver, targets 1M weekly rides",
+        "link": "https://electrek.co/2026/02/12/waymo-begins-fully-autonomous-ops-with-6th-gen-driver-targets-1m-weekly-rides/",
+        "description": "Waymo is now running its 6th-generation Driver without safety drivers on public roads, marking the beginning of fully autonomous operations with the company’s latest and most cost-effective hardware stack. \nThe announcement, authored by Waymo VP of Engineering Satish Jeyachandran, confirms that the 6th-generation system, first unveiled in August 2024, is now validated for driverless operations across multiple cities. Waymo describes it as the product of seven years of service and nearly 200 million fully autonomous miles logged across 10+ major U.S. cities.\nmore…",
+        "published": "2026-02-12T17:06:39.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/Waymo-6th-gen-driver.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "waymo"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "BYD, Geely bid for 230,000-unit Nissan-Mercedes Mexico plant in North American push",
+        "link": "https://electrek.co/2026/02/12/byd-geely-bid-unit-nissan-mercedes-mexico-plant-north-american-push/",
+        "description": "BYD and Geely are among three finalists competing to purchase a Nissan-Mercedes-Benz joint venture plant in Aguascalientes, Mexico, according to a Reuters exclusive report. The plant, which has a production capacity of 230,000 vehicles per year, would give either Chinese automaker an instant manufacturing foothold in North America, bypassing years of regulatory delays that have stalled their greenfield factory plans in the country.\nThe third finalist is Vietnamese EV maker VinFast. The three were selected from a pool of nine companies that expressed interest, including Chinese automakers Chery and Great Wall Motor.\nmore…",
+        "published": "2026-02-12T16:17:12.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/Nissan-Compass-Mexico-factory-BYD-Geely.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "byd"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Tesla gets 30-day extension to oppose ‘Cybercab’ trademark held by squatter",
+        "link": "https://electrek.co/2026/02/12/tesla-gets-30-day-extension-to-oppose-cybercab-trademark-held-by-squatter/",
+        "description": "Tesla has been granted a 30-day extension by the U.S. Patent and Trademark Office (USPTO) to decide whether to formally oppose UNIBEV’s “Cybercab” trademark application, pushing Tesla’s deadline to March 14, 2026. The extension comes as Tesla prepares to begin mass production of the vehicle — whatever it ends up being called, in April.\nAccording to USPTO Trademark Trial and Appeal Board (TTAB) records, Tesla filed the extension request on February 11, 2026, and it was granted the same day. The move signals that Tesla is not ready to walk away from the “Cybercab” name, but it’s also not ready to launch a full legal fight over it.\nmore…",
+        "published": "2026-02-12T15:51:26.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/01/Cybercab-Tesla-trademark-suspended.png?w=914",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "tesla"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Tesla (TSLA) sales in China crash 45% to lowest level in over three years",
+        "link": "https://electrek.co/2026/02/12/tesla-tsla-sales-in-china-crash-45-to-lowest-level-in-over-three-years/",
+        "description": "Tesla’s domestic sales in China collapsed 45% year-over-year in January, falling to just 18,485 units — the automaker’s lowest monthly retail figure in the country since November 2022. The data, released today by the China Passenger Car Association (CPCA), paints a grim picture of Tesla’s demand in the world’s largest EV market.\nThe figure represents an 80% plunge from December’s record-high 93,843 domestic deliveries. While seasonal declines between December and January are normal in China, a 45% year-over-year drop is not.\nmore…",
+        "published": "2026-02-12T13:59:38.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2022/04/Tesla-gigafactory-Shanghai-main-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "tesla"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Texas bets on Tesla bets on WeChat, and a bet on Toyota to crack solid-state",
+        "link": "https://electrek.co/2026/02/11/texas-bets-on-tesla-bets-on-wechat-and-a-bet-on-toyota-to-crack-solid-state/",
+        "description": "On today’s Texas-sized episode of Quick Charge, Tesla Cybertruck owners in the Lone Star state get V2G access, Tesla Model 3 and Y models get WeChat via OTA, and Toyota has an all-new electric Toyota Highlander with up to 320 miles of range!\nmore…",
+        "published": "2026-02-12T00:06:42.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/WECHAT_2.png?w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "tesla"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": " Samsung's brand-new QD-OLED tech can double the panel's lifespan — durable 'Penta Tandem' displays can reach up to 1,300 nits of peak brightness ",
+        "link": "https://www.tomshardware.com/monitors/samsungs-brand-new-qd-oled-tech-can-double-the-panels-lifespan-durable-penta-tandem-displays-can-reach-up-to-1-300-nits-of-peak-brightness",
+        "description": "The latest and greatest QD-OLED panels from Samsung are now \"Penta Tandem,\" signaling the move to a five-layer OLED stack from the previous 4-layer one. Three panel classes — 4K 27\" (2025), 31.5\" 4K (2026), and 34\" ultrawide (2026) — are already using this tech, while the 49\" is next in line for the upgrade.",
+        "published": "2026-02-12T17:17:55.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/7Q2TmyYuwZiDATvo2jZbFD-1280-80.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "samsung"
+        ],
+        "category": "ev_autonomous"
+      }
+    ],
     "space": [
+      {
+        "title": "Musk needed a new vision for SpaceX and xAI. He landed on Moonbase Alpha.",
+        "link": "https://techcrunch.com/2026/02/12/musk-needed-a-new-vision-for-spacex-and-xai-he-landed-on-moonbase-alpha/",
+        "description": "\"I really want to see a mass driver on the moon that is shooting AI satellites into deep space.\"",
+        "published": "2026-02-12T22:10:55.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "spacex",
+          "xai",
+          "satellite"
+        ],
+        "category": "space"
+      },
       {
         "title": "SpaceX takes down Dragon crew arm, giving Starship a leg up in Florida",
         "link": "https://arstechnica.com/space/2026/02/heres-why-americas-most-historic-launch-pad-is-getting-yet-another-facelift/",
@@ -392,97 +1512,318 @@
           "starship"
         ],
         "category": "space"
-      }
-    ],
-    "chips_cloud": [
-      {
-        "title": "Siemens CEO Says Demand From US Data Centers Is 'Very Strong'",
-        "link": "https://www.bloomberg.com/news/videos/2026-02-12/siemens-ceo-sees-very-strong-demand-from-us-data-centers-video",
-        "description": "Siemens CEO Roland Busch discusses the firm's growing factory automation business and demand for electrification products from data centers. He speaks to Bloomberg's Tom Mackenzie after first-quarter profit in the Digital Industries unit, which makes factory software and automation products, jumped 37%. (Source: Bloomberg)",
-        "published": "2026-02-12T06:54:23.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 6,
-        "matchedKeywords": [
-          "ceo",
-          "data center",
-          "automation"
-        ],
-        "category": "chips_cloud"
       },
       {
-        "title": "Blue Owl’s Stack Adds to AI Debt Rush With $2.1 Billion Loan",
-        "link": "https://www.bloomberg.com/news/articles/2026-02-12/blue-owl-s-stack-adds-to-ai-debt-rush-with-2-1-billion-loan",
-        "description": "Blue Owl Capital-owned data center company Stack Infrastructure Inc. is seeking a loan of around A$3 billion ($2.1 billion), according to people familiar with the matter, as it accelerates development in Australia to meet surging demand for artificial intelligence and cloud services.",
-        "published": "2026-02-12T00:09:51.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
+        "title": "Tech IPO hype gets drowned out on Wall Street by prospect of $1 trillion in debt sales",
+        "link": "https://www.cnbc.com/2026/02/12/tech-ipo-hype-drowned-out-by-prospect-of-1-trillion-in-debt-sales.html",
+        "description": "SpaceX's potential IPO has generated plenty of investor buzz, but all of the real action in tech capital markets is currently on the debt side.",
+        "published": "2026-02-12T13:00:01.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 6,
+        "relevanceScore": 7,
         "matchedKeywords": [
-          "intel",
-          "artificial intelligence",
-          "data center",
-          "billion"
+          "spacex",
+          "ipo"
         ],
-        "category": "chips_cloud"
-      }
-    ],
-    "crypto": [
+        "category": "space"
+      },
       {
-        "title": "Lubin on Crypto Market Outlook",
-        "link": "https://www.bloomberg.com/news/videos/2026-02-12/lubin-on-crypto-market-outlook-video",
-        "description": "Joe Lubin, Founder & CEO of Consensys, discusses his outlook for crypto markets and the digital assets economy. He says he doesn't think that Bitcoin should act as a safe haven while it is still in a startup ecosystem and he sees more functional demand for ether than bitcoin. He speaks with Annabelle Droulers on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
-        "published": "2026-02-12T05:10:27.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
+        "title": "YouTube finally launches a dedicated app for Apple Vision Pro",
+        "link": "https://techcrunch.com/2026/02/12/youtube-finally-launches-a-dedicated-app-for-apple-vision-pro/",
+        "description": "When Apple Vision Pro first came out two years ago, YouTube hesitated to release a dedicated app. Today is the day they officially launch one.",
+        "published": "2026-02-12T20:14:15.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
         "priority": 1,
         "image": null,
         "relevanceScore": 5,
         "matchedKeywords": [
-          "ceo",
-          "bitcoin"
+          "apple"
         ],
-        "category": "crypto"
-      }
-    ],
-    "ev_autonomous": [
+        "category": "space"
+      },
       {
-        "title": "Texas bets on Tesla bets on WeChat, and a bet on Toyota to crack solid-state",
-        "link": "https://electrek.co/2026/02/11/texas-bets-on-tesla-bets-on-wechat-and-a-bet-on-toyota-to-crack-solid-state/",
-        "description": "On today’s Texas-sized episode of Quick Charge, Tesla Cybertruck owners in the Lone Star state get V2G access, Tesla Model 3 and Y models get WeChat via OTA, and Toyota has an all-new electric Toyota Highlander with up to 320 miles of range!\nmore…",
-        "published": "2026-02-12T00:06:42.000Z",
-        "source": "Electrek",
-        "sourceKey": "electrek",
+        "title": "First Ariane 64 launches Amazon Leo satellites",
+        "link": "https://spacenews.com/first-ariane-64-launches-amazon-leo-satellites/",
+        "description": "The more powerful version of Europe’s Ariane 6 rocket successfully placed a group of Amazon Leo broadband satellites into orbit on the vehicle’s inaugural launch Feb. 12.\nThe post First Ariane 64 launches Amazon Leo satellites appeared first on SpaceNews.",
+        "published": "2026-02-12T21:53:42.000Z",
+        "source": "SpaceNews",
+        "sourceKey": "spacenews",
         "priority": 2,
-        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/WECHAT_2.png?w=1600",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/ariane64-va267.jpeg?fit=1024%2C682&amp;ssl=1",
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "amazon",
+          "satellite"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "Four Apple products could be discontinued imminently",
+        "link": "https://9to5mac.com/2026/02/12/four-apple-products-could-be-discontinued-imminently/",
+        "description": "Apple has four products showing signs of being discontinued imminently, with supply reportedly drying up at the Apple Store ahead of successors launching soon.\nmore…",
+        "published": "2026-02-12T15:33:11.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/apple-devices-lineup-liquid-glass.jpg?quality=82&#038;strip=all&#038;w=1600",
         "relevanceScore": 4,
         "matchedKeywords": [
-          "tesla"
+          "apple"
         ],
-        "category": "ev_autonomous"
+        "category": "space"
       }
     ],
-    "business": [
+    "chips_cloud": [
       {
-        "title": "How CertiK rebuilt trust after Huione-related backlash",
-        "link": "https://www.coindesk.com/business/2026/02/11/how-certik-rebuilt-trust-as-it-prepares-itself-for-an-ipo",
-        "description": "The cybersecurity firm has \"no concrete plans\" for an IPO despite reports to the contrary last month.",
-        "published": "2026-02-12T02:13:43.000Z",
+        "title": "Crypto execs Armstrong, Garlinghouse among many named to U.S. CFTC advisory group",
+        "link": "https://www.coindesk.com/policy/2026/02/12/crypto-execs-armstrong-garlinghouse-among-many-named-to-u-s-cftc-advisory-group",
+        "description": "The Commodity Futures Trading Commission's new chief, Mike Selig, repurposed the agency's previous CEO innovation council, almost tripling its members.",
+        "published": "2026-02-12T22:22:41.000Z",
         "source": "CoinDesk",
         "sourceKey": "coindesk",
         "priority": 3,
         "image": null,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "arm",
+          "ftc",
+          "ceo"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "NVIDIA's GeForce Now app lands on Amazon Fire TV sticks",
+        "link": "https://www.engadget.com/gaming/nvidias-geforce-now-app-lands-on-amazon-fire-tv-sticks-140000516.html?src=rss",
+        "description": "NVIDIA's cloud gaming service, GeForce Now, has expanded to another platform. Starting today, folks with select Amazon Fire TV sticks can install a native GeForce Now app. While it was already possible to access GeForce Now through the Fire TV platform, you won't necessarily need to sideload an Android app to do so anymore.\nAt the outset, the new app is compatible with the second-gen Fire TV Stick 4K Plus and second-gen Fire TV Stick 4K Max (running Fire OS 8.1.6.0 and later). It also works with the original Fire TV Stick 4K Max if you're running Fire OS 7.7.1.1 or later. \nOn the Fire TV platform, GeForce Now streaming quality tops out at a resolution of 1080p and a frame rate of 60 fps, with SDR visuals, H.264 video encoding and stereo audio. So you won't necessarily get the best GeForce Now experience here as the service has support for up to 5K resolution and up to 360 fps, along with HDR10 and 7.1 audio at the highest tier. But it's not a bad option if you already have the right hardware. You'll need a controller too, of course.\nNVIDIA announced the GeForce Now app for Fire TV during CES last month. It joins other cloud gaming services on the Fire TV platform, including Xbox Cloud Gaming (PC Game Pass titles are available on GeForce Now as well) and Amazon's own Luna.\n\nThis article originally appeared on Engadget at https://www.engadget.com/gaming/nvidias-geforce-now-app-lands-on-amazon-fire-tv-sticks-140000516.html?src=rss",
+        "published": "2026-02-12T14:00:00.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "amazon",
+          "nvidia"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": " AMD rockets past 35% market share in desktop PC market as Intel's share loss accelerates — AMD also hits 25% in laptops and nears 30% in crucial server market ",
+        "link": "https://www.tomshardware.com/pc-components/cpus/30-percent-of-x86-cpus-sold-are-now-made-by-amd-as-companys-market-share-grows-thanks-to-a-flagging-intel-enjoys-growth-across-all-segments-as-competition-intensifies",
+        "description": "As AMD gains market share in desktops, laptops, and servers, its overall x86 share hits all time high at 29.2%.",
+        "published": "2026-02-12T14:26:49.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/qn8dag6NXSs6NbSRkR3Wo6-1280-80.jpg",
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "intel",
+          "amd"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "AI inference costs dropped up to 10x on Nvidia's Blackwell — but hardware is only half the equation",
+        "link": "https://venturebeat.com/infrastructure/ai-inference-costs-dropped-up-to-10x-on-nvidias-blackwell-but-hardware-is",
+        "description": "Lowering the cost of inference is typically a combination of hardware and software. A new analysis released Thursday by Nvidia details how four leading inference providers are reporting 4x to 10x reductions in cost per token.\nThe dramatic cost reductions were achieved using Nvidia's Blackwell platform with open-source models. Production deployment data from Baseten, DeepInfra, Fireworks AI and Together AI shows significant cost improvements across healthcare, gaming, agentic chat, and customer service as enterprises scale AI from pilot projects to millions of users.\nThe 4x to 10x cost reductions reported by inference providers required combining Blackwell hardware with two other elements: optimized software stacks and switching from proprietary to open-source models that now match frontier-level intelligence. Hardware improvements alone delivered 2x gains in some deployments, according to the analysis. Reaching larger cost reductions required adopting low-precision formats like NVFP4 and moving away from closed source APIs that charge premium rates.\nThe economics prove counterintuitive. Reducing inference costs requires investing in higher-performance infrastructure because throughput improvements translate directly into lower per-token costs.\n\"Performance is what drives down the cost of inference,\" Dion Harris, senior director of HPC and AI hyperscaler solutions at Nvidia, told VentureBeat in an exclusive interview. \"What we're seeing in inference is that throughput literally translates into real dollar value and driving down the cost.\"\nProduction deployments show 4x to 10x cost reductions\nNvidia detailed four customer deployments in a blog post showing how the combination of Blackwell infrastructure, optimized software stacks and open-source models delivers cost reductions across different industry workloads. The case studies span high-volume applications where inference economics directly determines business viability.\nSully.ai cut healthcare AI inference costs by 90% (a 10x reduction) while improving response times 65% by switching from proprietary models to open-source models running on Baseten's Blackwell-powered platform, according to Nvidia. The company returned over 30 million minutes to physicians by automating medical coding and note-taking tasks that previously required manual data entry.\nNvidia also reported that Latitude reduced gaming inference costs 4x for its AI Dungeon platform by running large mixture-of-experts (MoE) models on DeepInfra's Blackwell deployment. Cost per million tokens dropped from 20 cents on Nvidia's previous Hopper platform to 10 cents on Blackwell, then to 5 cents after adopting Blackwell's native NVFP4 low-precision format. Hardware alone delivered 2x improvement, but reaching 4x required the precision format change.\nSentient Foundation achieved 25% to 50% better cost efficiency for its agentic chat platform using Fireworks AI's Blackwell-optimized inference stack, according to Nvidia. The platform orchestrates complex multi-agent workflows and processed 5.6 million queries in a single week during its viral launch while maintaining low latency.\nNvidia said Decagon saw 6x cost reduction per query for AI-powered voice customer support by running its multimodel stack on Together AI's Blackwell infrastructure. Response times stayed under 400 milliseconds, even when processing thousands of tokens per query, critical for voice interactions where delays cause users to hang up or lose trust.\nTechnical factors driving 4x versus 10x improvements\nThe range from 4x to 10x cost reductions across deployments reflects different combinations of technical optimizations rather than just hardware differences. Three factors emerge as primary drivers: precision format adoption, model architecture choices, and software stack integration.\nPrecision formats show the clearest impact. Latitude's case demonstrates this directly. Moving from Hopper to Blackwell delivered 2x cost reduction through hardware improvements. Adopting NVFP4, Blackwell's native low-precision format, doubled that improvement to 4x total. NVFP4 reduces the number of bits required to represent model weights and activations, allowing more computation per GPU cycle while maintaining accuracy. The format works particularly well for MoE models where only a subset of the model activates for each inference request.\nModel architecture matters. MoE models, which activate different specialized sub-models based on input, benefit from Blackwell's NVLink fabric that enables rapid communication between experts. \"Having those experts communicate across that NVLink fabric allows you to reason very quickly,\" Harris said. Dense models that activate all parameters for every inference don't leverage this architecture as effectively.\nSoftware stack integration creates additional performance deltas. Harris said that Nvidia's co-design approach — where Blackwell hardware, NVL72 scale-up architecture, and software like Dynamo and TensorRT-LLM are optimized together — also makes a difference. Baseten's deployment for Sully.ai used this integrated stack, combining NVFP4, TensorRT-LLM and Dynamo to achieve the 10x cost reduction. Providers running alternative frameworks like vLLM may see lower gains.\nWorkload characteristics matter. Reasoning models show particular advantages on Blackwell because they generate significantly more tokens to reach better answers. The platform's ability to process these extended token sequences efficiently through disaggregated serving, where context prefill and token generation are handled separately, makes reasoning workloads cost-effective.\nTeams evaluating potential cost reductions should examine their workload profiles against these factors. High token generation workloads using mixture-of-experts models with the integrated Blackwell software stack will approach the 10x range. Lower token volumes using dense models on alternative frameworks will land closer to 4x. \nWhat teams should test before migrating\nWhile these case studies focus on Nvidia Blackwell deployments, enterprises have multiple paths to reducing inference costs. AMD's MI300 series, Google TPUs, and specialized inference accelerators from Groq and Cerebras offer alternative architectures. Cloud providers also continue optimizing their inference services. The question isn't whether Blackwell is the only option but whether the specific combination of hardware, software and models fits particular workload requirements.\nEnterprises considering Blackwell-based inference should start by calculating whether their workloads justify infrastructure changes. \n\"Enterprises need to work back from their workloads and use case and cost constraints,\" Shruti Koparkar, AI product marketing at Nvidia, told VentureBeat.\nThe deployments achieving 6x to 10x improvements all involved high-volume, latency-sensitive applications processing millions of requests monthly. Teams running lower volumes or applications with latency budgets exceeding one second should explore software optimization or model switching before considering infrastructure upgrades.\nTesting matters more than provider specifications. Koparkar emphasizes that providers publish throughput and latency metrics, but these represent ideal conditions. \n\"If it's a highly latency-sensitive workload, they might want to test a couple of providers and see who meets the minimum they need while keeping the cost down,\" she said. Teams should run actual production workloads across multiple Blackwell providers to measure real performance under their specific usage patterns and traffic spikes rather than relying on published benchmarks.\nThe staged approach Latitude used provides a model for evaluation. The company first moved to Blackwell hardware and measured 2x improvement, then adopted NVFP4 format to reach 4x total reduction. Teams currently on Hopper or other infrastructure can test whether precision format changes and software optimization on existing hardware capture meaningful savings before committing to full infrastructure migrations. Running open source models on current infrastructure might deliver half the potential cost reduction without new hardware investments.\nProvider selection requires understanding software stack differences. While multiple providers offer Blackwell infrastructure, their software implementations vary. Some run Nvidia's integrated stack using Dynamo and TensorRT-LLM, while others use frameworks like vLLM. Harris acknowledges performance deltas exist between these configurations. Teams should evaluate what each provider actually runs and how it matches their workload requirements rather than assuming all Blackwell deployments perform identically.\nThe economic equation extends beyond cost per token. Specialized inference providers like Baseten, DeepInfra, Fireworks and Together offer optimized deployments but require managing additional vendor relationships. Managed services from AWS, Azure or Google Cloud may have higher per-token costs but lower operational complexity. Teams should calculate total cost including operational overhead, not just inference pricing, to determine which approach delivers better economics for their specific situation.",
+        "published": "2026-02-12T16:00:00.000Z",
+        "source": "VentureBeat",
+        "sourceKey": "venturebeat",
+        "priority": 1,
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3Tdn1sg9y8jVdlZmX8vyr4/93adf89349f5fd9043ae7b454886f7c1/cost-of-inference-smk1.jpg?w=300&q=30",
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "nvidia",
+          "blackwell"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Amazon Fire TV Sticks get access to GeForce Now’s cloud gaming library",
+        "link": "https://9to5google.com/2026/02/12/amazon-fire-tv-stick-gets-geforce-now-app/",
+        "description": "Cloud gaming has been on a tear, with Nvidia at the forefront, with compatibility changes a frequent occurrence. The latest addition is Fire TVs, with an app coming to users on Amazon’s OS.\nmore…",
+        "published": "2026-02-12T14:59:52.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/GeForce-Now-Amazon-Fire-TV-Stick.jpg?quality=82&#038;strip=all&#038;w=1400",
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "amazon",
+          "nvidia"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Unique structure of elephant whiskers give them built-in sensing \"intelligence\"",
+        "link": "https://arstechnica.com/science/2026/02/unique-structure-of-elephant-whiskers-give-them-built-in-sensing-intelligence/",
+        "description": "The material properties change gradually from base to tip for better navigation, more precise manipulation.",
+        "published": "2026-02-12T19:00:15.000Z",
+        "source": "Ars Technica",
+        "sourceKey": "arstechnica",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "intel"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "iPhone 18 Pro’s new C2 chip will bring three advantages over iPhone 17",
+        "link": "https://9to5mac.com/2026/02/12/iphone-18-pros-new-c2-chip-will-bring-three-advantages-over-iphone-17/",
+        "description": "Apple is rumored to have a next-generation C2 chip coming to iPhone 18 Pro and Pro Max, shifting away from the Qualcomm 5G modem found in iPhone 17 Pro. Here are three new advantages the Apple-designed modem will bring.\nmore…",
+        "published": "2026-02-12T16:38:30.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/iphone-17-pro-dark.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "apple",
+          "qualcomm",
+          "chip"
+        ],
+        "category": "chips_cloud"
+      }
+    ],
+    "robotics": [
+      {
+        "title": "This robot can fold some of your laundry fairly badly for $8,000 [Video]",
+        "link": "https://9to5mac.com/2026/02/12/this-robot-can-fold-some-of-your-laundry-fairly-badly-for-8000-video/",
+        "description": "Domestic robots have been a fixture in science fiction novels for more than a century, but in the real world we’re still all doing our own domestic chores barring vacuuming.\nWhile a number of companies are working on humanoid robots, with Apple reportedly among them, all we’ve really had so far are promises and extremely limited demos. But you can (maybe) buy a laundry-folding robot today for $8,000 or rent it for $450 a month …\nmore…",
+        "published": "2026-02-12T13:56:32.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/This-robot-can-fold-some-of-your-laundry-fairly-badly-for-8000.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "apple",
+          "humanoid robot"
+        ],
+        "category": "robotics"
+      }
+    ],
+    "business": [
+      {
+        "title": "Coinbase misses Q4 estimates as transaction revenue falls below $1 billion",
+        "link": "https://www.coindesk.com/markets/2026/02/12/coinbase-misses-q4-estimates-as-transaction-revenue-falls-below-usd1-billion",
+        "description": "\"Crypto is cyclical, and experience tells us it’s never as good, or as bad as it seems,\" said the company.",
+        "published": "2026-02-12T21:20:34.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "coinbase",
+          "billion"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Aurora’s driverless trucks can now travel farther distances faster than human drivers",
+        "link": "https://techcrunch.com/2026/02/12/auroras-driverless-trucks-can-now-travel-farther-distances-faster-than-human-drivers/",
+        "description": "CEO Chris Urmson called it a “superhuman” moment, adding that Aurora’s trucks can now carry freight 1,000 miles in 15 hours — faster than what a human driver can legally accomplish.",
+        "published": "2026-02-12T17:58:30.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
         "relevanceScore": 4,
         "matchedKeywords": [
-          "ipo"
+          "ceo"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Sharplink's Lubin and Chalom make their case for ether DATs as prices plunge",
+        "link": "https://www.coindesk.com/business/2026/02/12/sharplink-s-lubin-and-chalom-make-their-case-for-ether-dats-as-prices-plunge",
+        "description": "At a panel discussion at Consensus Hong Kong 2026 featuring Sharplink Gaming Chairman Joe Lubin and CEO Joseph Chalom, the two executives outlined how digital asset treasuries are evolving into a distinct institutional strategy.",
+        "published": "2026-02-12T19:34:57.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "ceo"
         ],
         "category": "business"
       }
+    ],
+    "crypto": [
+      {
+        "title": "Bitcoin tumbles back near last week's lows as AI fears crush tech and precious metals plunge",
+        "link": "https://www.coindesk.com/markets/2026/02/12/bitcoin-tumbles-back-near-last-week-s-lows-as-ai-fears-crush-tech-and-precious-metals-plunge",
+        "description": "The strong correlation between crypto and the software sector reasserted itself on Wednesday",
+        "published": "2026-02-12T20:54:39.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "meta",
+          "bitcoin"
+        ],
+        "category": "crypto"
+      },
+      {
+        "title": "A ladder for the masses: Pakistan’s Bilal Bin Saqib says crypto is a necessity, not a luxury",
+        "link": "https://www.coindesk.com/business/2026/02/12/crypto-isn-t-a-luxury-in-pakistan-it-s-a-ladder-for-the-masses",
+        "description": "Regulation of digital assets is a great opportunity for emerging markets, said Pakistan’s crypto regulation lead.",
+        "published": "2026-02-12T14:49:03.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "regulation",
+          "crypto regulation"
+        ],
+        "category": "crypto"
+      },
+      {
+        "title": "Gate CEO and founder Lin Han says banks have lost the war against stablecoins",
+        "link": "https://www.coindesk.com/business/2026/02/12/gate-ceo-and-founder-lin-han-says-banks-have-lost-the-war-against-stablecoins",
+        "description": "The head of the fourth-largest crypto exchange by daily trading volume also said he believes bitcoin’s four-year cycle is no longer a thing.",
+        "published": "2026-02-12T14:35:33.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "ceo",
+          "bitcoin",
+          "stablecoin"
+        ],
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin sinks below $66,000 as crypto prices follow U.S. stocks lower",
+        "link": "https://www.coindesk.com/markets/2026/02/12/bitcoin-sinks-below-usd67-000-with-crypto-prices-following-u-s-stocks-lower",
+        "description": "Coinbase and Robinhood are down big again today as the crypto bear market pressures trading volumes.",
+        "published": "2026-02-12T16:45:52.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "coinbase",
+          "bitcoin"
+        ],
+        "category": "crypto"
+      }
     ]
   },
-  "totalArticles": 19
+  "totalArticles": 107
 }
