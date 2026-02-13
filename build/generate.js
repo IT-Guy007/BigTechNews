@@ -1,10 +1,12 @@
 /**
  * Static Site Generator for Big Tech News
+ * Generates homepage with week-to-date digest, search, and improved sidebar
  */
 
 const fs = require('fs').promises;
 const path = require('path');
 const { CATEGORIES } = require('../scraper/sources');
+const { startOfWeek, format, getISOWeek, getISOWeekYear } = require('date-fns');
 
 const DATA_DIR = path.join(__dirname, '..', 'data');
 const PUBLIC_DIR = path.join(__dirname, '..', 'public');
@@ -24,7 +26,7 @@ function render(template, data) {
 
 function esc(text) {
   if (!text) return '';
-  return text.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  return String(text).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 }
 
 function truncate(text, max) {
@@ -33,37 +35,36 @@ function truncate(text, max) {
   return clean.length <= max ? clean : clean.substring(0, max).trim() + '…';
 }
 
-// Get a category icon for an article
 function getIcon(article) {
   if (!article.category) return '📰';
   const cat = CATEGORIES[article.category];
   return cat?.icon || '📰';
 }
 
-// Generate hero section (top story + 2 secondary)
+/**
+ * Generate hero section - top story prominently + 3 secondary cards
+ */
 function generateHeroHTML(articles) {
   if (!articles || articles.length === 0) {
     return '<div class="empty">No stories today</div>';
   }
 
   const main = articles[0];
-  const secondary = articles.slice(1, 3);
+  const secondary = articles.slice(1, 4);
 
-  // Hero main image or placeholder
   const mainImage = main.image 
-    ? `<img class="hero-image" src="${esc(main.image)}" alt="" loading="lazy">`
-    : `<div class="hero-placeholder">${getIcon(main)}</div>`;
+    ? `<img class="hero-main-image" src="${esc(main.image)}" alt="" loading="eager">`
+    : `<div class="hero-main-placeholder">${getIcon(main)}</div>`;
 
   let html = `
     <a href="${main.link}" target="_blank" rel="noopener" class="hero-main">
       ${mainImage}
-      <div class="hero-content">
-        <span class="hero-tag">${esc(main.source)}</span>
-        <h2 class="hero-title">${esc(main.title)}</h2>
-        <p class="hero-meta">${main.matchedKeywords?.slice(0, 2).join(' · ') || ''}</p>
+      <div class="hero-main-content">
+        <span class="hero-source">${esc(main.source)}</span>
+        <h1 class="hero-main-title">${esc(main.title)}</h1>
       </div>
     </a>
-    <div class="hero-secondary">
+    <div class="hero-grid">
   `;
 
   for (const article of secondary) {
@@ -73,11 +74,9 @@ function generateHeroHTML(articles) {
     
     html += `
       <a href="${article.link}" target="_blank" rel="noopener" class="hero-card">
-        <div class="hero-card-image">
-          ${cardImage}
-        </div>
+        <div class="hero-card-image">${cardImage}</div>
         <div class="hero-card-content">
-          <h3 class="hero-card-title">${esc(article.title)}</h3>
+          <h2 class="hero-card-title">${esc(article.title)}</h2>
           <p class="hero-card-meta">${esc(article.source)}</p>
         </div>
       </a>
@@ -88,8 +87,29 @@ function generateHeroHTML(articles) {
   return html;
 }
 
-// Generate news grid items
-function generateNewsGridHTML(articles, max = 6) {
+/**
+ * Generate week-to-date items (aggregated top articles from current week's dailies)
+ */
+function generateWeekToDateHTML(articles, max = 8) {
+  if (!articles || articles.length === 0) {
+    return '<p class="empty">No articles this week yet</p>';
+  }
+
+  return articles.slice(0, max).map((article, i) => `
+    <a href="${article.link}" target="_blank" rel="noopener" class="week-item">
+      <span class="week-rank${i < 3 ? ' top' : ''}">${i + 1}</span>
+      <div class="week-content">
+        <h3 class="week-title">${esc(article.title)}</h3>
+        <p class="week-meta">${esc(article.source)}${article.dayLabel ? ` · ${article.dayLabel}` : ''}</p>
+      </div>
+    </a>
+  `).join('');
+}
+
+/**
+ * Generate news list items
+ */
+function generateNewsListHTML(articles, max = 10) {
   if (!articles || articles.length === 0) {
     return '<div class="news-item"><div class="news-content"><p class="news-title">No articles</p></div></div>';
   }
@@ -105,13 +125,15 @@ function generateNewsGridHTML(articles, max = 6) {
   `).join('');
 }
 
-// Generate sidebar links
-function generateSidebarHTML(items, type, max = 5) {
-  if (!items || items.length === 0) return '<li class="sidebar-item"><span class="sidebar-link">None</span></li>';
+/**
+ * Generate sidebar recent (last 5 daily digests)
+ */
+function generateSidebarRecentHTML(daily) {
+  if (!daily || daily.length === 0) return '<li class="sidebar-item"><span class="sidebar-link">None</span></li>';
   
-  return items.slice(0, max).map(item => `
+  return daily.slice(0, 5).map(item => `
     <li class="sidebar-item">
-      <a href="${type}/${item.id}.html" class="sidebar-link">
+      <a href="daily/${item.id}.html" class="sidebar-link">
         <span>${esc(item.title)}</span>
         <span class="sidebar-link-meta">${item.totalArticles}</span>
       </a>
@@ -119,50 +141,129 @@ function generateSidebarHTML(items, type, max = 5) {
   `).join('');
 }
 
-// Generate archive cards
-function generateArchiveHTML(daily, weekly, monthly) {
+/**
+ * Generate sidebar weekly/monthly with year grouping
+ */
+function generateSidebarGroupedHTML(items, type) {
+  if (!items || items.length === 0) return '<li class="sidebar-item"><span class="sidebar-link">None</span></li>';
+  
+  // Group by year
+  const byYear = {};
+  for (const item of items.slice(0, 20)) {
+    const year = item.year || (type === 'weekly' ? `20${item.id.split('-')[0]}` : `20${item.id.split('-')[0]}`);
+    if (!byYear[year]) byYear[year] = [];
+    byYear[year].push(item);
+  }
+
   let html = '';
-  
-  // Show recent daily
-  for (const d of daily.slice(0, 3)) {
-    html += `
-      <a href="daily/${d.id}.html" class="archive-card">
-        <div>
-          <div class="archive-title">${esc(d.title)}</div>
-          <div class="archive-meta">${d.totalArticles} articles</div>
-        </div>
-        <span class="archive-arrow">→</span>
-      </a>
-    `;
+  for (const [year, yearItems] of Object.entries(byYear).sort((a, b) => b[0] - a[0])) {
+    html += `<li class="sidebar-year">${year}</li>`;
+    for (const item of yearItems.slice(0, 8)) {
+      html += `
+        <li class="sidebar-item">
+          <a href="${type}/${item.id}.html" class="sidebar-link">
+            <span>${esc(item.title)}</span>
+            <span class="sidebar-link-meta">${item.totalArticles}</span>
+          </a>
+        </li>
+      `;
+    }
   }
+  return html;
+}
+
+/**
+ * Generate archive cards for each type
+ */
+function generateArchiveCardsHTML(items, type) {
+  if (!items || items.length === 0) return '<div class="empty">No archives yet</div>';
   
-  // Show recent weekly
-  for (const w of weekly.slice(0, 2)) {
-    html += `
-      <a href="weekly/${w.id}.html" class="archive-card">
-        <div>
-          <div class="archive-title">${esc(w.title)}</div>
-          <div class="archive-meta">${w.totalArticles} articles</div>
-        </div>
-        <span class="archive-arrow">→</span>
-      </a>
-    `;
+  return `<div class="archive-grid">${items.slice(0, 12).map(item => `
+    <a href="${type}/${item.id}.html" class="archive-card">
+      <div>
+        <div class="archive-title">${esc(item.title)}</div>
+        <div class="archive-meta">${item.totalArticles} article${item.totalArticles !== 1 ? 's' : ''}${item.dateRange ? ` · ${item.dateRange}` : ''}</div>
+      </div>
+      <span class="archive-arrow">→</span>
+    </a>
+  `).join('')}</div>`;
+}
+
+/**
+ * Collect week-to-date articles from daily digests
+ */
+async function getWeekToDateArticles(index) {
+  const now = new Date();
+  const weekStart = startOfWeek(now, { weekStartsOn: 1 });
+  const articles = [];
+  const seenTitles = new Set();
+
+  // Get all daily digests from this week
+  for (const daily of index.daily) {
+    // Parse date from id (YY-MM-DD)
+    const [yy, mm, dd] = daily.id.split('-').map(Number);
+    const digestDate = new Date(2000 + yy, mm - 1, dd);
+    
+    if (digestDate >= weekStart && digestDate <= now) {
+      try {
+        const digest = JSON.parse(await fs.readFile(path.join(DATA_DIR, 'daily', `${daily.id}.json`), 'utf-8'));
+        const dayLabel = format(digestDate, 'EEE');
+        
+        for (const article of (digest.highlights || []).slice(0, 5)) {
+          // Deduplicate by title similarity
+          const titleKey = article.title.toLowerCase().replace(/[^a-z0-9]/g, '').slice(0, 50);
+          if (!seenTitles.has(titleKey)) {
+            seenTitles.add(titleKey);
+            articles.push({ ...article, dayLabel, digestDate });
+          }
+        }
+      } catch {}
+    }
   }
-  
-  // Show monthly
-  for (const m of monthly.slice(0, 1)) {
-    html += `
-      <a href="monthly/${m.id}.html" class="archive-card">
-        <div>
-          <div class="archive-title">${esc(m.title)}</div>
-          <div class="archive-meta">${m.totalArticles} articles</div>
-        </div>
-        <span class="archive-arrow">→</span>
-      </a>
-    `;
+
+  // Sort by score (if available) then by date
+  articles.sort((a, b) => {
+    if (a.score !== b.score) return (b.score || 0) - (a.score || 0);
+    return b.digestDate - a.digestDate;
+  });
+
+  return articles;
+}
+
+/**
+ * Build search index from recent articles
+ */
+function buildSearchIndex(latestDaily, weekToDateArticles) {
+  const articles = [];
+  const seen = new Set();
+
+  // Add today's articles
+  for (const a of (latestDaily?.highlights || [])) {
+    if (!seen.has(a.link)) {
+      seen.add(a.link);
+      articles.push({
+        title: a.title,
+        source: a.source,
+        link: a.link,
+        keywords: a.matchedKeywords || []
+      });
+    }
   }
-  
-  return html || '<div class="empty">No archives yet</div>';
+
+  // Add week-to-date articles
+  for (const a of weekToDateArticles) {
+    if (!seen.has(a.link)) {
+      seen.add(a.link);
+      articles.push({
+        title: a.title,
+        source: a.source,
+        link: a.link,
+        keywords: a.matchedKeywords || []
+      });
+    }
+  }
+
+  return articles;
 }
 
 // Article HTML for digest page
@@ -219,12 +320,16 @@ async function generateDigestPage(digest, type) {
   });
 }
 
-async function generateIndexPage(index, latestDaily, latestWeekly) {
+async function generateIndexPage(index, latestDaily, latestWeekly, weekToDateArticles) {
   const template = await readTemplate('index');
   
-  // Get today's highlights for hero and grid
   const todayHighlights = latestDaily?.highlights || [];
-  const weekHighlights = latestWeekly?.highlights || [];
+  const now = new Date();
+  const weekStart = startOfWeek(now, { weekStartsOn: 1 });
+  const weekDateRange = `${format(weekStart, 'MMM d')} – ${format(now, 'MMM d')}`;
+  
+  // Build search index
+  const searchArticles = buildSearchIndex(latestDaily, weekToDateArticles);
 
   return render(template, {
     lastUpdated: new Date(index.lastUpdated).toLocaleDateString('en-US', { 
@@ -235,14 +340,18 @@ async function generateIndexPage(index, latestDaily, latestWeekly) {
       minute: '2-digit'
     }),
     heroHTML: generateHeroHTML(todayHighlights),
-    todayNewsHTML: generateNewsGridHTML(todayHighlights.slice(3), 6),
-    weekNewsHTML: generateNewsGridHTML(weekHighlights, 6),
+    weekDateRange,
+    weekToDateHTML: generateWeekToDateHTML(weekToDateArticles, 8),
+    todayNewsHTML: generateNewsListHTML(todayHighlights.slice(4), 8),
     latestDailyLink: index.daily[0] ? `daily/${index.daily[0].id}.html` : '',
     latestWeeklyLink: index.weekly[0] ? `weekly/${index.weekly[0].id}.html` : '',
-    sidebarDailyHTML: generateSidebarHTML(index.daily, 'daily', 7),
-    sidebarWeeklyHTML: generateSidebarHTML(index.weekly, 'weekly', 5),
-    sidebarMonthlyHTML: generateSidebarHTML(index.monthly, 'monthly', 3),
-    archiveHTML: generateArchiveHTML(index.daily, index.weekly, index.monthly)
+    sidebarRecentHTML: generateSidebarRecentHTML(index.daily),
+    sidebarWeeklyHTML: generateSidebarGroupedHTML(index.weekly, 'weekly'),
+    sidebarMonthlyHTML: generateSidebarGroupedHTML(index.monthly, 'monthly'),
+    archiveDailyHTML: generateArchiveCardsHTML(index.daily, 'daily'),
+    archiveWeeklyHTML: generateArchiveCardsHTML(index.weekly, 'weekly'),
+    archiveMonthlyHTML: generateArchiveCardsHTML(index.monthly, 'monthly'),
+    articlesJSON: JSON.stringify(searchArticles)
   });
 }
 
@@ -282,8 +391,12 @@ async function build() {
     } catch {}
   }
 
+  // Get week-to-date articles
+  const weekToDateArticles = await getWeekToDateArticles(index);
+  console.log(`✓ Week-to-date: ${weekToDateArticles.length} articles`);
+
   // Generate index
-  await fs.writeFile(path.join(PUBLIC_DIR, 'index.html'), await generateIndexPage(index, latestDaily, latestWeekly));
+  await fs.writeFile(path.join(PUBLIC_DIR, 'index.html'), await generateIndexPage(index, latestDaily, latestWeekly, weekToDateArticles));
   console.log('✓ index.html');
 
   // Generate digest pages

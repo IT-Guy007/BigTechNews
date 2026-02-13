@@ -4,10 +4,14 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="color-scheme" content="dark">
+  <meta name="theme-color" content="#0a0a0a">
   <title>{{title}} — Big Tech News</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="../css/styles.css">
 </head>
-<body>
+<body class="digest-page">
   <header>
     <div class="container header-inner">
       <a href="../index.html" class="logo">Big Tech News</a>
@@ -18,8 +22,8 @@
   <main class="container">
     <div class="digest-header">
       <span class="digest-type">{{digestType}} Digest</span>
-      <h1>{{title}}</h1>
-      <p class="date">{{dateRange}}</p>
+      <h1 class="digest-title">{{title}}</h1>
+      <p class="digest-date">{{dateRange}}</p>
       <div class="digest-stats">
         <span class="stat"><strong>{{highlightCount}}</strong> highlights</span>
         <span class="stat"><strong>{{totalArticles}}</strong> total</span>
@@ -27,22 +31,22 @@
     </div>
 
     <section class="section">
-      <h2 class="section-title">Top Stories</h2>
+      <h2>Top Stories</h2>
       <ol class="article-list">
         {{highlightsHTML}}
       </ol>
     </section>
 
     <section class="section">
-      <h2 class="section-title">By Category</h2>
+      <h2>By Category</h2>
       {{moreHTML}}
     </section>
   </main>
 
-  <footer>
+  <footer class="footer">
     <div class="container">
       <p>Updated {{generatedAt}}</p>
-      <p class="footer-links"><a href="https://github.com/IT-Guy007/BigTechNews">Source</a></p>
+      <p><a href="https://github.com/IT-Guy007/BigTechNews">Source on GitHub</a></p>
     </div>
   </footer>
 </body>
