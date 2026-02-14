@@ -42,7 +42,7 @@ function getIcon(article) {
 }
 
 /**
- * Generate hero section - top story prominently + 3 secondary cards
+ * Generate top stories section - featured #1 story + secondary cards, no images
  */
 function generateHeroHTML(articles) {
   if (!articles || articles.length === 0) {
@@ -52,32 +52,39 @@ function generateHeroHTML(articles) {
   const main = articles[0];
   const secondary = articles.slice(1, 4);
 
-  const mainImage = main.image 
-    ? `<img class="hero-main-image" src="${esc(main.image)}" alt="" loading="eager">`
-    : `<div class="hero-main-placeholder">${getIcon(main)}</div>`;
+  // Build keyword badges for lead story
+  const mainKeywords = (main.matchedKeywords || []).slice(0, 3)
+    .map(k => `<span class="top-badge">${esc(k)}</span>`).join('');
 
   let html = `
-    <a href="${main.link}" target="_blank" rel="noopener" class="hero-main">
-      ${mainImage}
-      <div class="hero-main-content">
-        <span class="hero-source">${esc(main.source)}</span>
-        <h1 class="hero-main-title">${esc(main.title)}</h1>
+    <a href="${main.link}" target="_blank" rel="noopener" class="top-lead">
+      <div class="top-lead-icon">${getIcon(main)}</div>
+      <div class="top-lead-body">
+        <div class="top-lead-meta">
+          <span class="top-lead-source">${esc(main.source)}</span>
+          ${main.relevanceScore ? `<span class="top-lead-score">Score ${main.relevanceScore}</span>` : ''}
+        </div>
+        <h1 class="top-lead-title">${esc(main.title)}</h1>
+        <p class="top-lead-desc">${esc(truncate(main.description, 180))}</p>
+        ${mainKeywords ? `<div class="top-badges">${mainKeywords}</div>` : ''}
       </div>
     </a>
-    <div class="hero-grid">
+    <div class="top-grid">
   `;
 
   for (const article of secondary) {
-    const cardImage = article.image
-      ? `<img src="${esc(article.image)}" alt="" loading="lazy">`
-      : `<div class="hero-card-placeholder">${getIcon(article)}</div>`;
-    
+    const keywords = (article.matchedKeywords || []).slice(0, 2)
+      .map(k => `<span class="top-badge">${esc(k)}</span>`).join('');
+
     html += `
-      <a href="${article.link}" target="_blank" rel="noopener" class="hero-card">
-        <div class="hero-card-image">${cardImage}</div>
-        <div class="hero-card-content">
-          <h2 class="hero-card-title">${esc(article.title)}</h2>
-          <p class="hero-card-meta">${esc(article.source)}</p>
+      <a href="${article.link}" target="_blank" rel="noopener" class="top-card">
+        <span class="top-card-icon">${getIcon(article)}</span>
+        <div class="top-card-body">
+          <h2 class="top-card-title">${esc(article.title)}</h2>
+          <div class="top-card-meta">
+            <span>${esc(article.source)}</span>
+            ${keywords ? `<span class="top-card-badges">${keywords}</span>` : ''}
+          </div>
         </div>
       </a>
     `;

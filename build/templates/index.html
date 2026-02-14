@@ -69,6 +69,10 @@
     <section class="top-stories">
       <div class="container">
         <div class="update-time">Updated {{lastUpdated}}</div>
+        <div class="section-header">
+          <h2 class="section-title">Top Stories</h2>
+          {{#latestDailyLink}}<a href="{{latestDailyLink}}" class="view-all">Full digest →</a>{{/latestDailyLink}}
+        </div>
         {{heroHTML}}
       </div>
     </section>
@@ -91,7 +95,7 @@
     <section class="today-section">
       <div class="container">
         <div class="section-header">
-          <h2 class="section-title">Today's News</h2>
+          <h2 class="section-title">More Today</h2>
           {{#latestDailyLink}}<a href="{{latestDailyLink}}" class="view-all">View all →</a>{{/latestDailyLink}}
         </div>
         <div class="news-list">
