@@ -1,0 +1,487 @@
+{
+  "type": "daily",
+  "id": "26-02-25",
+  "title": "Wednesday, Feb 25",
+  "dateRange": "February 25, 2026",
+  "date": "2026-02-25",
+  "generatedAt": "2026-02-25T07:32:23.665Z",
+  "highlights": [
+    {
+      "title": "Anthropic Adds Caveat to AI Safety Policy in Race Against Rivals",
+      "link": "https://www.bloomberg.com/news/articles/2026-02-25/anthropic-adds-caveat-to-ai-safety-policy-in-race-against-rivals",
+      "description": "Anthropic PBC, known for its commitment to artificial intelligence safeguards, has loosened its central safety policy, saying the change is necessary to remain competitive.",
+      "published": "2026-02-25T03:53:18.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 12,
+      "matchedKeywords": [
+        "anthropic",
+        "intel",
+        "artificial intelligence",
+        "ai safety"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Self-driving tech startup Wayve raises $1.2B from Nvidia, Uber, and three automakers",
+      "link": "https://techcrunch.com/2026/02/24/self-driving-tech-startup-wayve-raises-1-2b-from-nvidia-uber-and-three-automakers/",
+      "description": "Major automakers, tech giants, AI companies, and chipmakers are all trying to get a piece of Wayve.",
+      "published": "2026-02-25T00:37:59.000Z",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 11,
+      "matchedKeywords": [
+        "nvidia",
+        "uber",
+        "chip",
+        "self-driving"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Canada Wants OpenAI to Present Safety Plan After Shooter’s ChatGPT Use",
+      "link": "https://www.bloomberg.com/news/articles/2026-02-25/canada-wants-openai-to-present-safety-plan-after-shooter-s-chatgpt-use",
+      "description": "The Canadian government says it expects OpenAI Inc. to present “concrete” safety steps after the company opted not to inform police about a teenager from British Columbia who’d played out violent scenarios on ChatGPT.",
+      "published": "2026-02-25T03:20:24.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 11,
+      "matchedKeywords": [
+        "openai",
+        "chatgpt"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Anthropic just released a mobile version of Claude Code called Remote Control",
+      "link": "https://venturebeat.com/orchestration/anthropic-just-released-a-mobile-version-of-claude-code-called-remote",
+      "description": "Claude Code has become increasingly popular in the first year since its launch, and especially in recent months, as developers and non-technical users alike flock to AI unicorn Anthropic's hit coding agent to create full applications and websites in days, on their own, that would've taken months and technical teams without. It's not a stretch to say it helped spur the \"vibe coding\" boom — using plain English instead of programming languages to write software.\nBut it's all been restricted to the desktop Claude Code apps and Terminal command-line interfaces and integrated development environments (IDEs) — until today. Now, Anthropic has added a new mode, Remote Control, that lets users issue commands to Claude Code from their iPhone and Android smartphones — starting with subscribers to Anthropic's Claude Max ($100-$200 USD monthly) subscription tier.\nAnthropic posted on X saying Remote Control will also make its way to Claude Pro ($20 USD monthly) subscribers in the future.\nThe mobile command center\nAnnounced earlier today by Claude Code Product Manager Noah Zweben, Remote Control is a synchronization layer that bridges local CLI environments with the Claude mobile app and web interface. \n\nThe feature allows developers to initiate a complex task in their terminal and maintain full control of it from a phone or tablet, effectively decoupling the AI agent from the physical workstation.\nCurrently, Remote Control is available as a Research Preview for subscribers on the Claude Max tier. While access for Claude Pro ($20/month) users is expected shortly, the feature remains a high-end tool for power users and is notably absent from Team or Enterprise plans during this initial phase. \nTo access the feature, users must follow this guide and update to Claude version 2.1.52 and execute the command claude remote-control or use the in-session slash command /rc. Once active, the terminal displays a QR code that, when scanned, opens a responsive, synchronized session in the Claude mobile app.\nLess screen time, more IRL time: philosophy of flow\nThe messaging behind the release centers on the preservation of a developer's \"flow state.\" \nIn his announcement, Zweben framed the update as a lifestyle upgrade rather than just a technical one, encouraging users to \"take a walk, see the sun, walk your dog without losing your flow.\"\nThis \"Remote Control\" is not a cloud-based replacement for local development, but a portal into it. According to official documentation, the core value is that \"Claude keeps running on your machine, and you can control the session from the Claude app.\" \nThis ensures that local context—filesystem access, environment variables, and Model Context Protocol (MCP)servers—remains active and reachable even if the user is miles away from their desk.\nArchitecture, security, and setup\nClaude Code Remote Control functions as a secure bridge between your local terminal and Anthropic’s cloud interface, which provides the Anthropic AI models, Opus 4.6 and Sonnet 4.6, that power Claude Code.\nWhen you run the command, your desktop machine initiates an outbound connection to Anthropic’s API for serving the models — meaning you aren't opening any \"inbound\" ports or exposing your computer to the open web. Instead, your local machine polls the API for instructions. \nWhen you visit the session URL or use the Claude app, you are essentially using those devices as a \"remote window\" to view and command the process still running on your computer. Your files and MCP servers never leave your machine; only the chat messages and tool results flow through the encrypted bridge.\nTo get started, ensure you are on a Pro or Max plan and have authenticated your CLI using the /login command. Simply navigate to your project directory and run claude remote-control to initialize the session. The terminal will then generate a unique session URL and a QR code (toggleable via the spacebar) for your mobile device. \nOnce you open that link on your phone, tablet, or another browser, the two surfaces stay in perfect sync—allowing you to start a task at your desk and continue it from the couch while maintaining full access to your local filesystem and project configuration.\nFrom brittle community hacks to official solution\nPrior to this official release, the developer community went to great lengths to \"hack\" mobile access into their terminal-based workflows. \nPower users frequently relied on a patchwork of third-party tools like Tailscale for secure tunneling, Termius or Termux for mobile SSH access, and Tmux for session persistence.\nSome developers even built complex custom WebSocket bridges just to get a responsive mobile UI for their local Claude sessions. \nThese unofficial solutions, while functional, were often brittle and prone to timeout issues. Remote Control replaces these workarounds with a native streaming connection that requires no port forwarding or complex VPN configurations. \nIt also includes automatic reconnection logic: if a user’s laptop sleeps or the network drops, the session remains alive in the background and reconnects as soon as the host machine is back online.\nThe $2.5 billion-dollar agent\nThe launch of Remote Control serves as an \"escalation of force\" in what has become a dominant business for Anthropic. As of February 2026, Claude Code has hit a $2.5 billion annualized run rate — a figure that has more than doubled since the start of the year alone.\nClaude Code is currently experiencing its \"ChatGPT moment,\" surging to 29 million daily installs within Visual Studio Code. Its efficiency is no longer theoretical; recent analysis suggests that 4% of all public GitHub commits worldwide are now authored by Claude Code. \nBy extending this power to mobile, Anthropic is further entrenching its lead in the \"agentic\" coding space, moving beyond simple autocomplete to a world where the AI acts as an autonomous collaborator.\nFuture outlook: vibe coding everywhere\nThe move toward mobile terminal control signals a broader shift in the software market. We are entering an era where AI tools are writing roughly 41% of all code. For developers, this translates to a migration from \"line-by-line\" typing to \"strategic oversight.\"\nThis trend is likely to accelerate as mobile-tethered agents become the norm. The barrier between \"idea\" and \"production\" is collapsing, enabling a single developer to manage complex systems that previously required entire DevOps teams. This shift has already rattled the broader tech market; shares of major cybersecurity firms like CrowdStrike and Datadog fell as much as 11% following the launch of Claude Code's automated security scanning features.\nAs Claude Code moves from the desk to the pocket, the definition of a \"software engineer\" is being rewritten. In the coming year, the industry may see a surge in \"one-person unicorns\"—startups built and maintained almost entirely via mobile agentic commands—marking the end of the manual coding era as we knew it.",
+      "published": "2026-02-25T02:37:00.000Z",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "priority": 1,
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6RPhHUoUFspa6koUR32kvV/c51a10eb9600c128e13637793ca370ed/Gemini_Generated_Image_7ldhz77ldhz77ldh.png?w=300&q=30",
+      "relevanceScore": 11,
+      "matchedKeywords": [
+        "anthropic",
+        "claude"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Anthropic says Claude Code transformed programming. Now Claude Cowork is coming for the rest of the enterprise.",
+      "link": "https://venturebeat.com/orchestration/anthropic-says-claude-code-transformed-programming-now-claude-cowork-is",
+      "description": "Anthropic opened its virtual \"Briefing: Enterprise Agents\" event on Tuesday with a provocation. Kate Jensen, the company's head of Americas, told viewers that the hype around enterprise AI agents in 2025 \"turned out to be mostly premature,\" with many pilots failing to reach production. \"It wasn't a failure of effort, it was a failure of approach, and it's something we heard directly from our customers,\" Jensen said.\nThe implicit promise: Anthropic has figured out the right approach, and it starts with the playbook that made Claude Code one of the most consequential developer tools of the past year. \"In 2025 Claude transformed how developers work, and in 2026 it will do the same for knowledge work,\" Jensen said. \"The magic behind Claude Code is simple. When you can delegate hard challenges, you can focus on the work that actually matters. Cowork brings that same power to knowledge workers.\"\nThat framing is central to understanding what Anthropic announced on Tuesday. The company rolled out a sweeping set of enterprise capabilities for Claude Cowork, the AI productivity platform it first released in research preview in January. Scott White, head of product for Claude Enterprise, described the ambition plainly during the keynote: \"Cowork makes it possible for Claude to deliver polished, near final work. It goes beyond drafts and suggestions — actual completed projects and deliverables.\"\nThe product updates are dense but consequential. Enterprise administrators can now build private plugin marketplaces tailored to their organizations, connecting to private GitHub repositories as plugin sources and controlling which plugins employees can access. Anthropic introduced new prebuilt plugin templates spanning HR, design, engineering, operations, financial analysis, investment banking, equity research, private equity, and wealth management. The company also shipped new MCP connectors for Google Drive, Google Calendar, Gmail, DocuSign, Apollo, Clay, Outreach, SimilarWeb, MSCI, LegalZoom, FactSet, WordPress, and Harvey — dramatically extending Claude's reach into the software ecosystem that enterprises already use. And Claude can now pass context seamlessly between Cowork, Excel, and PowerPoint, including across multiple files, without requiring users to restart when switching applications.\nWhite emphasized that the system is designed to feel native to each organization rather than generic. \"We've heard loud and clear from enterprises — you want Claude to work the way that your company works, not just Claude for legal, but Cowork for legal at your company,\" he said. \"That's exactly what today's launches deliver.\"\n\nReal-world results from Spotify, Novo Nordisk, and Salesforce hint at what's coming\nTo ground the product announcements in measurable outcomes, Anthropic showcased three enterprise deployments that illustrate both the scale and the variety of impact the company claims Claude can deliver.\nAt Spotify, engineers had long struggled with code migrations — the slow, manual work of updating and modernizing code across thousands of services. Jensen explained that after integrating Claude directly into the system Spotify's engineers use daily, \"any engineer can kick off a large-scale migration just by describing what they need in plain English.\" The company reports up to a 90% reduction in engineering time, over 650 AI-generated code changes shipped per month, and roughly half of all Spotify updates now flowing through the system.\nAt Novo Nordisk, the pharmaceutical giant built an AI-powered platform called NovoScribe with Claude as its intelligence layer, targeting the grueling process of producing regulatory documentation for new medicines. Staff writers had previously averaged just over two reports per year. After deploying Claude, Jensen said, \"documentation creation went from 10 plus weeks to 10 minutes. That's a 95% reduction in resources for verification checks. Medicines are reaching patients faster.\" Jensen also noted that Novo Nordisk used Claude Code to build the platform itself, enabling contributions from non-engineers — their digitalization strategy director, who holds a PhD in molecular biology rather than engineering, now prototypes features using natural language. \"A team of 11 is operating like a team many times its size,\" Jensen said.\nSalesforce, meanwhile, uses Claude models to help power AI in Slack, reporting a 96% satisfaction rate for tools like its Slack bot and saving customers an estimated 97 minutes per week through summarization and recap features. The partnership reflects Anthropic's broader ecosystem strategy: Jensen described the companies featured at the event as \"Claude partners and domain experts with the data and trusted relationships that make Claude work in the real world.\"\nEnterprise leaders reveal the messy reality behind AI transformation\nPerhaps the most illuminating segment of the event was a panel discussion featuring executives from Thomson Reuters, the New York Stock Exchange, and Epic, who provided candid assessments of AI's enterprise reality that went well beyond the polished case studies.\nSridhar Masam, CTO of the New York Stock Exchange, described his organization as \"rewiring our engineering process\" with Claude Code and building internal AI agents using the Claude Agent SDK that can take instructions from a Jira ticket all the way to a committed piece of code. But he also identified fundamental shifts in how leaders must think. \"The accountability is shifting,\" he said. \"Traditionally, we are so used to building deterministic platforms. You write code requirements and build. And now, with AI being probabilistic, the accountability doesn't end when the project goes live, but on a daily basis, monitoring the behavior and outcomes.\" He described a new paradigm beyond \"buy versus build\" — what he called \"assembly,\" the practice of combining multiple models, multiple vendors, platforms, data, and internal capabilities into solutions. And he noted that highly regulated industries must shift \"from risk avoidance to risk calibration,\" because simply avoiding AI is no longer a competitive option.\nSteve Haske from Thomson Reuters, whose Co-Counsel product has reached a million users, was frank about the gap between what the technology can do and what organizations are ready for. \"The tools are in many senses ahead of the change management,\" he said. \"A general counsel's office, a law firm, a tax and accounting firm, an audit firm, need to rewire the processes to be able to take advantage of the benefits that the tools provide. And I think it's 18 months away before that sort of change management catches up with the standard of the tool.\" He also stressed an \"ironclad guarantee\" to Co-Counsel customers that \"their input will not be part of our AI output,\" and urged enterprise leaders to be \"feverish\" about protecting institutional intellectual property.\nSeth Hain from Epic — the healthcare technology company behind MyChart — offered a finding that may foreshadow where enterprise AI adoption is truly heading. \"Over half of our use of Claude Code is by non-developer roles across the company,\" Hain said, describing how support and implementation staff had adopted the tool in ways the company never anticipated. Hain also described a deliberate trust-building strategy: Epic's first AI capability was a medical record summarization that included links to the underlying source material, giving clinicians the ability to verify and build confidence before the company introduced more autonomous agent capabilities.\nA year of Claude Code and MCP adoption explains why this moment feels different\nTuesday's announcements cannot be understood in isolation. They are essentially the culmination of a year in which Anthropic transformed itself from a research-focused AI lab into a company with genuine enterprise distribution and developer ecosystem gravity.\nThe trajectory began with Claude Code, which Jensen noted had taken coding use cases \"from assisting on tiny tasks to AI writing 90 or sometimes even 100% of the code, with enterprises shipping in weeks what once took many quarters.\" But the deeper structural shift was the adoption of MCP — the Model Context Protocol — which has become the connective tissue allowing Claude to reach into and act upon data across an organization's entire technology stack. Where previous AI tools were constrained to the information users manually fed them, MCP-connected Claude can pull context from Slack threads, Google Drive documents, CRM records, and financial systems simultaneously. This is what makes the plugin architecture announced Tuesday fundamentally different from earlier chatbot-style enterprise AI: it turns Claude into a reasoning layer that sits across an organization's existing infrastructure rather than alongside it.\nThe implications for the broader AI industry are profound. Anthropic is effectively building a platform play — private plugin marketplaces, portable file-based plugins, and an expanding library of MCP connectors — that echoes the ecosystem strategies of earlier platform giants like Salesforce and Microsoft. The difference is velocity: Anthropic is compressing into months the kind of ecosystem development that previously took years. The company's willingness to ship sector-specific plugin templates for investment banking, equity research, and wealth management alongside general-purpose tools signals that it sees no bright line between platform and application, between enabling partners and competing with them.\nThis strategic ambiguity is precisely what has spooked Wall Street. IBM shares suffered their worst single-day loss since October 2000 — down nearly 13.2% — on Monday after Anthropic published a blog post about using Claude Code to modernize COBOL, the decades-old programming language that runs on IBM's mainframe systems. Enterprise software stocks had already been under heavy pressure since the initial Cowork announcement on January 30, with companies like ServiceNow, Salesforce, Snowflake, Intuit, and Thomson Reuters all experiencing steep declines. Cybersecurity companies tumbled after the company unveiled Claude Code Security on February 20.\nYet Tuesday's event triggered a partial reversal that revealed something important about how markets are processing AI disruption. Companies named as Anthropic partners and integration targets — Salesforce, DocuSign, LegalZoom, Thomson Reuters, FactSet — all rallied, some sharply. Thomson Reuters surged more than 11%. The market appears to be drawing a new distinction: companies integrated into Anthropic's ecosystem may benefit, while those standing outside it face existential risk.\nAnthropic's own economist warns that AI's impact will be uneven — and fast\nPeter McCrory, Anthropic's head of economics, presented data from the Anthropic Economic Index that offered a sober counterweight to the event's product optimism. Using privacy-preserving methods to analyze how people and businesses use Claude, McCrory's team has tracked AI's diffusion across more than 150 countries and every US state.\nThe headline finding is striking: a year ago, roughly a third of all US jobs had at least a quarter of their associated tasks appearing in Claude usage data. That figure has now risen to approximately one in every two jobs. \"The scope of impact is broadening out throughout the economy as the tools and as the technology becomes more capable,\" McCrory said. He characterized AI as a \"general purpose technology\" in the economic sense — meaning virtually no facet of the economy will be unaffected.\nMcCrory drew a critical distinction between automation, where Claude simply executes a task, and augmentation, where it collaborates with a human on more complex work. When businesses embed Claude through the API, he noted, \"we see overwhelmingly Claude is being embedded in automated ways\" — a pattern consistent with how transformative technologies have historically diffused through the economy.\nOn the question of job displacement, McCrory was measured but direct. He noted that \"roles that typically require more years of schooling have the largest productivity or efficiency gains,\" suggesting a dynamic economists call skill-biased technical change. He expressed concern about \"jobs that are pure implementation\" — citing data entry workers and technical writers as examples where Claude is already being used for tasks central to those occupations. But he emphasized that no evidence of widespread labor displacement has materialized yet, and pointed to forthcoming research that would introduce methodology for monitoring whether highly exposed workers are beginning to experience it.\nHis advice to enterprise leaders cut to the heart of the organizational challenge. \"It might not just be about fundamental capabilities of the model,\" McCrory said. \"Do you have the right sort of data ecosystem, data infrastructure to provide the right information at the right time?\" If the knowledge Claude needs to execute a sophisticated task exists only in a coworker's head, he argued, \"that's not a technical problem, per se. That's an organizational problem.\"\nThe question every enterprise leader is now asking — and why no one has the answer yet\nJensen described a concept Anthropic calls \"the thinking divide\" — the growing gap between organizations that embed AI across employees, processes, and products simultaneously, and those that treat it as a point solution. The companies on the right side of that divide, she argued, will compound their advantage over time. Those on the wrong side \"will find themselves falling further and further behind.\"\nWhether Anthropic ultimately functions as the rising tide that lifts the enterprise software ecosystem or the wave that swamps it remains genuinely uncertain. The same event that triggered a rally in shares of Anthropic's named partners has also accelerated a broader reckoning for legacy software companies that cannot yet articulate how they fit into an AI-native world. McCrory, the economist, counseled humility. \"Capabilities are moving very, very quickly,\" he said. \"It might represent an innovation in the method of innovation. So it's not just making us better at the things that we do — it's helping us discover new ways to do things.\"\nThomson Reuters' Haske perhaps put it most practically. \"As leaders, we all have to get personally involved and personally invested in using the tools,\" he said. \"We've got to move fast. This environment is changing quickly. We cannot afford to get left behind.\"\nA Fortune 10 CIO recently told Jensen that enterprises would need to fit a decade of innovation into the next few years. The CIO smiled and said: \"We're going to do it in one with you.\" Whether that confidence proves prescient or premature, one thing is clear from Tuesday's event — the window for figuring it out is closing faster than most boardrooms realize.",
+      "published": "2026-02-25T00:40:00.000Z",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "priority": 1,
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/4Go7ccNVAocm7JfJv7mITS/06d5aee9b462e58c0c16348e6762866f/nuneybits_Vector_art_of_a_burnt_orange_tidal_wave_crashing_over_8c717943-4488-4e3e-a47f-c35dbac7fc46.webp?w=300&q=30",
+      "relevanceScore": 11,
+      "matchedKeywords": [
+        "anthropic",
+        "claude"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Nvidia challenger AI chip startup MatX raised $500M",
+      "link": "https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m/",
+      "description": "The startup was founded by former Google TPU engineers in 2023.",
+      "published": "2026-02-25T00:45:47.000Z",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "google",
+        "nvidia",
+        "chip",
+        "tpu"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Pete Hegseth’s Pentagon AI bro squad includes a former Uber executive and a private equity billionaire",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/884165/pentagon-anthropic-emil-michael-steve-feinberg",
+      "description": "U.S. Secretary of Defense Pete Hegseth (L) walks with Emil Michael (R), Under Secretary of Defense (Research & Engineering, while touring an exhibit of Multi-Domain Autonomous systems at the Pentagon July 16, 2025 in Arlington, Virginia. | Win McNamee/Getty Images.\t\n\nHello and welcome to Regulator, a newsletter for Verge subscribers covering the broligarchs, the influencers, and the (potentially conscious) artificial intelligence models scrambling for power in Washington. If you're not a subscriber yet, assert your humanity against the will of the machines by signing up here.\nVery important news: Do you want to tell me stuff and see it printed in Regulator? Well, now you can, because we have a new tip line! Send all commentary, cool information, and ~secrets~ to tina.nguyen+tips@theverge.com. \nThe Pentagon's private-sector A-Team\nThis morning, in advance of a meeting between Defense Secretary Pete Heg …\nRead the full story at The Verge.",
+      "published": "2026-02-25T01:59:00.000Z",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "priority": 1,
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2225411614.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "intel",
+        "uber",
+        "artificial intelligence",
+        "billion"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Wayve CEO on Robotaxis, Automaker Partnerships, Software",
+      "link": "https://www.bloomberg.com/news/videos/2026-02-25/wayve-ceo-on-robotaxis-automaker-partnerships-software-video",
+      "description": "Wayve Ltd. CEO Alex Kendall discusses the UK self-driving company’s global autonomy platform, its partnerships with Nissan, Mercedes and Stellantis, and plans for mass production of robotaxis. He also talks about high-margin software business with some of the world’s largest OEMs, saying, “we’re excited to see our technology go head-to-head.” Kendall speaks with Bloomberg’s Tom Mackenzie in London. (Source: Bloomberg)",
+      "published": "2026-02-25T00:01:20.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "ceo",
+        "robotaxi",
+        "self-driving"
+      ],
+      "category": "ev_autonomous"
+    },
+    {
+      "title": "Floodgates open for Tesla lawsuits, Waymo expands, and US goes nuclear",
+      "link": "https://electrek.co/2026/02/24/floodgates-open-for-tesla-lawsuits-waymo-expands-and-us-goes-nuclear/",
+      "description": "On today’s high-dollar episode of Quick Charge, Tesla is reeling from a $243 million judgement against it in a high-profile wrongful death case involving the company’s Autopilot system, and has a hard time getting the relevant data to NHTSA.\nmore…",
+      "published": "2026-02-25T00:40:32.000Z",
+      "source": "Electrek",
+      "sourceKey": "electrek",
+      "priority": 2,
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/floodgates_2x1.png?w=1600",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "tesla",
+        "waymo",
+        "lawsuit"
+      ],
+      "category": "ev_autonomous"
+    },
+    {
+      "title": "Self-Driving Startup Wayve Raises $1.5 Billion for Robotaxi Wars",
+      "link": "https://www.bloomberg.com/news/articles/2026-02-25/self-driving-startup-wayve-raises-1-5-billion-for-robotaxi-wars",
+      "description": "Wayve, the UK autonomous driving software startup, has raised $1.5 billion in funding at an $8.6 billion valuation as it prepares to go up against Chinese and US rivals to roll out self-driving taxis.",
+      "published": "2026-02-25T00:01:00.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "robotaxi",
+        "self-driving",
+        "billion",
+        "valuation"
+      ],
+      "category": "ev_autonomous"
+    }
+  ],
+  "byCategory": {
+    "ai": [
+      {
+        "title": "Anthropic Adds Caveat to AI Safety Policy in Race Against Rivals",
+        "link": "https://www.bloomberg.com/news/articles/2026-02-25/anthropic-adds-caveat-to-ai-safety-policy-in-race-against-rivals",
+        "description": "Anthropic PBC, known for its commitment to artificial intelligence safeguards, has loosened its central safety policy, saying the change is necessary to remain competitive.",
+        "published": "2026-02-25T03:53:18.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "anthropic",
+          "intel",
+          "artificial intelligence",
+          "ai safety"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Self-driving tech startup Wayve raises $1.2B from Nvidia, Uber, and three automakers",
+        "link": "https://techcrunch.com/2026/02/24/self-driving-tech-startup-wayve-raises-1-2b-from-nvidia-uber-and-three-automakers/",
+        "description": "Major automakers, tech giants, AI companies, and chipmakers are all trying to get a piece of Wayve.",
+        "published": "2026-02-25T00:37:59.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "nvidia",
+          "uber",
+          "chip",
+          "self-driving"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Canada Wants OpenAI to Present Safety Plan After Shooter’s ChatGPT Use",
+        "link": "https://www.bloomberg.com/news/articles/2026-02-25/canada-wants-openai-to-present-safety-plan-after-shooter-s-chatgpt-use",
+        "description": "The Canadian government says it expects OpenAI Inc. to present “concrete” safety steps after the company opted not to inform police about a teenager from British Columbia who’d played out violent scenarios on ChatGPT.",
+        "published": "2026-02-25T03:20:24.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "openai",
+          "chatgpt"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Anthropic just released a mobile version of Claude Code called Remote Control",
+        "link": "https://venturebeat.com/orchestration/anthropic-just-released-a-mobile-version-of-claude-code-called-remote",
+        "description": "Claude Code has become increasingly popular in the first year since its launch, and especially in recent months, as developers and non-technical users alike flock to AI unicorn Anthropic's hit coding agent to create full applications and websites in days, on their own, that would've taken months and technical teams without. It's not a stretch to say it helped spur the \"vibe coding\" boom — using plain English instead of programming languages to write software.\nBut it's all been restricted to the desktop Claude Code apps and Terminal command-line interfaces and integrated development environments (IDEs) — until today. Now, Anthropic has added a new mode, Remote Control, that lets users issue commands to Claude Code from their iPhone and Android smartphones — starting with subscribers to Anthropic's Claude Max ($100-$200 USD monthly) subscription tier.\nAnthropic posted on X saying Remote Control will also make its way to Claude Pro ($20 USD monthly) subscribers in the future.\nThe mobile command center\nAnnounced earlier today by Claude Code Product Manager Noah Zweben, Remote Control is a synchronization layer that bridges local CLI environments with the Claude mobile app and web interface. \n\nThe feature allows developers to initiate a complex task in their terminal and maintain full control of it from a phone or tablet, effectively decoupling the AI agent from the physical workstation.\nCurrently, Remote Control is available as a Research Preview for subscribers on the Claude Max tier. While access for Claude Pro ($20/month) users is expected shortly, the feature remains a high-end tool for power users and is notably absent from Team or Enterprise plans during this initial phase. \nTo access the feature, users must follow this guide and update to Claude version 2.1.52 and execute the command claude remote-control or use the in-session slash command /rc. Once active, the terminal displays a QR code that, when scanned, opens a responsive, synchronized session in the Claude mobile app.\nLess screen time, more IRL time: philosophy of flow\nThe messaging behind the release centers on the preservation of a developer's \"flow state.\" \nIn his announcement, Zweben framed the update as a lifestyle upgrade rather than just a technical one, encouraging users to \"take a walk, see the sun, walk your dog without losing your flow.\"\nThis \"Remote Control\" is not a cloud-based replacement for local development, but a portal into it. According to official documentation, the core value is that \"Claude keeps running on your machine, and you can control the session from the Claude app.\" \nThis ensures that local context—filesystem access, environment variables, and Model Context Protocol (MCP)servers—remains active and reachable even if the user is miles away from their desk.\nArchitecture, security, and setup\nClaude Code Remote Control functions as a secure bridge between your local terminal and Anthropic’s cloud interface, which provides the Anthropic AI models, Opus 4.6 and Sonnet 4.6, that power Claude Code.\nWhen you run the command, your desktop machine initiates an outbound connection to Anthropic’s API for serving the models — meaning you aren't opening any \"inbound\" ports or exposing your computer to the open web. Instead, your local machine polls the API for instructions. \nWhen you visit the session URL or use the Claude app, you are essentially using those devices as a \"remote window\" to view and command the process still running on your computer. Your files and MCP servers never leave your machine; only the chat messages and tool results flow through the encrypted bridge.\nTo get started, ensure you are on a Pro or Max plan and have authenticated your CLI using the /login command. Simply navigate to your project directory and run claude remote-control to initialize the session. The terminal will then generate a unique session URL and a QR code (toggleable via the spacebar) for your mobile device. \nOnce you open that link on your phone, tablet, or another browser, the two surfaces stay in perfect sync—allowing you to start a task at your desk and continue it from the couch while maintaining full access to your local filesystem and project configuration.\nFrom brittle community hacks to official solution\nPrior to this official release, the developer community went to great lengths to \"hack\" mobile access into their terminal-based workflows. \nPower users frequently relied on a patchwork of third-party tools like Tailscale for secure tunneling, Termius or Termux for mobile SSH access, and Tmux for session persistence.\nSome developers even built complex custom WebSocket bridges just to get a responsive mobile UI for their local Claude sessions. \nThese unofficial solutions, while functional, were often brittle and prone to timeout issues. Remote Control replaces these workarounds with a native streaming connection that requires no port forwarding or complex VPN configurations. \nIt also includes automatic reconnection logic: if a user’s laptop sleeps or the network drops, the session remains alive in the background and reconnects as soon as the host machine is back online.\nThe $2.5 billion-dollar agent\nThe launch of Remote Control serves as an \"escalation of force\" in what has become a dominant business for Anthropic. As of February 2026, Claude Code has hit a $2.5 billion annualized run rate — a figure that has more than doubled since the start of the year alone.\nClaude Code is currently experiencing its \"ChatGPT moment,\" surging to 29 million daily installs within Visual Studio Code. Its efficiency is no longer theoretical; recent analysis suggests that 4% of all public GitHub commits worldwide are now authored by Claude Code. \nBy extending this power to mobile, Anthropic is further entrenching its lead in the \"agentic\" coding space, moving beyond simple autocomplete to a world where the AI acts as an autonomous collaborator.\nFuture outlook: vibe coding everywhere\nThe move toward mobile terminal control signals a broader shift in the software market. We are entering an era where AI tools are writing roughly 41% of all code. For developers, this translates to a migration from \"line-by-line\" typing to \"strategic oversight.\"\nThis trend is likely to accelerate as mobile-tethered agents become the norm. The barrier between \"idea\" and \"production\" is collapsing, enabling a single developer to manage complex systems that previously required entire DevOps teams. This shift has already rattled the broader tech market; shares of major cybersecurity firms like CrowdStrike and Datadog fell as much as 11% following the launch of Claude Code's automated security scanning features.\nAs Claude Code moves from the desk to the pocket, the definition of a \"software engineer\" is being rewritten. In the coming year, the industry may see a surge in \"one-person unicorns\"—startups built and maintained almost entirely via mobile agentic commands—marking the end of the manual coding era as we knew it.",
+        "published": "2026-02-25T02:37:00.000Z",
+        "source": "VentureBeat",
+        "sourceKey": "venturebeat",
+        "priority": 1,
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6RPhHUoUFspa6koUR32kvV/c51a10eb9600c128e13637793ca370ed/Gemini_Generated_Image_7ldhz77ldhz77ldh.png?w=300&q=30",
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "anthropic",
+          "claude"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Anthropic says Claude Code transformed programming. Now Claude Cowork is coming for the rest of the enterprise.",
+        "link": "https://venturebeat.com/orchestration/anthropic-says-claude-code-transformed-programming-now-claude-cowork-is",
+        "description": "Anthropic opened its virtual \"Briefing: Enterprise Agents\" event on Tuesday with a provocation. Kate Jensen, the company's head of Americas, told viewers that the hype around enterprise AI agents in 2025 \"turned out to be mostly premature,\" with many pilots failing to reach production. \"It wasn't a failure of effort, it was a failure of approach, and it's something we heard directly from our customers,\" Jensen said.\nThe implicit promise: Anthropic has figured out the right approach, and it starts with the playbook that made Claude Code one of the most consequential developer tools of the past year. \"In 2025 Claude transformed how developers work, and in 2026 it will do the same for knowledge work,\" Jensen said. \"The magic behind Claude Code is simple. When you can delegate hard challenges, you can focus on the work that actually matters. Cowork brings that same power to knowledge workers.\"\nThat framing is central to understanding what Anthropic announced on Tuesday. The company rolled out a sweeping set of enterprise capabilities for Claude Cowork, the AI productivity platform it first released in research preview in January. Scott White, head of product for Claude Enterprise, described the ambition plainly during the keynote: \"Cowork makes it possible for Claude to deliver polished, near final work. It goes beyond drafts and suggestions — actual completed projects and deliverables.\"\nThe product updates are dense but consequential. Enterprise administrators can now build private plugin marketplaces tailored to their organizations, connecting to private GitHub repositories as plugin sources and controlling which plugins employees can access. Anthropic introduced new prebuilt plugin templates spanning HR, design, engineering, operations, financial analysis, investment banking, equity research, private equity, and wealth management. The company also shipped new MCP connectors for Google Drive, Google Calendar, Gmail, DocuSign, Apollo, Clay, Outreach, SimilarWeb, MSCI, LegalZoom, FactSet, WordPress, and Harvey — dramatically extending Claude's reach into the software ecosystem that enterprises already use. And Claude can now pass context seamlessly between Cowork, Excel, and PowerPoint, including across multiple files, without requiring users to restart when switching applications.\nWhite emphasized that the system is designed to feel native to each organization rather than generic. \"We've heard loud and clear from enterprises — you want Claude to work the way that your company works, not just Claude for legal, but Cowork for legal at your company,\" he said. \"That's exactly what today's launches deliver.\"\n\nReal-world results from Spotify, Novo Nordisk, and Salesforce hint at what's coming\nTo ground the product announcements in measurable outcomes, Anthropic showcased three enterprise deployments that illustrate both the scale and the variety of impact the company claims Claude can deliver.\nAt Spotify, engineers had long struggled with code migrations — the slow, manual work of updating and modernizing code across thousands of services. Jensen explained that after integrating Claude directly into the system Spotify's engineers use daily, \"any engineer can kick off a large-scale migration just by describing what they need in plain English.\" The company reports up to a 90% reduction in engineering time, over 650 AI-generated code changes shipped per month, and roughly half of all Spotify updates now flowing through the system.\nAt Novo Nordisk, the pharmaceutical giant built an AI-powered platform called NovoScribe with Claude as its intelligence layer, targeting the grueling process of producing regulatory documentation for new medicines. Staff writers had previously averaged just over two reports per year. After deploying Claude, Jensen said, \"documentation creation went from 10 plus weeks to 10 minutes. That's a 95% reduction in resources for verification checks. Medicines are reaching patients faster.\" Jensen also noted that Novo Nordisk used Claude Code to build the platform itself, enabling contributions from non-engineers — their digitalization strategy director, who holds a PhD in molecular biology rather than engineering, now prototypes features using natural language. \"A team of 11 is operating like a team many times its size,\" Jensen said.\nSalesforce, meanwhile, uses Claude models to help power AI in Slack, reporting a 96% satisfaction rate for tools like its Slack bot and saving customers an estimated 97 minutes per week through summarization and recap features. The partnership reflects Anthropic's broader ecosystem strategy: Jensen described the companies featured at the event as \"Claude partners and domain experts with the data and trusted relationships that make Claude work in the real world.\"\nEnterprise leaders reveal the messy reality behind AI transformation\nPerhaps the most illuminating segment of the event was a panel discussion featuring executives from Thomson Reuters, the New York Stock Exchange, and Epic, who provided candid assessments of AI's enterprise reality that went well beyond the polished case studies.\nSridhar Masam, CTO of the New York Stock Exchange, described his organization as \"rewiring our engineering process\" with Claude Code and building internal AI agents using the Claude Agent SDK that can take instructions from a Jira ticket all the way to a committed piece of code. But he also identified fundamental shifts in how leaders must think. \"The accountability is shifting,\" he said. \"Traditionally, we are so used to building deterministic platforms. You write code requirements and build. And now, with AI being probabilistic, the accountability doesn't end when the project goes live, but on a daily basis, monitoring the behavior and outcomes.\" He described a new paradigm beyond \"buy versus build\" — what he called \"assembly,\" the practice of combining multiple models, multiple vendors, platforms, data, and internal capabilities into solutions. And he noted that highly regulated industries must shift \"from risk avoidance to risk calibration,\" because simply avoiding AI is no longer a competitive option.\nSteve Haske from Thomson Reuters, whose Co-Counsel product has reached a million users, was frank about the gap between what the technology can do and what organizations are ready for. \"The tools are in many senses ahead of the change management,\" he said. \"A general counsel's office, a law firm, a tax and accounting firm, an audit firm, need to rewire the processes to be able to take advantage of the benefits that the tools provide. And I think it's 18 months away before that sort of change management catches up with the standard of the tool.\" He also stressed an \"ironclad guarantee\" to Co-Counsel customers that \"their input will not be part of our AI output,\" and urged enterprise leaders to be \"feverish\" about protecting institutional intellectual property.\nSeth Hain from Epic — the healthcare technology company behind MyChart — offered a finding that may foreshadow where enterprise AI adoption is truly heading. \"Over half of our use of Claude Code is by non-developer roles across the company,\" Hain said, describing how support and implementation staff had adopted the tool in ways the company never anticipated. Hain also described a deliberate trust-building strategy: Epic's first AI capability was a medical record summarization that included links to the underlying source material, giving clinicians the ability to verify and build confidence before the company introduced more autonomous agent capabilities.\nA year of Claude Code and MCP adoption explains why this moment feels different\nTuesday's announcements cannot be understood in isolation. They are essentially the culmination of a year in which Anthropic transformed itself from a research-focused AI lab into a company with genuine enterprise distribution and developer ecosystem gravity.\nThe trajectory began with Claude Code, which Jensen noted had taken coding use cases \"from assisting on tiny tasks to AI writing 90 or sometimes even 100% of the code, with enterprises shipping in weeks what once took many quarters.\" But the deeper structural shift was the adoption of MCP — the Model Context Protocol — which has become the connective tissue allowing Claude to reach into and act upon data across an organization's entire technology stack. Where previous AI tools were constrained to the information users manually fed them, MCP-connected Claude can pull context from Slack threads, Google Drive documents, CRM records, and financial systems simultaneously. This is what makes the plugin architecture announced Tuesday fundamentally different from earlier chatbot-style enterprise AI: it turns Claude into a reasoning layer that sits across an organization's existing infrastructure rather than alongside it.\nThe implications for the broader AI industry are profound. Anthropic is effectively building a platform play — private plugin marketplaces, portable file-based plugins, and an expanding library of MCP connectors — that echoes the ecosystem strategies of earlier platform giants like Salesforce and Microsoft. The difference is velocity: Anthropic is compressing into months the kind of ecosystem development that previously took years. The company's willingness to ship sector-specific plugin templates for investment banking, equity research, and wealth management alongside general-purpose tools signals that it sees no bright line between platform and application, between enabling partners and competing with them.\nThis strategic ambiguity is precisely what has spooked Wall Street. IBM shares suffered their worst single-day loss since October 2000 — down nearly 13.2% — on Monday after Anthropic published a blog post about using Claude Code to modernize COBOL, the decades-old programming language that runs on IBM's mainframe systems. Enterprise software stocks had already been under heavy pressure since the initial Cowork announcement on January 30, with companies like ServiceNow, Salesforce, Snowflake, Intuit, and Thomson Reuters all experiencing steep declines. Cybersecurity companies tumbled after the company unveiled Claude Code Security on February 20.\nYet Tuesday's event triggered a partial reversal that revealed something important about how markets are processing AI disruption. Companies named as Anthropic partners and integration targets — Salesforce, DocuSign, LegalZoom, Thomson Reuters, FactSet — all rallied, some sharply. Thomson Reuters surged more than 11%. The market appears to be drawing a new distinction: companies integrated into Anthropic's ecosystem may benefit, while those standing outside it face existential risk.\nAnthropic's own economist warns that AI's impact will be uneven — and fast\nPeter McCrory, Anthropic's head of economics, presented data from the Anthropic Economic Index that offered a sober counterweight to the event's product optimism. Using privacy-preserving methods to analyze how people and businesses use Claude, McCrory's team has tracked AI's diffusion across more than 150 countries and every US state.\nThe headline finding is striking: a year ago, roughly a third of all US jobs had at least a quarter of their associated tasks appearing in Claude usage data. That figure has now risen to approximately one in every two jobs. \"The scope of impact is broadening out throughout the economy as the tools and as the technology becomes more capable,\" McCrory said. He characterized AI as a \"general purpose technology\" in the economic sense — meaning virtually no facet of the economy will be unaffected.\nMcCrory drew a critical distinction between automation, where Claude simply executes a task, and augmentation, where it collaborates with a human on more complex work. When businesses embed Claude through the API, he noted, \"we see overwhelmingly Claude is being embedded in automated ways\" — a pattern consistent with how transformative technologies have historically diffused through the economy.\nOn the question of job displacement, McCrory was measured but direct. He noted that \"roles that typically require more years of schooling have the largest productivity or efficiency gains,\" suggesting a dynamic economists call skill-biased technical change. He expressed concern about \"jobs that are pure implementation\" — citing data entry workers and technical writers as examples where Claude is already being used for tasks central to those occupations. But he emphasized that no evidence of widespread labor displacement has materialized yet, and pointed to forthcoming research that would introduce methodology for monitoring whether highly exposed workers are beginning to experience it.\nHis advice to enterprise leaders cut to the heart of the organizational challenge. \"It might not just be about fundamental capabilities of the model,\" McCrory said. \"Do you have the right sort of data ecosystem, data infrastructure to provide the right information at the right time?\" If the knowledge Claude needs to execute a sophisticated task exists only in a coworker's head, he argued, \"that's not a technical problem, per se. That's an organizational problem.\"\nThe question every enterprise leader is now asking — and why no one has the answer yet\nJensen described a concept Anthropic calls \"the thinking divide\" — the growing gap between organizations that embed AI across employees, processes, and products simultaneously, and those that treat it as a point solution. The companies on the right side of that divide, she argued, will compound their advantage over time. Those on the wrong side \"will find themselves falling further and further behind.\"\nWhether Anthropic ultimately functions as the rising tide that lifts the enterprise software ecosystem or the wave that swamps it remains genuinely uncertain. The same event that triggered a rally in shares of Anthropic's named partners has also accelerated a broader reckoning for legacy software companies that cannot yet articulate how they fit into an AI-native world. McCrory, the economist, counseled humility. \"Capabilities are moving very, very quickly,\" he said. \"It might represent an innovation in the method of innovation. So it's not just making us better at the things that we do — it's helping us discover new ways to do things.\"\nThomson Reuters' Haske perhaps put it most practically. \"As leaders, we all have to get personally involved and personally invested in using the tools,\" he said. \"We've got to move fast. This environment is changing quickly. We cannot afford to get left behind.\"\nA Fortune 10 CIO recently told Jensen that enterprises would need to fit a decade of innovation into the next few years. The CIO smiled and said: \"We're going to do it in one with you.\" Whether that confidence proves prescient or premature, one thing is clear from Tuesday's event — the window for figuring it out is closing faster than most boardrooms realize.",
+        "published": "2026-02-25T00:40:00.000Z",
+        "source": "VentureBeat",
+        "sourceKey": "venturebeat",
+        "priority": 1,
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/4Go7ccNVAocm7JfJv7mITS/06d5aee9b462e58c0c16348e6762866f/nuneybits_Vector_art_of_a_burnt_orange_tidal_wave_crashing_over_8c717943-4488-4e3e-a47f-c35dbac7fc46.webp?w=300&q=30",
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "anthropic",
+          "claude"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Nvidia challenger AI chip startup MatX raised $500M",
+        "link": "https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m/",
+        "description": "The startup was founded by former Google TPU engineers in 2023.",
+        "published": "2026-02-25T00:45:47.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "google",
+          "nvidia",
+          "chip",
+          "tpu"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Pete Hegseth’s Pentagon AI bro squad includes a former Uber executive and a private equity billionaire",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/884165/pentagon-anthropic-emil-michael-steve-feinberg",
+        "description": "U.S. Secretary of Defense Pete Hegseth (L) walks with Emil Michael (R), Under Secretary of Defense (Research & Engineering, while touring an exhibit of Multi-Domain Autonomous systems at the Pentagon July 16, 2025 in Arlington, Virginia. | Win McNamee/Getty Images.\t\n\nHello and welcome to Regulator, a newsletter for Verge subscribers covering the broligarchs, the influencers, and the (potentially conscious) artificial intelligence models scrambling for power in Washington. If you're not a subscriber yet, assert your humanity against the will of the machines by signing up here.\nVery important news: Do you want to tell me stuff and see it printed in Regulator? Well, now you can, because we have a new tip line! Send all commentary, cool information, and ~secrets~ to tina.nguyen+tips@theverge.com. \nThe Pentagon's private-sector A-Team\nThis morning, in advance of a meeting between Defense Secretary Pete Heg …\nRead the full story at The Verge.",
+        "published": "2026-02-25T01:59:00.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2225411614.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "intel",
+          "uber",
+          "artificial intelligence",
+          "billion"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Malaysia’s Zetrix Raises Funds, Plans to List AI Unit on Nasdaq",
+        "link": "https://www.bloomberg.com/news/articles/2026-02-25/malaysia-s-zetrix-raises-funds-plans-to-list-ai-unit-on-nasdaq",
+        "description": "Zetrix AI Bhd., a publicly traded Malaysian provider of digital infrastructure, raised about $40 million from the World Bank’s investment arm and is preparing to list its artificial intelligence unit on Nasdaq by year-end.",
+        "published": "2026-02-25T04:59:19.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "intel",
+          "arm",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "9to5Mac Daily: February 24, 2026 – Apple US manufacturing, iOS 26.4 beta 2",
+        "link": "https://9to5mac.com/2026/02/24/daily-february-24-2026/",
+        "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by BenQ: Check out BenQ’s smarter displays made for how Mac users actually work and sign up for the giveaway here.\n\n\n\n\n more…",
+        "published": "2026-02-25T00:02:28.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "google",
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple&#8217;s new age verification tools block underage app downloads where required by law",
+        "link": "https://www.theverge.com/tech/884136/apple-age-verification-assurance-underage-app-downloads",
+        "description": "Apple, like many others, has had to launch age verification features in response to new requirements for age checks in many regions, and on Tuesday, the company announced new details about its tools that developers can use to \"meet their age assurance obligations under upcoming U.S. and regional laws, including in Brazil, Australia, Singapore, Utah, and Louisiana.\" \nOne of the big updates is that users in Australia, Brazil, and Singapore can't download apps rated 18-plus unless their age has been confirmed through \"reasonable methods,\" which the App Store can confirm automatically. Apple notes that developers may still \"have separate obliga …\nRead the full story at The Verge.",
+        "published": "2026-02-25T00:45:37.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK071_APPLE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "India’s AI boom pushes firms to trade near-term revenue for users",
+        "link": "https://techcrunch.com/2026/02/24/india-ai-boom-pushes-firms-to-trade-near-term-revenue-for-users/",
+        "description": "ChatGPT and rivals are testing whether India's massive AI user boom can translate into paying customers as free offers wind down.",
+        "published": "2026-02-25T02:00:00.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "chatgpt"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Threat intelligence supply chain is full of weak links, researchers find",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/25/threat_intelligence_supply_chain_research/",
+        "description": "",
+        "published": "2026-02-25T05:49:36.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "intel"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Workday CEO's AI talk can't shake off weaker sales forecast",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/25/workday_q4_2026/",
+        "description": "",
+        "published": "2026-02-25T01:02:12.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "ceo"
+        ],
+        "category": "ai"
+      }
+    ],
+    "ev_autonomous": [
+      {
+        "title": "Wayve CEO on Robotaxis, Automaker Partnerships, Software",
+        "link": "https://www.bloomberg.com/news/videos/2026-02-25/wayve-ceo-on-robotaxis-automaker-partnerships-software-video",
+        "description": "Wayve Ltd. CEO Alex Kendall discusses the UK self-driving company’s global autonomy platform, its partnerships with Nissan, Mercedes and Stellantis, and plans for mass production of robotaxis. He also talks about high-margin software business with some of the world’s largest OEMs, saying, “we’re excited to see our technology go head-to-head.” Kendall speaks with Bloomberg’s Tom Mackenzie in London. (Source: Bloomberg)",
+        "published": "2026-02-25T00:01:20.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "ceo",
+          "robotaxi",
+          "self-driving"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Floodgates open for Tesla lawsuits, Waymo expands, and US goes nuclear",
+        "link": "https://electrek.co/2026/02/24/floodgates-open-for-tesla-lawsuits-waymo-expands-and-us-goes-nuclear/",
+        "description": "On today’s high-dollar episode of Quick Charge, Tesla is reeling from a $243 million judgement against it in a high-profile wrongful death case involving the company’s Autopilot system, and has a hard time getting the relevant data to NHTSA.\nmore…",
+        "published": "2026-02-25T00:40:32.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/floodgates_2x1.png?w=1600",
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "tesla",
+          "waymo",
+          "lawsuit"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Self-Driving Startup Wayve Raises $1.5 Billion for Robotaxi Wars",
+        "link": "https://www.bloomberg.com/news/articles/2026-02-25/self-driving-startup-wayve-raises-1-5-billion-for-robotaxi-wars",
+        "description": "Wayve, the UK autonomous driving software startup, has raised $1.5 billion in funding at an $8.6 billion valuation as it prepares to go up against Chinese and US rivals to roll out self-driving taxis.",
+        "published": "2026-02-25T00:01:00.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "robotaxi",
+          "self-driving",
+          "billion",
+          "valuation"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Tesla sues California DMV to reverse ruling that company engaged in false advertising on FSD",
+        "link": "https://www.cnbc.com/2026/02/23/tesla-sues-california-dmv-to-reverse-false-advertising-ruling-on-fsd.html",
+        "description": "California's DMV previously ruled that Tesla falsely promoted its cars' self-driving capabilities.",
+        "published": "2026-02-25T01:31:28.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "tesla",
+          "self-driving"
+        ],
+        "category": "ev_autonomous"
+      }
+    ],
+    "business": [
+      {
+        "title": "HSBC CEO Elhedery on Earnings, Wealth Business, AI Impact",
+        "link": "https://www.bloomberg.com/news/videos/2026-02-25/hsbc-ceo-on-earnings-wealth-business-ai-impact-video",
+        "description": "HSBC Chief Executive Officer Georges Elhedery discusses the bank's better-than-estimated earnings for 2025 in an interview with Bloomberg Television. (Source: Bloomberg)",
+        "published": "2026-02-25T05:25:50.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "ceo"
+        ],
+        "category": "business"
+      }
+    ]
+  },
+  "totalArticles": 19
+}
