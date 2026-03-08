@@ -1,0 +1,79 @@
+{
+  "type": "daily",
+  "id": "26-03-08",
+  "title": "Sunday, Mar 8",
+  "dateRange": "March 8, 2026",
+  "date": "2026-03-08",
+  "generatedAt": "2026-03-08T07:05:45.461Z",
+  "highlights": [
+    {
+      "title": "Google just gave Sundar Pichai a $692M pay package",
+      "link": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
+      "description": "Most of it is tied to performance, including new stock incentives linked to Waymo and Wing, its drone delivery venture.",
+      "published": "2026-03-08T00:20:10.000Z",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 10,
+      "matchedKeywords": [
+        "google",
+        "waymo",
+        "sundar pichai"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "A roadmap for AI, if anyone will listen",
+      "link": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
+      "description": "The Pro-Human Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn’t lost on anyone involved.",
+      "published": "2026-03-08T06:05:26.000Z",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 6,
+      "matchedKeywords": [
+        "anthropic"
+      ],
+      "category": "ai"
+    }
+  ],
+  "byCategory": {
+    "ai": [
+      {
+        "title": "Google just gave Sundar Pichai a $692M pay package",
+        "link": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
+        "description": "Most of it is tied to performance, including new stock incentives linked to Waymo and Wing, its drone delivery venture.",
+        "published": "2026-03-08T00:20:10.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "google",
+          "waymo",
+          "sundar pichai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "A roadmap for AI, if anyone will listen",
+        "link": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
+        "description": "The Pro-Human Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn’t lost on anyone involved.",
+        "published": "2026-03-08T06:05:26.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "anthropic"
+        ],
+        "category": "ai"
+      }
+    ]
+  },
+  "totalArticles": 2
+}
