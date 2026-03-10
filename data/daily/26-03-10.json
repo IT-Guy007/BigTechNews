@@ -1,0 +1,476 @@
+{
+  "type": "daily",
+  "id": "26-03-10",
+  "title": "Tuesday, Mar 10",
+  "dateRange": "March 10, 2026",
+  "date": "2026-03-10",
+  "generatedAt": "2026-03-10T07:12:50.298Z",
+  "highlights": [
+    {
+      "title": "Bluesky CEO Jay Graber stepping back, former WordPress parent chief Toni Schneider named interim boss",
+      "link": "https://www.cnbc.com/2026/03/09/bluesky-ceo-jay-graber-toni-schneider.html",
+      "description": "Bluesky was born out of Twitter by Jack Dorsey in 2019 and rose to popularity as an alternative to X after Elon Musk's acquisition.",
+      "published": "2026-03-10T04:16:18.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 11,
+      "matchedKeywords": [
+        "acquisition",
+        "ceo",
+        "elon musk"
+      ],
+      "category": "business"
+    },
+    {
+      "title": "Anthropic sues Trump administration over Pentagon blacklist",
+      "link": "https://www.cnbc.com/2026/03/09/anthropic-trump-claude-ai-supply-chain-risk.html",
+      "description": "The lawsuit says Anthropic is being harmed \"irreparably\" and could lose hundreds of millions of dollars.",
+      "published": "2026-03-10T04:24:01.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 11,
+      "matchedKeywords": [
+        "anthropic",
+        "arm",
+        "lawsuit"
+      ],
+      "category": "chips_cloud"
+    },
+    {
+      "title": "Andrej Karpathy's new open source 'autoresearch' lets you run hundreds of AI experiments a night — with revolutionary implications",
+      "link": "https://venturebeat.com/technology/andrej-karpathys-new-open-source-autoresearch-lets-you-run-hundreds-of-ai",
+      "description": "Over the weekend, Andrej Karpathy—the influential former Tesla AI lead and co-founder and former member of OpenAI who coined the term \"vibe coding\"— posted on X about his new open source project, autoresearch. \nIt wasn't a finished model or a massive corporate product: it was by his own admission a simple, 630-line script made available on Github under a permissive, enterprise-friendly MIT License. But the ambition was massive: automating the scientific method with AI agents while us humans sleep. \n\"The goal is to engineer your agents to make the fastest research progress indefinitely and without any of your own involvement,\" he stated on X.\nThe system functions as an autonomous optimization loop. An AI agent is given a training script and a fixed compute budget (typically 5 minutes on a GPU).\nIt reads its own source code, forms a hypothesis for improvement (such as changing a learning rate or an architecture depth), modifies the code, runs the experiment, and evaluates the results. \nIf the validation loss—measured in bits per byte (val_bpb)—improves, it keeps the change; if not, it reverts and tries again. In one overnight run, Karpathy’s agent completed 126 experiments, driving loss down from 0.9979 to 0.9697.\nToday, Karpathy reported that after leaving the agent to tune a \"depth=12\" model for two days, it successfully processed approximately 700 autonomous changes.\nThe agent found roughly 20 additive improvements that transferred perfectly to larger models. Stacking these changes dropped the \"Time to GPT-2\" metric on the leaderboard from 2.02 hours to 1.80 hours—an 11% efficiency gain on a project Karpathy believed was already well-tuned. \n\"Seeing the agent do this entire workflow end-to-end and all by itself... is wild,\" Karpathy remarked, noting that the agent caught oversights in attention scaling and regularization that he had missed manually over two decades of work.\nThis is more than just a productivity hack; it is a fundamental shift in how intelligence is refined. By automating the \"scientific method\" for code, Karpathy has turned machine learning into an evolutionary process that runs at the speed of silicon rather than the speed of human thought. \nAnd more than this, it showed the broader AI and machine learning community on X that this type of process could be applied far beyond computer science, to fields like marketing, health, and, well, basically anything that requires research.\nAutoresearch spreads far and wide\nThe reaction was swift and viral, with Karpathy's post garnering more than 8.6 million views in the intervening two days as builders and researchers scrambled to scale the \"Karpathy loop\".\nVarun Mathur, CEO of AI tool aggregator platform Hyperspace AI, took the single-agent loop and distributed it across a peer-to-peer network. Every node running the Hyperspace agent became an autonomous researcher.\nOn the night of March 8–9, 35 autonomous agents on the Hyperspace network ran 333 experiments completely unsupervised. The results were a masterclass in emergent strategy:\n\nHardware Diversity as a Feature: Mathur noted that while H100 GPUs used \"brute force\" to find aggressive learning rates, CPU-only agents on laptops were forced to be clever. These \"underdog\" agents focused on initialization strategies (like Kaiming and Xavier init) and normalization choices because they couldn't rely on raw throughput.\n\nGossip-Based Discovery: Using the GossipSub protocol, agents shared their wins in real-time. When one agent found that Kaiming initialization dropped loss by 21%, the idea spread through the network like a digital virus. Within hours, 23 other agents had incorporated the discovery into their own hypotheses.\n\nThe Compression of History: In just 17 hours, these agents independently rediscovered ML milestones—such as RMSNorm and tied embeddings—that took human researchers at labs like Google Brain and OpenAI nearly eight years to formalize.\n\nRun 36,500 marketing experiments each year instead of 30\nWhile the ML purists focused on loss curves, the business world saw a different kind of revolution. Eric Siu, founder of ad agency Single Grain, applied autoresearch to the \"Experiment Loop\" of marketing.\n\"Most marketing teams run ~30 experiments a year,\" Siu wrote on X. \"The next generation will run 36,500+. Easily.\" He continued:\n\"They'll run experiments while they sleep.\nCurrent marketing teams run 20-30 experiments a year. Maybe 52 if they're 'good'.\nNew landing page.\nNew ad creative.\nMaybe a subject line test.\nThat's considered \"data-driven marketing.\"\nBut the next generation of marketing systems will run 36,500+ experiments per year.\"\nSiu’s framework replaces the training script with a marketing asset—a landing page, an ad creative, or a cold email. The agent modifies a variable (the subject line or the CTA), deploys it, measures the \"positive reply rate,\" and keeps or discards.\nSiu argues that this creates a \"proprietary map\" of what resonates with a specific audience—a moat built not of code, but of experiment history. \"The companies that win won't have better marketers,\" he wrote, \"they'll have faster experiment loops\".\nCommunity discussion and 'spoiling' the validation set\nDespite the fervor, the GitHub Discussions revealed a community grappling with the implications of such rapid, automated progress.\nThe Over-Optimization Trap: Researcher alexisthual raised a poignant concern: \"Aren't you concerned that launching that many experiments will eventually 'spoil' the validation set?\". The fear is that with enough agents, parameters will be optimized for the specific quirks of the test data rather than general intelligence.\nThe Meaning of the Gains: User samionb questioned whether a drop from 0.9979 to 0.9697 was truly noticeable. Karpathy’s response was characteristically direct: \"All we're doing is optimizing performance per compute... these are real and substantial gains\"\nThe Human Element: On X, user witcheer, Head of Growth at crypto platform Yari Finance, documented their own overnight run on a Mac Mini M4, noting that while 26 of 35 experiments failed or crashed, the seven that succeeded revealed that \"the model got better by getting simpler\". \nThis insight—that less is often more—was reached without a single human intervention.\nThe future: curiosity as the bottleneck\nThe release of autoresearch suggests a future of research across domains where, thanks to simple AI instruction mechanisms, the role of the human shifts from \"experimenter\" to \"experimental designer.\"\nAs tools like DarkMatter, Optimization Arena, and NanoClaw emerge to support this swarm, the bottleneck of AI progress is no longer the \"meat computer's\" (Karpathy's description of the human brain's) ability to code—it is our ability to define the constraints of the search.\nAndrej Karpathy has once again shifted the vibe. We are no longer just coding models; we are seeding ecosystems that learn while we sleep.",
+      "published": "2026-03-10T00:13:00.000Z",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "priority": 1,
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/2jUMX5tvR9PuuhlFIxezYp/55bab7b88fe8bd1f5c0a21f51a3da6c0/Gemini_Generated_Image_gusyegusyegusyeg.png?w=300&q=30",
+      "relevanceScore": 11,
+      "matchedKeywords": [
+        "openai",
+        "tesla",
+        "revolutionary"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Elon Musk's xAI wants to build a power plant in Mississippi. Regulators plan a key meeting on Election Day",
+      "link": "https://www.cnbc.com/2026/03/09/mississippi-regulators-to-hold-xai-permit-meeting-on-election-day.html",
+      "description": "The NAACP has accused Mississippi regulators of rushing a meeting to approve xAI plans for a massive, methane-burning power plant in Southaven.",
+      "published": "2026-03-10T00:30:53.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "xai",
+        "elon musk"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Yann LeCun’s New AI Startup Raises $1 Billion in Seed Funding",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-10/yann-lecun-s-new-ai-startup-raises-1-billion-in-seed-funding",
+      "description": "Yann LeCun, a pioneer in the field of artificial intelligence, has raised $1.03 billion for a nascent startup that promises to invent technology more capable of navigating the real world than existing AI products like ChatGPT.",
+      "published": "2026-03-10T05:00:11.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "intel",
+        "chatgpt",
+        "artificial intelligence",
+        "billion"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "German publishers push regulators to fine Apple over App Tracking Transparency [U]",
+      "link": "https://9to5mac.com/2026/03/09/german-publishers-push-regulators-to-fine-apple-over-app-tracking-transparency/",
+      "description": "German media agencies and publishers are urging the country’s antitrust watchdog to reject Apple’s proposed changes to App Tracking Transparency (ATT) and impose a fine on the company. Here are the details.\nmore…",
+      "published": "2026-03-10T00:54:48.000Z",
+      "source": "9to5Mac",
+      "sourceKey": "9to5mac",
+      "priority": 2,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2022/04/apple-app-tracking-transparency.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "apple",
+        "antitrust"
+      ],
+      "category": "regulation"
+    },
+    {
+      "title": "TSMC Sales Grow 30% on Sustained Global Demand for AI Hardware",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-10/tsmc-sales-grow-30-on-sustained-global-demand-for-ai-hardware",
+      "description": "Taiwan Semiconductor Manufacturing Co.’s sales rose 30% in the first two months of the year, buoyed by the robust pace of AI infrastructure construction prior to the outbreak of conflict in the Middle East.",
+      "published": "2026-03-10T05:43:08.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 6,
+      "matchedKeywords": [
+        "tsmc",
+        "semiconductor"
+      ],
+      "category": "chips_cloud"
+    },
+    {
+      "title": "Apple now makes one in four iPhones in India: report",
+      "link": "https://techcrunch.com/2026/03/09/apple-now-makes-one-in-four-iphones-in-india-report/",
+      "description": "Apple reportedly produced 55 million units in India last year, a shift accelerated as Apple faced growing uncertainty in China.",
+      "published": "2026-03-10T06:04:43.000Z",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 5,
+      "matchedKeywords": [
+        "apple"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Yann LeCun’s AMI Labs raises $1.03 billion to build world models",
+      "link": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
+      "description": "AMI Labs, the new venture cofounded by Turing Prize winner Yann LeCun after he left Meta, has raised $1.03 billion at a $3.5 billion pre-money valuation.",
+      "published": "2026-03-10T05:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 5,
+      "matchedKeywords": [
+        "meta",
+        "billion",
+        "valuation"
+      ],
+      "category": "business"
+    },
+    {
+      "title": "Nvidia plans open-source AI agent platform ‘NemoClaw’ for enterprises: Wired",
+      "link": "https://www.cnbc.com/2026/03/10/nvidia-open-source-ai-agent-platform-nemoclaw-wired-agentic-tools-openclaw-clawdbot-moltbot.html",
+      "description": "Nvidia is planning to lean into the agentic AI craze and launch an open-source platform for AI agents called 'NemoClaw,' according to a report.",
+      "published": "2026-03-10T07:09:24.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 5,
+      "matchedKeywords": [
+        "nvidia"
+      ],
+      "category": "ai"
+    }
+  ],
+  "byCategory": {
+    "business": [
+      {
+        "title": "Bluesky CEO Jay Graber stepping back, former WordPress parent chief Toni Schneider named interim boss",
+        "link": "https://www.cnbc.com/2026/03/09/bluesky-ceo-jay-graber-toni-schneider.html",
+        "description": "Bluesky was born out of Twitter by Jack Dorsey in 2019 and rose to popularity as an alternative to X after Elon Musk's acquisition.",
+        "published": "2026-03-10T04:16:18.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "acquisition",
+          "ceo",
+          "elon musk"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Yann LeCun’s AMI Labs raises $1.03 billion to build world models",
+        "link": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
+        "description": "AMI Labs, the new venture cofounded by Turing Prize winner Yann LeCun after he left Meta, has raised $1.03 billion at a $3.5 billion pre-money valuation.",
+        "published": "2026-03-10T05:00:00.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "meta",
+          "billion",
+          "valuation"
+        ],
+        "category": "business"
+      }
+    ],
+    "chips_cloud": [
+      {
+        "title": "Anthropic sues Trump administration over Pentagon blacklist",
+        "link": "https://www.cnbc.com/2026/03/09/anthropic-trump-claude-ai-supply-chain-risk.html",
+        "description": "The lawsuit says Anthropic is being harmed \"irreparably\" and could lose hundreds of millions of dollars.",
+        "published": "2026-03-10T04:24:01.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "anthropic",
+          "arm",
+          "lawsuit"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "TSMC Sales Grow 30% on Sustained Global Demand for AI Hardware",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-10/tsmc-sales-grow-30-on-sustained-global-demand-for-ai-hardware",
+        "description": "Taiwan Semiconductor Manufacturing Co.’s sales rose 30% in the first two months of the year, buoyed by the robust pace of AI infrastructure construction prior to the outbreak of conflict in the Middle East.",
+        "published": "2026-03-10T05:43:08.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "tsmc",
+          "semiconductor"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Planet Labs Extends Middle East Satellite Imagery Delay on Iran Risks",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-10/planet-labs-extends-middle-east-satellite-imagery-delay-on-iran-risks",
+        "description": "Planet Labs PBC is extending its delay on commercial satellite imagery in the Middle East to two weeks from four days over concerns that the intelligence could be used to target North Atlantic Treaty Organization members.",
+        "published": "2026-03-10T01:20:02.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "intel",
+          "satellite"
+        ],
+        "category": "chips_cloud"
+      }
+    ],
+    "ai": [
+      {
+        "title": "Andrej Karpathy's new open source 'autoresearch' lets you run hundreds of AI experiments a night — with revolutionary implications",
+        "link": "https://venturebeat.com/technology/andrej-karpathys-new-open-source-autoresearch-lets-you-run-hundreds-of-ai",
+        "description": "Over the weekend, Andrej Karpathy—the influential former Tesla AI lead and co-founder and former member of OpenAI who coined the term \"vibe coding\"— posted on X about his new open source project, autoresearch. \nIt wasn't a finished model or a massive corporate product: it was by his own admission a simple, 630-line script made available on Github under a permissive, enterprise-friendly MIT License. But the ambition was massive: automating the scientific method with AI agents while us humans sleep. \n\"The goal is to engineer your agents to make the fastest research progress indefinitely and without any of your own involvement,\" he stated on X.\nThe system functions as an autonomous optimization loop. An AI agent is given a training script and a fixed compute budget (typically 5 minutes on a GPU).\nIt reads its own source code, forms a hypothesis for improvement (such as changing a learning rate or an architecture depth), modifies the code, runs the experiment, and evaluates the results. \nIf the validation loss—measured in bits per byte (val_bpb)—improves, it keeps the change; if not, it reverts and tries again. In one overnight run, Karpathy’s agent completed 126 experiments, driving loss down from 0.9979 to 0.9697.\nToday, Karpathy reported that after leaving the agent to tune a \"depth=12\" model for two days, it successfully processed approximately 700 autonomous changes.\nThe agent found roughly 20 additive improvements that transferred perfectly to larger models. Stacking these changes dropped the \"Time to GPT-2\" metric on the leaderboard from 2.02 hours to 1.80 hours—an 11% efficiency gain on a project Karpathy believed was already well-tuned. \n\"Seeing the agent do this entire workflow end-to-end and all by itself... is wild,\" Karpathy remarked, noting that the agent caught oversights in attention scaling and regularization that he had missed manually over two decades of work.\nThis is more than just a productivity hack; it is a fundamental shift in how intelligence is refined. By automating the \"scientific method\" for code, Karpathy has turned machine learning into an evolutionary process that runs at the speed of silicon rather than the speed of human thought. \nAnd more than this, it showed the broader AI and machine learning community on X that this type of process could be applied far beyond computer science, to fields like marketing, health, and, well, basically anything that requires research.\nAutoresearch spreads far and wide\nThe reaction was swift and viral, with Karpathy's post garnering more than 8.6 million views in the intervening two days as builders and researchers scrambled to scale the \"Karpathy loop\".\nVarun Mathur, CEO of AI tool aggregator platform Hyperspace AI, took the single-agent loop and distributed it across a peer-to-peer network. Every node running the Hyperspace agent became an autonomous researcher.\nOn the night of March 8–9, 35 autonomous agents on the Hyperspace network ran 333 experiments completely unsupervised. The results were a masterclass in emergent strategy:\n\nHardware Diversity as a Feature: Mathur noted that while H100 GPUs used \"brute force\" to find aggressive learning rates, CPU-only agents on laptops were forced to be clever. These \"underdog\" agents focused on initialization strategies (like Kaiming and Xavier init) and normalization choices because they couldn't rely on raw throughput.\n\nGossip-Based Discovery: Using the GossipSub protocol, agents shared their wins in real-time. When one agent found that Kaiming initialization dropped loss by 21%, the idea spread through the network like a digital virus. Within hours, 23 other agents had incorporated the discovery into their own hypotheses.\n\nThe Compression of History: In just 17 hours, these agents independently rediscovered ML milestones—such as RMSNorm and tied embeddings—that took human researchers at labs like Google Brain and OpenAI nearly eight years to formalize.\n\nRun 36,500 marketing experiments each year instead of 30\nWhile the ML purists focused on loss curves, the business world saw a different kind of revolution. Eric Siu, founder of ad agency Single Grain, applied autoresearch to the \"Experiment Loop\" of marketing.\n\"Most marketing teams run ~30 experiments a year,\" Siu wrote on X. \"The next generation will run 36,500+. Easily.\" He continued:\n\"They'll run experiments while they sleep.\nCurrent marketing teams run 20-30 experiments a year. Maybe 52 if they're 'good'.\nNew landing page.\nNew ad creative.\nMaybe a subject line test.\nThat's considered \"data-driven marketing.\"\nBut the next generation of marketing systems will run 36,500+ experiments per year.\"\nSiu’s framework replaces the training script with a marketing asset—a landing page, an ad creative, or a cold email. The agent modifies a variable (the subject line or the CTA), deploys it, measures the \"positive reply rate,\" and keeps or discards.\nSiu argues that this creates a \"proprietary map\" of what resonates with a specific audience—a moat built not of code, but of experiment history. \"The companies that win won't have better marketers,\" he wrote, \"they'll have faster experiment loops\".\nCommunity discussion and 'spoiling' the validation set\nDespite the fervor, the GitHub Discussions revealed a community grappling with the implications of such rapid, automated progress.\nThe Over-Optimization Trap: Researcher alexisthual raised a poignant concern: \"Aren't you concerned that launching that many experiments will eventually 'spoil' the validation set?\". The fear is that with enough agents, parameters will be optimized for the specific quirks of the test data rather than general intelligence.\nThe Meaning of the Gains: User samionb questioned whether a drop from 0.9979 to 0.9697 was truly noticeable. Karpathy’s response was characteristically direct: \"All we're doing is optimizing performance per compute... these are real and substantial gains\"\nThe Human Element: On X, user witcheer, Head of Growth at crypto platform Yari Finance, documented their own overnight run on a Mac Mini M4, noting that while 26 of 35 experiments failed or crashed, the seven that succeeded revealed that \"the model got better by getting simpler\". \nThis insight—that less is often more—was reached without a single human intervention.\nThe future: curiosity as the bottleneck\nThe release of autoresearch suggests a future of research across domains where, thanks to simple AI instruction mechanisms, the role of the human shifts from \"experimenter\" to \"experimental designer.\"\nAs tools like DarkMatter, Optimization Arena, and NanoClaw emerge to support this swarm, the bottleneck of AI progress is no longer the \"meat computer's\" (Karpathy's description of the human brain's) ability to code—it is our ability to define the constraints of the search.\nAndrej Karpathy has once again shifted the vibe. We are no longer just coding models; we are seeding ecosystems that learn while we sleep.",
+        "published": "2026-03-10T00:13:00.000Z",
+        "source": "VentureBeat",
+        "sourceKey": "venturebeat",
+        "priority": 1,
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/2jUMX5tvR9PuuhlFIxezYp/55bab7b88fe8bd1f5c0a21f51a3da6c0/Gemini_Generated_Image_gusyegusyegusyeg.png?w=300&q=30",
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "openai",
+          "tesla",
+          "revolutionary"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Elon Musk's xAI wants to build a power plant in Mississippi. Regulators plan a key meeting on Election Day",
+        "link": "https://www.cnbc.com/2026/03/09/mississippi-regulators-to-hold-xai-permit-meeting-on-election-day.html",
+        "description": "The NAACP has accused Mississippi regulators of rushing a meeting to approve xAI plans for a massive, methane-burning power plant in Southaven.",
+        "published": "2026-03-10T00:30:53.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "xai",
+          "elon musk"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Yann LeCun’s New AI Startup Raises $1 Billion in Seed Funding",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-10/yann-lecun-s-new-ai-startup-raises-1-billion-in-seed-funding",
+        "description": "Yann LeCun, a pioneer in the field of artificial intelligence, has raised $1.03 billion for a nascent startup that promises to invent technology more capable of navigating the real world than existing AI products like ChatGPT.",
+        "published": "2026-03-10T05:00:11.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "intel",
+          "chatgpt",
+          "artificial intelligence",
+          "billion"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple now makes one in four iPhones in India: report",
+        "link": "https://techcrunch.com/2026/03/09/apple-now-makes-one-in-four-iphones-in-india-report/",
+        "description": "Apple reportedly produced 55 million units in India last year, a shift accelerated as Apple faced growing uncertainty in China.",
+        "published": "2026-03-10T06:04:43.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Nvidia plans open-source AI agent platform ‘NemoClaw’ for enterprises: Wired",
+        "link": "https://www.cnbc.com/2026/03/10/nvidia-open-source-ai-agent-platform-nemoclaw-wired-agentic-tools-openclaw-clawdbot-moltbot.html",
+        "description": "Nvidia is planning to lean into the agentic AI craze and launch an open-source platform for AI agents called 'NemoClaw,' according to a report.",
+        "published": "2026-03-10T07:09:24.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "nvidia"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Oaktree’s Data Center Firm Wants to Triple Capacity With AI Boom",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-10/oaktree-s-data-center-firm-wants-to-triple-capacity-with-ai-boom",
+        "description": "Pure Data Centres, a UK firm backed by Oaktree Capital Management, is seeking to partner with some of the world’s largest technology firms and others to build artificial intelligence data centers, with the goal of tripling its capacity.",
+        "published": "2026-03-10T07:00:00.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "intel",
+          "artificial intelligence",
+          "data center"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Tencent, Zhipu Shares Jump on Launches of AI Agents Tapping Into OpenClaw",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-10/tencent-zhipu-shares-jump-on-launches-of-ai-agents-tapping-into-openclaw",
+        "description": "China’s enthusiasm for OpenClaw is igniting a stock rally in local technology firms moving swiftly to embrace the open-source artificial intelligence program.",
+        "published": "2026-03-10T03:36:46.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "intel",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Palantir’s lethal AI weaponry deployed to find chairs for US government staff",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/10/palantir_usda_seating_software/",
+        "description": "",
+        "published": "2026-03-10T01:25:12.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "palantir"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "AI tokens rally after Nvidia open-source agent plan, beat CoinDesk 20",
+        "link": "https://www.coindesk.com/markets/2026/03/10/ai-tokens-rally-after-nvidia-open-source-agent-plan-beating-coindesk-20",
+        "description": "The AI-linked cryptocurrencies moved higher after a report from Wired said Nvidia is planning an open-source platform for autonomous AI agents.",
+        "published": "2026-03-10T05:29:44.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "nvidia"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "An iPhone-hacking toolkit used by Russian spies likely came from U.S military contractor",
+        "link": "https://techcrunch.com/2026/03/09/an-iphone-hacking-toolkit-used-by-russian-spies-likely-came-from-u-s-military-contractor/",
+        "description": "Google found a series of hacking tools they said were used by a Russian espionage group and a cybercriminal group in China. Sources from a U.S. government defense contractor said some of those hacking tools were theirs.",
+        "published": "2026-03-10T01:56:01.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Yann LeCun Raises $1 Billion to Build AI That Understands the Physical World",
+        "link": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
+        "description": "Meta’s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, aims to prove it.",
+        "published": "2026-03-10T05:00:00.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "meta",
+          "billion"
+        ],
+        "category": "ai"
+      }
+    ],
+    "regulation": [
+      {
+        "title": "German publishers push regulators to fine Apple over App Tracking Transparency [U]",
+        "link": "https://9to5mac.com/2026/03/09/german-publishers-push-regulators-to-fine-apple-over-app-tracking-transparency/",
+        "description": "German media agencies and publishers are urging the country’s antitrust watchdog to reject Apple’s proposed changes to App Tracking Transparency (ATT) and impose a fine on the company. Here are the details.\nmore…",
+        "published": "2026-03-10T00:54:48.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2022/04/apple-app-tracking-transparency.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "apple",
+          "antitrust"
+        ],
+        "category": "regulation"
+      }
+    ],
+    "ev_autonomous": [
+      {
+        "title": "Apple Now Makes About 25% of iPhones in India After China Pivot",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-10/apple-now-makes-about-25-of-iphones-in-india-after-china-pivot",
+        "description": "Apple Inc. increased iPhone production in India by about 53% last year and now makes a quarter of its marquee devices there, reflecting the US company’s efforts to avoid tariffs on China.",
+        "published": "2026-03-10T02:47:37.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ev_autonomous"
+      }
+    ]
+  },
+  "totalArticles": 18
+}
