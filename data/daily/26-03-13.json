@@ -1,0 +1,409 @@
+{
+  "type": "daily",
+  "id": "26-03-13",
+  "title": "Friday, Mar 13",
+  "dateRange": "March 13, 2026",
+  "date": "2026-03-13",
+  "generatedAt": "2026-03-13T07:27:01.085Z",
+  "highlights": [
+    {
+      "title": "Keeping Elon could cost Tesla millions, Rivian R2 and affordable Lucid arrive",
+      "link": "https://electrek.co/2026/03/12/keeping-elon-could-cost-tesla-millions-rivian-r2-and-affordable-lucid-arrive/",
+      "description": "On today’s episode of Quick Charge, a new lawsuit alleges that Tesla was negligent in retaining Elon Musk as CEO, comparing him to a fast-talking salesman and questioning his input into engineering and safety decisions at the struggling EV brand.\nmore…",
+      "published": "2026-03-13T01:18:53.000Z",
+      "source": "Electrek",
+      "sourceKey": "electrek",
+      "priority": 2,
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/03/Rivian-R2-Pricing-R1-comparison.jpg?quality=82&#038;strip=all&#038;w=1400",
+      "relevanceScore": 15,
+      "matchedKeywords": [
+        "tesla",
+        "rivian",
+        "ceo",
+        "elon musk",
+        "lawsuit"
+      ],
+      "category": "ev_autonomous"
+    },
+    {
+      "title": "Y Combinator-backed Random Labs launches Slate V1, claiming the first 'swarm-native' coding agent",
+      "link": "https://venturebeat.com/orchestration/y-combinator-backed-random-labs-launches-slate-v1-claiming-the-first-swarm",
+      "description": "The software engineering world is currently wrestling with a fundamental paradox of the AI era: as models become more capable, the \"systems problem\" of managing them has become the primary bottleneck to real-world productivity. While a developer might have access to the raw intelligence of a frontier model, that intelligence often degrades the moment a task requires a long horizon or a deep context window. \nBut help appears to be on the way: San Francisco-based,  Y Combinator-backed startup Random Labs has officially launched Slate V1, described as the industry’s first \"swarm native\" autonomous coding agent designed to execute massively parallel, complex engineering tasks.\nEmerging from an open beta, the tool utilizes a \"dynamic pruning algorithm\" to maintain context in large codebases while scaling output to enterprise complexity. Co-founded by Kiran and Mihir Chintawar in 2024, the company aims to bridge the global engineering shortage by positioning Slate as a collaborative tool for the \"next 20 million engineers\" rather than a replacement for human developers.\nWith the release of Slate V1, the team at Random Labs is attempting to architect a way out of this zone by introducing the first \"swarm-native\" agentic coding environment. Slate is not merely a wrapper or a chatbot with file access; it is an implementation of a \"hive mind\" philosophy designed to scale agentic work with the complexity of a human organization. \nBy leveraging a novel architectural primitive called Thread Weaving, Slate moves beyond the rigid task trees and lossy compaction methods that have defined the first generation of AI coding assistants.\nStrategy: Action space\nAt the heart of Slate’s effectiveness is a deep engagement with Recursive Language Models (RLM). \nIn a traditional setup, an agent might be asked to \"fix a bug,\" a prompt that forces the model to juggle high-level strategy and low-level execution simultaneously. \nRandom Labs identifies this as a failure to tap into \"Knowledge Overhang\"—the latent intelligence a model possesses but cannot effectively access when it is tactically overwhelmed.\nSlate solves this by using a central orchestration thread that essentially \"programs in action space\". This orchestrator doesn't write the code directly; instead, it uses a TypeScript-based DSL to dispatch parallel worker threads to handle specific, bounded tasks. \nThis creates a clear separation between the \"kernel\"—which manages the execution graph and maintains strategic alignment—and the worker \"processes\" that execute tactical operations in the terminal. \nBy mapping onto an OS-style framework, inspired by Andrej Karpathy's \"LLM OS\" concept, Slate is able to treat the limited context window of a model as precious RAM, actively, intelligently managing what is retained and what is discarded.\nEpisodic memory and the swarm\nThe true innovation of the \"Thread Weaving\" approach lies in how it handles memory. Most agents today rely on \"compaction,\" which is often just a fancy term for lossy compression that risks dropping critical project state. Slate instead generates \"episodes\". \nWhen a worker thread completes a task, it doesn't return a sprawling transcript of every failed attempt; it returns a compressed summary of the successful tool calls and conclusions.\nBecause these episodes share context directly with the orchestrator rather than relying on brittle message passing, the system maintains a \"swarm\" intelligence. \nThis architecture allows for massive parallelism. A developer can have Claude Sonnet orchestrating a complex refactor while GPT-5.4 executes code, and GLM 5—a favorite for its agentic search capabilities—simultaneously researches library documentation in the background. It's a similar approach taken by Perplexity with its new Computer multi-model agent \nBy selecting the \"right model for the job,\" Slate ensures that users aren't overspending on intelligence for simple tactical steps while still benefiting from the strategic depth of the world's most powerful models.\nThe business of autonomy\nFrom a commercial perspective, Random Labs is navigating the early beta period with a mix of transparency and strategic ambiguity. \nWhile the company has not yet published a fixed-price subscription sheet, the Slate CLI documentation confirms a shift toward a usage-based credit model. \nCommands like /usage and /billing allow users to monitor their credit burn in real-time, and the inclusion of organization-level billing toggles suggests a clear focus on professional engineering teams rather than solo hobbyists.\nThere is also a significant play toward integration. Random Labs recently announced that direct support for OpenAI's Codex and Anthropic’s Claude Code is slated for release next week. \nThis suggests that Slate isn't trying to compete with these models' native interfaces, but rather to act as the superior orchestration layer that allows engineers to use all of them at once, safely and cost-effectively.\nI've reached out to \nArchitecturally, the system is designed to maximize caching through subthread reuse, a \"novel context engineering\" trick that the team claims keeps the swarm approach from becoming a financial burden for users.\nStability AI\nPerhaps the most compelling argument for the Slate architecture is its stability. In internal testing, an early version of this threading system managed to pass 2/3 of the tests on the make-mips-interpreter task within the Terminal Bench 2.0 suite.\nThis is a task where even the newest frontier models, like Opus 4.6, often succeed less than 20% of the time when used in standard, non-orchestrated harnesses.\nThis success in a \"mutated\" or changing environment is what separates a tool from a partner. According to Random Labs' documentation, one fintech founder in NYC described Slate as their \"best debugging tool,\" a sentiment that echoes the broader goal of Random Labs: to build agents that don't just complete a prompt, but scale like an organization. \nAs the industry moves past simple \"chat with your code\" interfaces, the \"Thread Weaving\" of Slate V1 offers a glimpse into a future where the primary role of the human engineer is to direct a hive mind of specialized models, each working in concert to solve the long-horizon problems of modern software.",
+      "published": "2026-03-13T00:00:00.000Z",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "priority": 1,
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5wrN5vDRIVeyBLrCcNGV2o/440a899f23a0b3eea19896bdf81c87f8/Gemini_Generated_Image_sdydoasdydoasdyd.png?w=300&q=30",
+      "relevanceScore": 10,
+      "matchedKeywords": [
+        "intel",
+        "arm",
+        "agi"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Tesla's China sales climb in the first two months of 2026 while BYD numbers drop",
+      "link": "https://www.cnbc.com/2026/03/13/teslas-china-sales-climb-in-the-first-two-months-of-2026-while-byd-numbers-drop.html",
+      "description": "Sales of Tesla's China-made electric vehicles rose in the first two months of 2026, from the year before, regaining lost ground to China's BYD.",
+      "published": "2026-03-13T07:02:05.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "tesla",
+        "byd"
+      ],
+      "category": "ev_autonomous"
+    },
+    {
+      "title": "SoftBank’s PayPay Keeps Dual Listing on Table After Solid US IPO",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-13/softbank-s-paypay-keeps-dual-listing-on-table-after-solid-us-ipo",
+      "description": "SoftBank Group Corp.-backed PayPay Corp. is open to a dual listing with a presence on Tokyo’s bourse, its chief said after the digital payments company’s $880 million trading debut in New York.",
+      "published": "2026-03-13T04:13:34.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "softbank",
+        "ipo"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Apple Cuts China App Store Fees to Fend Off Local Regulators",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-13/apple-lowers-app-store-cut-to-25-from-30-in-china-to-fend-off-local-regulators",
+      "description": "Apple Inc. is lowering the fees it collects from app developers in China, a major concession in a hugely lucrative market where the company faced the risk of antitrust intervention by local regulators.",
+      "published": "2026-03-13T01:16:33.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "apple",
+        "antitrust"
+      ],
+      "category": "ev_autonomous"
+    },
+    {
+      "title": "Palantir's technology gives the West a critical edge in Middle East, CEO Alex Karp says",
+      "link": "https://www.cnbc.com/2026/03/12/palantir-tech-gives-west-critical-edge-in-middle-east-ceo-alex-karp.html",
+      "description": "Palantir CEO Alex Karp sat down exclusively with CNBC to discuss the Iran war and how AI is being used in wartime.",
+      "published": "2026-03-13T01:21:52.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "palantir",
+        "ceo"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "AI Drug Discovery Startup Earendil Is Said to Consider Hong Kong IPO",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-13/ai-drug-discovery-startup-earendil-is-said-to-consider-hong-kong-ipo",
+      "description": "Earendil Labs, a biotechnology startup that uses artificial intelligence for drug discovery, is considering listing in Hong Kong, according to people familiar with the matter.",
+      "published": "2026-03-13T03:56:09.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "intel",
+        "ipo",
+        "artificial intelligence"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Prince of PDFs, Adobe CEO Shantanu Narayen, to step down after 18 years",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/adobe_q1_2026/",
+      "description": "",
+      "published": "2026-03-13T04:22:47.000Z",
+      "source": "The Register",
+      "sourceKey": "theregister",
+      "priority": 2,
+      "image": null,
+      "relevanceScore": 7,
+      "matchedKeywords": [
+        "adobe",
+        "ceo"
+      ],
+      "category": "business"
+    },
+    {
+      "title": "Before quantum computing arrives, this startup wants enterprises already running on it",
+      "link": "https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it/",
+      "description": "After selling his AI startup to AMD for $665 million, Peter Sarlin is back with QuTwo, a new venture building the infrastructure it believes enterprises will need when quantum computing finally arrives.",
+      "published": "2026-03-13T05:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 6,
+      "matchedKeywords": [
+        "amd",
+        "quantum"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Mobile World’s Retail Chain Aims to Raise $110 Million From IPO",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-13/mobile-world-s-retail-chain-aims-to-raise-110-million-from-ipo",
+      "description": "Mobile World Investment Corp.’s electronics retail chain unit Dien May Xanh Investment JSC aims to raise at least 2.9 trillion dong ($110 million) from its planned initial public offering this year.",
+      "published": "2026-03-13T02:08:07.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 5,
+      "matchedKeywords": [
+        "ipo"
+      ],
+      "category": "ai"
+    }
+  ],
+  "byCategory": {
+    "ev_autonomous": [
+      {
+        "title": "Keeping Elon could cost Tesla millions, Rivian R2 and affordable Lucid arrive",
+        "link": "https://electrek.co/2026/03/12/keeping-elon-could-cost-tesla-millions-rivian-r2-and-affordable-lucid-arrive/",
+        "description": "On today’s episode of Quick Charge, a new lawsuit alleges that Tesla was negligent in retaining Elon Musk as CEO, comparing him to a fast-talking salesman and questioning his input into engineering and safety decisions at the struggling EV brand.\nmore…",
+        "published": "2026-03-13T01:18:53.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/03/Rivian-R2-Pricing-R1-comparison.jpg?quality=82&#038;strip=all&#038;w=1400",
+        "relevanceScore": 15,
+        "matchedKeywords": [
+          "tesla",
+          "rivian",
+          "ceo",
+          "elon musk",
+          "lawsuit"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Tesla's China sales climb in the first two months of 2026 while BYD numbers drop",
+        "link": "https://www.cnbc.com/2026/03/13/teslas-china-sales-climb-in-the-first-two-months-of-2026-while-byd-numbers-drop.html",
+        "description": "Sales of Tesla's China-made electric vehicles rose in the first two months of 2026, from the year before, regaining lost ground to China's BYD.",
+        "published": "2026-03-13T07:02:05.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "tesla",
+          "byd"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Apple Cuts China App Store Fees to Fend Off Local Regulators",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/apple-lowers-app-store-cut-to-25-from-30-in-china-to-fend-off-local-regulators",
+        "description": "Apple Inc. is lowering the fees it collects from app developers in China, a major concession in a hugely lucrative market where the company faced the risk of antitrust intervention by local regulators.",
+        "published": "2026-03-13T01:16:33.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "apple",
+          "antitrust"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Pi rallies more than 30% after Kraken announces listing",
+        "link": "https://www.coindesk.com/markets/2026/03/13/pi-rallies-more-than-30-after-kraken-announces-listing",
+        "description": "Bybit previously declined to list the mobile crypto mining platform, with CEO Ben Zhou citing warnings from Chinese police that the project is a scam.",
+        "published": "2026-03-13T04:51:46.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "ceo"
+        ],
+        "category": "ev_autonomous"
+      }
+    ],
+    "ai": [
+      {
+        "title": "Y Combinator-backed Random Labs launches Slate V1, claiming the first 'swarm-native' coding agent",
+        "link": "https://venturebeat.com/orchestration/y-combinator-backed-random-labs-launches-slate-v1-claiming-the-first-swarm",
+        "description": "The software engineering world is currently wrestling with a fundamental paradox of the AI era: as models become more capable, the \"systems problem\" of managing them has become the primary bottleneck to real-world productivity. While a developer might have access to the raw intelligence of a frontier model, that intelligence often degrades the moment a task requires a long horizon or a deep context window. \nBut help appears to be on the way: San Francisco-based,  Y Combinator-backed startup Random Labs has officially launched Slate V1, described as the industry’s first \"swarm native\" autonomous coding agent designed to execute massively parallel, complex engineering tasks.\nEmerging from an open beta, the tool utilizes a \"dynamic pruning algorithm\" to maintain context in large codebases while scaling output to enterprise complexity. Co-founded by Kiran and Mihir Chintawar in 2024, the company aims to bridge the global engineering shortage by positioning Slate as a collaborative tool for the \"next 20 million engineers\" rather than a replacement for human developers.\nWith the release of Slate V1, the team at Random Labs is attempting to architect a way out of this zone by introducing the first \"swarm-native\" agentic coding environment. Slate is not merely a wrapper or a chatbot with file access; it is an implementation of a \"hive mind\" philosophy designed to scale agentic work with the complexity of a human organization. \nBy leveraging a novel architectural primitive called Thread Weaving, Slate moves beyond the rigid task trees and lossy compaction methods that have defined the first generation of AI coding assistants.\nStrategy: Action space\nAt the heart of Slate’s effectiveness is a deep engagement with Recursive Language Models (RLM). \nIn a traditional setup, an agent might be asked to \"fix a bug,\" a prompt that forces the model to juggle high-level strategy and low-level execution simultaneously. \nRandom Labs identifies this as a failure to tap into \"Knowledge Overhang\"—the latent intelligence a model possesses but cannot effectively access when it is tactically overwhelmed.\nSlate solves this by using a central orchestration thread that essentially \"programs in action space\". This orchestrator doesn't write the code directly; instead, it uses a TypeScript-based DSL to dispatch parallel worker threads to handle specific, bounded tasks. \nThis creates a clear separation between the \"kernel\"—which manages the execution graph and maintains strategic alignment—and the worker \"processes\" that execute tactical operations in the terminal. \nBy mapping onto an OS-style framework, inspired by Andrej Karpathy's \"LLM OS\" concept, Slate is able to treat the limited context window of a model as precious RAM, actively, intelligently managing what is retained and what is discarded.\nEpisodic memory and the swarm\nThe true innovation of the \"Thread Weaving\" approach lies in how it handles memory. Most agents today rely on \"compaction,\" which is often just a fancy term for lossy compression that risks dropping critical project state. Slate instead generates \"episodes\". \nWhen a worker thread completes a task, it doesn't return a sprawling transcript of every failed attempt; it returns a compressed summary of the successful tool calls and conclusions.\nBecause these episodes share context directly with the orchestrator rather than relying on brittle message passing, the system maintains a \"swarm\" intelligence. \nThis architecture allows for massive parallelism. A developer can have Claude Sonnet orchestrating a complex refactor while GPT-5.4 executes code, and GLM 5—a favorite for its agentic search capabilities—simultaneously researches library documentation in the background. It's a similar approach taken by Perplexity with its new Computer multi-model agent \nBy selecting the \"right model for the job,\" Slate ensures that users aren't overspending on intelligence for simple tactical steps while still benefiting from the strategic depth of the world's most powerful models.\nThe business of autonomy\nFrom a commercial perspective, Random Labs is navigating the early beta period with a mix of transparency and strategic ambiguity. \nWhile the company has not yet published a fixed-price subscription sheet, the Slate CLI documentation confirms a shift toward a usage-based credit model. \nCommands like /usage and /billing allow users to monitor their credit burn in real-time, and the inclusion of organization-level billing toggles suggests a clear focus on professional engineering teams rather than solo hobbyists.\nThere is also a significant play toward integration. Random Labs recently announced that direct support for OpenAI's Codex and Anthropic’s Claude Code is slated for release next week. \nThis suggests that Slate isn't trying to compete with these models' native interfaces, but rather to act as the superior orchestration layer that allows engineers to use all of them at once, safely and cost-effectively.\nI've reached out to \nArchitecturally, the system is designed to maximize caching through subthread reuse, a \"novel context engineering\" trick that the team claims keeps the swarm approach from becoming a financial burden for users.\nStability AI\nPerhaps the most compelling argument for the Slate architecture is its stability. In internal testing, an early version of this threading system managed to pass 2/3 of the tests on the make-mips-interpreter task within the Terminal Bench 2.0 suite.\nThis is a task where even the newest frontier models, like Opus 4.6, often succeed less than 20% of the time when used in standard, non-orchestrated harnesses.\nThis success in a \"mutated\" or changing environment is what separates a tool from a partner. According to Random Labs' documentation, one fintech founder in NYC described Slate as their \"best debugging tool,\" a sentiment that echoes the broader goal of Random Labs: to build agents that don't just complete a prompt, but scale like an organization. \nAs the industry moves past simple \"chat with your code\" interfaces, the \"Thread Weaving\" of Slate V1 offers a glimpse into a future where the primary role of the human engineer is to direct a hive mind of specialized models, each working in concert to solve the long-horizon problems of modern software.",
+        "published": "2026-03-13T00:00:00.000Z",
+        "source": "VentureBeat",
+        "sourceKey": "venturebeat",
+        "priority": 1,
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5wrN5vDRIVeyBLrCcNGV2o/440a899f23a0b3eea19896bdf81c87f8/Gemini_Generated_Image_sdydoasdydoasdyd.png?w=300&q=30",
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "intel",
+          "arm",
+          "agi"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "SoftBank’s PayPay Keeps Dual Listing on Table After Solid US IPO",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/softbank-s-paypay-keeps-dual-listing-on-table-after-solid-us-ipo",
+        "description": "SoftBank Group Corp.-backed PayPay Corp. is open to a dual listing with a presence on Tokyo’s bourse, its chief said after the digital payments company’s $880 million trading debut in New York.",
+        "published": "2026-03-13T04:13:34.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "softbank",
+          "ipo"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Palantir's technology gives the West a critical edge in Middle East, CEO Alex Karp says",
+        "link": "https://www.cnbc.com/2026/03/12/palantir-tech-gives-west-critical-edge-in-middle-east-ceo-alex-karp.html",
+        "description": "Palantir CEO Alex Karp sat down exclusively with CNBC to discuss the Iran war and how AI is being used in wartime.",
+        "published": "2026-03-13T01:21:52.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "palantir",
+          "ceo"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "AI Drug Discovery Startup Earendil Is Said to Consider Hong Kong IPO",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/ai-drug-discovery-startup-earendil-is-said-to-consider-hong-kong-ipo",
+        "description": "Earendil Labs, a biotechnology startup that uses artificial intelligence for drug discovery, is considering listing in Hong Kong, according to people familiar with the matter.",
+        "published": "2026-03-13T03:56:09.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "intel",
+          "ipo",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Before quantum computing arrives, this startup wants enterprises already running on it",
+        "link": "https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it/",
+        "description": "After selling his AI startup to AMD for $665 million, Peter Sarlin is back with QuTwo, a new venture building the infrastructure it believes enterprises will need when quantum computing finally arrives.",
+        "published": "2026-03-13T05:00:00.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "amd",
+          "quantum"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Mobile World’s Retail Chain Aims to Raise $110 Million From IPO",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/mobile-world-s-retail-chain-aims-to-raise-110-million-from-ipo",
+        "description": "Mobile World Investment Corp.’s electronics retail chain unit Dien May Xanh Investment JSC aims to raise at least 2.9 trillion dong ($110 million) from its planned initial public offering this year.",
+        "published": "2026-03-13T02:08:07.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "ipo"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Singapore Must Train More People to Build AI, Top Official Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-13/singapore-must-train-more-people-to-build-ai-top-official-says",
+        "description": "Singapore has committed more than S$1 billion ($782 million) to become a global hub for artificial intelligence. But one of the architects of that effort says the country’s approach to AI readiness may not be sufficient.",
+        "published": "2026-03-13T01:57:59.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "intel",
+          "artificial intelligence",
+          "billion"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple to cut App Store commission rates in China starting March 15",
+        "link": "https://9to5mac.com/2026/03/12/apple-to-cut-app-store-commission-rates-in-china-starting-march-15/",
+        "description": "Apple announced tonight that due to regulatory discussions in China, developers will pay lower App Store commission rates starting March 15. Here are the details.\nmore…",
+        "published": "2026-03-13T01:44:31.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/app-store-connect.webp?w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Pentagon AI chief praises Palantir tech for speeding battlefield strikes",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/palantirs_maven_smart_system_iran/",
+        "description": "",
+        "published": "2026-03-13T01:00:30.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "palantir"
+        ],
+        "category": "ai"
+      }
+    ],
+    "business": [
+      {
+        "title": "Prince of PDFs, Adobe CEO Shantanu Narayen, to step down after 18 years",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/adobe_q1_2026/",
+        "description": "",
+        "published": "2026-03-13T04:22:47.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "adobe",
+          "ceo"
+        ],
+        "category": "business"
+      }
+    ]
+  },
+  "totalArticles": 15
+}
