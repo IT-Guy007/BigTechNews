@@ -1,0 +1,141 @@
+{
+  "type": "daily",
+  "id": "26-03-21",
+  "title": "Saturday, Mar 21",
+  "dateRange": "March 21, 2026",
+  "date": "2026-03-21",
+  "generatedAt": "2026-03-21T07:07:20.250Z",
+  "highlights": [
+    {
+      "title": "Elon Musk misled Twitter investors ahead of $44 billion acquisition, jury says",
+      "link": "https://www.cnbc.com/2026/03/20/elon-musk-determined-to-be-liable-for-misleading-twitter-investors.html",
+      "description": "Elon Musk was sued in late 2022 after completing his acquisition of Twitter, which he later renamed X.",
+      "published": "2026-03-21T01:00:23.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "acquisition",
+        "elon musk",
+        "billion"
+      ],
+      "category": "business"
+    },
+    {
+      "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
+      "link": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+      "description": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national security\" and arguing that the government's case relies on technical misunderstandings and claims that were never actually raised during the months of negotiations.",
+      "published": "2026-03-21T01:40:28.000Z",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "anthropic"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Anthropic Denies It Could Sabotage AI Tools During War",
+      "link": "https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/",
+      "description": "The Department of Defense alleges the AI developer could manipulate models in the middle of war. Company executives argue that’s impossible.",
+      "published": "2026-03-21T00:03:20.000Z",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "priority": 2,
+      "image": null,
+      "relevanceScore": 7,
+      "matchedKeywords": [
+        "anthropic"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Palantir AI System Wins Key Pentagon Status, Reuters Reports",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-21/palantir-ai-system-wins-key-pentagon-status-reuters-reports",
+      "description": "The US Defense Department will establish Palantir Technologies Inc.’s Maven AI system as a “program of record,” Reuters reported on Friday night, as the Pentagon rapidly integrates the technology into its combat operations.",
+      "published": "2026-03-21T00:51:40.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 5,
+      "matchedKeywords": [
+        "palantir"
+      ],
+      "category": "ai"
+    }
+  ],
+  "byCategory": {
+    "business": [
+      {
+        "title": "Elon Musk misled Twitter investors ahead of $44 billion acquisition, jury says",
+        "link": "https://www.cnbc.com/2026/03/20/elon-musk-determined-to-be-liable-for-misleading-twitter-investors.html",
+        "description": "Elon Musk was sued in late 2022 after completing his acquisition of Twitter, which he later renamed X.",
+        "published": "2026-03-21T01:00:23.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "acquisition",
+          "elon musk",
+          "billion"
+        ],
+        "category": "business"
+      }
+    ],
+    "ai": [
+      {
+        "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
+        "link": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+        "description": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national security\" and arguing that the government's case relies on technical misunderstandings and claims that were never actually raised during the months of negotiations.",
+        "published": "2026-03-21T01:40:28.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "anthropic"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Anthropic Denies It Could Sabotage AI Tools During War",
+        "link": "https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/",
+        "description": "The Department of Defense alleges the AI developer could manipulate models in the middle of war. Company executives argue that’s impossible.",
+        "published": "2026-03-21T00:03:20.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "anthropic"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Palantir AI System Wins Key Pentagon Status, Reuters Reports",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-21/palantir-ai-system-wins-key-pentagon-status-reuters-reports",
+        "description": "The US Defense Department will establish Palantir Technologies Inc.’s Maven AI system as a “program of record,” Reuters reported on Friday night, as the Pentagon rapidly integrates the technology into its combat operations.",
+        "published": "2026-03-21T00:51:40.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "palantir"
+        ],
+        "category": "ai"
+      }
+    ]
+  },
+  "totalArticles": 4
+}
