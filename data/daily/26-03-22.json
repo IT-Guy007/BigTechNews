@@ -1,0 +1,89 @@
+{
+  "type": "daily",
+  "id": "26-03-22",
+  "title": "Sunday, Mar 22",
+  "dateRange": "March 22, 2026",
+  "date": "2026-03-22",
+  "generatedAt": "2026-03-22T07:12:34.593Z",
+  "highlights": [
+    {
+      "title": "Musk Says Tesla, SpaceX, xAI Chip Project to Kick Off in Texas",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-22/elon-musk-says-tesla-xai-spacex-terafab-to-start-in-austin",
+      "description": "Elon Musk said his Terafab project — a grand plan to eventually manufacture his own chips for robotics, artificial intelligence and space data centers — will be built in Austin and jointly run by Tesla and SpaceX.",
+      "published": "2026-03-22T04:50:35.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 21,
+      "matchedKeywords": [
+        "tesla",
+        "spacex",
+        "intel",
+        "xai",
+        "elon musk"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Apple CEO Praises China Partners as Beijing Applies Pressure",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-22/apple-ceo-praises-china-partners-as-beijing-applies-pressure",
+      "description": "Apple Inc. Chief Executive Officer Tim Cook commended Chinese developers and the company’s partners in the country, days after the ruling party’s flagship newspaper criticized the iPhone maker for monopolistic policies.",
+      "published": "2026-03-22T03:49:13.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 11,
+      "matchedKeywords": [
+        "apple",
+        "ceo",
+        "tim cook"
+      ],
+      "category": "business"
+    }
+  ],
+  "byCategory": {
+    "ai": [
+      {
+        "title": "Musk Says Tesla, SpaceX, xAI Chip Project to Kick Off in Texas",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-22/elon-musk-says-tesla-xai-spacex-terafab-to-start-in-austin",
+        "description": "Elon Musk said his Terafab project — a grand plan to eventually manufacture his own chips for robotics, artificial intelligence and space data centers — will be built in Austin and jointly run by Tesla and SpaceX.",
+        "published": "2026-03-22T04:50:35.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 21,
+        "matchedKeywords": [
+          "tesla",
+          "spacex",
+          "intel",
+          "xai",
+          "elon musk"
+        ],
+        "category": "ai"
+      }
+    ],
+    "business": [
+      {
+        "title": "Apple CEO Praises China Partners as Beijing Applies Pressure",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-22/apple-ceo-praises-china-partners-as-beijing-applies-pressure",
+        "description": "Apple Inc. Chief Executive Officer Tim Cook commended Chinese developers and the company’s partners in the country, days after the ruling party’s flagship newspaper criticized the iPhone maker for monopolistic policies.",
+        "published": "2026-03-22T03:49:13.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "apple",
+          "ceo",
+          "tim cook"
+        ],
+        "category": "business"
+      }
+    ]
+  },
+  "totalArticles": 2
+}
