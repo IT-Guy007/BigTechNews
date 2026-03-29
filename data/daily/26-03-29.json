@@ -1,0 +1,79 @@
+{
+  "type": "daily",
+  "id": "26-03-29",
+  "title": "Sunday, Mar 29",
+  "dateRange": "March 29, 2026",
+  "date": "2026-03-29",
+  "generatedAt": "2026-03-29T07:32:21.596Z",
+  "highlights": [
+    {
+      "title": "Meet Figure AI: The company behind the humanoid robot hosted by Melania Trump",
+      "link": "https://www.cnbc.com/2026/03/26/figure-ai-the-robotics-company-hosted-by-melania-trump.html",
+      "description": "The White House hosted its first humanoid robot guest, with first lady Melania Trump appearing alongside a robot from startup Figure AI.",
+      "published": "2026-03-29T06:59:12.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "figure ai",
+        "humanoid robot"
+      ],
+      "category": "robotics"
+    },
+    {
+      "title": "Security Bite: Apple takes aim at cybercriminals’ more desperate tactic to infect Mac users",
+      "link": "https://9to5mac.com/2026/03/28/security-bite-apple-takes-aim-at-cybercriminals-more-desperate-tactic-to-infect-mac-users/",
+      "description": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform. Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated Hardening & Compliance, Next Generation EDR, AI-powered Zero Trust, and exclusive Privilege Management with the most powerful and modern Apple MDM on the market. The result is a totally automated Apple Unified Platform currently trusted by over 45,000 organizations to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple.\nWith the release of macOS 26.4, Apple is now warning users who it believes are about to paste malicious code into Terminal. The prompt is the latest blow to cybercriminals’ newest and, honestly, more desperate attack vector of getting unsuspecting Mac users to infect themselves.\nmore…",
+      "published": "2026-03-29T00:51:33.000Z",
+      "source": "9to5Mac",
+      "sourceKey": "9to5mac",
+      "priority": 2,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/9to5mac-terminal-prompt-macos-security-bite.png?w=1600",
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "apple"
+      ],
+      "category": "ai"
+    }
+  ],
+  "byCategory": {
+    "robotics": [
+      {
+        "title": "Meet Figure AI: The company behind the humanoid robot hosted by Melania Trump",
+        "link": "https://www.cnbc.com/2026/03/26/figure-ai-the-robotics-company-hosted-by-melania-trump.html",
+        "description": "The White House hosted its first humanoid robot guest, with first lady Melania Trump appearing alongside a robot from startup Figure AI.",
+        "published": "2026-03-29T06:59:12.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "figure ai",
+          "humanoid robot"
+        ],
+        "category": "robotics"
+      }
+    ],
+    "ai": [
+      {
+        "title": "Security Bite: Apple takes aim at cybercriminals’ more desperate tactic to infect Mac users",
+        "link": "https://9to5mac.com/2026/03/28/security-bite-apple-takes-aim-at-cybercriminals-more-desperate-tactic-to-infect-mac-users/",
+        "description": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform. Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated Hardening & Compliance, Next Generation EDR, AI-powered Zero Trust, and exclusive Privilege Management with the most powerful and modern Apple MDM on the market. The result is a totally automated Apple Unified Platform currently trusted by over 45,000 organizations to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple.\nWith the release of macOS 26.4, Apple is now warning users who it believes are about to paste malicious code into Terminal. The prompt is the latest blow to cybercriminals’ newest and, honestly, more desperate attack vector of getting unsuspecting Mac users to infect themselves.\nmore…",
+        "published": "2026-03-29T00:51:33.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/9to5mac-terminal-prompt-macos-security-bite.png?w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      }
+    ]
+  },
+  "totalArticles": 2
+}
