@@ -1,0 +1,81 @@
+{
+  "type": "daily",
+  "id": "26-04-13",
+  "title": "Monday, Apr 13",
+  "dateRange": "April 13, 2026",
+  "date": "2026-04-13",
+  "generatedAt": "2026-04-13T08:26:39.507Z",
+  "highlights": [
+    {
+      "title": "Huawei beats Apple and Samsung with new wide foldable",
+      "link": "https://www.theverge.com/tech/910867/huawei-pura-x-max-foldable-phone-wide-china",
+      "description": "The Pura X Max’s wide aspect ratio should make it a better option for watching horizontal video. | Image: Huawei\t\n\nApple and Samsung have both been strongly linked with plans for foldable phones in a boxy, wide aspect ratio, but it looks like another company will get there first. Huawei has just revealed the design of the Pura X Max, a new foldable it's launching in China next week, and its passport-esque form factor is a dead ringer for early leaks of the iPhone Fold.\nWe don't know too much about the Pura X Max yet, which will get a full release on April 20th alongside the colorful Pura 90 series, but early images shared by Huawei show blue, white, orange, and black versions of the phone, all featuring a triple rear camera. The rear design, with gridde …\nRead the full story at The Verge.",
+      "published": "2026-04-13T08:13:41.000Z",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "priority": 1,
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/huawei-pura-x-max.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "relevanceScore": 13,
+      "matchedKeywords": [
+        "apple",
+        "samsung",
+        "huawei"
+      ],
+      "category": "ev_autonomous"
+    },
+    {
+      "title": "OpenAI announces first permanent London office after halting UK Stargate project",
+      "link": "https://www.cnbc.com/2026/04/13/openai-london-office-sam-altman-uk-stargate.html",
+      "description": "In February, the company said it would make London its largest research hub outside of the U.S.",
+      "published": "2026-04-13T08:04:04.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "openai"
+      ],
+      "category": "ai"
+    }
+  ],
+  "byCategory": {
+    "ev_autonomous": [
+      {
+        "title": "Huawei beats Apple and Samsung with new wide foldable",
+        "link": "https://www.theverge.com/tech/910867/huawei-pura-x-max-foldable-phone-wide-china",
+        "description": "The Pura X Max’s wide aspect ratio should make it a better option for watching horizontal video. | Image: Huawei\t\n\nApple and Samsung have both been strongly linked with plans for foldable phones in a boxy, wide aspect ratio, but it looks like another company will get there first. Huawei has just revealed the design of the Pura X Max, a new foldable it's launching in China next week, and its passport-esque form factor is a dead ringer for early leaks of the iPhone Fold.\nWe don't know too much about the Pura X Max yet, which will get a full release on April 20th alongside the colorful Pura 90 series, but early images shared by Huawei show blue, white, orange, and black versions of the phone, all featuring a triple rear camera. The rear design, with gridde …\nRead the full story at The Verge.",
+        "published": "2026-04-13T08:13:41.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/huawei-pura-x-max.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "relevanceScore": 13,
+        "matchedKeywords": [
+          "apple",
+          "samsung",
+          "huawei"
+        ],
+        "category": "ev_autonomous"
+      }
+    ],
+    "ai": [
+      {
+        "title": "OpenAI announces first permanent London office after halting UK Stargate project",
+        "link": "https://www.cnbc.com/2026/04/13/openai-london-office-sam-altman-uk-stargate.html",
+        "description": "In February, the company said it would make London its largest research hub outside of the U.S.",
+        "published": "2026-04-13T08:04:04.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "openai"
+        ],
+        "category": "ai"
+      }
+    ]
+  },
+  "totalArticles": 2
+}
