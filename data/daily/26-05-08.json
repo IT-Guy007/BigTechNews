@@ -1,0 +1,558 @@
+{
+  "type": "daily",
+  "id": "26-05-08",
+  "title": "Friday, May 8",
+  "dateRange": "May 8, 2026",
+  "date": "2026-05-08",
+  "generatedAt": "2026-05-08T08:06:11.586Z",
+  "highlights": [
+    {
+      "title": "Wayve CEO on Tesla, Waymo, Future of Self-Driving Cars",
+      "link": "https://www.bloomberg.com/news/videos/2026-05-08/wayve-ceo-on-tesla-waymo-future-of-self-driving-cars",
+      "description": "Wayve CEO Alex Kendall explains end-to-end autonomous driving, how Wayve's approach differs to those of Tesla and Waymo, and why artificial intelligence licensing could scale fastest. He speaks to Bloomberg's Tom Mackenzie. (Source: Bloomberg)",
+      "published": "2026-05-08T07:30:09.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 16,
+      "matchedKeywords": [
+        "tesla",
+        "intel",
+        "waymo",
+        "ceo",
+        "artificial intelligence"
+      ],
+      "category": "ev_autonomous"
+    },
+    {
+      "title": "Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
+      "link": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
+      "description": "Leaders at the tech giant were skeptical of OpenAI—but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
+      "published": "2026-05-08T01:42:14.000Z",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "priority": 2,
+      "image": null,
+      "relevanceScore": 15,
+      "matchedKeywords": [
+        "microsoft",
+        "amazon",
+        "openai",
+        "arm"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "SoftBank Cuts Target for OpenAI Margin Loan by 40% to $6 Billion",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-08/softbank-cuts-target-for-openai-margin-loan-by-40-to-6-billion",
+      "description": "SoftBank Group Corp. has downsized plans for a $10 billion margin loan backed by its OpenAI stake after facing hesitation from some creditors, people familiar with the matter said.",
+      "published": "2026-05-08T07:15:47.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 13,
+      "matchedKeywords": [
+        "openai",
+        "softbank",
+        "billion"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "AI Is Reshaping Self-Driving Cars, Wayve CEO Says",
+      "link": "https://www.bloomberg.com/news/videos/2026-05-08/ai-is-reshaping-self-driving-cars-wayve-ceo-says",
+      "description": "Wayve CEO Alex Kendall explains how an artificial intelligence-driven approach to self-driving -- using onboard intelligence and real-world learning -- is reshaping how autonomous cars and robotaxis are built and scaled. Kendall speaks to Bloomberg's Tom Mackenzie. (Source: Bloomberg)",
+      "published": "2026-05-08T07:30:09.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 12,
+      "matchedKeywords": [
+        "intel",
+        "ceo",
+        "robotaxi",
+        "artificial intelligence",
+        "self-driving"
+      ],
+      "category": "ev_autonomous"
+    },
+    {
+      "title": "Baidu’s AI Chip Unit Plans Dual IPO in Shanghai and Hong Kong",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-08/baidu-s-ai-chip-unit-plans-dual-ipo-in-shanghai-and-hong-kong",
+      "description": "Baidu Inc.’s chip unit Kunlunxin is planning an initial public offering on Shanghai’s Nasdaq-style bourse in addition to a separate listing plan in Hong Kong as the Chinese search engine giant looks to taps investor appetite for semiconductor stocks.",
+      "published": "2026-05-08T04:41:07.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 11,
+      "matchedKeywords": [
+        "baidu",
+        "ipo",
+        "semiconductor",
+        "chip"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Nvidia CEO Says He Would Join Trump’s China Trip If Invited",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-08/nvidia-ceo-says-he-would-join-trump-s-china-trip-if-invited",
+      "description": "Nvidia Corp. Chief Executive Officer Jensen Huang said he would gladly join President Donald Trump on an upcoming visit to China if invited, signaling that the leader of America’s most valuable company has yet to receive an offer to go.",
+      "published": "2026-05-08T00:18:07.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 11,
+      "matchedKeywords": [
+        "nvidia",
+        "ceo",
+        "jensen huang"
+      ],
+      "category": "business"
+    },
+    {
+      "title": "Anthropic introduces \"dreaming,\" a system that lets AI agents learn from their own mistakes",
+      "link": "https://venturebeat.com/technology/anthropic-introduces-dreaming-a-system-that-lets-ai-agents-learn-from-their-own-mistakes",
+      "description": "Anthropic on Tuesday unveiled a suite of updates to its Claude Managed Agents platform at its second annual Code with Claude developer conference in San Francisco, introducing a new capability called \"dreaming\" that lets AI agents learn from their own past sessions and improve over time — a step toward the kind of self-correcting, self-improving AI systems that enterprises have demanded before trusting agents with production workloads.\nThe company also moved two previously experimental features — outcomes and multi-agent orchestration — from research preview into public beta, making them broadly available to developers building on the Claude platform. Together, the three features address what Anthropic says are the hardest problems in running AI agents at scale: keeping them accurate, helping them learn, and preventing them from becoming bottlenecks on complex, multi-step work.\nEarly adopters are already reporting significant results. Legal AI company Harvey saw task completion rates increase roughly 6x after implementing dreaming. Medical document review company Wisedocs cut its document review time by 50% using outcomes. And Netflix is now processing logs from hundreds of builds simultaneously using multi-agent orchestration.\nThe announcements come at a moment of extraordinary momentum for Anthropic. CEO Dario Amodei disclosed during a fireside chat at the conference that the company's growth has outpaced even its own aggressive internal projections.\nIn the first quarter of 2026, Anthropic saw what Amodei described as 80x annualized growth in revenue and usage — far exceeding the 10x annual growth the company had planned for. API volume on the Claude platform is up nearly 70x year over year, and the average developer using Claude Code now spends 20 hours per week working with the tool.\n\"We tried to plan very well for a world of 10x growth per year,\" Amodei said. \"And yet we saw 80x. And so that is the reason we have had difficulties with compute.\"\nHow Anthropic's dreaming feature teaches AI agents to learn from their own history\nDreaming is the most novel of the three features and the one Anthropic is most eager to distinguish from conventional memory systems. While the company launched agent memory earlier this year — allowing Claude to retain preferences and context within and across individual sessions — dreaming works at a higher level of abstraction. It is a scheduled process that reviews an agent's past sessions and memory stores, extracts patterns across them, and curates those memories so agents improve over time. It surfaces insights that no single agent session could see on its own: recurring mistakes, workflows that multiple agents converge on independently, and preferences shared across a team of agents.\nAlex Albert, who leads research product management at Anthropic, explained the concept in an interview at the conference. He described dreaming as analogous to how people within organizations create skills after working through a task. \"They might do a workflow with Claude, and at the end of that workflow, after they've iterated and zigzagged a little bit, they want to record that path from A to B,\" Albert said. \"A very similar thing is happening with dreaming — instead of you manually creating the skill from your experience working with Claude, the model is doing it, so it has that same context for a future session.\"\nCrucially, dreaming does not modify the underlying model weights. \"We're not changing the model itself through dreaming — it's not doing updates to the weights or anything like that,\" Albert said. Instead, the agent writes learnings as plain-text notes and structured \"playbooks\" that future sessions can reference, making the entire process observable and auditable by humans. When asked about the trust implications of agents consolidating their own knowledge, Albert acknowledged that \"there is a level of trust that you need to place\" but noted that all memories are inspectable and that smarter models are getting progressively better at managing this process. \"They're learning to write better notes for their future self,\" he said.\nA live demo showed AI agents improving overnight without human guidance\nDuring the keynote, the Anthropic team demonstrated all three features live on stage using a fictional aerospace startup called \"Lumara\" that needed to autonomously land drones on the moon for resource mining. The team configured a multi-agent system with three specialists — a commander agent responsible for overall mission success, a detector agent that identified high-quality landing sites, and a navigator agent that handled safe drone flight and landing — and defined a success rubric requiring soft landings, clear ground, and enough fuel reserves for a return trip to Earth.\nAn initial simulation across six hypothetical landing sites produced strong but imperfect results. To improve, the presenters triggered a dreaming session directly from the Claude Developer Console. Overnight, the dreaming agent reviewed all past simulation sessions and wrote a detailed descent playbook — a comprehensive set of heuristics drawn from patterns across multiple mission runs. When the team ran a new simulation the following morning with the dreaming-derived playbook in memory, the results improved meaningfully on the sites that had previously underperformed.\n\"All we had to do was just have Caitlin press a button,\" said Angela Jiang, Head of Product for the Claude Platform, referring to her colleague on stage. \"All dreaming.\"\nThe demo illustrated how the three features compose together in practice. Multi-agent orchestration split the complex task across specialists with independent context windows. Outcomes provided the rubric against which a separate grader agent evaluated each run. And dreaming extracted lessons across those runs to improve future performance — forming what Anthropic describes as a continuous improvement loop that requires no human intervention between iterations.\nWhy Anthropic built a separate 'grader' agent to check Claude's own work\nThe outcomes feature, now in public beta, gives developers a way to define what success looks like using a rubric — a structural framework, a presentation standard, a brand voice, or any other set of criteria — and then lets the agent iterate toward that standard autonomously. What makes outcomes architecturally distinctive is its separation of concerns. When an agent completes its work, a separate grader agent evaluates the output against the developer-defined rubric in its own independent context window. Because the grader operates in a fresh context, it is not influenced by the working agent's reasoning or accumulated biases from the session.\nWhen the grader identifies gaps between the output and the rubric, it pinpoints specifically what needs to change, and the working agent takes another pass. This loop continues until the rubric criteria are met — without a human needing to review each attempt.\nAlbert described Anthropic's broader verification strategy as employing \"more test time compute, more models thinking about a problem for longer, to check over the work of another.\" He acknowledged that having a model check its own work raises reasonable questions, but said a fresh context window reviewing completed work consistently outperforms asking the same long-running thread to identify its own bugs. \"You will get higher success if you give that output to a fresh Claude and say, 'what bugs do you see?'\" he said. \"There is still something to the attention\" that degrades over very long sessions — a limitation he said Anthropic is actively working to fix in future models.\nThe approach mirrors strategies already in use at GitHub. Mario Rodriguez, Chief Product Officer at GitHub, described during a separate talk at the conference how Copilot uses a similar advisor pattern with Claude models — pairing a smaller, cheaper model as an executor with a larger model as a mentor. When the smaller model encounters a problem beyond its capability, it calls the larger model for guidance, then continues executing on its own. Rodriguez said the approach delivers near-Opus-level intelligence at significantly lower cost, and that GitHub inserts critique models at three specific points in the coding workflow: after drafting a plan, after a complex implementation, and after writing tests but before running them.\nParallel AI agents can now tackle tasks too complex for a single model thread\nMulti-agent orchestration, the third feature moving to public beta, allows a lead agent to decompose a large task into subtasks and delegate each one to a specialist agent — each with its own model, system prompt, tools, and independent context window. Every step in the process is traceable in the Claude Console, showing which agent did what, in what order, and why.\nThe design gives each sub-agent an isolated context, which Anthropic says produces better results than having a single agent attempt to hold all the complexity in one thread. \"Each sub-agent has its own independent thread and context window,\" the keynote presenters explained. \"This is very intentional — we found that by splitting the work and then merging the results, we get better outcomes.\"\nAlbert offered his own heuristic for when multi-agent architectures make sense versus sticking with a single thread. \"Parallel agents are better for investigation,\" he said — situations where there is a lot of context that will ultimately be discarded. \"If you're trying to answer a specific question, you don't need all the search results from the areas where it didn't find the answer. You just need the answer.\" He described spinning up disposable sub-agents for specific retrieval tasks and bringing only the result back to the main thread. Increasingly, he said, the model itself will decide when to parallelize. \"In the future, you won't really care if it's one agent or multi-agent or whatever's happening. You just have a Claude that you're talking to, and it will deploy the right architecture automatically.\"\nAnthropic's bigger bet: closing the gap between AI capabilities and real-world adoption\nThe three features arrive as part of a broader platform push that Anthropic framed throughout the conference as closing \"the gap between what AI can do and what it's actually doing for people.\" Ami Vora, Anthropic's Chief Product Officer, set the theme in her opening keynote, noting that while model capabilities are advancing on an exponential curve, most organizations are still adopting AI on a linear path.\nDianne Penn, who leads product for Anthropic's research team, described the company's measure of progress as \"task horizon\" — how long an AI agent can work autonomously while improving the quality of its deliverables. \"This time last year, models could work for minutes,\" she said. \"Now, most of us have agents running for hours on end. Tomorrow, we'll have agents that are proactive, always on, and know what to work on without losing the frame.\"\nThe event also included several infrastructure announcements designed to help developers keep pace. Anthropic said it is doubling its five-hour rate limits for Pro, Max, Team, and Enterprise plans, and raising API rate limits considerably. The company announced a partnership with SpaceX to use the full capacity of its Colossus data center to expand compute availability — a direct response to the demand crunch Amodei described.\nAll three features are built into Claude Managed Agents, which launched in public beta on April 8 as an opinionated harness that bundles best practices including memory, tool integration, and action handling. Anthropic says teams using Managed Agents have shipped 10x faster than those building their own agent infrastructure from scratch. Albert described the platform using an operating system analogy: \"With managed agents, you don't need to think about all the technicalities of how you set up the surrounding system,\" he said. \"You're building an application for Macs — you don't want to go have to re-implement every detail of macOS.\"\nWhat dreaming, outcomes, and multi-agent orchestration mean for the future of enterprise AI\nThe competitive implications are significant. As AI agent platforms from OpenAI, Google, and others compete for developer adoption, Anthropic is betting that production reliability — not just raw model intelligence — will determine which platform wins enterprise budgets. The dreaming feature in particular stakes out new territory: while other platforms offer memory and tool use, the idea of agents systematically reviewing their own histories to extract reusable knowledge goes further toward the kind of continuously improving systems that enterprises need before delegating high-stakes work.\nThe conference showcased companies already operating at that scale. Mercado Libre, Latin America's largest e-commerce platform, has 23,000 engineers running Claude Code, has reviewed more than 500,000 pull requests with human oversight, and is aiming for 90% autonomous coding by the third quarter of this year. Shopify has deployed Claude Code across not just engineering but design, product, and data science teams.\nBut it was Dario Amodei who articulated the most expansive vision for where all of this leads. He described a progression from single agents to multiple agents to whole organizational intelligence — from \"a team of smart people in a room\" to what he called \"a country of geniuses in the data center.\" And he reiterated a prediction he made roughly a year ago: that 2026 would see the first billion-dollar company run by a single person. \"Hasn't quite happened yet,\" he said. \"But we've got seven more months.\"\nDreaming is available now in research preview. Outcomes and multi-agent orchestration are in public beta and available to all developers on the Claude platform. Whether seven months is enough time for a solo founder to build a billion-dollar business remains an open question — but after Tuesday, they have a few more tools to try.",
+      "published": "2026-05-08T00:09:35.000Z",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "priority": 1,
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5I4zuQbx738JfOAQbToZdD/b5c7c367d367e55b484dc1480e399cba/Nuneybits_Vector_art_of_burnt-orange_moonlit_sleeper_dissolving_71200d84-78a7-48eb-890e-fb59ef136db1.webp?w=300&q=30",
+      "relevanceScore": 11,
+      "matchedKeywords": [
+        "anthropic",
+        "claude"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "How Waymo's Driverless Strategy Compares to Tesla's",
+      "link": "https://www.bloomberg.com/news/videos/2026-05-08/how-waymo-s-driverless-strategy-compares-to-tesla-s",
+      "description": "Srikanth Thirumalai, vice president of onboard software at Waymo, explains the company's full-stack approach drive simulator, its safety-critique, and how it stacks up against Tesla's strategy. He speaks to Bloomberg's Tom Mackenzie. (Source: Bloomberg)",
+      "published": "2026-05-08T07:30:07.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "tesla",
+        "waymo"
+      ],
+      "category": "ev_autonomous"
+    },
+    {
+      "title": "US Said to Suspect Nvidia Chips Smuggled to Alibaba Via Thailand",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-08/us-said-to-suspect-nvidia-chips-smuggled-to-alibaba-via-thailand",
+      "description": "A key company behind Thailand’s national AI effort is suspected of helping to smuggle billions of dollars worth of Super Micro Computer Inc. servers containing advanced Nvidia Corp. chips to China, with Alibaba Group Holding Ltd. one of multiple end customers, according to people familiar with the matter.",
+      "published": "2026-05-08T06:34:29.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 7,
+      "matchedKeywords": [
+        "nvidia",
+        "chip",
+        "billion"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "OpenAI's Codex Now Works in Chrome With New Extension",
+      "link": "https://www.macrumors.com/2026/05/07/openai-codex-chrome-extension/",
+      "description": "OpenAI today launched Codex for Chrome, a Chrome extension that lets Codex work directly in the browser on Macs and PCs.\r\n\r\n\r\nWith the extension, Codex can use the browser to test web apps, get context across multiple tabs, use web DevTools, and more without taking over the browser from the user.\r\n\r\nOpenAI says that after it launched Computer Use in the desktop Codex app, it saw that most common workflows happened in the browser. The Chrome extension should make it faster and easier for Codex to help with browser-based work that plugins or APIs can't handle.\r\n\r\nAccording to OpenAI, Codex has more than 4 million weekly active users, an increase of 8x since the beginning of the year. The Chrome extension is part of OpenAI's broader effort to make Codex more useful for work people do daily, while keeping it useful for developers.\r\n\r\nTags: Chrome, OpenAI\nThis article, \"OpenAI's Codex Now Works in Chrome With New Extension\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+      "published": "2026-05-08T00:42:31.000Z",
+      "source": "MacRumors",
+      "sourceKey": "macrumors",
+      "priority": 2,
+      "image": "https://images.macrumors.com/article-new/2025/12/openai-logo-word-blue.jpg",
+      "relevanceScore": 7,
+      "matchedKeywords": [
+        "openai"
+      ],
+      "category": "ai"
+    }
+  ],
+  "byCategory": {
+    "ev_autonomous": [
+      {
+        "title": "Wayve CEO on Tesla, Waymo, Future of Self-Driving Cars",
+        "link": "https://www.bloomberg.com/news/videos/2026-05-08/wayve-ceo-on-tesla-waymo-future-of-self-driving-cars",
+        "description": "Wayve CEO Alex Kendall explains end-to-end autonomous driving, how Wayve's approach differs to those of Tesla and Waymo, and why artificial intelligence licensing could scale fastest. He speaks to Bloomberg's Tom Mackenzie. (Source: Bloomberg)",
+        "published": "2026-05-08T07:30:09.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 16,
+        "matchedKeywords": [
+          "tesla",
+          "intel",
+          "waymo",
+          "ceo",
+          "artificial intelligence"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "AI Is Reshaping Self-Driving Cars, Wayve CEO Says",
+        "link": "https://www.bloomberg.com/news/videos/2026-05-08/ai-is-reshaping-self-driving-cars-wayve-ceo-says",
+        "description": "Wayve CEO Alex Kendall explains how an artificial intelligence-driven approach to self-driving -- using onboard intelligence and real-world learning -- is reshaping how autonomous cars and robotaxis are built and scaled. Kendall speaks to Bloomberg's Tom Mackenzie. (Source: Bloomberg)",
+        "published": "2026-05-08T07:30:09.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "intel",
+          "ceo",
+          "robotaxi",
+          "artificial intelligence",
+          "self-driving"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "How Waymo's Driverless Strategy Compares to Tesla's",
+        "link": "https://www.bloomberg.com/news/videos/2026-05-08/how-waymo-s-driverless-strategy-compares-to-tesla-s",
+        "description": "Srikanth Thirumalai, vice president of onboard software at Waymo, explains the company's full-stack approach drive simulator, its safety-critique, and how it stacks up against Tesla's strategy. He speaks to Bloomberg's Tom Mackenzie. (Source: Bloomberg)",
+        "published": "2026-05-08T07:30:07.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "tesla",
+          "waymo"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "How Waymo Builds Self-Driving Cars",
+        "link": "https://www.bloomberg.com/news/videos/2026-05-08/how-waymo-builds-self-driving-cars",
+        "description": "Srikanth Thirumalai, vice president of onboard software at Waymo, breaks down the company's approach to autonomous cars. He speaks to Bloomberg's Tom Mackenzie. (Source: Bloomberg)",
+        "published": "2026-05-08T07:30:08.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "waymo",
+          "self-driving"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Tesla Model Y first to pass NHTSA’s new ADAS tests — but they test the basics",
+        "link": "https://electrek.co/2026/05/07/tesla-model-y-first-pass-nhtsa-new-adas-tests/",
+        "description": "NHTSA announced today that the 2026 Tesla Model Y is the first vehicle to pass its new advanced driver assistance system (ADAS) benchmark tests under the updated New Car Assessment Program. The agency framed it as a milestone for vehicle safety.\nThe announcement is real progress, and credit where credit is due — Tesla passed all eight ADAS evaluations. But the context around this news is important, and it paints a more nuanced picture than the press release suggests.\nmore…",
+        "published": "2026-05-08T03:18:33.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/01/Tesla-kills-Autopilot.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "tesla",
+          "valuation"
+        ],
+        "category": "ev_autonomous"
+      }
+    ],
+    "ai": [
+      {
+        "title": "Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
+        "link": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
+        "description": "Leaders at the tech giant were skeptical of OpenAI—but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
+        "published": "2026-05-08T01:42:14.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 15,
+        "matchedKeywords": [
+          "microsoft",
+          "amazon",
+          "openai",
+          "arm"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "SoftBank Cuts Target for OpenAI Margin Loan by 40% to $6 Billion",
+        "link": "https://www.bloomberg.com/news/articles/2026-05-08/softbank-cuts-target-for-openai-margin-loan-by-40-to-6-billion",
+        "description": "SoftBank Group Corp. has downsized plans for a $10 billion margin loan backed by its OpenAI stake after facing hesitation from some creditors, people familiar with the matter said.",
+        "published": "2026-05-08T07:15:47.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 13,
+        "matchedKeywords": [
+          "openai",
+          "softbank",
+          "billion"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Baidu’s AI Chip Unit Plans Dual IPO in Shanghai and Hong Kong",
+        "link": "https://www.bloomberg.com/news/articles/2026-05-08/baidu-s-ai-chip-unit-plans-dual-ipo-in-shanghai-and-hong-kong",
+        "description": "Baidu Inc.’s chip unit Kunlunxin is planning an initial public offering on Shanghai’s Nasdaq-style bourse in addition to a separate listing plan in Hong Kong as the Chinese search engine giant looks to taps investor appetite for semiconductor stocks.",
+        "published": "2026-05-08T04:41:07.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "baidu",
+          "ipo",
+          "semiconductor",
+          "chip"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Anthropic introduces \"dreaming,\" a system that lets AI agents learn from their own mistakes",
+        "link": "https://venturebeat.com/technology/anthropic-introduces-dreaming-a-system-that-lets-ai-agents-learn-from-their-own-mistakes",
+        "description": "Anthropic on Tuesday unveiled a suite of updates to its Claude Managed Agents platform at its second annual Code with Claude developer conference in San Francisco, introducing a new capability called \"dreaming\" that lets AI agents learn from their own past sessions and improve over time — a step toward the kind of self-correcting, self-improving AI systems that enterprises have demanded before trusting agents with production workloads.\nThe company also moved two previously experimental features — outcomes and multi-agent orchestration — from research preview into public beta, making them broadly available to developers building on the Claude platform. Together, the three features address what Anthropic says are the hardest problems in running AI agents at scale: keeping them accurate, helping them learn, and preventing them from becoming bottlenecks on complex, multi-step work.\nEarly adopters are already reporting significant results. Legal AI company Harvey saw task completion rates increase roughly 6x after implementing dreaming. Medical document review company Wisedocs cut its document review time by 50% using outcomes. And Netflix is now processing logs from hundreds of builds simultaneously using multi-agent orchestration.\nThe announcements come at a moment of extraordinary momentum for Anthropic. CEO Dario Amodei disclosed during a fireside chat at the conference that the company's growth has outpaced even its own aggressive internal projections.\nIn the first quarter of 2026, Anthropic saw what Amodei described as 80x annualized growth in revenue and usage — far exceeding the 10x annual growth the company had planned for. API volume on the Claude platform is up nearly 70x year over year, and the average developer using Claude Code now spends 20 hours per week working with the tool.\n\"We tried to plan very well for a world of 10x growth per year,\" Amodei said. \"And yet we saw 80x. And so that is the reason we have had difficulties with compute.\"\nHow Anthropic's dreaming feature teaches AI agents to learn from their own history\nDreaming is the most novel of the three features and the one Anthropic is most eager to distinguish from conventional memory systems. While the company launched agent memory earlier this year — allowing Claude to retain preferences and context within and across individual sessions — dreaming works at a higher level of abstraction. It is a scheduled process that reviews an agent's past sessions and memory stores, extracts patterns across them, and curates those memories so agents improve over time. It surfaces insights that no single agent session could see on its own: recurring mistakes, workflows that multiple agents converge on independently, and preferences shared across a team of agents.\nAlex Albert, who leads research product management at Anthropic, explained the concept in an interview at the conference. He described dreaming as analogous to how people within organizations create skills after working through a task. \"They might do a workflow with Claude, and at the end of that workflow, after they've iterated and zigzagged a little bit, they want to record that path from A to B,\" Albert said. \"A very similar thing is happening with dreaming — instead of you manually creating the skill from your experience working with Claude, the model is doing it, so it has that same context for a future session.\"\nCrucially, dreaming does not modify the underlying model weights. \"We're not changing the model itself through dreaming — it's not doing updates to the weights or anything like that,\" Albert said. Instead, the agent writes learnings as plain-text notes and structured \"playbooks\" that future sessions can reference, making the entire process observable and auditable by humans. When asked about the trust implications of agents consolidating their own knowledge, Albert acknowledged that \"there is a level of trust that you need to place\" but noted that all memories are inspectable and that smarter models are getting progressively better at managing this process. \"They're learning to write better notes for their future self,\" he said.\nA live demo showed AI agents improving overnight without human guidance\nDuring the keynote, the Anthropic team demonstrated all three features live on stage using a fictional aerospace startup called \"Lumara\" that needed to autonomously land drones on the moon for resource mining. The team configured a multi-agent system with three specialists — a commander agent responsible for overall mission success, a detector agent that identified high-quality landing sites, and a navigator agent that handled safe drone flight and landing — and defined a success rubric requiring soft landings, clear ground, and enough fuel reserves for a return trip to Earth.\nAn initial simulation across six hypothetical landing sites produced strong but imperfect results. To improve, the presenters triggered a dreaming session directly from the Claude Developer Console. Overnight, the dreaming agent reviewed all past simulation sessions and wrote a detailed descent playbook — a comprehensive set of heuristics drawn from patterns across multiple mission runs. When the team ran a new simulation the following morning with the dreaming-derived playbook in memory, the results improved meaningfully on the sites that had previously underperformed.\n\"All we had to do was just have Caitlin press a button,\" said Angela Jiang, Head of Product for the Claude Platform, referring to her colleague on stage. \"All dreaming.\"\nThe demo illustrated how the three features compose together in practice. Multi-agent orchestration split the complex task across specialists with independent context windows. Outcomes provided the rubric against which a separate grader agent evaluated each run. And dreaming extracted lessons across those runs to improve future performance — forming what Anthropic describes as a continuous improvement loop that requires no human intervention between iterations.\nWhy Anthropic built a separate 'grader' agent to check Claude's own work\nThe outcomes feature, now in public beta, gives developers a way to define what success looks like using a rubric — a structural framework, a presentation standard, a brand voice, or any other set of criteria — and then lets the agent iterate toward that standard autonomously. What makes outcomes architecturally distinctive is its separation of concerns. When an agent completes its work, a separate grader agent evaluates the output against the developer-defined rubric in its own independent context window. Because the grader operates in a fresh context, it is not influenced by the working agent's reasoning or accumulated biases from the session.\nWhen the grader identifies gaps between the output and the rubric, it pinpoints specifically what needs to change, and the working agent takes another pass. This loop continues until the rubric criteria are met — without a human needing to review each attempt.\nAlbert described Anthropic's broader verification strategy as employing \"more test time compute, more models thinking about a problem for longer, to check over the work of another.\" He acknowledged that having a model check its own work raises reasonable questions, but said a fresh context window reviewing completed work consistently outperforms asking the same long-running thread to identify its own bugs. \"You will get higher success if you give that output to a fresh Claude and say, 'what bugs do you see?'\" he said. \"There is still something to the attention\" that degrades over very long sessions — a limitation he said Anthropic is actively working to fix in future models.\nThe approach mirrors strategies already in use at GitHub. Mario Rodriguez, Chief Product Officer at GitHub, described during a separate talk at the conference how Copilot uses a similar advisor pattern with Claude models — pairing a smaller, cheaper model as an executor with a larger model as a mentor. When the smaller model encounters a problem beyond its capability, it calls the larger model for guidance, then continues executing on its own. Rodriguez said the approach delivers near-Opus-level intelligence at significantly lower cost, and that GitHub inserts critique models at three specific points in the coding workflow: after drafting a plan, after a complex implementation, and after writing tests but before running them.\nParallel AI agents can now tackle tasks too complex for a single model thread\nMulti-agent orchestration, the third feature moving to public beta, allows a lead agent to decompose a large task into subtasks and delegate each one to a specialist agent — each with its own model, system prompt, tools, and independent context window. Every step in the process is traceable in the Claude Console, showing which agent did what, in what order, and why.\nThe design gives each sub-agent an isolated context, which Anthropic says produces better results than having a single agent attempt to hold all the complexity in one thread. \"Each sub-agent has its own independent thread and context window,\" the keynote presenters explained. \"This is very intentional — we found that by splitting the work and then merging the results, we get better outcomes.\"\nAlbert offered his own heuristic for when multi-agent architectures make sense versus sticking with a single thread. \"Parallel agents are better for investigation,\" he said — situations where there is a lot of context that will ultimately be discarded. \"If you're trying to answer a specific question, you don't need all the search results from the areas where it didn't find the answer. You just need the answer.\" He described spinning up disposable sub-agents for specific retrieval tasks and bringing only the result back to the main thread. Increasingly, he said, the model itself will decide when to parallelize. \"In the future, you won't really care if it's one agent or multi-agent or whatever's happening. You just have a Claude that you're talking to, and it will deploy the right architecture automatically.\"\nAnthropic's bigger bet: closing the gap between AI capabilities and real-world adoption\nThe three features arrive as part of a broader platform push that Anthropic framed throughout the conference as closing \"the gap between what AI can do and what it's actually doing for people.\" Ami Vora, Anthropic's Chief Product Officer, set the theme in her opening keynote, noting that while model capabilities are advancing on an exponential curve, most organizations are still adopting AI on a linear path.\nDianne Penn, who leads product for Anthropic's research team, described the company's measure of progress as \"task horizon\" — how long an AI agent can work autonomously while improving the quality of its deliverables. \"This time last year, models could work for minutes,\" she said. \"Now, most of us have agents running for hours on end. Tomorrow, we'll have agents that are proactive, always on, and know what to work on without losing the frame.\"\nThe event also included several infrastructure announcements designed to help developers keep pace. Anthropic said it is doubling its five-hour rate limits for Pro, Max, Team, and Enterprise plans, and raising API rate limits considerably. The company announced a partnership with SpaceX to use the full capacity of its Colossus data center to expand compute availability — a direct response to the demand crunch Amodei described.\nAll three features are built into Claude Managed Agents, which launched in public beta on April 8 as an opinionated harness that bundles best practices including memory, tool integration, and action handling. Anthropic says teams using Managed Agents have shipped 10x faster than those building their own agent infrastructure from scratch. Albert described the platform using an operating system analogy: \"With managed agents, you don't need to think about all the technicalities of how you set up the surrounding system,\" he said. \"You're building an application for Macs — you don't want to go have to re-implement every detail of macOS.\"\nWhat dreaming, outcomes, and multi-agent orchestration mean for the future of enterprise AI\nThe competitive implications are significant. As AI agent platforms from OpenAI, Google, and others compete for developer adoption, Anthropic is betting that production reliability — not just raw model intelligence — will determine which platform wins enterprise budgets. The dreaming feature in particular stakes out new territory: while other platforms offer memory and tool use, the idea of agents systematically reviewing their own histories to extract reusable knowledge goes further toward the kind of continuously improving systems that enterprises need before delegating high-stakes work.\nThe conference showcased companies already operating at that scale. Mercado Libre, Latin America's largest e-commerce platform, has 23,000 engineers running Claude Code, has reviewed more than 500,000 pull requests with human oversight, and is aiming for 90% autonomous coding by the third quarter of this year. Shopify has deployed Claude Code across not just engineering but design, product, and data science teams.\nBut it was Dario Amodei who articulated the most expansive vision for where all of this leads. He described a progression from single agents to multiple agents to whole organizational intelligence — from \"a team of smart people in a room\" to what he called \"a country of geniuses in the data center.\" And he reiterated a prediction he made roughly a year ago: that 2026 would see the first billion-dollar company run by a single person. \"Hasn't quite happened yet,\" he said. \"But we've got seven more months.\"\nDreaming is available now in research preview. Outcomes and multi-agent orchestration are in public beta and available to all developers on the Claude platform. Whether seven months is enough time for a solo founder to build a billion-dollar business remains an open question — but after Tuesday, they have a few more tools to try.",
+        "published": "2026-05-08T00:09:35.000Z",
+        "source": "VentureBeat",
+        "sourceKey": "venturebeat",
+        "priority": 1,
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5I4zuQbx738JfOAQbToZdD/b5c7c367d367e55b484dc1480e399cba/Nuneybits_Vector_art_of_burnt-orange_moonlit_sleeper_dissolving_71200d84-78a7-48eb-890e-fb59ef136db1.webp?w=300&q=30",
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "anthropic",
+          "claude"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "US Said to Suspect Nvidia Chips Smuggled to Alibaba Via Thailand",
+        "link": "https://www.bloomberg.com/news/articles/2026-05-08/us-said-to-suspect-nvidia-chips-smuggled-to-alibaba-via-thailand",
+        "description": "A key company behind Thailand’s national AI effort is suspected of helping to smuggle billions of dollars worth of Super Micro Computer Inc. servers containing advanced Nvidia Corp. chips to China, with Alibaba Group Holding Ltd. one of multiple end customers, according to people familiar with the matter.",
+        "published": "2026-05-08T06:34:29.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "nvidia",
+          "chip",
+          "billion"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "OpenAI's Codex Now Works in Chrome With New Extension",
+        "link": "https://www.macrumors.com/2026/05/07/openai-codex-chrome-extension/",
+        "description": "OpenAI today launched Codex for Chrome, a Chrome extension that lets Codex work directly in the browser on Macs and PCs.\r\n\r\n\r\nWith the extension, Codex can use the browser to test web apps, get context across multiple tabs, use web DevTools, and more without taking over the browser from the user.\r\n\r\nOpenAI says that after it launched Computer Use in the desktop Codex app, it saw that most common workflows happened in the browser. The Chrome extension should make it faster and easier for Codex to help with browser-based work that plugins or APIs can't handle.\r\n\r\nAccording to OpenAI, Codex has more than 4 million weekly active users, an increase of 8x since the beginning of the year. The Chrome extension is part of OpenAI's broader effort to make Codex more useful for work people do daily, while keeping it useful for developers.\r\n\r\nTags: Chrome, OpenAI\nThis article, \"OpenAI's Codex Now Works in Chrome With New Extension\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-05-08T00:42:31.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2025/12/openai-logo-word-blue.jpg",
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple pushes back against Canadian bill that could force companies to weaken encryption",
+        "link": "https://9to5mac.com/2026/05/07/apple-pushes-back-against-canadian-bill-that-could-force-companies-to-weaken-encryption/",
+        "description": "Apple and Meta are publicly opposing a new Canadian bill that they say could force tech companies to break encryption or build backdoors into their products. Here are the details.\nmore…",
+        "published": "2026-05-08T03:26:51.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/privacy-apple.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "apple",
+          "meta"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Airtel Delays IPO of Mobile Money Unit to Second Half of 2026",
+        "link": "https://www.bloomberg.com/news/articles/2026-05-08/airtel-delays-ipo-of-mobile-money-unit-to-second-half-of-2026",
+        "description": "Airtel Africa Plc said it plans an initial public offering of its mobile money business in the second half of this year, delaying the sale by a few months.",
+        "published": "2026-05-08T06:41:34.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "ipo"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple TV announces new docuseries on UConn women’s basketball team",
+        "link": "https://9to5mac.com/2026/05/07/apple-tv-announces-new-docuseries-on-uconn-womens-basketball-team/",
+        "description": "Apple TV today announced ‘The Dynasty: UConn Huskies,’ a three-part docuseries about the University of Connecticut women’s basketball program. Here are the details.\nmore…",
+        "published": "2026-05-08T00:01:55.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/the-dynasty-uconn-huskies.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      }
+    ],
+    "business": [
+      {
+        "title": "Nvidia CEO Says He Would Join Trump’s China Trip If Invited",
+        "link": "https://www.bloomberg.com/news/articles/2026-05-08/nvidia-ceo-says-he-would-join-trump-s-china-trip-if-invited",
+        "description": "Nvidia Corp. Chief Executive Officer Jensen Huang said he would gladly join President Donald Trump on an upcoming visit to China if invited, signaling that the leader of America’s most valuable company has yet to receive an offer to go.",
+        "published": "2026-05-08T00:18:07.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "nvidia",
+          "ceo",
+          "jensen huang"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Freight's Future Is Electric and Autonomous, Einride CEO Says",
+        "link": "https://www.bloomberg.com/news/videos/2026-05-08/freight-s-future-is-electric-and-autonomous-einride-ceo-video",
+        "description": "Roozbeh Charli, chief executive officer of Swedish firm Einride, discusses how platform-driven logistics, electric trucks, and autonomous systems are transforming global freight, and why humans still play a critical role. He speaks to Bloomberg's Tom Mackenzie. (Source: Bloomberg)",
+        "published": "2026-05-08T08:01:47.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "ceo"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Earnings Resilience Amid Iran Risk: Markets Snapshot",
+        "link": "https://www.bloomberg.com/news/videos/2026-05-08/earnings-resilience-amid-iran-risk-markets-snapshot-video",
+        "description": "The shape-shifting artificial intelligence trade and the ongoing conflict in the Middle East dominated conversations in a week that saw strong earnings results. The Opening Trade spoke with leading market voices and company executives to get their take. (Source: Bloomberg)",
+        "published": "2026-05-08T06:02:05.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "intel",
+          "artificial intelligence"
+        ],
+        "category": "business"
+      }
+    ],
+    "chips_cloud": [
+      {
+        "title": "TSMC and Sony to Form Joint Venture on Image Sensors",
+        "link": "https://www.bloomberg.com/news/articles/2026-05-08/tsmc-and-sony-to-form-joint-venture-on-image-sensors",
+        "description": "Taiwan Semiconductor Manufacturing Co. and Sony Semiconductor Solutions Corporation are planning to form a joint venture to build next-generation image sensors.",
+        "published": "2026-05-08T07:40:03.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "tsmc",
+          "semiconductor"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "TSMC’s Sales Grow Slowest in Months Even as AI Buildout Persists",
+        "link": "https://www.bloomberg.com/news/articles/2026-05-08/tsmc-sales-grow-17-5-on-extended-ai-buildout-boom",
+        "description": "Taiwan Semiconductor Manufacturing Co. posted its slowest pace of monthly revenue expansion since October, highlighting the potential challenges of sustaining a torrid AI-fueled pace of growth.",
+        "published": "2026-05-08T05:37:47.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "tsmc",
+          "semiconductor"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "South Korea’s Current Account Surplus Surges to Record on Chips",
+        "link": "https://www.bloomberg.com/news/articles/2026-05-08/south-korea-s-current-account-surplus-surges-to-record-on-chips",
+        "description": "South Korea’s current-account surplus surged to another record in March, driven by a surge in semiconductor exports and stronger shipments across Asia and the US, even as foreign investors sharply reduced holdings of domestic stocks amid rising Middle East tensions.",
+        "published": "2026-05-08T01:51:52.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "semiconductor",
+          "chip"
+        ],
+        "category": "chips_cloud"
+      }
+    ],
+    "space": [
+      {
+        "title": "SatVu zooms in energy facilities in Cuba, India and Australia",
+        "link": "https://spacenews.com/satvu-zooms-in-energy-facilities-in-cuba-india-and-australia/",
+        "description": "SAN FRANCISCO – British startup SatVu released imagery from HotSat-2, a thermal satellite built to keep tabs on energy infrastructure. HotSat-2, built by Surrey Satellite Technology Ltd., is the second satellite in SatVu’s commercial high-resolution thermal-imaging constellation. The first, HotSat-1, failed six months after launch. HotSat-2 images released May 7 show refining of domestic crude […]",
+        "published": "2026-05-08T02:42:50.000Z",
+        "source": "SpaceNews",
+        "sourceKey": "spacenews",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "agi",
+          "satellite"
+        ],
+        "category": "space"
+      }
+    ],
+    "regulation": [
+      {
+        "title": "Principal Eyes $3 Billion for Two Data Center Funds on AI Boom",
+        "link": "https://www.bloomberg.com/news/articles/2026-05-08/principal-eyes-3-billion-for-two-data-center-funds-on-ai-boom",
+        "description": "Principal Financial Group Inc. is seeking to raise $3 billion for two funds this year to capitalize on demand for investment in data centers in the US and Europe, according to people familiar with the matter.",
+        "published": "2026-05-08T01:12:17.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "data center",
+          "billion"
+        ],
+        "category": "regulation"
+      }
+    ]
+  },
+  "totalArticles": 22
+}
