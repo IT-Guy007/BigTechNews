@@ -1,0 +1,648 @@
+{
+  "type": "daily",
+  "id": "26-05-28",
+  "title": "Thursday, May 28",
+  "dateRange": "May 28, 2026",
+  "date": "2026-05-28",
+  "generatedAt": "2026-05-28T10:36:56.033Z",
+  "highlights": [
+    {
+      "title": "Mistral to explore designing own chips, CEO says, as it ramps up infrastructure build",
+      "link": "https://www.cnbc.com/2026/05/28/mistral-arthur-mensch-design-chips-ai-data-centers.html",
+      "description": "Mistral's semiconductor ambitions underscore the French startup's bid to control more of its infrastructure as it competes with OpenAI and Anthropic.",
+      "published": "2026-05-28T08:57:24.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 20,
+      "matchedKeywords": [
+        "openai",
+        "anthropic",
+        "mistral",
+        "ceo",
+        "semiconductor"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
+      "link": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
+      "description": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB Pritzker says he’ll sign it.",
+      "published": "2026-05-28T00:10:42.000Z",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "priority": 2,
+      "image": null,
+      "relevanceScore": 13,
+      "matchedKeywords": [
+        "google",
+        "openai",
+        "anthropic",
+        "ai safety"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Mark Zuckerberg says a Meta cloud computing business 'definitely on the table'",
+      "link": "https://www.cnbc.com/2026/05/27/mark-zuckerberg-says-meta-starting-cloud-business-on-the-table.html",
+      "description": "Meta CEO Mark Zuckerberg said his company could enter the cloud computing market if it overspends on data centers and has excess capacity.",
+      "published": "2026-05-28T00:13:28.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 12,
+      "matchedKeywords": [
+        "meta",
+        "ceo",
+        "mark zuckerberg",
+        "data center"
+      ],
+      "category": "chips_cloud"
+    },
+    {
+      "title": "Salesforce waves bye-bye to UI in 'headless' embrace",
+      "link": "https://www.theregister.com/saas/2026/05/28/salesforce-waves-bye-bye-to-ui-in-headless-embrace/5247587",
+      "description": "Anthropic's use of Sales Cloud increased five-fold as its workers access Salesforce through Claude and Slack",
+      "published": "2026-05-28T00:20:29.000Z",
+      "source": "The Register",
+      "sourceKey": "theregister",
+      "priority": 2,
+      "image": "https://image.theregister.com/?imageId=5223048&width=800",
+      "relevanceScore": 12,
+      "matchedKeywords": [
+        "anthropic",
+        "salesforce",
+        "claude"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Mistral Signs with Airbus and BMW as it Expands Into Physical AI",
+      "link": "https://www.bloomberg.com/news/videos/2026-05-28/mistral-expands-into-physical-ai-including-airbus-bmw-video",
+      "description": "Description: French artificial intelligence startup Mistral AI is expanding into advanced manufacturing, striking deals with new customers Airbus and BMW as it looks to so-called physical AI to fuel growth. Mistral is also announcing a new data centre in France. The CEO and co-founder Arthur Mensch spoke with Bloomberg’s Tom Mackenzie from Paris. (Source: Bloomberg)",
+      "published": "2026-05-28T09:00:01.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 11,
+      "matchedKeywords": [
+        "intel",
+        "mistral",
+        "ceo",
+        "artificial intelligence"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Salesforce's Lukewarm Outlook Fuels AI Disruption Fear",
+      "link": "https://www.bloomberg.com/news/videos/2026-05-28/salesforce-s-lukewarm-outlook-fuels-ai-disruption-fear-video",
+      "description": "Salesforce gave a revenue outlook for the current period that fell just short of analysts’ estimates. Revenue will be about $11.3 billion in the fiscal second quarter, which ends in July, Salesforce said Wednesday. The leading maker of customer management software is under pressure to show it can thrive in the AI era. Bloomberg's Neil Campling reports. (Source: Bloomberg)",
+      "published": "2026-05-28T09:01:08.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 10,
+      "matchedKeywords": [
+        "salesforce",
+        "arm",
+        "billion"
+      ],
+      "category": "business"
+    },
+    {
+      "title": "Amazon Thinks the Future of Data Centers Depends on a Technical Problem It Just Solved",
+      "link": "https://www.wired.com/story/amazon-thinks-the-future-of-data-centers-depends-on-a-technical-problem-it-just-solved/",
+      "description": "The tech giant says a breakthrough in data-center networking has dramatically accelerated the flow of information through its massive cloud infrastructure.",
+      "published": "2026-05-28T10:30:00.000Z",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "priority": 2,
+      "image": null,
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "amazon",
+        "breakthrough",
+        "data center"
+      ],
+      "category": "chips_cloud"
+    },
+    {
+      "title": "This AI stock is surging after an ex-OpenAI employee's fund disclosed a stake. Here's why",
+      "link": "https://www.cnbc.com/2026/05/28/nebius-situational-awareness-ai-stock-ex-openai-stake.html",
+      "description": "Dutch cloud provider Nebius popped in premarket trading after an ex-OpenAI employee's fund took a sizeable stake in the firm,",
+      "published": "2026-05-28T09:56:02.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "openai"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Mistral Signs Airbus, BMW as It Brings AI to Manufacturing",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-28/mistral-signs-airbus-and-bmw-as-it-brings-ai-to-manufacturing",
+      "description": "French artificial intelligence startup Mistral AI is expanding into advanced manufacturing, striking deals with new customers Airbus SE and BMW AG as it looks to so-called physical AI to fuel growth.",
+      "published": "2026-05-28T08:45:39.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "intel",
+        "mistral",
+        "artificial intelligence"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "What It Takes to Get a Job at Anthropic",
+      "link": "https://www.bloomberg.com/news/features/2026-05-28/anthropic-job-recruiting-brings-in-diverse-careers-to-build-claude",
+      "description": "To win a coveted role, candidates shouldn’t outsource their thinking to AI — and should be prepared to talk about their worldview.",
+      "published": "2026-05-28T09:00:04.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "anthropic"
+      ],
+      "category": "ai"
+    }
+  ],
+  "byCategory": {
+    "ai": [
+      {
+        "title": "Mistral to explore designing own chips, CEO says, as it ramps up infrastructure build",
+        "link": "https://www.cnbc.com/2026/05/28/mistral-arthur-mensch-design-chips-ai-data-centers.html",
+        "description": "Mistral's semiconductor ambitions underscore the French startup's bid to control more of its infrastructure as it competes with OpenAI and Anthropic.",
+        "published": "2026-05-28T08:57:24.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 20,
+        "matchedKeywords": [
+          "openai",
+          "anthropic",
+          "mistral",
+          "ceo",
+          "semiconductor"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
+        "link": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
+        "description": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB Pritzker says he’ll sign it.",
+        "published": "2026-05-28T00:10:42.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 13,
+        "matchedKeywords": [
+          "google",
+          "openai",
+          "anthropic",
+          "ai safety"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Salesforce waves bye-bye to UI in 'headless' embrace",
+        "link": "https://www.theregister.com/saas/2026/05/28/salesforce-waves-bye-bye-to-ui-in-headless-embrace/5247587",
+        "description": "Anthropic's use of Sales Cloud increased five-fold as its workers access Salesforce through Claude and Slack",
+        "published": "2026-05-28T00:20:29.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=5223048&width=800",
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "anthropic",
+          "salesforce",
+          "claude"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Mistral Signs with Airbus and BMW as it Expands Into Physical AI",
+        "link": "https://www.bloomberg.com/news/videos/2026-05-28/mistral-expands-into-physical-ai-including-airbus-bmw-video",
+        "description": "Description: French artificial intelligence startup Mistral AI is expanding into advanced manufacturing, striking deals with new customers Airbus and BMW as it looks to so-called physical AI to fuel growth. Mistral is also announcing a new data centre in France. The CEO and co-founder Arthur Mensch spoke with Bloomberg’s Tom Mackenzie from Paris. (Source: Bloomberg)",
+        "published": "2026-05-28T09:00:01.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "intel",
+          "mistral",
+          "ceo",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "This AI stock is surging after an ex-OpenAI employee's fund disclosed a stake. Here's why",
+        "link": "https://www.cnbc.com/2026/05/28/nebius-situational-awareness-ai-stock-ex-openai-stake.html",
+        "description": "Dutch cloud provider Nebius popped in premarket trading after an ex-OpenAI employee's fund took a sizeable stake in the firm,",
+        "published": "2026-05-28T09:56:02.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Mistral Signs Airbus, BMW as It Brings AI to Manufacturing",
+        "link": "https://www.bloomberg.com/news/articles/2026-05-28/mistral-signs-airbus-and-bmw-as-it-brings-ai-to-manufacturing",
+        "description": "French artificial intelligence startup Mistral AI is expanding into advanced manufacturing, striking deals with new customers Airbus SE and BMW AG as it looks to so-called physical AI to fuel growth.",
+        "published": "2026-05-28T08:45:39.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "intel",
+          "mistral",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "What It Takes to Get a Job at Anthropic",
+        "link": "https://www.bloomberg.com/news/features/2026-05-28/anthropic-job-recruiting-brings-in-diverse-careers-to-build-claude",
+        "description": "To win a coveted role, candidates shouldn’t outsource their thinking to AI — and should be prepared to talk about their worldview.",
+        "published": "2026-05-28T09:00:04.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "anthropic"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "3C AGI Partners' Wong on Investment Strategy",
+        "link": "https://www.bloomberg.com/news/videos/2026-05-28/3c-agi-partners-wong-on-investment-strategy-video",
+        "description": "Esther Wong, Founder and CEO of 3C AGI Partners, discusses her investment strategies for opportunities in AI and technology sectors. She speaks with David Ingles and Yvonne Man on \"Bloomberg: The China Show\". (Source: Bloomberg)",
+        "published": "2026-05-28T05:42:16.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "agi",
+          "ceo"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "U.S. CFTC files request to erase Gemini settlement that it no longer considers fair",
+        "link": "https://www.coindesk.com/policy/2026/05/27/u-s-cftc-files-request-to-erase-gemini-settlement-that-it-no-longer-considers-fair",
+        "description": "The regulator went back to analyze the 2022 case and decided that it wouldn't have been pursued under current management and practices.",
+        "published": "2026-05-28T01:12:09.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "gemini",
+          "ftc"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Google engineer charged with insider trading after making $1.2M on Polymarket",
+        "link": "https://techcrunch.com/2026/05/27/google-engineer-charged-with-insider-trading-after-making-1-2m-on-polymarket/",
+        "description": "According to the complaint, a Google engineer risked over $2.7 million on wagers related to Google's 2025 Year in Search campaign.",
+        "published": "2026-05-28T00:45:37.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Why Google’s AI can’t spell Google (or anything else)",
+        "link": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+        "description": "Google is embarrassing itself, again.",
+        "published": "2026-05-28T00:17:41.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "DeepZero Says IPO Success Signals Strong Belief in AI",
+        "link": "https://www.bloomberg.com/news/videos/2026-05-28/deepzero-says-ipo-success-signals-strong-belief-in-ai-video",
+        "description": "Beijing DeepZero Chairwoman Grace Huang says the market’s reaction to the its Hong Kong IPO is a sign that people are recognizing the power of AI. DeepZero's shares surged more than 260% on its debut on May 27.  (Source: Bloomberg)",
+        "published": "2026-05-28T06:23:21.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "ipo"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
+        "link": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
+        "description": "Built on top of the open-source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
+        "published": "2026-05-28T07:00:00.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "ceo"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Amazon Japan is now transporting packages on Shinkansen bullet trains",
+        "link": "https://www.engadget.com/2182715/amazon-japan-shinkansen-bullet-train-packages/",
+        "description": "Amazon is moving packages in Japan on the Shinkansen as part of its efforts to have neutral carbon emissions.",
+        "published": "2026-05-28T09:43:31.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/amazon-japan-is-now-transporting-packages-on-shinkansen-bullet-trains/l-intro-1779961303.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "amazon"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "AI Risks Prompt Carson Block to Rethink India Plans",
+        "link": "https://www.bloomberg.com/news/videos/2026-05-28/ai-risks-prompt-carson-block-to-rethink-india-plans-video",
+        "description": "Muddy Waters Research CEO Carson Block joined Insight with Haslinda Amin to discuss the sustainability of the AI rally, risks to the labour market, and how these shifts could reshape global equity markets, including India. (Source: Bloomberg)",
+        "published": "2026-05-28T05:34:25.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "ceo"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Africa Startups Turn Inward as US AI Boom Drains Venture Capital",
+        "link": "https://www.bloomberg.com/news/articles/2026-05-28/africa-startups-turn-inward-as-us-ai-boom-drains-venture-capital",
+        "description": "African startups are rewriting their funding playbook as the global artificial intelligence boom pulls venture capital toward the US, forcing emerging markets to compete for cash.",
+        "published": "2026-05-28T05:05:00.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "intel",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      }
+    ],
+    "chips_cloud": [
+      {
+        "title": "Mark Zuckerberg says a Meta cloud computing business 'definitely on the table'",
+        "link": "https://www.cnbc.com/2026/05/27/mark-zuckerberg-says-meta-starting-cloud-business-on-the-table.html",
+        "description": "Meta CEO Mark Zuckerberg said his company could enter the cloud computing market if it overspends on data centers and has excess capacity.",
+        "published": "2026-05-28T00:13:28.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "meta",
+          "ceo",
+          "mark zuckerberg",
+          "data center"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Amazon Thinks the Future of Data Centers Depends on a Technical Problem It Just Solved",
+        "link": "https://www.wired.com/story/amazon-thinks-the-future-of-data-centers-depends-on-a-technical-problem-it-just-solved/",
+        "description": "The tech giant says a breakthrough in data-center networking has dramatically accelerated the flow of information through its massive cloud infrastructure.",
+        "published": "2026-05-28T10:30:00.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "amazon",
+          "breakthrough",
+          "data center"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Nvidia Server Maker Wiwynn Sees AI Bottlenecks Beyond Memory",
+        "link": "https://www.bloomberg.com/news/articles/2026-05-28/nvidia-server-maker-wiwynn-expects-ai-bottlenecks-beyond-memory",
+        "description": "Wiwynn Corp., one of the biggest makers of Nvidia Corp. servers, warned of shortages developing in vital data center components beyond just memory chips, potentially slowing or inflating the cost of a global AI infrastructure buildout.",
+        "published": "2026-05-28T07:43:46.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "nvidia",
+          "chip",
+          "data center"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "AtlasEdge Gets €1.2 Billion in Loans for European Data Centers",
+        "link": "https://www.bloomberg.com/news/articles/2026-05-28/atlasedge-gets-1-2-billion-in-loans-for-european-data-centers",
+        "description": "A data center operator backed by Liberty Global and DigitalBridge Group Inc. secured more than €1.2 billion ($1.4 billion) in financing to roll out artificial intelligence infrastructure in under-served parts of Europe.",
+        "published": "2026-05-28T08:42:25.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "intel",
+          "artificial intelligence",
+          "data center",
+          "billion"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Arm moves into the heart of the cloud stack",
+        "link": "https://www.theregister.com/off-prem/2026/05/28/arm-moves-into-the-heart-of-the-cloud-stack/5246780",
+        "description": "Hyperscaler adoption and AI workloads are accelerating multi-architecture infrastructure",
+        "published": "2026-05-28T08:00:00.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=5229675&width=800",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "arm"
+        ],
+        "category": "chips_cloud"
+      }
+    ],
+    "business": [
+      {
+        "title": "Salesforce's Lukewarm Outlook Fuels AI Disruption Fear",
+        "link": "https://www.bloomberg.com/news/videos/2026-05-28/salesforce-s-lukewarm-outlook-fuels-ai-disruption-fear-video",
+        "description": "Salesforce gave a revenue outlook for the current period that fell just short of analysts’ estimates. Revenue will be about $11.3 billion in the fiscal second quarter, which ends in July, Salesforce said Wednesday. The leading maker of customer management software is under pressure to show it can thrive in the AI era. Bloomberg's Neil Campling reports. (Source: Bloomberg)",
+        "published": "2026-05-28T09:01:08.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "salesforce",
+          "arm",
+          "billion"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Company CEO flooded file share with smut, called for help after he deleted it",
+        "link": "https://www.theregister.com/security/2026/05/28/company-ceo-flooded-file-share-with-smut-called-for-help-after-he-deleted-it/5247502",
+        "description": "Also, missing school iPad resurfaced after coach’s kids uploaded video to YouTube",
+        "published": "2026-05-28T07:00:00.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=5247528&width=800",
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "ceo"
+        ],
+        "category": "business"
+      }
+    ],
+    "ev_autonomous": [
+      {
+        "title": "Samsung is testing Galaxy Watch 8 to prevent muscle loss on GLP-1s like Ozempic",
+        "link": "https://www.engadget.com/2182683/samsung-study-galaxy-watch-8-glp1-ozempic/",
+        "description": "Samsung has teamed up with diabetes experts at Massachusetts General Hospital to see how Galaxy Watch 8 can help prevent muscle loss in GLP-1 patients.",
+        "published": "2026-05-28T07:07:13.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/samsung-is-testing-galaxy-watch-8-to-prevent-muscle-loss-on-glp-1s-like-ozempic/l-intro-1779951974.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "samsung"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "White House reviews CFTC prediction-market rule as Trump backs federal control",
+        "link": "https://www.coindesk.com/policy/2026/05/28/white-house-reviews-cftc-prediction-market-rule-as-trump-backs-federal-control",
+        "description": "The proposal could shape how Kalshi, Polymarket, and other event-contract platforms operate as states challenge the CFTC’s authority.",
+        "published": "2026-05-28T08:57:26.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "ftc"
+        ],
+        "category": "ev_autonomous"
+      }
+    ],
+    "regulation": [
+      {
+        "title": "The DOJ Wants to Know Who on Reddit and X Is Criticizing ICE's Tactics",
+        "link": "https://www.bloomberg.com/news/articles/2026-05-28/trump-s-doj-ramps-up-probes-of-anonymous-ice-critics-with-x-reddit-subpoenas",
+        "description": "In seeking identities of those behind anonymous social media posts, the Trump administration is intensifying its pursuit using grand jury subpoenas.",
+        "published": "2026-05-28T09:30:02.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "doj"
+        ],
+        "category": "regulation"
+      }
+    ],
+    "robotics": [
+      {
+        "title": "Matrix Robotics CEO on Business Outlook",
+        "link": "https://www.bloomberg.com/news/videos/2026-05-28/matrix-robotics-ceo-on-business-outlook-video",
+        "description": "Allen Zhang, Founder and CEO of Matrix Robotics, discusses the company's plans for putting their humanoid product to market, and more on the manufacturing timeline. He speaks with Shery Ahn on the sidelines of the Beyond Expo in Macau on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
+        "published": "2026-05-28T04:52:09.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "ceo"
+        ],
+        "category": "robotics"
+      }
+    ],
+    "space": [
+      {
+        "title": "FAA requires mishap investigation into latest Starship launch",
+        "link": "https://spacenews.com/faa-requires-mishap-investigation-into-latest-starship-launch/",
+        "description": "The Federal Aviation Administration will require SpaceX to complete an investigation into its latest Starship test flight before allowing the vehicle to fly again.\nThe post FAA requires mishap investigation into latest Starship launch appeared first on SpaceNews.",
+        "published": "2026-05-28T04:06:52.000Z",
+        "source": "SpaceNews",
+        "sourceKey": "spacenews",
+        "priority": 2,
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/starship-flt12-liftoffcloseup.jpeg?fit=1024%2C557&amp;ssl=1",
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "spacex",
+          "starship"
+        ],
+        "category": "space"
+      }
+    ]
+  },
+  "totalArticles": 29
+}
