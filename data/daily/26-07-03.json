@@ -1,0 +1,368 @@
+{
+  "type": "daily",
+  "id": "26-07-03",
+  "title": "Friday, Jul 3",
+  "dateRange": "July 3, 2026",
+  "date": "2026-07-03",
+  "generatedAt": "2026-07-03T09:40:48.283Z",
+  "highlights": [
+    {
+      "title": "Enterprises lost Claude Fable 5 for a few weeks. New data shows two-thirds had already built their hedge",
+      "link": "https://venturebeat.com/orchestration/enterprises-lost-claude-fable-5-for-a-few-weeks-new-data-shows-two-thirds-had-already-built-their-hedge",
+      "description": "Two-thirds of enterprises have hedged their AI model strategy, and the past few weeks of controversy around Anthropic’s Claude Fable 5 model showed why that posture has gone mainstream. \nOn June 12, a U.S. export-control order pulled Anthropic's Claude Fable 5 — the most capable model on the market — offline for every customer, with no warning and no timeline. It returned this week wrapped in tighter safeguards, after China's Z.ai released its open-weights GLM-5.2 into the vacuum. New VentureBeat Pulse Research, which surveyed 145 enterprises across these last few weeks, shows that two-thirds had already hedged their model strategy before the order came down: 51% blend closed frontier models with open-weight models deployed on their own infrastructure, and another 16% are moving core workflows off closed APIs entirely. The remaining third was all-in on closed ecosystems when the lights went out.\nThe blackout put a spotlight on vendor dependency, by showing what happens when the model you rely on disappears. But vendor dependency is only the most visible piece of a deeper problem: Most enterprises lack the monitoring to know when an AI system they've put into production stops working correctly. \nJust 1 in 10 enterprises has automated monitoring that would catch an AI model drifting, misbehaving, or failing in production. Roughly a quarter would learn of a production failure only when end users — internal or external — report it, or lack the visibility to detect it at all. And 79% of enterprise organizations have already taken a real financial or operational hit from autonomous agents — most often shadow AI, unauthorized agentic work run by enterprises' own employees on corporate credit cards, outside anyone's oversight.\nWe call this the “Control Gap,” or the distance between how aggressively enterprises are deploying AI and how little of it they can see, own, or govern. June’s blackout turned this into a live stress test.\nAbout this data: VentureBeat Pulse Research surveyed 145 qualified respondents at organizations with 100 or more employees in June 2026, with fielding spanning the Fable 5 blackout that began June 12. The sample is self-selected and directional: 41% work in technology/software, 20% are consultants or advisors, and the respondent base skews senior and technical — CIO/CTO/CISOs (18%), directors of engineering/IT (14%), enterprise architects (12%). More than half of the respondents were from companies with 2,500 employees or more. \nWhile our sample is not huge, what you can trust more than the exact percentages is the pattern: Every question in the survey, independently, points the same way, with deployment running ahead of governance, visibility, and cost control.\nThe full methodology is in the report.\nHow the Fable 5 export order rewrote enterprise AI risk \nFable 5 launched June 9 to immediate acclaim — and sticker shock, at $10 per million input tokens and $50 per million output. Three days later, the U.S. government issued an emergency export-control directive barring access by foreign nationals. Anthropic, with no way to verify nationality in real time, suspended the model for everyone.  \nZ.ai has continued to pick up momentum; on Wednesday it released an open agentic coding environment, called Zcode. OpenAI, meanwhile, previewed its cutting-edge GPT-5.6 line on June 26. \nEnterprises had already spent the spring learning what AI dependence costs in dollars. Uber burned through its entire 2026 AI coding budget in four months after Claude Code adoption hit 84% of its roughly 5,000 engineers, Forbes reported. Microsoft canceled most internal Claude Code licenses in its Windows and Microsoft 365 division, steering engineers to its own tooling, according to The Verge. \nJune added the harder lesson: The model your workflows depend on can vanish overnight, by government order, through no decision of yours or your vendor's. And Chinese companies like DeepSeek were releasing hugely disruptive, powerful models, driving down costs to a fraction of Western ones.\nBrian Craig, senior director of architecture at Liberty IT, the Ireland-based engineering arm of Liberty Mutual, one of the world’s largest insurance companies, saw both lessons collide in real time. Craig is Irish, which meant the export order hit him directly as a foreign-national user. \nOnstage at VentureBeat's AI Impact event in New York on June 24, mid-blackout, I asked him about it. \"Fable arrived, and immediately you saw the sticker price of using it, and you went, 'Ooh, goodness, it better be really good,'\" Craig said. \"But luckily enough, we didn’t get to use it enough to get to fall in love with it.\" Then it was gone.\nThe hedge was already built before the blackout hit\nCraig's company was built to route around exactly this kind of disruption. Liberty IT runs what it calls an AI backbone — roughly 50 components spanning security, governance, observability, and orchestration, each independently replaceable. \n\"You can't lock in right now in one vendor and even one framework,\" Craig told the room. \"You need to keep being able to have the flexibility with that backbone to be able to hook into different models, different vendors, depending not so much on who's the flavor of the day, but on what you can feel confident about for the next six months.\"\nThe survey shows Craig has plenty of company. A 51% majority of enterprises run a hybrid posture — closed frontier models for general reasoning, open-weight models deployed locally for specialized execution — and 16% are making a hard pivot, moving core workflows onto open weights running on their own hybrid or private cloud. The 32% holding a closed commitment are candid about why: The operational overhead of self-hosting still outweighs the savings for them. After June, that calculus has a new variable in it.\nDefection is now the active posture, and the target may surprise you. Asked which primary AI vendor they are most likely to downsize or phase out over the next 12 months, respondents named Microsoft first at 30% — most citing cutbacks to Copilot and Azure AI frameworks in favor of direct model access — ahead of the 28% who plan to trim no vendor at all. OpenAI drew 21%, largely on pricing volatility, with Anthropic at 15% and Google at 6%. No vendor faces an exodus. But loyalty by inertia has ended: Among these enterprises, actively cutting at least one provider is now more common than expanding across all of them.\nJust 1 in 10 enterprises would catch a failing production model automatically\nHow would an enterprise know if one of its production AI models was drifting, behaving unsafely, or failing to complete tasks? We asked directly. Forty percent say they are very confident they would detect it. The question also asked what that confidence rests on, and respondents split into two camps: 30% rely on humans reviewing critical AI outputs, and just 10% — 14 of the 145 organizations — have automated monitoring and alerting running against production systems. The remaining respondents hold weaker positions still: 32% expect to catch most issues \"eventually,\" 19% say they would likely hear about a failure from end users first, and 8% report no systematic visibility into production AI behavior at all.\nThat distinction matters because the two approaches are very different. Human review may seem like the gold standard, but it only reaches the outputs someone designates as important for such a review — and it happens at the pace humans can move at, with the inconsistency any manual process carries. Automated monitoring watches everything the system produces, continuously, and flags anomalies as they happen — for the same reason enterprises stopped depending on manual checks for uptime and security a decade ago. \nAs agentic workloads multiply output volumes far beyond what any review team can read, the manual approach starts to fall behind. The leaders at our June 24 event in New York treat human review as a designed control with automation underneath it. \"Nothing gets deployed into production unless it's a human actually reviewing it and signing off,\" Craig said of Liberty's agentic software factory, where planning, coding, testing, critic, and librarian agents ship features from epic to production. \n\"It always has to be risk-based. That's why we work for an insurance company.\" Todd Johnson, the Morgan Stanley managing director who runs agentic AI across the bank's end-of-day P&L controller process, described the same principle from finance: \"One of our strong principles in our AI governance generally is that there always has to be human accountability, even if there's a degree of automation.\" VentureBeat covered Morgan Stanley's new results around its P&L resolution agent system separately.\nLiberty Mutual and Morgan Stanley chose manual sign-off deliberately, layered on top of observability, identity, and governance infrastructure. Whether the human-review camp has similar infrastructure underneath is more than a single-select question can establish. The 16% who separately named missing observability tooling as their biggest governance barrier are the ones saying outright that it hasn't been built.\nThe top governance barrier is organizational: no single owner for AI across platforms\nWhy does the AI visibility tooling never get built? The respondents' answers suggest it is an organizational shortcoming. The single most-cited barrier to governing AI across platforms is the absence of a single owner or accountable team, at 32%. Vendor opacity follows at 25%, missing tooling at 16% — and a lack of talent lands dead last at 5%. \nThe skills exist, but the organizational mandate does not: Only 38% say a central team actually governs AI behavior across their platforms today, 21% say ownership is unclear or actively contested between teams, and 17% say no role holds formal accountability at all.\nThe AI surface being governed makes the vacuum worse. Fully 85% of enterprises run two or more platforms each claiming to be the \"primary\" AI layer — ERP, ITSM, productivity suite, data platform, each with its own AI, its own controls, and its own assumptions. 36% describe an open contest between four or more. Just 8% have consolidated to one. Asked in a free-text question what one thing they would fix, respondents converged from different directions on the same answer: a single accountable owner, and a control plane that abstracts cost, drift, and model choice away from the end user.\n79% have already paid for an agent control failure — led by shadow AI \nThe cost of the vacuum is showing up on corporate cards. \nAsked to name the most severe financial or operational control failure they have experienced from autonomous agents, 49% of enterprises cite shadow AI — departmental teams running unauthorized agentic pipelines on corporate credit cards, bypassing central financial oversight entirely. Another 25% have been hit by an infinite-loop bill, an uncaught recursive workflow racking up thousands in token costs in a single incident, and 6% by an agent that degraded production databases with unthrottled queries. Only 21% report guarded stability, with hard token throttling and budget caps at the infrastructure layer. Add it up: 79% of these enterprises have already paid for an agent control failure in real money or real downtime.\nFinally, the economics of tokens suggest the pressure will keep rising. Per-token inference costs are falling 70 to 80% a year, and agentic workloads consume 100 to 500 times the tokens of the LLM tools they replaced. \nBrian Gracely, senior director of portfolio strategy at Red Hat, told our New York audience the answer starts with right-sizing: \"If I'm simply trying to resolve an insurance claim, I don't need to know about the history of Western civilization in my model. I don't need to know soccer scores.\" \nEnterprises are pairing smaller, specialized models with semantic routing, he said, so the platform decides which requests genuinely need frontier-scale reasoning — and which are burning premium tokens on commodity work. (One adjacent data point from the survey underlines the appetite for pragmatism: 73% of enterprises report little or nothing to show for their custom fine-tuning investments of the past 18 months — a reckoning we'll examine in its own report.)\nThe bottom line: Replaceability is spreading faster than ownership\nThe survey describes enterprises moving fast on AI with weak controls underneath. 58% are adding more AI initiatives than they retire. 85% run multiple platforms that each claim to be the primary AI layer. Three times as many enterprises rely on human review to catch a failing production model as have automated monitoring in place. And 79% have already paid for an agent control failure — most often unauthorized agent spending on corporate cards, outside IT's oversight.\nOn one problem, enterprises have clearly adapted: model dependency. Two-thirds hedge their model strategy, either running open-weight models alongside closed ones (51%) or moving core workflows off closed APIs entirely (16%). The Fable 5 shutdown showed the value of that position — the hedged companies could route around a model that a government order made unavailable overnight.\nThe remaining problems are internal, and no purchase fixes them: 32% name the lack of a single accountable owner as their top governance barrier, and 17% say no role holds formal accountability for AI at all. Assigning an owner costs nothing and requires no vendor. It still hasn't happened at most of these companies.\nOur coming Q3 wave of research will measure whether June changed this — whether enterprises assigned owners and installed automated monitoring, or just added a second model and moved on.\nGet the full Control Gap report here.\nThe themes in this report — agent orchestration, governance, and cost control — are the agenda at VB Transform, VentureBeat's flagship event, July 14-15 at Hotel Nia in Menlo Park, with technical leaders from Visa, GM, Waymo, Intuit, Instacart, LangChain and others. Details and registration here.\n\nDisclosure: VentureBeat's June 24 AI Impact event in New York was sponsored by Red Hat and Intel. Sponsors have no input into VentureBeat Pulse Research survey design, findings, or editorial coverage.",
+      "published": "2026-07-03T00:33:00.000Z",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "priority": 1,
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3a2sR1fmLQHZfmz2Vu7t5G/909bdb83e335d09d7e474257d6781d81/control-gap-lead-image.png?w=300&q=30",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "anthropic",
+        "claude"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "YouTuber Jon Prosser Responds to Apple's Lawsuit Over iOS 26 Leaks",
+      "link": "https://www.macrumors.com/2026/07/02/jon-prosser-responds-to-apple-leaks-lawsuit/",
+      "description": "Nearly a year ago, Apple filed a lawsuit against YouTuber Jon Prosser and Michael Ramacciotti over alleged theft of the company's trade secrets. Apple alleged that the duo coordinated to break into former Apple software engineer Ethan Lipnik's development iPhone, in order to access and profit off details about \"iOS 19,\" which ended up being called iOS 26.\r\n\r\n\r\nProsser is the host of the popular YouTube channel Front Page Tech, and Ramacciotti was his acquaintance. Last year, Prosser shared YouTube videos containing leaked \"iOS 19\" details, months before Apple unveiled the update. Later, an anonymous tipster informed Apple via email that the information was sourced from Lipnik's iPhone, leading the company to investigate. Apple ultimately fired Lipnik and sued Prosser and Ramacciotti.\r\n\r\nresponded to the lawsuit today, according to a court document obtained by MacRumors. Prosser admitted that he participated in a FaceTime video call with Ramacciotti, wherein Prosser was shown certain \"iOS 19\" features and apps running on the development iPhone. However, he denied that any of the information he viewed contained trade secrets, and he denied knowing that the development iPhone belonged to Lipnik.\r\n\r\nProsser denied that he planned or participated in any conspiracy or coordinated scheme with Ramacciotti for the purpose of injuring Apple.\r\n\r\nProsser's attorney said that Ramacciotti's act of displaying the iOS 19 features on the FaceTime call was not induced by Prosser and, as such, Ramacciotti is \"completely responsible\" for the disclosure of Apple's alleged trade secrets, if any.\r\n\r\nRamacciotti is responsible for all harm caused to Prosser, according to Prosser's response.\r\n\r\nProsser denied that he is in possession of any further confidential Apple information in this case that has not already been disclosed to Apple.\r\n\r\nRelated Roundups: iOS 26, iPadOS 26\nTags: Jon Prosser, Apple Lawsuits\nRelated Forum: iOS 26\nThis article, \"YouTuber Jon Prosser Responds to Apple's Lawsuit Over iOS 26 Leaks\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+      "published": "2026-07-03T01:42:05.000Z",
+      "source": "MacRumors",
+      "sourceKey": "macrumors",
+      "priority": 2,
+      "image": "https://images.macrumors.com/article-new/2025/10/Jon-Prosser-Rainbow.jpg",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "apple",
+        "uber",
+        "lawsuit"
+      ],
+      "category": "chips_cloud"
+    },
+    {
+      "title": "OpenAI proposes 5% stake to Trump administration to ease Washington pressure: Report",
+      "link": "https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html",
+      "description": "Trump said in June that the U.S. taking an ownership stake in AI giants would be \"a beautiful thing\" and make American public \"partners in this revolution.\"",
+      "published": "2026-07-03T03:44:49.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "openai"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "AI Productivity Hopes Show ‘Exuberance,’ Allianz’s Subran Says",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-03/ai-productivity-hopes-show-exuberance-allianz-s-subran-says",
+      "description": "Artificial intelligence is likely to have a less even impact on economies than the market hype would suggest, according to Allianz Chief Economist Ludovic Subran.",
+      "published": "2026-07-03T08:43:54.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "intel",
+        "uber",
+        "artificial intelligence"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": " Jensen Huang’s iconic signed leather jacket expected to fetch up to $60,000 in charity auction — Sotheby’s says item was worn at a Foxconn Tech Day in 2023 and the signature has been professionally authenticated ",
+      "link": "https://www.tomshardware.com/peripherals/wearable-tech/jensen-huangs-iconic-signed-leather-jacket-expected-to-fetch-up-to-usd60-000-in-charity-auction-sothebys-says-item-was-worn-at-a-foxconn-tech-day-in-2023-and-the-signature-has-been-professionally-authenticated",
+      "description": "One of Jensen Huang’s used leather jackets is up for auction, with an estimate of $40,000 to $60,000. The money will go to charity.",
+      "published": "2026-07-03T09:12:50.000Z",
+      "source": "Tom's Hardware",
+      "sourceKey": "tomshardware",
+      "priority": 2,
+      "image": "https://cdn.mos.cms.futurecdn.net/tzjk3GBpz8eZqUq9ggzGsj-1280-80.jpg",
+      "relevanceScore": 7,
+      "matchedKeywords": [
+        "foxconn",
+        "jensen huang"
+      ],
+      "category": null
+    },
+    {
+      "title": "India’s Space Industry Hunts for Its SpaceX Moment",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-03/india-s-space-industry-hunts-for-its-spacex-moment",
+      "description": "India’s attempt to fire up its fledgling private space program is showing early signs of success.",
+      "published": "2026-07-03T01:00:00.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 5,
+      "matchedKeywords": [
+        "spacex"
+      ],
+      "category": "space"
+    },
+    {
+      "title": "Prosser denies conspiring to steal Apple secrets in lawsuit response, blames Ramacciotti",
+      "link": "https://9to5mac.com/2026/07/02/prosser-denies-conspiring-to-steal-apple-secrets-in-lawsuit-response-blames-ramacciotti/",
+      "description": "After getting a second chance to formally respond to Apple’s lawsuit, Jon Prosser filed his answer today, disputing the company’s account of how he obtained and published details about the Liquid Glass revamp. Here are the details.",
+      "published": "2026-07-03T02:54:16.000Z",
+      "source": "9to5Mac",
+      "sourceKey": "9to5mac",
+      "priority": 2,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/joe-prosser.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "relevanceScore": 5,
+      "matchedKeywords": [
+        "apple",
+        "lawsuit"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Apple Responds to Lawsuit Filed by Three YouTube Channels",
+      "link": "https://www.macrumors.com/2026/07/02/apple-responds-to-youtuber-ai-lawsuit/",
+      "description": "Earlier this year, three YouTube channels sued Apple, alleging that the company violated the U.S. Digital Millennium Copyright Act (DMCA) by unlawfully accessing and scraping millions of copyrighted YouTube videos to train its AI models.\r\n\r\n\r\nIn a class action lawsuit filed with the U.S. District Court for the Northern District of California in April, the owners of the YouTube channels h3h3Productions, MrShortGame Golf, and Golfholics allege that Apple \"deliberately circumvented\" YouTube's protections against video scraping and \"profited substantially\" by doing so.\r\n\r\nApple's actions were \"not only unlawful, but an unconscionable attack on the community of content creators whose content is used to fuel the multi-trillion-dollar generative AI industry without any compensation,\" the complaint alleged.\r\n\r\nh3h3Productions is a well-known YouTube channel created by Ethan Klein and Hila Klein, and they later created the H3 Podcast. Their channels have millions of followers, while MrShortGame Golf and Golfholics have hundreds of thousands of followers. The channels filed equivalent lawsuits against Meta, Nvidia, ByteDance, and Snap.\r\n\r\nresponded to the lawsuit this week, according to a court document viewed by MacRumors. In short, Apple said the plaintiffs made the videos publicly available on YouTube and that it was permitted to access the videos under the DMCA. Apple said YouTube's Terms of Service likewise permitted the company to access the videos.\r\n\r\n\"Plaintiffs allege that they posted audiovisual works to YouTube, and that any member of the public can see them there,\" reads Apple's response. \"No password. No payment. No lock. No key. Allegedly, YouTube employs technological measures to prevent unauthorized downloading. But because YouTube provides public access to the videos, the alleged technological measures do not control access to the works, as § 1201(a) requires.\" \r\n\r\nTags: Apple Lawsuits, YouTube\nThis article, \"Apple Responds to Lawsuit Filed by Three YouTube Channels\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+      "published": "2026-07-03T02:47:37.000Z",
+      "source": "MacRumors",
+      "sourceKey": "macrumors",
+      "priority": 2,
+      "image": "https://images.macrumors.com/article-new/2024/12/General-YouTube-Feature-Redux.jpg",
+      "relevanceScore": 5,
+      "matchedKeywords": [
+        "apple",
+        "lawsuit"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Tesla's Model Y L finally comes to the US with six seats and a $62,000 price tag",
+      "link": "https://www.engadget.com/2207503/teslas-model-y-long-wheelbase-comes-to-the-us/",
+      "description": "Tesla has started taking orders for the Model Y Long Wheelbase in the US and Puerto Rico.",
+      "published": "2026-07-03T07:00:33.000Z",
+      "source": "Engadget",
+      "sourceKey": "engadget",
+      "priority": 2,
+      "image": "https://www.engadget.com/img/gallery/teslas-model-y-l-finally-comes-to-the-us-with-six-seats-and-a-62000-price-tag/l-intro-1783061915.jpg",
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "tesla"
+      ],
+      "category": "ev_autonomous"
+    },
+    {
+      "title": "The AI Trade Is Losing One of Its Key Signals",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-03/the-ai-trade-is-losing-one-of-its-key-signals-taking-stock",
+      "description": "At a time when markets are growing uneasy over whether the enormous sums being poured into artificial intelligence will ever pay off, the prices the sector commands for each unit of usage are drifting lower.",
+      "published": "2026-07-03T06:13:43.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "intel",
+        "artificial intelligence"
+      ],
+      "category": "ai"
+    }
+  ],
+  "byCategory": {
+    "ai": [
+      {
+        "title": "Enterprises lost Claude Fable 5 for a few weeks. New data shows two-thirds had already built their hedge",
+        "link": "https://venturebeat.com/orchestration/enterprises-lost-claude-fable-5-for-a-few-weeks-new-data-shows-two-thirds-had-already-built-their-hedge",
+        "description": "Two-thirds of enterprises have hedged their AI model strategy, and the past few weeks of controversy around Anthropic’s Claude Fable 5 model showed why that posture has gone mainstream. \nOn June 12, a U.S. export-control order pulled Anthropic's Claude Fable 5 — the most capable model on the market — offline for every customer, with no warning and no timeline. It returned this week wrapped in tighter safeguards, after China's Z.ai released its open-weights GLM-5.2 into the vacuum. New VentureBeat Pulse Research, which surveyed 145 enterprises across these last few weeks, shows that two-thirds had already hedged their model strategy before the order came down: 51% blend closed frontier models with open-weight models deployed on their own infrastructure, and another 16% are moving core workflows off closed APIs entirely. The remaining third was all-in on closed ecosystems when the lights went out.\nThe blackout put a spotlight on vendor dependency, by showing what happens when the model you rely on disappears. But vendor dependency is only the most visible piece of a deeper problem: Most enterprises lack the monitoring to know when an AI system they've put into production stops working correctly. \nJust 1 in 10 enterprises has automated monitoring that would catch an AI model drifting, misbehaving, or failing in production. Roughly a quarter would learn of a production failure only when end users — internal or external — report it, or lack the visibility to detect it at all. And 79% of enterprise organizations have already taken a real financial or operational hit from autonomous agents — most often shadow AI, unauthorized agentic work run by enterprises' own employees on corporate credit cards, outside anyone's oversight.\nWe call this the “Control Gap,” or the distance between how aggressively enterprises are deploying AI and how little of it they can see, own, or govern. June’s blackout turned this into a live stress test.\nAbout this data: VentureBeat Pulse Research surveyed 145 qualified respondents at organizations with 100 or more employees in June 2026, with fielding spanning the Fable 5 blackout that began June 12. The sample is self-selected and directional: 41% work in technology/software, 20% are consultants or advisors, and the respondent base skews senior and technical — CIO/CTO/CISOs (18%), directors of engineering/IT (14%), enterprise architects (12%). More than half of the respondents were from companies with 2,500 employees or more. \nWhile our sample is not huge, what you can trust more than the exact percentages is the pattern: Every question in the survey, independently, points the same way, with deployment running ahead of governance, visibility, and cost control.\nThe full methodology is in the report.\nHow the Fable 5 export order rewrote enterprise AI risk \nFable 5 launched June 9 to immediate acclaim — and sticker shock, at $10 per million input tokens and $50 per million output. Three days later, the U.S. government issued an emergency export-control directive barring access by foreign nationals. Anthropic, with no way to verify nationality in real time, suspended the model for everyone.  \nZ.ai has continued to pick up momentum; on Wednesday it released an open agentic coding environment, called Zcode. OpenAI, meanwhile, previewed its cutting-edge GPT-5.6 line on June 26. \nEnterprises had already spent the spring learning what AI dependence costs in dollars. Uber burned through its entire 2026 AI coding budget in four months after Claude Code adoption hit 84% of its roughly 5,000 engineers, Forbes reported. Microsoft canceled most internal Claude Code licenses in its Windows and Microsoft 365 division, steering engineers to its own tooling, according to The Verge. \nJune added the harder lesson: The model your workflows depend on can vanish overnight, by government order, through no decision of yours or your vendor's. And Chinese companies like DeepSeek were releasing hugely disruptive, powerful models, driving down costs to a fraction of Western ones.\nBrian Craig, senior director of architecture at Liberty IT, the Ireland-based engineering arm of Liberty Mutual, one of the world’s largest insurance companies, saw both lessons collide in real time. Craig is Irish, which meant the export order hit him directly as a foreign-national user. \nOnstage at VentureBeat's AI Impact event in New York on June 24, mid-blackout, I asked him about it. \"Fable arrived, and immediately you saw the sticker price of using it, and you went, 'Ooh, goodness, it better be really good,'\" Craig said. \"But luckily enough, we didn’t get to use it enough to get to fall in love with it.\" Then it was gone.\nThe hedge was already built before the blackout hit\nCraig's company was built to route around exactly this kind of disruption. Liberty IT runs what it calls an AI backbone — roughly 50 components spanning security, governance, observability, and orchestration, each independently replaceable. \n\"You can't lock in right now in one vendor and even one framework,\" Craig told the room. \"You need to keep being able to have the flexibility with that backbone to be able to hook into different models, different vendors, depending not so much on who's the flavor of the day, but on what you can feel confident about for the next six months.\"\nThe survey shows Craig has plenty of company. A 51% majority of enterprises run a hybrid posture — closed frontier models for general reasoning, open-weight models deployed locally for specialized execution — and 16% are making a hard pivot, moving core workflows onto open weights running on their own hybrid or private cloud. The 32% holding a closed commitment are candid about why: The operational overhead of self-hosting still outweighs the savings for them. After June, that calculus has a new variable in it.\nDefection is now the active posture, and the target may surprise you. Asked which primary AI vendor they are most likely to downsize or phase out over the next 12 months, respondents named Microsoft first at 30% — most citing cutbacks to Copilot and Azure AI frameworks in favor of direct model access — ahead of the 28% who plan to trim no vendor at all. OpenAI drew 21%, largely on pricing volatility, with Anthropic at 15% and Google at 6%. No vendor faces an exodus. But loyalty by inertia has ended: Among these enterprises, actively cutting at least one provider is now more common than expanding across all of them.\nJust 1 in 10 enterprises would catch a failing production model automatically\nHow would an enterprise know if one of its production AI models was drifting, behaving unsafely, or failing to complete tasks? We asked directly. Forty percent say they are very confident they would detect it. The question also asked what that confidence rests on, and respondents split into two camps: 30% rely on humans reviewing critical AI outputs, and just 10% — 14 of the 145 organizations — have automated monitoring and alerting running against production systems. The remaining respondents hold weaker positions still: 32% expect to catch most issues \"eventually,\" 19% say they would likely hear about a failure from end users first, and 8% report no systematic visibility into production AI behavior at all.\nThat distinction matters because the two approaches are very different. Human review may seem like the gold standard, but it only reaches the outputs someone designates as important for such a review — and it happens at the pace humans can move at, with the inconsistency any manual process carries. Automated monitoring watches everything the system produces, continuously, and flags anomalies as they happen — for the same reason enterprises stopped depending on manual checks for uptime and security a decade ago. \nAs agentic workloads multiply output volumes far beyond what any review team can read, the manual approach starts to fall behind. The leaders at our June 24 event in New York treat human review as a designed control with automation underneath it. \"Nothing gets deployed into production unless it's a human actually reviewing it and signing off,\" Craig said of Liberty's agentic software factory, where planning, coding, testing, critic, and librarian agents ship features from epic to production. \n\"It always has to be risk-based. That's why we work for an insurance company.\" Todd Johnson, the Morgan Stanley managing director who runs agentic AI across the bank's end-of-day P&L controller process, described the same principle from finance: \"One of our strong principles in our AI governance generally is that there always has to be human accountability, even if there's a degree of automation.\" VentureBeat covered Morgan Stanley's new results around its P&L resolution agent system separately.\nLiberty Mutual and Morgan Stanley chose manual sign-off deliberately, layered on top of observability, identity, and governance infrastructure. Whether the human-review camp has similar infrastructure underneath is more than a single-select question can establish. The 16% who separately named missing observability tooling as their biggest governance barrier are the ones saying outright that it hasn't been built.\nThe top governance barrier is organizational: no single owner for AI across platforms\nWhy does the AI visibility tooling never get built? The respondents' answers suggest it is an organizational shortcoming. The single most-cited barrier to governing AI across platforms is the absence of a single owner or accountable team, at 32%. Vendor opacity follows at 25%, missing tooling at 16% — and a lack of talent lands dead last at 5%. \nThe skills exist, but the organizational mandate does not: Only 38% say a central team actually governs AI behavior across their platforms today, 21% say ownership is unclear or actively contested between teams, and 17% say no role holds formal accountability at all.\nThe AI surface being governed makes the vacuum worse. Fully 85% of enterprises run two or more platforms each claiming to be the \"primary\" AI layer — ERP, ITSM, productivity suite, data platform, each with its own AI, its own controls, and its own assumptions. 36% describe an open contest between four or more. Just 8% have consolidated to one. Asked in a free-text question what one thing they would fix, respondents converged from different directions on the same answer: a single accountable owner, and a control plane that abstracts cost, drift, and model choice away from the end user.\n79% have already paid for an agent control failure — led by shadow AI \nThe cost of the vacuum is showing up on corporate cards. \nAsked to name the most severe financial or operational control failure they have experienced from autonomous agents, 49% of enterprises cite shadow AI — departmental teams running unauthorized agentic pipelines on corporate credit cards, bypassing central financial oversight entirely. Another 25% have been hit by an infinite-loop bill, an uncaught recursive workflow racking up thousands in token costs in a single incident, and 6% by an agent that degraded production databases with unthrottled queries. Only 21% report guarded stability, with hard token throttling and budget caps at the infrastructure layer. Add it up: 79% of these enterprises have already paid for an agent control failure in real money or real downtime.\nFinally, the economics of tokens suggest the pressure will keep rising. Per-token inference costs are falling 70 to 80% a year, and agentic workloads consume 100 to 500 times the tokens of the LLM tools they replaced. \nBrian Gracely, senior director of portfolio strategy at Red Hat, told our New York audience the answer starts with right-sizing: \"If I'm simply trying to resolve an insurance claim, I don't need to know about the history of Western civilization in my model. I don't need to know soccer scores.\" \nEnterprises are pairing smaller, specialized models with semantic routing, he said, so the platform decides which requests genuinely need frontier-scale reasoning — and which are burning premium tokens on commodity work. (One adjacent data point from the survey underlines the appetite for pragmatism: 73% of enterprises report little or nothing to show for their custom fine-tuning investments of the past 18 months — a reckoning we'll examine in its own report.)\nThe bottom line: Replaceability is spreading faster than ownership\nThe survey describes enterprises moving fast on AI with weak controls underneath. 58% are adding more AI initiatives than they retire. 85% run multiple platforms that each claim to be the primary AI layer. Three times as many enterprises rely on human review to catch a failing production model as have automated monitoring in place. And 79% have already paid for an agent control failure — most often unauthorized agent spending on corporate cards, outside IT's oversight.\nOn one problem, enterprises have clearly adapted: model dependency. Two-thirds hedge their model strategy, either running open-weight models alongside closed ones (51%) or moving core workflows off closed APIs entirely (16%). The Fable 5 shutdown showed the value of that position — the hedged companies could route around a model that a government order made unavailable overnight.\nThe remaining problems are internal, and no purchase fixes them: 32% name the lack of a single accountable owner as their top governance barrier, and 17% say no role holds formal accountability for AI at all. Assigning an owner costs nothing and requires no vendor. It still hasn't happened at most of these companies.\nOur coming Q3 wave of research will measure whether June changed this — whether enterprises assigned owners and installed automated monitoring, or just added a second model and moved on.\nGet the full Control Gap report here.\nThe themes in this report — agent orchestration, governance, and cost control — are the agenda at VB Transform, VentureBeat's flagship event, July 14-15 at Hotel Nia in Menlo Park, with technical leaders from Visa, GM, Waymo, Intuit, Instacart, LangChain and others. Details and registration here.\n\nDisclosure: VentureBeat's June 24 AI Impact event in New York was sponsored by Red Hat and Intel. Sponsors have no input into VentureBeat Pulse Research survey design, findings, or editorial coverage.",
+        "published": "2026-07-03T00:33:00.000Z",
+        "source": "VentureBeat",
+        "sourceKey": "venturebeat",
+        "priority": 1,
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3a2sR1fmLQHZfmz2Vu7t5G/909bdb83e335d09d7e474257d6781d81/control-gap-lead-image.png?w=300&q=30",
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "anthropic",
+          "claude"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "OpenAI proposes 5% stake to Trump administration to ease Washington pressure: Report",
+        "link": "https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html",
+        "description": "Trump said in June that the U.S. taking an ownership stake in AI giants would be \"a beautiful thing\" and make American public \"partners in this revolution.\"",
+        "published": "2026-07-03T03:44:49.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "AI Productivity Hopes Show ‘Exuberance,’ Allianz’s Subran Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-03/ai-productivity-hopes-show-exuberance-allianz-s-subran-says",
+        "description": "Artificial intelligence is likely to have a less even impact on economies than the market hype would suggest, according to Allianz Chief Economist Ludovic Subran.",
+        "published": "2026-07-03T08:43:54.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "intel",
+          "uber",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Prosser denies conspiring to steal Apple secrets in lawsuit response, blames Ramacciotti",
+        "link": "https://9to5mac.com/2026/07/02/prosser-denies-conspiring-to-steal-apple-secrets-in-lawsuit-response-blames-ramacciotti/",
+        "description": "After getting a second chance to formally respond to Apple’s lawsuit, Jon Prosser filed his answer today, disputing the company’s account of how he obtained and published details about the Liquid Glass revamp. Here are the details.",
+        "published": "2026-07-03T02:54:16.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/joe-prosser.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "apple",
+          "lawsuit"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple Responds to Lawsuit Filed by Three YouTube Channels",
+        "link": "https://www.macrumors.com/2026/07/02/apple-responds-to-youtuber-ai-lawsuit/",
+        "description": "Earlier this year, three YouTube channels sued Apple, alleging that the company violated the U.S. Digital Millennium Copyright Act (DMCA) by unlawfully accessing and scraping millions of copyrighted YouTube videos to train its AI models.\r\n\r\n\r\nIn a class action lawsuit filed with the U.S. District Court for the Northern District of California in April, the owners of the YouTube channels h3h3Productions, MrShortGame Golf, and Golfholics allege that Apple \"deliberately circumvented\" YouTube's protections against video scraping and \"profited substantially\" by doing so.\r\n\r\nApple's actions were \"not only unlawful, but an unconscionable attack on the community of content creators whose content is used to fuel the multi-trillion-dollar generative AI industry without any compensation,\" the complaint alleged.\r\n\r\nh3h3Productions is a well-known YouTube channel created by Ethan Klein and Hila Klein, and they later created the H3 Podcast. Their channels have millions of followers, while MrShortGame Golf and Golfholics have hundreds of thousands of followers. The channels filed equivalent lawsuits against Meta, Nvidia, ByteDance, and Snap.\r\n\r\nresponded to the lawsuit this week, according to a court document viewed by MacRumors. In short, Apple said the plaintiffs made the videos publicly available on YouTube and that it was permitted to access the videos under the DMCA. Apple said YouTube's Terms of Service likewise permitted the company to access the videos.\r\n\r\n\"Plaintiffs allege that they posted audiovisual works to YouTube, and that any member of the public can see them there,\" reads Apple's response. \"No password. No payment. No lock. No key. Allegedly, YouTube employs technological measures to prevent unauthorized downloading. But because YouTube provides public access to the videos, the alleged technological measures do not control access to the works, as § 1201(a) requires.\" \r\n\r\nTags: Apple Lawsuits, YouTube\nThis article, \"Apple Responds to Lawsuit Filed by Three YouTube Channels\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-07-03T02:47:37.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2024/12/General-YouTube-Feature-Redux.jpg",
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "apple",
+          "lawsuit"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "The AI Trade Is Losing One of Its Key Signals",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-03/the-ai-trade-is-losing-one-of-its-key-signals-taking-stock",
+        "description": "At a time when markets are growing uneasy over whether the enormous sums being poured into artificial intelligence will ever pay off, the prices the sector commands for each unit of usage are drifting lower.",
+        "published": "2026-07-03T06:13:43.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "intel",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Silo season three is streaming today on Apple TV",
+        "link": "https://9to5mac.com/2026/07/02/apple-tv-silo-season-three/",
+        "description": "The hit sci-fi series Silo is back today for a third season, streaming exclusively on Apple TV. Based on the book series by Hugh Howey, the acclaimed series sees the human population living in a vast underground bunker, but no one really knows how it came to be. \nIn the third season, a split timeline narrative begins to reveal some of the show’s biggest mysteries. In the present timeline, Juliette (star Rebecca Ferguson) struggles with amnesia, while in the past timeline, flashbacks show who, how and why the silos were built in the first place.",
+        "published": "2026-07-03T01:00:00.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-tv-silo.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "The Onion’s ‘Infowars’ Parody Is Here. Alex Jones Is Going to Hate It",
+        "link": "https://www.wired.com/story/the-onions-infowars-parody-is-here-alex-jones-is-going-to-hate-it/",
+        "description": "The satirical site is fighting to officially take over Infowars. In the meantime, CEO Ben Collins says the new show will mock “how fucking stupid” conspiratorial brain rot has become.",
+        "published": "2026-07-03T00:00:00.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "ceo"
+        ],
+        "category": "ai"
+      }
+    ],
+    "chips_cloud": [
+      {
+        "title": "YouTuber Jon Prosser Responds to Apple's Lawsuit Over iOS 26 Leaks",
+        "link": "https://www.macrumors.com/2026/07/02/jon-prosser-responds-to-apple-leaks-lawsuit/",
+        "description": "Nearly a year ago, Apple filed a lawsuit against YouTuber Jon Prosser and Michael Ramacciotti over alleged theft of the company's trade secrets. Apple alleged that the duo coordinated to break into former Apple software engineer Ethan Lipnik's development iPhone, in order to access and profit off details about \"iOS 19,\" which ended up being called iOS 26.\r\n\r\n\r\nProsser is the host of the popular YouTube channel Front Page Tech, and Ramacciotti was his acquaintance. Last year, Prosser shared YouTube videos containing leaked \"iOS 19\" details, months before Apple unveiled the update. Later, an anonymous tipster informed Apple via email that the information was sourced from Lipnik's iPhone, leading the company to investigate. Apple ultimately fired Lipnik and sued Prosser and Ramacciotti.\r\n\r\nresponded to the lawsuit today, according to a court document obtained by MacRumors. Prosser admitted that he participated in a FaceTime video call with Ramacciotti, wherein Prosser was shown certain \"iOS 19\" features and apps running on the development iPhone. However, he denied that any of the information he viewed contained trade secrets, and he denied knowing that the development iPhone belonged to Lipnik.\r\n\r\nProsser denied that he planned or participated in any conspiracy or coordinated scheme with Ramacciotti for the purpose of injuring Apple.\r\n\r\nProsser's attorney said that Ramacciotti's act of displaying the iOS 19 features on the FaceTime call was not induced by Prosser and, as such, Ramacciotti is \"completely responsible\" for the disclosure of Apple's alleged trade secrets, if any.\r\n\r\nRamacciotti is responsible for all harm caused to Prosser, according to Prosser's response.\r\n\r\nProsser denied that he is in possession of any further confidential Apple information in this case that has not already been disclosed to Apple.\r\n\r\nRelated Roundups: iOS 26, iPadOS 26\nTags: Jon Prosser, Apple Lawsuits\nRelated Forum: iOS 26\nThis article, \"YouTuber Jon Prosser Responds to Apple's Lawsuit Over iOS 26 Leaks\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-07-03T01:42:05.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2025/10/Jon-Prosser-Rainbow.jpg",
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "apple",
+          "uber",
+          "lawsuit"
+        ],
+        "category": "chips_cloud"
+      }
+    ],
+    "space": [
+      {
+        "title": "India’s Space Industry Hunts for Its SpaceX Moment",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-03/india-s-space-industry-hunts-for-its-spacex-moment",
+        "description": "India’s attempt to fire up its fledgling private space program is showing early signs of success.",
+        "published": "2026-07-03T01:00:00.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "spacex"
+        ],
+        "category": "space"
+      }
+    ],
+    "ev_autonomous": [
+      {
+        "title": "Tesla's Model Y L finally comes to the US with six seats and a $62,000 price tag",
+        "link": "https://www.engadget.com/2207503/teslas-model-y-long-wheelbase-comes-to-the-us/",
+        "description": "Tesla has started taking orders for the Model Y Long Wheelbase in the US and Puerto Rico.",
+        "published": "2026-07-03T07:00:33.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/teslas-model-y-l-finally-comes-to-the-us-with-six-seats-and-a-62000-price-tag/l-intro-1783061915.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "tesla"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Tesla caps employee AI spending at $200/week except for Grok",
+        "link": "https://electrek.co/2026/07/02/tesla-caps-employee-ai-spending-200-week/",
+        "description": "Tesla told staff it will impose a $200-per-week limit on employee AI spending starting July 6, according to an internal memo reported by The Information (paywall).\nThe cap lands just months after Tesla pushed employees to use AI more aggressively, a sign that even companies betting their future on the technology are struggling to control its costs.",
+        "published": "2026-07-03T00:34:03.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2016/02/tesla-xray-2-e1455320423724.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "tesla"
+        ],
+        "category": "ev_autonomous"
+      }
+    ]
+  },
+  "totalArticles": 13
+}
