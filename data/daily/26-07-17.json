@@ -1,0 +1,571 @@
+{
+  "type": "daily",
+  "id": "26-07-17",
+  "title": "Friday, Jul 17",
+  "dateRange": "July 17, 2026",
+  "date": "2026-07-17",
+  "generatedAt": "2026-07-17T08:32:45.085Z",
+  "highlights": [
+    {
+      "title": "Apple's Chipmaker Pledges $100 Billion More for US Plants",
+      "link": "https://www.macrumors.com/2026/07/16/tsmc-pledges-100-billion-for-us-plants/",
+      "description": "Apple chip supplier TSMC has announced a $100 billion increase to its U.S. chip investment, bringing its total commitment to $265 billion.\r\n\r\n\r\nThe increase was confirmed by the White House and the Department of Commerce alongside TSMC's second quarter earnings call. Commerce Secretary Howard Lutnick said the investment would \"create tens of thousands of American jobs,\" while TSMC chairman and CEO C.C. Wei told CNBC the new fabrication plants would support \"our leading U.S. customers,\" a group that reportedly includes Apple, alongside Nvidia and Broadcom.\r\n\r\nTim Cook called Apple \"TSMC Arizona's first and largest customer\" when the company's third Arizona fab broke ground last year, and the company's first Arizona plant already produced some of Apple's A16 chips.\r\n\r\nregulatory filing.\r\n\r\nBloomberg the eventual mix could be 10 fabrication plants and two packaging facilities, focused on 2 nanometer chips, TSMC's most advanced process commercially available today. \r\n\r\nseparately exploring Intel and Samsung as backup chipmakers to reduce its reliance on TSMC amid the ongoing global chip crunch. Apple is reported to have secured an exemption from a proposed 100% semiconductor tariff partly by pledging its own U.S. manufacturing investment and agreeing to buy chips from Intel.\nTag: TSMC\nThis article, \"Apple's Chipmaker Pledges $100 Billion More for US Plants\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+      "published": "2026-07-17T05:31:49.000Z",
+      "source": "MacRumors",
+      "sourceKey": "macrumors",
+      "priority": 2,
+      "image": "https://images.macrumors.com/article-new/2024/04/apple-silicon-feature-joeblue.jpg",
+      "relevanceScore": 11,
+      "matchedKeywords": [
+        "apple",
+        "tsmc",
+        "ceo",
+        "chip",
+        "billion"
+      ],
+      "category": "chips_cloud"
+    },
+    {
+      "title": "SpaceX aborts Starship test flight, sending stock lower",
+      "link": "https://www.cnbc.com/2026/07/16/spacex-spcx-stock-starship-test-flight.html",
+      "description": "Elon Musk said it would make another attempt \"hopefully in a few days.\"  SpaceX completed the maiden test flight of its Starship V3 rocket in May.",
+      "published": "2026-07-17T00:16:37.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "spacex",
+        "elon musk",
+        "starship"
+      ],
+      "category": "space"
+    },
+    {
+      "title": "EU Orders Google to Give Rival AI Apps the Same Android Access as Gemini",
+      "link": "https://www.macrumors.com/2026/07/16/eu-google-ai-apps-android-access/",
+      "description": "The European Commission today formally ordered Google to give third-party AI services the same access to Android device features that Gemini has. Europe's Digital Markets Act requires software makers like Apple and Google to grant equal interoperability to third-party apps and services, and the EC is enforcing it.\r\n\r\n\r\nDMA interoperability rules are why Siri AI won't be available in the European Union when iOS 27 launches. While Apple tried to work out an agreement with regulators before launching ‌Siri‌ AI in Europe, Google did the opposite. Instead of asking, Google just launched Gemini integration on Android and opted to deal with the consequences afterward. Google's strategy gives Android users in Europe full Gemini access while it works on compliance with the DMA.\r\n\r\nThe European Commission is giving Google a full year to implement changes that will meet the Digital Markets Act requirements, and that's before any legal appeals Google might make.\r\n\r\naccess 11 features, such as:\r\n\r\n \t\nAI services must be accessible through voice commands like \"Hey Google\" or through access points like the home button or another activation button.\n\r\n \t\nAI services must be able to complete actions in and across apps, including completing long-running tasks in the background.\n\r\n \t\nGoogle must allow AI services to access context from apps and device sensors so AI can offer proactive services and anticipate user needs.\n\r\n \t\nGoogle has to give AI apps sufficient hardware and software resources, including access to its on-device AI models to execute tasks.\n\r\n\r\nGoogle is required to implement the majority of the European Commission's changes by August 1, 2027.\r\n\r\nShortly after announcing ‌Siri‌ AI, Apple said EU regulators would not accept any of its proposed solutions to introduce the feature, and refused to engage on options that \"preserve privacy and security.\" Apple wanted to use a Trusted System Agent that would allow third-party virtual assistants to safely access the same device capabilities as ‌Siri‌ AI.\r\n\r\nApple said the Digital Markets Act would require it to give any AI system \"nearly unlimited access to a user's device,\" along with the ability to act on that information autonomously.\r\n\r\nThe European Commission claims Apple was \"unable to develop interoperability solutions that meet essential EU privacy and security standards\" and instead asked for a blanket exemption from the interoperability requirements, which the EC did not grant.\r\n\r\nresponse to the EC's mandate, Google said the requirements \"risk undermining vital privacy and security guardrails for millions of Europeans.\" Google hasn't given information on its next steps, but it says it plans to \"continue advocating for a balanced approach that protects privacy and security while supporting market goals.\"\nTags: Android, European Commission, European Union, Google\nThis article, \"EU Orders Google to Give Rival AI Apps the Same Android Access as Gemini\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+      "published": "2026-07-17T05:31:49.000Z",
+      "source": "MacRumors",
+      "sourceKey": "macrumors",
+      "priority": 2,
+      "image": "https://images.macrumors.com/article-new/2026/04/gemini-for-mac-app-google.jpg",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "google",
+        "apple",
+        "gemini"
+      ],
+      "category": "ev_autonomous"
+    },
+    {
+      "title": "1Password for Claude Lets AI Log In Without Seeing Your Passwords",
+      "link": "https://www.macrumors.com/2026/07/16/1password-claude-integration/",
+      "description": "Popular password management app 1Password today added Claude support, which means AI service Claude can access credentials stored in 1Password for completing browser tasks.\r\n\r\n\r\nWith the integration, Claude can use 1Password logins and one-time codes without the actual password being exposed to Claude. Passwords never reach Claude's context, memory, or Anthropic's systems.\r\n\r\nWhen Claude wants to sign in to a website, 1Password shows the user which credential Claude wants access to and why. After the user approves the request, 1Password adds the credential directly to the page. Access is limited to the current task and ends when the task has been completed. The 1Password team says that after a password is autofilled, the app checks to make sure secrets were not exposed on the page.\r\n\r\n\r\nCredit cards and identities in 1Password are not supported at the current time, so Claude's access is limited to logins and one-time codes.\r\n\r\nThe 1Password browser extension is also being updated with Agentic Mode, which gives users control over browser-based AI agents. When an AI agent takes over, the 1Password extension locks down so passwords are not exposed. The password interface is hidden, and the agent can use logins and one-time codes only when the user gives approval. Agentic Mode works to protect passwords from AI agents even if the integration is not set up.\r\n\r\nhas a help document with detailed information on how to set it up.\r\n\r\nTags: 1Password, Anthropic\nThis article, \"1Password for Claude Lets AI Log In Without Seeing Your Passwords\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+      "published": "2026-07-17T05:31:49.000Z",
+      "source": "MacRumors",
+      "sourceKey": "macrumors",
+      "priority": 2,
+      "image": "https://images.macrumors.com/article-new/2026/07/1password-anthropic-integration.jpg",
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "anthropic",
+        "claude"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "SoftBank sinks over 9% as Asia chip stocks track Wall Street AI sell-off",
+      "link": "https://www.cnbc.com/2026/07/17/softbank-chip-stocks-asia-wall-street-ai-rout.html",
+      "description": "The declines followed another weak session for U.S. technology stocks, with the Nasdaq Composite falling 1.47% as semiconductor shares came under renewed pressure.",
+      "published": "2026-07-17T08:02:18.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 7,
+      "matchedKeywords": [
+        "softbank",
+        "semiconductor",
+        "chip"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "SpaceX scrubs Starship launch after some of its engines didn't start",
+      "link": "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/",
+      "description": "\"Now offloading propellant. Next launch attempt hopefully in a few days.\"",
+      "published": "2026-07-17T00:02:54.000Z",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 6,
+      "matchedKeywords": [
+        "spacex",
+        "starship"
+      ],
+      "category": "space"
+    },
+    {
+      "title": "Mitsubishi Electric Eyes Power-Chip Merger With Rohm and Toshiba",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-17/mitsubishi-electric-eyes-power-chip-merger-with-rohm-and-toshiba",
+      "description": "Mitsubishi Electric Corp. seeks to reach a deal by September with rivals Toshiba Corp. and Rohm Co. to combine their power semiconductor operations.",
+      "published": "2026-07-17T01:30:00.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 6,
+      "matchedKeywords": [
+        "merger",
+        "semiconductor",
+        "chip"
+      ],
+      "category": "chips_cloud"
+    },
+    {
+      "title": "Elon Musk's Memphis AI empire is the epicenter of the data center backlash",
+      "link": "https://www.cnbc.com/2026/07/16/elon-musk-memphis-ai-colossus-data-center.html",
+      "description": "Data center-related policy proposals, protests and litigation are underway across the country citing Colossus and Memphis as a cautionary tale.",
+      "published": "2026-07-17T00:49:45.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 5,
+      "matchedKeywords": [
+        "elon musk",
+        "data center"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "China’s Powerful New AI Surprises Investors, Fueling Tech Rout",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-17/china-s-powerful-new-moonshot-ai-model-closes-gap-with-us-rivals",
+      "description": "A surprise breakthrough from Chinese AI startup Moonshot rippled through global markets Friday, sending AI and semiconductor stocks sharply lower as investors drew parallels with last year’s “DeepSeek moment” and questioned whether the industry’s enormous spending spree is becoming harder to justify.",
+      "published": "2026-07-17T07:01:58.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 5,
+      "matchedKeywords": [
+        "breakthrough",
+        "semiconductor"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Apple Sued Over Reported 'Hide My Email' Flaw",
+      "link": "https://www.macrumors.com/2026/07/16/apple-sued-over-reported-hide-my-email-flaw/",
+      "description": "Apple this week was sued over a reported \"Hide My Email\" flaw that could expose a user's real email address. The proposed class action lawsuit alleges that Apple violated California's false advertising law and other consumer protection statutes by knowingly offering a feature that does not work as advertised.\r\n\r\nTag: Apple Lawsuits\nThis article, \"Apple Sued Over Reported 'Hide My Email' Flaw\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+      "published": "2026-07-17T05:31:49.000Z",
+      "source": "MacRumors",
+      "sourceKey": "macrumors",
+      "priority": 2,
+      "image": "https://images.macrumors.com/article-new/2023/06/General-macOS-Mail-Feature.jpg",
+      "relevanceScore": 5,
+      "matchedKeywords": [
+        "apple",
+        "lawsuit"
+      ],
+      "category": "ai"
+    }
+  ],
+  "byCategory": {
+    "chips_cloud": [
+      {
+        "title": "Apple's Chipmaker Pledges $100 Billion More for US Plants",
+        "link": "https://www.macrumors.com/2026/07/16/tsmc-pledges-100-billion-for-us-plants/",
+        "description": "Apple chip supplier TSMC has announced a $100 billion increase to its U.S. chip investment, bringing its total commitment to $265 billion.\r\n\r\n\r\nThe increase was confirmed by the White House and the Department of Commerce alongside TSMC's second quarter earnings call. Commerce Secretary Howard Lutnick said the investment would \"create tens of thousands of American jobs,\" while TSMC chairman and CEO C.C. Wei told CNBC the new fabrication plants would support \"our leading U.S. customers,\" a group that reportedly includes Apple, alongside Nvidia and Broadcom.\r\n\r\nTim Cook called Apple \"TSMC Arizona's first and largest customer\" when the company's third Arizona fab broke ground last year, and the company's first Arizona plant already produced some of Apple's A16 chips.\r\n\r\nregulatory filing.\r\n\r\nBloomberg the eventual mix could be 10 fabrication plants and two packaging facilities, focused on 2 nanometer chips, TSMC's most advanced process commercially available today. \r\n\r\nseparately exploring Intel and Samsung as backup chipmakers to reduce its reliance on TSMC amid the ongoing global chip crunch. Apple is reported to have secured an exemption from a proposed 100% semiconductor tariff partly by pledging its own U.S. manufacturing investment and agreeing to buy chips from Intel.\nTag: TSMC\nThis article, \"Apple's Chipmaker Pledges $100 Billion More for US Plants\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-07-17T05:31:49.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2024/04/apple-silicon-feature-joeblue.jpg",
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "apple",
+          "tsmc",
+          "ceo",
+          "chip",
+          "billion"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Mitsubishi Electric Eyes Power-Chip Merger With Rohm and Toshiba",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-17/mitsubishi-electric-eyes-power-chip-merger-with-rohm-and-toshiba",
+        "description": "Mitsubishi Electric Corp. seeks to reach a deal by September with rivals Toshiba Corp. and Rohm Co. to combine their power semiconductor operations.",
+        "published": "2026-07-17T01:30:00.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "merger",
+          "semiconductor",
+          "chip"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Apple Won't Allow These Ad Categories in the Maps App",
+        "link": "https://www.macrumors.com/2026/07/15/apple-maps-ad-prohibitied-categories/",
+        "description": "Apple this week shared a new Advertising Services policy outlining the kinds of ads that won't be allowed in the Maps app.\r\n\r\n\r\nAs noted by TechCrunch, Apple has a list of ad categories that are not permitted in Apple Maps.\r\n\r\n \t\nHome services - Ads that directly or indirectly promote home services are not allowed. That includes but is not limited to plumbing, electrical, locksmith, HVAC, pest control, roofing, and general contracting services.\n\r\n \t\nBail bonds - Ad content that directly or indirectly promotes bail bond services or surety bond services related to criminal pretrial release is not allowed.\n\r\n \t\nCryptocurrency ATMs - Ad content that directly or indirectly promotes ATMs for cryptocurrencies is prohibited.\n\r\n\r\nApple says ads that promote or reference medical services may be allowed, and will be evaluated on a case-by-case basis.\r\n\r\nGoogle allows home services ads, and it's one of the largest local ad categories, so Apple's restrictions will set it apart. Apple seems to be limiting ads to businesses with a physical location that customers can visit.\r\n\r\nIn addition to these rules, Maps ads have to adhere to Apple's other advertising rules. Apple does not allow ads for controlled or intoxicating substances like marijuana or tobacco, and it has a long list of rules for alcohol-related ads, dietary supplement ads, financial product ads, religious ads, gambling ads, prescription drug ads, and contest ads. Ad content for weapons or ammunition isn't allowed, and ad content that contains or promotes violence, harm, or antisocial behavior is prohibited.\r\n\r\nAds that promote false, fraudulent, or deceptive claims are not allowed, nor are ads that include defamatory or profane content, discriminatory content, illegal or criminal content, or intellectual property violations.\r\n\r\nAnti-Apple ads are prohibited, as are ads that promote or facilitate the sale of products or services that compete with Apple hardware products. Apple also does not allow political ads, ads with unproven health-related products and services, or ads with offensive, controversial, or inappropriate content.\r\n\r\nstart showing ads in the Maps app in the United States and Canada this summer. Ads will show up in search results and in the Suggested Places section of the app.\r\n\r\nTag: Apple Maps\nThis article, \"Apple Won't Allow These Ad Categories in the Maps App\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-07-17T05:31:49.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/03/Ads-Are-Coming-to-Apple-Maps-Feature.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Tata Group Resorts to Older Tech to Launch Its Chip Foray",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-17/tata-group-resorts-to-older-tech-to-launch-its-chip-foray",
+        "description": "Tata Electronics Pvt. is preparing to make India’s first semiconductor wafers on far older technology than it originally expected, underscoring the challenges the country faces in trying to build a domestic chip industry from scratch.",
+        "published": "2026-07-17T01:00:00.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "semiconductor",
+          "chip"
+        ],
+        "category": "chips_cloud"
+      }
+    ],
+    "space": [
+      {
+        "title": "SpaceX aborts Starship test flight, sending stock lower",
+        "link": "https://www.cnbc.com/2026/07/16/spacex-spcx-stock-starship-test-flight.html",
+        "description": "Elon Musk said it would make another attempt \"hopefully in a few days.\"  SpaceX completed the maiden test flight of its Starship V3 rocket in May.",
+        "published": "2026-07-17T00:16:37.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "spacex",
+          "elon musk",
+          "starship"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "SpaceX scrubs Starship launch after some of its engines didn't start",
+        "link": "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/",
+        "description": "\"Now offloading propellant. Next launch attempt hopefully in a few days.\"",
+        "published": "2026-07-17T00:02:54.000Z",
+        "source": "Ars Technica",
+        "sourceKey": "arstechnica",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "spacex",
+          "starship"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "SpaceX aborts Starship Flight 13 launch attempt",
+        "link": "https://spacenews.com/spacex-aborts-starship-flight-13-launch-attempt/",
+        "description": "SpaceX aborted the launch of its latest Starship test flight July 16 when some of the vehicle’s engines failed to ignite.\nThe post SpaceX aborts Starship Flight 13 launch attempt appeared first on SpaceNews.",
+        "published": "2026-07-17T00:40:05.000Z",
+        "source": "SpaceNews",
+        "sourceKey": "spacenews",
+        "priority": 2,
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/starship-lft13-scrub.jpeg?fit=1024%2C571&amp;ssl=1",
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "spacex",
+          "starship"
+        ],
+        "category": "space"
+      }
+    ],
+    "ev_autonomous": [
+      {
+        "title": "EU Orders Google to Give Rival AI Apps the Same Android Access as Gemini",
+        "link": "https://www.macrumors.com/2026/07/16/eu-google-ai-apps-android-access/",
+        "description": "The European Commission today formally ordered Google to give third-party AI services the same access to Android device features that Gemini has. Europe's Digital Markets Act requires software makers like Apple and Google to grant equal interoperability to third-party apps and services, and the EC is enforcing it.\r\n\r\n\r\nDMA interoperability rules are why Siri AI won't be available in the European Union when iOS 27 launches. While Apple tried to work out an agreement with regulators before launching ‌Siri‌ AI in Europe, Google did the opposite. Instead of asking, Google just launched Gemini integration on Android and opted to deal with the consequences afterward. Google's strategy gives Android users in Europe full Gemini access while it works on compliance with the DMA.\r\n\r\nThe European Commission is giving Google a full year to implement changes that will meet the Digital Markets Act requirements, and that's before any legal appeals Google might make.\r\n\r\naccess 11 features, such as:\r\n\r\n \t\nAI services must be accessible through voice commands like \"Hey Google\" or through access points like the home button or another activation button.\n\r\n \t\nAI services must be able to complete actions in and across apps, including completing long-running tasks in the background.\n\r\n \t\nGoogle must allow AI services to access context from apps and device sensors so AI can offer proactive services and anticipate user needs.\n\r\n \t\nGoogle has to give AI apps sufficient hardware and software resources, including access to its on-device AI models to execute tasks.\n\r\n\r\nGoogle is required to implement the majority of the European Commission's changes by August 1, 2027.\r\n\r\nShortly after announcing ‌Siri‌ AI, Apple said EU regulators would not accept any of its proposed solutions to introduce the feature, and refused to engage on options that \"preserve privacy and security.\" Apple wanted to use a Trusted System Agent that would allow third-party virtual assistants to safely access the same device capabilities as ‌Siri‌ AI.\r\n\r\nApple said the Digital Markets Act would require it to give any AI system \"nearly unlimited access to a user's device,\" along with the ability to act on that information autonomously.\r\n\r\nThe European Commission claims Apple was \"unable to develop interoperability solutions that meet essential EU privacy and security standards\" and instead asked for a blanket exemption from the interoperability requirements, which the EC did not grant.\r\n\r\nresponse to the EC's mandate, Google said the requirements \"risk undermining vital privacy and security guardrails for millions of Europeans.\" Google hasn't given information on its next steps, but it says it plans to \"continue advocating for a balanced approach that protects privacy and security while supporting market goals.\"\nTags: Android, European Commission, European Union, Google\nThis article, \"EU Orders Google to Give Rival AI Apps the Same Android Access as Gemini\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-07-17T05:31:49.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/04/gemini-for-mac-app-google.jpg",
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "google",
+          "apple",
+          "gemini"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "AppleCare+ for Macs and iPads Just Got More Expensive",
+        "link": "https://www.macrumors.com/2026/07/15/applecare-plus-price-increase/",
+        "description": "Apple is increasing the price of some AppleCare+ subscription plans, reports Bloomberg. Monthly ‌AppleCare‌+ subscription plans for Macs and iPads are now $0.50 more expensive in the U.S., while annual plans are $5 more.\r\n\r\n\r\nThe price increases apply to new subscriptions, so customers who already have an ‌AppleCare‌+ subscription for a device will keep their current prices.\r\n\r\nprice hikes on all iPads and Macs due to global memory shortages and increasing component costs. Price increases range from $100 to $1,300.\r\n\r\nrolled out last year. ‌AppleCare‌ One covers up to three Apple devices with a $19.99 per month fee. Additional products can be added to ‌AppleCare‌ One for $5.99 per month.\r\n\r\nTag: AppleCare\nThis article, \"AppleCare+ for Macs and iPads Just Got More Expensive\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-07-17T05:31:49.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2021/12/applecare-apple-care-banner.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ev_autonomous"
+      }
+    ],
+    "ai": [
+      {
+        "title": "1Password for Claude Lets AI Log In Without Seeing Your Passwords",
+        "link": "https://www.macrumors.com/2026/07/16/1password-claude-integration/",
+        "description": "Popular password management app 1Password today added Claude support, which means AI service Claude can access credentials stored in 1Password for completing browser tasks.\r\n\r\n\r\nWith the integration, Claude can use 1Password logins and one-time codes without the actual password being exposed to Claude. Passwords never reach Claude's context, memory, or Anthropic's systems.\r\n\r\nWhen Claude wants to sign in to a website, 1Password shows the user which credential Claude wants access to and why. After the user approves the request, 1Password adds the credential directly to the page. Access is limited to the current task and ends when the task has been completed. The 1Password team says that after a password is autofilled, the app checks to make sure secrets were not exposed on the page.\r\n\r\n\r\nCredit cards and identities in 1Password are not supported at the current time, so Claude's access is limited to logins and one-time codes.\r\n\r\nThe 1Password browser extension is also being updated with Agentic Mode, which gives users control over browser-based AI agents. When an AI agent takes over, the 1Password extension locks down so passwords are not exposed. The password interface is hidden, and the agent can use logins and one-time codes only when the user gives approval. Agentic Mode works to protect passwords from AI agents even if the integration is not set up.\r\n\r\nhas a help document with detailed information on how to set it up.\r\n\r\nTags: 1Password, Anthropic\nThis article, \"1Password for Claude Lets AI Log In Without Seeing Your Passwords\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-07-17T05:31:49.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/07/1password-anthropic-integration.jpg",
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "anthropic",
+          "claude"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "SoftBank sinks over 9% as Asia chip stocks track Wall Street AI sell-off",
+        "link": "https://www.cnbc.com/2026/07/17/softbank-chip-stocks-asia-wall-street-ai-rout.html",
+        "description": "The declines followed another weak session for U.S. technology stocks, with the Nasdaq Composite falling 1.47% as semiconductor shares came under renewed pressure.",
+        "published": "2026-07-17T08:02:18.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "softbank",
+          "semiconductor",
+          "chip"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Elon Musk's Memphis AI empire is the epicenter of the data center backlash",
+        "link": "https://www.cnbc.com/2026/07/16/elon-musk-memphis-ai-colossus-data-center.html",
+        "description": "Data center-related policy proposals, protests and litigation are underway across the country citing Colossus and Memphis as a cautionary tale.",
+        "published": "2026-07-17T00:49:45.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "elon musk",
+          "data center"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "China’s Powerful New AI Surprises Investors, Fueling Tech Rout",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-17/china-s-powerful-new-moonshot-ai-model-closes-gap-with-us-rivals",
+        "description": "A surprise breakthrough from Chinese AI startup Moonshot rippled through global markets Friday, sending AI and semiconductor stocks sharply lower as investors drew parallels with last year’s “DeepSeek moment” and questioned whether the industry’s enormous spending spree is becoming harder to justify.",
+        "published": "2026-07-17T07:01:58.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "breakthrough",
+          "semiconductor"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple Sued Over Reported 'Hide My Email' Flaw",
+        "link": "https://www.macrumors.com/2026/07/16/apple-sued-over-reported-hide-my-email-flaw/",
+        "description": "Apple this week was sued over a reported \"Hide My Email\" flaw that could expose a user's real email address. The proposed class action lawsuit alleges that Apple violated California's false advertising law and other consumer protection statutes by knowingly offering a feature that does not work as advertised.\r\n\r\nTag: Apple Lawsuits\nThis article, \"Apple Sued Over Reported 'Hide My Email' Flaw\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-07-17T05:31:49.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2023/06/General-macOS-Mail-Feature.jpg",
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "apple",
+          "lawsuit"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Japan’s Nikkei 225 Enters Correction on Fears AI Rally Overdone",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-17/japan-s-stocks-dive-as-investors-worry-about-ai-rally-s-run-mro83xih",
+        "description": "Japan’s Nikkei 225 Stock Average tumbled to close more than 10% below its June 25 peak, a move termed as a technical correction, amid concerns the global artificial intelligence rally may be stretched.",
+        "published": "2026-07-17T00:52:20.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "intel",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Xi Promises AI for All in Debut at China’s Top Tech Summit",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-17/xi-vows-to-make-ai-for-all-in-debut-at-china-s-top-tech-summit",
+        "description": "President Xi Jinping hailed China’s progress in developing low-cost artificial intelligence, pressing his personal imprint on the country’s rapidly expanding global influence to call for a more open technological order.",
+        "published": "2026-07-17T02:43:05.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "intel",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Google Search Now Connects to Instacart, Canva and YouTube Music",
+        "link": "https://www.macrumors.com/2026/07/16/google-search-app-connectors/",
+        "description": "Google is expanding AI Mode in Search, allowing users to connect apps to improve search results and \"get more done.\"\r\n\r\n\r\nInstacart, YouTube Music, and Canva can be connected, and Google explains how the integrations can be useful:\r\n\r\n \t\nInstacart - If you're using AI Mode to help you plan a grocery list, ingredients can be added right to an Instacart shopping cart for quick ordering.\n\r\n \t\nCanva - If you're creating a flyer, you can get template options from Canva.\n\r\n \t\nYouTube Music - You can use AI Mode to curate a playlist and save it to YouTube Music.\n\r\n\r\nInstacart, Canva, and YouTube Music are the only apps that can be connected right now, but Google may add more in the future. Connected apps were previously available in Gemini, but the feature set is now being expanded to Search.\r\n\r\nan app is connected, users are able to access new features when making a request in Google Search AI Mode. Connected apps can be used in Search both on the desktop and through the Google Search iOS app.\r\n\r\nTag: Google\nThis article, \"Google Search Now Connects to Instacart, Canva and YouTube Music\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-07-17T05:31:49.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/07/google-search-connected-apps.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple Reportedly Ramps Up Vapor Chamber Orders for Foldable iPhone",
+        "link": "https://www.macrumors.com/2026/07/16/apple-vapor-chamber-orders-foldable-iphone/",
+        "description": "Apple has ramped up orders for vapor chamber cooling components said to be destined for its upcoming foldable iPhone and 20th-anniversary iPhone models, according to a Chinese leaker.\r\n\r\n\r\nThe Weibo account known as \"Fixed Focus Digital\" claims the increased order volume will first support the manufacture of Apple's book-style foldable, or \"iPhone Ultra,\" which is expected to debut in September. Apple has reportedly asked suppliers to produce approximately 10 million foldable iPhones in 2026, up from an earlier forecast of seven to eight million units.\r\n\r\n\"impressive\" vapor chamber cooling, claiming that the company is \"going all out\" with the device's thermal engineering. While there's no corroborating evidence, it's quite possible that the foldable design Apple is adopting could present unique cooling challenges because of its thinner internal structure and limited space for heat dissipation.\r\n\r\nApple introduced vapor chamber cooling to the iPhone lineup with last year's iPhone 17 Pro. The system uses a small amount of deionized water to move heat away from the A19 Pro chip and distribute it through the device's aluminum unibody frame.\r\n\r\nedge-to-edge display with glass that curves around all four sides, with the aim of creating a nearly borderless appearance. If indeed we see such a device with a substantially redesigned enclosure, there's a good chance that it too will require a more advanced cooling system.\r\n\r\ntwo anniversary models in 2027 in sizes similar to the forthcoming iPhone 18 Pro and iPhone 18 Pro Max. The latter devices are rumored to retain the 6.3-inch and 6.9-inch dimensions of the current iPhone 17 Pro models, suggesting next year's commemorative lineup could use the same display sizes.\r\n\r\nclaimed that Apple's \"preferred approach\" for the iPhone 20 is a return to glass, and that the relevant manufacturing facilities have already been renovated in advance of the project.\nTags: 20th-Anniversary iPhone, Fixed Focus Digital, Foldable iPhone\nThis article, \"Apple Reportedly Ramps Up Vapor Chamber Orders for Foldable iPhone\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-07-17T05:31:49.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/06/Vapor-Chamber-Plate.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple's 2026 Back to School Offer Goes Live in the US: Up to $150 Gift Card With Mac or iPad",
+        "link": "https://www.macrumors.com/2026/07/16/apple-2026-back-to-school-offer-goes-live-us/",
+        "description": "Apple's annual Back to School promotion is now live in the United States, Canada, and Mexico, following earlier rollouts in Asia. This year's promotion offers a free Apple gift card with the purchase of an eligible Mac or iPad.\r\n\r\n\r\nApple is offering a $150 gift card with any new MacBook Pro, and a $100 gift card with any new MacBook Air, iPad Pro, and iPad Air. The gift card can be used towards purchases of Apple products and accessories, App Store apps, subscriptions to services like Apple Music, iCloud+ storage, and more.\r\n\r\nThe MacBook Neo is not an eligible product. Neither are the iPad mini, entry-level iPad, or any desktop Macs.\r\n\r\nterms and conditions. The gift card is offered in addition to Apple's standard education pricing, which provides discounts of roughly 5% to 10% on most Macs and iPads.\r\n\r\nThe offer is available through Apple's online Education Store and Apple Store locations. Eligible customers include current and newly accepted higher-education students, faculty and staff at higher-education institutions, parents purchasing on behalf of an eligible student, employees of K-12 institutions, and select other qualifying customers.\r\n\r\nUNiDAYS verification is now required on Apple's education store in the U.S. and Canada.\nTag: Back to School Promotion\nThis article, \"Apple's 2026 Back to School Offer Goes Live in the US: Up to $150 Gift Card With Mac or iPad\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-07-17T05:31:49.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/07/Apple-2026-Back-to-School-Graphic.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "CrashStealer Malware Impersonates Apple Tool to Steal Mac Passwords and Crypto",
+        "link": "https://www.macrumors.com/2026/07/15/crashstealer-mac-malware/",
+        "description": "Mac users should watch out for macOS malware called CrashStealer, according to Jamf Threat Labs. The malware impersonates Apple's crash reporting framework, and it's meant to steal all kinds of sensitive information.\r\n\r\n\r\nCrashStealer collects browser data, password manager data, cryptocurrency wallet extensions, and keychain data, and Jamf first noticed it circulating in a fake Apple-notarized app called Werkbit. With notarization, the malware is not stopped by Gatekeeper, which is part of the macOS security system.\r\n\r\nIt targets more than 80 cryptocurrency wallet extensions, and 14 password managers like 1Password, LastPass, and Dashlane. It searches through the Document and Downloads folders to look for information worth collecting.\r\n\r\ndetailed on Jamf's website. A fake CrashReporter.app is downloaded through Werkbit, and it's meant to impersonate Apple's own crash reporter. A user clicking on the app would likely see it as a legitimate Apple utility.\r\n\r\nIt requests full disk access \"for system administration,\" and uses a native password prompt that looks like a genuine macOS authorization request. The password entered is used to access the login keychain. Data collected is encrypted with AES–256-GCM through Apple's CommonCrypto and sent to the attacker's IP address.\r\n\r\nJamf says the way CrashStealer was implemented \"shows real care,\" with the concealment steps setting it apart from standard infostealers. The malware was reported to Apple after first being spotted in May and found actively in use in July.\r\n\r\nApple revoked the Werkbit app's signing credentials, so the specific attack vector outlined by Jamf has been disabled, but the malware could surface again. The original version was gated behind a PIN required for installation, suggesting it was aimed at specific people.\r\n\r\nApple's notarization system is meant to protect Mac users from malware, and Apple says that notarized apps are checked for malicious components. CrashStealer makes it clear there are methods for hiding malware from Apple's security process.\r\n\r\nTag: Malware\nThis article, \"CrashStealer Malware Impersonates Apple Tool to Steal Mac Passwords and Crypto\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-07-17T05:31:49.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2023/05/bug-security-vulnerability-issue-fix-larry.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple Closes Unlocked iPhone Loophole for T-Mobile and Verizon Financing",
+        "link": "https://www.macrumors.com/2026/07/15/apple-carrier-iphone-financing/",
+        "description": "Carrier-financed iPhones purchased from Apple will soon be locked to the carrier, ending a workaround customers used to purchase an unlocked iPhone on a payment plan.\r\n\r\n\r\nUntil the rule change, buying an iPhone from Apple and opting for financing through Verizon or T-Mobile meant you would get an iPhone not locked to either carrier's network. That's no longer the case, and now iPhones financed through Verizon or T-Mobile will not be able to be used with a different network. AT&T-financed smartphones were always locked to the AT&T network.\r\n\r\nhighlighted on Reddit after a user saw a new \"Will my iPhone be unlocked?\" FAQ item.\r\nIn most cases, yes. An iPhone purchased from Apple is unlocked. Once your new iPhone is activated, it remains unlocked, which means you can use it with any carrier that provides service for iPhone. However, if you choose to finance an iPhone through the AT&T Installment Plan, T-Mobile Equipment Installment Plan, or Verizon Device Payment Program, your iPhone will be locked to the carrier until paid in full.\n\r\nAn unlocked smartphone means it can be used with any carrier, while a locked smartphone is limited to the carrier it was purchased through. Locked smartphones can be problematic when traveling internationally, because activating a second eSIM for another network is blocked.\r\n\r\nApple hasn't said why it's making the change, but buyers were able to use carrier trade-ins and promotional discounts to get an unlocked iPhone. Some buyers may have purchased iPhones and sold them off without making the carrier payments, and carrier locking is a standard practice to prevent unpaid devices from being resold.\r\n\r\nApple's checkout process still says iPhones financed through T-Mobile and Verizon are unlocked, so the new policy may not have gone into effect yet.\r\n\r\nApple Card Monthly Installments remain unlocked from the time of purchase. When iPhones purchased through carrier plans are paid off, they are unlocked.\nTags: T-Mobile, Verizon\nThis article, \"Apple Closes Unlocked iPhone Loophole for T-Mobile and Verizon Financing\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-07-17T05:31:49.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2025/11/iphone-17-cyber.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple's 2026 Back to School Offer Just Went Live in Select Countries",
+        "link": "https://www.macrumors.com/2026/07/15/apple-2026-back-to-school-offer-rolling-out/",
+        "description": "Apple's annual Back to School promotion is now live in select countries in Asia, including China, India, Malaysia, the Philippines, Singapore, Taiwan, Thailand, and Vietnam.\r\n\r\n\r\nThe offer provides college students and educational staff with a free item with the purchase of an eligible Mac or iPad model. The exact offer varies by country, with options including a pack of four AirTags, AirPods 4, an Apple Pencil Pro, or an Apple gift card. You can also opt to receive a discount on some higher-value accessories.\r\n\r\nIn China, Singapore, and Vietnam, eligible students and educators can receive a pack of four AirTags with the purchase of any new MacBook Air, MacBook Pro, iPad Air, or iPad Pro through Apple's education store.\r\n\r\nIn India, you can receive a pack of four AirTags or AirPods 4 with a MacBook Air or MacBook Pro, or an Apple Pencil Pro with an iPad Air or iPad Pro.\r\n\r\nApple is offering a gift card in Malaysia, the Philippines, Taiwan, and Thailand.\r\n\r\nNotably, the MacBook Neo is not an eligible product in any of the countries, and the iPad mini, entry-level iPad, and desktop Macs are excluded too.\r\n\r\nIn these countries, the offer is available through August 27.\r\n\r\nTag: Back to School Promotion\nThis article, \"Apple's 2026 Back to School Offer Just Went Live in Select Countries\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-07-17T05:31:49.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/07/Apple-2026-Back-to-School-Graphic.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Tesla finally launches a bike — but it’s not what fans wanted",
+        "link": "https://electrek.co/2026/07/16/tesla-balance-bike-kids-225/",
+        "description": "Tesla fans have spent years begging the company to build an e-bike. Tesla just launched a bike — and it has no motor, no pedals, and it’s for toddlers.\nThe new “Balance Bike for Kids” sells for $225 on Tesla’s online shop, and it’s aimed at children aged 2 to 5.",
+        "published": "2026-07-17T00:31:20.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/07/TEsla-bike.png?w=1422",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "tesla"
+        ],
+        "category": "ai"
+      }
+    ],
+    "regulation": [
+      {
+        "title": "Google and Epic Abandon Injunction Modification Request, Clearing the Way for Rival Android App Stores",
+        "link": "https://www.macrumors.com/2026/07/15/google-third-party-app-stores/",
+        "description": "Google and Epic Games this week withdrew their joint motion to modify an injunction requiring Google to support third-party app stores in Google Play. The two companies abandoned the request after it became clear the court was unlikely to allow it.\r\n\r\n\r\nGoogle is now bound by a permanent injunction issued in October 2024 requiring it to allow alternative app stores on Android devices. In a court filing [PDF], Google said that it plans to begin supporting alternative app stores on July 22. In a statement to The Verge, Google said it decided to withdraw the motion to avoid a prolonged legal fight.\r\nWe've agreed with Epic to withdraw our motion to modify the US Court's injunction rather than prolonging this process which creates uncertainty for the ecosystem. This allows us to focus on executing our recently announced global business model evolution to deliver greater app store choice, lower prices, and more opportunities for developers and users. We remain committed to maintaining Android's industry-leading security and fostering a competitive ecosystem where every app store and developer has the freedom to compete. In parallel, we continue to comply with the US Court's injunction.\n\r\n‌Epic Games‌ sued Google at the same time that it sued Apple, but the cases had different judges and different outcomes. The lawsuit largely went in Apple's favor, but ‌Epic Games‌ came out ahead in the Google case after a jury found Google abused its power by operating an app store monopoly and charging developers fees that were too high.\r\n\r\npublished a guide on the process. The app stores will be available through the Google Play Store, and Google will charge alternative marketplaces a $5,000 annual access fee. Apps downloaded through alternative stores will still use the Google Play system, and Google will collect its service fee on those transactions.\r\n\r\nagreement with Epic Games to lower fees for apps and accept alternative payment options is separate from the injunction requiring it to support third-party marketplaces in the Play Store, and it remains in place. Google is still adding support for outside payment methods and lowering its fees. \r\n\r\nThe injunction forcing Google to support third-party app stores doesn't have a direct impact on Apple, but it is a legal outcome Apple has been fighting worldwide. The European Union's Digital Markets Act requires Apple to support alternative app marketplaces and app sideloading in the EU, and Apple has repeatedly said the requirement weakens user privacy and protections. Google adding support for third-party app stores through the Android Play Store could eventually impact Apple's own Epic fight or future regulatory changes.\r\n\r\nwill hear Apple's argument in late 2026 or early 2027.\r\n\r\nUpdate: This article was updated to clarify that Google and ‌Epic Games‌ have not abandoned their settlement, but have withdrawn their joint motion to modify the injunction requiring Google to support third-party app stores on its Android platform. \r\n\r\nGoogle asked the court to allow it to distribute third-party app stores on Google Play through the Registered App Stores program that it plans to roll out worldwide later this year, but Google will now support one program in the U.S. and one program in other countries. \r\n\r\nTags: Android, Epic Games, Google\nThis article, \"Google and Epic Abandon Injunction Modification Request, Clearing the Way for Rival Android App Stores\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-07-17T05:31:49.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2022/02/Google-Logo-Feature-Slack.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "regulation"
+      }
+    ]
+  },
+  "totalArticles": 25
+}
