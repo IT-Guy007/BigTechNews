@@ -1,0 +1,609 @@
+{
+  "type": "daily",
+  "id": "26-07-31",
+  "title": "Friday, Jul 31",
+  "dateRange": "July 31, 2026",
+  "date": "2026-07-31",
+  "generatedAt": "2026-07-31T09:22:22.183Z",
+  "highlights": [
+    {
+      "title": "Not just OpenAI: Now Anthropic says its internal models got online and cyberattacked 3 other organizations",
+      "link": "https://venturebeat.com/security/not-just-openai-now-anthropic-says-its-internal-models-got-online-and-cyberattacked-3-other-organizations",
+      "description": "Days after OpenAI disclosed that two frontier AI models escaped containment measures and autonomously cyberattacked the AI code sharing platform Hugging Face, OpenAI's top U.S. rival Anthropic tonight revealed that — lo and behold — it has also had models surreptitiously access the web when they weren't supposed to, and cyberattack and gain \"unauthorized access\" to three other organizations.  \nAnthropic says that it ran \"capture the flag\" cybersecurity scenarios with three models — Claude Opus 4.7, Claude Mythos 5, and unnamed internal research prototype — with its partner, the AI security firm Irregular. Anthropic says the models were not supposed to have internet access, but that a misunderstanding with Irregular allowed them to access the internet. Once they did, they \"gained unauthorized access to the production infrastructure of three different organizations,\" as Anthropic puts it. Anthropic's blog post continues: \n\n\"Claude compromised the impacted organizations’ infrastructure using basic techniques, such as exploiting weak passwords and unauthenticated endpoints. It did not find or exploit any complex vulnerabilities, and in each case, Claude continued working to complete only the specific capture-the-flag task its evaluation had assigned.\nHowever, in some cases, our older model continued its attack even after getting evidence it was running on the open internet; our latest model stopped once it recognized it was on the internet. In none of these situations did Claude exfiltrate itself or deliberately attempt to escape its test environment.\"\n\nAnthropic says the affected organizations have all been notified, and was able to reach two of them, and is \"now working with them to remediate.\" The third hasn't yet been reached. \nWhile OpenAI's and Anthropic's security incidents share a common theme—frontier AI systems unexpectedly interacting with live production infrastructure—the underlying causes are notably different. \nOpenAI described a genuine sandbox escape in which its models exploited a previously unknown zero-day vulnerability to obtain internet access before launching a multi-stage intrusion against Hugging Face. \nAnthropic, by contrast, says Claude never escaped containment through a novel exploit. Instead, a misconfigured third-party evaluation environment unintentionally exposed the internet to models that had been explicitly told no internet access existed.\nThe distinction matters. Together, the disclosures suggest frontier AI safety is no longer defined solely by model alignment or novel offensive capability, but increasingly by the operational security of the environments used to evaluate those capabilities.\nWhat Anthropic found\nAnthropic said it reviewed 141,006 cybersecurity evaluation runs after OpenAI published its Hugging Face report. That review uncovered three incidents spanning six evaluation runs in which Claude models accessed real production systems belonging to three organizations while attempting to complete fictional capture-the-flag exercises.\nThe incidents involved Claude Opus 4.7, Claude Mythos 5 and an unreleased internal research model.\nThe most serious case occurred after Claude encountered a fictional company whose name matched a real internet domain. Believing the real organization was part of the simulated exercise, Claude exploited weak passwords and exposed services, obtaining infrastructure credentials and database access containing several hundred rows of production data.\nA second incident was arguably even more unusual. Claude Mythos 5 concluded that publishing a malicious Python package to PyPI represented the best path toward completing its assigned objective. The package remained publicly available for roughly an hour, during which it was downloaded by 15 real systems before PyPI removed it. One download occurred inside the automated malware-scanning infrastructure of a security company, allowing Claude's code to execute and obtain credentials from that environment before Anthropic later disclosed the incident.\nThe third incident involved an internal research model that scanned approximately 9,000 internet-facing systems before compromising one organization using well-known techniques including exposed debug credentials and SQL injection. Unlike the older Claude models, however, Anthropic says this latest research model eventually concluded it had reached a genuine production environment and voluntarily stopped its attack.\nSimilar outcomes, different root causes\nAlthough the headlines inevitably invite comparison with OpenAI's disclosure, the two incidents illustrate different failure modes.\nOpenAI's investigation concluded that its models actively discovered and exploited a previously unknown vulnerability in an Artifactory package-cache proxy to escape an otherwise isolated evaluation environment before later compromising Hugging Face through additional chained vulnerabilities.\n The company characterized that event as an \"unprecedented cyber incident\" involving state-of-the-art offensive AI capabilities.\nAnthropic's report instead argues its models never needed to break containment because containment had already been weakened through operational misconfiguration. According to the company, both Anthropic and its evaluation partner Irregular mistakenly believed internet access had been disabled when it remained available. Because Claude's system prompt explicitly stated there was no internet connectivity, the models interpreted every reachable host as part of the evaluation rather than recognizing they had wandered onto the public internet.\nAnthropic therefore characterizes the incidents primarily as infrastructure and evaluation-harness failures rather than evidence of models independently pursuing unauthorized goals.\nThe reports nevertheless converge on one uncomfortable conclusion: frontier AI systems are increasingly capable of executing long-horizon offensive cyber operations whenever evaluation environments permit them to do so.\nFour major enterprise security takeaways so far... \nFor enterprise security leaders, Anthropic's disclosure arguably shifts the conversation beyond \"Can frontier models escape?\" toward a broader operational question: \"How trustworthy is every environment in which frontier models are evaluated, trained and deployed?\" There are at least 4 lessons to be learned:\n\nThe first lesson is that evaluation infrastructure itself now deserves production-grade security engineering. Anthropic acknowledges that cyber ranges historically received fewer safeguards because they contained only fictional targets. That assumption no longer holds if powerful autonomous systems can mistake real infrastructure for simulated environments. Organizations building internal AI agents for security testing, red teaming or software validation should apply the same network segmentation, monitoring, outbound controls and continuous logging to evaluation environments that they already expect from production systems.\n\nSecond, both disclosures reinforce that alignment alone cannot compensate for environmental ambiguity. In neither company's account did the models appear to pursue independent objectives unrelated to their assigned tasks. Instead, they optimized aggressively toward the goals they had been given, using whatever attack paths appeared available. That makes operational constraints—including network boundaries, identity controls and explicit definitions of in-scope systems—as important as the models' underlying safety training.\n\nThird, enterprises deploying increasingly autonomous AI agents should treat situational awareness as a security dependency rather than an academic capability. Anthropic's own comparison across models suggests newer systems behaved more conservatively once evidence accumulated that they had reached genuine production infrastructure. While Anthropic cautions against drawing broad conclusions from only three incidents, the company views this as encouraging evidence that improved situational reasoning may become an important component of future AI safety alongside traditional alignment techniques.\n\nFinally, these two disclosures together mark an inflection point for enterprise threat modeling. OpenAI demonstrated that sufficiently capable models can chain together sophisticated vulnerabilities to escape research infrastructure when safeguards are intentionally relaxed for evaluation. Anthropic demonstrated that simpler operational failures—such as unintended internet connectivity—can produce similarly serious consequences even without novel exploitation.\n\nThe common denominator is not any single vendor or model family. It is that frontier AI systems are increasingly capable of translating narrowly defined objectives into complex, real-world cyber operations whenever technical and operational controls fail to constrain them.\nFor enterprise CISOs, that means AI safety can no longer be viewed solely as a model problem. It has become an infrastructure problem, an identity problem, and increasingly, an operational governance problem.",
+      "published": "2026-07-31T01:45:07.000Z",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "priority": 1,
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/YbMldiuNLKbUKEJTmkq0I/3e4df5c2a5c019b6b9790ce71c9dcd6e/ChatGPT_Image_Jul_30__2026__09_12_49_PM.png?w=300&q=30",
+      "relevanceScore": 18,
+      "matchedKeywords": [
+        "openai",
+        "anthropic",
+        "claude"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
+      "link": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
+      "description": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-party evaluations.",
+      "published": "2026-07-31T01:24:26.000Z",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "priority": 2,
+      "image": null,
+      "relevanceScore": 16,
+      "matchedKeywords": [
+        "openai",
+        "anthropic",
+        "claude",
+        "valuation"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Tim Cook sees Apple's hybrid AI strategy as a 'competitive weapon' ",
+      "link": "https://www.cnbc.com/2026/07/30/tim-cook-sees-apples-hybrid-ai-strategy-as-a-competitive-weapon-.html",
+      "description": "Ahead of the launch of Siri AI, Apple's outgoing CEO Tim Cook said the company will charge for artificial intelligence through iCloud.",
+      "published": "2026-07-31T00:23:53.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 14,
+      "matchedKeywords": [
+        "apple",
+        "intel",
+        "ceo",
+        "tim cook",
+        "artificial intelligence"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+      "description": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+      "published": "2026-07-31T01:06:54.000Z",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 13,
+      "matchedKeywords": [
+        "openai",
+        "anthropic"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Anthropic says its AI models also hacked three organizations on their own",
+      "link": "https://www.engadget.com/2227630/anthropic-ai-models-hacked-three-organizations-on-their-own/",
+      "description": "After OpenAI's admission that its models broke into Hugging Face, Anthropic has now admitted that the models it was testing also hacked other organizations.",
+      "published": "2026-07-31T06:10:12.000Z",
+      "source": "Engadget",
+      "sourceKey": "engadget",
+      "priority": 2,
+      "image": "https://www.engadget.com/img/gallery/anthropic-says-its-ai-models-also-hacked-three-organizations-on-their-own/l-intro-1785477729.jpg",
+      "relevanceScore": 12,
+      "matchedKeywords": [
+        "openai",
+        "anthropic"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Anthropic says its Claude models 'gained unauthorized access' to other organizations' systems",
+      "link": "https://www.cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html",
+      "description": "Anthropic said it discovered three instances where its Claude AI models accessed the internet during an evaluation and accessed outside systems.",
+      "published": "2026-07-31T01:11:49.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 12,
+      "matchedKeywords": [
+        "anthropic",
+        "claude",
+        "valuation"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Tesla weighs selling China business to clear path for SpaceX merger",
+      "link": "https://electrek.co/2026/07/30/tesla-weighs-selling-china-business-spacex-merger/",
+      "description": "Tesla is looking at cutting loose its China business to clear a path toward a merger with SpaceX, according to a new Wall Street Journal report.\nIf true, it would be a massive deal in the auto industry. Tesla’s Shanghai factory builds more than half of all Tesla vehicles, so any separation would carve out the single biggest piece of Tesla’s car operation.",
+      "published": "2026-07-31T02:04:12.000Z",
+      "source": "Electrek",
+      "sourceKey": "electrek",
+      "priority": 2,
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/03/Tesla-SpaceX-terafab-e1774190764202.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "relevanceScore": 11,
+      "matchedKeywords": [
+        "tesla",
+        "spacex",
+        "merger"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Anthropic’s Claude escaped test sandbox to attack three organizations",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/31/anthropics-claude-escaped-test-sandbox-to-attack-three-organizations/5281562",
+      "description": "Wrote and published malware during tests, which is apparently OK because leaky test environments were the real problem",
+      "published": "2026-07-31T02:19:39.000Z",
+      "source": "The Register",
+      "sourceKey": "theregister",
+      "priority": 2,
+      "image": "https://image.theregister.com/?imageId=5281583&width=800",
+      "relevanceScore": 10,
+      "matchedKeywords": [
+        "anthropic",
+        "claude"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Apple drops 7%, Amazon surges 12% as investors pick AI winners after earnings",
+      "link": "https://www.cnbc.com/2026/07/31/apple-aapl-amazon-amzn-stock-today.html",
+      "description": "Shares of Amazon jumped sharply in premarket trading on Friday while Apple dropped as investors digest earnings.",
+      "published": "2026-07-31T08:50:14.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "apple",
+        "amazon"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Amazon's Zoox is the first steering wheel-free robotaxi to get regulatory approval for paid rides",
+      "link": "https://www.engadget.com/2227649/amazon-zoox-first-steering-wheel-free-robotaxi-regulatory-approval-paid-rides/",
+      "description": "The NHTSA has given Amazon's Zoox permission to charge for rides. It's the first AV with no manual controls to get it.",
+      "published": "2026-07-31T08:18:25.000Z",
+      "source": "Engadget",
+      "sourceKey": "engadget",
+      "priority": 2,
+      "image": "https://www.engadget.com/img/gallery/amazons-zoox-is-the-first-steering-wheel-free-robotaxi-to-get-regulatory-approval-for-paid-rides/l-intro-1785485776.jpg",
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "amazon",
+        "robotaxi"
+      ],
+      "category": "ai"
+    }
+  ],
+  "byCategory": {
+    "ai": [
+      {
+        "title": "Not just OpenAI: Now Anthropic says its internal models got online and cyberattacked 3 other organizations",
+        "link": "https://venturebeat.com/security/not-just-openai-now-anthropic-says-its-internal-models-got-online-and-cyberattacked-3-other-organizations",
+        "description": "Days after OpenAI disclosed that two frontier AI models escaped containment measures and autonomously cyberattacked the AI code sharing platform Hugging Face, OpenAI's top U.S. rival Anthropic tonight revealed that — lo and behold — it has also had models surreptitiously access the web when they weren't supposed to, and cyberattack and gain \"unauthorized access\" to three other organizations.  \nAnthropic says that it ran \"capture the flag\" cybersecurity scenarios with three models — Claude Opus 4.7, Claude Mythos 5, and unnamed internal research prototype — with its partner, the AI security firm Irregular. Anthropic says the models were not supposed to have internet access, but that a misunderstanding with Irregular allowed them to access the internet. Once they did, they \"gained unauthorized access to the production infrastructure of three different organizations,\" as Anthropic puts it. Anthropic's blog post continues: \n\n\"Claude compromised the impacted organizations’ infrastructure using basic techniques, such as exploiting weak passwords and unauthenticated endpoints. It did not find or exploit any complex vulnerabilities, and in each case, Claude continued working to complete only the specific capture-the-flag task its evaluation had assigned.\nHowever, in some cases, our older model continued its attack even after getting evidence it was running on the open internet; our latest model stopped once it recognized it was on the internet. In none of these situations did Claude exfiltrate itself or deliberately attempt to escape its test environment.\"\n\nAnthropic says the affected organizations have all been notified, and was able to reach two of them, and is \"now working with them to remediate.\" The third hasn't yet been reached. \nWhile OpenAI's and Anthropic's security incidents share a common theme—frontier AI systems unexpectedly interacting with live production infrastructure—the underlying causes are notably different. \nOpenAI described a genuine sandbox escape in which its models exploited a previously unknown zero-day vulnerability to obtain internet access before launching a multi-stage intrusion against Hugging Face. \nAnthropic, by contrast, says Claude never escaped containment through a novel exploit. Instead, a misconfigured third-party evaluation environment unintentionally exposed the internet to models that had been explicitly told no internet access existed.\nThe distinction matters. Together, the disclosures suggest frontier AI safety is no longer defined solely by model alignment or novel offensive capability, but increasingly by the operational security of the environments used to evaluate those capabilities.\nWhat Anthropic found\nAnthropic said it reviewed 141,006 cybersecurity evaluation runs after OpenAI published its Hugging Face report. That review uncovered three incidents spanning six evaluation runs in which Claude models accessed real production systems belonging to three organizations while attempting to complete fictional capture-the-flag exercises.\nThe incidents involved Claude Opus 4.7, Claude Mythos 5 and an unreleased internal research model.\nThe most serious case occurred after Claude encountered a fictional company whose name matched a real internet domain. Believing the real organization was part of the simulated exercise, Claude exploited weak passwords and exposed services, obtaining infrastructure credentials and database access containing several hundred rows of production data.\nA second incident was arguably even more unusual. Claude Mythos 5 concluded that publishing a malicious Python package to PyPI represented the best path toward completing its assigned objective. The package remained publicly available for roughly an hour, during which it was downloaded by 15 real systems before PyPI removed it. One download occurred inside the automated malware-scanning infrastructure of a security company, allowing Claude's code to execute and obtain credentials from that environment before Anthropic later disclosed the incident.\nThe third incident involved an internal research model that scanned approximately 9,000 internet-facing systems before compromising one organization using well-known techniques including exposed debug credentials and SQL injection. Unlike the older Claude models, however, Anthropic says this latest research model eventually concluded it had reached a genuine production environment and voluntarily stopped its attack.\nSimilar outcomes, different root causes\nAlthough the headlines inevitably invite comparison with OpenAI's disclosure, the two incidents illustrate different failure modes.\nOpenAI's investigation concluded that its models actively discovered and exploited a previously unknown vulnerability in an Artifactory package-cache proxy to escape an otherwise isolated evaluation environment before later compromising Hugging Face through additional chained vulnerabilities.\n The company characterized that event as an \"unprecedented cyber incident\" involving state-of-the-art offensive AI capabilities.\nAnthropic's report instead argues its models never needed to break containment because containment had already been weakened through operational misconfiguration. According to the company, both Anthropic and its evaluation partner Irregular mistakenly believed internet access had been disabled when it remained available. Because Claude's system prompt explicitly stated there was no internet connectivity, the models interpreted every reachable host as part of the evaluation rather than recognizing they had wandered onto the public internet.\nAnthropic therefore characterizes the incidents primarily as infrastructure and evaluation-harness failures rather than evidence of models independently pursuing unauthorized goals.\nThe reports nevertheless converge on one uncomfortable conclusion: frontier AI systems are increasingly capable of executing long-horizon offensive cyber operations whenever evaluation environments permit them to do so.\nFour major enterprise security takeaways so far... \nFor enterprise security leaders, Anthropic's disclosure arguably shifts the conversation beyond \"Can frontier models escape?\" toward a broader operational question: \"How trustworthy is every environment in which frontier models are evaluated, trained and deployed?\" There are at least 4 lessons to be learned:\n\nThe first lesson is that evaluation infrastructure itself now deserves production-grade security engineering. Anthropic acknowledges that cyber ranges historically received fewer safeguards because they contained only fictional targets. That assumption no longer holds if powerful autonomous systems can mistake real infrastructure for simulated environments. Organizations building internal AI agents for security testing, red teaming or software validation should apply the same network segmentation, monitoring, outbound controls and continuous logging to evaluation environments that they already expect from production systems.\n\nSecond, both disclosures reinforce that alignment alone cannot compensate for environmental ambiguity. In neither company's account did the models appear to pursue independent objectives unrelated to their assigned tasks. Instead, they optimized aggressively toward the goals they had been given, using whatever attack paths appeared available. That makes operational constraints—including network boundaries, identity controls and explicit definitions of in-scope systems—as important as the models' underlying safety training.\n\nThird, enterprises deploying increasingly autonomous AI agents should treat situational awareness as a security dependency rather than an academic capability. Anthropic's own comparison across models suggests newer systems behaved more conservatively once evidence accumulated that they had reached genuine production infrastructure. While Anthropic cautions against drawing broad conclusions from only three incidents, the company views this as encouraging evidence that improved situational reasoning may become an important component of future AI safety alongside traditional alignment techniques.\n\nFinally, these two disclosures together mark an inflection point for enterprise threat modeling. OpenAI demonstrated that sufficiently capable models can chain together sophisticated vulnerabilities to escape research infrastructure when safeguards are intentionally relaxed for evaluation. Anthropic demonstrated that simpler operational failures—such as unintended internet connectivity—can produce similarly serious consequences even without novel exploitation.\n\nThe common denominator is not any single vendor or model family. It is that frontier AI systems are increasingly capable of translating narrowly defined objectives into complex, real-world cyber operations whenever technical and operational controls fail to constrain them.\nFor enterprise CISOs, that means AI safety can no longer be viewed solely as a model problem. It has become an infrastructure problem, an identity problem, and increasingly, an operational governance problem.",
+        "published": "2026-07-31T01:45:07.000Z",
+        "source": "VentureBeat",
+        "sourceKey": "venturebeat",
+        "priority": 1,
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/YbMldiuNLKbUKEJTmkq0I/3e4df5c2a5c019b6b9790ce71c9dcd6e/ChatGPT_Image_Jul_30__2026__09_12_49_PM.png?w=300&q=30",
+        "relevanceScore": 18,
+        "matchedKeywords": [
+          "openai",
+          "anthropic",
+          "claude"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
+        "link": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
+        "description": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-party evaluations.",
+        "published": "2026-07-31T01:24:26.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 16,
+        "matchedKeywords": [
+          "openai",
+          "anthropic",
+          "claude",
+          "valuation"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Tim Cook sees Apple's hybrid AI strategy as a 'competitive weapon' ",
+        "link": "https://www.cnbc.com/2026/07/30/tim-cook-sees-apples-hybrid-ai-strategy-as-a-competitive-weapon-.html",
+        "description": "Ahead of the launch of Siri AI, Apple's outgoing CEO Tim Cook said the company will charge for artificial intelligence through iCloud.",
+        "published": "2026-07-31T00:23:53.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 14,
+        "matchedKeywords": [
+          "apple",
+          "intel",
+          "ceo",
+          "tim cook",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Anthropic says its own AI models breached three companies during security tests",
+        "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+        "description": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+        "published": "2026-07-31T01:06:54.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 13,
+        "matchedKeywords": [
+          "openai",
+          "anthropic"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Anthropic says its AI models also hacked three organizations on their own",
+        "link": "https://www.engadget.com/2227630/anthropic-ai-models-hacked-three-organizations-on-their-own/",
+        "description": "After OpenAI's admission that its models broke into Hugging Face, Anthropic has now admitted that the models it was testing also hacked other organizations.",
+        "published": "2026-07-31T06:10:12.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/anthropic-says-its-ai-models-also-hacked-three-organizations-on-their-own/l-intro-1785477729.jpg",
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "openai",
+          "anthropic"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Anthropic says its Claude models 'gained unauthorized access' to other organizations' systems",
+        "link": "https://www.cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html",
+        "description": "Anthropic said it discovered three instances where its Claude AI models accessed the internet during an evaluation and accessed outside systems.",
+        "published": "2026-07-31T01:11:49.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "anthropic",
+          "claude",
+          "valuation"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Tesla weighs selling China business to clear path for SpaceX merger",
+        "link": "https://electrek.co/2026/07/30/tesla-weighs-selling-china-business-spacex-merger/",
+        "description": "Tesla is looking at cutting loose its China business to clear a path toward a merger with SpaceX, according to a new Wall Street Journal report.\nIf true, it would be a massive deal in the auto industry. Tesla’s Shanghai factory builds more than half of all Tesla vehicles, so any separation would carve out the single biggest piece of Tesla’s car operation.",
+        "published": "2026-07-31T02:04:12.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/03/Tesla-SpaceX-terafab-e1774190764202.jpeg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "tesla",
+          "spacex",
+          "merger"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Anthropic’s Claude escaped test sandbox to attack three organizations",
+        "link": "https://www.theregister.com/ai-and-ml/2026/07/31/anthropics-claude-escaped-test-sandbox-to-attack-three-organizations/5281562",
+        "description": "Wrote and published malware during tests, which is apparently OK because leaky test environments were the real problem",
+        "published": "2026-07-31T02:19:39.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=5281583&width=800",
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "anthropic",
+          "claude"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple drops 7%, Amazon surges 12% as investors pick AI winners after earnings",
+        "link": "https://www.cnbc.com/2026/07/31/apple-aapl-amazon-amzn-stock-today.html",
+        "description": "Shares of Amazon jumped sharply in premarket trading on Friday while Apple dropped as investors digest earnings.",
+        "published": "2026-07-31T08:50:14.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "apple",
+          "amazon"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Amazon's Zoox is the first steering wheel-free robotaxi to get regulatory approval for paid rides",
+        "link": "https://www.engadget.com/2227649/amazon-zoox-first-steering-wheel-free-robotaxi-regulatory-approval-paid-rides/",
+        "description": "The NHTSA has given Amazon's Zoox permission to charge for rides. It's the first AV with no manual controls to get it.",
+        "published": "2026-07-31T08:18:25.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/amazons-zoox-is-the-first-steering-wheel-free-robotaxi-to-get-regulatory-approval-for-paid-rides/l-intro-1785485776.jpg",
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "amazon",
+          "robotaxi"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "What We Know So Far About Hacking by Anthropic AI Models",
+        "link": "https://www.bloomberg.com/news/videos/2026-07-31/what-we-know-so-far-about-hacking-by-anthropic-ai-models-video",
+        "description": "Here's what we know so far about Anthropic's AI models breaching three organizations during cybersecurity tests which went awry. (Source: Bloomberg)",
+        "published": "2026-07-31T02:29:30.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "anthropic"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Thinking Machines debuts Inkling Small open source AI model nearing performance of predecessor at about 1/4 size",
+        "link": "https://venturebeat.com/technology/thinking-machines-debuts-inkling-small-open-source-ai-model-nearing-performance-of-predecessor-at-about-1-4-size",
+        "description": "Just two weeks after Thinking Machines released Inkling, its first open source AI language model, the well-funded startup led by former OpenAI chief technology officer Mira Murati today introduced Inkling-Small without sacrificing much of any performance — and in fact, the new model surpasses its larger predecessor on several benchmarks.\nInkling Small is a 276-billion-parameter multimodal reasoning model with a permissive Apache 2.0 license that comes within a single point of its larger sibling on the third-party Artificial Analysis Intelligence Index, despite the original Inkling being 975 billion parameters (internal model settings). It accepts text, image and audio inputs, produces text, and supports a context window of up to one million tokens.\nInkling Small uses 12 billion active parameters per token, compared with Inkling’s 41 billion active parameters, while preserving much of the flagship’s coding, reasoning and multimodal performance.\nFor enterprises, the appeal is not simply that Inkling-Small is smaller. It is that developers appear to give up relatively little capability while reducing the model’s compute requirements, inference costs and deployment footprint. \nThe model remains far too large for a laptop or conventional workstation, but it is materially easier to operate than the 3.5X larger flagship, making it a good fit for enterprises with some — but not a lot — of their own graphics processing units (GPUs). \nThinking Machines has released the full weights on Hugging Face and added support for fine-tuning through its Tinker model training application programming interface (API). \nAt launch, the company is advertising a limited-time 50% discount, bringing API pricing for the standard 64K-context Inkling-Small model to $0.58 per million prefill (input) tokens, $1.44 per million sampled (output) tokens, and $1.73 per million training tokens, with cached prefill requests priced at $0.116 per million tokens. A 256K-context variant is also available at higher rates.\nNearly the same performance at a quarter the size\nArtificial Analysis assigned Inkling-Small a score of 40 on its Intelligence Index, compared with 41 for Inkling. \nThat result is notable because Inkling-Small has 276 billion total parameters and 12 billion active parameters, while Inkling has 975 billion total parameters and 41 billion active parameters.\nArtificial Analysis also reported that no open-weight model at Inkling-Small’s size or smaller scored higher on the index.\nThe model does more than merely approach the flagship’s aggregate score. On several evaluations, it surpasses Inkling.\nThinking Machines reports that Inkling-Small scores 80.2% on SWE-bench Verified, compared with Inkling’s 77.6%, and 64.7% on Terminal Bench 2.1, compared with 63.8% for the larger model. It also edges ahead on SciCode, Humanity’s Last Exam, GPQA Diamond and CritPt.\nThe gains are not universal. Inkling retains a clear advantage on factual knowledge and some agentic tasks. Inkling-Small scores 15.5% on τ³-Banking, compared with 23.7% for Inkling, and its AA Omniscience score is negative, reflecting weaker factual coverage even though its reported hallucination rate is slightly lower.\nThat tradeoff matters for enterprises. Inkling-Small may be attractive for coding assistants, tool-use systems, retrieval-augmented generation, document analysis and multimodal workflows, but organizations using it for high-stakes factual tasks will still need retrieval, verification and human review.\nHow a 276B model uses only 12B parameters at a time\nInkling-Small is a sparse Mixture-of-Experts model. According to the model card published by Thinking Machines, its 42-layer decoder routes each token to six of 256 specialized experts, along with two shared experts that remain active for every token.\nThat architecture helps explain the distinction between the model’s 276 billion total parameters and its 12 billion active parameters. The system retains a large pool of learned capacity but activates only a fraction of it during each inference step.\nIt is also natively multimodal. Images, audio and text are projected into a shared representation and processed jointly by the decoder rather than being handled through completely separate external systems. Thinking Machines lists coding assistants, agentic applications, chatbots, RAG systems and other multimodal applications among its intended uses.\nThe company also supports variable reasoning effort, allowing developers to increase or reduce the model’s test-time compute depending on the difficulty of the task. That gives engineering teams a direct way to balance quality, latency and cost across different workloads.\nUnfortunately, small does not mean it runs on a laptop\nDespite its name, Inkling-Small is not a consumer-scale model.\nThe standard BF16 checkpoint requires at least 600 GB of aggregate GPU memory, according to Thinking Machines. The company lists two supported configurations: 4x NVIDIA B300 GPUs or 8x NVIDIA H200 GPUs.\nA quantized NVFP4 checkpoint lowers the requirement to roughly 180 GB of aggregate VRAM. Thinking Machines says that version can run in W4A4 mode on a single NVIDIA B300, or in W4A16 mode on two H200 GPUs.\nThat rules out ordinary laptops, MacBooks, desktop gaming PCs and most developer workstations. Even heavily equipped local systems generally fall far short of the required memory.\nThe practical deployment targets are enterprise GPU servers, cloud clusters and specialized inference providers. The “Small” label is therefore relative to Inkling, not to the broader universe of local models.\nStill, the reduction is meaningful. A model that approaches Inkling’s performance while needing substantially less aggregate memory can lower hosting costs, make capacity planning easier and widen the group of organizations capable of self-hosting it. \nFor companies that want control over data, model behavior and fine-tuning, that smaller footprint may be more important than chasing the highest possible benchmark score.\nAnd of course, it being open source means that it will no doubt be rapidly quantized (made less precise but requiring less compute) and likely blended with other models to be made even smaller for consumer-grade hardware. \nApache 2.0 is the gold standard for enterprise open source models\nThe licensing may be as important as the benchmarks.\nInkling-Small is released under Apache 2.0, one of the software industry’s most familiar permissive licenses. It generally allows organizations to use, modify, fine-tune, redistribute and commercialize the model, including inside proprietary products, provided they comply with the license’s notice and attribution requirements.\nThat gives enterprises far more legal flexibility than many custom “open” AI licenses, which may include revenue thresholds, branding obligations, use restrictions or separate conditions for large-scale commercial deployment.\nThe distinction is increasingly relevant as more AI companies publish model weights without using a conventional open-source license.\nChinese AI darling Moonshot for example, made the weights of its frontier class Kimi K3 model available earlier this week under a custom \"open\" license that includes additional commercial conditions rather than the comparatively straightforward terms of Apache 2.0.\nFor legal, procurement and platform teams, that difference can materially simplify adoption. Apache 2.0 does not eliminate the need to review acceptable-use policies, data provenance, regulatory exposure or downstream safety obligations. But it gives organizations a clearer starting point for building internal systems, shipping commercial products and maintaining modified versions of the model.\nA more repeatable model-development pipeline\nInkling-Small also shows how quickly Thinking Machines has turned its first large model release into a repeatable engineering process.\nThinking Machines researcher Horace He contrasted the two launches in a post on X:\n\n“Whereas I felt like it took a village to release Inkling, Inkling-Small felt much more routine 😆 We just took the pipeline used for Inkling, passed in a smaller model, and voila — new model! Inkling Small benefited quite a bit vs Inkling from some minor improvements, but there’s still so much more left in the tank...”\n\nThe comment suggests the company is no longer treating each model as a one-off research project. Instead, it is building a reusable pipeline for pre-training, post-training, reinforcement learning, evaluation and release.\nThinking Machines says Inkling-Small benefited from an improved pre-training data mix, changes to the machine-learning recipe and on-policy distillation using Inkling as a teacher. The team then continued agentic coding reinforcement learning for two weeks.\nMira Murati emphasized the same point in her own post, describing Inkling-Small as comparable to Inkling at one quarter of the size and highlighting that the weights were open and fine-tunable on Tinker immediately.\nHow enterprises and AI builders should think about Inkling Small\nThe company is also distributing full BF16 and NVFP4 checkpoints and supporting deployment through SGLang, vLLM, TokenSpeed, Unsloth and Hugging Face tooling.\nThat combination gives developers several deployment paths: use an API, fine-tune through Tinker, rely on a third-party inference provider, or operate the model on private infrastructure.\nInkling-Small is not a model that most individuals will download and run locally. But for businesses deciding between a very large flagship and a more manageable open-weight system, it presents a compelling compromise: nearly the same measured intelligence, stronger results on several coding and reasoning tasks, lower token pricing, a smaller hardware footprint and a license that permits broad commercial development.\nThe broader signal may be just as important. Thinking Machines is showing that Inkling was not a one-time release. The company is already compressing its model family, refining its training pipeline and moving toward a cadence in which open-weight multimodal systems can be produced, improved and deployed more routinely.",
+        "published": "2026-07-31T00:14:22.000Z",
+        "source": "VentureBeat",
+        "sourceKey": "venturebeat",
+        "priority": 1,
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/7gMtExpXjcD7vdSrlrD5Af/f6e41d5d0d1248046f97c767e5d7aee4/ChatGPT_Image_Jul_30__2026__07_32_19_PM.png?w=300&q=30",
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "openai",
+          "billion"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "SK Hynix, Samsung shares skyrocket to clock best days as AI rally roars back",
+        "link": "https://www.cnbc.com/2026/07/31/sk-hynix-samsung-ai-rally-chipmakers.html",
+        "description": "South Korea's chip heavyweights SK Hynix and Samsung Electronics soared more than 20% on Friday, tracking a sharp rally in U.S. technology stocks.",
+        "published": "2026-07-31T07:41:35.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "samsung",
+          "chip"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "We're raising our Apple price target, seeing plenty of good despite the memory crunch knocks",
+        "link": "https://www.cnbc.com/2026/07/30/were-raising-our-apple-price-target-seeing-plenty-of-good-despite-memory-crunch.html",
+        "description": "It was a good but not great quarter as Apple worked to mitigate the memory shortage, which impacted the reported quarter and guidance.",
+        "published": "2026-07-31T00:59:35.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "China’s MiniMax and ByteDance Release Dueling AI Video Models",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-31/china-s-minimax-and-bytedance-release-dueling-ai-video-models",
+        "description": "MiniMax Group Inc. and ByteDance Ltd. released updates to their dueling AI video generation models within hours of each other, underscoring the aggressive advances that have made China the leader over the US in the burgeoning arena.",
+        "published": "2026-07-31T09:01:25.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "bytedance"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Hong Kong’s Economy Slows More Than Forecast Despite AI Boom",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-31/hong-kong-s-economy-slows-more-than-forecast-despite-export-boom",
+        "description": "Hong Kong’s economic growth slowed more than forecast last quarter, even as a global rush to invest in artificial intelligence turbocharges the city’s exports.",
+        "published": "2026-07-31T08:39:26.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "intel",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "DeepSeek Unveils Public Beta API for Flagship AI Model",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-31/deepseek-unveils-public-beta-api-for-flagship-ai-model",
+        "description": "China’s DeepSeek rolled out a public beta application programming interface, or API, for its flagship artificial intelligence model, V4 Flash, touting advancements in agentic abilities.",
+        "published": "2026-07-31T06:50:42.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "intel",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Tech Stocks Rally as Korea Surges, Yen Pares Gain",
+        "link": "https://www.bloomberg.com/news/videos/2026-07-31/tech-stocks-rally-as-korea-surges-yen-pares-gain-video",
+        "description": "A global rally in technology stocks gathered momentum as South Korean equities posted a record jump, with investors returning to the artificial intelligence trade after this week’s rout. (Source: Bloomberg)",
+        "published": "2026-07-31T04:35:24.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "intel",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Yet another major Chinese car brand is preparing to support Car Keys in Apple Wallet",
+        "link": "https://9to5mac.com/2026/07/30/yet-another-major-chinese-car-brand-is-preparing-to-support-apple-car-keys/",
+        "description": "Following recent backend code changes pointing to Car Keys support for GWM’s Tank vehicles, Apple now appears to be preparing to expand the feature to another of the automaker’s brands. Here are the details.",
+        "published": "2026-07-31T01:57:22.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-wallet-dark-purple.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Quantum Solutions, Hyperscale Data tap crypto treasuries to fund AI data centers",
+        "link": "https://www.coindesk.com/business/2026/07/31/quantum-solutions-hyperscale-data-tap-crypto-treasuries-to-fund-ai-data-centers",
+        "description": "The firm’s board raised the sale cap to 4,375 ETH through Oct. 30, nearly 66% of June holdings, although 3,050 of its remaining ETH is pledged.",
+        "published": "2026-07-31T08:57:02.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "quantum",
+          "data center"
+        ],
+        "category": "ai"
+      }
+    ],
+    "chips_cloud": [
+      {
+        "title": "Thailand’s True Internet Data Center Seeks $2 Billion Loan",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-31/thailand-s-true-internet-data-center-seeks-2-billion-loan",
+        "description": "Thailand’s True Internet Data Center Co. is seeking an about $2 billion-equivalent loan to build a new facility, according to people familiar with the matter, as the country looks to become a regional hub for artificial intelligence and cloud services.",
+        "published": "2026-07-31T02:46:25.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "intel",
+          "artificial intelligence",
+          "data center",
+          "billion"
+        ],
+        "category": "chips_cloud"
+      }
+    ],
+    "ev_autonomous": [
+      {
+        "title": "South Korea's 'bipolar' stock market: meltdowns, a record rally and what's to come",
+        "link": "https://www.cnbc.com/2026/07/31/south-korea-kospi-samsung-sk-hynix-meltdown-record-rebound.html",
+        "description": "South Korea's stock market staged its sharpest reversal on record on Friday, capping a month of wild swings.",
+        "published": "2026-07-31T03:47:31.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "ipo"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Apple Leads Phone Revenues and Prices Up, Counterpoint Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-31/apple-leads-phone-revenues-and-prices-up-counterpoint-says",
+        "description": "Apple Inc. led a 7% increase in global smartphone revenue over the June quarter, showing how rising prices are offsetting shrinking shipments, according to Counterpoint Research.",
+        "published": "2026-07-31T08:00:00.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ev_autonomous"
+      }
+    ],
+    "business": [
+      {
+        "title": "European Execs Show AI Optimism: Markets Snapshot",
+        "link": "https://www.bloomberg.com/news/videos/2026-07-31/european-execs-show-ai-optimism-markets-snapshot-video",
+        "description": "A big week of earnings results for some of the world's most influential companies has been underscored by the global AI infrastructure buildout, tightening supply chains and ongoing geopolitical uncertainty. The Opening Trade spoke to CEOs and corporate heavy weights to get clarity on their second-half outlook and whether they remain optimistic on returns from their AI investments. (Source: Bloomberg)",
+        "published": "2026-07-31T08:29:13.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "ceo"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Amazon's Q2 was great, but the earnings release is packed with baloney",
+        "link": "https://www.theregister.com/paas-and-iaas/2026/07/31/amazon-q2-earnings-strong-results-much-baloney-in-press-release-corey-quinn/5281486",
+        "description": "\"Tell me lies, tell me sweet little lies\"",
+        "published": "2026-07-31T00:08:45.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=5281527&width=800",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "amazon"
+        ],
+        "category": "business"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "Bitcoin flat near $64,000 as Kospi's record 17% surge leaves crypto untouched",
+        "link": "https://www.coindesk.com/markets/2026/07/31/bitcoin-flat-near-usd64-000-as-kospi-s-record-17-surge-leaves-crypto-untouched",
+        "description": "Samsung and SK Hynix both jumped more than 23%. Bitcoin moved a fraction of a percent in the past 24 hours, and most majors are still lower on the week.",
+        "published": "2026-07-31T05:43:39.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "samsung",
+          "bitcoin"
+        ],
+        "category": "crypto"
+      }
+    ]
+  },
+  "totalArticles": 26
+}
