@@ -1,0 +1,346 @@
+{
+  "type": "daily",
+  "id": "26-08-11",
+  "title": "Tuesday, Aug 11",
+  "dateRange": "August 11, 2026",
+  "date": "2026-08-11",
+  "generatedAt": "2026-08-11T07:44:36.247Z",
+  "highlights": [
+    {
+      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+      "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+      "description": "San Francisco's housing market is in trouble again.",
+      "published": "2026-08-11T00:03:18.000Z",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "openai",
+        "billion"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Intel upsizes stock offering to $20 billion at $95 per share as AI demand accelerates",
+      "link": "https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html",
+      "description": "Technology giants have shelled out trillions to support insatiable AI demand and the infrastructure buildout.",
+      "published": "2026-08-11T07:17:00.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 6,
+      "matchedKeywords": [
+        "intel",
+        "billion"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "VinSpace Signs Launch Pact With SpaceX for 2027 Mission",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-11/vinspace-signs-launch-pact-with-spacex-for-2027-mission-mso67c3g",
+      "description": "VinSpace Joint Stock Co., a unit of Vingroup, signed an agreement with SpaceX to launch its first satellites next year, as it seeks to build a domestic space business spanning satellite manufacturing, operations and data services.",
+      "published": "2026-08-11T04:38:42.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 6,
+      "matchedKeywords": [
+        "spacex",
+        "satellite"
+      ],
+      "category": "space"
+    },
+    {
+      "title": "Apple Still Planning 'Glass-Centric' iPhone Redesign for 2027",
+      "link": "https://www.macrumors.com/2026/08/10/glass-centric-iphone-still-planned-2027/",
+      "description": "Aiming to refute a report from Jefferies analyst Edison Lee earlier today that claimed Apple's all-glass iPhone planned for the device's 20th anniversary next year has been canceled, Bloomberg's Mark Gurman says that the \"glass-centric\" redesign remains on track for 2027.\r\n\r\n\r\nGurman says that the 20th-anniversary iPhone will make heavy use of glass, with the front and rear wrapping around the edges to sandwich a thin metal band.\nThe company expects to launch iPhone Pro models next year that will make use of a new glassy look, according to the people, who asked not to be identified because the work is confidential. Glass is used on the front and back of the phones — known internally as V73 and V74 — and the material will curve into the sides of the devices, with a metal band in the middle.\nGurman does mention a \"more aspirational version\" that \"used even more glass,\" but says that design \"was scrapped early on\" in the development cycle.\r\n\r\nIt's possible that this more ambitious design is the one Lee was referring to in today's report, but Gurman implies that it was discarded some time ago, rather than being a more recent development as Lee had suggested.\r\n\r\nTags: 20th-Anniversary iPhone, Bloomberg, Mark Gurman\nThis article, \"Apple Still Planning 'Glass-Centric' iPhone Redesign for 2027\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+      "published": "2026-08-11T03:10:14.000Z",
+      "source": "MacRumors",
+      "sourceKey": "macrumors",
+      "priority": 2,
+      "image": "https://images.macrumors.com/article-new/2026/07/iphone-20-anniversary.jpg",
+      "relevanceScore": 6,
+      "matchedKeywords": [
+        "apple",
+        "meta"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "iOS 27 Hints at 'Apple Reference Image' Photo Authentication",
+      "link": "https://www.macrumors.com/2026/08/10/ios-27-apple-reference-image/",
+      "description": "Apple is working on \"Apple Reference Image,\" a photo provenance system that will verify if an image was captured with an iPhone. References to the feature were found in a privacy disclosure included in iOS 27 beta 5, but it is not live yet.\r\n\r\n\r\nAccording to the text, there will be a \"Reference\" mode option in the Camera app that users can select. Using this mode will embed provenance data in the image's metadata.\r\n\r\nImages captured with an opt-in Reference mode can be authenticated to confirm they were taken with an iPhone. Authenticating is done by tapping the Reference badge on the image, which sends the raw image, sensor signatures, capture time frame, and the unique hardware identifiers of the sensor to Apple's Private Cloud Compute (PCC) servers. PCC uses the information to determine whether the camera captured the photo, gives it a unique ID, and then returns an authenticated version to the user's device.\r\n\r\nWhen authenticating a photo, Apple receives sensor data, a hash, and the assessment results, but not the raw photo. Apple can refuse to authenticate images from a sensor that might be compromised, and it can retroactively revoke a sensor's past authentications.\r\n\r\niPad, or Mac, and the Reference badge can also be clicked on a Mac. Images have to be captured in Apple's specific Reference mode to be authenticated, which suggests it's a feature aimed at pro photographers, journalists, and others who need to verify images. There may also be a video component, since Apple's disclosure mentions \"photos or videos\" and \"uncropped footage.\"\r\n\r\nImage Playground.\r\n\r\nRelated Roundups: iOS 27, iPadOS 27\nThis article, \"iOS 27 Hints at 'Apple Reference Image' Photo Authentication\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+      "published": "2026-08-11T00:08:29.000Z",
+      "source": "MacRumors",
+      "sourceKey": "macrumors",
+      "priority": 2,
+      "image": "https://images.macrumors.com/article-new/2025/08/iOS-26-Glass-Photos-Feature.jpg",
+      "relevanceScore": 6,
+      "matchedKeywords": [
+        "apple",
+        "meta"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Apple’s Glass-Centric 20th-Anniversary iPhone Remains on Track for 2027",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-11/apple-s-glass-centric-20th-anniversary-iphone-remains-on-track-for-2027",
+      "description": "Apple Inc. is still planning to offer a glass-centric overhaul of the iPhone for the device’s 20th anniversary, people familiar with the matter said, countering an analyst report that the move had been canceled.",
+      "published": "2026-08-11T01:30:36.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 5,
+      "matchedKeywords": [
+        "apple"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Meta Quest Promo Codes and Coupons for August 2026",
+      "link": "https://www.wired.com/story/meta-quest-promo-code/",
+      "description": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
+      "published": "2026-08-11T05:00:00.000Z",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "priority": 2,
+      "image": null,
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "meta"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "India’s Banking Regulator Urges Lenders to Accelerate AI Spend",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-11/india-s-banking-regulator-urges-lenders-to-accelerate-ai-spend",
+      "description": "Indian lenders need to accelerate adoption of artificial intelligence by investing in technology and infrastructure besides training workers to upskill, central bank Governor Sanjay Malhotra said Tuesday.",
+      "published": "2026-08-11T06:03:45.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "intel",
+        "artificial intelligence"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "AI Boom Set to Drive Singapore Growth as High as 5.5% This Year",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-11/ai-boom-set-to-drive-singapore-growth-as-high-as-5-5-this-year",
+      "description": "Singapore upgraded its 2026 economic growth forecast anew as the artificial intelligence boom lifts trade and manufacturing, offsetting the drag from continued fighting in the Middle East.",
+      "published": "2026-08-11T00:00:00.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "intel",
+        "artificial intelligence"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Apple’s 20th-anniversary iPhone redesign reportedly remains on track",
+      "link": "https://9to5mac.com/2026/08/10/apples-20th-anniversary-iphone-redesign-reportedly-remains-on-track/",
+      "description": "Following reports that Apple had scrapped its long-rumored all-glass iPhone planned for the device’s 20th anniversary, Bloomberg says the redesign remains on track for next year’s Pro models. Here are the details.",
+      "published": "2026-08-11T02:14:14.000Z",
+      "source": "9to5Mac",
+      "sourceKey": "9to5mac",
+      "priority": 2,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/Mac-hardware-is-great-but-macOS-26-is-a-disaster-say-pundits.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "apple"
+      ],
+      "category": "ai"
+    }
+  ],
+  "byCategory": {
+    "ai": [
+      {
+        "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+        "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+        "description": "San Francisco's housing market is in trouble again.",
+        "published": "2026-08-11T00:03:18.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "openai",
+          "billion"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Intel upsizes stock offering to $20 billion at $95 per share as AI demand accelerates",
+        "link": "https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html",
+        "description": "Technology giants have shelled out trillions to support insatiable AI demand and the infrastructure buildout.",
+        "published": "2026-08-11T07:17:00.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "intel",
+          "billion"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple Still Planning 'Glass-Centric' iPhone Redesign for 2027",
+        "link": "https://www.macrumors.com/2026/08/10/glass-centric-iphone-still-planned-2027/",
+        "description": "Aiming to refute a report from Jefferies analyst Edison Lee earlier today that claimed Apple's all-glass iPhone planned for the device's 20th anniversary next year has been canceled, Bloomberg's Mark Gurman says that the \"glass-centric\" redesign remains on track for 2027.\r\n\r\n\r\nGurman says that the 20th-anniversary iPhone will make heavy use of glass, with the front and rear wrapping around the edges to sandwich a thin metal band.\nThe company expects to launch iPhone Pro models next year that will make use of a new glassy look, according to the people, who asked not to be identified because the work is confidential. Glass is used on the front and back of the phones — known internally as V73 and V74 — and the material will curve into the sides of the devices, with a metal band in the middle.\nGurman does mention a \"more aspirational version\" that \"used even more glass,\" but says that design \"was scrapped early on\" in the development cycle.\r\n\r\nIt's possible that this more ambitious design is the one Lee was referring to in today's report, but Gurman implies that it was discarded some time ago, rather than being a more recent development as Lee had suggested.\r\n\r\nTags: 20th-Anniversary iPhone, Bloomberg, Mark Gurman\nThis article, \"Apple Still Planning 'Glass-Centric' iPhone Redesign for 2027\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-08-11T03:10:14.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/07/iphone-20-anniversary.jpg",
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "apple",
+          "meta"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "iOS 27 Hints at 'Apple Reference Image' Photo Authentication",
+        "link": "https://www.macrumors.com/2026/08/10/ios-27-apple-reference-image/",
+        "description": "Apple is working on \"Apple Reference Image,\" a photo provenance system that will verify if an image was captured with an iPhone. References to the feature were found in a privacy disclosure included in iOS 27 beta 5, but it is not live yet.\r\n\r\n\r\nAccording to the text, there will be a \"Reference\" mode option in the Camera app that users can select. Using this mode will embed provenance data in the image's metadata.\r\n\r\nImages captured with an opt-in Reference mode can be authenticated to confirm they were taken with an iPhone. Authenticating is done by tapping the Reference badge on the image, which sends the raw image, sensor signatures, capture time frame, and the unique hardware identifiers of the sensor to Apple's Private Cloud Compute (PCC) servers. PCC uses the information to determine whether the camera captured the photo, gives it a unique ID, and then returns an authenticated version to the user's device.\r\n\r\nWhen authenticating a photo, Apple receives sensor data, a hash, and the assessment results, but not the raw photo. Apple can refuse to authenticate images from a sensor that might be compromised, and it can retroactively revoke a sensor's past authentications.\r\n\r\niPad, or Mac, and the Reference badge can also be clicked on a Mac. Images have to be captured in Apple's specific Reference mode to be authenticated, which suggests it's a feature aimed at pro photographers, journalists, and others who need to verify images. There may also be a video component, since Apple's disclosure mentions \"photos or videos\" and \"uncropped footage.\"\r\n\r\nImage Playground.\r\n\r\nRelated Roundups: iOS 27, iPadOS 27\nThis article, \"iOS 27 Hints at 'Apple Reference Image' Photo Authentication\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-08-11T00:08:29.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2025/08/iOS-26-Glass-Photos-Feature.jpg",
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "apple",
+          "meta"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple’s Glass-Centric 20th-Anniversary iPhone Remains on Track for 2027",
+        "link": "https://www.bloomberg.com/news/articles/2026-08-11/apple-s-glass-centric-20th-anniversary-iphone-remains-on-track-for-2027",
+        "description": "Apple Inc. is still planning to offer a glass-centric overhaul of the iPhone for the device’s 20th anniversary, people familiar with the matter said, countering an analyst report that the move had been canceled.",
+        "published": "2026-08-11T01:30:36.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Meta Quest Promo Codes and Coupons for August 2026",
+        "link": "https://www.wired.com/story/meta-quest-promo-code/",
+        "description": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
+        "published": "2026-08-11T05:00:00.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "meta"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "India’s Banking Regulator Urges Lenders to Accelerate AI Spend",
+        "link": "https://www.bloomberg.com/news/articles/2026-08-11/india-s-banking-regulator-urges-lenders-to-accelerate-ai-spend",
+        "description": "Indian lenders need to accelerate adoption of artificial intelligence by investing in technology and infrastructure besides training workers to upskill, central bank Governor Sanjay Malhotra said Tuesday.",
+        "published": "2026-08-11T06:03:45.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "intel",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "AI Boom Set to Drive Singapore Growth as High as 5.5% This Year",
+        "link": "https://www.bloomberg.com/news/articles/2026-08-11/ai-boom-set-to-drive-singapore-growth-as-high-as-5-5-this-year",
+        "description": "Singapore upgraded its 2026 economic growth forecast anew as the artificial intelligence boom lifts trade and manufacturing, offsetting the drag from continued fighting in the Middle East.",
+        "published": "2026-08-11T00:00:00.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "intel",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple’s 20th-anniversary iPhone redesign reportedly remains on track",
+        "link": "https://9to5mac.com/2026/08/10/apples-20th-anniversary-iphone-redesign-reportedly-remains-on-track/",
+        "description": "Following reports that Apple had scrapped its long-rumored all-glass iPhone planned for the device’s 20th anniversary, Bloomberg says the redesign remains on track for next year’s Pro models. Here are the details.",
+        "published": "2026-08-11T02:14:14.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/Mac-hardware-is-great-but-macOS-26-is-a-disaster-say-pundits.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Jefferies downgrades Apple stock, cites all-glass iPhone cancellation rumor",
+        "link": "https://9to5mac.com/2026/08/10/jefferies-downgrades-apple-stock-cites-all-glass-iphone-cancellation-rumor/",
+        "description": "Jefferies today became the latest firm to cut Apple’s stock price target in recent days, citing supply chain checks that suggest Apple has scrapped plans for a rumored all-glass iPhone expected to mark the device’s 20th anniversary next year. Here are the details.",
+        "published": "2026-08-11T01:27:42.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/AAPL-stock-slides-but-is-it-a-reaction-to-AI-announcements.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      }
+    ],
+    "space": [
+      {
+        "title": "VinSpace Signs Launch Pact With SpaceX for 2027 Mission",
+        "link": "https://www.bloomberg.com/news/articles/2026-08-11/vinspace-signs-launch-pact-with-spacex-for-2027-mission-mso67c3g",
+        "description": "VinSpace Joint Stock Co., a unit of Vingroup, signed an agreement with SpaceX to launch its first satellites next year, as it seeks to build a domestic space business spanning satellite manufacturing, operations and data services.",
+        "published": "2026-08-11T04:38:42.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "spacex",
+          "satellite"
+        ],
+        "category": "space"
+      }
+    ]
+  },
+  "totalArticles": 11
+}
