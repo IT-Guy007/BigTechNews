@@ -1,0 +1,77 @@
+{
+  "type": "daily",
+  "id": "26-08-15",
+  "title": "Saturday, Aug 15",
+  "dateRange": "August 15, 2026",
+  "date": "2026-08-15",
+  "generatedAt": "2026-08-15T07:05:39.359Z",
+  "highlights": [
+    {
+      "title": "Anthropic says text watermarking scheme relies on inconsequential words",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/15/anthropic-says-text-watermarking-scheme-relies-on-inconsequential-words/5288156",
+      "description": "'Shall I compare thee to a summer's afternoon' is the sort of thing this will make, and others look likely to adopt it",
+      "published": "2026-08-15T00:44:41.000Z",
+      "source": "The Register",
+      "sourceKey": "theregister",
+      "priority": 2,
+      "image": "https://image.theregister.com/?imageId=5271370&width=800",
+      "relevanceScore": 7,
+      "matchedKeywords": [
+        "anthropic"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Commerce Secretary says US opposes Apple buying Chinese memory chips",
+      "link": "https://9to5mac.com/2026/08/14/commerce-secretary-says-us-opposes-apple-buying-chinese-memory-chips/",
+      "description": "The Wall Street Journal reports that US Commerce Secretary Howard Lutnick has urged Apple not to turn to Chinese memory chips as the company looks for alternatives to alleviate the ongoing global supply shortage. Here are the details.",
+      "published": "2026-08-15T02:15:02.000Z",
+      "source": "9to5Mac",
+      "sourceKey": "9to5mac",
+      "priority": 2,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2022/10/Working-for-Apple.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "relevanceScore": 5,
+      "matchedKeywords": [
+        "apple",
+        "chip"
+      ],
+      "category": "ai"
+    }
+  ],
+  "byCategory": {
+    "ai": [
+      {
+        "title": "Anthropic says text watermarking scheme relies on inconsequential words",
+        "link": "https://www.theregister.com/ai-and-ml/2026/08/15/anthropic-says-text-watermarking-scheme-relies-on-inconsequential-words/5288156",
+        "description": "'Shall I compare thee to a summer's afternoon' is the sort of thing this will make, and others look likely to adopt it",
+        "published": "2026-08-15T00:44:41.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=5271370&width=800",
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "anthropic"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Commerce Secretary says US opposes Apple buying Chinese memory chips",
+        "link": "https://9to5mac.com/2026/08/14/commerce-secretary-says-us-opposes-apple-buying-chinese-memory-chips/",
+        "description": "The Wall Street Journal reports that US Commerce Secretary Howard Lutnick has urged Apple not to turn to Chinese memory chips as the company looks for alternatives to alleviate the ongoing global supply shortage. Here are the details.",
+        "published": "2026-08-15T02:15:02.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2022/10/Working-for-Apple.jpg?quality=82&#038;strip=all&#038;w=1500",
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "apple",
+          "chip"
+        ],
+        "category": "ai"
+      }
+    ]
+  },
+  "totalArticles": 2
+}
