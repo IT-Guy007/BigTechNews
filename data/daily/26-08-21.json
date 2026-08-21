@@ -1,0 +1,390 @@
+{
+  "type": "daily",
+  "id": "26-08-21",
+  "title": "Friday, Aug 21",
+  "dateRange": "August 21, 2026",
+  "date": "2026-08-21",
+  "generatedAt": "2026-08-21T07:22:14.642Z",
+  "highlights": [
+    {
+      "title": "Can Anthropic Beat SpaceX’s Record IPO Size?",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-21/can-anthropic-beat-spacex-s-record-ipo-size-video",
+      "description": "Anthropic expects to match or beat the size of SpaceX’s record-setting initial public offering, according to people familiar with the matter, in the latest sign of overwhelming demand from investors looking to profit from the artificial intelligence boom. Anthony Stephens has the latest. (Source: Bloomberg)",
+      "published": "2026-08-21T05:38:31.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 19,
+      "matchedKeywords": [
+        "anthropic",
+        "spacex",
+        "intel",
+        "ipo",
+        "artificial intelligence"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
+      "link": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
+      "description": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months.",
+      "published": "2026-08-21T00:23:36.000Z",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 17,
+      "matchedKeywords": [
+        "tesla",
+        "uber",
+        "waymo",
+        "robotaxi"
+      ],
+      "category": "ev_autonomous"
+    },
+    {
+      "title": "Slack wants to drag AI coding out of the terminal and into the group chat",
+      "link": "https://venturebeat.com/orchestration/slack-wants-to-drag-ai-coding-out-of-the-terminal-and-into-the-group-chat",
+      "description": "Slack wants to drag AI coding out of the terminal and into the group chat.\nThe Salesforce-owned messaging platform today announced Slack Code, a new product that embeds AI coding agents — including Anthropic's Claude Code, Cognition's Devin, GitHub Copilot, and Vercel's agent — directly into dedicated Slack channels where entire teams can watch, steer, review, and ship software together. Slack Code is available on any Slack plan at launch, though customers need their own access to the partner agents.\nThe pitch is deceptively simple: today, most work with AI coding agents happens between one person and one agent, invisible to everyone else. Slack Code makes that work \"multiplayer.\" When someone tags a coding agent from any conversation, the agent spins up a project-specific code channel, does the work in the open — complete with code diffs, live previews, and a running plan visible in dedicated tabs — and archives the channel when the job is done, leaving behind a searchable audit trail.\n\"One of the things I love about this is that code is no longer the bottleneck,\" Rob Seaman, Slack's interim CEO, said in a press briefing ahead of the launch. \"Ideas, taste, judgment, craft — those are the things that are the bottleneck, and you've effectively extended the population that can contribute ideas, taste, judgment, and craft to anybody that exists in your Slack.\"\nIt is a consequential launch for Slack, and a revealing one for the broader enterprise AI market. The AI coding boom has so far been a story of individual productivity — a developer alone with Claude Code or OpenAI's Codex in a terminal window. Slack is betting that the next chapter belongs to whoever owns the collaborative layer around those agents. And it is making that bet at a moment when its parent company badly needs the story to land.\nHow Slack Code channels put AI coding agents to work in the open\nIn the interview, which also included executives from Cognition, Slack leaders described a workflow that looks less like pair programming and more like a newsroom.\nJeff Wang, president of new enterprise at Cognition — maker of the Devin coding agent — walked through a live demonstration: someone reports a broken feature in an engineering channel, Devin acknowledges it with an emoji, replies in the thread, investigates, and opens a pull request. \"It even knows the code owner, so you can see it tagged Theo into this as well,\" Wang said. \"Every time Devin is doing something like this, it does have its own computer. So here, it's actually using Chrome and the DevTools to test if the feature is working correctly.\"\nFrom there, the work migrates into a dedicated code channel where anyone — an engineer, a product manager, a designer — can jump in. In Wang's demo, a designer dropped a Figma file into the channel mid-task, and the agent incorporated it without breaking stride. The agent finished by posting the code changes alongside screenshots and a recorded demo proving the feature worked. That verification loop is central to the pitch: cloud-based agents, unlike agents running on a developer's laptop, can generate an auditable record that the work is actually correct. \"Scaling things, auditing things, giving it to everybody — that is much easier with these cloud agents form factor than it is with local agents,\" Wang said.\nThe launch reaches beyond code channels, too. Slack is shipping a broader rework of how agents live in the product: agent DMs that behave like conversations with a colleague, a new Agents tab that gives every agent session a home base with live status and a stop button, and an \"Add to Slack\" flow that lets teams deploy agents from platforms including Lovable, n8n, OpenAI, LangChain, and Airtable in a few clicks, with OAuth and configuration automated.\nWhy Slack says writing code is no longer the bottleneck in software development\nThe strategic argument underneath Slack Code is that AI has inverted the economics of software development. Writing code used to be the scarce, expensive step. Now, Slack's executives argue, it is the cheap one — and the constraint has moved upstream, to human judgment.\n\"One of the things I love about this is that code is no longer the bottleneck,\" Seaman said in the press briefing. \"Ideas, taste, judgment, craft — those are the things that are the bottleneck, and you've effectively extended the population that can contribute ideas, taste, judgment, and craft to anybody that exists in your Slack.\"\nCognition offered internal numbers to back up the velocity claim. \"We've seen our internal merged PR count go up 10x in the last few months, versus our headcount has only gone up like 40 percent,\" Wang said, describing a workflow where engineers fire off a Devin task, move to something else, and launch another — \"soon you have everybody working on like dozens of agents at a time.\"\nThe pattern extends well beyond engineers, Wang said. \"Believe it or not, a lot of our bugs are reported by our sales team. They report it in Slack, and then someone who's technical applies them to fix the bug.\" Seaman seized on that example as the whole thesis in miniature: \"So much of that stuff never even made its way to a product manager into a backlog because the communication vehicles weren't there, the motivation wasn't there, the knowledge that it could actually be fixed so quick wasn't there — and we've effectively knocked all of that down.\"\nWang went further, sketching where he believes this ends up. Toil work — \"fixing bugs, fixing CI/CD, or fixing vulnerabilities, all these things engineers probably don't want to do — we think will be automated away,\" he said. What remains is the work that \"requires creativity, planning, business logic.\" He added a prediction that will make some engineering leaders uneasy: while a human still gates every merge today, \"I suspect maybe in the next year it's just going to go through automatically.\"\nCan working in public solve the AI slop problem?\nThe obvious objection to democratizing software creation is quality. If anyone in a company can summon a coding agent, does an enterprise drown in what the industry has taken to calling \"AI slop\" — plausible-looking but poorly conceived output generated at scale by inexperienced users?\nSlack's executives argue, somewhat counterintuitively, that visibility is the antidote rather than the accelerant. \"The multiplayer part is a guard against that, actually, because people can see your work, people can comment on your work,\" said Katie Steigman, Slack's VP of product. She contrasted it with the status quo: \"If I'm doing God knows what in terminal with an agent, versus being able to do it in a place where people can see my intent and actually change and shape my work — or slap my hand and tell me that's slop, because that's real.\"\nSteigman, a product manager rather than an engineer, described her own practice as a template. \"When I put PRs up as a product person, I almost always tag in an engineer from my team. I don't just send a PR and ask for an approval,\" she said. \"Almost every time, an engineer will say something like, 'Come on, you can make that a little bit tighter,' or they'll actually give it some specific technical guidance, and the agent will take one more rev and produce code that has been touched by an engineer to a certain extent.\"\nSeaman framed the argument in grander terms: \"I think the moral arc of multiplayer AI bends towards higher quality and less duplication.\" He pointed to Shopify, where he said CEO Tobi Lütke has written about restricting agentic coding to public channels precisely because it \"immediately disseminates every single thing that's happening in the company\" and levels the playing field. Still, the skeptics' case has data behind it. \nGartner predicted last year that more than 40 percent of agentic AI projects will be canceled by the end of 2027, citing escalating costs and unclear business value. And McKinsey's most recent State of AI survey found that while 62 percent of organizations are at least experimenting with AI agents, only about a third have begun scaling AI at all, and just 39 percent report any bottom-line impact. The gap between agent enthusiasm and agent value remains the defining feature of the market Slack is selling into.\nInside Slack Code's security model: no god mode, no new identities\nFor enterprise buyers, the most consequential design decision in Slack Code may be its permissions model. Asked directly whether agents in code channels could leak access across teams — a finance repo visible to legal, say — Seaman was emphatic that agents inherit the permissions of the human who invokes them, and nothing more.\n\"Everything is done on behalf of the user, using the user's ACLs, both in Slack and in the systems that they're connecting to,\" he said. \"There's no god permissions or bot-level permissions... Within Slack, the agent has access to information that the user has access to, and access to the channels that it's been added to.\"\nSteigman added that when an agent spins up a code channel, \"the only thing that agent gets from the code channel is the context of the conversation\" that triggered it. On the execution side, Wang said Devin runs in isolated sandboxes with \"minimum viable access\" — including an optional mode with no internet access at all. \"You've heard all these stories about the agent escaping and causing havoc,\" he acknowledged, \"but we have different security configurations.\"\nThis \"agents as extensions of existing users\" model is a genuine differentiator against standalone agent platforms, which typically force IT departments to provision new service identities and manage a patchwork of one-off permissions. It also answers the shadow-IT question that has dogged agentic tools: because agents produce standard pull requests into GitHub, existing release gates and review processes still apply. \"It reduces that barrier upfront to get that initial PR up,\" Steigman said. \"Then the due diligence still happens in GitHub.\"\nWhat Slack Code means for Salesforce's high-stakes AI turnaround\nSlack Code arrives amid a turbulent stretch for its parent company. Salesforce shares fell roughly 18 percent over the year through January, badly lagging the Nasdaq, as Wall Street questioned whether AI would erode demand for traditional enterprise software. In December, OpenAI hired away Slack CEO Denise Dresser as its chief revenue officer, elevating Seaman — then Slack's product chief — to interim CEO.\nSalesforce has responded by racing to make Slack the AI front door for work. In January it shipped a rebuilt Slackbot powered by Anthropic's Claude, which the companies said became the fastest-adopted feature in the company's 27-year history. Slack Code extends that strategy from answering questions to producing artifacts: not just messages, but working code, prototypes, and documents generated inside Slack itself.\nThere is also a notable strategic reversal embedded in today's news. In mid-2025, Reuters reported that Salesforce had moved to block rival AI firms from accessing Slack data — a defensive crouch.\nToday's announcement, by contrast, positions Slack as an open platform courting exactly those AI companies as partners, with plans to open the code channel APIs to any developer. Software engineering, the company says, is just the first use case; marketing campaigns and legal document reviews in dedicated agent channels are next. The calculus appears to have shifted from protecting Slack's data to making Slack indispensable as the venue where agents — anyone's agents — do their work.\nPartners are, unsurprisingly, saying the right things. \"A whole team can gather in one code channel, watch the agent work, steer it together, and ship a preview,\" said Vercel CTO Malte Ubl. GitHub chief product officer Mario Rodriguez called Slack \"a strategic part of a broader GitHub promise: humans set direction, agents close the loop.\"\nThe future of AI coding: multiplayer channels and single-player terminals will coexist\nNone of Slack's executives claim the terminal is dead. Asked whether tools like Claude Code and Codex become obsolete, Seaman predicted a division of labor. \"The overwhelming majority of the work is actually going to happen in these multiplayer environments,\" he said. \"But there's going to be deep, immersive, intensive, single-player thought work that's going to happen in terminals.\" An engineer rethinking a codebase's architecture goes heads-down with an agent; a sales rep flagging a broken button gets a fix in a channel everyone can see.\nThe trust curve, Seaman suggested, will look familiar to anyone who watched teams adopt earlier waves of automation. \"People are going to open these things at the beginning\" — reading every diff, every thinking step — \"and then build trust in the system and open it less and less over time.\"\nThat is the wager, and it is bigger than a product launch. McKinsey's research shows the organizations capturing real value from AI are the ones that redesign workflows around it rather than bolting it onto old processes — and Slack Code is, at bottom, a workflow redesign packaged as a feature, an attempt to make the team rather than the individual the unit of AI adoption. If it works, the company that once changed where colleagues talk will have changed where software gets made. If it doesn't, all that transparency may just mean everyone gets to watch the slop pile up together.\nEither way, the era of the lone developer whispering to an agent in a private tab is ending. As Wang put it: \"The bottlenecks have shifted.\" The question Slack Code will answer is whether the crowd makes them smaller — or just louder.",
+      "published": "2026-08-21T00:00:00.000Z",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "priority": 1,
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/64GVvPFWGaLTPjNLaZ9mdN/740b7f4f14646dcfca71b13822379524/Nuneybits_Vector_art_of_terminal_dissolving_into_colorful_team__390a5221-7b54-4a07-a6a1-b48a95bb2f5c.webp?w=300&q=30",
+      "relevanceScore": 14,
+      "matchedKeywords": [
+        "anthropic",
+        "salesforce",
+        "claude",
+        "agi"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Musk Touts Starlink for India’s Rural Users Amid Stalled Launch",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-21/musk-touts-starlink-for-india-s-rural-users-as-rollout-stalled",
+      "description": "Billionaire Elon Musk pitched Starlink Inc.’s satellite-based internet service as a solution for India’s most underserved rural regions, even though the operator’s launch remains stalled in the country over security concerns.",
+      "published": "2026-08-21T06:04:54.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 7,
+      "matchedKeywords": [
+        "elon musk",
+        "starlink",
+        "satellite",
+        "billion"
+      ],
+      "category": "space"
+    },
+    {
+      "title": "Samsung Set to Top Phone Market in Downturn, Counterpoint Says",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-21/samsung-set-to-top-phone-market-in-downturn-counterpoint-says",
+      "description": "Samsung Electronics Co. will regain the top position in the smartphone market this year, in a sign of its greater resilience to higher memory-chip prices, Counterpoint Research predicted.",
+      "published": "2026-08-21T01:53:19.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 6,
+      "matchedKeywords": [
+        "samsung",
+        "chip"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Humanoid Robots Put China Ahead in Tech Race",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-21/humanoid-robots-put-china-ahead-in-tech-race-video",
+      "description": "China’s humanoid robot makers now control 97% of global shipments, giving Beijing an early lead over U.S. rivals. At the World Robot Conference, robots sort boxes, handle laundry, and bag clothes, but the real test is whether they can become everyday tools. Bloomberg’s Allen Wan has more. (Source: Bloomberg)",
+      "published": "2026-08-21T07:16:36.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 5,
+      "matchedKeywords": [
+        "humanoid robot"
+      ],
+      "category": "robotics"
+    },
+    {
+      "title": "AI Spending Splurge Boosts Danfoss’s Bet on Data Center Cooling",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-21/ai-spending-splurge-boosts-danfoss-s-bet-on-data-center-cooling",
+      "description": "Danfoss A/S expects its data-center business to at least double its share of the firm’s sales this year as the artificial-intelligence boom drives spending on the cooling equipment needed to run increasingly powerful chips.",
+      "published": "2026-08-21T04:30:00.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 5,
+      "matchedKeywords": [
+        "intel",
+        "chip",
+        "data center"
+      ],
+      "category": "chips_cloud"
+    },
+    {
+      "title": "The Single English County Saying No to Palantir",
+      "link": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
+      "description": "The UK government is facing calls to cancel a sprawling health care contract with Palantir. The region of Greater Manchester insists it can do a better job itself.",
+      "published": "2026-08-21T06:00:00.000Z",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "priority": 2,
+      "image": null,
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "palantir"
+      ],
+      "category": null
+    },
+    {
+      "title": "Meta Quest Promo Codes and Coupons for August 2026",
+      "link": "https://www.wired.com/story/meta-quest-promo-code/",
+      "description": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
+      "published": "2026-08-21T05:00:00.000Z",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "priority": 2,
+      "image": null,
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "meta"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Fujifilm Expands Key Chip Material Output to Capture AI Demand",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-21/fujifilm-expands-key-chip-material-output-to-capture-ai-demand",
+      "description": "Fujifilm Holdings Corp. is expanding production of key materials used in advanced semiconductor manufacturing to capitalize on surging demand.",
+      "published": "2026-08-21T05:57:08.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "semiconductor",
+        "chip",
+        "tpu"
+      ],
+      "category": "ai"
+    }
+  ],
+  "byCategory": {
+    "ai": [
+      {
+        "title": "Can Anthropic Beat SpaceX’s Record IPO Size?",
+        "link": "https://www.bloomberg.com/news/videos/2026-08-21/can-anthropic-beat-spacex-s-record-ipo-size-video",
+        "description": "Anthropic expects to match or beat the size of SpaceX’s record-setting initial public offering, according to people familiar with the matter, in the latest sign of overwhelming demand from investors looking to profit from the artificial intelligence boom. Anthony Stephens has the latest. (Source: Bloomberg)",
+        "published": "2026-08-21T05:38:31.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 19,
+        "matchedKeywords": [
+          "anthropic",
+          "spacex",
+          "intel",
+          "ipo",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Slack wants to drag AI coding out of the terminal and into the group chat",
+        "link": "https://venturebeat.com/orchestration/slack-wants-to-drag-ai-coding-out-of-the-terminal-and-into-the-group-chat",
+        "description": "Slack wants to drag AI coding out of the terminal and into the group chat.\nThe Salesforce-owned messaging platform today announced Slack Code, a new product that embeds AI coding agents — including Anthropic's Claude Code, Cognition's Devin, GitHub Copilot, and Vercel's agent — directly into dedicated Slack channels where entire teams can watch, steer, review, and ship software together. Slack Code is available on any Slack plan at launch, though customers need their own access to the partner agents.\nThe pitch is deceptively simple: today, most work with AI coding agents happens between one person and one agent, invisible to everyone else. Slack Code makes that work \"multiplayer.\" When someone tags a coding agent from any conversation, the agent spins up a project-specific code channel, does the work in the open — complete with code diffs, live previews, and a running plan visible in dedicated tabs — and archives the channel when the job is done, leaving behind a searchable audit trail.\n\"One of the things I love about this is that code is no longer the bottleneck,\" Rob Seaman, Slack's interim CEO, said in a press briefing ahead of the launch. \"Ideas, taste, judgment, craft — those are the things that are the bottleneck, and you've effectively extended the population that can contribute ideas, taste, judgment, and craft to anybody that exists in your Slack.\"\nIt is a consequential launch for Slack, and a revealing one for the broader enterprise AI market. The AI coding boom has so far been a story of individual productivity — a developer alone with Claude Code or OpenAI's Codex in a terminal window. Slack is betting that the next chapter belongs to whoever owns the collaborative layer around those agents. And it is making that bet at a moment when its parent company badly needs the story to land.\nHow Slack Code channels put AI coding agents to work in the open\nIn the interview, which also included executives from Cognition, Slack leaders described a workflow that looks less like pair programming and more like a newsroom.\nJeff Wang, president of new enterprise at Cognition — maker of the Devin coding agent — walked through a live demonstration: someone reports a broken feature in an engineering channel, Devin acknowledges it with an emoji, replies in the thread, investigates, and opens a pull request. \"It even knows the code owner, so you can see it tagged Theo into this as well,\" Wang said. \"Every time Devin is doing something like this, it does have its own computer. So here, it's actually using Chrome and the DevTools to test if the feature is working correctly.\"\nFrom there, the work migrates into a dedicated code channel where anyone — an engineer, a product manager, a designer — can jump in. In Wang's demo, a designer dropped a Figma file into the channel mid-task, and the agent incorporated it without breaking stride. The agent finished by posting the code changes alongside screenshots and a recorded demo proving the feature worked. That verification loop is central to the pitch: cloud-based agents, unlike agents running on a developer's laptop, can generate an auditable record that the work is actually correct. \"Scaling things, auditing things, giving it to everybody — that is much easier with these cloud agents form factor than it is with local agents,\" Wang said.\nThe launch reaches beyond code channels, too. Slack is shipping a broader rework of how agents live in the product: agent DMs that behave like conversations with a colleague, a new Agents tab that gives every agent session a home base with live status and a stop button, and an \"Add to Slack\" flow that lets teams deploy agents from platforms including Lovable, n8n, OpenAI, LangChain, and Airtable in a few clicks, with OAuth and configuration automated.\nWhy Slack says writing code is no longer the bottleneck in software development\nThe strategic argument underneath Slack Code is that AI has inverted the economics of software development. Writing code used to be the scarce, expensive step. Now, Slack's executives argue, it is the cheap one — and the constraint has moved upstream, to human judgment.\n\"One of the things I love about this is that code is no longer the bottleneck,\" Seaman said in the press briefing. \"Ideas, taste, judgment, craft — those are the things that are the bottleneck, and you've effectively extended the population that can contribute ideas, taste, judgment, and craft to anybody that exists in your Slack.\"\nCognition offered internal numbers to back up the velocity claim. \"We've seen our internal merged PR count go up 10x in the last few months, versus our headcount has only gone up like 40 percent,\" Wang said, describing a workflow where engineers fire off a Devin task, move to something else, and launch another — \"soon you have everybody working on like dozens of agents at a time.\"\nThe pattern extends well beyond engineers, Wang said. \"Believe it or not, a lot of our bugs are reported by our sales team. They report it in Slack, and then someone who's technical applies them to fix the bug.\" Seaman seized on that example as the whole thesis in miniature: \"So much of that stuff never even made its way to a product manager into a backlog because the communication vehicles weren't there, the motivation wasn't there, the knowledge that it could actually be fixed so quick wasn't there — and we've effectively knocked all of that down.\"\nWang went further, sketching where he believes this ends up. Toil work — \"fixing bugs, fixing CI/CD, or fixing vulnerabilities, all these things engineers probably don't want to do — we think will be automated away,\" he said. What remains is the work that \"requires creativity, planning, business logic.\" He added a prediction that will make some engineering leaders uneasy: while a human still gates every merge today, \"I suspect maybe in the next year it's just going to go through automatically.\"\nCan working in public solve the AI slop problem?\nThe obvious objection to democratizing software creation is quality. If anyone in a company can summon a coding agent, does an enterprise drown in what the industry has taken to calling \"AI slop\" — plausible-looking but poorly conceived output generated at scale by inexperienced users?\nSlack's executives argue, somewhat counterintuitively, that visibility is the antidote rather than the accelerant. \"The multiplayer part is a guard against that, actually, because people can see your work, people can comment on your work,\" said Katie Steigman, Slack's VP of product. She contrasted it with the status quo: \"If I'm doing God knows what in terminal with an agent, versus being able to do it in a place where people can see my intent and actually change and shape my work — or slap my hand and tell me that's slop, because that's real.\"\nSteigman, a product manager rather than an engineer, described her own practice as a template. \"When I put PRs up as a product person, I almost always tag in an engineer from my team. I don't just send a PR and ask for an approval,\" she said. \"Almost every time, an engineer will say something like, 'Come on, you can make that a little bit tighter,' or they'll actually give it some specific technical guidance, and the agent will take one more rev and produce code that has been touched by an engineer to a certain extent.\"\nSeaman framed the argument in grander terms: \"I think the moral arc of multiplayer AI bends towards higher quality and less duplication.\" He pointed to Shopify, where he said CEO Tobi Lütke has written about restricting agentic coding to public channels precisely because it \"immediately disseminates every single thing that's happening in the company\" and levels the playing field. Still, the skeptics' case has data behind it. \nGartner predicted last year that more than 40 percent of agentic AI projects will be canceled by the end of 2027, citing escalating costs and unclear business value. And McKinsey's most recent State of AI survey found that while 62 percent of organizations are at least experimenting with AI agents, only about a third have begun scaling AI at all, and just 39 percent report any bottom-line impact. The gap between agent enthusiasm and agent value remains the defining feature of the market Slack is selling into.\nInside Slack Code's security model: no god mode, no new identities\nFor enterprise buyers, the most consequential design decision in Slack Code may be its permissions model. Asked directly whether agents in code channels could leak access across teams — a finance repo visible to legal, say — Seaman was emphatic that agents inherit the permissions of the human who invokes them, and nothing more.\n\"Everything is done on behalf of the user, using the user's ACLs, both in Slack and in the systems that they're connecting to,\" he said. \"There's no god permissions or bot-level permissions... Within Slack, the agent has access to information that the user has access to, and access to the channels that it's been added to.\"\nSteigman added that when an agent spins up a code channel, \"the only thing that agent gets from the code channel is the context of the conversation\" that triggered it. On the execution side, Wang said Devin runs in isolated sandboxes with \"minimum viable access\" — including an optional mode with no internet access at all. \"You've heard all these stories about the agent escaping and causing havoc,\" he acknowledged, \"but we have different security configurations.\"\nThis \"agents as extensions of existing users\" model is a genuine differentiator against standalone agent platforms, which typically force IT departments to provision new service identities and manage a patchwork of one-off permissions. It also answers the shadow-IT question that has dogged agentic tools: because agents produce standard pull requests into GitHub, existing release gates and review processes still apply. \"It reduces that barrier upfront to get that initial PR up,\" Steigman said. \"Then the due diligence still happens in GitHub.\"\nWhat Slack Code means for Salesforce's high-stakes AI turnaround\nSlack Code arrives amid a turbulent stretch for its parent company. Salesforce shares fell roughly 18 percent over the year through January, badly lagging the Nasdaq, as Wall Street questioned whether AI would erode demand for traditional enterprise software. In December, OpenAI hired away Slack CEO Denise Dresser as its chief revenue officer, elevating Seaman — then Slack's product chief — to interim CEO.\nSalesforce has responded by racing to make Slack the AI front door for work. In January it shipped a rebuilt Slackbot powered by Anthropic's Claude, which the companies said became the fastest-adopted feature in the company's 27-year history. Slack Code extends that strategy from answering questions to producing artifacts: not just messages, but working code, prototypes, and documents generated inside Slack itself.\nThere is also a notable strategic reversal embedded in today's news. In mid-2025, Reuters reported that Salesforce had moved to block rival AI firms from accessing Slack data — a defensive crouch.\nToday's announcement, by contrast, positions Slack as an open platform courting exactly those AI companies as partners, with plans to open the code channel APIs to any developer. Software engineering, the company says, is just the first use case; marketing campaigns and legal document reviews in dedicated agent channels are next. The calculus appears to have shifted from protecting Slack's data to making Slack indispensable as the venue where agents — anyone's agents — do their work.\nPartners are, unsurprisingly, saying the right things. \"A whole team can gather in one code channel, watch the agent work, steer it together, and ship a preview,\" said Vercel CTO Malte Ubl. GitHub chief product officer Mario Rodriguez called Slack \"a strategic part of a broader GitHub promise: humans set direction, agents close the loop.\"\nThe future of AI coding: multiplayer channels and single-player terminals will coexist\nNone of Slack's executives claim the terminal is dead. Asked whether tools like Claude Code and Codex become obsolete, Seaman predicted a division of labor. \"The overwhelming majority of the work is actually going to happen in these multiplayer environments,\" he said. \"But there's going to be deep, immersive, intensive, single-player thought work that's going to happen in terminals.\" An engineer rethinking a codebase's architecture goes heads-down with an agent; a sales rep flagging a broken button gets a fix in a channel everyone can see.\nThe trust curve, Seaman suggested, will look familiar to anyone who watched teams adopt earlier waves of automation. \"People are going to open these things at the beginning\" — reading every diff, every thinking step — \"and then build trust in the system and open it less and less over time.\"\nThat is the wager, and it is bigger than a product launch. McKinsey's research shows the organizations capturing real value from AI are the ones that redesign workflows around it rather than bolting it onto old processes — and Slack Code is, at bottom, a workflow redesign packaged as a feature, an attempt to make the team rather than the individual the unit of AI adoption. If it works, the company that once changed where colleagues talk will have changed where software gets made. If it doesn't, all that transparency may just mean everyone gets to watch the slop pile up together.\nEither way, the era of the lone developer whispering to an agent in a private tab is ending. As Wang put it: \"The bottlenecks have shifted.\" The question Slack Code will answer is whether the crowd makes them smaller — or just louder.",
+        "published": "2026-08-21T00:00:00.000Z",
+        "source": "VentureBeat",
+        "sourceKey": "venturebeat",
+        "priority": 1,
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/64GVvPFWGaLTPjNLaZ9mdN/740b7f4f14646dcfca71b13822379524/Nuneybits_Vector_art_of_terminal_dissolving_into_colorful_team__390a5221-7b54-4a07-a6a1-b48a95bb2f5c.webp?w=300&q=30",
+        "relevanceScore": 14,
+        "matchedKeywords": [
+          "anthropic",
+          "salesforce",
+          "claude",
+          "agi"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Samsung Set to Top Phone Market in Downturn, Counterpoint Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-08-21/samsung-set-to-top-phone-market-in-downturn-counterpoint-says",
+        "description": "Samsung Electronics Co. will regain the top position in the smartphone market this year, in a sign of its greater resilience to higher memory-chip prices, Counterpoint Research predicted.",
+        "published": "2026-08-21T01:53:19.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "samsung",
+          "chip"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Meta Quest Promo Codes and Coupons for August 2026",
+        "link": "https://www.wired.com/story/meta-quest-promo-code/",
+        "description": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
+        "published": "2026-08-21T05:00:00.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "meta"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Fujifilm Expands Key Chip Material Output to Capture AI Demand",
+        "link": "https://www.bloomberg.com/news/articles/2026-08-21/fujifilm-expands-key-chip-material-output-to-capture-ai-demand",
+        "description": "Fujifilm Holdings Corp. is expanding production of key materials used in advanced semiconductor manufacturing to capitalize on surging demand.",
+        "published": "2026-08-21T05:57:08.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "semiconductor",
+          "chip",
+          "tpu"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "CXMT, AI Hardware Firms Take Helm as China Earnings Enter Peak",
+        "link": "https://www.bloomberg.com/news/articles/2026-08-21/cxmt-ai-hardware-firms-take-helm-as-china-earnings-enter-peak",
+        "description": "CXMT Corp.’s breakout listing has sparked optimism across the domestic artificial intelligence hardware space, supporting China’s strategic ambitions to challenge the US in AI development.",
+        "published": "2026-08-21T01:49:56.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "intel",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      }
+    ],
+    "ev_autonomous": [
+      {
+        "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
+        "link": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
+        "description": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months.",
+        "published": "2026-08-21T00:23:36.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 17,
+        "matchedKeywords": [
+          "tesla",
+          "uber",
+          "waymo",
+          "robotaxi"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Tesla discontinues its Solar Roof tiles, not economically viable",
+        "link": "https://electrek.co/2026/08/20/tesla-discontinues-solar-roof-panels-only/",
+        "description": "Tesla has discontinued the Solar Roof, its solar-tile roofing product, Electrek has learned.\nThe company has told third-party installers that it will no longer supply solar roof tiles going forward, only solar panels, according to two sources close to the program.",
+        "published": "2026-08-21T03:44:23.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/Elon-Musk-at-Tesla-Solar-Roof-launch-hero.jpeg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "tesla"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Developer given Mission:Impossible - fixing rubbish code that could crash a city - simply chose not to accept it",
+        "link": "https://www.theregister.com/software/2026/08/21/developer-given-missionimpossible-fixing-rubbish-code-that-could-crash-a-city-simply-chose-not-to-accept-it/5290120",
+        "description": "After imagining explosions, blackouts, and daring escapes, this techie decided the best thing to do was just not doing the job",
+        "published": "2026-08-21T06:30:00.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=253830&width=800",
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "agi"
+        ],
+        "category": "ev_autonomous"
+      }
+    ],
+    "space": [
+      {
+        "title": "Musk Touts Starlink for India’s Rural Users Amid Stalled Launch",
+        "link": "https://www.bloomberg.com/news/articles/2026-08-21/musk-touts-starlink-for-india-s-rural-users-as-rollout-stalled",
+        "description": "Billionaire Elon Musk pitched Starlink Inc.’s satellite-based internet service as a solution for India’s most underserved rural regions, even though the operator’s launch remains stalled in the country over security concerns.",
+        "published": "2026-08-21T06:04:54.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "elon musk",
+          "starlink",
+          "satellite",
+          "billion"
+        ],
+        "category": "space"
+      }
+    ],
+    "robotics": [
+      {
+        "title": "Humanoid Robots Put China Ahead in Tech Race",
+        "link": "https://www.bloomberg.com/news/videos/2026-08-21/humanoid-robots-put-china-ahead-in-tech-race-video",
+        "description": "China’s humanoid robot makers now control 97% of global shipments, giving Beijing an early lead over U.S. rivals. At the World Robot Conference, robots sort boxes, handle laundry, and bag clothes, but the real test is whether they can become everyday tools. Bloomberg’s Allen Wan has more. (Source: Bloomberg)",
+        "published": "2026-08-21T07:16:36.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "humanoid robot"
+        ],
+        "category": "robotics"
+      }
+    ],
+    "chips_cloud": [
+      {
+        "title": "AI Spending Splurge Boosts Danfoss’s Bet on Data Center Cooling",
+        "link": "https://www.bloomberg.com/news/articles/2026-08-21/ai-spending-splurge-boosts-danfoss-s-bet-on-data-center-cooling",
+        "description": "Danfoss A/S expects its data-center business to at least double its share of the firm’s sales this year as the artificial-intelligence boom drives spending on the cooling equipment needed to run increasingly powerful chips.",
+        "published": "2026-08-21T04:30:00.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "intel",
+          "chip",
+          "data center"
+        ],
+        "category": "chips_cloud"
+      }
+    ]
+  },
+  "totalArticles": 14
+}
