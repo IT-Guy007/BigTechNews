@@ -1,0 +1,672 @@
+{
+  "type": "daily",
+  "id": "26-09-03",
+  "title": "Thursday, Sep 3",
+  "dateRange": "September 3, 2026",
+  "date": "2026-09-03",
+  "generatedAt": "2026-09-03T11:29:41.528Z",
+  "highlights": [
+    {
+      "title": "Google’s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
+      "link": "https://venturebeat.com/security/googles-gemini-3-8-flash-is-built-for-agents-while-its-cyber-twin-hunts-vulnerabilities",
+      "description": "Google keeps cranking out Flash models: the company on Wednesday announced two versions of a new 3.8 Flash. \nThe variants include a standard Flash, a “workhorse” model for agentic tasks, software development, and multi-step reasoning, and Flash Cyber optimized for vulnerability detection and mitigation.\nGoogle CEO Sundar Pichai said in an X post that 3.8 Flash delivers “significant leaps” from 3.7 Flash across software engineering, agentic tasks, and multi-step reasoning. For instance, it outperformed many large frontier models on the DeepSWE coding benchmark, at far lower cost. \nMeanwhile, Flash Cyber is the company’s “most capable” cybersecurity model, Pichai said; it also matches frontier-level performance when it comes to discovering vulnerabilities and patching them at scale. The model achieved 86.2% on the CyberGym cybersecurity benchmark and 47.2% on CWE-Bench, which evaluates AI patching abilities. In an internal Google benchmark, the model achieved a more than 70% success rate discovering vulnerabilities across 20 programming languages, Pichai said. \n\n3.8 is Google’s third Flash release in six weeks and comes quickly on the heels of version 3.7. \n3.8 working \"harder\" with \"greater diligence\"\n3.8 Flash is available now in Gemini Enterprise; devs can try it out in the Gemini API via Google AI Studio, Google Antigravity, Android Studio, or generate UIs in Stitch. It is priced at $0.75 per million input tokens and $3.75 per million output tokens — the same introductory pricing as Gemini 3.7 Flash — and users can customize and adjust model effort levels based on their needs around quality, cost, and latency. \nFor instance, when compute efficiency is a priority, they can adjust to lower token overhead, or simply continue working with 3.7 Flash, which is “fully supported for efficiency-first workloads,” Google senior product director Tulsee Doshi and Gemini security lead Raluca Ada Popa wrote in a blog post. \n“3.8 Flash works harder,” exhibiting “greater diligence” with complex tasks like executing extra reasoning steps, although at times it may use more tokens to maximize performance, Doshi and Popa note. The model has a 1M-token input window and a 64K-token output limit, and can ingest text as well as images, audio, video, and PDF files. \n3.8 Flash was evaluated across numerous benchmarks testing coding, multimodal capabilities, computer use, long-context and knowledge work, and scientific reasoning. Google says it also does well in specialized knowledge domains requiring more in-depth analysis and reporting. For instance, the model outperformed its predecessor and other frontier models on benchmarks like Vals Finance Agent V2 for finance, and Harvey's Legal Agent Benchmark for law; it also scored 54.9% on Humanity’s Last Exam (HLE)-Verified, reflecting its ability to take on multi-step reasoning tasks across subjects like math, science, and humanities. \nIn one example shared by Google, Gemini 3.8 Flash built a game with a simple prompt using looping techniques in Google’s Antigravity platform. The game uses puzzles, storytelling that changes based on the environment, and images and textures from Nano Banana to create a 3D experience (in this case a wizard navigating a castle). \nIn other instances, the model created a fully-functional DOS version of Google Maps featuring interactive locations, directions, and street views; a 3D visualizer that automatically decomposed devices into layers for inspection with a slider capability; and a topographic map of famous geographical sites based on real datasets from the U.S. Geological Survey, complete with real-time cross-sections, 2D projections, and scientific explanations. \nAccording to Arena.ai, 3.8 Flash landed at No. 14 in Agent Arena, ranking above DeepSeek-V4-Pro, and showed a significant jump over Gemini 3.7 Flash (which sits all the way down at No. 32). It debuted at No. 7 in Text Arena, ahead of Claude Opus 5 and Gemini 3.7 Flash. It improved over 3.7 Flash in several areas: multi-turn requests, writing, literature, and language, longer queries, hard prompts, coding, instruction following, software and IT services, and business, management and financial ops. \n\nFlash Cyber is already securing Google's code\nFlash Cyber is initially being rolled out to “trusted defenders” through Google’s Fairwind Program, which prioritizes government authorities, critical-infrastructure operators, and other partners looking for advanced cyber defense capabilities. Organizations can apply for access. \nGoogle says the model version has undergone “rigorous training” in the cybersecurity domain and represents a “significant leap in prompt injection robustness.” It is particularly adept at autonomous vulnerability discovery — at least, based on internal Gemini benchmarks — and automated patching. It is also very good at coding, Popa said in a video. \nThe goal was to equip defenders with expert-level capabilities to give them a leg up over threat actors (whether malicious, fellow AI agents, or human hackers). “We have invested in vulnerability fixing from the start, and prioritized it over offensive capabilities like exploitation,” Doshi and Popa explain. \nThe model ships a more permissive set of mitigations for cybersecurity safeguards — which is why, for now, it is only being shared with limited partners — and safeguards against misuse in cyber offense and areas like chemical, biological, radiological, and nuclear (CBRN).\nGoogle is already using 3.8 Flash Cyber to secure its own code; it produced 2.6 times more correct patches in Chrome vulnerabilities versus much larger commercial models. \nWiz — which Google acquired earlier this year at a historic $32 billion — reported that 3.8 Flash Cyber had 7.5% to 9.7% higher recall of real-world vulnerabilities on an internal penetration testing benchmark at 2.3 to 5.2 times lower cost than leading frontier models. Similarly, Google’s Cloud Vulnerability Research found a critical foundational vulnerability in less than 2 hours with 3.8 Flash Cyber. Typically, that research and discovery would take months, Google claims. \nAI agents are “incredibly skilled” at finding and exploiting vulnerabilities, Popa said. Scanning large codebases with big AI models is expensive, and defenders are overwhelmed. “In cybersecurity, attackers need only find one significant flaw over millions of lines of code. Defenders have to remove every one of those flaws to be able to defend against attackers.” \nDoug Turner, engineering director for Chrome, described a “vulnerability apocalypse” in recent months due to generative AI. “Simply overnight, we saw a hockey stick increase in the number of software vulnerabilities reported through our vulnerability research program,” he said in a video. \nOne interesting vulnerability 3.8 Flash Cyber discovered had been in Chromium and Chrome for 13 years, he explained. It was a “very subtle bug” that dozens, if not hundreds, of engineers looked at but never flagged. “Gemini 3.8 Flash Cyber is going to allow us to create better suggested fixes so that developers’ lives can get a lot easier.”",
+      "published": "2026-09-03T00:02:18.000Z",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "priority": 1,
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/793zCnQpOvoBw5BJi4WMEg/17ad5955da7de9e22394bccfb75c0c91/upscalemedia-transformed.png?w=300&q=30",
+      "relevanceScore": 14,
+      "matchedKeywords": [
+        "google",
+        "gemini",
+        "ceo",
+        "sundar pichai"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Waymo and Zoox expand into more U.S. markets as robotaxi race heats up",
+      "link": "https://www.cnbc.com/2026/09/01/waymo-and-zoox-expand-into-more-us-markets-as-robotaxi-race-heats-up.html",
+      "description": "Waymo is bringing driverless rides to three more cities, and Amazon plans to start testing in two additional U.S. markets.",
+      "published": "2026-09-03T05:14:10.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 11,
+      "matchedKeywords": [
+        "amazon",
+        "waymo",
+        "robotaxi"
+      ],
+      "category": "ev_autonomous"
+    },
+    {
+      "title": "Broadcom Forecasts Boom in AI Chip Sales",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-03/broadcom-forecasts-boom-in-ai-chip-sales-video",
+      "description": "Broadcom predicted a surge in artificial intelligence chip sales over the next two years, helping renew optimism that it can challenge Nvidia’s dominance in the lucrative market. The company also is on track to top earnings of $30 a share in fiscal 2028, outpacing Wall Street estimates. Bloomberg Intelligence analyst Matt Bloxham has the details. (Source: Bloomberg)",
+      "published": "2026-09-03T05:48:56.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 11,
+      "matchedKeywords": [
+        "nvidia",
+        "intel",
+        "broadcom",
+        "artificial intelligence",
+        "chip"
+      ],
+      "category": "chips_cloud"
+    },
+    {
+      "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+      "link": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
+      "description": "The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
+      "published": "2026-09-03T01:32:02.000Z",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "priority": 2,
+      "image": null,
+      "relevanceScore": 10,
+      "matchedKeywords": [
+        "meta",
+        "intel",
+        "agi",
+        "artificial intelligence"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Broadcom delivers strong earnings view as CEO touts growth with AI labs",
+      "link": "https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html",
+      "description": "Broadcom gave a disappointing revenue forecast for the current quarter but provided robust earnings guidance for fiscal 2028.",
+      "published": "2026-09-03T02:39:48.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "broadcom",
+        "ceo"
+      ],
+      "category": "business"
+    },
+    {
+      "title": "ByteDance Gets $30 Billion Loan, Asia’s Second-Largest This Year",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-03/bytedance-gets-30-billion-loan-asia-s-second-largest-this-year",
+      "description": "ByteDance Ltd., the developer of TikTok, has secured a $29.6 billion loan, according to people familiar with the matter, in Asia’s second-largest dollar-denominated borrowing this year.",
+      "published": "2026-09-03T02:26:25.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "bytedance",
+        "tiktok",
+        "billion"
+      ],
+      "category": "ev_autonomous"
+    },
+    {
+      "title": "Google’s next Pixel Fold reportedly adopting the same crease-less display as Apple",
+      "link": "https://9to5google.com/2026/09/02/google-pixel-12-pro-fold-crease-less-display-report/",
+      "description": "We’re still a few days out from the debut of Apple’s first iPhone foldable which, as many have expected for years, will have a crease-less display. According to a new report, Google’s Pixel 12 Pro Fold will be adopting the same technology as Apple’s foldable.\nmore…",
+      "published": "2026-09-03T00:30:00.000Z",
+      "source": "9to5Google",
+      "sourceKey": "9to5google",
+      "priority": 2,
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-pro-fold-15.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "google",
+        "apple"
+      ],
+      "category": null
+    },
+    {
+      "title": "Microsoft discloses Azure revenue as part of major financial reporting changes",
+      "link": "https://www.theverge.com/news/989102/microsoft-earnings-changes-azure-revenue",
+      "description": "Microsoft is changing how it reports its finances to investors by splitting its businesses into two segments and disclosing quarterly revenue for its Azure cloud business for the first time. The changes are meant to reflect the ongoing impact of AI on Microsoft and how the company now operates.\nThe software giant has previously reported revenue from three segments: Productivity and Business Processes, Intelligent Cloud, and More Personal Computing. This is now simplifying to two: Agents and Infra, and Devices and Consumer.\nDevices and Consumer will include search and advertising revenues from LinkedIn and search advertising, as well as rev …\nRead the full story at The Verge.",
+      "published": "2026-09-03T08:59:09.000Z",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "priority": 1,
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_STOCKS_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "relevanceScore": 7,
+      "matchedKeywords": [
+        "microsoft",
+        "intel"
+      ],
+      "category": "chips_cloud"
+    },
+    {
+      "title": " Nexus Mods acquires SteamDB after 13 years of solo dev work — promises no ads, no paywalls, and smarter mod-update tracking ",
+      "link": "https://www.tomshardware.com/video-games/pc-gaming/nexus-mods-acquires-steamdb-after-13-years-of-solo-dev-work-promises-no-ads-no-paywalls-and-smarter-mod-update-tracking",
+      "description": "Nexus Mods takes in SteamDB under its wing — new owners promise site will remain ad-free and non-paywalled",
+      "published": "2026-09-03T10:30:00.000Z",
+      "source": "Tom's Hardware",
+      "sourceKey": "tomshardware",
+      "priority": 2,
+      "image": "https://cdn.mos.cms.futurecdn.net/G2LZD5GiGxVJr8ZM8pFJ8i-1280-80.png",
+      "relevanceScore": 7,
+      "matchedKeywords": [
+        "amd",
+        "acquires"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Bezos’ Blue Origin Has Poached Dozens of Amazon Satellite Engineers",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-03/bezos-blue-origin-has-poached-dozens-of-amazon-satellite-engineers",
+      "description": "Jeff Bezos’ Blue Origin is developing its planned satellite network with the help of employees poached from another Bezos project:   Amazon.com Inc.",
+      "published": "2026-09-03T11:00:34.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 6,
+      "matchedKeywords": [
+        "amazon",
+        "satellite"
+      ],
+      "category": "space"
+    }
+  ],
+  "byCategory": {
+    "ai": [
+      {
+        "title": "Google’s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
+        "link": "https://venturebeat.com/security/googles-gemini-3-8-flash-is-built-for-agents-while-its-cyber-twin-hunts-vulnerabilities",
+        "description": "Google keeps cranking out Flash models: the company on Wednesday announced two versions of a new 3.8 Flash. \nThe variants include a standard Flash, a “workhorse” model for agentic tasks, software development, and multi-step reasoning, and Flash Cyber optimized for vulnerability detection and mitigation.\nGoogle CEO Sundar Pichai said in an X post that 3.8 Flash delivers “significant leaps” from 3.7 Flash across software engineering, agentic tasks, and multi-step reasoning. For instance, it outperformed many large frontier models on the DeepSWE coding benchmark, at far lower cost. \nMeanwhile, Flash Cyber is the company’s “most capable” cybersecurity model, Pichai said; it also matches frontier-level performance when it comes to discovering vulnerabilities and patching them at scale. The model achieved 86.2% on the CyberGym cybersecurity benchmark and 47.2% on CWE-Bench, which evaluates AI patching abilities. In an internal Google benchmark, the model achieved a more than 70% success rate discovering vulnerabilities across 20 programming languages, Pichai said. \n\n3.8 is Google’s third Flash release in six weeks and comes quickly on the heels of version 3.7. \n3.8 working \"harder\" with \"greater diligence\"\n3.8 Flash is available now in Gemini Enterprise; devs can try it out in the Gemini API via Google AI Studio, Google Antigravity, Android Studio, or generate UIs in Stitch. It is priced at $0.75 per million input tokens and $3.75 per million output tokens — the same introductory pricing as Gemini 3.7 Flash — and users can customize and adjust model effort levels based on their needs around quality, cost, and latency. \nFor instance, when compute efficiency is a priority, they can adjust to lower token overhead, or simply continue working with 3.7 Flash, which is “fully supported for efficiency-first workloads,” Google senior product director Tulsee Doshi and Gemini security lead Raluca Ada Popa wrote in a blog post. \n“3.8 Flash works harder,” exhibiting “greater diligence” with complex tasks like executing extra reasoning steps, although at times it may use more tokens to maximize performance, Doshi and Popa note. The model has a 1M-token input window and a 64K-token output limit, and can ingest text as well as images, audio, video, and PDF files. \n3.8 Flash was evaluated across numerous benchmarks testing coding, multimodal capabilities, computer use, long-context and knowledge work, and scientific reasoning. Google says it also does well in specialized knowledge domains requiring more in-depth analysis and reporting. For instance, the model outperformed its predecessor and other frontier models on benchmarks like Vals Finance Agent V2 for finance, and Harvey's Legal Agent Benchmark for law; it also scored 54.9% on Humanity’s Last Exam (HLE)-Verified, reflecting its ability to take on multi-step reasoning tasks across subjects like math, science, and humanities. \nIn one example shared by Google, Gemini 3.8 Flash built a game with a simple prompt using looping techniques in Google’s Antigravity platform. The game uses puzzles, storytelling that changes based on the environment, and images and textures from Nano Banana to create a 3D experience (in this case a wizard navigating a castle). \nIn other instances, the model created a fully-functional DOS version of Google Maps featuring interactive locations, directions, and street views; a 3D visualizer that automatically decomposed devices into layers for inspection with a slider capability; and a topographic map of famous geographical sites based on real datasets from the U.S. Geological Survey, complete with real-time cross-sections, 2D projections, and scientific explanations. \nAccording to Arena.ai, 3.8 Flash landed at No. 14 in Agent Arena, ranking above DeepSeek-V4-Pro, and showed a significant jump over Gemini 3.7 Flash (which sits all the way down at No. 32). It debuted at No. 7 in Text Arena, ahead of Claude Opus 5 and Gemini 3.7 Flash. It improved over 3.7 Flash in several areas: multi-turn requests, writing, literature, and language, longer queries, hard prompts, coding, instruction following, software and IT services, and business, management and financial ops. \n\nFlash Cyber is already securing Google's code\nFlash Cyber is initially being rolled out to “trusted defenders” through Google’s Fairwind Program, which prioritizes government authorities, critical-infrastructure operators, and other partners looking for advanced cyber defense capabilities. Organizations can apply for access. \nGoogle says the model version has undergone “rigorous training” in the cybersecurity domain and represents a “significant leap in prompt injection robustness.” It is particularly adept at autonomous vulnerability discovery — at least, based on internal Gemini benchmarks — and automated patching. It is also very good at coding, Popa said in a video. \nThe goal was to equip defenders with expert-level capabilities to give them a leg up over threat actors (whether malicious, fellow AI agents, or human hackers). “We have invested in vulnerability fixing from the start, and prioritized it over offensive capabilities like exploitation,” Doshi and Popa explain. \nThe model ships a more permissive set of mitigations for cybersecurity safeguards — which is why, for now, it is only being shared with limited partners — and safeguards against misuse in cyber offense and areas like chemical, biological, radiological, and nuclear (CBRN).\nGoogle is already using 3.8 Flash Cyber to secure its own code; it produced 2.6 times more correct patches in Chrome vulnerabilities versus much larger commercial models. \nWiz — which Google acquired earlier this year at a historic $32 billion — reported that 3.8 Flash Cyber had 7.5% to 9.7% higher recall of real-world vulnerabilities on an internal penetration testing benchmark at 2.3 to 5.2 times lower cost than leading frontier models. Similarly, Google’s Cloud Vulnerability Research found a critical foundational vulnerability in less than 2 hours with 3.8 Flash Cyber. Typically, that research and discovery would take months, Google claims. \nAI agents are “incredibly skilled” at finding and exploiting vulnerabilities, Popa said. Scanning large codebases with big AI models is expensive, and defenders are overwhelmed. “In cybersecurity, attackers need only find one significant flaw over millions of lines of code. Defenders have to remove every one of those flaws to be able to defend against attackers.” \nDoug Turner, engineering director for Chrome, described a “vulnerability apocalypse” in recent months due to generative AI. “Simply overnight, we saw a hockey stick increase in the number of software vulnerabilities reported through our vulnerability research program,” he said in a video. \nOne interesting vulnerability 3.8 Flash Cyber discovered had been in Chromium and Chrome for 13 years, he explained. It was a “very subtle bug” that dozens, if not hundreds, of engineers looked at but never flagged. “Gemini 3.8 Flash Cyber is going to allow us to create better suggested fixes so that developers’ lives can get a lot easier.”",
+        "published": "2026-09-03T00:02:18.000Z",
+        "source": "VentureBeat",
+        "sourceKey": "venturebeat",
+        "priority": 1,
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/793zCnQpOvoBw5BJi4WMEg/17ad5955da7de9e22394bccfb75c0c91/upscalemedia-transformed.png?w=300&q=30",
+        "relevanceScore": 14,
+        "matchedKeywords": [
+          "google",
+          "gemini",
+          "ceo",
+          "sundar pichai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+        "link": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
+        "description": "The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
+        "published": "2026-09-03T01:32:02.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "meta",
+          "intel",
+          "agi",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": " Nexus Mods acquires SteamDB after 13 years of solo dev work — promises no ads, no paywalls, and smarter mod-update tracking ",
+        "link": "https://www.tomshardware.com/video-games/pc-gaming/nexus-mods-acquires-steamdb-after-13-years-of-solo-dev-work-promises-no-ads-no-paywalls-and-smarter-mod-update-tracking",
+        "description": "Nexus Mods takes in SteamDB under its wing — new owners promise site will remain ad-free and non-paywalled",
+        "published": "2026-09-03T10:30:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/G2LZD5GiGxVJr8ZM8pFJ8i-1280-80.png",
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "amd",
+          "acquires"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "'No steering wheel, no pedals.' Tesla teases fans ahead of long-awaited Cybercab update",
+        "link": "https://www.cnbc.com/2026/09/03/tesla-teases-no-steering-wheel-no-pedals-ahead-of-cybercab-update.html",
+        "description": "Tesla first unveiled the Cybercab almost two years ago, and fans of the company have been waiting to hear more.",
+        "published": "2026-09-03T11:00:02.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "tesla"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Google starts September with AI momentum after longest monthly losing streak in over a decade",
+        "link": "https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html",
+        "description": "After a slow but extended selloff on Wall Steet, Google began September with renewed momentum, helped by new AI models.",
+        "published": "2026-09-03T03:28:07.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "TikTok, YouTube Find Silence Speaks Loudly in Face of Pressure on Child Safety",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-09-03/tiktok-youtube-find-silence-speaks-loudly-in-face-of-pressure-on-child-safety",
+        "description": "The companies are under scrutiny for failing to join rivals on protections for young people",
+        "published": "2026-09-03T11:02:01.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "tiktok"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Merck KGaA Electronics CEO on Business Strategy\n",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-03/merck-kgaa-electronics-ceo-on-business-strategy-video",
+        "description": "Benjamin Hein, CEO of Electronics at Merck KGaA, discusses the company's business strategy and the outlook for the semiconductor industry. He speaks with Stephen Engle from the sidelines of Semicon Taiwan in Taipei. (Source: Bloomberg)",
+        "published": "2026-09-03T04:18:54.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "ceo",
+          "semiconductor"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Adam Smith’s Lessons for Investors in the Age of AI",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-03/adam-smith-s-lessons-for-investors-in-the-age-of-ai-video",
+        "description": "In this episode of Merryn Talks Money, host Merryn Somerset Webb is joined by Bloomberg Senior Reporter John Stepek, Schroders Head of Strategic Research Duncan Lamont and Nelsons Chairman and Creative Scotland Chair Robert Wilson for a special roundtable recorded at Panmure House during the Edinburgh Fringe Festival. Marking 250 years since the publication of The Wealth of Nations, they ask what Adam Smith can teach the world about artificial intelligence, government intervention and investing.\n\nThe panel discusses whether policymakers interfere too much in markets, why holding too much cash can be a risk in itself and whether investors should worry about buying stocks at record highs. They also explore what the rise of AI could mean for jobs, trust and the relationships that hold societies together.  (Source: Bloomberg)",
+        "published": "2026-09-03T08:30:55.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "intel",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "When is Apple releasing new AirPods?",
+        "link": "https://9to5mac.com/2026/09/02/when-is-apple-releasing-new-airpods/",
+        "description": "Apple’s AirPods lineup is stronger than ever, but there are already rumors about what’s coming next. Here’s everything we know so far about when Apple will release new AirPods.\nmore…",
+        "published": "2026-09-03T00:47:20.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/airpods-pro-3-table.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "iPhone 18 Pro Prices Estimated Ahead of Apple Event Next Week",
+        "link": "https://www.macrumors.com/2026/09/03/iphone-18-pro-prices-apple-event-next-week/",
+        "description": "Less than a week before Apple debuts new iPhone 18 Pro models, research firm TrendForce has estimated the prices of the devices based on the latest hardware cost environment.\r\n\r\n\r\nTrendForce's price estimates compared to last year's models look like this:\r\n\r\n  \n\r\n    Model\r\nStarting Price\r\nModel\r\nStarting Price\r\nChange\r\n\r\n  \n\r\n    iPhone 17 Pro\r\n$1,099\r\niPhone 18 Pro\r\n$1,249-$1,299\r\n+$150 to +$200\r\n\r\n  \n\r\n    iPhone 17 Pro Max\r\n$1,199\r\niPhone 18 Pro Max\r\n$1,349-$1,399\r\n+$150 to +$200\r\n\r\n\r\n\r\nJune forecast of a 14-18% increase, which fits within its latest broader 10-20% range and translates more neatly to Apple's typical pricing scheme, we could see the iPhone 18 Pro starting price jump to between $1,249-$1,299 and the iPhone 18 Pro Max between $1,349-$1,399.\r\n\r\nMeanwhile, TrendForce expects prices for Apple's first foldable iPhone (aka \"iPhone Ultra\") to start anywhere between $2,099-$2,299, with the highest storage option potentially exceeding $3,000.\r\n\r\nThe regular iPhone 18 model is not expected to debut until spring 2027. Nevertheless, TrendForce expects the same general 10-20% price increase to apply to that device as well.\r\n\r\nThe overriding reason for the price increases is memory costs. TrendForce says the cost of a 256GB memory chip has risen nearly 400% year-on-year, while its separate analysis puts the overall bill of materials (BOM) for a 256GB Pro model at around 38% more over the same period. That said, Apple is expected to absorb some of that increase via lower margins, rather than passing the full cost onto consumers.\r\n\r\nLast year, Apple managed to avoid raising the price of the iPhone 17 Pro Max, and only marginally raised the iPhone 17 Pro price in the U.S. year-on-year by $100. This year, however, the insatiable AI infrastructure buildout has made memory costs even more expensive, effectively holding the rest of the electronics industry to ransom. And things don't look like they're going to get any better anytime soon.\r\n\r\nRelated Roundups: iPhone 18 Pro, iPhone Fold\nTags: Apple Event, TrendForce\nThis article, \"iPhone 18 Pro Prices Estimated Ahead of Apple Event Next Week\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-09-03T10:41:31.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/08/iPhone-18-Pro-Dark-Cherry-Feature.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Aqara Debuts Five Matter Smart Lights With Apple Home Support",
+        "link": "https://www.macrumors.com/2026/09/03/aqara-matter-smart-lights/",
+        "description": "Aqara today introduced five new Matter-enabled smart lights compatible with Apple Home. The lights support Thread and Zigbee as well, and can be paired with Aqara sensors and switches.\r\n\r\n\r\nThe Floor Lamp T1 is a tall, rod-shaped light with a wall-wash effect. It has 18 controllable zones that can be set to different colors, and it supports 2000K to 9000K white light at up to 1,000 lumens.\r\n\r\nAqara's LED Downlight T2 has a thin profile for low ceilings or retrofitting. It supports 16 million colors and 2000K to 9000K white light. The trimmable LED Strip T2 has 108 LEDs per meter and is ideal for use under cabinets and along shelves. Aqara says it delivers even light without visible hotspots. The light strip has 18 controllable zones every three meters for smooth color gradients.\r\n\r\nThe Outdoor String Lights H1 are weatherproof for use on patios and decks. The lights have individually controllable zones with the same white light range as the other lights, and can adjust based on time of day, environment, and triggers from other smart home devices.\r\n\r\nAqara also announced the Permanent Outdoor Lights H1 that can be used all year. The lights feature independently controlled LEDs and can be extended or cut to fit any roofline.\r\n\r\n\r\nAqara is showing off the new lights at IFA. Pricing and launch timing are not yet available.\nTags: Apple Home, Aqara\nThis article, \"Aqara Debuts Five Matter Smart Lights With Apple Home Support\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-09-03T07:00:11.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/09/aqara-floor-lamp.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": " TSMC fab equipment demand nearly doubles in six months — AI surge pushes 2026 CapEx toward $64B amid tool shortages ",
+        "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-fab-equipment-demand-nearly-doubles-in-six-months-ai-surge-pushes-2026-capex-toward-usd64b-amid-tool-shortages",
+        "description": "TSMC's equipment requirements have nearly doubled in just eight months as AI demand drives an unprecedented fab expansion, yet its 2026 CapEx budget has risen by only around 15%.",
+        "published": "2026-09-03T11:00:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/dqa9GQXHrqhhgMVZAPVBNi-1280-80.png",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "tsmc"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Here’s the first 4K 120Hz UST projector with optical lens shift",
+        "link": "https://www.theverge.com/gadgets/986005/awol-visions-4k-120hz-ust-projector-is-first-with-optical-lens-shift",
+        "description": "A projector for people who can afford to call this a “man cave.” | Image: Awol Vision\t\n\nDetail-preserving optical lens shift is not something you expect to find on an ultra-short throw projector running Google TV, but that's exactly what you'll find inside of Awol Vision's new LuxVision. It also promises to produce an incredibly bright (6000 ISO Lumens) 4K 120Hz image measuring 120 inches when placed just 7.5 inches from the wall.\nThe vertical lens shift is the star here. Most UST projectors use digital trickery to manipulate the image onto the wall or screen behind it. The LuxVision can raise and lower the output optically to preserve the detail in the 4K image without having to move the projector or resort to keystone correc …\nRead the full story at The Verge.",
+        "published": "2026-09-03T08:30:00.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Man-Cave.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "PSA: Don't rely on AI to plan anything that could put your life at risk... like a mountain climb",
+        "link": "https://www.engadget.com/2250160/dont-use-google-gemini-to-plan-a-mountain-climb/",
+        "description": "Gemini reportedly told a group of climbers that it would only take them eight hours to climb Mt. Shasta. They had to be rescued more than a day later.",
+        "published": "2026-09-03T10:20:00.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/psa-dont-rely-on-ai-to-plan-anything-that-could-put-your-life-at-risk-like-a-mountain-climb/l-intro-1788430706.jpg",
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "gemini"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Hidden China risks are emerging in America’s multibillion-dollar AI data center boom",
+        "link": "https://www.cnbc.com/2026/09/03/us-ai-data-centers-china-supply-chain.html",
+        "description": "U.S. AI data centers rely on China-linked supplies of transformers, batteries and optical gear as Washington moves to tighten restrictions on foreign equipment.",
+        "published": "2026-09-03T09:59:27.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "data center",
+          "billion"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Trump to Levy More Chip Tariffs to Boost Manufacturing",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-03/trump-to-levy-more-chip-tariffs-to-boost-manufacturing-video",
+        "description": "The Trump administration is weighing a fresh round of tariffs on imported semiconductors to lure more manufacturing to the US, Commerce Secretary Howard Lutnick has said. Reporting from Semicon in Taiwan, Bloomberg's Stephen Engle says chip-supply-chain companies remain upbeat because AI chip demand is strong in the US. (Source: Bloomberg)",
+        "published": "2026-09-03T04:56:49.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "semiconductor",
+          "chip"
+        ],
+        "category": "ai"
+      }
+    ],
+    "ev_autonomous": [
+      {
+        "title": "Waymo and Zoox expand into more U.S. markets as robotaxi race heats up",
+        "link": "https://www.cnbc.com/2026/09/01/waymo-and-zoox-expand-into-more-us-markets-as-robotaxi-race-heats-up.html",
+        "description": "Waymo is bringing driverless rides to three more cities, and Amazon plans to start testing in two additional U.S. markets.",
+        "published": "2026-09-03T05:14:10.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "amazon",
+          "waymo",
+          "robotaxi"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "ByteDance Gets $30 Billion Loan, Asia’s Second-Largest This Year",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-03/bytedance-gets-30-billion-loan-asia-s-second-largest-this-year",
+        "description": "ByteDance Ltd., the developer of TikTok, has secured a $29.6 billion loan, according to people familiar with the matter, in Asia’s second-largest dollar-denominated borrowing this year.",
+        "published": "2026-09-03T02:26:25.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "bytedance",
+          "tiktok",
+          "billion"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Belkin’s first trackers come ready to attach to your gear.",
+        "link": "https://www.theverge.com/tech/987565/belkin-tracker-apple-find-my-google-find-hub-surefind-wallet-card-spot-tag",
+        "description": "Belkin’s SureFind Loop Cable Tag tracker includes a removable USB-C charging cable. | Image: Belkin\t\n\nAfter selling accessories for attaching Apple's AirTags to everything from keys to backpacks, Belkin is introducing its own trackers that work with either Apple's Find My or Google's Find Hub tracking networks. In addition to compatibility with Android and iOS, what differentiates these trackers from AirTags and Google's recently announced Pixel Tag is that you don't need to buy any additional accessories, cases, or hardware to attach them to items. They come with lanyards or key rings already integrated into their designs.\nThe cheapest and simplest option is the $14.99 Belkin SureFind Spot that comes tethered to a metal key ring, but for $ …\nRead the full story at The Verge.",
+        "published": "2026-09-03T08:00:00.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/belkintracker3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "google",
+          "apple"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": " Steve Wozniak-signed Apple 1 motherboard expected to achieve up to $800,000 at auction — fully working board also comes with a signed letter from Steve Jobs ",
+        "link": "https://www.tomshardware.com/desktops/steve-wozniak-signed-apple-1-motherboard-expected-to-achieve-up-to-usd800-000-at-auction-fully-working-board-also-comes-with-a-signed-letter-from-steve-jobs",
+        "description": "A 'beautifully preserved in working condition' Apple-1 computer motherboard signed by Steve Wozniak with a letter signed by Steve Jobs is up for auction next month at Bonhams in New York.",
+        "published": "2026-09-03T10:15:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/DRQtBUapbDgWzERaekH2hn-1280-80.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Is It Even Possible to Understand Quantum Mechanics?",
+        "link": "https://www.wired.com/story/is-it-even-possible-to-understand-quantum-mechanics/",
+        "description": "Common sense is of no help in studying reality at the atomic scale.",
+        "published": "2026-09-03T10:00:00.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "quantum"
+        ],
+        "category": "ev_autonomous"
+      }
+    ],
+    "chips_cloud": [
+      {
+        "title": "Broadcom Forecasts Boom in AI Chip Sales",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-03/broadcom-forecasts-boom-in-ai-chip-sales-video",
+        "description": "Broadcom predicted a surge in artificial intelligence chip sales over the next two years, helping renew optimism that it can challenge Nvidia’s dominance in the lucrative market. The company also is on track to top earnings of $30 a share in fiscal 2028, outpacing Wall Street estimates. Bloomberg Intelligence analyst Matt Bloxham has the details. (Source: Bloomberg)",
+        "published": "2026-09-03T05:48:56.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "nvidia",
+          "intel",
+          "broadcom",
+          "artificial intelligence",
+          "chip"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Microsoft discloses Azure revenue as part of major financial reporting changes",
+        "link": "https://www.theverge.com/news/989102/microsoft-earnings-changes-azure-revenue",
+        "description": "Microsoft is changing how it reports its finances to investors by splitting its businesses into two segments and disclosing quarterly revenue for its Azure cloud business for the first time. The changes are meant to reflect the ongoing impact of AI on Microsoft and how the company now operates.\nThe software giant has previously reported revenue from three segments: Productivity and Business Processes, Intelligent Cloud, and More Personal Computing. This is now simplifying to two: Agents and Infra, and Devices and Consumer.\nDevices and Consumer will include search and advertising revenues from LinkedIn and search advertising, as well as rev …\nRead the full story at The Verge.",
+        "published": "2026-09-03T08:59:09.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_STOCKS_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "microsoft",
+          "intel"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": " Get a DDR5 gaming PC with RTX 5060 Ti for just $1,399 — save 21% on the Intel Core Ultra 7 270K Plus-powered CyberPower system ",
+        "link": "https://www.tomshardware.com/desktops/gaming-pcs/get-a-ddr5-gaming-pc-with-rtx-5060-ti-for-just-usd1-399-save-21-percent-on-the-intel-core-ultra-7-270k-plus-powered-cyberpower-system",
+        "description": "Save $370 on a new CyberPower system with Intel Core Ultra 7 270K Plus processor and Nvidia RTX 5060 Ti graphics.",
+        "published": "2026-09-03T10:55:28.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/dWjuX2qRrN8pNah5kEaCfS-1280-80.jpg",
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "nvidia",
+          "intel"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Anker’s new printer works directly on fabrics",
+        "link": "https://www.theverge.com/tech/986948/anker-eufymake-personal-fabric-printer-dtg-dtf-ifa",
+        "description": "After introducing a consumer-friendly UV printer last year capable of printing designs directly on materials like wood, metal, glass, and acrylic, Anker's eufyMake brand is introducing a new machine that can print directly on fabrics. With an expected launch sometime in the spring of 2027, Anker hasn't yet revealed an official name for the new machine, but its \"personal fabric printer\" will offer multiple ways to put photos or custom designs onto T-shirts, jeans, bags, and hats.\nThe machine will be capable of both direct-to-garment printing where images are applied directly to soft, breathable fabrics, and direct-to-film printing where desi …\nRead the full story at The Verge.",
+        "published": "2026-09-03T07:30:00.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ankerprinter1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "meta"
+        ],
+        "category": "chips_cloud"
+      }
+    ],
+    "business": [
+      {
+        "title": "Broadcom delivers strong earnings view as CEO touts growth with AI labs",
+        "link": "https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html",
+        "description": "Broadcom gave a disappointing revenue forecast for the current quarter but provided robust earnings guidance for fiscal 2028.",
+        "published": "2026-09-03T02:39:48.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "broadcom",
+          "ceo"
+        ],
+        "category": "business"
+      }
+    ],
+    "space": [
+      {
+        "title": "Bezos’ Blue Origin Has Poached Dozens of Amazon Satellite Engineers",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-03/bezos-blue-origin-has-poached-dozens-of-amazon-satellite-engineers",
+        "description": "Jeff Bezos’ Blue Origin is developing its planned satellite network with the help of employees poached from another Bezos project:   Amazon.com Inc.",
+        "published": "2026-09-03T11:00:34.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "amazon",
+          "satellite"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "Xiaomi's new passport-style foldable looks shorter and wider than the Galaxy Z Fold 8",
+        "link": "https://www.engadget.com/2250135/xiaomi-fold-18-passport-style-foldable-looks-shorter-and-wider-than-the-galaxy-z-fold-8/",
+        "description": "The passport-style foldable is increasingly dominating foldable phone launches this year. Xiaomi has its own.",
+        "published": "2026-09-03T08:35:24.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/xiaomi-fold-18-passport-style-foldable-looks-shorter-and-wider-than-the-galaxy-z-fold-8/l-intro-1788426975.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "xiaomi"
+        ],
+        "category": "space"
+      }
+    ],
+    "regulation": [
+      {
+        "title": "CFTC asks judge to dismiss CME lawsuit over crypto perpetual futures",
+        "link": "https://www.coindesk.com/policy/2026/09/03/cftc-asks-judge-to-dismiss-cme-lawsuit-over-crypto-perpetual-futures",
+        "description": "The regulator claims the dispute is \"much ado about nothing,\" noting that the order allows any designated contract market, including CME, to list these products.",
+        "published": "2026-09-03T09:13:40.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "ftc",
+          "lawsuit"
+        ],
+        "category": "regulation"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "Bitcoin recovers toward $78,000 as pons and arbitrum extend Robinhood Chain rally",
+        "link": "https://www.coindesk.com/markets/2026/09/03/bitcoin-recovers-toward-usd78-000-as-pons-and-arbitrum-extend-robinhood-chain-rally",
+        "description": "BTC rose 0.76% since midnight as a softer dollar lifted equities and metals alongside crypto, while ARB and PONS pushed higher for a third session.",
+        "published": "2026-09-03T10:29:52.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "meta",
+          "bitcoin"
+        ],
+        "category": "crypto"
+      }
+    ]
+  },
+  "totalArticles": 32
+}
