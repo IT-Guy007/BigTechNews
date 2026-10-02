@@ -1,0 +1,644 @@
+{
+  "type": "daily",
+  "id": "26-10-02",
+  "title": "Friday, Oct 2",
+  "dateRange": "October 2, 2026",
+  "date": "2026-10-02",
+  "generatedAt": "2026-10-02T12:57:47.218Z",
+  "highlights": [
+    {
+      "title": "Google has been playing catch up with OpenAI and Anthropic. Does its new flagship model really compete at the frontier?",
+      "link": "https://www.cnbc.com/2026/10/02/tech-download-google-argon-frontier-openai-anthropic.html",
+      "description": "Google has been trailing OpenAI and Anthropic for much of 2026, analysts say Gemini 4 puts it back in the frontier AI conversation.",
+      "published": "2026-10-02T11:00:01.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 22,
+      "matchedKeywords": [
+        "google",
+        "openai",
+        "anthropic",
+        "gemini"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": " OpenAI’s Jalapeño ASICs are deployed alongside AMD EPYC ‘Turin’ CPUs as hosts, not Nvidia's Vera ",
+      "link": "https://www.tomshardware.com/pc-components/cpus/openais-jalapeno-asics-are-deployed-alongside-amd-epyc-turin-cpus-as-hosts-hardware-vp-says-nvidias-vera-standalone-is-a-little-bit-behind-on-that-maturity-level",
+      "description": "OpenAI chose to pair rack-scale deployments of its Jalapeño ASIC with AMD EPYC Turin CPUs, not the wave of high-performance agentic chips like Arm’s AGI or Nvidia’s Vera.",
+      "published": "2026-10-02T12:40:00.000Z",
+      "source": "Tom's Hardware",
+      "sourceKey": "tomshardware",
+      "priority": 2,
+      "image": "https://cdn.mos.cms.futurecdn.net/9mJ37sc39kgcyEigsUfgNn-1920-80.jpg",
+      "relevanceScore": 21,
+      "matchedKeywords": [
+        "nvidia",
+        "openai",
+        "amd",
+        "arm",
+        "agi"
+      ],
+      "category": "chips_cloud"
+    },
+    {
+      "title": "Microsoft, Amazon Cloud Arms Set to Face Deeper Scrutiny Under EU’s Tech Rules",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-02/microsoft-amazon-cloud-arms-set-to-face-deeper-scrutiny-under-eu-s-tech-rules",
+      "description": "Microsoft Corp.’s Azure and Amazon Web Services are set to be designated under the European Union’s strict rulebook for Big Tech.",
+      "published": "2026-10-02T11:16:13.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 13,
+      "matchedKeywords": [
+        "microsoft",
+        "amazon",
+        "arm"
+      ],
+      "category": "chips_cloud"
+    },
+    {
+      "title": "SpaceX launches Google AI chips into orbit in push toward space-based data centers",
+      "link": "https://www.cnbc.com/2026/10/01/spacex-to-launch-google-ai-chips-to-orbit-with-planet-labs-satellites.html",
+      "description": "Google's tensor processing units were launched into orbit on Planet Labs satellites.",
+      "published": "2026-10-02T00:06:02.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 12,
+      "matchedKeywords": [
+        "google",
+        "spacex",
+        "chip",
+        "data center",
+        "satellite"
+      ],
+      "category": "space"
+    },
+    {
+      "title": "Amazon writes scary blog warning communities not to block data centers",
+      "link": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
+      "description": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO Matt Garman pushed back on public concerns around the impact that data centers may have on jobs, power demands, and the environment, saying \"our nation can't afford to lose\" the race for AI dominance.\n\"With any change, there will be important questions raised, but there will also be misinformation and outright lies, and in the age of social media and 24/7 news, myths take hold faster than ever before,\" said Garman. \"In fact, this build out is s …\nRead the full story at The Verge.",
+      "published": "2026-10-02T11:52:20.000Z",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "priority": 1,
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "relevanceScore": 11,
+      "matchedKeywords": [
+        "amazon",
+        "arm",
+        "ceo",
+        "data center"
+      ],
+      "category": "chips_cloud"
+    },
+    {
+      "title": "Amazon’s Latest Response to AI Data Center Backlash: $1 Billion",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-02/amazon-s-latest-response-to-ai-data-center-backlash-1-billion",
+      "description": "Amazon.com Inc.’s latest attempt to address the intensifying blowback to an unprecedented buildout of computing infrastructure: a commitment to spend more than $1 billion over the next five years on initiatives for the communities near its server farms.",
+      "published": "2026-10-02T10:48:14.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "amazon",
+        "arm",
+        "data center",
+        "billion"
+      ],
+      "category": "chips_cloud"
+    },
+    {
+      "title": "Amazon to Move $8 Billion of Chips Off Its Books, FT Says",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-02/amazon-seeks-to-move-8-billion-of-chips-off-its-books-ft-says",
+      "description": "Amazon.com Inc. is exploring a deal to shift about $8 billion worth of top-end Nvidia Corp. chips off its balance sheet, according to the Financial Times.",
+      "published": "2026-10-02T04:23:48.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "amazon",
+        "nvidia",
+        "chip",
+        "billion"
+      ],
+      "category": "chips_cloud"
+    },
+    {
+      "title": "Man Charged by US With Illegally Shipping Nvidia Chips to China",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-02/man-charged-by-us-with-illegally-shipping-nvidia-chips-to-china",
+      "description": "Federal prosecutors arrested a California man on Thursday on charges of smuggling computer servers containing $300 million worth of Nvidia Corp. artificial intelligence chips to China in violation of US export controls.",
+      "published": "2026-10-02T00:03:06.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "nvidia",
+        "intel",
+        "artificial intelligence",
+        "chip"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Google launches first datacenter satellite and research that finds orbiting bit barns can work",
+      "link": "https://www.theregister.com/systems/2026/10/02/google-launches-first-datacenter-satellite-and-research-that-finds-orbiting-bit-barns-can-work/5300721",
+      "description": "If SpaceX can launch 1,800 Starships, and researchers nail gnarly networking, design and formation flying problems,",
+      "published": "2026-10-02T02:08:45.000Z",
+      "source": "The Register",
+      "sourceKey": "theregister",
+      "priority": 2,
+      "image": "https://image.theregister.com/?imageId=5242044&width=800",
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "google",
+        "spacex",
+        "starship",
+        "satellite"
+      ],
+      "category": "space"
+    },
+    {
+      "title": "Paramount Backer Cardinale Says CEO David Ellison Is the ‘Future’ of Hollywood",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-10-02/paramount-backer-cardinale-says-ceo-david-ellison-is-the-future-of-hollywood",
+      "description": "The founder of RedBird Capital says the merger with Warner Bros. will be positive for the industry",
+      "published": "2026-10-02T11:02:01.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 7,
+      "matchedKeywords": [
+        "merger",
+        "ceo"
+      ],
+      "category": "business"
+    }
+  ],
+  "byCategory": {
+    "ai": [
+      {
+        "title": "Google has been playing catch up with OpenAI and Anthropic. Does its new flagship model really compete at the frontier?",
+        "link": "https://www.cnbc.com/2026/10/02/tech-download-google-argon-frontier-openai-anthropic.html",
+        "description": "Google has been trailing OpenAI and Anthropic for much of 2026, analysts say Gemini 4 puts it back in the frontier AI conversation.",
+        "published": "2026-10-02T11:00:01.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 22,
+        "matchedKeywords": [
+          "google",
+          "openai",
+          "anthropic",
+          "gemini"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Man Charged by US With Illegally Shipping Nvidia Chips to China",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-02/man-charged-by-us-with-illegally-shipping-nvidia-chips-to-china",
+        "description": "Federal prosecutors arrested a California man on Thursday on charges of smuggling computer servers containing $300 million worth of Nvidia Corp. artificial intelligence chips to China in violation of US export controls.",
+        "published": "2026-10-02T00:03:06.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "nvidia",
+          "intel",
+          "artificial intelligence",
+          "chip"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": " PewDiePie unveils ‘uncensored’ Ajax AI model for home PCs ",
+        "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/pewdiepie-unveils-uncensored-ajax-ai-model-built-to-run-on-home-pcs-creator-says-openai-banned-him-twice-while-making-it",
+        "description": "PewDiePie says OpenAI banned him twice while he made Ajax, a fine-tuned Qwen3.5-9B agent.",
+        "published": "2026-10-02T10:30:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/EwKpSg7hHpSZWPEEPNNaT-1920-80.png",
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "AI music maker Suno now generates spoken words",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+        "description": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you to simultaneously generate voiceovers and background music to accompany them.\n\"Music will always be at the heart of Suno and what we build. At the same time, our vision has always extended to other forms of human expression,\" Suno chief product officer, Jack Brody, said in the announcement. \"Today, we're expanding what's possible in Suno with Speech: the first audio model that generates voice and music to …\nRead the full story at The Verge.",
+        "published": "2026-10-02T09:42:19.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "ceo"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple TV’s acclaimed ‘The Last First: Winter K2’ documentary now streaming",
+        "link": "https://9to5mac.com/2026/10/01/apple-tvs-acclaimed-the-last-first-winter-k2-documentary-now-streaming/",
+        "description": "Sporting a 100% Rotten Tomatoes score, the extreme mountain climbing documentary “The Last First: Winter K2” is now available to Apple TV subscribers. Watch the trailer below.\nmore…",
+        "published": "2026-10-02T01:00:20.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/last-first-k2.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Fortinet sounds the alarm over actively exploited FortiMail zero-day",
+        "link": "https://www.theregister.com/security/2026/10/02/fortinet-sounds-the-alarm-over-actively-exploited-fortimail-zero-day/5300803",
+        "description": "No login required, exploitation underway, and some admins are still waiting for patches",
+        "published": "2026-10-02T10:53:49.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=5300807&width=800",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "arm"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
+        "link": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
+        "description": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and vulnerable—target.",
+        "published": "2026-10-02T09:45:00.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "chatgpt"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "NYC’s AI Office Boom Is Bust for Young Job Hunters, Report Finds",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-02/nyc-s-ai-office-boom-is-bust-for-young-job-hunters-report-finds",
+        "description": "New York’s artificial-intelligence boom is drawing massive investments and fueling a surge in office leasing, but it’s doing little for young workers trying to start their careers, according to a report by the Partnership for New York City.",
+        "published": "2026-10-02T10:00:00.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "intel"
+        ],
+        "category": "ai"
+      }
+    ],
+    "chips_cloud": [
+      {
+        "title": " OpenAI’s Jalapeño ASICs are deployed alongside AMD EPYC ‘Turin’ CPUs as hosts, not Nvidia's Vera ",
+        "link": "https://www.tomshardware.com/pc-components/cpus/openais-jalapeno-asics-are-deployed-alongside-amd-epyc-turin-cpus-as-hosts-hardware-vp-says-nvidias-vera-standalone-is-a-little-bit-behind-on-that-maturity-level",
+        "description": "OpenAI chose to pair rack-scale deployments of its Jalapeño ASIC with AMD EPYC Turin CPUs, not the wave of high-performance agentic chips like Arm’s AGI or Nvidia’s Vera.",
+        "published": "2026-10-02T12:40:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/9mJ37sc39kgcyEigsUfgNn-1920-80.jpg",
+        "relevanceScore": 21,
+        "matchedKeywords": [
+          "nvidia",
+          "openai",
+          "amd",
+          "arm",
+          "agi"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Microsoft, Amazon Cloud Arms Set to Face Deeper Scrutiny Under EU’s Tech Rules",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-02/microsoft-amazon-cloud-arms-set-to-face-deeper-scrutiny-under-eu-s-tech-rules",
+        "description": "Microsoft Corp.’s Azure and Amazon Web Services are set to be designated under the European Union’s strict rulebook for Big Tech.",
+        "published": "2026-10-02T11:16:13.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 13,
+        "matchedKeywords": [
+          "microsoft",
+          "amazon",
+          "arm"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Amazon writes scary blog warning communities not to block data centers",
+        "link": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
+        "description": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO Matt Garman pushed back on public concerns around the impact that data centers may have on jobs, power demands, and the environment, saying \"our nation can't afford to lose\" the race for AI dominance.\n\"With any change, there will be important questions raised, but there will also be misinformation and outright lies, and in the age of social media and 24/7 news, myths take hold faster than ever before,\" said Garman. \"In fact, this build out is s …\nRead the full story at The Verge.",
+        "published": "2026-10-02T11:52:20.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "amazon",
+          "arm",
+          "ceo",
+          "data center"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Amazon’s Latest Response to AI Data Center Backlash: $1 Billion",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-02/amazon-s-latest-response-to-ai-data-center-backlash-1-billion",
+        "description": "Amazon.com Inc.’s latest attempt to address the intensifying blowback to an unprecedented buildout of computing infrastructure: a commitment to spend more than $1 billion over the next five years on initiatives for the communities near its server farms.",
+        "published": "2026-10-02T10:48:14.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "amazon",
+          "arm",
+          "data center",
+          "billion"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Amazon to Move $8 Billion of Chips Off Its Books, FT Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-02/amazon-seeks-to-move-8-billion-of-chips-off-its-books-ft-says",
+        "description": "Amazon.com Inc. is exploring a deal to shift about $8 billion worth of top-end Nvidia Corp. chips off its balance sheet, according to the Financial Times.",
+        "published": "2026-10-02T04:23:48.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "amazon",
+          "nvidia",
+          "chip",
+          "billion"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Amazon Says It's No Longer Using NDAs for Data Centers",
+        "link": "https://www.wired.com/story/amazon-says-it-is-going-to-stop-using-ndas-for-data-centers/",
+        "description": "The company announced it has stopped using secret agreements with county officials and acknowledges community backlash is leading to data center moratoriums across the country.",
+        "published": "2026-10-02T11:47:58.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "amazon",
+          "data center"
+        ],
+        "category": "chips_cloud"
+      }
+    ],
+    "space": [
+      {
+        "title": "SpaceX launches Google AI chips into orbit in push toward space-based data centers",
+        "link": "https://www.cnbc.com/2026/10/01/spacex-to-launch-google-ai-chips-to-orbit-with-planet-labs-satellites.html",
+        "description": "Google's tensor processing units were launched into orbit on Planet Labs satellites.",
+        "published": "2026-10-02T00:06:02.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "google",
+          "spacex",
+          "chip",
+          "data center",
+          "satellite"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "Google launches first datacenter satellite and research that finds orbiting bit barns can work",
+        "link": "https://www.theregister.com/systems/2026/10/02/google-launches-first-datacenter-satellite-and-research-that-finds-orbiting-bit-barns-can-work/5300721",
+        "description": "If SpaceX can launch 1,800 Starships, and researchers nail gnarly networking, design and formation flying problems,",
+        "published": "2026-10-02T02:08:45.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=5242044&width=800",
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "google",
+          "spacex",
+          "starship",
+          "satellite"
+        ],
+        "category": "space"
+      }
+    ],
+    "business": [
+      {
+        "title": "Paramount Backer Cardinale Says CEO David Ellison Is the ‘Future’ of Hollywood",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-10-02/paramount-backer-cardinale-says-ceo-david-ellison-is-the-future-of-hollywood",
+        "description": "The founder of RedBird Capital says the merger with Warner Bros. will be positive for the industry",
+        "published": "2026-10-02T11:02:01.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "merger",
+          "ceo"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Lockheed CEO Maps Pivot to Move at `Skunk Works' Speed",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-02/lockheed-ceo-maps-pivot-to-move-at-skunk-works-speed-video",
+        "description": "Lockheed Martin Corp. Chief Executive Officer Jim Taiclet wants all of the world's largest defense contractor to move nimbly and innovate like the company's secretive Skunk Works unit. He speaks with Bloomberg Television's Ed Ludlow. (Source: Bloomberg)",
+        "published": "2026-10-02T12:29:02.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "ceo"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Lockheed’s ‘Big Bet’ Tests CEO Plan to Move at Skunk Works Speed",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-02/lockheed-s-big-bet-tests-ceo-plan-to-move-at-skunk-works-speed",
+        "description": "Outside Washington DC in mid-September, Lockheed Martin Corp. lifted the tarp on a futuristic stealth drone: all sleek edges, mysterious vents and not a single pane of glass.",
+        "published": "2026-10-02T12:14:10.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "ceo"
+        ],
+        "category": "business"
+      }
+    ],
+    "regulation": [
+      {
+        "title": " California bill requiring 3D printers to block firearm printing becomes law ",
+        "link": "https://www.tomshardware.com/3d-printing/california-bill-requiring-3d-printers-to-block-firearm-printing-becomes-law-rule-to-require-manufacturers-to-include-blocking-technology-once-an-industry-standard-is-published",
+        "description": "California will require 3D printer manufacturers to include firearm blocking technology once ASTM International publishes a standard for it. However, the California DOJ is only mandated to check for one until July 1, 2029, after which it is no longer obliged by law to do so.",
+        "published": "2026-10-02T10:00:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/zxEcUtojfykwbYW7eVbK5Y-1920-80.png",
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "arm",
+          "doj"
+        ],
+        "category": "regulation"
+      },
+      {
+        "title": "New Mexico wants Meta to pay $40 billion in penalties for Cambridge Analytica scandal",
+        "link": "https://www.engadget.com/2275451/new-mexico-meta-40-billion-penalties-cambridge-analytica-lawsuit/",
+        "description": "New Mexico's attorney argued that the penalties Meta has to pay need to be significant enough to make an impact on the company.",
+        "published": "2026-10-02T08:47:29.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/new-mexico-wants-meta-to-pay-40-billion-in-penalties-for-cambridge-analytica-scandal/l-intro-1790930676.jpg",
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "meta",
+          "billion"
+        ],
+        "category": "regulation"
+      }
+    ],
+    "ev_autonomous": [
+      {
+        "title": "Robotaxi operators will face fines for blocking first responders",
+        "link": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
+        "description": "A new California law places new rules on autonomous vehicles operators.",
+        "published": "2026-10-02T00:57:57.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "robotaxi",
+          "autonomous vehicle"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Rivian issues R2 recall for poorly tightened battery packs",
+        "link": "https://techcrunch.com/2026/10/02/rivian-issues-r2-recall-for-poorly-tightened-battery-packs/",
+        "description": "The company says around 14 vehicles may be affected, and that it has resolved the issue on the assembly line.",
+        "published": "2026-10-02T12:50:11.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "rivian"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Your Driverless Cab Is Spying on You",
+        "link": "https://www.wired.com/story/when-the-robotaxis-are-watching-you/",
+        "description": "Self-driving cars from Waymo, Zoox, and Tesla are studded with cameras and sensors. Some of them are pointing at riders.",
+        "published": "2026-10-02T10:30:00.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "tesla",
+          "waymo",
+          "self-driving"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Tesla rolls out an emergency drive-away feature after Supercharger shooting",
+        "link": "https://www.engadget.com/2275509/tesla-supercharger-emergency-drive-away-feature/",
+        "description": "Tesla's new feature will let you drive away with the Supercharger still connected in case of emergencies.",
+        "published": "2026-10-02T12:03:04.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/tesla-rolls-out-an-emergency-drive-away-feature-after-supercharger-shooting/l-intro-1790942481.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "tesla"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Rivian continues to ramp with R2 even as EV market growth slows",
+        "link": "https://electrek.co/2026/10/02/rivian-continues-to-ramp-with-r2-even-as-ev-market-growth-slows/",
+        "description": "Rivian posted its third-quarter production and delivery numbers this morning and, with the R2, remains on track to meet its annual targets despite some headwinds across the US electric vehicle sector.\nmore…",
+        "published": "2026-10-02T12:37:40.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2024/07/Rivian-R2-pre-orders.jpeg?quality=82&#038;strip=all&#038;w=1400",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "rivian"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Tesla Model 3 gets range and performance boost, plus a new 16-inch screen in US",
+        "link": "https://electrek.co/2026/10/01/tesla-model-3-us-16-inch-screen-performance-528-hp/",
+        "description": "Tesla is now putting its larger 16-inch center touchscreen in every Model 3 sold in the US, Puerto Rico, and Mexico, a day after it rolled out the same upgrade in China.\nThe Model 3 Performance also gets a black headliner, 316 miles of range, and 528 hp, while the Premium AWD now does 0 to 60 mph in 3.8 seconds. But there’s still no word on the US Model 3 getting vehicle-to-load.\nmore…",
+        "published": "2026-10-02T00:54:04.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/tesla-model-3-us-16-inch-screen-featured.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "tesla"
+        ],
+        "category": "ev_autonomous"
+      }
+    ]
+  },
+  "totalArticles": 31
+}
