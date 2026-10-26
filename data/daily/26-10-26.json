@@ -1,0 +1,862 @@
+{
+  "type": "daily",
+  "id": "26-10-26",
+  "title": "Monday, Oct 26",
+  "dateRange": "October 26, 2026",
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-26T13:24:32.981Z",
+  "highlights": [
+    {
+      "title": "Anthropic IPO: S-1 Filing Offers First Look at Claude Maker’s Finances",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-ipo-s-1-filing-offers-first-look-at-claude-maker-s-finances",
+      "description": "Anthropic PBC filed for an IPO, moving a step closer to being the first company focused primarily on developing the most advanced artificial intelligence models to go public.",
+      "published": "2026-10-26T13:08:03.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 18,
+      "matchedKeywords": [
+        "anthropic",
+        "intel",
+        "claude",
+        "ipo",
+        "artificial intelligence"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Meta announces $95 billion stock offering to fund AI expansion",
+      "link": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
+      "description": "Meta plans to raise $95 billion to fund AI infrastructure and superintelligence, as Nvidia, AMD and Broadcom eye up to $5 billion in shares.",
+      "published": "2026-10-26T12:42:41.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 17,
+      "matchedKeywords": [
+        "meta",
+        "nvidia",
+        "intel",
+        "amd",
+        "broadcom"
+      ],
+      "category": "chips_cloud"
+    },
+    {
+      "title": "Musk’s Dream of SpaceX-Tesla Merger Rests on Carmaker’s Shareholders",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-10-26/musk-s-dream-of-spacex-tesla-merger-rests-on-carmaker-s-shareholders",
+      "description": "The billionaire’s companies are in two very different positions",
+      "published": "2026-10-26T11:02:01.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 17,
+      "matchedKeywords": [
+        "tesla",
+        "spacex",
+        "arm",
+        "merger",
+        "billion"
+      ],
+      "category": "business"
+    },
+    {
+      "title": "AI giant Anthropic files for blockbuster IPO",
+      "link": "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo",
+      "description": "The maker of Claude reported $16.3 billion in first-half revenue and an $80.7 billion net loss as it aims to price its offering in mid-November.",
+      "published": "2026-10-26T13:22:09.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "priority": 3,
+      "image": null,
+      "relevanceScore": 15,
+      "matchedKeywords": [
+        "anthropic",
+        "claude",
+        "ipo",
+        "billion"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": " Intel's Lip-Bu Tan has spoken with Lisa Su about potential collaboration with AMD ",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-explores-potential-collaboration-with-amd-as-lip-bu-tan-pushes-customer-focused-turnaround-ceo-targets-custom-chips-advanced-packaging-and-stronger-foundry-business",
+      "description": "Intel CEO Lip-Bu Tan has reportedly discussed potential areas of cooperation with AMD chief Lisa Su as Intel works to rebuild its CPU business and expand its foundry operations. The companies have already collaborated on x86 standards and CPU software, including AMD’s integration of its ZenDNN optimizations into Intel’s oneDNN library. Neither executive has publicly detailed the reported discussions or confirmed a new agreement.",
+      "published": "2026-10-26T12:40:00.000Z",
+      "source": "Tom's Hardware",
+      "sourceKey": "tomshardware",
+      "priority": 2,
+      "image": "https://cdn.mos.cms.futurecdn.net/wbhpXv9wcgo6udYTmNjvVX-1920-80.jpg",
+      "relevanceScore": 11,
+      "matchedKeywords": [
+        "intel",
+        "amd",
+        "ceo"
+      ],
+      "category": "chips_cloud"
+    },
+    {
+      "title": "SoftBank reportedly plans $50 billion tech investment in aspiring 'AI nation' Malaysia\n",
+      "link": "https://www.cnbc.com/2026/10/26/softbank-masayoshi-son-malaysia-ai-billions.html",
+      "description": "SoftBank Group reportedly plans to invest $50 billion in Malaysia's technology sector, including artificial intelligence and data centers.",
+      "published": "2026-10-26T04:56:16.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 10,
+      "matchedKeywords": [
+        "intel",
+        "softbank",
+        "artificial intelligence",
+        "data center",
+        "billion"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips",
+      "link": "https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout",
+      "description": "SpaceX has raised $40 billion in debt to buy GPUs, while Musk predicts a major shakeout among smaller AI cloud providers.",
+      "published": "2026-10-26T03:11:39.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "priority": 3,
+      "image": null,
+      "relevanceScore": 10,
+      "matchedKeywords": [
+        "spacex",
+        "elon musk",
+        "chip",
+        "gpu",
+        "billion"
+      ],
+      "category": "chips_cloud"
+    },
+    {
+      "title": "Fanatics teams up with OpenAI for new AI-powered shopping suggestion feature",
+      "link": "https://www.cnbc.com/2026/10/26/fanatics-openai-codex-sports-merchandise-shopping.html",
+      "description": "Fanatics is using AI to help shoppers navigate more than 1.5 million items of sports merchandise, with a Shop the Look feature powered by OpenAI Codex.",
+      "published": "2026-10-26T13:02:37.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "openai",
+        "hopper"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Meta Seeks Up to $95 Billion in Equity to Fund AI Spending",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-26/meta-seeks-up-to-95-billion-in-equity-to-fund-ai-spending",
+      "description": "Meta Platforms Inc. is seeking to raise as much as $95 billion from selling common and preferred stock, tapping investors for support in the race to lead artificial intelligence’s development.",
+      "published": "2026-10-26T11:12:45.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "meta",
+        "intel",
+        "artificial intelligence",
+        "billion"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Apple will reportedly run diagnostics on returned iPhones without opening the packaging",
+      "link": "https://www.engadget.com/2296630/apple-will-reportedly-run-diagnostics-on-returned-iphones-without-opening-the-packaging/",
+      "description": "Apple soon won't need to physically access iPhones like the new Duo before updating them or checking returns.",
+      "published": "2026-10-26T13:15:09.000Z",
+      "source": "Engadget",
+      "sourceKey": "engadget",
+      "priority": 2,
+      "image": "https://www.engadget.com/img/gallery/apple-will-reportedly-run-diagnostics-on-returned-iphones-without-opening-the-packaging/l-intro-1793020431.jpg",
+      "relevanceScore": 7,
+      "matchedKeywords": [
+        "apple",
+        "agi"
+      ],
+      "category": null
+    }
+  ],
+  "byCategory": {
+    "ai": [
+      {
+        "title": "Anthropic IPO: S-1 Filing Offers First Look at Claude Maker’s Finances",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-ipo-s-1-filing-offers-first-look-at-claude-maker-s-finances",
+        "description": "Anthropic PBC filed for an IPO, moving a step closer to being the first company focused primarily on developing the most advanced artificial intelligence models to go public.",
+        "published": "2026-10-26T13:08:03.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 18,
+        "matchedKeywords": [
+          "anthropic",
+          "intel",
+          "claude",
+          "ipo",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "AI giant Anthropic files for blockbuster IPO",
+        "link": "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo",
+        "description": "The maker of Claude reported $16.3 billion in first-half revenue and an $80.7 billion net loss as it aims to price its offering in mid-November.",
+        "published": "2026-10-26T13:22:09.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 15,
+        "matchedKeywords": [
+          "anthropic",
+          "claude",
+          "ipo",
+          "billion"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "SoftBank reportedly plans $50 billion tech investment in aspiring 'AI nation' Malaysia\n",
+        "link": "https://www.cnbc.com/2026/10/26/softbank-masayoshi-son-malaysia-ai-billions.html",
+        "description": "SoftBank Group reportedly plans to invest $50 billion in Malaysia's technology sector, including artificial intelligence and data centers.",
+        "published": "2026-10-26T04:56:16.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "intel",
+          "softbank",
+          "artificial intelligence",
+          "data center",
+          "billion"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Fanatics teams up with OpenAI for new AI-powered shopping suggestion feature",
+        "link": "https://www.cnbc.com/2026/10/26/fanatics-openai-codex-sports-merchandise-shopping.html",
+        "description": "Fanatics is using AI to help shoppers navigate more than 1.5 million items of sports merchandise, with a Shop the Look feature powered by OpenAI Codex.",
+        "published": "2026-10-26T13:02:37.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "openai",
+          "hopper"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Meta Seeks Up to $95 Billion in Equity to Fund AI Spending",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-26/meta-seeks-up-to-95-billion-in-equity-to-fund-ai-spending",
+        "description": "Meta Platforms Inc. is seeking to raise as much as $95 billion from selling common and preferred stock, tapping investors for support in the race to lead artificial intelligence’s development.",
+        "published": "2026-10-26T11:12:45.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "meta",
+          "intel",
+          "artificial intelligence",
+          "billion"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Elvis Presley's estate is suing Anthropic over copyright infringement",
+        "link": "https://www.engadget.com/2296535/elvis-presley-estate-suing-ai-company-for-copyright-infringement/",
+        "description": "The latest AI copyright infringement suit centers around a single music artist from decades past: Elvis.",
+        "published": "2026-10-26T11:23:48.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/elvis-presleys-estate-is-suing-anthropic-over-copyright-infringement/l-intro-1793013810.jpg",
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "anthropic"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Former Intel CEO Pat Gelsinger bets on Nagare Labs to vault the memory wall",
+        "link": "https://www.theregister.com/systems/2026/10/26/former-intel-ceo-pat-gelsinger-bets-on-nagare-labs-to-vault-the-memory-wall/5305181",
+        "description": "SRAM-like bandwidth, DRAM-like density, and NAND-like manufacturing: Z2RAM makes big promises, but the road ahead is arduous and littered with the ruins of failed memory vendors",
+        "published": "2026-10-26T12:00:00.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=225048&width=800",
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "intel",
+          "ceo"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Can AI help solve the COBOL code crisis?",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+        "description": "A computer running COBOL 73, an antiquated computer programming language, awaits taxpayer information entries at the Internal Revenue Service in Austin, Tx., on Friday, June 10, 2022. | Image: Getty Images\t\n\nWhat do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everything come crashing down.\nOpenAI thinks it may have a solution. On Monday, the company touted \"substantial improvements\" in its latest AI models' ability to migrate aging software written in older programming languages into modern code, which it claims could help organizations with \"maintaining and modernizing older systems.\"\nThat's a potentially massive deal. COBOL, one of the languages highlighted by OpenAI, remains stubbornly embedded in vas …\nRead the full story at The Verge.",
+        "published": "2026-10-26T13:15:00.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-1246435991.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple updates the iPad Mini with a larger OLED display",
+        "link": "https://www.theverge.com/tech/1017801/ipad-mini-oled-display-apple-announce",
+        "description": "Apple announced a new iPad Mini with a larger, 8.5-inch OLED display. The company revealed the new device just days before its \"Pro and tell\" event on Wednesday. It starts at $699 for the Wi-Fi-only model, and $849 for Wi-Fi and cellular.\nAt 5.4mm thick, the iPad Mini is thinner and lighter than its predecessor. It also has bezels that are 24 percent slimmer, allowing the device to maintain the same small form factor with a display that's slightly larger than the previous generation's 8.3-inch screen. The new iPad Mini comes with an IP67 rating for protection against water and dust, along with a peak brightness of up to 1200 nits.\nAside fr …\nRead the full story at The Verge.",
+        "published": "2026-10-26T13:05:03.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-iPad-mini-hero-261026_big.jpg.large_2x.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'",
+        "link": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
+        "description": "Investors are already questioning the debt-fueled expansion of neoclouds and whether the large AI infrastructure build-out will generate long-term returns.",
+        "published": "2026-10-26T12:10:07.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "elon musk"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Tata Commits $450 Million to ‘AI Superhighway’ Linking Hubs",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-26/tata-commits-450-million-to-ai-superhighway-linking-hubs",
+        "description": "Tata Communications Ltd. plans to spend as much as $450 million to create a long-haul fiber optic network linking India’s key artificial intelligence hubs, building out the country’s infrastructure and readiness for the global AI economy.",
+        "published": "2026-10-26T08:30:00.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "intel",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "AI Funding Angst Stands in Way of Return to Highs: Taking Stock",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-26/ai-funding-angst-stands-in-way-of-return-to-highs-taking-stock",
+        "description": "A wall of worry increasingly dominated by artificial intelligence’s financing costs needs dealing with before the market can make a run at fresh highs.",
+        "published": "2026-10-26T07:27:01.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "intel",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Gurman: Apple's Three-Day Announcement Run Could Start Today",
+        "link": "https://www.macrumors.com/2026/10/26/new-oled-ipad-mini-could-launch-today/",
+        "description": "Bloomberg's Mark Gurman thinks Apple's announcements this week could arrive as a three-day rollout starting today. Writing on X, Gurman said that when Apple holds events on Wednesdays, it \"increasingly does so following three days of announcements,\" adding that an OLED iPad mini today, M6 iMac and MacBook Pro updates on Tuesday, and a touch-screen MacBook Pro on Wednesday \"would make sense.\"\r\n\r\nearlier reporting suggested the M6 iMac and 14-inch MacBook Pro arriving on Wednesday, with the touchscreen MacBook Pro also expected that day. Apart from Apple's Greg Joswiak's \"Pro and Tell\" hint last week, Apple has yet to make any formal announcements.\nTag: Mark Gurman\nThis article, \"Gurman: Apple's Three-Day Announcement Run Could Start Today\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-10-26T11:49:20.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/06/OLED-iPad-Mini-Feature-2.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple Addresses Web Security Threat, Working on macOS Update With Additional Fix",
+        "link": "https://www.macrumors.com/2026/10/25/apple-blocks-compromised-emudhra-certificates/",
+        "description": "Earlier this month, a security researcher discovered that private cryptographic keys associated with eight of Indian company eMudhra's intermediate certificate authority (CA) certificates were weak. The compromised keys could have allowed attackers to impersonate legitimate websites, potentially putting users' sensitive information at risk. However, there is currently no evidence that the keys were exploited maliciously.\r\n\r\n\r\neMudhra's certificates were widely trusted by all major web browsers, including Safari, Chrome, Edge, and Firefox, but Apple and the other companies behind those browsers have since taken action to protect users.\r\n\r\nsupport document, Apple said it has been blocking eMudhra's compromised TLS web certificates since October 19 in Safari, Mail, and apps that use Apple's networking and security frameworks. The certificates are blocked automatically with no software update required, so most Apple device owners do not need to take any action.\r\n\r\nThere is one exception. Apple said those who use macOS command-line tools, such as system administrators, should be aware that some of those tools can still accept the compromised certificates until Apple releases a macOS update with a fix. In the meantime, Apple said those who use command-line tools can remove root CA certificates from the /etc/ssl/cert.pem file.\r\n\r\nApple has not provided a release date for the macOS update that will include the necessary changes to the /etc/ssl/cert.pem file by default.\r\n\r\nApple's support document.\nTags: macOS Security, Safari\nThis article, \"Apple Addresses Web Security Threat, Working on macOS Update With Additional Fix\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-10-26T02:22:30.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/10/Switch-to-Safari.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": " Denmark’s bid to ditch Microsoft Office for open-source alternative Collabora collapses in under six months  ",
+        "link": "https://www.tomshardware.com/software/microsoft-office/denmarks-bid-to-ditch-microsoft-office-for-open-source-alternative-collabora-collapses-in-under-six-months-employees-cite-issues-with-style-formatting-and-tracking-changes",
+        "description": "The Danish digitization ministry experimented with Collabora as an alternative to Microsoft Office, but employees who used them were frequently frustrated with style and paragraph formatting challenges, among other complaints.",
+        "published": "2026-10-26T09:30:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/NAbz7BCDUARTjEEB4XNUvS-1920-80.png",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "microsoft"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "iFixit dismantles Apple's Duo: 'You'd better baby that screen'",
+        "link": "https://www.theregister.com/personal-tech/2026/10/26/ifixit-dismantles-apples-duo-youd-better-baby-that-screen/5305296",
+        "description": "Battery replacement gets the thumbs up, but it all hinges on dust. A conventional phone might be better bet for home repairers",
+        "published": "2026-10-26T11:43:00.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=5305299&width=800",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "After threatening AI export bans, China allows DeepSeek to keep selling",
+        "link": "https://www.theregister.com/ai-and-ml/2026/10/26/after-threatening-ai-export-bans-china-allows-deepseek-to-keep-selling/5305267",
+        "description": "PLUS: AI datacenter bubble wobbles in Australia; E-commerce app suggests it can detect diseases; India’s top telco to IPO amid investor frenzy; and more!",
+        "published": "2026-10-26T00:39:57.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=260439&width=800",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "ipo"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "AI Agents Are Already Changing the Price of Goods",
+        "link": "https://www.bloomberg.com/news/videos/2026-10-26/ai-agents-are-already-changing-the-price-of-goods-video",
+        "description": "It's obvious that things are getting more expensive, and there are plenty of reasons behind the surge in prices — whether it's wars or inflation or companies padding their profit margins. But with the release of AI agents like Meta's Muse, tech companies are promising consumers that agents will start saving them tons of money by finding the best deals. According to today's guest, Lindsay Owens, the history of price gouging does not bode well for claims that things might get cheaper because of new technology, and research conducted by her think tank Groundwork Collaborative shows that a number of consumer facing agents end up serving customers more expensive items after learning more about their financial situation. Her new book Gouged: The End of a Fair Price — and What That Means for Your Wallet gets into the history of how companies got away with charging more for their goods, through means like data collection and surveillance. (Source: Bloomberg)",
+        "published": "2026-10-26T08:13:10.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "meta"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Claude Code AI finds a cryptominer on a Mac; says it didn’t put it there",
+        "link": "https://9to5mac.com/2026/10/26/claude-code-ai-finds-a-cryptominer-on-a-mac-says-it-didnt-put-it-there/",
+        "description": "A Redditor used Claude Code AI to build a Mac temperature monitor app and found that the machine was running much hotter than expected. Claude reported that it found a crypto miner using more than 1,000% of the CPU cycles – then added an unprompted comment denying having installed it.\nSome Redditors were understandably suspicious of Claude’s spontaneous comment that it wasn’t responsible for installing the rogue app …\nmore…",
+        "published": "2026-10-26T11:34:41.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Claude-Code-AI-finds-a-cryptominer-on-a-Mac-–-says-it-didnt-put-it-there.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "claude"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "OLED iPad Mini Pre-Orders and Release Date Announced",
+        "link": "https://www.macrumors.com/2026/10/26/oled-ipad-mini-pre-orders-launch-date/",
+        "description": "Apple today announced the biggest iPad mini update yet, bringing OLED to its smallest tablet for the first time. The new model features an 8.5-inch OLED display, an A20 Pro chip, and IP67 water and dust resistance housed in a 5.4mm thin design. Pre-orders open Wednesday, October 28, at 10:10 a.m. Pacific Time on apple.com and in the Apple Store app, with availability starting Friday, November 6.\r\n\r\nRelated Roundup: iPad mini\nTag: OLED\nBuyer's Guide: iPad Mini (Coming Soon)\nRelated Forum: iPad\nThis article, \"OLED iPad Mini Pre-Orders and Release Date Announced\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-10-26T13:17:03.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/10/Apple-iPad-mini-midnight-261026-scaled.jpg",
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "apple",
+          "chip"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Work to protect DNS from quantum decryption attacks is speeding up",
+        "link": "https://www.theregister.com/networks/2026/10/26/work-to-protect-dns-from-quantum-decryption-attacks-is-speeding-up/5305274",
+        "description": "PLUS: Regional internet registry reform nears; Trustworthy-sounding domains attract scammers",
+        "published": "2026-10-26T04:08:23.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=238312&width=800",
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "quantum"
+        ],
+        "category": "ai"
+      }
+    ],
+    "chips_cloud": [
+      {
+        "title": "Meta announces $95 billion stock offering to fund AI expansion",
+        "link": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
+        "description": "Meta plans to raise $95 billion to fund AI infrastructure and superintelligence, as Nvidia, AMD and Broadcom eye up to $5 billion in shares.",
+        "published": "2026-10-26T12:42:41.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 17,
+        "matchedKeywords": [
+          "meta",
+          "nvidia",
+          "intel",
+          "amd",
+          "broadcom"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": " Intel's Lip-Bu Tan has spoken with Lisa Su about potential collaboration with AMD ",
+        "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-explores-potential-collaboration-with-amd-as-lip-bu-tan-pushes-customer-focused-turnaround-ceo-targets-custom-chips-advanced-packaging-and-stronger-foundry-business",
+        "description": "Intel CEO Lip-Bu Tan has reportedly discussed potential areas of cooperation with AMD chief Lisa Su as Intel works to rebuild its CPU business and expand its foundry operations. The companies have already collaborated on x86 standards and CPU software, including AMD’s integration of its ZenDNN optimizations into Intel’s oneDNN library. Neither executive has publicly detailed the reported discussions or confirmed a new agreement.",
+        "published": "2026-10-26T12:40:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/wbhpXv9wcgo6udYTmNjvVX-1920-80.jpg",
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "intel",
+          "amd",
+          "ceo"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips",
+        "link": "https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout",
+        "description": "SpaceX has raised $40 billion in debt to buy GPUs, while Musk predicts a major shakeout among smaller AI cloud providers.",
+        "published": "2026-10-26T03:11:39.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "spacex",
+          "elon musk",
+          "chip",
+          "gpu",
+          "billion"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": " Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle ",
+        "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-20-30-and-40-series-gpus-hacked-to-remove-a-half-speed-ai-throttle-firmware-exploit-doubles-rtx-4090s-peak-tensor-rate-lifts-rtx-3090-ti-matrix-math-up-to-80-percent",
+        "description": "Linux kernel modules lift Nvidia’s half-rate AI tensor limit on GeForce RTX 20, 30, and 40-series GPUs.",
+        "published": "2026-10-26T11:00:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/4Yvp7ck4v6d8JPBoNXVPfe-1920-80.jpg",
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "nvidia",
+          "gpu"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Apple updates the iPad mini with an A20 processor and OLED display",
+        "link": "https://www.engadget.com/2296637/apple-updates-the-ipad-mini-with-an-a20-processor-and-oled-display/",
+        "description": "The new tablet stats at $699.",
+        "published": "2026-10-26T13:16:56.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/apple-updates-the-ipad-mini-with-an-a20-processor-and-oled-display/l-intro-1793020756.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Conversion Kit Aims to Put PC Hardware Inside 2019 Mac Pro",
+        "link": "https://www.macrumors.com/2026/10/26/mac-pro-conversion-kit-to-put-pc-hardware-inside/",
+        "description": "Owners of Apple's 2019 Mac Pro could repurpose its enclosure for a custom PC using a conversion kit being crowdfunded by Practical Prototyping (via Hackster).\r\n\r\n\r\n\r\ndiscontinued the Mac Pro in March, confirming that it has no plans for future models. For owners of the 2019 Intel-based tower, the conversion offers a potential way to keep using its distinctive enclosure with newer PC components.\r\n\r\nMechanical engineer Stefan Bond developed the kit to accommodate a conventional ATX motherboard and power supply inside the Mac Pro 7,1 chassis. The proposed conversion is reversible, with no permanent changes to the case required.\r\n\r\nBuilders need to provide their own computer components and remove Apple's existing internals before installing the kit. The package supplies mounting hardware and adapters rather than a complete computer, so the enclosure, processor, memory, graphics card, storage, and power supply are separate expenses.\r\n\r\nSpace inside the converted enclosure imposes some restrictions. The reported graphics card limit is 308mm in length and 140mm in height, while air coolers can be up to 140mm tall. A separate mounting accessory supports a 240mm liquid cooler, and the design accommodates two SATA drives in either the 2.5-inch or 3.5-inch format.\r\n\r\nThe conversion is designed to reuse Apple's three front fans through custom adapter boards, along with the power button and indicator light. An interface for the two top-mounted USB-C connectors supports USB 3.1 Gen 1.\r\n\r\nKickstarter start at approximately $500, excluding shipping, according to Hackster. Shipping is estimated to begin in March 2027, although crowdfunding pledges do not guarantee delivery.\nTag: Kickstarter\nBuyer's Guide: Mac Pro (Don't Buy)\nRelated Forum: Mac Pro\nThis article, \"Conversion Kit Aims to Put PC Hardware Inside 2019 Mac Pro\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-10-26T11:24:42.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2023/01/Mac-Pro-Feature-Red.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple",
+          "intel"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "The city that fought Flock",
+        "link": "https://www.theverge.com/features/1017836/flock-huntington-west-virginia-surveillance-ballot-measure",
+        "description": "It was about to be a long night in Huntington, West Virginia.\nMayor Patrick Farrell stood before 10 members of city council in a white dress shirt and dark blazer studded with an American flag pin. Behind him sat his constituents and residents from neighboring towns. Some had their arms crossed, while others held a steady glare in his direction. Less than a week before the July 13th meeting, a 33-year-old named Jackie Harper had been shot and killed in Huntington. It was the kind of crime Farrell had promised to get under control. But a breakthrough in the case just days after the killing suggested something promising to Farrell. Harper's s …\nRead the full story at The Verge.",
+        "published": "2026-10-26T10:00:00.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268752_Flock_camera_photos_CAlo_25.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "arm"
+        ],
+        "category": "chips_cloud"
+      }
+    ],
+    "business": [
+      {
+        "title": "Musk’s Dream of SpaceX-Tesla Merger Rests on Carmaker’s Shareholders",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-10-26/musk-s-dream-of-spacex-tesla-merger-rests-on-carmaker-s-shareholders",
+        "description": "The billionaire’s companies are in two very different positions",
+        "published": "2026-10-26T11:02:01.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 17,
+        "matchedKeywords": [
+          "tesla",
+          "spacex",
+          "arm",
+          "merger",
+          "billion"
+        ],
+        "category": "business"
+      }
+    ],
+    "ev_autonomous": [
+      {
+        "title": "Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)",
+        "link": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/",
+        "description": "Eligible Turo hosts will also get a one-month free trial of Tesla's FSD software.",
+        "published": "2026-10-26T12:58:40.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "tesla",
+          "self-driving"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Apple Debuts $699 Water-Resistant iPad Mini With OLED Screen",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-26/apple-launches-699-water-resistant-ipad-mini-with-oled-screen",
+        "description": "Apple Inc. on Monday unveiled a revamped iPad mini with an OLED display, water-resistant design and faster chip, kicking off a week of product launches.",
+        "published": "2026-10-26T13:05:44.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "apple",
+          "chip"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Apple unveils all-new iPad mini: OLED, thinner design, more",
+        "link": "https://9to5mac.com/2026/10/26/new-ipad-mini-features-release-date-price/",
+        "description": "Apple has officially unveiled a new iPad mini. The company calls it the “biggest update ever” for the iPad mini, adding an OLED display and a thinner, lighter design. The new iPad mini is powered by the A20 Pro chip. \nHere’s everything you need to know. \nmore…",
+        "published": "2026-10-26T13:04:24.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-iPad-mini-hero-261026_big.jpg.large_2x.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "apple",
+          "chip"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Apple Teases 'Exciting Week' Ahead After Announcing New iPad Mini",
+        "link": "https://www.macrumors.com/2026/10/26/apple-teases-exciting-week-ahead/",
+        "description": "Just minutes after Apple announced a new iPad mini with an OLED display, A20 Pro chip, and more, Apple's marketing chief Greg Joswiak teased an \"exciting week\" ahead.\r\n\r\nMacBook Pro models with touch-enabled OLED displays. Apple is then holding an experience on Wednesday at 10 a.m. Pacific Time in Los Angeles, where tech reporters and content creators should receive hands-on time with the new devices.\nRelated Roundup: iPad mini\nBuyer's Guide: iPad Mini (Coming Soon)\nRelated Forum: iPad\nThis article, \"Apple Teases 'Exciting Week' Ahead After Announcing New iPad Mini\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-10-26T13:23:39.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/10/apple-pro-tell-logo.jpg",
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "apple",
+          "chip"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "New iPad Mini Is Apple's First Water-Resistant iPad",
+        "link": "https://www.macrumors.com/2026/10/26/new-ipad-mini-is-first-water-resistant-ipad/",
+        "description": "The new iPad mini is Apple's first water-resistant iPad, featuring an IP67 rating for water and dust resistance.\r\n\r\n\r\nApple tested the device for immersion in water up to one meter deep for up to 30 minutes under controlled laboratory conditions. The company highlights reading by the pool and working outdoors on a rainy day as situations where the protection could be particularly useful.\r\n\r\niPad mini's \"Acoustic Display\" audio system apparently helps make the protection possible. It uses specially designed woofers paired through the display, with tweeters hidden between the glass and aluminum enclosure. Apple says the system's sealed enclosure contributes to the IP67 rating while also improving bass and volume.\r\n\r\nApple cautions that splash, water, and dust resistance are not permanent conditions and can decrease with normal wear. The company advises against charging a wet ‌iPad‌, and liquid damage is not covered under warranty.\r\n\r\nRelated Roundup: iPad mini\nBuyer's Guide: iPad Mini (Coming Soon)\nRelated Forum: iPad\nThis article, \"New iPad Mini Is Apple's First Water-Resistant iPad\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-10-26T13:21:21.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/10/Apple-iPad-mini-Procreate-Dreams-261026-scaled.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Apple Watch Users in Europe Report Daylight Saving Glitch",
+        "link": "https://www.macrumors.com/2026/10/26/apple-watch-users-report-dst-glitch-watchos-27/",
+        "description": "Some Apple Watch users running watchOS 27 are reporting a daylight saving glitch after clocks went back in the UK and Europe on Sunday. In a MacRumors forums thread, five users – several in the UK and central Europe – say their watch shows the correct time when activated, but the Always-On display keeps showing summer time, leaving it an hour fast.\r\n\r\nRelated Roundup: Apple Watch 12\nBuyer's Guide: Apple Watch (Buy Now)\nRelated Forum: Apple Watch\nThis article, \"Apple Watch Users in Europe Report Daylight Saving Glitch\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-10-26T12:26:21.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2020/09/apple-watch-series-3-design.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Apple Display Veterans Step Back as New Leaders Take Over",
+        "link": "https://www.macrumors.com/2026/10/26/apple-display-veterans-step-back/",
+        "description": "Two executives who have spent roughly three decades each at Apple are handing over responsibility for its displays, as part of a broader series of engineering leadership changes reported by Bloomberg's Mark Gurman.\r\n\r\n\r\nVictor Yin now oversees much of Apple's display development following years of preparation under Wei Chen and John Zhong. Chen and Zhong, each with approximately 30 years at the company, are taking on more limited responsibilities as advisers. Gurman describes their eventual departures as part of a succession process that has been underway for several years.\r\n\r\nApple's October promotions also include engineering leaders Rajesh Ambati, Louie Sanguinetti, and Derek Shaeffer, who have all become vice presidents. Their work covers connectivity hardware and software, with Sanguinetti's contributions to wireless hardware stretching back decades.\r\n\r\nexpand Johny Srouji's role to chief hardware officer, bringing hardware engineering and hardware technologies under his leadership. A subsequent reorganization of product development sought to improve coordination between the teams designing Apple's chips and devices.\r\n\r\naccelerate product development and reduce the number of positions between engineers and senior leadership.\r\n\r\nApp Store head Carson Oliver has received a vice president title, while Steve Smith has taken charge of corporate development. Both appointments were reported earlier this month.\nTags: Bloomberg, Mark Gurman\nThis article, \"Apple Display Veterans Step Back as New Leaders Take Over\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-10-26T04:14:12.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/03/Apple-Park-PR-Handout.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Range Energy shows how its eTrailer saves almost as much as a Tesla Semi",
+        "link": "https://electrek.co/2026/10/26/range-energy-shows-how-its-etrailer-saves-almost-as-much-as-a-tesla-semi/",
+        "description": "Range Energy, a company working to electrify trucking through the use of a trailer with its own battery and motors, has published an analysis showing how much fleets can save through electrification – and just at the right time, with diesel at record highs.\nmore…",
+        "published": "2026-10-26T12:00:00.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/05/range_semi-trailer.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "tesla"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "New iPad mini has big limitation on all but one model",
+        "link": "https://9to5mac.com/2026/10/26/new-ipad-mini-has-big-limitation-on-all-but-one-model/",
+        "description": "Today Apple unveiled its biggest update to the iPad mini yet, but if you’re looking to buy one, there’s a key limitation of the A20 Pro chip in every configuration but one.\nmore…",
+        "published": "2026-10-26T13:19:05.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/new-ipad-mini-oled-hand.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "apple",
+          "chip"
+        ],
+        "category": "ev_autonomous"
+      }
+    ],
+    "space": [
+      {
+        "title": "Apple Announces New iPad Mini With Larger OLED Display and More",
+        "link": "https://www.macrumors.com/2026/10/26/apple-announces-ipad-mini-with-oled-display/",
+        "description": "Apple today announced a new iPad mini with a larger 8.5-inch OLED display, a nano-texture display option, a thinner and lighter design, an A20 Pro chip, a new Acoustic Display audio system that eliminates speaker holes, a landscape front camera, Apple's N1 chip with Wi-Fi 7 and Bluetooth 6 support, IP67-rated water and dust resistance, and more.\r\n\r\n\r\nThe new iPad mini can be pre-ordered starting Wednesday, October 28 at the specific time of 10:10 a.m. Pacific Time, and it will begin arriving to customers and launch in Apple Stores on Friday, November 6. In the U.S., pricing starts at $699.\r\n\r\n\nRelated Roundup: iPad mini\nTag: OLED\nBuyer's Guide: iPad Mini (Coming Soon)\nRelated Forum: iPad\nThis article, \"Apple Announces New iPad Mini With Larger OLED Display and More\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-10-26T13:05:24.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/10/iPad-mini-OLED.jpg",
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "apple",
+          "chip"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
+        "link": "https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/",
+        "description": "SAN FRANCISCO —October 26, 2026—Today, Astranis announced it has upgraded its 4th launch to a dedicated mission aboard a SpaceX Falcon 9 rocket set to launch in 2028, allowing it […]\nThe post Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites appeared first on SpaceNews.",
+        "published": "2026-10-26T13:00:00.000Z",
+        "source": "SpaceNews",
+        "sourceKey": "spacenews",
+        "priority": 2,
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/astranis-square.png?fit=1024%2C1014&amp;ssl=1",
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "spacex",
+          "satellite"
+        ],
+        "category": "space"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "Fed, ECB and BOJ interest-rate decisions, Coinbase earnings: Crypto Week Ahead",
+        "link": "https://www.coindesk.com/markets/2026/10/26/fed-ecb-and-boj-interest-rate-decisions-coinbase-earnings-crypto-week-ahead",
+        "description": "Your look at what's coming in the week starting Oct. 26.",
+        "published": "2026-10-26T09:14:47.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "coinbase"
+        ],
+        "category": "crypto"
+      }
+    ]
+  },
+  "totalArticles": 45
+}
