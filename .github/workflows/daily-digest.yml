@@ -5,12 +5,14 @@ on:
   push:
     branches:
       - main
-  
-  # Run daily at 6:30 UTC (7:30 CET / 8:30 CEST - before 9am Amsterdam)
+
+  # Scrape every 2 hours. Many feeds only hold the last few hours of articles
+  # (Bloomberg ~9h, Techmeme ~4h), so a single daily run misses most of the day.
+  # Each run merges new articles into today's and yesterday's files and refreshes
+  # last week's and last month's digests from the daily files.
   schedule:
-    - cron: '30 6 * * *'
-  
-  # Allow manual trigger
+    - cron: '17 */2 * * *'
+
   workflow_dispatch:
     inputs:
       mode:
@@ -20,24 +22,24 @@ on:
         type: choice
         options:
           - daily
-          - weekly
-          - monthly
+          - rebuild
+          - rescore
           - backfill
-      weeks:
-        description: 'Weeks to backfill (only for backfill mode)'
-        required: false
-        default: '4'
-        type: string
+
+# Never let two runs write data/ at the same time
+concurrency:
+  group: digest
+  cancel-in-progress: false
 
 jobs:
   scrape-and-build:
     runs-on: ubuntu-latest
-    
+
     permissions:
       contents: write
       pages: write
       id-token: write
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -53,44 +55,26 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Run scraper (scheduled - daily)
+      - name: Run scraper (scheduled)
         if: ${{ github.event_name == 'schedule' }}
-        run: |
-          npm run scrape:daily
-          # Also update weekly on Mondays
-          if [ "$(date +%u)" = "1" ]; then
-            npm run scrape:weekly
-          fi
-          # Also update monthly on 1st of month
-          if [ "$(date +%d)" = "01" ]; then
-            npm run scrape:monthly
-          fi
-
-      - name: Run scraper (manual - daily)
-        if: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.mode == 'daily' }}
         run: npm run scrape:daily
 
-      - name: Run scraper (manual - weekly)
-        if: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.mode == 'weekly' }}
-        run: npm run scrape:weekly
-
-      - name: Run scraper (manual - monthly)
-        if: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.mode == 'monthly' }}
-        run: npm run scrape:monthly
-
-      - name: Run scraper (manual - backfill)
-        if: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.mode == 'backfill' }}
-        run: node scraper/index.js --backfill --weeks ${{ github.event.inputs.weeks }}
+      - name: Run scraper (manual)
+        if: ${{ github.event_name == 'workflow_dispatch' }}
+        run: node scraper/index.js --${{ github.event.inputs.mode }}
 
       - name: Build static site
         run: npm run build
 
       - name: Commit data changes
+        if: ${{ github.event_name != 'push' }}
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add data/
-          git diff --staged --quiet || git commit -m "📰 Update digest $(date +'%Y-%m-%d %H:%M')"
+          if git diff --staged --quiet; then exit 0; fi
+          git commit -m "📰 Update digest $(date -u +'%Y-%m-%d %H:%M')"
+          git pull --rebase origin main
           git push
 
       - name: Setup Pages

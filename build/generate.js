@@ -29,9 +29,10 @@ const CATEGORY_LABELS = {
   regulation: 'Regulation',
   robotics: 'Robotics',
   crypto: 'Crypto',
+  devices: 'Devices',
   other: 'Uncategorized'
 };
-const CATEGORY_ORDER = ['ai', 'chips_cloud', 'ev_autonomous', 'business', 'space', 'regulation', 'robotics', 'crypto'];
+const CATEGORY_ORDER = ['ai', 'chips_cloud', 'devices', 'ev_autonomous', 'business', 'space', 'regulation', 'robotics', 'crypto'];
 const TYPE_LABELS = { daily: 'Daily', weekly: 'Weekly', monthly: 'Monthly' };
 
 // ---------- helpers ----------

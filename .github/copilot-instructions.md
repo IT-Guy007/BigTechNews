@@ -28,17 +28,32 @@ public/            → Generated static site (deployed to GitHub Pages):
 | Build site | `npm run build` |
 | Local preview | `npm run dev` (serves on port 3000) |
 
-CI runs daily at 6:30 UTC via [.github/workflows/daily-digest.yml](.github/workflows/daily-digest.yml). Weekly digests auto-run on Mondays, monthly on the 1st.
+CI scrapes every 2 hours via [.github/workflows/daily-digest.yml](.github/workflows/daily-digest.yml). Each run merges new articles into today's and yesterday's daily files (deduplicated by link and by story), then rebuilds last week's and last month's digests **from the daily files** (RSS feeds only hold hours to days of history, so weekly/monthly must never be built from a live fetch).
+
+| Maintenance | Command |
+|------|---------|
+| Rebuild all weekly/monthly from daily files | `npm run scrape:rebuild` |
+| Re-score + re-categorize all stored daily files (then rebuild) | `npm run scrape:rescore` |
+
+Feed status (items, errors, last success, consecutive failures) is written to `data/feed-health.json` on every run.
 
 ## Relevance Scoring System
 
 Articles are scored in [scraper/index.js](../scraper/index.js) using keywords from [scraper/sources.js](../scraper/sources.js):
 
-- **+3 points**: `HIGH_IMPACT_KEYWORDS` (openai, acquisition, antitrust, ceo names, etc.)
-- **+2 points**: `BIG_TECH_COMPANIES` (google, nvidia, anthropic, etc.)
-- **+1 point**: `RELEVANT_TOPICS` (semiconductor, llm, robotaxi, etc.)
-- **Excluded**: `EXCLUDED_PATTERNS` regex (deals, reviews, how-to, clickbait)
-- **Minimum score**: 3 (defined as `MIN_RELEVANCE_SCORE`)
+All keywords match as **whole words** (plural/possessive allowed): `ai` never matches "said", `intel` never matches "intelligence".
+
+- **+3 points**: `HIGH_IMPACT_KEYWORDS` (openai, acquisition, antitrust, CEO names, etc.)
+- **+2 points**: `BIG_TECH_COMPANIES` in the description, **+4** in the title
+- **+1 point**: `RELEVANT_TOPICS` (semiconductor, llm, robotaxi, etc.); +1 for priority-1 sources
+- **+1 per extra outlet** covering the same story (max +3); duplicates are listed in `alsoIn`
+- **−4**: `PENALIZED_PATTERNS` (minor updates, clickbait)
+- **Excluded**: `EXCLUDED_PATTERNS` (shopping deals, reviews, how-to, puzzles). Business deals are not excluded.
+- **General feeds** (`general: true`) only count items naming a tracked company or high-impact keyword
+- **Official newsrooms** (`company: 'openai'`) are credited with their company
+- **Minimum score**: 3 (`MIN_RELEVANCE_SCORE`)
+
+Categories: highest keyword total wins (title ×2); ties go to the earlier category in `CATEGORIES`; no match → `other`.
 
 ## Adding New Sources
 
@@ -47,7 +62,10 @@ Edit [scraper/sources.js](../scraper/sources.js):
 SOURCES.newsourcename = {
   name: 'Display Name',
   rss: 'https://example.com/feed.xml',
-  priority: 2  // 1=high priority, 2=normal, 3=low
+  priority: 2,      // 1=high priority, 2=normal, 3=low
+  group: 'tech',    // for docs / feed health
+  // general: true,  // broad feed: require a tracked company
+  // company: 'acme' // official newsroom: credit this company
 };
 ```
 
@@ -66,8 +84,9 @@ Digest JSON structure (see [data/daily/](../data/daily/) for examples):
 {
   "id": "26-02-05",
   "title": "Thursday, Feb 5",
-  "highlights": [{ "title", "link", "source", "score", "image", "matchedKeywords" }],
-  "byCategory": { "ai": [...], "chips": [...] }
+  "highlights": [{ "title", "link", "source", "published", "relevanceScore", "baseScore", "category", "matchedKeywords", "alsoIn": [{ "source", "title", "link" }] }],
+  "byCategory": { "ai": [...], "chips_cloud": [...], "other": [...] },  // every article, incl. highlights
+  "totalArticles": 86
 }
 ```
 

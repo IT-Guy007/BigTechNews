@@ -1,573 +1,625 @@
 #!/usr/bin/env node
 /**
  * Big Tech News Scraper
- * Aggregates news from major tech sources with daily, weekly, and monthly digests
+ *
+ * Modes:
+ *   --daily     (default) Fetch all feeds and MERGE new articles into today's and
+ *               yesterday's daily files, then refresh last week's and last month's
+ *               digests from the daily files. Safe to run many times a day.
+ *   --weekly    Rebuild the last completed week's digest from daily files (no fetch)
+ *   --monthly   Rebuild the last completed month's digest from daily files (no fetch)
+ *   --rebuild   Rebuild ALL weekly and monthly digests from daily files (no fetch)
+ *   --rescore   Re-score and re-categorize every stored daily file, then --rebuild
+ *               (no fetch, no articles dropped)
+ *   --backfill  Same as --daily followed by --rebuild (feeds can't go further back)
+ *
+ * All day boundaries are UTC.
  */
+
+process.env.TZ = 'UTC';
 
 const Parser = require('rss-parser');
 const fs = require('fs').promises;
 const path = require('path');
-const { format, subDays, subWeeks, subMonths, isWithinInterval, parseISO, startOfDay, endOfDay, startOfWeek, endOfWeek, startOfMonth, endOfMonth, getISOWeek, getISOWeekYear } = require('date-fns');
-const { 
-  SOURCES, 
-  HIGH_IMPACT_KEYWORDS, 
-  BIG_TECH_COMPANIES, 
-  RELEVANT_TOPICS, 
-  EXCLUDED_PATTERNS, 
-  CATEGORIES 
+const {
+  format, subDays, subWeeks, subMonths, startOfMonth, endOfMonth,
+  startOfISOWeek, endOfISOWeek, getISOWeek, getISOWeekYear, setISOWeek, setISOWeekYear
+} = require('date-fns');
+const {
+  SOURCES, HIGH_IMPACT_KEYWORDS, BIG_TECH_COMPANIES, RELEVANT_TOPICS,
+  EXCLUDED_PATTERNS, PENALIZED_PATTERNS, CATEGORIES
 } = require('./sources');
 
-// Configuration
 const DATA_DIR = path.join(__dirname, '..', 'data');
-const DEFAULT_WEEKS_TO_BACKFILL = 4;
 const MIN_RELEVANCE_SCORE = 3;
+const HIGHLIGHT_COUNT = 10;
+const MAX_DESCRIPTION = 500;
+const FETCH_TIMEOUT_MS = 20000;
+const USER_AGENT = 'Mozilla/5.0 (compatible; BigTechNews/2.0; +https://github.com/IT-Guy007/BigTechNews)';
 
 const parser = new Parser({
-  timeout: 15000,
-  headers: {
-    'User-Agent': 'BigTechNews/1.0 (News Aggregator)'
-  }
+  customFields: { item: [['media:content', 'media:content'], ['media:thumbnail', 'media:thumbnail']] }
 });
 
-/**
- * Parse command line arguments
- */
-function parseArgs() {
-  const args = process.argv.slice(2);
-  const config = {
-    mode: 'daily', // daily, weekly, monthly, backfill
-    weeks: DEFAULT_WEEKS_TO_BACKFILL
-  };
+// ---------------------------------------------------------------------------
+// Text matching: whole words only, plural/possessive allowed
+// ---------------------------------------------------------------------------
 
-  for (let i = 0; i < args.length; i++) {
-    const arg = args[i];
-    if (arg === '--daily' || arg === '-d') config.mode = 'daily';
-    else if (arg === '--weekly' || arg === '-w') config.mode = 'weekly';
-    else if (arg === '--monthly' || arg === '-m') config.mode = 'monthly';
-    else if (arg === '--backfill' || arg === '-b') config.mode = 'backfill';
-    else if ((arg === '--weeks' || arg === '-n') && args[i + 1]) {
-      config.weeks = parseInt(args[i + 1], 10) || DEFAULT_WEEKS_TO_BACKFILL;
-      i++;
-    }
-  }
-
-  return config;
+function escapeRegex(s) {
+  return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
 
-/**
- * Extract image from RSS entry
- */
-function extractImage(entry) {
-  // Check enclosure (common in RSS feeds)
-  if (entry.enclosure?.url && entry.enclosure.type?.startsWith('image/')) {
-    return entry.enclosure.url;
-  }
-  
-  // Check media:content
-  if (entry['media:content']?.$.url) {
-    return entry['media:content'].$.url;
-  }
-  
-  // Check media:thumbnail
-  if (entry['media:thumbnail']?.$.url) {
-    return entry['media:thumbnail'].$.url;
-  }
-  
-  // Try to find image in content/description
-  const content = entry.content || entry['content:encoded'] || entry.description || '';
-  const imgMatch = content.match(/<img[^>]+src=["']([^"']+)["']/i);
-  if (imgMatch) {
-    return imgMatch[1];
-  }
-  
-  return null;
+function wordRegex(keyword) {
+  return new RegExp(`(?:^|[^\\p{L}\\p{N}])${escapeRegex(keyword.toLowerCase())}(?:s|es|'s)?(?![\\p{L}\\p{N}])`, 'u');
 }
 
-/**
- * Fetch RSS feed from a source
- */
-async function fetchFeed(sourceKey, source) {
-  try {
-    const feed = await parser.parseURL(source.rss);
-    return feed.items.map(entry => ({
-      title: entry.title || '',
-      link: entry.link || '',
-      description: entry.contentSnippet || entry.content || entry.description || '',
-      published: entry.isoDate || entry.pubDate || new Date().toISOString(),
-      source: source.name,
-      sourceKey: sourceKey,
-      priority: source.priority || 2,
-      image: extractImage(entry)
-    }));
-  } catch (error) {
-    console.error(`  ⚠ ${source.name}: ${error.message}`);
-    return [];
-  }
+function compile(list) {
+  return list.map(k => ({ k, re: wordRegex(k) }));
 }
 
-/**
- * Check if article should be excluded
- */
-function shouldExclude(text) {
-  for (const pattern of EXCLUDED_PATTERNS) {
-    if (pattern.test(text)) return true;
-  }
-  return false;
+const M_COMPANIES = compile(BIG_TECH_COMPANIES);
+const M_HIGH = compile(HIGH_IMPACT_KEYWORDS);
+const M_TOPICS = compile(RELEVANT_TOPICS);
+const M_CATEGORIES = Object.entries(CATEGORIES).map(([key, c]) => ({ key, words: compile(c.keywords) }));
+
+function normalize(text) {
+  return String(text || '').toLowerCase().replace(/[’‘]/g, "'").replace(/[“”]/g, '"').replace(/\s+/g, ' ');
 }
 
-/**
- * Calculate relevance score for an article
- */
+function stripHtml(text) {
+  return String(text || '')
+    .replace(/<[^>]*>/g, ' ')
+    .replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&').replace(/&#8217;|&rsquo;/g, '’').replace(/&#8216;|&lsquo;/g, '‘')
+    .replace(/&#8220;|&ldquo;/g, '“').replace(/&#8221;|&rdquo;/g, '”').replace(/&#8211;|&ndash;/g, '–').replace(/&#8212;|&mdash;/g, '—')
+    .replace(/&quot;/g, '"').replace(/&#039;|&#39;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+// ---------------------------------------------------------------------------
+// Scoring & categorization
+// ---------------------------------------------------------------------------
+
+function isExcluded(title) {
+  return EXCLUDED_PATTERNS.some(p => p.test(title));
+}
+
 function calculateRelevance(article) {
-  const title = article.title.toLowerCase();
-  const description = (article.description || '').toLowerCase().substring(0, 500);
+  const title = normalize(article.title);
+  const description = normalize(article.description).slice(0, MAX_DESCRIPTION);
   const text = `${title} ${description}`;
-  
-  if (shouldExclude(article.title)) {
-    return { score: 0, reasons: ['excluded'] };
-  }
-  
+
+  if (isExcluded(article.title)) return { score: 0, reasons: ['excluded'] };
+
   let score = 0;
-  const reasons = [];
-  
-  for (const company of BIG_TECH_COMPANIES) {
-    if (text.includes(company.toLowerCase())) {
-      score += 2;
-      reasons.push(company);
-    }
-  }
-  
-  for (const keyword of HIGH_IMPACT_KEYWORDS) {
-    if (text.includes(keyword.toLowerCase())) {
-      score += 3;
-      if (!reasons.includes(keyword)) reasons.push(keyword);
-    }
-  }
-  
-  for (const topic of RELEVANT_TOPICS) {
-    if (text.includes(topic.toLowerCase())) {
-      score += 1;
-      if (!reasons.includes(topic)) reasons.push(topic);
-    }
-  }
-  
-  if (article.priority === 1) score += 1;
-  
-  for (const company of BIG_TECH_COMPANIES) {
-    if (title.includes(company.toLowerCase())) score += 2;
-  }
-  
-  return { score, reasons: reasons.slice(0, 5) };
-}
-
-/**
- * Categorize an article
- */
-function categorizeArticle(article) {
-  const text = `${article.title} ${article.description || ''}`.toLowerCase();
-  let bestCategory = null;
-  let bestScore = 0;
-
-  for (const [categoryKey, category] of Object.entries(CATEGORIES)) {
-    let score = 0;
-    for (const keyword of category.keywords) {
-      if (text.includes(keyword.toLowerCase())) score++;
-    }
-    if (score > bestScore) {
-      bestScore = score;
-      bestCategory = categoryKey;
-    }
-  }
-  return bestCategory;
-}
-
-/**
- * Check if article is within date range
- */
-function isInRange(articleDate, start, end) {
-  try {
-    const date = typeof articleDate === 'string' ? parseISO(articleDate) : articleDate;
-    return isWithinInterval(date, { start, end });
-  } catch {
-    return false;
-  }
-}
-
-/**
- * Get week number and year (ISO week) using date-fns
- */
-function getWeekInfo(date) {
-  const d = new Date(date);
-  return { week: getISOWeek(d), year: getISOWeekYear(d) };
-}
-
-/**
- * Generate ID in format YY-W (e.g., 26-5 for week 5 of 2026)
- */
-function generateWeekId(week, year) {
-  return `${String(year).slice(-2)}-${week}`;
-}
-
-/**
- * Generate ID for daily digest (e.g., 26-02-05)
- */
-function generateDayId(date) {
-  return format(date, 'yy-MM-dd');
-}
-
-/**
- * Generate ID for monthly digest (e.g., 26-02)
- */
-function generateMonthId(date) {
-  return format(date, 'yy-MM');
-}
-
-/**
- * Deduplicate articles by similarity
- */
-function deduplicateArticles(articles) {
-  const seen = new Set();
-  const unique = [];
-  
-  for (const article of articles) {
-    const words = article.title.toLowerCase()
-      .replace(/[^a-z0-9\s]/g, '')
-      .split(/\s+/)
-      .filter(w => w.length > 3)
-      .sort()
-      .slice(0, 5)
-      .join('|');
-    
-    if (!seen.has(words)) {
-      seen.add(words);
-      unique.push(article);
-    }
-  }
-  return unique;
-}
-
-/**
- * Fetch all feeds
- */
-async function fetchAllFeeds() {
-  console.log('Fetching feeds from all sources...');
-  const allArticles = [];
-
-  for (const [key, source] of Object.entries(SOURCES)) {
-    process.stdout.write(`  📥 ${source.name}... `);
-    const articles = await fetchFeed(key, source);
-    if (articles.length > 0) {
-      console.log(`${articles.length} articles`);
-      allArticles.push(...articles);
-    }
-  }
-
-  console.log(`\n📊 Total fetched: ${allArticles.length} articles`);
-  return allArticles;
-}
-
-/**
- * Process articles for a date range
- */
-function processArticles(articles, start, end) {
-  const rangeArticles = articles.filter(a => isInRange(a.published, start, end));
-  
-  const relevantArticles = rangeArticles
-    .map(article => {
-      const { score, reasons } = calculateRelevance(article);
-      const category = categorizeArticle(article);
-      return { ...article, relevanceScore: score, matchedKeywords: reasons, category };
-    })
-    .filter(article => article.relevanceScore >= MIN_RELEVANCE_SCORE)
-    .sort((a, b) => b.relevanceScore - a.relevanceScore);
-
-  const uniqueArticles = deduplicateArticles(relevantArticles);
-
-  const byCategory = {};
-  for (const article of uniqueArticles) {
-    if (article.category) {
-      if (!byCategory[article.category]) byCategory[article.category] = [];
-      byCategory[article.category].push(article);
-    }
-  }
-
-  return {
-    highlights: uniqueArticles.slice(0, 10),
-    byCategory,
-    totalArticles: uniqueArticles.length
+  const titleHits = [];
+  const otherHits = [];
+  const note = (k, inTitle) => {
+    const list = inTitle ? titleHits : otherHits;
+    if (!titleHits.includes(k) && !list.includes(k)) list.push(k);
   };
+
+  // Official newsrooms rarely name themselves; credit their company
+  const company = SOURCES[article.sourceKey]?.company;
+  if (company) { score += 4; note(company, true); }
+
+  for (const { k, re } of M_COMPANIES) {
+    if (k === company) continue;
+    if (re.test(title)) { score += 4; note(k, true); }
+    else if (re.test(description)) { score += 2; note(k, false); }
+  }
+  for (const { k, re } of M_HIGH) {
+    if (re.test(text)) { score += 3; note(k, re.test(title)); }
+  }
+  for (const { k, re } of M_TOPICS) {
+    if (re.test(text)) { score += 1; note(k, re.test(title)); }
+  }
+
+  // Broad feeds (markets, front pages) only count when a tracked company or big story is named
+  if (SOURCES[article.sourceKey]?.general) {
+    const strong = [...titleHits, ...otherHits].some(k => M_COMPANIES.some(c => c.k === k) || M_HIGH.some(h => h.k === k));
+    if (!strong) return { score: 0, reasons: ['general-feed: no tracked company'] };
+  }
+
+  if (article.priority === 1) score += 1;
+  if (PENALIZED_PATTERNS.some(p => p.test(article.title))) score -= 4;
+
+  return { score: Math.max(score, 0), reasons: [...titleHits, ...otherHits].slice(0, 6) };
+}
+
+function categorizeArticle(article) {
+  const title = normalize(article.title);
+  const company = SOURCES[article.sourceKey]?.company || '';
+  const description = normalize(`${company} ${article.description || ''}`).slice(0, MAX_DESCRIPTION);
+  let best = 'other';
+  let bestScore = 0;
+  for (const { key, words } of M_CATEGORIES) {
+    let s = 0;
+    for (const { re } of words) {
+      if (re.test(title)) s += 2;
+      else if (re.test(description)) s += 1;
+    }
+    if (s > bestScore) { bestScore = s; best = key; }
+  }
+  return best;
+}
+
+function enrich(raw) {
+  const article = { ...raw, title: stripHtml(raw.title), description: stripHtml(raw.description).slice(0, MAX_DESCRIPTION) };
+  const { score, reasons } = calculateRelevance(article);
+  return { ...article, baseScore: score, relevanceScore: score, matchedKeywords: reasons, category: categorizeArticle(article) };
+}
+
+// ---------------------------------------------------------------------------
+// Dedup: same link, or the same story covered by several outlets
+// ---------------------------------------------------------------------------
+
+function normalizeLink(link) {
+  try {
+    const u = new URL(link);
+    u.hash = '';
+    for (const k of [...u.searchParams.keys()]) {
+      if (/^(utm_|ref$|src$|cmpid$|mod$|guccounter$|taid$|guce_)/i.test(k)) u.searchParams.delete(k);
+    }
+    u.hostname = u.hostname.replace(/^www\./, '');
+    return (u.origin.replace('://www.', '://') + u.pathname.replace(/\/+$/, '') + (u.search || '')).toLowerCase();
+  } catch {
+    return String(link || '').trim().toLowerCase();
+  }
+}
+
+const STOPWORDS = new Set(('the a an and or but of to in on for with at by from as is are was were be been its it this that these those ' +
+  'new says said will would could can may might has have had after over into about than more most just now how why what who ' +
+  'report reportedly update first us out up its their his her they you your our not no').split(' '));
+
+function titleTokens(title) {
+  return new Set(normalize(title).replace(/'s\b/g, '').replace(/[^\p{L}\p{N}\s]/gu, ' ').split(' ')
+    .filter(w => w.length > 2 && !STOPWORDS.has(w)));
+}
+
+function sameStory(a, b) {
+  let shared = 0;
+  for (const t of a) if (b.has(t)) shared++;
+  if (shared < 3) return false;
+  return shared / Math.min(a.size, b.size) >= 0.6;
 }
 
 /**
- * Generate daily digest
+ * Collapse duplicates. The best-scoring article of each story is kept; the others
+ * are listed in `alsoIn`. Stories covered by several outlets get a boost (max +3).
  */
-async function generateDailyDigest(date, articles) {
-  const start = startOfDay(date);
-  const end = endOfDay(date);
-  const processed = processArticles(articles, start, end);
-  
-  const id = generateDayId(date);
-  
+function clusterArticles(articles) {
+  // 1. exact link duplicates
+  const byLink = new Map();
+  for (const a of articles) {
+    const key = normalizeLink(a.link);
+    const prev = byLink.get(key);
+    if (!prev || (a.baseScore ?? a.relevanceScore ?? 0) > (prev.baseScore ?? prev.relevanceScore ?? 0)) byLink.set(key, a);
+  }
+
+  // 2. same story across outlets (best article first)
+  const base = (x) => x.baseScore ?? x.relevanceScore ?? 0;
+  const sorted = [...byLink.values()].sort((a, b) =>
+    (base(b) - base(a)) || (a.priority - b.priority) || String(a.published).localeCompare(String(b.published)));
+  const clusters = [];
+  for (const a of sorted) {
+    const tokens = titleTokens(a.title);
+    const home = clusters.find(c => c.tokens.some(t => sameStory(t, tokens)));
+    if (home) {
+      home.members.push(a);
+      home.tokens.push(tokens);
+    } else {
+      clusters.push({ lead: a, members: [], tokens: [tokens] });
+    }
+  }
+
+  return clusters.map(({ lead, members }) => {
+    const also = new Map();
+    for (const prev of lead.alsoIn || []) also.set(normalizeLink(prev.link), prev);
+    for (const m of members) {
+      for (const x of [m, ...(m.alsoIn || [])]) {
+        const key = normalizeLink(x.link);
+        if (key !== normalizeLink(lead.link) && !also.has(key)) also.set(key, { source: x.source, title: x.title, link: x.link });
+      }
+    }
+    const alsoIn = [...also.values()];
+    const outlets = new Set([lead.source, ...alsoIn.map(x => x.source)]).size;
+    const out = { ...lead, relevanceScore: (lead.baseScore ?? lead.relevanceScore ?? 0) + Math.min(outlets - 1, 3) };
+    if (alsoIn.length) out.alsoIn = alsoIn; else delete out.alsoIn;
+    return out;
+  });
+}
+
+function rank(articles) {
+  return articles.sort((a, b) =>
+    (b.relevanceScore - a.relevanceScore) ||
+    ((b.alsoIn?.length || 0) - (a.alsoIn?.length || 0)) ||
+    (a.priority - b.priority) ||
+    String(b.published).localeCompare(String(a.published)));
+}
+
+function buildDigestBody(articles) {
+  const ranked = rank(clusterArticles(articles));
+  const byCategory = {};
+  for (const a of ranked) (byCategory[a.category || 'other'] ||= []).push(a);
+  return { highlights: ranked.slice(0, HIGHLIGHT_COUNT), byCategory, totalArticles: ranked.length };
+}
+
+/** Every article stored in a digest file (highlights are also in byCategory) */
+function articlesOf(digest) {
+  const map = new Map();
+  for (const a of [...(digest.highlights || []), ...Object.values(digest.byCategory || {}).flat()]) {
+    const key = normalizeLink(a.link);
+    if (!map.has(key)) map.set(key, a);
+  }
+  return [...map.values()];
+}
+
+// ---------------------------------------------------------------------------
+// Fetching
+// ---------------------------------------------------------------------------
+
+function extractImage(entry) {
+  if (entry.enclosure?.url && (!entry.enclosure.type || entry.enclosure.type.startsWith('image/'))) return entry.enclosure.url;
+  const media = entry['media:content'];
+  if (media?.$?.url) return media.$.url;
+  if (Array.isArray(media) && media[0]?.$?.url) return media[0].$.url;
+  if (entry['media:thumbnail']?.$?.url) return entry['media:thumbnail'].$.url;
+  const content = entry['content:encoded'] || entry.content || entry.description || '';
+  const m = content.match(/<img[^>]+src=["']([^"']+)["']/i);
+  return m ? m[1] : null;
+}
+
+// Some feeds ship stray "&" characters that break strict XML parsing
+function sanitizeXml(xml) {
+  return xml.replace(/^﻿/, '').replace(/&(?!(?:[a-zA-Z][a-zA-Z0-9]*|#\d+|#x[0-9a-fA-F]+);)/g, '&amp;');
+}
+
+async function fetchText(url) {
+  let lastError;
+  for (let attempt = 0; attempt < 2; attempt++) {
+    try {
+      const res = await fetch(url, {
+        headers: {
+          'User-Agent': USER_AGENT,
+          Accept: 'application/rss+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.8, */*;q=0.5'
+        },
+        redirect: 'follow',
+        signal: AbortSignal.timeout(FETCH_TIMEOUT_MS)
+      });
+      if (res.ok) {
+        const text = await res.text();
+        // Some feeds intermittently serve an HTML page (consent/CDN error) instead of XML
+        if (!/^\s*(?:\uFEFF)?<(?:!doctype html|html)\b/i.test(text)) return text;
+        lastError = new Error('got an HTML page instead of a feed');
+      } else {
+        lastError = new Error(`HTTP ${res.status}`);
+        if (res.status !== 429 && res.status < 500) break;
+      }
+    } catch (e) {
+      lastError = e.name === 'TimeoutError' ? new Error('timeout') : e;
+    }
+    await new Promise(r => setTimeout(r, 3000));
+  }
+  throw lastError;
+}
+
+async function fetchFeed(sourceKey, source) {
+  const started = Date.now();
+  const fetchedAt = new Date().toISOString();
+  try {
+    const xml = await fetchText(source.rss);
+    const feed = await parser.parseString(sanitizeXml(xml));
+    const articles = feed.items
+      .map(entry => {
+        const date = new Date(entry.isoDate || entry.pubDate || fetchedAt);
+        return {
+          title: stripHtml(entry.title),
+          link: (entry.link || entry.guid || '').trim(),
+          description: stripHtml(entry.contentSnippet || entry.summary || entry.content || entry.description || '').slice(0, MAX_DESCRIPTION),
+          published: isNaN(date) ? fetchedAt : date.toISOString(),
+          source: source.name,
+          sourceKey,
+          priority: source.priority || 2,
+          image: extractImage(entry)
+        };
+      })
+      .filter(a => a.title && /^https?:\/\//.test(a.link));
+    return { articles, health: { ok: true, items: articles.length, ms: Date.now() - started } };
+  } catch (error) {
+    return { articles: [], health: { ok: false, error: String(error.message || error).slice(0, 120), ms: Date.now() - started } };
+  }
+}
+
+async function fetchAllFeeds() {
+  console.log(`Fetching ${Object.keys(SOURCES).length} feeds...`);
+  const entries = Object.entries(SOURCES);
+  const results = new Array(entries.length);
+  let next = 0;
+  async function worker() {
+    while (next < entries.length) {
+      const i = next++;
+      results[i] = await fetchFeed(...entries[i]);
+    }
+  }
+  await Promise.all(Array.from({ length: 8 }, worker));
+
+  const all = [];
+  const health = {};
+  entries.forEach(([key, source], i) => {
+    const { articles, health: h } = results[i];
+    health[key] = { name: source.name, group: source.group, ...h };
+    console.log(`  ${h.ok ? '✓' : '⚠'} ${source.name.padEnd(22)} ${h.ok ? `${h.items} items` : h.error}`);
+    all.push(...articles);
+  });
+  await saveFeedHealth(health);
+  console.log(`\n📊 Fetched ${all.length} items from ${Object.values(health).filter(h => h.ok).length}/${entries.length} feeds`);
+  return all;
+}
+
+async function saveFeedHealth(health) {
+  const file = path.join(DATA_DIR, 'feed-health.json');
+  let prev = {};
+  try { prev = JSON.parse(await fs.readFile(file, 'utf-8')).feeds || {}; } catch {}
+  const now = new Date().toISOString();
+  const feeds = {};
+  for (const [key, h] of Object.entries(health)) {
+    const p = prev[key] || {};
+    feeds[key] = {
+      ...h,
+      lastSuccess: h.ok ? now : p.lastSuccess || null,
+      consecutiveFailures: h.ok ? 0 : (p.consecutiveFailures || 0) + 1
+    };
+  }
+  await fs.writeFile(file, JSON.stringify({ checkedAt: now, feeds }, null, 2));
+  const dead = Object.values(feeds).filter(f => f.consecutiveFailures >= 12);
+  if (dead.length) console.log(`  ⚠ Failing for 12+ runs: ${dead.map(f => f.name).join(', ')}`);
+}
+
+// ---------------------------------------------------------------------------
+// Digest files
+// ---------------------------------------------------------------------------
+
+const dayKey = (d) => d.toISOString().slice(0, 10);
+const dayDate = (ymd) => new Date(`${ymd}T12:00:00Z`);
+const dayId = (ymd) => ymd.slice(2);
+
+async function readJSON(file) {
+  return JSON.parse(await fs.readFile(file, 'utf-8'));
+}
+
+async function readDaily(ymd) {
+  try { return await readJSON(path.join(DATA_DIR, 'daily', `${dayId(ymd)}.json`)); } catch { return null; }
+}
+
+async function saveDigest(digest, subdir) {
+  const dir = path.join(DATA_DIR, subdir);
+  await fs.mkdir(dir, { recursive: true });
+  await fs.writeFile(path.join(dir, `${digest.id}.json`), JSON.stringify(digest, null, 2));
+  console.log(`  💾 ${subdir}/${digest.id}.json (${digest.totalArticles} articles)`);
+}
+
+function dailyDigest(ymd, articles) {
+  const d = dayDate(ymd);
   return {
     type: 'daily',
-    id,
-    title: format(date, 'EEEE, MMM d'),
-    dateRange: format(date, 'MMMM d, yyyy'),
-    date: format(date, 'yyyy-MM-dd'),
+    id: dayId(ymd),
+    title: format(d, 'EEEE, MMM d'),
+    dateRange: format(d, 'MMMM d, yyyy'),
+    date: ymd,
     generatedAt: new Date().toISOString(),
-    ...processed
+    ...buildDigestBody(articles)
   };
 }
 
-/**
- * Generate weekly digest using ISO week dates
- */
-async function generateWeeklyDigest(weekNum, year, articles) {
-  // Calculate ISO week 1 start: the Monday of the week containing Jan 4
-  const jan4 = new Date(year, 0, 4);
-  const week1Start = startOfWeek(jan4, { weekStartsOn: 1 });
-  
-  // Calculate this week's start/end by adding weeks
-  const weekStart = new Date(week1Start);
-  weekStart.setDate(week1Start.getDate() + (weekNum - 1) * 7);
-  
-  const weekEnd = endOfWeek(weekStart, { weekStartsOn: 1 });
+/** Merge freshly fetched articles into the stored file for one day */
+async function mergeDay(ymd, fetched) {
+  const existing = await readDaily(ymd);
+  const stored = existing ? articlesOf(existing) : [];
+  // Flatten stored stories back to their member articles so clustering can re-run cleanly
+  const known = new Set();
+  const pool = [];
+  for (const a of stored) {
+    const { alsoIn, ...lead } = a;
+    pool.push(enrich(lead));
+    known.add(normalizeLink(a.link));
+    for (const x of alsoIn || []) known.add(normalizeLink(x.link));
+  }
+  let added = 0;
+  for (const a of fetched) {
+    if (dayKey(new Date(a.published)) !== ymd) continue;
+    const key = normalizeLink(a.link);
+    if (known.has(key)) continue;
+    const e = enrich(a);
+    if (e.relevanceScore < MIN_RELEVANCE_SCORE) continue;
+    known.add(key);
+    pool.push(e);
+    added++;
+  }
+  // Re-attach the stored "also covered by" links so they survive re-clustering
+  const restored = pool.map(p => {
+    const prev = stored.find(s => normalizeLink(s.link) === normalizeLink(p.link));
+    return prev?.alsoIn ? { ...p, alsoIn: prev.alsoIn } : p;
+  });
+  if (!restored.length) return null;
+  const digest = dailyDigest(ymd, restored);
+  await saveDigest(digest, 'daily');
+  console.log(`     +${added} new`);
+  return digest;
+}
 
-  const processed = processArticles(articles, weekStart, weekEnd);
-  const id = generateWeekId(weekNum, year);
+async function dailyFilesBetween(from, to) {
+  const files = await fs.readdir(path.join(DATA_DIR, 'daily')).catch(() => []);
+  const out = [];
+  for (const f of files.filter(f => f.endsWith('.json')).sort()) {
+    const ymd = `20${f.replace('.json', '')}`;
+    if (ymd >= from && ymd <= to) out.push(await readJSON(path.join(DATA_DIR, 'daily', f)));
+  }
+  return out;
+}
 
+async function periodBody(from, to) {
+  const days = await dailyFilesBetween(from, to);
+  return buildDigestBody(days.flatMap(articlesOf));
+}
+
+async function weeklyDigest(week, year) {
+  const start = startOfISOWeek(setISOWeek(setISOWeekYear(new Date(Date.UTC(year, 0, 10, 12)), year), week));
+  const end = endOfISOWeek(start);
+  const body = await periodBody(dayKey(start), dayKey(end));
   return {
     type: 'weekly',
-    id,
-    week: weekNum,
+    id: `${String(year).slice(-2)}-${week}`,
+    week,
     year,
-    title: `Week ${weekNum}`,
-    dateRange: `${format(weekStart, 'MMM d')} – ${format(weekEnd, 'MMM d, yyyy')}`,
+    title: `Week ${week}`,
+    dateRange: `${format(start, 'MMM d')} – ${format(end, 'MMM d, yyyy')}`,
     generatedAt: new Date().toISOString(),
-    ...processed
+    ...body
   };
 }
 
-/**
- * Generate monthly digest
- */
-async function generateMonthlyDigest(date, articles) {
+async function monthlyDigest(date) {
   const start = startOfMonth(date);
   const end = endOfMonth(date);
-  const processed = processArticles(articles, start, end);
-  
-  const id = generateMonthId(date);
-  
+  const body = await periodBody(dayKey(start), dayKey(end));
   return {
     type: 'monthly',
-    id,
+    id: format(date, 'yy-MM'),
     title: format(date, 'MMMM yyyy'),
     dateRange: `${format(start, 'MMM d')} – ${format(end, 'MMM d, yyyy')}`,
     month: date.getMonth() + 1,
     year: date.getFullYear(),
     generatedAt: new Date().toISOString(),
-    ...processed
+    ...body
   };
 }
 
-/**
- * Save digest to JSON file
- */
-async function saveDigest(digest, subdir = 'digests') {
+async function saveIfNotEmpty(digest, subdir) {
+  if (digest.totalArticles > 0) await saveDigest(digest, subdir);
+}
+
+async function buildLastWeek(now) {
+  const d = subWeeks(now, 1);
+  await saveIfNotEmpty(await weeklyDigest(getISOWeek(d), getISOWeekYear(d)), 'weekly');
+}
+
+async function buildLastMonth(now) {
+  await saveIfNotEmpty(await monthlyDigest(subMonths(now, 1)), 'monthly');
+}
+
+/** Rebuild every completed week and month that has daily data */
+async function rebuildAll(now) {
+  const files = (await fs.readdir(path.join(DATA_DIR, 'daily')).catch(() => [])).filter(f => f.endsWith('.json'));
+  const weeks = new Map();
+  const months = new Map();
+  const thisWeekStart = dayKey(startOfISOWeek(now));
+  const thisMonthStart = dayKey(startOfMonth(now));
+  for (const f of files) {
+    const d = dayDate(`20${f.replace('.json', '')}`);
+    if (dayKey(d) < thisWeekStart) weeks.set(`${getISOWeekYear(d)}-${getISOWeek(d)}`, [getISOWeek(d), getISOWeekYear(d)]);
+    if (dayKey(d) < thisMonthStart) months.set(format(d, 'yyyy-MM'), d);
+  }
+  console.log(`\n── Rebuilding ${weeks.size} weekly and ${months.size} monthly digests ──`);
+  for (const [week, year] of weeks.values()) await saveIfNotEmpty(await weeklyDigest(week, year), 'weekly');
+  for (const d of months.values()) await saveIfNotEmpty(await monthlyDigest(d), 'monthly');
+}
+
+/** Re-score and re-categorize stored daily files with the current rules */
+async function rescoreAll() {
+  const dir = path.join(DATA_DIR, 'daily');
+  const files = (await fs.readdir(dir)).filter(f => f.endsWith('.json')).sort();
+  console.log(`\n── Re-scoring ${files.length} daily files ──`);
+  let changed = 0;
+  let total = 0;
+  for (const f of files) {
+    const old = await readJSON(path.join(dir, f));
+    const articles = articlesOf(old).map(a => {
+      const { alsoIn, ...lead } = a;
+      const e = enrich(lead);
+      if (e.category !== a.category) changed++;
+      total++;
+      return alsoIn ? { ...e, alsoIn } : e;
+    });
+    const digest = { ...dailyDigest(old.date, articles), generatedAt: old.generatedAt };
+    await fs.writeFile(path.join(dir, f), JSON.stringify(digest, null, 2));
+  }
+  console.log(`  ${total} articles re-scored, ${changed} changed category`);
+}
+
+// ---------------------------------------------------------------------------
+// Index
+// ---------------------------------------------------------------------------
+
+async function loadSummaries(subdir, pick) {
   const dir = path.join(DATA_DIR, subdir);
-  await fs.mkdir(dir, { recursive: true });
-  
-  const filename = `${digest.id}.json`;
-  const filepath = path.join(dir, filename);
-  await fs.writeFile(filepath, JSON.stringify(digest, null, 2));
-  
-  console.log(`  💾 Saved: ${subdir}/${filename} (${digest.totalArticles} articles)`);
-  return filepath;
+  const files = (await fs.readdir(dir).catch(() => [])).filter(f => f.endsWith('.json'));
+  const out = [];
+  for (const f of files) {
+    const d = await readJSON(path.join(dir, f));
+    if (d.totalArticles > 0) out.push({ ...pick(d), totalArticles: d.totalArticles, highlightCount: d.highlights?.length || 0 });
+  }
+  return out;
 }
 
-/**
- * Update index of all digests
- */
 async function updateIndex() {
-  const index = {
-    lastUpdated: new Date().toISOString(),
-    daily: [],
-    weekly: [],
-    monthly: []
-  };
-
-  // Load daily digests
-  try {
-    const dailyDir = path.join(DATA_DIR, 'daily');
-    const files = await fs.readdir(dailyDir);
-    for (const file of files.filter(f => f.endsWith('.json'))) {
-      const content = await fs.readFile(path.join(dailyDir, file), 'utf-8');
-      const digest = JSON.parse(content);
-      if (digest.totalArticles > 0) {
-        index.daily.push({
-          id: digest.id,
-          title: digest.title,
-          date: digest.date,
-          dateRange: digest.dateRange,
-          totalArticles: digest.totalArticles,
-          highlightCount: digest.highlights?.length || 0
-        });
-      }
-    }
-    index.daily.sort((a, b) => b.date.localeCompare(a.date));
-  } catch (e) {}
-
-  // Load weekly digests
-  try {
-    const weeklyDir = path.join(DATA_DIR, 'weekly');
-    const files = await fs.readdir(weeklyDir);
-    for (const file of files.filter(f => f.endsWith('.json'))) {
-      const content = await fs.readFile(path.join(weeklyDir, file), 'utf-8');
-      const digest = JSON.parse(content);
-      if (digest.totalArticles > 0) {
-        index.weekly.push({
-          id: digest.id,
-          title: digest.title,
-          week: digest.week,
-          year: digest.year,
-          dateRange: digest.dateRange,
-          totalArticles: digest.totalArticles,
-          highlightCount: digest.highlights?.length || 0
-        });
-      }
-    }
-    index.weekly.sort((a, b) => {
-      if (a.year !== b.year) return b.year - a.year;
-      return b.week - a.week;
-    });
-  } catch (e) {}
-
-  // Load monthly digests
-  try {
-    const monthlyDir = path.join(DATA_DIR, 'monthly');
-    const files = await fs.readdir(monthlyDir);
-    for (const file of files.filter(f => f.endsWith('.json'))) {
-      const content = await fs.readFile(path.join(monthlyDir, file), 'utf-8');
-      const digest = JSON.parse(content);
-      if (digest.totalArticles > 0) {
-        index.monthly.push({
-          id: digest.id,
-          title: digest.title,
-          month: digest.month,
-          year: digest.year,
-          dateRange: digest.dateRange,
-          totalArticles: digest.totalArticles,
-          highlightCount: digest.highlights?.length || 0
-        });
-      }
-    }
-    index.monthly.sort((a, b) => {
-      if (a.year !== b.year) return b.year - a.year;
-      return b.month - a.month;
-    });
-  } catch (e) {}
-
-  const indexPath = path.join(DATA_DIR, 'index.json');
-  await fs.writeFile(indexPath, JSON.stringify(index, null, 2));
-  
-  console.log(`\n📋 Index updated: ${index.daily.length} daily, ${index.weekly.length} weekly, ${index.monthly.length} monthly`);
+  const daily = await loadSummaries('daily', d => ({ id: d.id, title: d.title, date: d.date, dateRange: d.dateRange }));
+  const weekly = await loadSummaries('weekly', d => ({ id: d.id, title: d.title, week: d.week, year: d.year, dateRange: d.dateRange }));
+  const monthly = await loadSummaries('monthly', d => ({ id: d.id, title: d.title, month: d.month, year: d.year, dateRange: d.dateRange }));
+  daily.sort((a, b) => b.date.localeCompare(a.date));
+  weekly.sort((a, b) => (b.year - a.year) || (b.week - a.week));
+  monthly.sort((a, b) => (b.year - a.year) || (b.month - a.month));
+  await fs.writeFile(path.join(DATA_DIR, 'index.json'), JSON.stringify({ lastUpdated: new Date().toISOString(), daily, weekly, monthly }, null, 2));
+  console.log(`\n📋 Index: ${daily.length} daily, ${weekly.length} weekly, ${monthly.length} monthly`);
 }
 
-/**
- * Main function
- */
-async function main() {
-  const config = parseArgs();
-  
-  console.log('╔════════════════════════════════════════╗');
-  console.log('║     Big Tech News Digest Scraper       ║');
-  console.log('╚════════════════════════════════════════╝');
-  console.log(`\nMode: ${config.mode.toUpperCase()}${config.mode === 'backfill' ? ` (${config.weeks} weeks)` : ''}\n`);
+// ---------------------------------------------------------------------------
+// Main
+// ---------------------------------------------------------------------------
 
-  // Ensure data directories exist
-  await fs.mkdir(path.join(DATA_DIR, 'daily'), { recursive: true });
-  await fs.mkdir(path.join(DATA_DIR, 'weekly'), { recursive: true });
-  await fs.mkdir(path.join(DATA_DIR, 'monthly'), { recursive: true });
+function parseMode() {
+  const args = process.argv.slice(2);
+  const modes = { '--daily': 'daily', '-d': 'daily', '--weekly': 'weekly', '-w': 'weekly', '--monthly': 'monthly', '-m': 'monthly',
+    '--rebuild': 'rebuild', '--rescore': 'rescore', '--backfill': 'backfill', '-b': 'backfill' };
+  for (const a of args) if (modes[a]) return modes[a];
+  return 'daily';
+}
 
-  // Fetch all feeds
+async function runDaily(now) {
   const articles = await fetchAllFeeds();
-
   if (articles.length === 0) {
     console.error('\n❌ No articles fetched. Check your internet connection.');
     process.exit(1);
   }
+  console.log('\n━━━ Daily (today + yesterday, merged) ━━━');
+  for (const ymd of [dayKey(subDays(now, 1)), dayKey(now)]) await mergeDay(ymd, articles);
+  console.log('\n━━━ Last week & last month (from daily files) ━━━');
+  await buildLastWeek(now);
+  await buildLastMonth(now);
+}
 
+async function main() {
+  const mode = parseMode();
+  console.log(`Big Tech News scraper — mode: ${mode}\n`);
+  for (const d of ['daily', 'weekly', 'monthly']) await fs.mkdir(path.join(DATA_DIR, d), { recursive: true });
   const now = new Date();
 
-  switch (config.mode) {
-    case 'daily': {
-      console.log('\n━━━ Daily Digest ━━━');
-      const digest = await generateDailyDigest(now, articles);
-      await saveDigest(digest, 'daily');
-      break;
-    }
-    
-    case 'weekly': {
-      // Generate digest for the PREVIOUS week (the completed one)
-      const lastWeekDate = subWeeks(now, 1);
-      const weekInfo = getWeekInfo(lastWeekDate);
-      console.log(`\n━━━ Week ${weekInfo.week}, ${weekInfo.year} ━━━`);
-      const digest = await generateWeeklyDigest(weekInfo.week, weekInfo.year, articles);
-      await saveDigest(digest, 'weekly');
-      break;
-    }
-    
-    case 'monthly': {
-      // Generate digest for the PREVIOUS month (the completed one)
-      const lastMonth = subMonths(now, 1);
-      console.log(`\n━━━ ${format(lastMonth, 'MMMM yyyy')} ━━━`);
-      const digest = await generateMonthlyDigest(lastMonth, articles);
-      await saveDigest(digest, 'monthly');
-      break;
-    }
-    
-    case 'backfill': {
-      console.log(`\n📚 Backfilling ${config.weeks} weeks...\n`);
-      
-      // Backfill daily (last 7 days)
-      console.log('── Daily Digests ──');
-      for (let i = 0; i < 7; i++) {
-        const date = subDays(now, i);
-        const digest = await generateDailyDigest(date, articles);
-        await saveDigest(digest, 'daily');
-      }
-      
-      // Backfill weekly
-      console.log('\n── Weekly Digests ──');
-      for (let i = 0; i < config.weeks; i++) {
-        const date = subWeeks(now, i);
-        const weekInfo = getWeekInfo(date);
-        const digest = await generateWeeklyDigest(weekInfo.week, weekInfo.year, articles);
-        await saveDigest(digest, 'weekly');
-      }
-      
-      // Backfill monthly (current + previous month)
-      console.log('\n── Monthly Digests ──');
-      for (let i = 0; i < 2; i++) {
-        const date = subMonths(now, i);
-        const digest = await generateMonthlyDigest(date, articles);
-        await saveDigest(digest, 'monthly');
-      }
-      break;
-    }
+  switch (mode) {
+    case 'daily': await runDaily(now); break;
+    case 'weekly': await buildLastWeek(now); break;
+    case 'monthly': await buildLastMonth(now); break;
+    case 'rebuild': await rebuildAll(now); break;
+    case 'rescore': await rescoreAll(); await rebuildAll(now); break;
+    case 'backfill': await runDaily(now); await rebuildAll(now); break;
   }
 
-  // Update the index
   await updateIndex();
-
-  console.log('\n✅ Completed!\n');
-  
-  // Explicit exit to prevent hanging
+  console.log('\n✅ Done');
   process.exit(0);
 }
 
-// Run main function
-main().catch(error => {
-  console.error('Fatal error:', error);
-  process.exit(1);
-});
+if (require.main === module) {
+  main().catch(error => { console.error('Fatal error:', error); process.exit(1); });
+}
+
+module.exports = { calculateRelevance, categorizeArticle, clusterArticles, normalizeLink, wordRegex, isExcluded };

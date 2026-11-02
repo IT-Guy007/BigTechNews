@@ -10,7 +10,9 @@
     "scrape:monthly": "node scraper/index.js --monthly",
     "scrape:backfill": "node scraper/index.js --backfill",
     "build": "node build/generate.js",
-    "dev": "npx serve public -p 3000"
+    "dev": "npx serve public -p 3000",
+    "scrape:rebuild": "node scraper/index.js --rebuild",
+    "scrape:rescore": "node scraper/index.js --rescore"
   },
   "dependencies": {
     "axios": "^1.6.7",
