@@ -11,8 +11,10 @@ scraper/           → RSS fetching, relevance scoring, digest generation
 data/              → JSON digests (daily/, weekly/, monthly/, index.json)
 build/
   ├── generate.js  → Static site generator using custom {{template}} system
-  └── templates/   → HTML templates (index.html, digest.html, styles.css)
-public/            → Generated static site (deployed to GitHub Pages)
+  └── templates/   → layout.html (shared page shell), styles.css, site.js, search.js
+public/            → Generated static site (deployed to GitHub Pages):
+                     index.html, search.html, archive.html, daily|weekly|monthly/*.html,
+                     search-index.json (every unique article, loaded by search.html)
 ```
 
 ## Key Workflows
@@ -55,7 +57,7 @@ Templates in [build/templates/](../build/templates/) use simple mustache-like sy
 - `{{variable}}` - Value substitution
 - `{{#key}}...{{/key}}` - Conditional blocks (shows content if key is truthy)
 
-HTML generation functions in `generate.js`: `generateHeroHTML()`, `generateNewsGridHTML()`, `generateSidebarHTML()`, etc.
+Every page renders through `layout.html`; page bodies are built in `generate.js` (`generateIndexPage()`, `generateDigestPage()`, `generateArchivePage()`, `generateSearchPage()`). Search runs client-side in `templates/search.js` with whole-word matching and URL params (`q`, `cat`, `src`, `range`, `from`, `to`, `sort`).
 
 ## Data Format
 
