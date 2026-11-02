@@ -20,7 +20,8 @@
         "openai",
         "breakthrough"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 11
     },
     {
       "title": "OpenAI's first device will reportedly be a 'humanlike' rechargeable speaker",
@@ -36,12 +37,13 @@
         "openai",
         "chatgpt"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 10
     },
     {
       "title": "Google and Epic give up fighting — third-party Android app stores are coming next week",
       "link": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play",
-      "description": "Epic Games and Google have just jointly withdrawn their attempt to retroactively settle the lawsuit that's changing how Android app stores work in the United States - and that means Google will be forced to carry rival app stores inside of its own. In fact, Google tells the court, it's ready to begin carrying third-party app stores on Wednesday, July 22nd. Does that mean it's time for Microsoft to launch an Xbox game store on Android?\nIn October 2024, Judge James Donato originally agreed that forcing Google to carry rival Android app stores within its own Google Play store for several years, and forcing it to share its own entire catalog of …\nRead the full story at The Verge.",
+      "description": "Epic Games and Google have just jointly withdrawn their attempt to retroactively settle the lawsuit that's changing how Android app stores work in the United States - and that means Google will be forced to carry rival app stores inside of its own. In fact, Google tells the court, it's ready to begin carrying third-party app stores on Wednesday, July 22nd. Does that mean it's time for Microsoft to launch an Xbox game store on Android? In October 2024, Judge James Donato originally agreed that fo",
       "published": "2026-07-15T03:28:53.000Z",
       "source": "The Verge",
       "sourceKey": "theverge",
@@ -53,7 +55,8 @@
         "microsoft",
         "lawsuit"
       ],
-      "category": "chips_cloud"
+      "category": "regulation",
+      "baseScore": 8
     },
     {
       "title": "Limited series ‘Lucky’, starring Anya Taylor-Joy, premieres on Apple TV",
@@ -68,23 +71,24 @@
       "matchedKeywords": [
         "apple"
       ],
-      "category": "ai"
+      "category": "devices",
+      "baseScore": 4
     },
     {
       "title": "iOS 27: My favorite new iPhone features (other than AI)",
       "link": "https://9to5mac.com/2026/07/14/ios-27-my-favorite-new-iphone-features-other-than-ai/",
-      "description": "The iOS 27 public beta is here, and the headlining changes are Siri AI and the array of new Apple Intelligence features. However, the update also includes plenty of non-AI features. \nHere are a few of my favorite iOS 27 features (other than Siri and AI).",
+      "description": "The iOS 27 public beta is here, and the headlining changes are Siri AI and the array of new Apple Intelligence features. However, the update also includes plenty of non-AI features. Here are a few of my favorite iOS 27 features (other than Siri and AI).",
       "published": "2026-07-15T00:41:31.000Z",
       "source": "9to5Mac",
       "sourceKey": "9to5mac",
       "priority": 2,
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-lock-screen-clock-small.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "relevanceScore": 4,
+      "relevanceScore": 2,
       "matchedKeywords": [
-        "apple",
-        "intel"
+        "apple"
       ],
-      "category": "ai"
+      "category": "devices",
+      "baseScore": 2
     }
   ],
   "byCategory": {
@@ -103,7 +107,8 @@
           "openai",
           "breakthrough"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 11
       },
       {
         "title": "OpenAI's first device will reportedly be a 'humanlike' rechargeable speaker",
@@ -119,8 +124,31 @@
           "openai",
           "chatgpt"
         ],
-        "category": "ai"
-      },
+        "category": "ai",
+        "baseScore": 10
+      }
+    ],
+    "regulation": [
+      {
+        "title": "Google and Epic give up fighting — third-party Android app stores are coming next week",
+        "link": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play",
+        "description": "Epic Games and Google have just jointly withdrawn their attempt to retroactively settle the lawsuit that's changing how Android app stores work in the United States - and that means Google will be forced to carry rival app stores inside of its own. In fact, Google tells the court, it's ready to begin carrying third-party app stores on Wednesday, July 22nd. Does that mean it's time for Microsoft to launch an Xbox game store on Android? In October 2024, Judge James Donato originally agreed that fo",
+        "published": "2026-07-15T03:28:53.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25047551/236883_Epic_Vs_Google_C_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "google",
+          "microsoft",
+          "lawsuit"
+        ],
+        "category": "regulation",
+        "baseScore": 8
+      }
+    ],
+    "devices": [
       {
         "title": "Limited series ‘Lucky’, starring Anya Taylor-Joy, premieres on Apple TV",
         "link": "https://9to5mac.com/2026/07/14/limited-series-lucky-starring-anya-taylor-joy-premieres-on-apple-tv/",
@@ -134,42 +162,24 @@
         "matchedKeywords": [
           "apple"
         ],
-        "category": "ai"
+        "category": "devices",
+        "baseScore": 4
       },
       {
         "title": "iOS 27: My favorite new iPhone features (other than AI)",
         "link": "https://9to5mac.com/2026/07/14/ios-27-my-favorite-new-iphone-features-other-than-ai/",
-        "description": "The iOS 27 public beta is here, and the headlining changes are Siri AI and the array of new Apple Intelligence features. However, the update also includes plenty of non-AI features. \nHere are a few of my favorite iOS 27 features (other than Siri and AI).",
+        "description": "The iOS 27 public beta is here, and the headlining changes are Siri AI and the array of new Apple Intelligence features. However, the update also includes plenty of non-AI features. Here are a few of my favorite iOS 27 features (other than Siri and AI).",
         "published": "2026-07-15T00:41:31.000Z",
         "source": "9to5Mac",
         "sourceKey": "9to5mac",
         "priority": 2,
         "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-lock-screen-clock-small.jpg?quality=82&#038;strip=all&#038;w=1600",
-        "relevanceScore": 4,
+        "relevanceScore": 2,
         "matchedKeywords": [
-          "apple",
-          "intel"
+          "apple"
         ],
-        "category": "ai"
-      }
-    ],
-    "chips_cloud": [
-      {
-        "title": "Google and Epic give up fighting — third-party Android app stores are coming next week",
-        "link": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play",
-        "description": "Epic Games and Google have just jointly withdrawn their attempt to retroactively settle the lawsuit that's changing how Android app stores work in the United States - and that means Google will be forced to carry rival app stores inside of its own. In fact, Google tells the court, it's ready to begin carrying third-party app stores on Wednesday, July 22nd. Does that mean it's time for Microsoft to launch an Xbox game store on Android?\nIn October 2024, Judge James Donato originally agreed that forcing Google to carry rival Android app stores within its own Google Play store for several years, and forcing it to share its own entire catalog of …\nRead the full story at The Verge.",
-        "published": "2026-07-15T03:28:53.000Z",
-        "source": "The Verge",
-        "sourceKey": "theverge",
-        "priority": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25047551/236883_Epic_Vs_Google_C_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "relevanceScore": 8,
-        "matchedKeywords": [
-          "google",
-          "microsoft",
-          "lawsuit"
-        ],
-        "category": "chips_cloud"
+        "category": "devices",
+        "baseScore": 2
       }
     ]
   },

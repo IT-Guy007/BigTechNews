@@ -9,21 +9,22 @@
     {
       "title": "AI Safety Fears Grow After Multiple Breaches",
       "link": "https://www.bloomberg.com/news/videos/2026-08-10/ai-safety-fears-grow-after-multiple-breaches-video",
-      "description": "The infiltration of Hugging Face by OpenAI's agents has put AI-enabled cyber attacks into the spotlight. The incident and similar breaches reported by Anthropic PBC and Meta Platforms Inc. have fueled calls in Washington and Silicon Valley for more thorough safety reviews of artificial intelligence models. Bloomberg's Jordan Robertson reports. (Source: Bloomberg)",
+      "description": "The infiltration of Hugging Face by OpenAI's agents has put AI-enabled cyber attacks into the spotlight. The incident and similar breaches reported by Anthropic PBC and Meta Platforms Inc. have fueled calls in Washington and Silicon Valley for more thorough safety reviews of artificial intelligence models. Bloomberg's Jordan Robertson reports. (Source: Bloomberg)",
       "published": "2026-08-10T06:17:28.000Z",
       "source": "Bloomberg",
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 17,
+      "relevanceScore": 15,
       "matchedKeywords": [
+        "ai safety",
         "meta",
         "openai",
         "anthropic",
-        "intel",
         "artificial intelligence"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 15
     },
     {
       "title": "Sony, TSMC to Invest $6.4 Billion in Japanese Sensor Plant",
@@ -37,10 +38,11 @@
       "relevanceScore": 7,
       "matchedKeywords": [
         "tsmc",
-        "semiconductor",
-        "billion"
+        "billion",
+        "semiconductor"
       ],
-      "category": "chips_cloud"
+      "category": "chips_cloud",
+      "baseScore": 7
     },
     {
       "title": "TSMC Sales Rise 45% as Demand for AI Hardware Stays Strong",
@@ -56,7 +58,8 @@
         "tsmc",
         "semiconductor"
       ],
-      "category": "chips_cloud"
+      "category": "chips_cloud",
+      "baseScore": 6
     },
     {
       "title": "China Humanoid Makers Hold 97% of Global Shipments, Report Says",
@@ -69,25 +72,11 @@
       "image": null,
       "relevanceScore": 5,
       "matchedKeywords": [
+        "humanoid",
         "humanoid robot"
       ],
-      "category": "robotics"
-    },
-    {
-      "title": "DeepX CEO on Business Strategy, New Funding",
-      "link": "https://www.bloomberg.com/news/videos/2026-08-10/deepx-ceo-on-business-strategy-new-funding-video",
-      "description": "Lokwon Kim, Founder and CEO at DeepX, discusses the chip designer's business strategy and latest funding. He speaks with Shery Ahn on Bloomberg: The Asia Trade. (Source: Bloomberg)",
-      "published": "2026-08-10T01:28:30.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 5,
-      "matchedKeywords": [
-        "ceo",
-        "chip"
-      ],
-      "category": "business"
+      "category": "robotics",
+      "baseScore": 5
     },
     {
       "title": "Inside stablecoin firm BVNK’s journey to a $1.8B acquisition by Mastercard",
@@ -103,7 +92,25 @@
         "acquisition",
         "stablecoin"
       ],
-      "category": "ev_autonomous"
+      "category": "business",
+      "baseScore": 5
+    },
+    {
+      "title": "DeepX CEO on Business Strategy, New Funding",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-10/deepx-ceo-on-business-strategy-new-funding-video",
+      "description": "Lokwon Kim, Founder and CEO at DeepX, discusses the chip designer's business strategy and latest funding. He speaks with Shery Ahn on Bloomberg: The Asia Trade. (Source: Bloomberg)",
+      "published": "2026-08-10T01:28:30.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 3,
+      "matchedKeywords": [
+        "ceo",
+        "chip"
+      ],
+      "category": "business",
+      "baseScore": 3
     }
   ],
   "byCategory": {
@@ -111,21 +118,22 @@
       {
         "title": "AI Safety Fears Grow After Multiple Breaches",
         "link": "https://www.bloomberg.com/news/videos/2026-08-10/ai-safety-fears-grow-after-multiple-breaches-video",
-        "description": "The infiltration of Hugging Face by OpenAI's agents has put AI-enabled cyber attacks into the spotlight. The incident and similar breaches reported by Anthropic PBC and Meta Platforms Inc. have fueled calls in Washington and Silicon Valley for more thorough safety reviews of artificial intelligence models. Bloomberg's Jordan Robertson reports. (Source: Bloomberg)",
+        "description": "The infiltration of Hugging Face by OpenAI's agents has put AI-enabled cyber attacks into the spotlight. The incident and similar breaches reported by Anthropic PBC and Meta Platforms Inc. have fueled calls in Washington and Silicon Valley for more thorough safety reviews of artificial intelligence models. Bloomberg's Jordan Robertson reports. (Source: Bloomberg)",
         "published": "2026-08-10T06:17:28.000Z",
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 17,
+        "relevanceScore": 15,
         "matchedKeywords": [
+          "ai safety",
           "meta",
           "openai",
           "anthropic",
-          "intel",
           "artificial intelligence"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 15
       }
     ],
     "chips_cloud": [
@@ -141,10 +149,11 @@
         "relevanceScore": 7,
         "matchedKeywords": [
           "tsmc",
-          "semiconductor",
-          "billion"
+          "billion",
+          "semiconductor"
         ],
-        "category": "chips_cloud"
+        "category": "chips_cloud",
+        "baseScore": 7
       },
       {
         "title": "TSMC Sales Rise 45% as Demand for AI Hardware Stays Strong",
@@ -160,7 +169,8 @@
           "tsmc",
           "semiconductor"
         ],
-        "category": "chips_cloud"
+        "category": "chips_cloud",
+        "baseScore": 6
       }
     ],
     "robotics": [
@@ -175,30 +185,14 @@
         "image": null,
         "relevanceScore": 5,
         "matchedKeywords": [
+          "humanoid",
           "humanoid robot"
         ],
-        "category": "robotics"
+        "category": "robotics",
+        "baseScore": 5
       }
     ],
     "business": [
-      {
-        "title": "DeepX CEO on Business Strategy, New Funding",
-        "link": "https://www.bloomberg.com/news/videos/2026-08-10/deepx-ceo-on-business-strategy-new-funding-video",
-        "description": "Lokwon Kim, Founder and CEO at DeepX, discusses the chip designer's business strategy and latest funding. He speaks with Shery Ahn on Bloomberg: The Asia Trade. (Source: Bloomberg)",
-        "published": "2026-08-10T01:28:30.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "ceo",
-          "chip"
-        ],
-        "category": "business"
-      }
-    ],
-    "ev_autonomous": [
       {
         "title": "Inside stablecoin firm BVNK’s journey to a $1.8B acquisition by Mastercard",
         "link": "https://www.coindesk.com/business/2026/08/10/inside-stablecoin-firm-bvnk-s-journey-to-a-usd1-8b-acquisition-by-mastercard",
@@ -213,7 +207,25 @@
           "acquisition",
           "stablecoin"
         ],
-        "category": "ev_autonomous"
+        "category": "business",
+        "baseScore": 5
+      },
+      {
+        "title": "DeepX CEO on Business Strategy, New Funding",
+        "link": "https://www.bloomberg.com/news/videos/2026-08-10/deepx-ceo-on-business-strategy-new-funding-video",
+        "description": "Lokwon Kim, Founder and CEO at DeepX, discusses the chip designer's business strategy and latest funding. He speaks with Shery Ahn on Bloomberg: The Asia Trade. (Source: Bloomberg)",
+        "published": "2026-08-10T01:28:30.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "ceo",
+          "chip"
+        ],
+        "category": "business",
+        "baseScore": 3
       }
     ]
   },

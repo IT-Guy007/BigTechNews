@@ -7,9 +7,9 @@
   "generatedAt": "2026-09-25T12:03:06.957Z",
   "highlights": [
     {
-      "title": "Microsoft Abandons Personal AI Chatbot Race With Copilot Reboot",
+      "title": "Microsoft Abandons Personal AI Chatbot Race With Copilot Reboot",
       "link": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
-      "description": "Microsoft Corp. is merging the consumer and workplace versions of its Copilot AI assistant into one product aimed at corporate customers, ceding the crowded market for personal chatbots to OpenAI, Alphabet Inc.’s Google and, now, Meta Platforms Inc.",
+      "description": "Microsoft Corp. is merging the consumer and workplace versions of its Copilot AI assistant into one product aimed at corporate customers, ceding the crowded market for personal chatbots to OpenAI, Alphabet Inc.’s Google and, now, Meta Platforms Inc.",
       "published": "2026-09-25T12:00:01.000Z",
       "source": "Bloomberg",
       "sourceKey": "bloomberg_tech",
@@ -17,31 +17,14 @@
       "image": null,
       "relevanceScore": 16,
       "matchedKeywords": [
+        "microsoft",
         "google",
         "alphabet",
-        "microsoft",
         "meta",
         "openai"
       ],
-      "category": "ai"
-    },
-    {
-      "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
-      "link": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
-      "description": "Microsoft CEO Satya Nadella introducing the company’s Copilot Plus PC initiative. | Image: Allison Johnson\t\n\nRemember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get, because those were the PCs that that'd have enough built-in AI muscle to get things done? Two and a half years later, Microsoft and Qualcomm seem to be admitting the brand is already dead. \nWindows Central's Zac Bowden reports that even though the new 12-inch Microsoft Surface Pro and 13-inch Surface Laptop technically meet the system requirements for a Copilot Plus PC, Microsoft is not calling them by that name anymore. \"These are not called Copilot Plus PCs,\" Microsoft Surface CVP Brett Ostrom told the publication. \nKedar Kondap, Qualcomm's SVP  …\nRead the full story at The Verge.",
-      "published": "2026-09-25T01:25:53.000Z",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "priority": 1,
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/lcimg_d86deab3_6099_437b_b86a_4f36ef6f8ffb.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "relevanceScore": 13,
-      "matchedKeywords": [
-        "microsoft",
-        "qualcomm",
-        "ceo",
-        "satya nadella"
-      ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 16
     },
     {
       "title": "Elon Musk Aims to Double Colossus 2’s Nvidia Chips by Year-End",
@@ -55,29 +38,67 @@
       "relevanceScore": 11,
       "matchedKeywords": [
         "nvidia",
-        "xai",
         "elon musk",
-        "chip"
+        "chip",
+        "xai"
       ],
-      "category": "ai"
+      "category": "chips_cloud",
+      "baseScore": 11
+    },
+    {
+      "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
+      "link": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
+      "description": "Microsoft CEO Satya Nadella introducing the company’s Copilot Plus PC initiative. | Image: Allison Johnson Remember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get, because those were the PCs that that'd have enough built-in AI muscle to get things done? Two and a half years later, Microsoft and Qualcomm seem to be admitting the brand is already dead. Windows Central's Zac Bowden reports that even though the new 12-inch Microsoft Surface Pro and 13-inch Surfac",
+      "published": "2026-09-25T01:25:53.000Z",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "priority": 1,
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/lcimg_d86deab3_6099_437b_b86a_4f36ef6f8ffb.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "relevanceScore": 11,
+      "matchedKeywords": [
+        "microsoft",
+        "qualcomm",
+        "satya nadella",
+        "ceo"
+      ],
+      "category": "ai",
+      "baseScore": 11
+    },
+    {
+      "title": "Jev, an AI Model That Can’t Chat, Takes On Bigger Rivals",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-25/jev-an-ai-model-that-can-t-chat-takes-on-bigger-rivals",
+      "description": "Jev, an AI model built by a former OpenAI researcher, went viral over the past week with the promise of a cheaper and faster alternative to large language models.",
+      "published": "2026-09-25T10:06:10.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "ai model",
+        "openai",
+        "large language model"
+      ],
+      "category": "ai",
+      "baseScore": 8
     },
     {
       "title": "Meta's Muse Agent Makes Waves: Market Snapshot",
       "link": "https://www.bloomberg.com/news/videos/2026-09-25/meta-s-muse-agent-makes-waves-market-snapshot-video",
-      "description": "Major banks, insurers and online travel agencies stocks took a tumble this week after Meta’s new artificial intelligence agent, Muse rose to the top of Apple's app store. Increasing usage of the app sparked fears that personal AI tools could disrupt businesses that benefit from so-called consumer inertia. The Opening Trade spoke to guests about whether the latest AI developments are impacting their outlook for stocks and the broader sector amid an increasingly complex AI trade.\n (Source: Bloomberg)",
+      "description": "Major banks, insurers and online travel agencies stocks took a tumble this week after Meta’s new artificial intelligence agent, Muse rose to the top of Apple's app store. Increasing usage of the app sparked fears that personal AI tools could disrupt businesses that benefit from so-called consumer inertia. The Opening Trade spoke to guests about whether the latest AI developments are impacting their outlook for stocks and the broader sector amid an increasingly complex AI trade. (Source: Bloomber",
       "published": "2026-09-25T06:27:28.000Z",
       "source": "Bloomberg",
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 10,
+      "relevanceScore": 8,
       "matchedKeywords": [
-        "apple",
         "meta",
-        "intel",
+        "apple",
         "artificial intelligence"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 8
     },
     {
       "title": "Tesla poised to scale production of heavy-duty Semi trucks with opening of Nevada factory",
@@ -93,23 +114,8 @@
         "tesla",
         "elon musk"
       ],
-      "category": "ev_autonomous"
-    },
-    {
-      "title": "Google adds creepy avatars to Gemini 3.8 live's agents",
-      "link": "https://www.engadget.com/2268587/google-video-avatars-gemini-3-8-live-agent/",
-      "description": "Google has introduced Gemini 3.8 live avatars designed for customer service and other tasks.",
-      "published": "2026-09-25T10:53:55.000Z",
-      "source": "Engadget",
-      "sourceKey": "engadget",
-      "priority": 2,
-      "image": "https://www.engadget.com/img/gallery/google-adds-creepy-avatars-to-gemini-3-8-lives-agents/l-intro-1790333572.jpg",
-      "relevanceScore": 7,
-      "matchedKeywords": [
-        "google",
-        "gemini"
-      ],
-      "category": "ai"
+      "category": "ev_autonomous",
+      "baseScore": 8
     },
     {
       "title": "SpaceX-Focused Pentagon Contracts Leave Rivals Feeling Squeezed",
@@ -126,26 +132,28 @@
         "satellite",
         "billion"
       ],
-      "category": "space"
+      "category": "space",
+      "baseScore": 7
     },
     {
-      "title": "Jev, an AI Model That Can’t Chat, Takes On Bigger Rivals",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-25/jev-an-ai-model-that-can-t-chat-takes-on-bigger-rivals",
-      "description": "Jev, an AI model built by a former OpenAI researcher, went viral over the past week with the promise of a cheaper and faster alternative to large language models.",
-      "published": "2026-09-25T10:06:10.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
+      "title": "Google adds creepy avatars to Gemini 3.8 live's agents",
+      "link": "https://www.engadget.com/2268587/google-video-avatars-gemini-3-8-live-agent/",
+      "description": "Google has introduced Gemini 3.8 live avatars designed for customer service and other tasks.",
+      "published": "2026-09-25T10:53:55.000Z",
+      "source": "Engadget",
+      "sourceKey": "engadget",
+      "priority": 2,
+      "image": "https://www.engadget.com/img/gallery/google-adds-creepy-avatars-to-gemini-3-8-lives-agents/l-intro-1790333572.jpg",
       "relevanceScore": 7,
       "matchedKeywords": [
-        "openai",
-        "large language model"
+        "google",
+        "gemini"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 7
     },
     {
-      "title": " Google's orbital AI data center test packs four TPUs and 1,000W of solar power ",
+      "title": "Google's orbital AI data center test packs four TPUs and 1,000W of solar power",
       "link": "https://www.tomshardware.com/tech-industry/data-centers/google-is-blasting-an-experimental-ai-data-center-into-orbit-first-satellite-will-feature-just-four-tensor-processing-units",
       "description": "Google will launch an experimental satellite into orbit on October 1, taking four tensor processing units with it.",
       "published": "2026-09-25T10:00:00.000Z",
@@ -160,30 +168,39 @@
         "tpu",
         "satellite"
       ],
-      "category": "space"
+      "category": "space",
+      "baseScore": 7
     },
     {
       "title": "Here’s the Tesla Semi… again",
       "link": "https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer",
-      "description": "Remember the Tesla Semi? The long-gestating, heavy-duty truck first introduced in concept form in 2017 is finally in volume production as of April 2026 - nearly a decade after its initial introduction. On Thursday evening, the company held yet another event for the Semi to demonstrate to customers and investors that the long wait was finally over. \nThe event was held at Tesla's new Semi factory next to Gigafactory Nevada, where the company says it can build 50,000 trucks a year, or 1,000 per week. The purpose was to announce a raft of new (and old) customers for the Semi, including PepsiCo, US Foods, DHL, WattEV, ABF, Einride, IMC, and OK P …\nRead the full story at The Verge.",
+      "description": "Remember the Tesla Semi? The long-gestating, heavy-duty truck first introduced in concept form in 2017 is finally in volume production as of April 2026 - nearly a decade after its initial introduction. On Thursday evening, the company held yet another event for the Semi to demonstrate to customers and investors that the long wait was finally over. The event was held at Tesla's new Semi factory next to Gigafactory Nevada, where the company says it can build 50,000 trucks a year, or 1,000 per week",
       "published": "2026-09-25T02:12:57.000Z",
       "source": "The Verge",
       "sourceKey": "theverge",
       "priority": 1,
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Semi_77.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "relevanceScore": 5,
+      "relevanceScore": 6,
       "matchedKeywords": [
         "tesla"
       ],
-      "category": "ev_autonomous"
+      "category": "ev_autonomous",
+      "baseScore": 5,
+      "alsoIn": [
+        {
+          "source": "Wired",
+          "title": "Nearly a Decade Later, the Electric Tesla Semi Is Here",
+          "link": "https://www.wired.com/story/tesla-semi/"
+        }
+      ]
     }
   ],
   "byCategory": {
     "ai": [
       {
-        "title": "Microsoft Abandons Personal AI Chatbot Race With Copilot Reboot",
+        "title": "Microsoft Abandons Personal AI Chatbot Race With Copilot Reboot",
         "link": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
-        "description": "Microsoft Corp. is merging the consumer and workplace versions of its Copilot AI assistant into one product aimed at corporate customers, ceding the crowded market for personal chatbots to OpenAI, Alphabet Inc.’s Google and, now, Meta Platforms Inc.",
+        "description": "Microsoft Corp. is merging the consumer and workplace versions of its Copilot AI assistant into one product aimed at corporate customers, ceding the crowded market for personal chatbots to OpenAI, Alphabet Inc.’s Google and, now, Meta Platforms Inc.",
         "published": "2026-09-25T12:00:01.000Z",
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
@@ -191,67 +208,69 @@
         "image": null,
         "relevanceScore": 16,
         "matchedKeywords": [
+          "microsoft",
           "google",
           "alphabet",
-          "microsoft",
           "meta",
           "openai"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 16
       },
       {
         "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
         "link": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
-        "description": "Microsoft CEO Satya Nadella introducing the company’s Copilot Plus PC initiative. | Image: Allison Johnson\t\n\nRemember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get, because those were the PCs that that'd have enough built-in AI muscle to get things done? Two and a half years later, Microsoft and Qualcomm seem to be admitting the brand is already dead. \nWindows Central's Zac Bowden reports that even though the new 12-inch Microsoft Surface Pro and 13-inch Surface Laptop technically meet the system requirements for a Copilot Plus PC, Microsoft is not calling them by that name anymore. \"These are not called Copilot Plus PCs,\" Microsoft Surface CVP Brett Ostrom told the publication. \nKedar Kondap, Qualcomm's SVP  …\nRead the full story at The Verge.",
+        "description": "Microsoft CEO Satya Nadella introducing the company’s Copilot Plus PC initiative. | Image: Allison Johnson Remember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get, because those were the PCs that that'd have enough built-in AI muscle to get things done? Two and a half years later, Microsoft and Qualcomm seem to be admitting the brand is already dead. Windows Central's Zac Bowden reports that even though the new 12-inch Microsoft Surface Pro and 13-inch Surfac",
         "published": "2026-09-25T01:25:53.000Z",
         "source": "The Verge",
         "sourceKey": "theverge",
         "priority": 1,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/lcimg_d86deab3_6099_437b_b86a_4f36ef6f8ffb.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "relevanceScore": 13,
+        "relevanceScore": 11,
         "matchedKeywords": [
           "microsoft",
           "qualcomm",
-          "ceo",
-          "satya nadella"
+          "satya nadella",
+          "ceo"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 11
       },
       {
-        "title": "Elon Musk Aims to Double Colossus 2’s Nvidia Chips by Year-End",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-25/elon-musk-aims-to-double-colossus-2-s-nvidia-chips-by-year-end",
-        "description": "Elon Musk said Colossus 2, an AI computing cluster built by his xAI business, may more than double its current Nvidia Corp. chip count by the end of the year.",
-        "published": "2026-09-25T06:04:47.000Z",
+        "title": "Jev, an AI Model That Can’t Chat, Takes On Bigger Rivals",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-25/jev-an-ai-model-that-can-t-chat-takes-on-bigger-rivals",
+        "description": "Jev, an AI model built by a former OpenAI researcher, went viral over the past week with the promise of a cheaper and faster alternative to large language models.",
+        "published": "2026-09-25T10:06:10.000Z",
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 11,
+        "relevanceScore": 8,
         "matchedKeywords": [
-          "nvidia",
-          "xai",
-          "elon musk",
-          "chip"
+          "ai model",
+          "openai",
+          "large language model"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 8
       },
       {
         "title": "Meta's Muse Agent Makes Waves: Market Snapshot",
         "link": "https://www.bloomberg.com/news/videos/2026-09-25/meta-s-muse-agent-makes-waves-market-snapshot-video",
-        "description": "Major banks, insurers and online travel agencies stocks took a tumble this week after Meta’s new artificial intelligence agent, Muse rose to the top of Apple's app store. Increasing usage of the app sparked fears that personal AI tools could disrupt businesses that benefit from so-called consumer inertia. The Opening Trade spoke to guests about whether the latest AI developments are impacting their outlook for stocks and the broader sector amid an increasingly complex AI trade.\n (Source: Bloomberg)",
+        "description": "Major banks, insurers and online travel agencies stocks took a tumble this week after Meta’s new artificial intelligence agent, Muse rose to the top of Apple's app store. Increasing usage of the app sparked fears that personal AI tools could disrupt businesses that benefit from so-called consumer inertia. The Opening Trade spoke to guests about whether the latest AI developments are impacting their outlook for stocks and the broader sector amid an increasingly complex AI trade. (Source: Bloomber",
         "published": "2026-09-25T06:27:28.000Z",
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 10,
+        "relevanceScore": 8,
         "matchedKeywords": [
-          "apple",
           "meta",
-          "intel",
+          "apple",
           "artificial intelligence"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 8
       },
       {
         "title": "Google adds creepy avatars to Gemini 3.8 live's agents",
@@ -267,23 +286,24 @@
           "google",
           "gemini"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 7
       },
       {
-        "title": "Jev, an AI Model That Can’t Chat, Takes On Bigger Rivals",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-25/jev-an-ai-model-that-can-t-chat-takes-on-bigger-rivals",
-        "description": "Jev, an AI model built by a former OpenAI researcher, went viral over the past week with the promise of a cheaper and faster alternative to large language models.",
-        "published": "2026-09-25T10:06:10.000Z",
+        "title": "Meta Connect 2026: Muse AI Gadget Shows Ambitious Hardware Vision",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-09-25/meta-connect-2026-muse-ai-gadget-shows-ambitious-hardware-vision",
+        "description": "Meta’s AI hardware portfolio just got a lot more interesting — and risky",
+        "published": "2026-09-25T11:02:01.000Z",
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 7,
+        "relevanceScore": 5,
         "matchedKeywords": [
-          "openai",
-          "large language model"
+          "meta"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 5
       },
       {
         "title": "Microsoft's Copilot app adds Office, natural coding and automation",
@@ -299,115 +319,8 @@
           "microsoft",
           "automation"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "Meta Connect 2026: Muse AI Gadget Shows Ambitious Hardware Vision",
-        "link": "https://www.bloomberg.com/news/newsletters/2026-09-25/meta-connect-2026-muse-ai-gadget-shows-ambitious-hardware-vision",
-        "description": "Meta’s AI hardware portfolio just got a lot more interesting — and risky",
-        "published": "2026-09-25T11:02:01.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "meta"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": " New Jersey hits Microsoft-linked AI data center with record fine for 62 unpermitted power generators, issues 45-day shutdown deadline ",
-        "link": "https://www.tomshardware.com/tech-industry/data-centers/new-jersey-fines-data-center-for-using-unpermitted-power-generators-microsoft-linked-site-also-in-trouble-with-community-for-noise-pollution-other-issues",
-        "description": "The DataOne data center is facing a record fine of $1.07 million for operating portable turbine generators without permission. Residents say that the penalty is a drop in the bucket for these big tech companies.",
-        "published": "2026-09-25T11:00:00.000Z",
-        "source": "Tom's Hardware",
-        "sourceKey": "tomshardware",
-        "priority": 2,
-        "image": "https://cdn.mos.cms.futurecdn.net/4PEUxZTfTiLXcDRFBEFLcC-1920-80.png",
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "microsoft",
-          "data center"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "NYC Lawmakers Propose Financial Rewards for AI Whistleblowers",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-25/nyc-lawmakers-propose-financial-rewards-for-ai-whistleblowers",
-        "description": "New York City lawmakers want to offer financial incentives to whistleblowers who expose dangerous artificial intelligence practices, part of a package of bills aimed at tightening oversight of the technology.",
-        "published": "2026-09-25T09:00:01.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "intel",
-          "artificial intelligence"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Former NSC China Director on Trump-Xi Summit",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-25/former-nsc-china-director-on-trump-xi-summit-video",
-        "description": "Liza Tobin, Former China Director at the US National Security Council and Managing Director of Garnaut Global, discusses her expectations and takeaways from the summit between Presidents Trump and Xi.\nShe speaks with Haidi Stroud Watts on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
-        "published": "2026-09-25T03:08:46.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "agi"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "‘Knife Edge: Chasing Michelin Stars’ season 2 premieres on Apple TV",
-        "link": "https://9to5mac.com/2026/09/24/knife-edge-chasing-michelin-stars-season-2-premieres-on-apple-tv/",
-        "description": "“Knife Edge: Chasing Michelin Stars,” Apple TV’s docuseries about the pursuit of the culinary world’s highest honors, is back. Here are the details.\nmore…",
-        "published": "2026-09-25T01:00:44.000Z",
-        "source": "9to5Mac",
-        "sourceKey": "9to5mac",
-        "priority": 2,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/knife-edge.jpg?quality=82&#038;strip=all&#038;w=1600",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Create a Custom Pass in the Wallet App on iPhone",
-        "link": "https://www.macrumors.com/how-to/create-a-custom-pass-in-the-wallet-app-on-iphone/",
-        "description": "In iOS 27, Apple's Wallet app lets you create custom passes for things like event tickets, gift cards, loyalty cards, and more. Here's how it works.\r\n\r\n\r\nIf you have a ticket for an event and there's not a digital version available for the Wallet app, you can create one using the physical pass you have. The same goes for other cards, like a membership card, for example.\r\n\r\nThe Wallet app can use ‌Visual Intelligence‌ to scan your card, and it will match it to a template with corresponding fields that you can tweak before adding it to your Wallet. \r\n\r\nAlternatively, you can create the pass manually, choose a template (\"Membership,\" \"Event,\" or \"Custom\") and then adjust the color and other details. All you need to do then is scan the barcode or QR code from your physical pass. \r\n\r\nEach template includes relevant information like name, location, or admission type. There are 12 background colors to choose from, or seven custom backgrounds for categories like theater, music, sports, and movies.\r\n\r\nFields can be added or removed when creating a custom pass, with options like label, date, membership, contact, coupon code, VIN, insurance, and more, so most physical cards should be able to be stored digitally. \r\n\r\nHere's how you create a pass with ‌Visual Intelligence‌:\r\nOpen the Wallet app on your iPhone and tap the + button at the top.\n\r\nChoose Create a Pass.\r\n\r\nTo let Visual Intelligence scan the pass, tap Continue, then take a photo of it in the next screen.\r\n\r\nAfter Visual Intelligence matches the pass to a template, tap Edit Pass.\n\r\nUse the palette icon in the bottom-left corner to change the look of the pass – you can the background colour, or use an image from your Photos library. Tap the icon in the bottom-right corner to add or remove fields.\r\n\r\nTap the blue checkmark at the top when you're done.\nYour custom pass will now be added to your Wallet, ready for use. To edit it at any time, simply select it in Wallet, tap the three dots in the top-right corner of the screen, then tap Edit Pass.\nTag: Apple Wallet\nThis article, \"Create a Custom Pass in the Wallet App on iPhone\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-        "published": "2026-09-25T10:44:22.000Z",
-        "source": "MacRumors",
-        "sourceKey": "macrumors",
-        "priority": 2,
-        "image": "https://images.macrumors.com/article-new/2026/09/wallet-app-create-a-pass.jpeg",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple",
-          "intel"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Amazon sellers watch as inventory vanishes into pending-order purgatory",
-        "link": "https://www.theregister.com/channel/2026/09/25/amazon-sellers-watch-as-inventory-vanishes-into-pending-order-purgatory/5298922",
-        "description": "High-value goods remain tied up as merchants debate attack or platform glitch",
-        "published": "2026-09-25T11:13:00.000Z",
-        "source": "The Register",
-        "sourceKey": "theregister",
-        "priority": 2,
-        "image": "https://image.theregister.com/?imageId=227988&width=800",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "amazon"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 5
       },
       {
         "title": "Huawei Cloud Rolls Out Enterprise AI Products Across the Board, Building an Open Agentic Cloud",
@@ -422,7 +335,111 @@
         "matchedKeywords": [
           "huawei"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 4
+      },
+      {
+        "title": "NYC Lawmakers Propose Financial Rewards for AI Whistleblowers",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-25/nyc-lawmakers-propose-financial-rewards-for-ai-whistleblowers",
+        "description": "New York City lawmakers want to offer financial incentives to whistleblowers who expose dangerous artificial intelligence practices, part of a package of bills aimed at tightening oversight of the technology.",
+        "published": "2026-09-25T09:00:01.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 2,
+        "matchedKeywords": [
+          "artificial intelligence"
+        ],
+        "category": "ai",
+        "baseScore": 2
+      },
+      {
+        "title": "What El Niño Could Cost Africa | Bloomberg Next Africa",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-25/what-el-nino-could-cost-africa-video",
+        "description": "In this edition of Next Africa, we examine the economic risks from El Niño as drought and floods threaten crops, food prices and hydropower across the continent. Jennifer Zabasajja speaks with experts about the regions most exposed, the investment needed to strengthen Africa's water resilience and how AI tools are helping smallholder farmers make critical decisions as weather becomes harder to predict. (Source: Bloomberg)",
+        "published": "2026-09-25T09:43:14.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 1,
+        "matchedKeywords": [],
+        "category": "ai",
+        "baseScore": 1
+      }
+    ],
+    "chips_cloud": [
+      {
+        "title": "Elon Musk Aims to Double Colossus 2’s Nvidia Chips by Year-End",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-25/elon-musk-aims-to-double-colossus-2-s-nvidia-chips-by-year-end",
+        "description": "Elon Musk said Colossus 2, an AI computing cluster built by his xAI business, may more than double its current Nvidia Corp. chip count by the end of the year.",
+        "published": "2026-09-25T06:04:47.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "nvidia",
+          "elon musk",
+          "chip",
+          "xai"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 11
+      },
+      {
+        "title": "New Jersey hits Microsoft-linked AI data center with record fine for 62 unpermitted power generators, issues 45-day shutdown deadline",
+        "link": "https://www.tomshardware.com/tech-industry/data-centers/new-jersey-fines-data-center-for-using-unpermitted-power-generators-microsoft-linked-site-also-in-trouble-with-community-for-noise-pollution-other-issues",
+        "description": "The DataOne data center is facing a record fine of $1.07 million for operating portable turbine generators without permission. Residents say that the penalty is a drop in the bucket for these big tech companies.",
+        "published": "2026-09-25T11:00:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/4PEUxZTfTiLXcDRFBEFLcC-1920-80.png",
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "microsoft",
+          "data center"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 5
+      },
+      {
+        "title": "Nvidia DLSS 5 power draw hits 647W as power connector runs hotter than the GPU die, upscales frame rates and flame temps on 16-pin",
+        "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-dlss-5-upscales-frame-rates-and-flame-temps-on-16-pin-power-connector-ai-gaming-tech-pushes-connector-to-uncomfortable-thermal-and-power-limits",
+        "description": "QuasarZone tests show the 16-pin power connector on a GeForce RTX 5090 reaches temperatures above 90 degrees Celsius at peak power consumption near 650W.",
+        "published": "2026-09-25T10:30:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/zSDbAK6zJvGgD5vmjfWw3m-1920-80.jpg",
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "nvidia",
+          "gpu"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 5
+      },
+      {
+        "title": "India Seeks Comfort on Tata’s $14 Billion Chip Plans Amid Boardroom Battle",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-25/india-seeks-comfort-on-tata-s-14-billion-chip-plans-amid-boardroom-battle",
+        "description": "India’s government sought and received reassurances from the Tata Group that its $14 billion semiconductor and electronics projects will continue as planned, even as a courtroom battle looms over a leadership dispute at the conglomerate’s holding company.",
+        "published": "2026-09-25T08:19:27.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "chip",
+          "billion",
+          "semiconductor"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 4
       },
       {
         "title": "2026 just became the year of FreeBSD on the (Amazonian cloud) desktop",
@@ -433,26 +450,10 @@
         "sourceKey": "theregister",
         "priority": 2,
         "image": "https://image.theregister.com/?imageId=5299030&width=800",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "amazon"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "What El Niño Could Cost Africa | Bloomberg Next Africa",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-25/what-el-nino-could-cost-africa-video",
-        "description": "In this edition of Next Africa, we examine the economic risks from El Niño as drought and floods threaten crops, food prices and hydropower across the continent. Jennifer Zabasajja speaks with experts about the regions most exposed, the investment needed to strengthen Africa's water resilience and how AI tools are helping smallholder farmers make critical decisions as weather becomes harder to predict.\n\n (Source: Bloomberg)",
-        "published": "2026-09-25T09:43:14.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "arm"
-        ],
-        "category": "ai"
+        "relevanceScore": 0,
+        "matchedKeywords": [],
+        "category": "chips_cloud",
+        "baseScore": 0
       }
     ],
     "ev_autonomous": [
@@ -470,52 +471,31 @@
           "tesla",
           "elon musk"
         ],
-        "category": "ev_autonomous"
+        "category": "ev_autonomous",
+        "baseScore": 8
       },
       {
         "title": "Here’s the Tesla Semi… again",
         "link": "https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer",
-        "description": "Remember the Tesla Semi? The long-gestating, heavy-duty truck first introduced in concept form in 2017 is finally in volume production as of April 2026 - nearly a decade after its initial introduction. On Thursday evening, the company held yet another event for the Semi to demonstrate to customers and investors that the long wait was finally over. \nThe event was held at Tesla's new Semi factory next to Gigafactory Nevada, where the company says it can build 50,000 trucks a year, or 1,000 per week. The purpose was to announce a raft of new (and old) customers for the Semi, including PepsiCo, US Foods, DHL, WattEV, ABF, Einride, IMC, and OK P …\nRead the full story at The Verge.",
+        "description": "Remember the Tesla Semi? The long-gestating, heavy-duty truck first introduced in concept form in 2017 is finally in volume production as of April 2026 - nearly a decade after its initial introduction. On Thursday evening, the company held yet another event for the Semi to demonstrate to customers and investors that the long wait was finally over. The event was held at Tesla's new Semi factory next to Gigafactory Nevada, where the company says it can build 50,000 trucks a year, or 1,000 per week",
         "published": "2026-09-25T02:12:57.000Z",
         "source": "The Verge",
         "sourceKey": "theverge",
         "priority": 1,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Semi_77.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "relevanceScore": 5,
+        "relevanceScore": 6,
         "matchedKeywords": [
           "tesla"
         ],
-        "category": "ev_autonomous"
-      },
-      {
-        "title": "Nearly a Decade Later, the Electric Tesla Semi Is Here",
-        "link": "https://www.wired.com/story/tesla-semi/",
-        "description": "A Nevada event aimed at a niche audience of fleet managers could mark a milestone in clean transportation.",
-        "published": "2026-09-25T09:15:00.000Z",
-        "source": "Wired",
-        "sourceKey": "wired",
-        "priority": 2,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "tesla"
-        ],
-        "category": "ev_autonomous"
-      },
-      {
-        "title": "Apple shares video highlighting new child safety features across its devices",
-        "link": "https://9to5mac.com/2026/09/24/apple-shares-video-highlighting-new-child-safety-features-across-its-devices/",
-        "description": "Apple’s YouTube channel shared a video today showcasing how parents can manage the new and existing features of Apple’s Child Accounts. Watch it below.\nmore…",
-        "published": "2026-09-25T01:17:50.000Z",
-        "source": "9to5Mac",
-        "sourceKey": "9to5mac",
-        "priority": 2,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-child-safery.jpg?quality=82&#038;strip=all&#038;w=1600",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "ev_autonomous"
+        "category": "ev_autonomous",
+        "baseScore": 5,
+        "alsoIn": [
+          {
+            "source": "Wired",
+            "title": "Nearly a Decade Later, the Electric Tesla Semi Is Here",
+            "link": "https://www.wired.com/story/tesla-semi/"
+          }
+        ]
       }
     ],
     "space": [
@@ -534,10 +514,11 @@
           "satellite",
           "billion"
         ],
-        "category": "space"
+        "category": "space",
+        "baseScore": 7
       },
       {
-        "title": " Google's orbital AI data center test packs four TPUs and 1,000W of solar power ",
+        "title": "Google's orbital AI data center test packs four TPUs and 1,000W of solar power",
         "link": "https://www.tomshardware.com/tech-industry/data-centers/google-is-blasting-an-experimental-ai-data-center-into-orbit-first-satellite-will-feature-just-four-tensor-processing-units",
         "description": "Google will launch an experimental satellite into orbit on October 1, taking four tensor processing units with it.",
         "published": "2026-09-25T10:00:00.000Z",
@@ -552,7 +533,8 @@
           "tpu",
           "satellite"
         ],
-        "category": "space"
+        "category": "space",
+        "baseScore": 7
       },
       {
         "title": "SpaceX Starship's first orbital flight test on track after successful launch rehearsal",
@@ -568,44 +550,94 @@
           "spacex",
           "starship"
         ],
-        "category": "space"
+        "category": "space",
+        "baseScore": 5
       }
     ],
-    "chips_cloud": [
+    "other": [
       {
-        "title": " Nvidia DLSS 5 power draw hits 647W as power connector runs hotter than the GPU die, upscales frame rates and flame temps on 16-pin ",
-        "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-dlss-5-upscales-frame-rates-and-flame-temps-on-16-pin-power-connector-ai-gaming-tech-pushes-connector-to-uncomfortable-thermal-and-power-limits",
-        "description": "QuasarZone tests show the 16-pin power connector on a GeForce RTX 5090 reaches temperatures above 90 degrees Celsius at peak power consumption near 650W.",
-        "published": "2026-09-25T10:30:00.000Z",
-        "source": "Tom's Hardware",
-        "sourceKey": "tomshardware",
+        "title": "Amazon sellers watch as inventory vanishes into pending-order purgatory",
+        "link": "https://www.theregister.com/channel/2026/09/25/amazon-sellers-watch-as-inventory-vanishes-into-pending-order-purgatory/5298922",
+        "description": "High-value goods remain tied up as merchants debate attack or platform glitch",
+        "published": "2026-09-25T11:13:00.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
         "priority": 2,
-        "image": "https://cdn.mos.cms.futurecdn.net/zSDbAK6zJvGgD5vmjfWw3m-1920-80.jpg",
-        "relevanceScore": 5,
+        "image": "https://image.theregister.com/?imageId=227988&width=800",
+        "relevanceScore": 4,
         "matchedKeywords": [
-          "nvidia",
-          "gpu"
+          "amazon"
         ],
-        "category": "chips_cloud"
+        "category": "other",
+        "baseScore": 4
       },
       {
-        "title": "India Seeks Comfort on Tata’s $14 Billion Chip Plans Amid Boardroom Battle",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-25/india-seeks-comfort-on-tata-s-14-billion-chip-plans-amid-boardroom-battle",
-        "description": "India’s government sought and received reassurances from the Tata Group that its $14 billion semiconductor and electronics projects will continue as planned, even as a courtroom battle looms over a leadership dispute at the conglomerate’s holding company.",
-        "published": "2026-09-25T08:19:27.000Z",
+        "title": "Former NSC China Director on Trump-Xi Summit",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-25/former-nsc-china-director-on-trump-xi-summit-video",
+        "description": "Liza Tobin, Former China Director at the US National Security Council and Managing Director of Garnaut Global, discusses her expectations and takeaways from the summit between Presidents Trump and Xi. She speaks with Haidi Stroud Watts on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
+        "published": "2026-09-25T03:08:46.000Z",
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
+        "relevanceScore": 1,
+        "matchedKeywords": [],
+        "category": "other",
+        "baseScore": 1
+      }
+    ],
+    "business": [
+      {
+        "title": "Apple shares video highlighting new child safety features across its devices",
+        "link": "https://9to5mac.com/2026/09/24/apple-shares-video-highlighting-new-child-safety-features-across-its-devices/",
+        "description": "Apple’s YouTube channel shared a video today showcasing how parents can manage the new and existing features of Apple’s Child Accounts. Watch it below. more…",
+        "published": "2026-09-25T01:17:50.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-child-safery.jpg?quality=82&#038;strip=all&#038;w=1600",
         "relevanceScore": 4,
         "matchedKeywords": [
-          "semiconductor",
-          "chip",
-          "billion"
+          "apple"
         ],
-        "category": "chips_cloud"
+        "category": "business",
+        "baseScore": 4
+      }
+    ],
+    "devices": [
+      {
+        "title": "‘Knife Edge: Chasing Michelin Stars’ season 2 premieres on Apple TV",
+        "link": "https://9to5mac.com/2026/09/24/knife-edge-chasing-michelin-stars-season-2-premieres-on-apple-tv/",
+        "description": "“Knife Edge: Chasing Michelin Stars,” Apple TV’s docuseries about the pursuit of the culinary world’s highest honors, is back. Here are the details. more…",
+        "published": "2026-09-25T01:00:44.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/knife-edge.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices",
+        "baseScore": 4
+      },
+      {
+        "title": "Create a Custom Pass in the Wallet App on iPhone",
+        "link": "https://www.macrumors.com/how-to/create-a-custom-pass-in-the-wallet-app-on-iphone/",
+        "description": "In iOS 27, Apple's Wallet app lets you create custom passes for things like event tickets, gift cards, loyalty cards, and more. Here's how it works. If you have a ticket for an event and there's not a digital version available for the Wallet app, you can create one using the physical pass you have. The same goes for other cards, like a membership card, for example. The Wallet app can use ‌Visual Intelligence‌ to scan your card, and it will match it to a template with corresponding fields that yo",
+        "published": "2026-09-25T10:44:22.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/09/wallet-app-create-a-pass.jpeg",
+        "relevanceScore": 2,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices",
+        "baseScore": 2
       }
     ]
   },
-  "totalArticles": 28
+  "totalArticles": 25
 }

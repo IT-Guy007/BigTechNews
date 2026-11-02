@@ -15,15 +15,15 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 16,
+      "relevanceScore": 14,
       "matchedKeywords": [
         "openai",
-        "intel",
         "softbank",
-        "artificial intelligence",
-        "billion"
+        "billion",
+        "artificial intelligence"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 14
     },
     {
       "title": "Odd Lots: Google’s Liz Reid on Search in an AI World (Podcast)",
@@ -34,52 +34,44 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 15,
+      "relevanceScore": 12,
       "matchedKeywords": [
         "google",
         "chatgpt",
         "claude",
         "gemini",
-        "large language model"
+        "large language model",
+        "ai model"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 12,
+      "alsoIn": [
+        {
+          "source": "Bloomberg",
+          "title": "Google's Liz Reid on Who Will Own Search in a World of AI",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-23/google-vp-liz-reid-on-gemini-search-and-ai-slop"
+        }
+      ]
     },
     {
-      "title": "Tesla pushes Optimus V3 reveal later this year – again",
-      "link": "https://electrek.co/2026/04/22/tesla-optimus-production-fremont-model-sx-line/",
-      "description": "During Tesla’s Q1 2026 earnings call today, CEO Elon Musk confirmed that Optimus robot production will begin at Fremont in late July or August — just four months after the last Model S and X roll off the line in early May.\nMusk warned, however, that initial output will be “quite slow,” calling it “literally impossible to predict” the production rate this year given Optimus has 10,000 unique parts across an entirely new production line.\nmore…",
-      "published": "2026-04-23T00:15:59.000Z",
-      "source": "Electrek",
-      "sourceKey": "electrek",
-      "priority": 2,
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2024/01/Tesla-Bot-Optimus-hero.webp?w=1500",
+      "title": "TSMC Says ASML’s Latest Chipmaking Gear Is Too Pricey",
+      "link": "https://www.bloomberg.com/news/videos/2026-04-23/tsmc-says-asml-s-latest-chipmaking-gear-is-too-pricey-video",
+      "description": "Taiwan Semiconductor Manufacturing Co. will hold off on deploying ASML Holding NV’s most cutting-edge lithography machines for chip production through 2029 to save money. The chipmaker has no plans to adopt ASML’s latest high numerical aperture extreme ultraviolet lithography machines, or high-NA EUV, which fetch upwards of €350 million ($410 million) apiece. TSMC is ASML’s largest customer, according to Bloomberg’s supply chain data. Bloomberg’s Neil Campling reports.",
+      "published": "2026-04-23T05:51:37.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
       "relevanceScore": 12,
       "matchedKeywords": [
-        "tesla",
-        "ceo",
-        "elon musk",
-        "tpu",
-        "optimus"
+        "tsmc",
+        "asml",
+        "semiconductor",
+        "chip",
+        "chipmaker"
       ],
-      "category": "robotics"
-    },
-    {
-      "title": "Tesla confirms Cybercab production has started despite delays in unsupervised driving",
-      "link": "https://electrek.co/2026/04/23/tesla-cybercab-production-starts-no-nhtsa-2500-vehicle-cap/",
-      "description": "CEO Elon Musk confirmed during Tesla’s Q1 2026 earnings call that Cybercab production has officially begun at Giga Texas.\nVP of Vehicle Engineering Lars Moravy confirmed that the Cybercab will not be subject to NHTSA’s 2,500-vehicle annual production cap for autonomous vehicles.\nmore…",
-      "published": "2026-04-23T07:09:26.000Z",
-      "source": "Electrek",
-      "sourceKey": "electrek",
-      "priority": 2,
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/04/Tesla-Cybercab-production.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "relevanceScore": 11,
-      "matchedKeywords": [
-        "tesla",
-        "ceo",
-        "elon musk",
-        "autonomous vehicle"
-      ],
-      "category": "ev_autonomous"
+      "category": "chips_cloud",
+      "baseScore": 12
     },
     {
       "title": "OpenAI appears to be poaching Coinbase’s marketing team",
@@ -95,7 +87,48 @@
         "openai",
         "coinbase"
       ],
-      "category": "ai"
+      "category": "crypto",
+      "baseScore": 11
+    },
+    {
+      "title": "Tesla confirms Cybercab production has started despite delays in unsupervised driving",
+      "link": "https://electrek.co/2026/04/23/tesla-cybercab-production-starts-no-nhtsa-2500-vehicle-cap/",
+      "description": "CEO Elon Musk confirmed during Tesla’s Q1 2026 earnings call that Cybercab production has officially begun at Giga Texas. VP of Vehicle Engineering Lars Moravy confirmed that the Cybercab will not be subject to NHTSA’s 2,500-vehicle annual production cap for autonomous vehicles. more…",
+      "published": "2026-04-23T07:09:26.000Z",
+      "source": "Electrek",
+      "sourceKey": "electrek",
+      "priority": 2,
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/04/Tesla-Cybercab-production.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "relevanceScore": 10,
+      "matchedKeywords": [
+        "tesla",
+        "elon musk",
+        "autonomous vehicle",
+        "ceo",
+        "earnings"
+      ],
+      "category": "ev_autonomous",
+      "baseScore": 10
+    },
+    {
+      "title": "Tesla pushes Optimus V3 reveal later this year – again",
+      "link": "https://electrek.co/2026/04/22/tesla-optimus-production-fremont-model-sx-line/",
+      "description": "During Tesla’s Q1 2026 earnings call today, CEO Elon Musk confirmed that Optimus robot production will begin at Fremont in late July or August — just four months after the last Model S and X roll off the line in early May. Musk warned, however, that initial output will be “quite slow,” calling it “literally impossible to predict” the production rate this year given Optimus has 10,000 unique parts across an entirely new production line. more…",
+      "published": "2026-04-23T00:15:59.000Z",
+      "source": "Electrek",
+      "sourceKey": "electrek",
+      "priority": 2,
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2024/01/Tesla-Bot-Optimus-hero.webp?w=1500",
+      "relevanceScore": 10,
+      "matchedKeywords": [
+        "tesla",
+        "optimus",
+        "elon musk",
+        "ceo",
+        "earnings"
+      ],
+      "category": "robotics",
+      "baseScore": 10
     },
     {
       "title": "Meta is tracking employee keystrokes on Google, LinkedIn, Wikipedia as part of AI training initiative",
@@ -111,7 +144,8 @@
         "google",
         "meta"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 9
     },
     {
       "title": "Microsoft Commits $18 Billion to Build Australian AI Capacity",
@@ -122,64 +156,50 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 9,
+      "relevanceScore": 7,
       "matchedKeywords": [
         "microsoft",
-        "intel",
-        "artificial intelligence",
-        "billion"
+        "billion",
+        "artificial intelligence"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 7
     },
     {
-      "title": "Google's Liz Reid on Who Will Own Search in a World of AI",
-      "link": "https://www.bloomberg.com/news/articles/2026-04-23/google-vp-liz-reid-on-gemini-search-and-ai-slop",
-      "description": "Alphabet's head of search on adapting to the rise of LLMs.",
-      "published": "2026-04-23T08:00:20.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 8,
-      "matchedKeywords": [
-        "google",
-        "alphabet",
-        "llm"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": "TSMC Says ASML’s Latest Chipmaking Gear Is Too Pricey",
-      "link": "https://www.bloomberg.com/news/videos/2026-04-23/tsmc-says-asml-s-latest-chipmaking-gear-is-too-pricey-video",
-      "description": "Taiwan Semiconductor Manufacturing Co. will hold off on deploying ASML Holding NV’s most cutting-edge lithography machines for chip production through 2029 to save money. The chipmaker has no plans to adopt ASML’s latest high numerical aperture extreme ultraviolet lithography machines, or high-NA EUV, which fetch upwards of €350 million ($410 million) apiece. TSMC is ASML’s largest customer, according to Bloomberg’s supply chain data. Bloomberg’s Neil Campling reports.",
-      "published": "2026-04-23T05:51:37.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
+      "title": "FTX sold its Cursor stake for $200,000 in 2023. It would be worth $3 billion today",
+      "link": "https://www.coindesk.com/business/2026/04/23/ftx-sold-its-cursor-stake-for-usd200-000-in-2023-it-would-be-worth-usd3-billion-today",
+      "description": "SpaceX's agreement to acquire AI coding startup Cursor at a $60 billion valuation has retroactively turned a routine bankruptcy asset sale by FTX's estate into one of the largest missed recoveries in crypto history.",
+      "published": "2026-04-23T06:18:19.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "priority": 3,
       "image": null,
       "relevanceScore": 7,
       "matchedKeywords": [
-        "tsmc",
-        "semiconductor",
+        "billion",
+        "spacex",
+        "acquire",
+        "valuation"
+      ],
+      "category": "space",
+      "baseScore": 7
+    },
+    {
+      "title": "Samsung Rally Draws 30,000 to Demand Greater Share of AI Profits",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-23/samsung-rally-draws-30-000-to-demand-greater-share-of-ai-profits",
+      "description": "Tens of thousands of people gathered outside Samsung Electronics Co.’s main chip hub to demand employees get a greater share of profits reaped from the AI boom.",
+      "published": "2026-04-23T06:26:23.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 6,
+      "matchedKeywords": [
+        "samsung",
         "chip"
       ],
-      "category": "chips_cloud"
-    },
-    {
-      "title": "Leaderdrive Sees Profit Climb on Boom in Chinese Humanoid Robots",
-      "link": "https://www.bloomberg.com/news/articles/2026-04-23/leaderdrive-sees-profit-climb-on-boom-in-chinese-humanoid-robots",
-      "description": "Robotics component supplier Leader Harmonious Drive Systems Co. saw stronger profits last year and in the first quarter as demand soars for Chinese humanoid robots.",
-      "published": "2026-04-23T00:52:55.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 7,
-      "matchedKeywords": [
-        "arm",
-        "humanoid robot"
-      ],
-      "category": "robotics"
+      "category": "ai",
+      "baseScore": 6
     }
   ],
   "byCategory": {
@@ -193,15 +213,15 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 16,
+        "relevanceScore": 14,
         "matchedKeywords": [
           "openai",
-          "intel",
           "softbank",
-          "artificial intelligence",
-          "billion"
+          "billion",
+          "artificial intelligence"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 14
       },
       {
         "title": "Odd Lots: Google’s Liz Reid on Search in an AI World (Podcast)",
@@ -212,31 +232,24 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 15,
+        "relevanceScore": 12,
         "matchedKeywords": [
           "google",
           "chatgpt",
           "claude",
           "gemini",
-          "large language model"
+          "large language model",
+          "ai model"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "OpenAI appears to be poaching Coinbase’s marketing team",
-        "link": "https://www.coindesk.com/business/2026/04/23/openai-appears-to-be-poaching-coinbase-s-marketing-team",
-        "description": "Six Coinbase senior marketing executives, including the exchange's former chief marketing officer, have jumped to OpenAI in the past year and a half.",
-        "published": "2026-04-23T07:49:03.000Z",
-        "source": "CoinDesk",
-        "sourceKey": "coindesk",
-        "priority": 3,
-        "image": null,
-        "relevanceScore": 11,
-        "matchedKeywords": [
-          "openai",
-          "coinbase"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 12,
+        "alsoIn": [
+          {
+            "source": "Bloomberg",
+            "title": "Google's Liz Reid on Who Will Own Search in a World of AI",
+            "link": "https://www.bloomberg.com/news/articles/2026-04-23/google-vp-liz-reid-on-gemini-search-and-ai-slop"
+          }
+        ]
       },
       {
         "title": "Meta is tracking employee keystrokes on Google, LinkedIn, Wikipedia as part of AI training initiative",
@@ -252,7 +265,8 @@
           "google",
           "meta"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 9
       },
       {
         "title": "Microsoft Commits $18 Billion to Build Australian AI Capacity",
@@ -263,47 +277,14 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 9,
+        "relevanceScore": 7,
         "matchedKeywords": [
           "microsoft",
-          "intel",
-          "artificial intelligence",
-          "billion"
+          "billion",
+          "artificial intelligence"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "Google's Liz Reid on Who Will Own Search in a World of AI",
-        "link": "https://www.bloomberg.com/news/articles/2026-04-23/google-vp-liz-reid-on-gemini-search-and-ai-slop",
-        "description": "Alphabet's head of search on adapting to the rise of LLMs.",
-        "published": "2026-04-23T08:00:20.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 8,
-        "matchedKeywords": [
-          "google",
-          "alphabet",
-          "llm"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Microsoft expands AI footprint in Australia with $18 billion investment",
-        "link": "https://www.cnbc.com/2026/04/23/microsoft-expands-ai-footprint-in-australia-with-18-billion-investment.html",
-        "description": "Microsoft announced a new A$25 billion ($18 billion) investment into Australia's digital infrastructure on Thursday, spanning cybersecurity and AI development.",
-        "published": "2026-04-23T06:20:21.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 6,
-        "matchedKeywords": [
-          "microsoft",
-          "billion"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 7
       },
       {
         "title": "Samsung Rally Draws 30,000 to Demand Greater Share of AI Profits",
@@ -319,7 +300,25 @@
           "samsung",
           "chip"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 6
+      },
+      {
+        "title": "Microsoft expands AI footprint in Australia with $18 billion investment",
+        "link": "https://www.cnbc.com/2026/04/23/microsoft-expands-ai-footprint-in-australia-with-18-billion-investment.html",
+        "description": "Microsoft announced a new A$25 billion ($18 billion) investment into Australia's digital infrastructure on Thursday, spanning cybersecurity and AI development.",
+        "published": "2026-04-23T06:20:21.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "microsoft",
+          "billion"
+        ],
+        "category": "ai",
+        "baseScore": 6
       },
       {
         "title": "Taiwan Banks to Build Own AI Model to Rival Global Giants",
@@ -330,12 +329,14 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 6,
+        "relevanceScore": 4,
         "matchedKeywords": [
-          "regulation",
-          "large language model"
+          "ai model",
+          "large language model",
+          "regulation"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 4
       },
       {
         "title": "Nokia Earnings Beat Estimates as AI Pivot Shows Promise",
@@ -346,12 +347,13 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 3,
         "matchedKeywords": [
-          "intel",
+          "earnings",
           "artificial intelligence"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 3
       },
       {
         "title": "Australia’s Biggest Bank to Cut 120 More Jobs Amid AI Push",
@@ -362,12 +364,12 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 2,
         "matchedKeywords": [
-          "intel",
           "artificial intelligence"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 2
       },
       {
         "title": "Boston Consulting Group Says AI Work Brought 25% of 2025 Revenue",
@@ -378,12 +380,12 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 2,
         "matchedKeywords": [
-          "intel",
           "artificial intelligence"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 2
       },
       {
         "title": "AI Boom Sparks Rush Into Chinese Optical Stocks as Top Trade",
@@ -394,130 +396,12 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 2,
         "matchedKeywords": [
-          "intel",
           "artificial intelligence"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "Kubernetes explains the release that kills Ingress NGINX with Japanese poetry and art",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/kubernetes_1_36_haru/",
-        "description": "",
-        "published": "2026-04-23T01:44:41.000Z",
-        "source": "The Register",
-        "sourceKey": "theregister",
-        "priority": 2,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "uber"
-        ],
-        "category": "ai"
-      }
-    ],
-    "robotics": [
-      {
-        "title": "Tesla pushes Optimus V3 reveal later this year – again",
-        "link": "https://electrek.co/2026/04/22/tesla-optimus-production-fremont-model-sx-line/",
-        "description": "During Tesla’s Q1 2026 earnings call today, CEO Elon Musk confirmed that Optimus robot production will begin at Fremont in late July or August — just four months after the last Model S and X roll off the line in early May.\nMusk warned, however, that initial output will be “quite slow,” calling it “literally impossible to predict” the production rate this year given Optimus has 10,000 unique parts across an entirely new production line.\nmore…",
-        "published": "2026-04-23T00:15:59.000Z",
-        "source": "Electrek",
-        "sourceKey": "electrek",
-        "priority": 2,
-        "image": "https://electrek.co/wp-content/uploads/sites/3/2024/01/Tesla-Bot-Optimus-hero.webp?w=1500",
-        "relevanceScore": 12,
-        "matchedKeywords": [
-          "tesla",
-          "ceo",
-          "elon musk",
-          "tpu",
-          "optimus"
-        ],
-        "category": "robotics"
-      },
-      {
-        "title": "Leaderdrive Sees Profit Climb on Boom in Chinese Humanoid Robots",
-        "link": "https://www.bloomberg.com/news/articles/2026-04-23/leaderdrive-sees-profit-climb-on-boom-in-chinese-humanoid-robots",
-        "description": "Robotics component supplier Leader Harmonious Drive Systems Co. saw stronger profits last year and in the first quarter as demand soars for Chinese humanoid robots.",
-        "published": "2026-04-23T00:52:55.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "arm",
-          "humanoid robot"
-        ],
-        "category": "robotics"
-      }
-    ],
-    "ev_autonomous": [
-      {
-        "title": "Tesla confirms Cybercab production has started despite delays in unsupervised driving",
-        "link": "https://electrek.co/2026/04/23/tesla-cybercab-production-starts-no-nhtsa-2500-vehicle-cap/",
-        "description": "CEO Elon Musk confirmed during Tesla’s Q1 2026 earnings call that Cybercab production has officially begun at Giga Texas.\nVP of Vehicle Engineering Lars Moravy confirmed that the Cybercab will not be subject to NHTSA’s 2,500-vehicle annual production cap for autonomous vehicles.\nmore…",
-        "published": "2026-04-23T07:09:26.000Z",
-        "source": "Electrek",
-        "sourceKey": "electrek",
-        "priority": 2,
-        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/04/Tesla-Cybercab-production.jpeg?quality=82&#038;strip=all&#038;w=1600",
-        "relevanceScore": 11,
-        "matchedKeywords": [
-          "tesla",
-          "ceo",
-          "elon musk",
-          "autonomous vehicle"
-        ],
-        "category": "ev_autonomous"
-      },
-      {
-        "title": "Tesla misses on revenue but beats on profit as auto margins jump",
-        "link": "https://www.cnbc.com/2026/04/22/tesla-tsla-q1-2026-earnings-report.html",
-        "description": "Tesla's stock has underperformed all of its megacap peers so far this year as global competition ramps up in the electric vehicle market.",
-        "published": "2026-04-23T01:19:59.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "tesla"
-        ],
-        "category": "ev_autonomous"
-      },
-      {
-        "title": "Tesla Delays Debut of Advanced Driver-Assist Tech in China Again",
-        "link": "https://www.bloomberg.com/news/articles/2026-04-23/tesla-delays-debut-of-advanced-driver-assist-tech-in-china-again",
-        "description": "Tesla Inc. pushed back the roll-out of its most advanced driver-assistance features in China, reflecting regulators’ caution in the world’s largest automobile market over the rapidly evolving technology.",
-        "published": "2026-04-23T03:54:28.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "tesla"
-        ],
-        "category": "ev_autonomous"
-      },
-      {
-        "title": "Goldman Sachs Says Prolonged War 'Will Hit Europe'",
-        "link": "https://www.bloomberg.com/news/videos/2026-04-23/goldman-sachs-says-prolonged-war-will-hit-europe-video",
-        "description": "Sharon Bell, senior European equity strategist at Goldman Sachs, discusses the corporate earnings season, the artificial intelligence buildout and the potential impact of a drawn-out Middle East war on Europe's economies. She speaks on Bloomberg Television. (Source: Bloomberg)",
-        "published": "2026-04-23T07:30:57.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "intel",
-          "artificial intelligence"
-        ],
-        "category": "ev_autonomous"
+        "category": "ai",
+        "baseScore": 2
       }
     ],
     "chips_cloud": [
@@ -530,13 +414,16 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 7,
+        "relevanceScore": 12,
         "matchedKeywords": [
           "tsmc",
+          "asml",
           "semiconductor",
-          "chip"
+          "chip",
+          "chipmaker"
         ],
-        "category": "chips_cloud"
+        "category": "chips_cloud",
+        "baseScore": 12
       },
       {
         "title": "Sinking TSMC ADR Premium Offers Trading Window, UBS Desk Says",
@@ -552,25 +439,123 @@
           "tsmc",
           "semiconductor"
         ],
-        "category": "chips_cloud"
+        "category": "chips_cloud",
+        "baseScore": 6
       }
     ],
-    "business": [
+    "crypto": [
       {
-        "title": "CEO of Southeast Asia’s largest bank shares what keeps her up at night",
-        "link": "https://www.cnbc.com/2026/04/22/dbs-ceo-tan-su-shan-cyber-threats-are-keeping-her-up-at-night.html",
-        "description": "For DBS CEO Tan Su Shan, the biggest risk keeping her up at night is not just market volatility or geopolitical shocks, but cyberattacks.",
-        "published": "2026-04-23T01:22:58.000Z",
+        "title": "OpenAI appears to be poaching Coinbase’s marketing team",
+        "link": "https://www.coindesk.com/business/2026/04/23/openai-appears-to-be-poaching-coinbase-s-marketing-team",
+        "description": "Six Coinbase senior marketing executives, including the exchange's former chief marketing officer, have jumped to OpenAI in the past year and a half.",
+        "published": "2026-04-23T07:49:03.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "openai",
+          "coinbase"
+        ],
+        "category": "crypto",
+        "baseScore": 11
+      }
+    ],
+    "ev_autonomous": [
+      {
+        "title": "Tesla confirms Cybercab production has started despite delays in unsupervised driving",
+        "link": "https://electrek.co/2026/04/23/tesla-cybercab-production-starts-no-nhtsa-2500-vehicle-cap/",
+        "description": "CEO Elon Musk confirmed during Tesla’s Q1 2026 earnings call that Cybercab production has officially begun at Giga Texas. VP of Vehicle Engineering Lars Moravy confirmed that the Cybercab will not be subject to NHTSA’s 2,500-vehicle annual production cap for autonomous vehicles. more…",
+        "published": "2026-04-23T07:09:26.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/04/Tesla-Cybercab-production.jpeg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "tesla",
+          "elon musk",
+          "autonomous vehicle",
+          "ceo",
+          "earnings"
+        ],
+        "category": "ev_autonomous",
+        "baseScore": 10
+      },
+      {
+        "title": "Tesla Delays Debut of Advanced Driver-Assist Tech in China Again",
+        "link": "https://www.bloomberg.com/news/articles/2026-04-23/tesla-delays-debut-of-advanced-driver-assist-tech-in-china-again",
+        "description": "Tesla Inc. pushed back the roll-out of its most advanced driver-assistance features in China, reflecting regulators’ caution in the world’s largest automobile market over the rapidly evolving technology.",
+        "published": "2026-04-23T03:54:28.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "tesla"
+        ],
+        "category": "ev_autonomous",
+        "baseScore": 5
+      },
+      {
+        "title": "Tesla misses on revenue but beats on profit as auto margins jump",
+        "link": "https://www.cnbc.com/2026/04/22/tesla-tsla-q1-2026-earnings-report.html",
+        "description": "Tesla's stock has underperformed all of its megacap peers so far this year as global competition ramps up in the electric vehicle market.",
+        "published": "2026-04-23T01:19:59.000Z",
         "source": "CNBC",
         "sourceKey": "cnbc_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 5,
         "matchedKeywords": [
-          "ceo"
+          "tesla"
         ],
-        "category": "business"
+        "category": "ev_autonomous",
+        "baseScore": 5
+      }
+    ],
+    "robotics": [
+      {
+        "title": "Tesla pushes Optimus V3 reveal later this year – again",
+        "link": "https://electrek.co/2026/04/22/tesla-optimus-production-fremont-model-sx-line/",
+        "description": "During Tesla’s Q1 2026 earnings call today, CEO Elon Musk confirmed that Optimus robot production will begin at Fremont in late July or August — just four months after the last Model S and X roll off the line in early May. Musk warned, however, that initial output will be “quite slow,” calling it “literally impossible to predict” the production rate this year given Optimus has 10,000 unique parts across an entirely new production line. more…",
+        "published": "2026-04-23T00:15:59.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2024/01/Tesla-Bot-Optimus-hero.webp?w=1500",
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "tesla",
+          "optimus",
+          "elon musk",
+          "ceo",
+          "earnings"
+        ],
+        "category": "robotics",
+        "baseScore": 10
       },
+      {
+        "title": "Leaderdrive Sees Profit Climb on Boom in Chinese Humanoid Robots",
+        "link": "https://www.bloomberg.com/news/articles/2026-04-23/leaderdrive-sees-profit-climb-on-boom-in-chinese-humanoid-robots",
+        "description": "Robotics component supplier Leader Harmonious Drive Systems Co. saw stronger profits last year and in the first quarter as demand soars for Chinese humanoid robots.",
+        "published": "2026-04-23T00:52:55.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "humanoid robot",
+          "humanoid"
+        ],
+        "category": "robotics",
+        "baseScore": 5
+      }
+    ],
+    "space": [
       {
         "title": "FTX sold its Cursor stake for $200,000 in 2023. It would be worth $3 billion today",
         "link": "https://www.coindesk.com/business/2026/04/23/ftx-sold-its-cursor-stake-for-usd200-000-in-2023-it-would-be-worth-usd3-billion-today",
@@ -580,15 +565,68 @@
         "sourceKey": "coindesk",
         "priority": 3,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 7,
         "matchedKeywords": [
-          "spacex",
           "billion",
+          "spacex",
+          "acquire",
           "valuation"
         ],
-        "category": "business"
+        "category": "space",
+        "baseScore": 7
+      }
+    ],
+    "business": [
+      {
+        "title": "Goldman Sachs Says Prolonged War 'Will Hit Europe'",
+        "link": "https://www.bloomberg.com/news/videos/2026-04-23/goldman-sachs-says-prolonged-war-will-hit-europe-video",
+        "description": "Sharon Bell, senior European equity strategist at Goldman Sachs, discusses the corporate earnings season, the artificial intelligence buildout and the potential impact of a drawn-out Middle East war on Europe's economies. She speaks on Bloomberg Television. (Source: Bloomberg)",
+        "published": "2026-04-23T07:30:57.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "artificial intelligence",
+          "earnings"
+        ],
+        "category": "business",
+        "baseScore": 3
+      },
+      {
+        "title": "CEO of Southeast Asia’s largest bank shares what keeps her up at night",
+        "link": "https://www.cnbc.com/2026/04/22/dbs-ceo-tan-su-shan-cyber-threats-are-keeping-her-up-at-night.html",
+        "description": "For DBS CEO Tan Su Shan, the biggest risk keeping her up at night is not just market volatility or geopolitical shocks, but cyberattacks.",
+        "published": "2026-04-23T01:22:58.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 2,
+        "matchedKeywords": [
+          "ceo"
+        ],
+        "category": "business",
+        "baseScore": 2
+      }
+    ],
+    "other": [
+      {
+        "title": "Kubernetes explains the release that kills Ingress NGINX with Japanese poetry and art",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/kubernetes_1_36_haru/",
+        "description": "",
+        "published": "2026-04-23T01:44:41.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 0,
+        "matchedKeywords": [],
+        "category": "other",
+        "baseScore": 0
       }
     ]
   },
-  "totalArticles": 24
+  "totalArticles": 23
 }

@@ -15,15 +15,15 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 15,
+      "relevanceScore": 12,
       "matchedKeywords": [
         "spacex",
-        "intel",
         "ipo",
         "elon musk",
         "artificial intelligence"
       ],
-      "category": "ai"
+      "category": "space",
+      "baseScore": 12
     },
     {
       "title": "How Elon Musk and Sam Altman went from besties to bitter rivals",
@@ -34,48 +34,14 @@
       "sourceKey": "cnbc_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 13,
+      "relevanceScore": 12,
       "matchedKeywords": [
-        "openai",
         "sam altman",
         "elon musk",
-        "billion"
+        "openai"
       ],
-      "category": "ai"
-    },
-    {
-      "title": "HYPE pops 7%, beating bitcoin declines, as SpaceX pre-IPO lands on Hyperliquid",
-      "link": "https://www.coindesk.com/markets/2026/05/18/hype-pops-7-beating-bitcoin-declines-as-spacex-pre-ipo-lands-on-hyperliquid",
-      "description": "Hyperliquid's HYPE token rallied 7% over 24 hours after Trade.xyz launched the first pre-IPO perpetual market on the platform, offering synthetic exposure to SpaceX at a reference valuation of $1.78 trillion.",
-      "published": "2026-05-18T05:01:11.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "priority": 3,
-      "image": null,
-      "relevanceScore": 10,
-      "matchedKeywords": [
-        "spacex",
-        "ipo",
-        "valuation",
-        "bitcoin"
-      ],
-      "category": "space"
-    },
-    {
-      "title": "DraftKings, Meta, AI Firms Have a New Election Playbook: Flood State-Level Races With Cash",
-      "link": "https://www.bloomberg.com/news/features/2026-05-18/draftkings-meta-andreessen-horowitz-give-millions-to-influence-state-elections",
-      "description": "With Congress largely stalemated, companies turn to states to gain leverage over regulations.",
-      "published": "2026-05-18T09:30:15.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "meta",
-        "regulation"
-      ],
-      "category": "regulation"
+      "category": "regulation",
+      "baseScore": 12
     },
     {
       "title": "Baidu AI Sales Eclipse Waning Legacy Ads for the First Time",
@@ -86,12 +52,33 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 8,
+      "relevanceScore": 10,
       "matchedKeywords": [
         "baidu",
+        "alibaba",
         "chatgpt"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 10
+    },
+    {
+      "title": "HYPE pops 7%, beating bitcoin declines, as SpaceX pre-IPO lands on Hyperliquid",
+      "link": "https://www.coindesk.com/markets/2026/05/18/hype-pops-7-beating-bitcoin-declines-as-spacex-pre-ipo-lands-on-hyperliquid",
+      "description": "Hyperliquid's HYPE token rallied 7% over 24 hours after Trade.xyz launched the first pre-IPO perpetual market on the platform, offering synthetic exposure to SpaceX at a reference valuation of $1.78 trillion.",
+      "published": "2026-05-18T05:01:11.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "priority": 3,
+      "image": null,
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "spacex",
+        "ipo",
+        "bitcoin",
+        "valuation"
+      ],
+      "category": "business",
+      "baseScore": 9
     },
     {
       "title": "Elon Musk Really Needs Starship to Work This Time",
@@ -104,27 +91,47 @@
       "image": null,
       "relevanceScore": 7,
       "matchedKeywords": [
-        "spacex",
         "elon musk",
-        "starship"
+        "starship",
+        "spacex"
       ],
-      "category": "space"
+      "category": "space",
+      "baseScore": 7
     },
     {
-      "title": "Crypto security is turning into an AI arms race as agents may overwhelm compliance teams",
-      "link": "https://www.coindesk.com/tech/2026/05/18/crypto-security-is-turning-into-an-ai-arms-race-as-agents-may-overwhelm-compliance-teams",
-      "description": "AI agents and automated payments could reach a scale that crypto monitoring systems built for human-paced markets cannot handle, Elliptic CEO Simone Maini warned.",
-      "published": "2026-05-18T07:13:08.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "priority": 3,
+      "title": "DraftKings, Meta, AI Firms Have a New Election Playbook: Flood State-Level Races With Cash",
+      "link": "https://www.bloomberg.com/news/features/2026-05-18/draftkings-meta-andreessen-horowitz-give-millions-to-influence-state-elections",
+      "description": "With Congress largely stalemated, companies turn to states to gain leverage over regulations.",
+      "published": "2026-05-18T09:30:15.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
       "image": null,
-      "relevanceScore": 7,
+      "relevanceScore": 6,
       "matchedKeywords": [
-        "arm",
-        "ceo"
+        "meta",
+        "regulation"
       ],
-      "category": "ai"
+      "category": "regulation",
+      "baseScore": 6
+    },
+    {
+      "title": "Chipmaker CXMT Reports Eightfold Jump in Sales on Path to IPO",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-18/chipmaker-cxmt-reports-eightfold-jump-in-sales-on-path-to-ipo",
+      "description": "ChangXin Memory Technologies Inc. reported soaring revenue and profit in the first quarter and forecast higher earnings ahead, bolstering its financials ahead of a high-profile initial public offering later this year.",
+      "published": "2026-05-18T03:03:32.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 6,
+      "matchedKeywords": [
+        "ipo",
+        "chipmaker",
+        "earnings"
+      ],
+      "category": "business",
+      "baseScore": 6
     },
     {
       "title": "Samsung Shares Jump After High-Stakes Labor Talks Resume",
@@ -140,26 +147,11 @@
         "samsung",
         "chip"
       ],
-      "category": "ai"
+      "category": "business",
+      "baseScore": 6
     },
     {
-      "title": "Chipmaker CXMT Reports Eightfold Jump in Sales on Path to IPO",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-18/chipmaker-cxmt-reports-eightfold-jump-in-sales-on-path-to-ipo",
-      "description": "ChangXin Memory Technologies Inc. reported soaring revenue and profit in the first quarter and forecast higher earnings ahead, bolstering its financials ahead of a high-profile initial public offering later this year.",
-      "published": "2026-05-18T03:03:32.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 6,
-      "matchedKeywords": [
-        "ipo",
-        "chip"
-      ],
-      "category": "business"
-    },
-    {
-      "title": " Samsung meeting transcripts show memory workers offered incredible 607% bonus worth $477,000, while logic chip staff get as little as 50% — union says misbalance 'creates a retention crisis the company cannot afford' ",
+      "title": "Samsung meeting transcripts show memory workers offered incredible 607% bonus worth $477,000, while logic chip staff get as little as 50% — union says misbalance 'creates a retention crisis the company cannot afford'",
       "link": "https://www.tomshardware.com/tech-industry/leaked-samsung-meeting-transcripts-show-memory-workers-offered-607-percent-bonus",
       "description": "Internal Samsung wage negotiation transcripts show the company proposed bonuses of 607% of annual salary for its memory chip division in March,",
       "published": "2026-05-18T10:00:00.000Z",
@@ -172,11 +164,29 @@
         "samsung",
         "chip"
       ],
-      "category": "ev_autonomous"
+      "category": "chips_cloud",
+      "baseScore": 5
+    },
+    {
+      "title": "Fed minutes, Meta stablecoin Senate deadline: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/05/18/fed-minutes-meta-stablecoin-senate-deadline-crypto-week-ahead",
+      "description": "Your look at what's coming in the week starting May 18.",
+      "published": "2026-05-18T10:36:34.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "priority": 3,
+      "image": null,
+      "relevanceScore": 5,
+      "matchedKeywords": [
+        "meta",
+        "stablecoin"
+      ],
+      "category": "crypto",
+      "baseScore": 5
     }
   ],
   "byCategory": {
-    "ai": [
+    "space": [
       {
         "title": "Elon Musk Says He Wants to Get SpaceX IPO Underway ‘Pretty Soon’",
         "link": "https://www.bloomberg.com/news/articles/2026-05-18/elon-musk-says-he-wants-to-get-spacex-ipo-underway-pretty-soon",
@@ -186,16 +196,36 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 15,
+        "relevanceScore": 12,
         "matchedKeywords": [
           "spacex",
-          "intel",
           "ipo",
           "elon musk",
           "artificial intelligence"
         ],
-        "category": "ai"
+        "category": "space",
+        "baseScore": 12
       },
+      {
+        "title": "Elon Musk Really Needs Starship to Work This Time",
+        "link": "https://www.bloomberg.com/news/articles/2026-05-18/spacex-needs-starship-v3-launch-to-deliver-ahead-of-planned-ipo",
+        "description": "With the V3 launch, SpaceX hopes to prove that the massive vehicle it’s betting everything on will perform as advertised.",
+        "published": "2026-05-18T09:30:11.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "elon musk",
+          "starship",
+          "spacex"
+        ],
+        "category": "space",
+        "baseScore": 7
+      }
+    ],
+    "regulation": [
       {
         "title": "How Elon Musk and Sam Altman went from besties to bitter rivals",
         "link": "https://www.cnbc.com/2026/05/18/how-elon-musk-and-sam-altman-went-from-besties-to-bitter-rivals.html",
@@ -205,15 +235,50 @@
         "sourceKey": "cnbc_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 13,
+        "relevanceScore": 12,
         "matchedKeywords": [
-          "openai",
           "sam altman",
           "elon musk",
-          "billion"
+          "openai"
         ],
-        "category": "ai"
+        "category": "regulation",
+        "baseScore": 12
       },
+      {
+        "title": "DraftKings, Meta, AI Firms Have a New Election Playbook: Flood State-Level Races With Cash",
+        "link": "https://www.bloomberg.com/news/features/2026-05-18/draftkings-meta-andreessen-horowitz-give-millions-to-influence-state-elections",
+        "description": "With Congress largely stalemated, companies turn to states to gain leverage over regulations.",
+        "published": "2026-05-18T09:30:15.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "meta",
+          "regulation"
+        ],
+        "category": "regulation",
+        "baseScore": 6
+      },
+      {
+        "title": "Samsung granted court injunction against imminent strike action in last-minute reprieve — talks resume as unions barred from occupying or locking facilities, obstructing workers",
+        "link": "https://www.tomshardware.com/tech-industry/samsung-granted-court-injunction-against-imminent-strike-action-in-last-minute-reprieve-talks-resume-as-unions-barred-from-occupying-or-locking-facilities-obstructing-workers",
+        "description": "Samsung has been granted an injunction to limit the scope of planned strike action ahead of an 18-day walkout due to start on Thursday.",
+        "published": "2026-05-18T10:06:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/8H6RKLjKhtRhVW9eXe5DD9-1280-80.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "samsung"
+        ],
+        "category": "regulation",
+        "baseScore": 4
+      }
+    ],
+    "ai": [
       {
         "title": "Baidu AI Sales Eclipse Waning Legacy Ads for the First Time",
         "link": "https://www.bloomberg.com/news/articles/2026-05-18/baidu-tops-sales-estimates-in-endorsement-of-agentic-ai-pivot",
@@ -223,12 +288,62 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 8,
+        "relevanceScore": 10,
         "matchedKeywords": [
           "baidu",
+          "alibaba",
           "chatgpt"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 10
+      },
+      {
+        "title": "Google tells database devs to lean hard on AI for PostgreSQL work",
+        "link": "https://www.theregister.com/databases/2026/05/18/google-tells-database-devs-to-lean-hard-on-ai-for-postgresql-work/5238070",
+        "description": "Cloud giant says humans remain accountable, even when code gets an assist from the machines",
+        "published": "2026-05-18T09:15:00.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=5238106&width=800",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "ai",
+        "baseScore": 4
+      },
+      {
+        "title": "I’m a Normie. Can Normies Really Vibe Code?",
+        "link": "https://www.wired.com/story/normie-vibe-code/",
+        "description": "Apparently anyone can vibe code anything these days. So Claude and I tried to make a database for tracking the petty grievances of the masses.",
+        "published": "2026-05-18T10:00:00.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "claude"
+        ],
+        "category": "ai",
+        "baseScore": 3
+      },
+      {
+        "title": "US, Philippines Moving ‘Very Quickly’ on 4,000-Acre AI Hub Plan",
+        "link": "https://www.bloomberg.com/news/articles/2026-05-18/us-philippines-moving-very-quickly-on-4-000-acre-ai-hub-plan",
+        "description": "The US and the Philippines are moving “very, very quickly” on a planned artificial intelligence and supply chain hub in the Southeast Asian nation, a top US official said, as Washington seeks long-term protection for American investors.",
+        "published": "2026-05-18T09:24:40.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 2,
+        "matchedKeywords": [
+          "artificial intelligence"
+        ],
+        "category": "ai",
+        "baseScore": 2
       },
       {
         "title": "Crypto security is turning into an AI arms race as agents may overwhelm compliance teams",
@@ -239,12 +354,66 @@
         "sourceKey": "coindesk",
         "priority": 3,
         "image": null,
-        "relevanceScore": 7,
+        "relevanceScore": 2,
         "matchedKeywords": [
-          "arm",
+          "ai agent",
           "ceo"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 2
+      },
+      {
+        "title": "Can AI Drug Development Live Up to the Hype?",
+        "link": "https://www.bloomberg.com/news/articles/2026-05-18/can-ai-drug-development-live-up-to-the-hype",
+        "description": "Big Pharma is pouring money into tech-devised treatments, but the verdict is out on whether they’ll actually work.",
+        "published": "2026-05-18T10:00:14.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 1,
+        "matchedKeywords": [],
+        "category": "ai",
+        "baseScore": 1
+      }
+    ],
+    "business": [
+      {
+        "title": "HYPE pops 7%, beating bitcoin declines, as SpaceX pre-IPO lands on Hyperliquid",
+        "link": "https://www.coindesk.com/markets/2026/05/18/hype-pops-7-beating-bitcoin-declines-as-spacex-pre-ipo-lands-on-hyperliquid",
+        "description": "Hyperliquid's HYPE token rallied 7% over 24 hours after Trade.xyz launched the first pre-IPO perpetual market on the platform, offering synthetic exposure to SpaceX at a reference valuation of $1.78 trillion.",
+        "published": "2026-05-18T05:01:11.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "spacex",
+          "ipo",
+          "bitcoin",
+          "valuation"
+        ],
+        "category": "business",
+        "baseScore": 9
+      },
+      {
+        "title": "Chipmaker CXMT Reports Eightfold Jump in Sales on Path to IPO",
+        "link": "https://www.bloomberg.com/news/articles/2026-05-18/chipmaker-cxmt-reports-eightfold-jump-in-sales-on-path-to-ipo",
+        "description": "ChangXin Memory Technologies Inc. reported soaring revenue and profit in the first quarter and forecast higher earnings ahead, bolstering its financials ahead of a high-profile initial public offering later this year.",
+        "published": "2026-05-18T03:03:32.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "ipo",
+          "chipmaker",
+          "earnings"
+        ],
+        "category": "business",
+        "baseScore": 6
       },
       {
         "title": "Samsung Shares Jump After High-Stakes Labor Talks Resume",
@@ -260,206 +429,13 @@
           "samsung",
           "chip"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "Microsoft ditches Teams feature that put attendees into the same virtual room",
-        "link": "https://www.engadget.com/2175215/microsoft-ditches-teams-feature-that-put-attendees-into-the-same-virtual-room/",
-        "description": "Microsoft said 'Together' mode added too much 'implementation complexity' and will steer users toward the Teams' gallery view instead.",
-        "published": "2026-05-18T08:09:40.000Z",
-        "source": "Engadget",
-        "sourceKey": "engadget",
-        "priority": 2,
-        "image": "https://www.engadget.com/img/gallery/microsoft-ditches-teams-feature-that-put-attendees-into-the-same-virtual-room/l-intro-1779091418.jpg",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "microsoft"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "An ICE Firearms Trainer Was Involved in At Least 4 Deadly Shootings",
-        "link": "https://www.wired.com/story/an-ice-firearms-trainer-was-involved-in-at-least-4-deadly-shootings/",
-        "description": "David Norman, a former Phoenix police officer who’s described himself as “a fucking savage,” now runs a company that provided training to Homeland Security’s Special Response Teams.",
-        "published": "2026-05-18T09:30:00.000Z",
-        "source": "Wired",
-        "sourceKey": "wired",
-        "priority": 2,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "arm"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "US, Philippines Moving ‘Very Quickly’ on 4,000-Acre AI Hub Plan",
-        "link": "https://www.bloomberg.com/news/articles/2026-05-18/us-philippines-moving-very-quickly-on-4-000-acre-ai-hub-plan",
-        "description": "The US and the Philippines are moving “very, very quickly” on a planned artificial intelligence and supply chain hub in the Southeast Asian nation, a top US official said, as Washington seeks long-term protection for American investors.",
-        "published": "2026-05-18T09:24:40.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "intel",
-          "artificial intelligence"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Google tells database devs to lean hard on AI for PostgreSQL work",
-        "link": "https://www.theregister.com/databases/2026/05/18/google-tells-database-devs-to-lean-hard-on-ai-for-postgresql-work/5238070",
-        "description": "Cloud giant says humans remain accountable, even when code gets an assist from the machines",
-        "published": "2026-05-18T09:15:00.000Z",
-        "source": "The Register",
-        "sourceKey": "theregister",
-        "priority": 2,
-        "image": "https://image.theregister.com/?imageId=5238106&width=800",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "google"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Supercharging Immune Cells May Help Control HIV Long-Term",
-        "link": "https://www.wired.com/story/car-t-therapy-may-help-control-hiv-long-term/",
-        "description": "CAR-T cell therapy is already a potent treatment for certain cancers. Now, a small study is showing early promise for managing HIV.",
-        "published": "2026-05-18T10:30:00.000Z",
-        "source": "Wired",
-        "sourceKey": "wired",
-        "priority": 2,
-        "image": null,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "agi"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "I’m a Normie. Can Normies Really Vibe Code?",
-        "link": "https://www.wired.com/story/normie-vibe-code/",
-        "description": "Apparently anyone can vibe code anything these days. So Claude and I tried to make a database for tracking the petty grievances of the masses.",
-        "published": "2026-05-18T10:00:00.000Z",
-        "source": "Wired",
-        "sourceKey": "wired",
-        "priority": 2,
-        "image": null,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "claude"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Can AI Drug Development Live Up to the Hype?",
-        "link": "https://www.bloomberg.com/news/articles/2026-05-18/can-ai-drug-development-live-up-to-the-hype",
-        "description": "Big Pharma is pouring money into tech-devised treatments, but the verdict is out on whether they’ll actually work.",
-        "published": "2026-05-18T10:00:14.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "arm"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Mozilla warns UK: Breaking VPNs will not magically fix Britain's age-check mess",
-        "link": "https://www.theregister.com/security/2026/05/18/mozilla-warns-uk-breaking-vpns-will-not-magically-fix-britains-age-check-mess/5241770",
-        "description": "Firefox maker says the tools are basic security infrastructure, not teenage contraband",
-        "published": "2026-05-18T09:54:01.000Z",
-        "source": "The Register",
-        "sourceKey": "theregister",
-        "priority": 2,
-        "image": "https://image.theregister.com/?imageId=4094224&width=800",
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "agi"
-        ],
-        "category": "ai"
+        "category": "business",
+        "baseScore": 6
       }
     ],
-    "space": [
+    "chips_cloud": [
       {
-        "title": "HYPE pops 7%, beating bitcoin declines, as SpaceX pre-IPO lands on Hyperliquid",
-        "link": "https://www.coindesk.com/markets/2026/05/18/hype-pops-7-beating-bitcoin-declines-as-spacex-pre-ipo-lands-on-hyperliquid",
-        "description": "Hyperliquid's HYPE token rallied 7% over 24 hours after Trade.xyz launched the first pre-IPO perpetual market on the platform, offering synthetic exposure to SpaceX at a reference valuation of $1.78 trillion.",
-        "published": "2026-05-18T05:01:11.000Z",
-        "source": "CoinDesk",
-        "sourceKey": "coindesk",
-        "priority": 3,
-        "image": null,
-        "relevanceScore": 10,
-        "matchedKeywords": [
-          "spacex",
-          "ipo",
-          "valuation",
-          "bitcoin"
-        ],
-        "category": "space"
-      },
-      {
-        "title": "Elon Musk Really Needs Starship to Work This Time",
-        "link": "https://www.bloomberg.com/news/articles/2026-05-18/spacex-needs-starship-v3-launch-to-deliver-ahead-of-planned-ipo",
-        "description": "With the V3 launch, SpaceX hopes to prove that the massive vehicle it’s betting everything on will perform as advertised.",
-        "published": "2026-05-18T09:30:11.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "spacex",
-          "elon musk",
-          "starship"
-        ],
-        "category": "space"
-      }
-    ],
-    "regulation": [
-      {
-        "title": "DraftKings, Meta, AI Firms Have a New Election Playbook: Flood State-Level Races With Cash",
-        "link": "https://www.bloomberg.com/news/features/2026-05-18/draftkings-meta-andreessen-horowitz-give-millions-to-influence-state-elections",
-        "description": "With Congress largely stalemated, companies turn to states to gain leverage over regulations.",
-        "published": "2026-05-18T09:30:15.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 9,
-        "matchedKeywords": [
-          "meta",
-          "regulation"
-        ],
-        "category": "regulation"
-      }
-    ],
-    "business": [
-      {
-        "title": "Chipmaker CXMT Reports Eightfold Jump in Sales on Path to IPO",
-        "link": "https://www.bloomberg.com/news/articles/2026-05-18/chipmaker-cxmt-reports-eightfold-jump-in-sales-on-path-to-ipo",
-        "description": "ChangXin Memory Technologies Inc. reported soaring revenue and profit in the first quarter and forecast higher earnings ahead, bolstering its financials ahead of a high-profile initial public offering later this year.",
-        "published": "2026-05-18T03:03:32.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 6,
-        "matchedKeywords": [
-          "ipo",
-          "chip"
-        ],
-        "category": "business"
-      }
-    ],
-    "ev_autonomous": [
-      {
-        "title": " Samsung meeting transcripts show memory workers offered incredible 607% bonus worth $477,000, while logic chip staff get as little as 50% — union says misbalance 'creates a retention crisis the company cannot afford' ",
+        "title": "Samsung meeting transcripts show memory workers offered incredible 607% bonus worth $477,000, while logic chip staff get as little as 50% — union says misbalance 'creates a retention crisis the company cannot afford'",
         "link": "https://www.tomshardware.com/tech-industry/leaked-samsung-meeting-transcripts-show-memory-workers-offered-607-percent-bonus",
         "description": "Internal Samsung wage negotiation transcripts show the company proposed bonuses of 607% of annual salary for its memory chip division in March,",
         "published": "2026-05-18T10:00:00.000Z",
@@ -472,37 +448,8 @@
           "samsung",
           "chip"
         ],
-        "category": "ev_autonomous"
-      },
-      {
-        "title": " Samsung granted court injunction against imminent strike action in last-minute reprieve — talks resume as unions barred from occupying or locking facilities, obstructing workers ",
-        "link": "https://www.tomshardware.com/tech-industry/samsung-granted-court-injunction-against-imminent-strike-action-in-last-minute-reprieve-talks-resume-as-unions-barred-from-occupying-or-locking-facilities-obstructing-workers",
-        "description": "Samsung has been granted an injunction to limit the scope of planned strike action ahead of an 18-day walkout due to start on Thursday.",
-        "published": "2026-05-18T10:06:00.000Z",
-        "source": "Tom's Hardware",
-        "sourceKey": "tomshardware",
-        "priority": 2,
-        "image": "https://cdn.mos.cms.futurecdn.net/8H6RKLjKhtRhVW9eXe5DD9-1280-80.jpg",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "samsung"
-        ],
-        "category": "ev_autonomous"
-      },
-      {
-        "title": "Aave restores ether borrowing limits after $230 million exploit",
-        "link": "https://www.coindesk.com/markets/2026/05/18/aave-restores-weth-collateral-limits-as-rseth-crisis-enters-recovery-phase",
-        "description": "The DeFi lending protocol reversed restrictions imposed after April’s $292 million exploit, restoring borrowing capacity across six networks as contagion fears ease.",
-        "published": "2026-05-18T07:05:20.000Z",
-        "source": "CoinDesk",
-        "sourceKey": "coindesk",
-        "priority": 3,
-        "image": null,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "agi"
-        ],
-        "category": "ev_autonomous"
+        "category": "chips_cloud",
+        "baseScore": 5
       }
     ],
     "crypto": [
@@ -520,9 +467,84 @@
           "meta",
           "stablecoin"
         ],
-        "category": "crypto"
+        "category": "crypto",
+        "baseScore": 5
+      }
+    ],
+    "other": [
+      {
+        "title": "Microsoft ditches Teams feature that put attendees into the same virtual room",
+        "link": "https://www.engadget.com/2175215/microsoft-ditches-teams-feature-that-put-attendees-into-the-same-virtual-room/",
+        "description": "Microsoft said 'Together' mode added too much 'implementation complexity' and will steer users toward the Teams' gallery view instead.",
+        "published": "2026-05-18T08:09:40.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/microsoft-ditches-teams-feature-that-put-attendees-into-the-same-virtual-room/l-intro-1779091418.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "microsoft"
+        ],
+        "category": "other",
+        "baseScore": 4
+      },
+      {
+        "title": "Supercharging Immune Cells May Help Control HIV Long-Term",
+        "link": "https://www.wired.com/story/car-t-therapy-may-help-control-hiv-long-term/",
+        "description": "CAR-T cell therapy is already a potent treatment for certain cancers. Now, a small study is showing early promise for managing HIV.",
+        "published": "2026-05-18T10:30:00.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 0,
+        "matchedKeywords": [],
+        "category": "other",
+        "baseScore": 0
+      },
+      {
+        "title": "Mozilla warns UK: Breaking VPNs will not magically fix Britain's age-check mess",
+        "link": "https://www.theregister.com/security/2026/05/18/mozilla-warns-uk-breaking-vpns-will-not-magically-fix-britains-age-check-mess/5241770",
+        "description": "Firefox maker says the tools are basic security infrastructure, not teenage contraband",
+        "published": "2026-05-18T09:54:01.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=4094224&width=800",
+        "relevanceScore": 0,
+        "matchedKeywords": [],
+        "category": "other",
+        "baseScore": 0
+      },
+      {
+        "title": "An ICE Firearms Trainer Was Involved in At Least 4 Deadly Shootings",
+        "link": "https://www.wired.com/story/an-ice-firearms-trainer-was-involved-in-at-least-4-deadly-shootings/",
+        "description": "David Norman, a former Phoenix police officer who’s described himself as “a fucking savage,” now runs a company that provided training to Homeland Security’s Special Response Teams.",
+        "published": "2026-05-18T09:30:00.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 0,
+        "matchedKeywords": [],
+        "category": "other",
+        "baseScore": 0
+      },
+      {
+        "title": "Aave restores ether borrowing limits after $230 million exploit",
+        "link": "https://www.coindesk.com/markets/2026/05/18/aave-restores-weth-collateral-limits-as-rseth-crisis-enters-recovery-phase",
+        "description": "The DeFi lending protocol reversed restrictions imposed after April’s $292 million exploit, restoring borrowing capacity across six networks as contagion fears ease.",
+        "published": "2026-05-18T07:05:20.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 0,
+        "matchedKeywords": [],
+        "category": "other",
+        "baseScore": 0
       }
     ]
   },
-  "totalArticles": 22
+  "totalArticles": 21
 }

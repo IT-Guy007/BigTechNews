@@ -19,11 +19,12 @@
       "matchedKeywords": [
         "nvidia"
       ],
-      "category": "ai"
+      "category": "chips_cloud",
+      "baseScore": 5
     }
   ],
   "byCategory": {
-    "ai": [
+    "chips_cloud": [
       {
         "title": "Nvidia Supplier Hon Hai’s Sales Beat on Continued AI Demand",
         "link": "https://www.bloomberg.com/news/articles/2026-07-05/nvidia-supplier-hon-hai-reports-surging-sales-on-solid-ai-demand",
@@ -37,7 +38,8 @@
         "matchedKeywords": [
           "nvidia"
         ],
-        "category": "ai"
+        "category": "chips_cloud",
+        "baseScore": 5
       }
     ]
   },

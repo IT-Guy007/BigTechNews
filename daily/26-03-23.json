@@ -15,15 +15,16 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 13,
+      "relevanceScore": 11,
       "matchedKeywords": [
         "tesla",
         "spacex",
-        "ceo",
         "robotaxi",
+        "ceo",
         "bitcoin"
       ],
-      "category": "ev_autonomous"
+      "category": "ev_autonomous",
+      "baseScore": 11
     },
     {
       "title": "AI Startup Upstage in Talks to Buy 10,000 AMD Chips in Korea",
@@ -39,7 +40,8 @@
         "amd",
         "chip"
       ],
-      "category": "ai"
+      "category": "chips_cloud",
+      "baseScore": 6
     },
     {
       "title": "Elon Musk wants to build 50 times more chips than the world currently produces, using ‘new physics’",
@@ -55,7 +57,8 @@
         "elon musk",
         "chip"
       ],
-      "category": null
+      "category": "chips_cloud",
+      "baseScore": 4
     },
     {
       "title": "Microsoft: Removing some Copilots will improve Windows 11",
@@ -70,7 +73,8 @@
       "matchedKeywords": [
         "microsoft"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 4
     }
   ],
   "byCategory": {
@@ -84,18 +88,19 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 13,
+        "relevanceScore": 11,
         "matchedKeywords": [
           "tesla",
           "spacex",
-          "ceo",
           "robotaxi",
+          "ceo",
           "bitcoin"
         ],
-        "category": "ev_autonomous"
+        "category": "ev_autonomous",
+        "baseScore": 11
       }
     ],
-    "ai": [
+    "chips_cloud": [
       {
         "title": "AI Startup Upstage in Talks to Buy 10,000 AMD Chips in Korea",
         "link": "https://www.bloomberg.com/news/articles/2026-03-23/ai-startup-upstage-looking-at-buying-10-000-amd-chips-in-korea",
@@ -110,8 +115,28 @@
           "amd",
           "chip"
         ],
-        "category": "ai"
+        "category": "chips_cloud",
+        "baseScore": 6
       },
+      {
+        "title": "Elon Musk wants to build 50 times more chips than the world currently produces, using ‘new physics’",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/musk_terafab/",
+        "description": "",
+        "published": "2026-03-23T06:40:41.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "elon musk",
+          "chip"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 4
+      }
+    ],
+    "ai": [
       {
         "title": "Microsoft: Removing some Copilots will improve Windows 11",
         "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/windows_quality_commitment/",
@@ -125,7 +150,8 @@
         "matchedKeywords": [
           "microsoft"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 4
       }
     ]
   },

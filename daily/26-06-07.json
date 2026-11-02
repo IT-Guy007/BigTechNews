@@ -7,39 +7,6 @@
   "generatedAt": "2026-06-07T09:44:27.045Z",
   "highlights": [
     {
-      "title": "UK to Buy AI Chips From British Tech Firms, Telegraph Reports",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-07/uk-to-buy-ai-chips-from-british-tech-firms-telegraph-reports",
-      "description": "The UK will offer to buy artificial intelligence chips from technology companies in an effort to encourage them to stay in Britain, the Telegraph reported on Sunday.",
-      "published": "2026-06-07T08:58:02.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 5,
-      "matchedKeywords": [
-        "intel",
-        "artificial intelligence",
-        "chip"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": "SKorea’s Lee Nominates Tech Guru Han as PM to Lead AI Growth",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-07/lee-nominates-tech-guru-han-as-prime-minister-to-lead-ai-growth",
-      "description": "South Korean President Lee Jae Myung nominated SME and Startup Minister Han Seong-sook as prime minister, betting the tech industry veteran will help the country realize its artificial intelligence ambitions.",
-      "published": "2026-06-07T05:58:50.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "intel",
-        "artificial intelligence"
-      ],
-      "category": "ai"
-    },
-    {
       "title": "UK exam watchdog frets over smart specs turning GCSEs into Google searches",
       "link": "https://www.theregister.com/personal-tech/2026/06/07/uk-exam-watchdog-frets-over-smart-specs-turning-gcses-into-google-searches/5251365",
       "description": "Ofqual says smart glasses, hidden earpieces, and AI tools are creating a new generation of cheating headaches",
@@ -52,44 +19,45 @@
       "matchedKeywords": [
         "google"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 4
+    },
+    {
+      "title": "UK to Buy AI Chips From British Tech Firms, Telegraph Reports",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-07/uk-to-buy-ai-chips-from-british-tech-firms-telegraph-reports",
+      "description": "The UK will offer to buy artificial intelligence chips from technology companies in an effort to encourage them to stay in Britain, the Telegraph reported on Sunday.",
+      "published": "2026-06-07T08:58:02.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 3,
+      "matchedKeywords": [
+        "chip",
+        "artificial intelligence"
+      ],
+      "category": "ai",
+      "baseScore": 3
+    },
+    {
+      "title": "SKorea’s Lee Nominates Tech Guru Han as PM to Lead AI Growth",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-07/lee-nominates-tech-guru-han-as-prime-minister-to-lead-ai-growth",
+      "description": "South Korean President Lee Jae Myung nominated SME and Startup Minister Han Seong-sook as prime minister, betting the tech industry veteran will help the country realize its artificial intelligence ambitions.",
+      "published": "2026-06-07T05:58:50.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 2,
+      "matchedKeywords": [
+        "artificial intelligence"
+      ],
+      "category": "ai",
+      "baseScore": 2
     }
   ],
   "byCategory": {
     "ai": [
-      {
-        "title": "UK to Buy AI Chips From British Tech Firms, Telegraph Reports",
-        "link": "https://www.bloomberg.com/news/articles/2026-06-07/uk-to-buy-ai-chips-from-british-tech-firms-telegraph-reports",
-        "description": "The UK will offer to buy artificial intelligence chips from technology companies in an effort to encourage them to stay in Britain, the Telegraph reported on Sunday.",
-        "published": "2026-06-07T08:58:02.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "intel",
-          "artificial intelligence",
-          "chip"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "SKorea’s Lee Nominates Tech Guru Han as PM to Lead AI Growth",
-        "link": "https://www.bloomberg.com/news/articles/2026-06-07/lee-nominates-tech-guru-han-as-prime-minister-to-lead-ai-growth",
-        "description": "South Korean President Lee Jae Myung nominated SME and Startup Minister Han Seong-sook as prime minister, betting the tech industry veteran will help the country realize its artificial intelligence ambitions.",
-        "published": "2026-06-07T05:58:50.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "intel",
-          "artificial intelligence"
-        ],
-        "category": "ai"
-      },
       {
         "title": "UK exam watchdog frets over smart specs turning GCSEs into Google searches",
         "link": "https://www.theregister.com/personal-tech/2026/06/07/uk-exam-watchdog-frets-over-smart-specs-turning-gcses-into-google-searches/5251365",
@@ -103,7 +71,41 @@
         "matchedKeywords": [
           "google"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 4
+      },
+      {
+        "title": "UK to Buy AI Chips From British Tech Firms, Telegraph Reports",
+        "link": "https://www.bloomberg.com/news/articles/2026-06-07/uk-to-buy-ai-chips-from-british-tech-firms-telegraph-reports",
+        "description": "The UK will offer to buy artificial intelligence chips from technology companies in an effort to encourage them to stay in Britain, the Telegraph reported on Sunday.",
+        "published": "2026-06-07T08:58:02.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "chip",
+          "artificial intelligence"
+        ],
+        "category": "ai",
+        "baseScore": 3
+      },
+      {
+        "title": "SKorea’s Lee Nominates Tech Guru Han as PM to Lead AI Growth",
+        "link": "https://www.bloomberg.com/news/articles/2026-06-07/lee-nominates-tech-guru-han-as-prime-minister-to-lead-ai-growth",
+        "description": "South Korean President Lee Jae Myung nominated SME and Startup Minister Han Seong-sook as prime minister, betting the tech industry veteran will help the country realize its artificial intelligence ambitions.",
+        "published": "2026-06-07T05:58:50.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 2,
+        "matchedKeywords": [
+          "artificial intelligence"
+        ],
+        "category": "ai",
+        "baseScore": 2
       }
     ]
   },

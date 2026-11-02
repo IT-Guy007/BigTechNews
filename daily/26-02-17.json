@@ -15,46 +15,14 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 11,
+      "relevanceScore": 10,
       "matchedKeywords": [
         "anthropic",
-        "intel",
+        "ai agent",
         "artificial intelligence"
       ],
-      "category": "ai"
-    },
-    {
-      "title": "Adani Plans to Invest $100 Billion in AI Data Centers by 2035",
-      "link": "https://www.bloomberg.com/news/articles/2026-02-17/adani-plans-to-invest-100-billion-in-ai-data-centers-by-2035",
-      "description": "Adani Group plans to invest $100 billion by 2035 to develop green-powered, AI-ready data centers as billionaire Gautam Adani seeks to capitalize on India’s emergence as a hub for artificial intelligence and cloud computing.",
-      "published": "2026-02-17T07:24:27.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 6,
-      "matchedKeywords": [
-        "intel",
-        "artificial intelligence",
-        "data center",
-        "billion"
-      ],
-      "category": "chips_cloud"
-    },
-    {
-      "title": "The Small English Town Swept Up in the Global AI Arms Race",
-      "link": "https://www.wired.com/story/the-small-english-town-swept-up-in-the-global-ai-arms-race/",
-      "description": "The residents of Potters Bar are working to protect the “green belt” of farms, forests, and meadows that surround London from the endless demand for AI infrastructure.",
-      "published": "2026-02-17T07:00:00.000Z",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "priority": 2,
-      "image": null,
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "arm"
-      ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 10
     },
     {
       "title": "China AI Startup Moonshot Targets $10 Billion Valuation",
@@ -65,18 +33,40 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 4,
+      "relevanceScore": 9,
       "matchedKeywords": [
-        "billion",
         "valuation",
+        "billion",
+        "alibaba",
+        "tencent",
+        "ai model",
         "funding round"
       ],
-      "category": "business"
+      "category": "business",
+      "baseScore": 9
+    },
+    {
+      "title": "Adani Plans to Invest $100 Billion in AI Data Centers by 2035",
+      "link": "https://www.bloomberg.com/news/articles/2026-02-17/adani-plans-to-invest-100-billion-in-ai-data-centers-by-2035",
+      "description": "Adani Group plans to invest $100 billion by 2035 to develop green-powered, AI-ready data centers as billionaire Gautam Adani seeks to capitalize on India’s emergence as a hub for artificial intelligence and cloud computing.",
+      "published": "2026-02-17T07:24:27.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "data center",
+        "billion",
+        "artificial intelligence"
+      ],
+      "category": "chips_cloud",
+      "baseScore": 4
     },
     {
       "title": "iOS 26.4 Lays Groundwork for CarPlay Video, Including Apple TV",
       "link": "https://www.macrumors.com/2026/02/16/ios-26-4-carplay-video-apple-tv/",
-      "description": "Back at WWDC 2025, Apple revealed that it was planning to allow CarPlay users to watch video via AirPlay in their vehicles while they are not driving, and the first beta of iOS 26.4 suggests the feature may be nearing availability.\r\n\r\n\r\nThe original mention of the feature appeared on Apple's CarPlay page for developers within a section specific to automakers, indicating that CarPlay with AirPlay video is something automakers will need to implement with on their end. Presumably, this is because there needs to be integration with vehicle systems to ensure that the feature can only be used while the vehicle is parked so as to hinder the potential for distracted driving.\r\n\r\nThe first iOS 26.4 beta seeded to developers today includes a number of new references to ‌CarPlay‌ video playback, including features like onboarding flows, notifications, and more.\r\n\r\nApple TV will likely support the ‌CarPlay‌ video feature when it launches, as there are additional references to interacting with the TV app while using ‌CarPlay‌, such as a message that would pop up informing users that they will need to subscribe to ‌Apple TV‌ on their iPhone while not driving if they attempt to access subscription content.\r\n\r\nRelated Roundup: CarPlay\nRelated Forum: HomePod, HomeKit, CarPlay, Home & Auto Technology\nThis article, \"iOS 26.4 Lays Groundwork for CarPlay Video, Including Apple TV\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+      "description": "Back at WWDC 2025, Apple revealed that it was planning to allow CarPlay users to watch video via AirPlay in their vehicles while they are not driving, and the first beta of iOS 26.4 suggests the feature may be nearing availability. The original mention of the feature appeared on Apple's CarPlay page for developers within a section specific to automakers, indicating that CarPlay with AirPlay video is something automakers will need to implement with on their end. Presumably, this is because there ",
       "published": "2026-02-17T03:52:04.000Z",
       "source": "MacRumors",
       "sourceKey": "macrumors",
@@ -86,7 +76,8 @@
       "matchedKeywords": [
         "apple"
       ],
-      "category": "ai"
+      "category": "devices",
+      "baseScore": 4
     },
     {
       "title": "Murata President on AI Demand, Chips Shortages",
@@ -97,12 +88,12 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 3,
+      "relevanceScore": 2,
       "matchedKeywords": [
-        "chip",
-        "tpu"
+        "chip"
       ],
-      "category": "ai"
+      "category": "chips_cloud",
+      "baseScore": 2
     },
     {
       "title": "Modi Seizes AI Summit to Assert India’s Global Ambitions After Tough Year",
@@ -113,11 +104,24 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 3,
-      "matchedKeywords": [
-        "arm"
-      ],
-      "category": "ai"
+      "relevanceScore": 1,
+      "matchedKeywords": [],
+      "category": "ai",
+      "baseScore": 1
+    },
+    {
+      "title": "The Small English Town Swept Up in the Global AI Arms Race",
+      "link": "https://www.wired.com/story/the-small-english-town-swept-up-in-the-global-ai-arms-race/",
+      "description": "The residents of Potters Bar are working to protect the “green belt” of farms, forests, and meadows that surround London from the endless demand for AI infrastructure.",
+      "published": "2026-02-17T07:00:00.000Z",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "priority": 2,
+      "image": null,
+      "relevanceScore": 0,
+      "matchedKeywords": [],
+      "category": "ai",
+      "baseScore": 0
     }
   ],
   "byCategory": {
@@ -131,59 +135,14 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 11,
+        "relevanceScore": 10,
         "matchedKeywords": [
           "anthropic",
-          "intel",
+          "ai agent",
           "artificial intelligence"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "The Small English Town Swept Up in the Global AI Arms Race",
-        "link": "https://www.wired.com/story/the-small-english-town-swept-up-in-the-global-ai-arms-race/",
-        "description": "The residents of Potters Bar are working to protect the “green belt” of farms, forests, and meadows that surround London from the endless demand for AI infrastructure.",
-        "published": "2026-02-17T07:00:00.000Z",
-        "source": "Wired",
-        "sourceKey": "wired",
-        "priority": 2,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "arm"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "iOS 26.4 Lays Groundwork for CarPlay Video, Including Apple TV",
-        "link": "https://www.macrumors.com/2026/02/16/ios-26-4-carplay-video-apple-tv/",
-        "description": "Back at WWDC 2025, Apple revealed that it was planning to allow CarPlay users to watch video via AirPlay in their vehicles while they are not driving, and the first beta of iOS 26.4 suggests the feature may be nearing availability.\r\n\r\n\r\nThe original mention of the feature appeared on Apple's CarPlay page for developers within a section specific to automakers, indicating that CarPlay with AirPlay video is something automakers will need to implement with on their end. Presumably, this is because there needs to be integration with vehicle systems to ensure that the feature can only be used while the vehicle is parked so as to hinder the potential for distracted driving.\r\n\r\nThe first iOS 26.4 beta seeded to developers today includes a number of new references to ‌CarPlay‌ video playback, including features like onboarding flows, notifications, and more.\r\n\r\nApple TV will likely support the ‌CarPlay‌ video feature when it launches, as there are additional references to interacting with the TV app while using ‌CarPlay‌, such as a message that would pop up informing users that they will need to subscribe to ‌Apple TV‌ on their iPhone while not driving if they attempt to access subscription content.\r\n\r\nRelated Roundup: CarPlay\nRelated Forum: HomePod, HomeKit, CarPlay, Home & Auto Technology\nThis article, \"iOS 26.4 Lays Groundwork for CarPlay Video, Including Apple TV\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-        "published": "2026-02-17T03:52:04.000Z",
-        "source": "MacRumors",
-        "sourceKey": "macrumors",
-        "priority": 2,
-        "image": "https://images.macrumors.com/article-new/2026/02/Apple-CarPlay-iOS-26-Tight-Crop.jpg",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Murata President on AI Demand, Chips Shortages",
-        "link": "https://www.bloomberg.com/news/videos/2026-02-17/murata-president-on-ai-demand-chips-shortages-video",
-        "description": "Speaking to Bloomberg's Shery Ahn in Kyoto, President Norio Nakajima expects strong AI demand for the next 3 years and also noted that while memory chip shortages are beginning to squeeze output in the low-end sector, the high-end segment remains resilient. (Source: Bloomberg)",
-        "published": "2026-02-17T07:07:24.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "chip",
-          "tpu"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 10
       },
       {
         "title": "Modi Seizes AI Summit to Assert India’s Global Ambitions After Tough Year",
@@ -194,31 +153,24 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "arm"
-        ],
-        "category": "ai"
-      }
-    ],
-    "chips_cloud": [
+        "relevanceScore": 1,
+        "matchedKeywords": [],
+        "category": "ai",
+        "baseScore": 1
+      },
       {
-        "title": "Adani Plans to Invest $100 Billion in AI Data Centers by 2035",
-        "link": "https://www.bloomberg.com/news/articles/2026-02-17/adani-plans-to-invest-100-billion-in-ai-data-centers-by-2035",
-        "description": "Adani Group plans to invest $100 billion by 2035 to develop green-powered, AI-ready data centers as billionaire Gautam Adani seeks to capitalize on India’s emergence as a hub for artificial intelligence and cloud computing.",
-        "published": "2026-02-17T07:24:27.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
+        "title": "The Small English Town Swept Up in the Global AI Arms Race",
+        "link": "https://www.wired.com/story/the-small-english-town-swept-up-in-the-global-ai-arms-race/",
+        "description": "The residents of Potters Bar are working to protect the “green belt” of farms, forests, and meadows that surround London from the endless demand for AI infrastructure.",
+        "published": "2026-02-17T07:00:00.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
         "image": null,
-        "relevanceScore": 6,
-        "matchedKeywords": [
-          "intel",
-          "artificial intelligence",
-          "data center",
-          "billion"
-        ],
-        "category": "chips_cloud"
+        "relevanceScore": 0,
+        "matchedKeywords": [],
+        "category": "ai",
+        "baseScore": 0
       }
     ],
     "business": [
@@ -231,13 +183,71 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 9,
         "matchedKeywords": [
-          "billion",
           "valuation",
+          "billion",
+          "alibaba",
+          "tencent",
+          "ai model",
           "funding round"
         ],
-        "category": "business"
+        "category": "business",
+        "baseScore": 9
+      }
+    ],
+    "chips_cloud": [
+      {
+        "title": "Adani Plans to Invest $100 Billion in AI Data Centers by 2035",
+        "link": "https://www.bloomberg.com/news/articles/2026-02-17/adani-plans-to-invest-100-billion-in-ai-data-centers-by-2035",
+        "description": "Adani Group plans to invest $100 billion by 2035 to develop green-powered, AI-ready data centers as billionaire Gautam Adani seeks to capitalize on India’s emergence as a hub for artificial intelligence and cloud computing.",
+        "published": "2026-02-17T07:24:27.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "data center",
+          "billion",
+          "artificial intelligence"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 4
+      },
+      {
+        "title": "Murata President on AI Demand, Chips Shortages",
+        "link": "https://www.bloomberg.com/news/videos/2026-02-17/murata-president-on-ai-demand-chips-shortages-video",
+        "description": "Speaking to Bloomberg's Shery Ahn in Kyoto, President Norio Nakajima expects strong AI demand for the next 3 years and also noted that while memory chip shortages are beginning to squeeze output in the low-end sector, the high-end segment remains resilient. (Source: Bloomberg)",
+        "published": "2026-02-17T07:07:24.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 2,
+        "matchedKeywords": [
+          "chip"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 2
+      }
+    ],
+    "devices": [
+      {
+        "title": "iOS 26.4 Lays Groundwork for CarPlay Video, Including Apple TV",
+        "link": "https://www.macrumors.com/2026/02/16/ios-26-4-carplay-video-apple-tv/",
+        "description": "Back at WWDC 2025, Apple revealed that it was planning to allow CarPlay users to watch video via AirPlay in their vehicles while they are not driving, and the first beta of iOS 26.4 suggests the feature may be nearing availability. The original mention of the feature appeared on Apple's CarPlay page for developers within a section specific to automakers, indicating that CarPlay with AirPlay video is something automakers will need to implement with on their end. Presumably, this is because there ",
+        "published": "2026-02-17T03:52:04.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/02/Apple-CarPlay-iOS-26-Tight-Crop.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices",
+        "baseScore": 4
       }
     ]
   },

@@ -7,9 +7,28 @@
   "generatedAt": "2026-08-03T10:11:11.941Z",
   "highlights": [
     {
+      "title": "Alibaba’s Qwen3.8-Max AI Model Claims Benchmark Scores Rivaling Anthropic",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-03/alibaba-drops-another-china-ai-model-with-breakthrough-performance",
+      "description": "Alibaba Group Holding Ltd. released its biggest ever AI model, claiming performance on par with global leader Anthropic PBC in the latest Chinese breakthrough to challenge US rivals.",
+      "published": "2026-08-03T02:21:50.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 16,
+      "matchedKeywords": [
+        "anthropic",
+        "alibaba",
+        "ai model",
+        "breakthrough"
+      ],
+      "category": "ai",
+      "baseScore": 16
+    },
+    {
       "title": "The Cyber Alchemist's Ghosh on AI Cyber-security risks",
       "link": "https://www.bloomberg.com/news/videos/2026-08-03/the-cyber-alchemist-s-ghosh-on-ai-cyber-security-risks-video",
-      "description": "Ajoy Ghosh, Founder and Chief Information Security Officer at The Cyber Alchemist, discusses his perspective on cybersecurity measures and solutions companies should consider following the recent hacking incidents disclosed by Anthropic and OpenAI.\nHe speaks with Haidi Stroud Watts and Paul Allen on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
+      "description": "Ajoy Ghosh, Founder and Chief Information Security Officer at The Cyber Alchemist, discusses his perspective on cybersecurity measures and solutions companies should consider following the recent hacking incidents disclosed by Anthropic and OpenAI. He speaks with Haidi Stroud Watts and Paul Allen on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
       "published": "2026-08-03T05:47:29.000Z",
       "source": "Bloomberg",
       "sourceKey": "bloomberg_tech",
@@ -20,40 +39,42 @@
         "openai",
         "anthropic"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 11
     },
     {
-      "title": "Alibaba’s Qwen3.8-Max AI Model Claims Benchmark Scores Rivaling Anthropic  ",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-03/alibaba-drops-another-china-ai-model-with-breakthrough-performance",
-      "description": "Alibaba Group Holding Ltd. released its biggest ever AI model, claiming performance on par with global leader Anthropic PBC in the latest Chinese breakthrough to challenge US rivals.",
-      "published": "2026-08-03T02:21:50.000Z",
+      "title": "Meta straps on a ‘Kick Me’ sign by mistakenly taking down video by India’s prime minister",
+      "link": "https://www.theregister.com/public-sector/2026/08/03/meta-straps-on-a-kick-me-sign-by-mistakenly-taking-down-video-by-indias-prime-minister/5282130",
+      "description": "PLUS: DeepSeek to double peak hour prices for new model; Australia hikes fines for Big Tech; Japan’s next moonshot to ride local rocket; and more!",
+      "published": "2026-08-03T01:25:16.000Z",
+      "source": "The Register",
+      "sourceKey": "theregister",
+      "priority": 2,
+      "image": "https://image.theregister.com/?imageId=252224&width=800",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "meta",
+        "deepseek"
+      ],
+      "category": "space",
+      "baseScore": 9
+    },
+    {
+      "title": "How Siri AI Stacks Up Against the New ChatGPT",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-03/how-siri-ai-stacks-up-against-the-new-chatgpt",
+      "description": "Apple is bringing AI to Siri this fall. Here's how it compares with ChatGPT on writing, web search, personal data and productivity. (Source: Bloomberg)",
+      "published": "2026-08-03T09:30:06.000Z",
       "source": "Bloomberg",
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 11,
+      "relevanceScore": 6,
       "matchedKeywords": [
-        "anthropic",
-        "breakthrough"
+        "chatgpt",
+        "apple"
       ],
-      "category": "ai"
-    },
-    {
-      "title": "As Larry Ellison bets the farm, Oracle says it loves AI-written code, just not in OpenJDK",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/03/as-larry-ellison-bets-the-farm-oracle-says-it-loves-ai-written-code-just-not-in-openjdk/5281851",
-      "description": "Use it to debug and review, says Big Red, but don't submit its output",
-      "published": "2026-08-03T09:15:00.000Z",
-      "source": "The Register",
-      "sourceKey": "theregister",
-      "priority": 2,
-      "image": "https://image.theregister.com/?imageId=253730&width=800",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "oracle",
-        "arm",
-        "tpu"
-      ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 6
     },
     {
       "title": "AI Chip Designer DeepX’s Value Surges to $2.2 Billion in Funding",
@@ -64,31 +85,31 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 7,
+      "relevanceScore": 5,
       "matchedKeywords": [
-        "intel",
-        "artificial intelligence",
         "chip",
         "billion",
+        "artificial intelligence",
         "valuation"
       ],
-      "category": "business"
+      "category": "business",
+      "baseScore": 5
     },
     {
-      "title": "How Siri AI Stacks Up Against the New ChatGPT ",
-      "link": "https://www.bloomberg.com/news/videos/2026-08-03/how-siri-ai-stacks-up-against-the-new-chatgpt",
-      "description": "Apple is bringing AI to Siri this fall. Here's how it compares with ChatGPT on writing, web search, personal data and productivity.\n (Source: Bloomberg)",
-      "published": "2026-08-03T09:30:06.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 6,
+      "title": "As Larry Ellison bets the farm, Oracle says it loves AI-written code, just not in OpenJDK",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/03/as-larry-ellison-bets-the-farm-oracle-says-it-loves-ai-written-code-just-not-in-openjdk/5281851",
+      "description": "Use it to debug and review, says Big Red, but don't submit its output",
+      "published": "2026-08-03T09:15:00.000Z",
+      "source": "The Register",
+      "sourceKey": "theregister",
+      "priority": 2,
+      "image": "https://image.theregister.com/?imageId=253730&width=800",
+      "relevanceScore": 4,
       "matchedKeywords": [
-        "apple",
-        "chatgpt"
+        "oracle"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 4
     },
     {
       "title": "Microsoft says 8 GB of RAM should be enough for anyone running Windows 11",
@@ -103,22 +124,8 @@
       "matchedKeywords": [
         "microsoft"
       ],
-      "category": null
-    },
-    {
-      "title": "Meta straps on a ‘Kick Me’ sign by mistakenly taking down video by India’s prime minister",
-      "link": "https://www.theregister.com/public-sector/2026/08/03/meta-straps-on-a-kick-me-sign-by-mistakenly-taking-down-video-by-indias-prime-minister/5282130",
-      "description": "PLUS: DeepSeek to double peak hour prices for new model; Australia hikes fines for Big Tech; Japan’s next moonshot to ride local rocket; and more!",
-      "published": "2026-08-03T01:25:16.000Z",
-      "source": "The Register",
-      "sourceKey": "theregister",
-      "priority": 2,
-      "image": "https://image.theregister.com/?imageId=252224&width=800",
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "meta"
-      ],
-      "category": "space"
+      "category": "other",
+      "baseScore": 4
     },
     {
       "title": "Claude Code is revolutionizing digital archaeology. Enterprise better dig it",
@@ -133,15 +140,35 @@
       "matchedKeywords": [
         "claude"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 3
     }
   ],
   "byCategory": {
     "ai": [
       {
+        "title": "Alibaba’s Qwen3.8-Max AI Model Claims Benchmark Scores Rivaling Anthropic",
+        "link": "https://www.bloomberg.com/news/articles/2026-08-03/alibaba-drops-another-china-ai-model-with-breakthrough-performance",
+        "description": "Alibaba Group Holding Ltd. released its biggest ever AI model, claiming performance on par with global leader Anthropic PBC in the latest Chinese breakthrough to challenge US rivals.",
+        "published": "2026-08-03T02:21:50.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 16,
+        "matchedKeywords": [
+          "anthropic",
+          "alibaba",
+          "ai model",
+          "breakthrough"
+        ],
+        "category": "ai",
+        "baseScore": 16
+      },
+      {
         "title": "The Cyber Alchemist's Ghosh on AI Cyber-security risks",
         "link": "https://www.bloomberg.com/news/videos/2026-08-03/the-cyber-alchemist-s-ghosh-on-ai-cyber-security-risks-video",
-        "description": "Ajoy Ghosh, Founder and Chief Information Security Officer at The Cyber Alchemist, discusses his perspective on cybersecurity measures and solutions companies should consider following the recent hacking incidents disclosed by Anthropic and OpenAI.\nHe speaks with Haidi Stroud Watts and Paul Allen on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
+        "description": "Ajoy Ghosh, Founder and Chief Information Security Officer at The Cyber Alchemist, discusses his perspective on cybersecurity measures and solutions companies should consider following the recent hacking incidents disclosed by Anthropic and OpenAI. He speaks with Haidi Stroud Watts and Paul Allen on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
         "published": "2026-08-03T05:47:29.000Z",
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
@@ -152,23 +179,25 @@
           "openai",
           "anthropic"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 11
       },
       {
-        "title": "Alibaba’s Qwen3.8-Max AI Model Claims Benchmark Scores Rivaling Anthropic  ",
-        "link": "https://www.bloomberg.com/news/articles/2026-08-03/alibaba-drops-another-china-ai-model-with-breakthrough-performance",
-        "description": "Alibaba Group Holding Ltd. released its biggest ever AI model, claiming performance on par with global leader Anthropic PBC in the latest Chinese breakthrough to challenge US rivals.",
-        "published": "2026-08-03T02:21:50.000Z",
+        "title": "How Siri AI Stacks Up Against the New ChatGPT",
+        "link": "https://www.bloomberg.com/news/videos/2026-08-03/how-siri-ai-stacks-up-against-the-new-chatgpt",
+        "description": "Apple is bringing AI to Siri this fall. Here's how it compares with ChatGPT on writing, web search, personal data and productivity. (Source: Bloomberg)",
+        "published": "2026-08-03T09:30:06.000Z",
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 11,
+        "relevanceScore": 6,
         "matchedKeywords": [
-          "anthropic",
-          "breakthrough"
+          "chatgpt",
+          "apple"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 6
       },
       {
         "title": "As Larry Ellison bets the farm, Oracle says it loves AI-written code, just not in OpenJDK",
@@ -179,29 +208,12 @@
         "sourceKey": "theregister",
         "priority": 2,
         "image": "https://image.theregister.com/?imageId=253730&width=800",
-        "relevanceScore": 9,
+        "relevanceScore": 4,
         "matchedKeywords": [
-          "oracle",
-          "arm",
-          "tpu"
+          "oracle"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "How Siri AI Stacks Up Against the New ChatGPT ",
-        "link": "https://www.bloomberg.com/news/videos/2026-08-03/how-siri-ai-stacks-up-against-the-new-chatgpt",
-        "description": "Apple is bringing AI to Siri this fall. Here's how it compares with ChatGPT on writing, web search, personal data and productivity.\n (Source: Bloomberg)",
-        "published": "2026-08-03T09:30:06.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 6,
-        "matchedKeywords": [
-          "apple",
-          "chatgpt"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 4
       },
       {
         "title": "Claude Code is revolutionizing digital archaeology. Enterprise better dig it",
@@ -216,28 +228,8 @@
         "matchedKeywords": [
           "claude"
         ],
-        "category": "ai"
-      }
-    ],
-    "business": [
-      {
-        "title": "AI Chip Designer DeepX’s Value Surges to $2.2 Billion in Funding",
-        "link": "https://www.bloomberg.com/news/articles/2026-08-03/ai-chip-designer-deepx-s-value-surges-to-2-2-billion-in-funding",
-        "description": "South Korean AI chip designer DeepX Co. has secured fresh funding at roughly four times its previous valuation, in a sign of sustained enthusiasm for companies involved in the artificial intelligence boom.",
-        "published": "2026-08-03T09:45:07.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "intel",
-          "artificial intelligence",
-          "chip",
-          "billion",
-          "valuation"
-        ],
-        "category": "business"
+        "category": "ai",
+        "baseScore": 3
       }
     ],
     "space": [
@@ -250,11 +242,52 @@
         "sourceKey": "theregister",
         "priority": 2,
         "image": "https://image.theregister.com/?imageId=252224&width=800",
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "meta",
+          "deepseek"
+        ],
+        "category": "space",
+        "baseScore": 9
+      }
+    ],
+    "business": [
+      {
+        "title": "AI Chip Designer DeepX’s Value Surges to $2.2 Billion in Funding",
+        "link": "https://www.bloomberg.com/news/articles/2026-08-03/ai-chip-designer-deepx-s-value-surges-to-2-2-billion-in-funding",
+        "description": "South Korean AI chip designer DeepX Co. has secured fresh funding at roughly four times its previous valuation, in a sign of sustained enthusiasm for companies involved in the artificial intelligence boom.",
+        "published": "2026-08-03T09:45:07.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "chip",
+          "billion",
+          "artificial intelligence",
+          "valuation"
+        ],
+        "category": "business",
+        "baseScore": 5
+      }
+    ],
+    "other": [
+      {
+        "title": "Microsoft says 8 GB of RAM should be enough for anyone running Windows 11",
+        "link": "https://www.theregister.com/os-platforms/2026/08/03/microsoft-says-8-gb-of-ram-should-be-enough-for-anyone-running-windows-11/5282153",
+        "description": "Redmond adds new items to its make-Windows-better list",
+        "published": "2026-08-03T04:40:05.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=257334&width=800",
         "relevanceScore": 4,
         "matchedKeywords": [
-          "meta"
+          "microsoft"
         ],
-        "category": "space"
+        "category": "other",
+        "baseScore": 4
       }
     ]
   },

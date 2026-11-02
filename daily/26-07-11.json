@@ -15,29 +15,20 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 12,
+      "relevanceScore": 10,
       "matchedKeywords": [
         "openai",
-        "intel",
-        "artificial intelligence",
-        "ai safety"
+        "artificial intelligence"
       ],
-      "category": "ai"
-    },
-    {
-      "title": "OpenAI’s Head of Safety Is Leaving the Company",
-      "link": "https://www.wired.com/story/openai-head-of-safety-leaving/",
-      "description": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.",
-      "published": "2026-07-11T01:07:26.000Z",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "priority": 2,
-      "image": null,
-      "relevanceScore": 7,
-      "matchedKeywords": [
-        "openai"
-      ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 9,
+      "alsoIn": [
+        {
+          "source": "Wired",
+          "title": "OpenAI’s Head of Safety Is Leaving the Company",
+          "link": "https://www.wired.com/story/openai-head-of-safety-leaving/"
+        }
+      ]
     },
     {
       "title": "Meta deactivates feature that let you generate AI images of any public Instagram account",
@@ -48,26 +39,27 @@
       "sourceKey": "engadget",
       "priority": 2,
       "image": "https://www.engadget.com/img/gallery/meta-deactivates-feature-that-let-you-generate-ai-images-of-any-public-instagram-account/l-intro-1783733594.jpg",
-      "relevanceScore": 4,
+      "relevanceScore": 8,
       "matchedKeywords": [
-        "meta"
+        "meta",
+        "instagram"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 8
     },
     {
-      "title": "Are you filthy enough for a $700 portable shower? ",
+      "title": "Are you filthy enough for a $700 portable shower?",
       "link": "https://www.theverge.com/reviews/963814/joolca-hottap-portable-shower-review",
-      "description": "A luxurious hot shower anywhere you go.\t\n\nHot showers, like electricity, are a luxury that's easy to take for granted. That all changes after a few nights camping at a music festival, a week toiling at a backcountry job site, or overlanding all summer in the great unknown. An itchy scalp and the vague smell of warm clams suddenly make the idea of spending hundreds on a portable shower seem less absurd. \nI've been testing the Hottap Go from Australia-based Joolca while vanlifing to shower after surfing and to wash up after cooking. It features a 12L integrated water tank which is an improvement on other portable showers that require an external container and long, cumbersome hose th …\nRead the full story at The Verge.",
+      "description": "A luxurious hot shower anywhere you go. Hot showers, like electricity, are a luxury that's easy to take for granted. That all changes after a few nights camping at a music festival, a week toiling at a backcountry job site, or overlanding all summer in the great unknown. An itchy scalp and the vague smell of warm clams suddenly make the idea of spending hundreds on a portable shower seem less absurd. I've been testing the Hottap Go from Australia-based Joolca while vanlifing to shower after surf",
       "published": "2026-07-11T07:00:00.000Z",
       "source": "The Verge",
       "sourceKey": "theverge",
       "priority": 1,
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/IMG_2100.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "relevanceScore": 3,
-      "matchedKeywords": [
-        "arm"
-      ],
-      "category": "ai"
+      "relevanceScore": 1,
+      "matchedKeywords": [],
+      "category": "other",
+      "baseScore": 1
     }
   ],
   "byCategory": {
@@ -81,29 +73,20 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 12,
+        "relevanceScore": 10,
         "matchedKeywords": [
           "openai",
-          "intel",
-          "artificial intelligence",
-          "ai safety"
+          "artificial intelligence"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "OpenAI’s Head of Safety Is Leaving the Company",
-        "link": "https://www.wired.com/story/openai-head-of-safety-leaving/",
-        "description": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.",
-        "published": "2026-07-11T01:07:26.000Z",
-        "source": "Wired",
-        "sourceKey": "wired",
-        "priority": 2,
-        "image": null,
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "openai"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 9,
+        "alsoIn": [
+          {
+            "source": "Wired",
+            "title": "OpenAI’s Head of Safety Is Leaving the Company",
+            "link": "https://www.wired.com/story/openai-head-of-safety-leaving/"
+          }
+        ]
       },
       {
         "title": "Meta deactivates feature that let you generate AI images of any public Instagram account",
@@ -114,28 +97,31 @@
         "sourceKey": "engadget",
         "priority": 2,
         "image": "https://www.engadget.com/img/gallery/meta-deactivates-feature-that-let-you-generate-ai-images-of-any-public-instagram-account/l-intro-1783733594.jpg",
-        "relevanceScore": 4,
+        "relevanceScore": 8,
         "matchedKeywords": [
-          "meta"
+          "meta",
+          "instagram"
         ],
-        "category": "ai"
-      },
+        "category": "ai",
+        "baseScore": 8
+      }
+    ],
+    "other": [
       {
-        "title": "Are you filthy enough for a $700 portable shower? ",
+        "title": "Are you filthy enough for a $700 portable shower?",
         "link": "https://www.theverge.com/reviews/963814/joolca-hottap-portable-shower-review",
-        "description": "A luxurious hot shower anywhere you go.\t\n\nHot showers, like electricity, are a luxury that's easy to take for granted. That all changes after a few nights camping at a music festival, a week toiling at a backcountry job site, or overlanding all summer in the great unknown. An itchy scalp and the vague smell of warm clams suddenly make the idea of spending hundreds on a portable shower seem less absurd. \nI've been testing the Hottap Go from Australia-based Joolca while vanlifing to shower after surfing and to wash up after cooking. It features a 12L integrated water tank which is an improvement on other portable showers that require an external container and long, cumbersome hose th …\nRead the full story at The Verge.",
+        "description": "A luxurious hot shower anywhere you go. Hot showers, like electricity, are a luxury that's easy to take for granted. That all changes after a few nights camping at a music festival, a week toiling at a backcountry job site, or overlanding all summer in the great unknown. An itchy scalp and the vague smell of warm clams suddenly make the idea of spending hundreds on a portable shower seem less absurd. I've been testing the Hottap Go from Australia-based Joolca while vanlifing to shower after surf",
         "published": "2026-07-11T07:00:00.000Z",
         "source": "The Verge",
         "sourceKey": "theverge",
         "priority": 1,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/IMG_2100.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "arm"
-        ],
-        "category": "ai"
+        "relevanceScore": 1,
+        "matchedKeywords": [],
+        "category": "other",
+        "baseScore": 1
       }
     ]
   },
-  "totalArticles": 4
+  "totalArticles": 3
 }

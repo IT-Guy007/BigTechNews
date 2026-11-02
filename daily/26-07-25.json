@@ -19,10 +19,37 @@
       "matchedKeywords": [
         "spacex",
         "ipo",
-        "elon musk",
-        "starship"
+        "starship",
+        "elon musk"
       ],
-      "category": "space"
+      "category": "space",
+      "baseScore": 12,
+      "alsoIn": [
+        {
+          "source": "SpaceNews",
+          "title": "SpaceX conducts 13th Starship test flight",
+          "link": "https://spacenews.com/spacex-conducts-13th-starship-test-flight/"
+        }
+      ]
+    },
+    {
+      "title": "SK Chair Says Anthropic Asked for Supplies to Make Its Own Chips",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-25/sk-chair-says-anthropic-asked-for-supplies-to-make-its-own-chips",
+      "description": "AI developer Anthropic PBC has asked SK Hynix Inc., one of the world’s biggest manufacturers of memory chips, for supplies to make its own semiconductors, SK Group Chairman Chey Tae Won said.",
+      "published": "2026-07-25T00:44:09.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 12,
+      "matchedKeywords": [
+        "anthropic",
+        "chip",
+        "sk hynix",
+        "semiconductor"
+      ],
+      "category": "chips_cloud",
+      "baseScore": 12
     },
     {
       "title": "Samsung Inks $200 Billion Chip Supply with Broadcom",
@@ -40,24 +67,26 @@
         "chip",
         "billion"
       ],
-      "category": "ai"
+      "category": "chips_cloud",
+      "baseScore": 11
     },
     {
-      "title": "SK Chair Says Anthropic Asked for Supplies to Make Its Own Chips",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-25/sk-chair-says-anthropic-asked-for-supplies-to-make-its-own-chips",
-      "description": "AI developer Anthropic PBC has asked SK Hynix Inc., one of the world’s biggest manufacturers of memory chips, for supplies to make its own semiconductors, SK Group Chairman Chey Tae Won said.",
-      "published": "2026-07-25T00:44:09.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 10,
+      "title": "Report: Apple and Micron clash before Trump over Chinese memory chips",
+      "link": "https://9to5mac.com/2026/07/24/report-apple-and-micron-clash-before-trump-over-chinese-memory-chips/",
+      "description": "The Wall Street Journal reports that Micron is pressing the Trump administration to block Apple’s push to use memory chips from Chinese suppliers. Here are the details.",
+      "published": "2026-07-25T02:03:00.000Z",
+      "source": "9to5Mac",
+      "sourceKey": "9to5mac",
+      "priority": 2,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/12/Apple-Park.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "relevanceScore": 9,
       "matchedKeywords": [
-        "anthropic",
-        "semiconductor",
+        "apple",
+        "micron",
         "chip"
       ],
-      "category": "ai"
+      "category": "chips_cloud",
+      "baseScore": 9
     },
     {
       "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
@@ -72,7 +101,25 @@
       "matchedKeywords": [
         "openai"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 8
+    },
+    {
+      "title": "India’s Modi Adopts Reels Amid Instagram-Fueled Student Unrest",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-25/india-s-modi-adopts-reels-amid-instagram-fueled-student-unrest",
+      "description": "As student protests spread across India, Prime Minister Narendra Modi has turned to Meta Platforms Inc.’s Instagram Reels, swapping his trademark cinematic videos for raw, self-recorded messages aimed at the country’s youth.",
+      "published": "2026-07-25T07:16:06.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 7,
+      "matchedKeywords": [
+        "instagram",
+        "meta"
+      ],
+      "category": "other",
+      "baseScore": 7
     },
     {
       "title": "New lawsuit alleges unpatchable Apple chip exploit was developed using stolen trade secrets",
@@ -89,55 +136,8 @@
         "chip",
         "lawsuit"
       ],
-      "category": "ai"
-    },
-    {
-      "title": "SpaceX conducts 13th Starship test flight",
-      "link": "https://spacenews.com/spacex-conducts-13th-starship-test-flight/",
-      "description": "SpaceX launched Starship on its 13th suborbital test flight July 24, correcting some of the issues seen on the previous flight while deploying functioning satellites for the first time.\nThe post SpaceX conducts 13th Starship test flight appeared first on SpaceNews.",
-      "published": "2026-07-25T00:29:32.000Z",
-      "source": "SpaceNews",
-      "sourceKey": "spacenews",
-      "priority": 2,
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/starship-flt13-liftoff.jpeg?fit=1024%2C569&amp;ssl=1",
-      "relevanceScore": 6,
-      "matchedKeywords": [
-        "spacex",
-        "starship",
-        "satellite"
-      ],
-      "category": "space"
-    },
-    {
-      "title": "Report: Apple and Micron clash before Trump over Chinese memory chips",
-      "link": "https://9to5mac.com/2026/07/24/report-apple-and-micron-clash-before-trump-over-chinese-memory-chips/",
-      "description": "The Wall Street Journal reports that Micron is pressing the Trump administration to block Apple’s push to use memory chips from Chinese suppliers. Here are the details.",
-      "published": "2026-07-25T02:03:00.000Z",
-      "source": "9to5Mac",
-      "sourceKey": "9to5mac",
-      "priority": 2,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/12/Apple-Park.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "relevanceScore": 5,
-      "matchedKeywords": [
-        "apple",
-        "chip"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": "India’s Modi Adopts Reels Amid Instagram-Fueled Student Unrest",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-25/india-s-modi-adopts-reels-amid-instagram-fueled-student-unrest",
-      "description": "As student protests spread across India, Prime Minister Narendra Modi has turned to Meta Platforms Inc.’s Instagram Reels, swapping his trademark cinematic videos for raw, self-recorded messages aimed at the country’s youth.",
-      "published": "2026-07-25T07:16:06.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 3,
-      "matchedKeywords": [
-        "meta"
-      ],
-      "category": "ai"
+      "category": "regulation",
+      "baseScore": 6
     }
   ],
   "byCategory": {
@@ -155,30 +155,40 @@
         "matchedKeywords": [
           "spacex",
           "ipo",
-          "elon musk",
-          "starship"
-        ],
-        "category": "space"
-      },
-      {
-        "title": "SpaceX conducts 13th Starship test flight",
-        "link": "https://spacenews.com/spacex-conducts-13th-starship-test-flight/",
-        "description": "SpaceX launched Starship on its 13th suborbital test flight July 24, correcting some of the issues seen on the previous flight while deploying functioning satellites for the first time.\nThe post SpaceX conducts 13th Starship test flight appeared first on SpaceNews.",
-        "published": "2026-07-25T00:29:32.000Z",
-        "source": "SpaceNews",
-        "sourceKey": "spacenews",
-        "priority": 2,
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/starship-flt13-liftoff.jpeg?fit=1024%2C569&amp;ssl=1",
-        "relevanceScore": 6,
-        "matchedKeywords": [
-          "spacex",
           "starship",
-          "satellite"
+          "elon musk"
         ],
-        "category": "space"
+        "category": "space",
+        "baseScore": 12,
+        "alsoIn": [
+          {
+            "source": "SpaceNews",
+            "title": "SpaceX conducts 13th Starship test flight",
+            "link": "https://spacenews.com/spacex-conducts-13th-starship-test-flight/"
+          }
+        ]
       }
     ],
-    "ai": [
+    "chips_cloud": [
+      {
+        "title": "SK Chair Says Anthropic Asked for Supplies to Make Its Own Chips",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-25/sk-chair-says-anthropic-asked-for-supplies-to-make-its-own-chips",
+        "description": "AI developer Anthropic PBC has asked SK Hynix Inc., one of the world’s biggest manufacturers of memory chips, for supplies to make its own semiconductors, SK Group Chairman Chey Tae Won said.",
+        "published": "2026-07-25T00:44:09.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "anthropic",
+          "chip",
+          "sk hynix",
+          "semiconductor"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 12
+      },
       {
         "title": "Samsung Inks $200 Billion Chip Supply with Broadcom",
         "link": "https://www.bloomberg.com/news/articles/2026-07-25/samsung-inks-200-billion-chip-supply-with-broadcom",
@@ -195,25 +205,29 @@
           "chip",
           "billion"
         ],
-        "category": "ai"
+        "category": "chips_cloud",
+        "baseScore": 11
       },
       {
-        "title": "SK Chair Says Anthropic Asked for Supplies to Make Its Own Chips",
-        "link": "https://www.bloomberg.com/news/articles/2026-07-25/sk-chair-says-anthropic-asked-for-supplies-to-make-its-own-chips",
-        "description": "AI developer Anthropic PBC has asked SK Hynix Inc., one of the world’s biggest manufacturers of memory chips, for supplies to make its own semiconductors, SK Group Chairman Chey Tae Won said.",
-        "published": "2026-07-25T00:44:09.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 10,
+        "title": "Report: Apple and Micron clash before Trump over Chinese memory chips",
+        "link": "https://9to5mac.com/2026/07/24/report-apple-and-micron-clash-before-trump-over-chinese-memory-chips/",
+        "description": "The Wall Street Journal reports that Micron is pressing the Trump administration to block Apple’s push to use memory chips from Chinese suppliers. Here are the details.",
+        "published": "2026-07-25T02:03:00.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/12/Apple-Park.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 9,
         "matchedKeywords": [
-          "anthropic",
-          "semiconductor",
+          "apple",
+          "micron",
           "chip"
         ],
-        "category": "ai"
-      },
+        "category": "chips_cloud",
+        "baseScore": 9
+      }
+    ],
+    "ai": [
       {
         "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
         "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
@@ -227,8 +241,30 @@
         "matchedKeywords": [
           "openai"
         ],
-        "category": "ai"
-      },
+        "category": "ai",
+        "baseScore": 8
+      }
+    ],
+    "other": [
+      {
+        "title": "India’s Modi Adopts Reels Amid Instagram-Fueled Student Unrest",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-25/india-s-modi-adopts-reels-amid-instagram-fueled-student-unrest",
+        "description": "As student protests spread across India, Prime Minister Narendra Modi has turned to Meta Platforms Inc.’s Instagram Reels, swapping his trademark cinematic videos for raw, self-recorded messages aimed at the country’s youth.",
+        "published": "2026-07-25T07:16:06.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "instagram",
+          "meta"
+        ],
+        "category": "other",
+        "baseScore": 7
+      }
+    ],
+    "regulation": [
       {
         "title": "New lawsuit alleges unpatchable Apple chip exploit was developed using stolen trade secrets",
         "link": "https://9to5mac.com/2026/07/24/new-lawsuit-alleges-unpatchable-apple-chip-exploit-was-developed-using-stolen-trade-secrets/",
@@ -244,40 +280,10 @@
           "chip",
           "lawsuit"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "Report: Apple and Micron clash before Trump over Chinese memory chips",
-        "link": "https://9to5mac.com/2026/07/24/report-apple-and-micron-clash-before-trump-over-chinese-memory-chips/",
-        "description": "The Wall Street Journal reports that Micron is pressing the Trump administration to block Apple’s push to use memory chips from Chinese suppliers. Here are the details.",
-        "published": "2026-07-25T02:03:00.000Z",
-        "source": "9to5Mac",
-        "sourceKey": "9to5mac",
-        "priority": 2,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/12/Apple-Park.jpg?quality=82&#038;strip=all&#038;w=1600",
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "apple",
-          "chip"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "India’s Modi Adopts Reels Amid Instagram-Fueled Student Unrest",
-        "link": "https://www.bloomberg.com/news/articles/2026-07-25/india-s-modi-adopts-reels-amid-instagram-fueled-student-unrest",
-        "description": "As student protests spread across India, Prime Minister Narendra Modi has turned to Meta Platforms Inc.’s Instagram Reels, swapping his trademark cinematic videos for raw, self-recorded messages aimed at the country’s youth.",
-        "published": "2026-07-25T07:16:06.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "meta"
-        ],
-        "category": "ai"
+        "category": "regulation",
+        "baseScore": 6
       }
     ]
   },
-  "totalArticles": 8
+  "totalArticles": 7
 }

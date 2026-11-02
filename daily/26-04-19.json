@@ -15,12 +15,13 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 8,
+      "relevanceScore": 5,
       "matchedKeywords": [
         "ipo",
         "ceo"
       ],
-      "category": "business"
+      "category": "business",
+      "baseScore": 5
     },
     {
       "title": "CEO Jill Wyant Speaks on Madison Air IPO",
@@ -31,33 +32,18 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 8,
+      "relevanceScore": 5,
       "matchedKeywords": [
         "ipo",
         "ceo"
       ],
-      "category": "business"
-    },
-    {
-      "title": "Tesla owner uses emergency solar to trickle charge after running out of battery in desert",
-      "link": "https://electrek.co/2026/04/18/tesla-model-x-solar-charging-atacama-desert-chile-pan-american-highway/",
-      "description": "A YouTuber driving a Tesla Model X the entire length of the Americas ran out of battery in Chile’s Atacama Desert — the driest place on Earth — and had to deploy emergency solar panels on the side of the highway to survive.\nThe whole ordeal, captured on video, is a fascinating look at both the promise and the very real challenges of long-distance EV travel in regions where charging infrastructure remains sparse.\nmore…",
-      "published": "2026-04-19T02:24:22.000Z",
-      "source": "Electrek",
-      "sourceKey": "electrek",
-      "priority": 2,
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/04/Tesla-Model-X-emergency-solar-charging-hero.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "relevanceScore": 6,
-      "matchedKeywords": [
-        "tesla",
-        "uber"
-      ],
-      "category": "ev_autonomous"
+      "category": "business",
+      "baseScore": 5
     },
     {
       "title": "Postponed Apple TV series ‘The Savant’ will finally be released this summer",
       "link": "https://9to5mac.com/2026/04/18/postponed-apple-tv-series-the-savant-will-finally-be-released-this-summer/",
-      "description": "The Jessica Chastain thriller series, The Savant, was originally set to air on Apple TV last September. However, the company decided to cancel the release at the eleventh hour. Star Jessica Chastain said she was ‘not aligned’ with Apple on the decision. As months passed, many doubted if the series would ever make it to air.\nBut finally, Chastain herself confirmed to Variety that “we’re going to see it”. Variety indicates that Apple is targeting a July release date, although that is not yet officially confirmed.\nmore…",
+      "description": "The Jessica Chastain thriller series, The Savant, was originally set to air on Apple TV last September. However, the company decided to cancel the release at the eleventh hour. Star Jessica Chastain said she was ‘not aligned’ with Apple on the decision. As months passed, many doubted if the series would ever make it to air. But finally, Chastain herself confirmed to Variety that “we’re going to see it”. Variety indicates that Apple is targeting a July release date, although that is not yet offic",
       "published": "2026-04-19T06:37:08.000Z",
       "source": "9to5Mac",
       "sourceKey": "9to5mac",
@@ -67,7 +53,24 @@
       "matchedKeywords": [
         "apple"
       ],
-      "category": "ai"
+      "category": "devices",
+      "baseScore": 4
+    },
+    {
+      "title": "Tesla owner uses emergency solar to trickle charge after running out of battery in desert",
+      "link": "https://electrek.co/2026/04/18/tesla-model-x-solar-charging-atacama-desert-chile-pan-american-highway/",
+      "description": "A YouTuber driving a Tesla Model X the entire length of the Americas ran out of battery in Chile’s Atacama Desert — the driest place on Earth — and had to deploy emergency solar panels on the side of the highway to survive. The whole ordeal, captured on video, is a fascinating look at both the promise and the very real challenges of long-distance EV travel in regions where charging infrastructure remains sparse. more…",
+      "published": "2026-04-19T02:24:22.000Z",
+      "source": "Electrek",
+      "sourceKey": "electrek",
+      "priority": 2,
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/04/Tesla-Model-X-emergency-solar-charging-hero.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "tesla"
+      ],
+      "category": "ev_autonomous",
+      "baseScore": 4
     }
   ],
   "byCategory": {
@@ -81,12 +84,13 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 8,
+        "relevanceScore": 5,
         "matchedKeywords": [
           "ipo",
           "ceo"
         ],
-        "category": "business"
+        "category": "business",
+        "baseScore": 5
       },
       {
         "title": "CEO Jill Wyant Speaks on Madison Air IPO",
@@ -97,37 +101,20 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 8,
+        "relevanceScore": 5,
         "matchedKeywords": [
           "ipo",
           "ceo"
         ],
-        "category": "business"
+        "category": "business",
+        "baseScore": 5
       }
     ],
-    "ev_autonomous": [
-      {
-        "title": "Tesla owner uses emergency solar to trickle charge after running out of battery in desert",
-        "link": "https://electrek.co/2026/04/18/tesla-model-x-solar-charging-atacama-desert-chile-pan-american-highway/",
-        "description": "A YouTuber driving a Tesla Model X the entire length of the Americas ran out of battery in Chile’s Atacama Desert — the driest place on Earth — and had to deploy emergency solar panels on the side of the highway to survive.\nThe whole ordeal, captured on video, is a fascinating look at both the promise and the very real challenges of long-distance EV travel in regions where charging infrastructure remains sparse.\nmore…",
-        "published": "2026-04-19T02:24:22.000Z",
-        "source": "Electrek",
-        "sourceKey": "electrek",
-        "priority": 2,
-        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/04/Tesla-Model-X-emergency-solar-charging-hero.jpeg?quality=82&#038;strip=all&#038;w=1600",
-        "relevanceScore": 6,
-        "matchedKeywords": [
-          "tesla",
-          "uber"
-        ],
-        "category": "ev_autonomous"
-      }
-    ],
-    "ai": [
+    "devices": [
       {
         "title": "Postponed Apple TV series ‘The Savant’ will finally be released this summer",
         "link": "https://9to5mac.com/2026/04/18/postponed-apple-tv-series-the-savant-will-finally-be-released-this-summer/",
-        "description": "The Jessica Chastain thriller series, The Savant, was originally set to air on Apple TV last September. However, the company decided to cancel the release at the eleventh hour. Star Jessica Chastain said she was ‘not aligned’ with Apple on the decision. As months passed, many doubted if the series would ever make it to air.\nBut finally, Chastain herself confirmed to Variety that “we’re going to see it”. Variety indicates that Apple is targeting a July release date, although that is not yet officially confirmed.\nmore…",
+        "description": "The Jessica Chastain thriller series, The Savant, was originally set to air on Apple TV last September. However, the company decided to cancel the release at the eleventh hour. Star Jessica Chastain said she was ‘not aligned’ with Apple on the decision. As months passed, many doubted if the series would ever make it to air. But finally, Chastain herself confirmed to Variety that “we’re going to see it”. Variety indicates that Apple is targeting a July release date, although that is not yet offic",
         "published": "2026-04-19T06:37:08.000Z",
         "source": "9to5Mac",
         "sourceKey": "9to5mac",
@@ -137,7 +124,26 @@
         "matchedKeywords": [
           "apple"
         ],
-        "category": "ai"
+        "category": "devices",
+        "baseScore": 4
+      }
+    ],
+    "ev_autonomous": [
+      {
+        "title": "Tesla owner uses emergency solar to trickle charge after running out of battery in desert",
+        "link": "https://electrek.co/2026/04/18/tesla-model-x-solar-charging-atacama-desert-chile-pan-american-highway/",
+        "description": "A YouTuber driving a Tesla Model X the entire length of the Americas ran out of battery in Chile’s Atacama Desert — the driest place on Earth — and had to deploy emergency solar panels on the side of the highway to survive. The whole ordeal, captured on video, is a fascinating look at both the promise and the very real challenges of long-distance EV travel in regions where charging infrastructure remains sparse. more…",
+        "published": "2026-04-19T02:24:22.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/04/Tesla-Model-X-emergency-solar-charging-hero.jpeg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "tesla"
+        ],
+        "category": "ev_autonomous",
+        "baseScore": 4
       }
     ]
   },

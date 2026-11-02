@@ -15,7 +15,7 @@
       "sourceKey": "cnbc_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 24,
+      "relevanceScore": 22,
       "matchedKeywords": [
         "openai",
         "anthropic",
@@ -23,7 +23,8 @@
         "sam altman",
         "dario amodei"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 22
     },
     {
       "title": "India AI-Linked Plays Surge as Modi Hobnobs With Altman, Amodei",
@@ -42,7 +43,8 @@
         "dario amodei",
         "data center"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 18
     },
     {
       "title": "Nvidia is in talks to invest up to $30 billion in OpenAI, source says",
@@ -59,12 +61,13 @@
         "openai",
         "billion"
       ],
-      "category": "ai"
+      "category": "chips_cloud",
+      "baseScore": 13
     },
     {
       "title": "Microsoft's Smith Discusses OpenAI Partnership",
       "link": "https://www.bloomberg.com/news/videos/2026-02-20/microsoft-s-smith-discusses-openai-partnership-video",
-      "description": "“We built something special.”\n\nMicrosoft President Brad Smith discusses the company's OpenAI partnership with Bloomberg TV’s Haslinda Amin. (Source: Bloomberg)",
+      "description": "“We built something special.” Microsoft President Brad Smith discusses the company's OpenAI partnership with Bloomberg TV’s Haslinda Amin. (Source: Bloomberg)",
       "published": "2026-02-20T07:15:41.000Z",
       "source": "Bloomberg",
       "sourceKey": "bloomberg_tech",
@@ -75,7 +78,8 @@
         "microsoft",
         "openai"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 12
     },
     {
       "title": "Google’s new Gemini Pro model has record benchmark scores — again",
@@ -92,7 +96,8 @@
         "gemini",
         "llm"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 9
     },
     {
       "title": "Bets on Musk’s SpaceX Spark 200% Surge in Korean Brokerage Stock",
@@ -108,39 +113,8 @@
         "spacex",
         "elon musk"
       ],
-      "category": "space"
-    },
-    {
-      "title": "Metaplanet CEO rebuts critics over bitcoin strategy and transparency",
-      "link": "https://www.coindesk.com/markets/2026/02/20/metaplanet-ceo-rebuts-critics-over-bitcoin-strategy-and-transparency",
-      "description": "Simon Gerovich defends disclosure standards, options trading model, and hotel operations.",
-      "published": "2026-02-20T05:27:10.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "priority": 3,
-      "image": null,
-      "relevanceScore": 8,
-      "matchedKeywords": [
-        "meta",
-        "ceo",
-        "bitcoin"
-      ],
-      "category": "business"
-    },
-    {
-      "title": "Nvidia deepens early-stage push into India’s AI startup ecosystem",
-      "link": "https://techcrunch.com/2026/02/19/nvidia-deepens-early-stage-push-into-indias-ai-startup-ecosystem/",
-      "description": "Nvidia is working with investors, nonprofits, and venture firms to build earlier ties with India's fast-growing AI founder ecosystem.",
-      "published": "2026-02-20T00:30:00.000Z",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 5,
-      "matchedKeywords": [
-        "nvidia"
-      ],
-      "category": "ai"
+      "category": "business",
+      "baseScore": 8
     },
     {
       "title": "Three Silicon Valley engineers charged with stealing Google trade secrets and sending data to Iran",
@@ -155,22 +129,56 @@
       "matchedKeywords": [
         "google"
       ],
-      "category": null
+      "category": "other",
+      "baseScore": 5
     },
     {
-      "title": "Ex-Googlers Charged With Stealing Phone Processor Secrets",
-      "link": "https://www.bloomberg.com/news/articles/2026-02-20/ex-google-engineers-charged-with-stealing-phone-processor-tech",
-      "description": "Two former Google engineers and one of their husbands were indicted for allegedly stealing trade secrets relating to the company’s Tensor processor for Pixel phones.",
-      "published": "2026-02-20T01:13:12.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
+      "title": "Nvidia deepens early-stage push into India’s AI startup ecosystem",
+      "link": "https://techcrunch.com/2026/02/19/nvidia-deepens-early-stage-push-into-indias-ai-startup-ecosystem/",
+      "description": "Nvidia is working with investors, nonprofits, and venture firms to build earlier ties with India's fast-growing AI founder ecosystem.",
+      "published": "2026-02-20T00:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
       "priority": 1,
       "image": null,
       "relevanceScore": 5,
       "matchedKeywords": [
-        "google"
+        "nvidia"
       ],
-      "category": "chips_cloud"
+      "category": "chips_cloud",
+      "baseScore": 5
+    },
+    {
+      "title": "Tesla launches $60k AWD Cybertruck, reverses $15k Cyberbeast price hike",
+      "link": "https://electrek.co/2026/02/19/tesla-launches-60k-awd-cybertruck-cuts-cyberbeast-price-by-15k/",
+      "description": "Tesla is now selling a base model all-wheel drive Cybertruck starting at $60k, and has cut the price of its top-end Cyberbeast model to $100k, down from $115k. The move comes as the company struggles to sell the controversial truck, which has heretofore never come close to meeting its projected volume. more…",
+      "published": "2026-02-20T03:13:13.000Z",
+      "source": "Electrek",
+      "sourceKey": "electrek",
+      "priority": 2,
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2024/08/Hyundai-Tesla-Cybertruck.jpeg?quality=82&#038;strip=all&#038;w=1400",
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "tesla"
+      ],
+      "category": "ev_autonomous",
+      "baseScore": 4
+    },
+    {
+      "title": "Apple accuses Brazilian banks of seeking a ‘free ride’ in NFC probe",
+      "link": "https://9to5mac.com/2026/02/19/apple-accuses-brazilian-banks-of-seeking-a-free-ride-in-nfc-probe/",
+      "description": "In a recent statement to Brazil’s competition watchdog, Apple leaned on an increasingly familiar argument as it pushed back against pressure to further open up the iPhone’s NFC access. Here are the details. more…",
+      "published": "2026-02-20T01:30:58.000Z",
+      "source": "9to5Mac",
+      "sourceKey": "9to5mac",
+      "priority": 2,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/nfc-brazil.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "apple"
+      ],
+      "category": "devices",
+      "baseScore": 4
     }
   ],
   "byCategory": {
@@ -184,7 +192,7 @@
         "sourceKey": "cnbc_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 24,
+        "relevanceScore": 22,
         "matchedKeywords": [
           "openai",
           "anthropic",
@@ -192,7 +200,8 @@
           "sam altman",
           "dario amodei"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 22
       },
       {
         "title": "India AI-Linked Plays Surge as Modi Hobnobs With Altman, Amodei",
@@ -211,29 +220,13 @@
           "dario amodei",
           "data center"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "Nvidia is in talks to invest up to $30 billion in OpenAI, source says",
-        "link": "https://www.cnbc.com/2026/02/19/nvidia-is-in-talks-to-invest-up-to-30-billion-in-openai-source-says.html",
-        "description": "The investment is separate from the $100 billion infrastructure agreement that OpenAI and Nvidia announced in September.",
-        "published": "2026-02-20T02:05:55.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 13,
-        "matchedKeywords": [
-          "nvidia",
-          "openai",
-          "billion"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 18
       },
       {
         "title": "Microsoft's Smith Discusses OpenAI Partnership",
         "link": "https://www.bloomberg.com/news/videos/2026-02-20/microsoft-s-smith-discusses-openai-partnership-video",
-        "description": "“We built something special.”\n\nMicrosoft President Brad Smith discusses the company's OpenAI partnership with Bloomberg TV’s Haslinda Amin. (Source: Bloomberg)",
+        "description": "“We built something special.” Microsoft President Brad Smith discusses the company's OpenAI partnership with Bloomberg TV’s Haslinda Amin. (Source: Bloomberg)",
         "published": "2026-02-20T07:15:41.000Z",
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
@@ -244,7 +237,8 @@
           "microsoft",
           "openai"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 12
       },
       {
         "title": "Google’s new Gemini Pro model has record benchmark scores — again",
@@ -261,7 +255,28 @@
           "gemini",
           "llm"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 9
+      }
+    ],
+    "chips_cloud": [
+      {
+        "title": "Nvidia is in talks to invest up to $30 billion in OpenAI, source says",
+        "link": "https://www.cnbc.com/2026/02/19/nvidia-is-in-talks-to-invest-up-to-30-billion-in-openai-source-says.html",
+        "description": "The investment is separate from the $100 billion infrastructure agreement that OpenAI and Nvidia announced in September.",
+        "published": "2026-02-20T02:05:55.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 13,
+        "matchedKeywords": [
+          "nvidia",
+          "openai",
+          "billion"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 13
       },
       {
         "title": "Nvidia deepens early-stage push into India’s AI startup ecosystem",
@@ -276,40 +291,11 @@
         "matchedKeywords": [
           "nvidia"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "Apple accuses Brazilian banks of seeking a ‘free ride’ in NFC probe",
-        "link": "https://9to5mac.com/2026/02/19/apple-accuses-brazilian-banks-of-seeking-a-free-ride-in-nfc-probe/",
-        "description": "In a recent statement to Brazil’s competition watchdog, Apple leaned on an increasingly familiar argument as it pushed back against pressure to further open up the iPhone’s NFC access. Here are the details.\nmore…",
-        "published": "2026-02-20T01:30:58.000Z",
-        "source": "9to5Mac",
-        "sourceKey": "9to5mac",
-        "priority": 2,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/nfc-brazil.jpg?quality=82&#038;strip=all&#038;w=1600",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Snyk CEO bails, wants someone with more AI experience to replace him",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/snyk_ceo_stands_down/",
-        "description": "",
-        "published": "2026-02-20T05:07:25.000Z",
-        "source": "The Register",
-        "sourceKey": "theregister",
-        "priority": 2,
-        "image": null,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "ceo"
-        ],
-        "category": "ai"
+        "category": "chips_cloud",
+        "baseScore": 5
       }
     ],
-    "space": [
+    "business": [
       {
         "title": "Bets on Musk’s SpaceX Spark 200% Surge in Korean Brokerage Stock",
         "link": "https://www.bloomberg.com/news/articles/2026-02-20/bets-on-musk-s-spacex-spark-200-surge-in-korean-brokerage-stock",
@@ -324,43 +310,42 @@
           "spacex",
           "elon musk"
         ],
-        "category": "space"
-      }
-    ],
-    "business": [
+        "category": "business",
+        "baseScore": 8
+      },
       {
-        "title": "Metaplanet CEO rebuts critics over bitcoin strategy and transparency",
-        "link": "https://www.coindesk.com/markets/2026/02/20/metaplanet-ceo-rebuts-critics-over-bitcoin-strategy-and-transparency",
-        "description": "Simon Gerovich defends disclosure standards, options trading model, and hotel operations.",
-        "published": "2026-02-20T05:27:10.000Z",
-        "source": "CoinDesk",
-        "sourceKey": "coindesk",
-        "priority": 3,
+        "title": "Snyk CEO bails, wants someone with more AI experience to replace him",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/snyk_ceo_stands_down/",
+        "description": "",
+        "published": "2026-02-20T05:07:25.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
         "image": null,
-        "relevanceScore": 8,
+        "relevanceScore": 1,
         "matchedKeywords": [
-          "meta",
-          "ceo",
-          "bitcoin"
+          "ceo"
         ],
-        "category": "business"
+        "category": "business",
+        "baseScore": 1
       }
     ],
-    "chips_cloud": [
+    "other": [
       {
-        "title": "Ex-Googlers Charged With Stealing Phone Processor Secrets",
-        "link": "https://www.bloomberg.com/news/articles/2026-02-20/ex-google-engineers-charged-with-stealing-phone-processor-tech",
-        "description": "Two former Google engineers and one of their husbands were indicted for allegedly stealing trade secrets relating to the company’s Tensor processor for Pixel phones.",
-        "published": "2026-02-20T01:13:12.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
+        "title": "Three Silicon Valley engineers charged with stealing Google trade secrets and sending data to Iran",
+        "link": "https://www.cnbc.com/2026/02/20/three-engineers-charged-stealing-google-trade-secrets-data-iran-soc-snapdragon.html",
+        "description": "A federal grand jury indicted three engineers on charges of stealing trade secrets from Google and other tech firms and transferring sensitive data to Iran.",
+        "published": "2026-02-20T05:39:55.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
         "priority": 1,
         "image": null,
         "relevanceScore": 5,
         "matchedKeywords": [
           "google"
         ],
-        "category": "chips_cloud"
+        "category": "other",
+        "baseScore": 5
       },
       {
         "title": "General Catalyst commits $5B to India over five years",
@@ -371,19 +356,19 @@
         "sourceKey": "techcrunch",
         "priority": 1,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 2,
         "matchedKeywords": [
-          "arm",
           "billion"
         ],
-        "category": "chips_cloud"
+        "category": "other",
+        "baseScore": 2
       }
     ],
     "ev_autonomous": [
       {
         "title": "Tesla launches $60k AWD Cybertruck, reverses $15k Cyberbeast price hike",
         "link": "https://electrek.co/2026/02/19/tesla-launches-60k-awd-cybertruck-cuts-cyberbeast-price-by-15k/",
-        "description": "Tesla is now selling a base model all-wheel drive Cybertruck starting at $60k, and has cut the price of its top-end Cyberbeast model to $100k, down from $115k. The move comes as the company struggles to sell the controversial truck, which has heretofore never come close to meeting its projected volume.\nmore…",
+        "description": "Tesla is now selling a base model all-wheel drive Cybertruck starting at $60k, and has cut the price of its top-end Cyberbeast model to $100k, down from $115k. The move comes as the company struggles to sell the controversial truck, which has heretofore never come close to meeting its projected volume. more…",
         "published": "2026-02-20T03:13:13.000Z",
         "source": "Electrek",
         "sourceKey": "electrek",
@@ -393,8 +378,45 @@
         "matchedKeywords": [
           "tesla"
         ],
-        "category": "ev_autonomous"
+        "category": "ev_autonomous",
+        "baseScore": 4
+      }
+    ],
+    "devices": [
+      {
+        "title": "Apple accuses Brazilian banks of seeking a ‘free ride’ in NFC probe",
+        "link": "https://9to5mac.com/2026/02/19/apple-accuses-brazilian-banks-of-seeking-a-free-ride-in-nfc-probe/",
+        "description": "In a recent statement to Brazil’s competition watchdog, Apple leaned on an increasingly familiar argument as it pushed back against pressure to further open up the iPhone’s NFC access. Here are the details. more…",
+        "published": "2026-02-20T01:30:58.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/nfc-brazil.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices",
+        "baseScore": 4
       },
+      {
+        "title": "Ex-Googlers Charged With Stealing Phone Processor Secrets",
+        "link": "https://www.bloomberg.com/news/articles/2026-02-20/ex-google-engineers-charged-with-stealing-phone-processor-tech",
+        "description": "Two former Google engineers and one of their husbands were indicted for allegedly stealing trade secrets relating to the company’s Tensor processor for Pixel phones.",
+        "published": "2026-02-20T01:13:12.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "devices",
+        "baseScore": 3
+      }
+    ],
+    "crypto": [
       {
         "title": "Bitcoin logs worst first 50-day start to a year on record",
         "link": "https://www.coindesk.com/markets/2026/02/20/bitcoin-logs-worst-ever-start-to-a-year-through-first-50-days",
@@ -406,10 +428,28 @@
         "image": null,
         "relevanceScore": 4,
         "matchedKeywords": [
-          "first ever",
+          "bitcoin",
+          "first ever"
+        ],
+        "category": "crypto",
+        "baseScore": 4
+      },
+      {
+        "title": "Metaplanet CEO rebuts critics over bitcoin strategy and transparency",
+        "link": "https://www.coindesk.com/markets/2026/02/20/metaplanet-ceo-rebuts-critics-over-bitcoin-strategy-and-transparency",
+        "description": "Simon Gerovich defends disclosure standards, options trading model, and hotel operations.",
+        "published": "2026-02-20T05:27:10.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 2,
+        "matchedKeywords": [
+          "ceo",
           "bitcoin"
         ],
-        "category": "ev_autonomous"
+        "category": "crypto",
+        "baseScore": 2
       }
     ],
     "regulation": [
@@ -426,7 +466,8 @@
         "matchedKeywords": [
           "doj"
         ],
-        "category": "regulation"
+        "category": "regulation",
+        "baseScore": 3
       }
     ]
   },

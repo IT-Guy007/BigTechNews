@@ -15,14 +15,14 @@
       "sourceKey": "engadget",
       "priority": 2,
       "image": "https://www.engadget.com/img/gallery/daybreak-is-openais-response-to-anthropics-claude-mythos/l-intro-1778547896.jpg",
-      "relevanceScore": 20,
+      "relevanceScore": 17,
       "matchedKeywords": [
         "openai",
         "anthropic",
-        "gpt-5",
         "claude"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 17
     },
     {
       "title": "Anthropic warns against unauthorized stock exposure as token markets imply trillion-dollar valuation",
@@ -38,22 +38,8 @@
         "anthropic",
         "valuation"
       ],
-      "category": "ai"
-    },
-    {
-      "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
-      "link": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
-      "description": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
-      "published": "2026-05-12T00:09:01.000Z",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 5,
-      "matchedKeywords": [
-        "ipo"
-      ],
-      "category": "ai"
+      "category": "business",
+      "baseScore": 8
     },
     {
       "title": "Korea Roils Market by Floating ‘Citizen Dividend’ From AI",
@@ -64,44 +50,30 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 4,
+      "relevanceScore": 6,
       "matchedKeywords": [
         "samsung",
-        "chip"
+        "sk hynix",
+        "chipmaker"
       ],
-      "category": "ai"
+      "category": "chips_cloud",
+      "baseScore": 6
     },
     {
-      "title": "Why AI Matters More Than Iran War in Markets",
-      "link": "https://www.bloomberg.com/news/videos/2026-05-12/why-ai-matters-more-than-iran-war-in-markets-video",
-      "description": "Global equities have rallied to record levels, fuelled by euphoria over artificial intelligence. Investors' risk appetite has held up despite volatility in energy markets caused by the war in Iran. Bloomberg Markets Live Executive Editor Mark Cudmore and Bloomberg TV Markets Producer Anthony Stephens discuss. (Source: Bloomberg)",
-      "published": "2026-05-12T04:02:39.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
+      "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+      "link": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+      "description": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
+      "published": "2026-05-12T00:09:01.000Z",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
       "priority": 1,
       "image": null,
       "relevanceScore": 4,
       "matchedKeywords": [
-        "intel",
-        "artificial intelligence"
+        "ipo"
       ],
-      "category": "ai"
-    },
-    {
-      "title": "Australia Watchdog Says Money Launderers Ramping Up AI for Scams",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-12/australia-watchdog-says-money-launderers-ramping-up-ai-for-scams",
-      "description": "Australia’s financial crimes watchdog warned of a heightened threat of money laundering linked to artificial intelligence that has been used by crooks to scale up activities, automate processes and create fake documents.",
-      "published": "2026-05-12T03:06:01.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "intel",
-        "artificial intelligence"
-      ],
-      "category": "ai"
+      "category": "business",
+      "baseScore": 4
     },
     {
       "title": "Bitcoin miner MARA sold $1.5 billion of bitcoin as it shifts toward AI infrastructure",
@@ -114,11 +86,44 @@
       "image": null,
       "relevanceScore": 3,
       "matchedKeywords": [
-        "data center",
         "billion",
-        "bitcoin"
+        "bitcoin",
+        "data center"
       ],
-      "category": "ai"
+      "category": "crypto",
+      "baseScore": 3
+    },
+    {
+      "title": "Why AI Matters More Than Iran War in Markets",
+      "link": "https://www.bloomberg.com/news/videos/2026-05-12/why-ai-matters-more-than-iran-war-in-markets-video",
+      "description": "Global equities have rallied to record levels, fuelled by euphoria over artificial intelligence. Investors' risk appetite has held up despite volatility in energy markets caused by the war in Iran. Bloomberg Markets Live Executive Editor Mark Cudmore and Bloomberg TV Markets Producer Anthony Stephens discuss. (Source: Bloomberg)",
+      "published": "2026-05-12T04:02:39.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 2,
+      "matchedKeywords": [
+        "artificial intelligence"
+      ],
+      "category": "ai",
+      "baseScore": 2
+    },
+    {
+      "title": "Australia Watchdog Says Money Launderers Ramping Up AI for Scams",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-12/australia-watchdog-says-money-launderers-ramping-up-ai-for-scams",
+      "description": "Australia’s financial crimes watchdog warned of a heightened threat of money laundering linked to artificial intelligence that has been used by crooks to scale up activities, automate processes and create fake documents.",
+      "published": "2026-05-12T03:06:01.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 2,
+      "matchedKeywords": [
+        "artificial intelligence"
+      ],
+      "category": "ai",
+      "baseScore": 2
     }
   ],
   "byCategory": {
@@ -132,15 +137,49 @@
         "sourceKey": "engadget",
         "priority": 2,
         "image": "https://www.engadget.com/img/gallery/daybreak-is-openais-response-to-anthropics-claude-mythos/l-intro-1778547896.jpg",
-        "relevanceScore": 20,
+        "relevanceScore": 17,
         "matchedKeywords": [
           "openai",
           "anthropic",
-          "gpt-5",
           "claude"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 17
       },
+      {
+        "title": "Why AI Matters More Than Iran War in Markets",
+        "link": "https://www.bloomberg.com/news/videos/2026-05-12/why-ai-matters-more-than-iran-war-in-markets-video",
+        "description": "Global equities have rallied to record levels, fuelled by euphoria over artificial intelligence. Investors' risk appetite has held up despite volatility in energy markets caused by the war in Iran. Bloomberg Markets Live Executive Editor Mark Cudmore and Bloomberg TV Markets Producer Anthony Stephens discuss. (Source: Bloomberg)",
+        "published": "2026-05-12T04:02:39.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 2,
+        "matchedKeywords": [
+          "artificial intelligence"
+        ],
+        "category": "ai",
+        "baseScore": 2
+      },
+      {
+        "title": "Australia Watchdog Says Money Launderers Ramping Up AI for Scams",
+        "link": "https://www.bloomberg.com/news/articles/2026-05-12/australia-watchdog-says-money-launderers-ramping-up-ai-for-scams",
+        "description": "Australia’s financial crimes watchdog warned of a heightened threat of money laundering linked to artificial intelligence that has been used by crooks to scale up activities, automate processes and create fake documents.",
+        "published": "2026-05-12T03:06:01.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 2,
+        "matchedKeywords": [
+          "artificial intelligence"
+        ],
+        "category": "ai",
+        "baseScore": 2
+      }
+    ],
+    "business": [
       {
         "title": "Anthropic warns against unauthorized stock exposure as token markets imply trillion-dollar valuation",
         "link": "https://www.coindesk.com/markets/2026/05/12/anthropic-fights-unauthorized-stock-exposure-as-token-markets-imply-trillion-dollar-valuation",
@@ -155,7 +194,8 @@
           "anthropic",
           "valuation"
         ],
-        "category": "ai"
+        "category": "business",
+        "baseScore": 8
       },
       {
         "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
@@ -166,12 +206,15 @@
         "sourceKey": "techcrunch",
         "priority": 1,
         "image": null,
-        "relevanceScore": 5,
+        "relevanceScore": 4,
         "matchedKeywords": [
           "ipo"
         ],
-        "category": "ai"
-      },
+        "category": "business",
+        "baseScore": 4
+      }
+    ],
+    "chips_cloud": [
       {
         "title": "Korea Roils Market by Floating ‘Citizen Dividend’ From AI",
         "link": "https://www.bloomberg.com/news/articles/2026-05-12/korea-floats-citizen-dividend-using-ai-profits-samsung-falls",
@@ -181,45 +224,17 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 6,
         "matchedKeywords": [
           "samsung",
-          "chip"
+          "sk hynix",
+          "chipmaker"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "Why AI Matters More Than Iran War in Markets",
-        "link": "https://www.bloomberg.com/news/videos/2026-05-12/why-ai-matters-more-than-iran-war-in-markets-video",
-        "description": "Global equities have rallied to record levels, fuelled by euphoria over artificial intelligence. Investors' risk appetite has held up despite volatility in energy markets caused by the war in Iran. Bloomberg Markets Live Executive Editor Mark Cudmore and Bloomberg TV Markets Producer Anthony Stephens discuss. (Source: Bloomberg)",
-        "published": "2026-05-12T04:02:39.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "intel",
-          "artificial intelligence"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Australia Watchdog Says Money Launderers Ramping Up AI for Scams",
-        "link": "https://www.bloomberg.com/news/articles/2026-05-12/australia-watchdog-says-money-launderers-ramping-up-ai-for-scams",
-        "description": "Australia’s financial crimes watchdog warned of a heightened threat of money laundering linked to artificial intelligence that has been used by crooks to scale up activities, automate processes and create fake documents.",
-        "published": "2026-05-12T03:06:01.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "intel",
-          "artificial intelligence"
-        ],
-        "category": "ai"
-      },
+        "category": "chips_cloud",
+        "baseScore": 6
+      }
+    ],
+    "crypto": [
       {
         "title": "Bitcoin miner MARA sold $1.5 billion of bitcoin as it shifts toward AI infrastructure",
         "link": "https://www.coindesk.com/markets/2026/05/12/bitcoin-miner-mara-sold-usd1-5-billion-of-bitcoin-as-it-shifts-toward-ai-infrastructure",
@@ -231,11 +246,12 @@
         "image": null,
         "relevanceScore": 3,
         "matchedKeywords": [
-          "data center",
           "billion",
-          "bitcoin"
+          "bitcoin",
+          "data center"
         ],
-        "category": "ai"
+        "category": "crypto",
+        "baseScore": 3
       }
     ]
   },

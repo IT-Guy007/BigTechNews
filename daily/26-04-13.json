@@ -9,7 +9,7 @@
     {
       "title": "Huawei beats Apple and Samsung with new wide foldable",
       "link": "https://www.theverge.com/tech/910867/huawei-pura-x-max-foldable-phone-wide-china",
-      "description": "The Pura X Max’s wide aspect ratio should make it a better option for watching horizontal video. | Image: Huawei\t\n\nApple and Samsung have both been strongly linked with plans for foldable phones in a boxy, wide aspect ratio, but it looks like another company will get there first. Huawei has just revealed the design of the Pura X Max, a new foldable it's launching in China next week, and its passport-esque form factor is a dead ringer for early leaks of the iPhone Fold.\nWe don't know too much about the Pura X Max yet, which will get a full release on April 20th alongside the colorful Pura 90 series, but early images shared by Huawei show blue, white, orange, and black versions of the phone, all featuring a triple rear camera. The rear design, with gridde …\nRead the full story at The Verge.",
+      "description": "The Pura X Max’s wide aspect ratio should make it a better option for watching horizontal video. | Image: Huawei Apple and Samsung have both been strongly linked with plans for foldable phones in a boxy, wide aspect ratio, but it looks like another company will get there first. Huawei has just revealed the design of the Pura X Max, a new foldable it's launching in China next week, and its passport-esque form factor is a dead ringer for early leaks of the iPhone Fold. We don't know too much about",
       "published": "2026-04-13T08:13:41.000Z",
       "source": "The Verge",
       "sourceKey": "theverge",
@@ -21,7 +21,8 @@
         "samsung",
         "huawei"
       ],
-      "category": "ev_autonomous"
+      "category": "devices",
+      "baseScore": 13
     },
     {
       "title": "OpenAI announces first permanent London office after halting UK Stargate project",
@@ -36,15 +37,16 @@
       "matchedKeywords": [
         "openai"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 8
     }
   ],
   "byCategory": {
-    "ev_autonomous": [
+    "devices": [
       {
         "title": "Huawei beats Apple and Samsung with new wide foldable",
         "link": "https://www.theverge.com/tech/910867/huawei-pura-x-max-foldable-phone-wide-china",
-        "description": "The Pura X Max’s wide aspect ratio should make it a better option for watching horizontal video. | Image: Huawei\t\n\nApple and Samsung have both been strongly linked with plans for foldable phones in a boxy, wide aspect ratio, but it looks like another company will get there first. Huawei has just revealed the design of the Pura X Max, a new foldable it's launching in China next week, and its passport-esque form factor is a dead ringer for early leaks of the iPhone Fold.\nWe don't know too much about the Pura X Max yet, which will get a full release on April 20th alongside the colorful Pura 90 series, but early images shared by Huawei show blue, white, orange, and black versions of the phone, all featuring a triple rear camera. The rear design, with gridde …\nRead the full story at The Verge.",
+        "description": "The Pura X Max’s wide aspect ratio should make it a better option for watching horizontal video. | Image: Huawei Apple and Samsung have both been strongly linked with plans for foldable phones in a boxy, wide aspect ratio, but it looks like another company will get there first. Huawei has just revealed the design of the Pura X Max, a new foldable it's launching in China next week, and its passport-esque form factor is a dead ringer for early leaks of the iPhone Fold. We don't know too much about",
         "published": "2026-04-13T08:13:41.000Z",
         "source": "The Verge",
         "sourceKey": "theverge",
@@ -56,7 +58,8 @@
           "samsung",
           "huawei"
         ],
-        "category": "ev_autonomous"
+        "category": "devices",
+        "baseScore": 13
       }
     ],
     "ai": [
@@ -73,7 +76,8 @@
         "matchedKeywords": [
           "openai"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 8
       }
     ]
   },

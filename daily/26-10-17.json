@@ -15,15 +15,15 @@
       "sourceKey": "coindesk",
       "priority": 3,
       "image": null,
-      "relevanceScore": 12,
+      "relevanceScore": 9,
       "matchedKeywords": [
         "google",
         "breakthrough",
-        "quantum",
-        "chip",
-        "bitcoin"
+        "bitcoin",
+        "chip"
       ],
-      "category": "crypto"
+      "category": "crypto",
+      "baseScore": 9
     },
     {
       "title": "Arrested OpenAI Engineer Seeks Bail, Denies Planning to Flee",
@@ -38,70 +38,8 @@
       "matchedKeywords": [
         "openai"
       ],
-      "category": "ai"
-    },
-    {
-      "title": " US Army to use 3D-printed rocket motors for low-cost cruise missiles ",
-      "link": "https://www.tomshardware.com/3d-printing/us-army-to-use-3d-printed-rocket-motors-for-low-cost-cruise-missiles-additive-manufacturing-company-secures-deal-to-build-rocket-engines-for-the-arsenal-of-freedom",
-      "description": "X-Bow Systems has been tapped to 3D-print rocket motors for the U.S. Army's low-cost cruise missiles.",
-      "published": "2026-10-17T10:30:00.000Z",
-      "source": "Tom's Hardware",
-      "sourceKey": "tomshardware",
-      "priority": 2,
-      "image": "https://cdn.mos.cms.futurecdn.net/xMSuicz7be2Tzn8jfHcNP4-1920-80.png",
-      "relevanceScore": 8,
-      "matchedKeywords": [
-        "cruise",
-        "arm"
-      ],
-      "category": "chips_cloud"
-    },
-    {
-      "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
-      "link": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
-      "description": "Numbers the spy agency handed over in the 1990s, long suspected of hiding a backdoor, turn out to have come from a basic computer program. Bitcoin was never on that list, and its quantum problem hasn’t gone anywhere.",
-      "published": "2026-10-17T06:39:48.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "priority": 3,
-      "image": null,
-      "relevanceScore": 7,
-      "matchedKeywords": [
-        "claude",
-        "quantum",
-        "bitcoin"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": "The Tesla Roadster should go into production in 2028, but don't get your hopes up",
-      "link": "https://www.engadget.com/2289475/tesla-roadster-2028-production-dont-get-hopes-up/",
-      "description": "I drive upside down on the boulevard of broken dreams.",
-      "published": "2026-10-17T01:50:50.000Z",
-      "source": "Engadget",
-      "sourceKey": "engadget",
-      "priority": 2,
-      "image": "https://www.engadget.com/img/gallery/the-tesla-roadster-should-go-into-production-in-2028-but-dont-get-your-hopes-up/l-intro-1792201617.jpg",
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "tesla"
-      ],
-      "category": "ev_autonomous"
-    },
-    {
-      "title": "Some companies give AI to everyone. This CEO is doing the opposite",
-      "link": "https://www.cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html",
-      "description": "Paysend CEO Ben Chisell limits AI tools to top performers as other U.K. companies push broader workplace rollouts.",
-      "published": "2026-10-17T05:00:01.000Z",
-      "source": "CNBC",
-      "sourceKey": "cnbc_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "ceo"
-      ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 8
     },
     {
       "title": "Amazon wants you to Bee-lieve wearable AI can recall it all for you",
@@ -116,7 +54,71 @@
       "matchedKeywords": [
         "amazon"
       ],
-      "category": "ai"
+      "category": "devices",
+      "baseScore": 4
+    },
+    {
+      "title": "The Tesla Roadster should go into production in 2028, but don't get your hopes up",
+      "link": "https://www.engadget.com/2289475/tesla-roadster-2028-production-dont-get-hopes-up/",
+      "description": "I drive upside down on the boulevard of broken dreams.",
+      "published": "2026-10-17T01:50:50.000Z",
+      "source": "Engadget",
+      "sourceKey": "engadget",
+      "priority": 2,
+      "image": "https://www.engadget.com/img/gallery/the-tesla-roadster-should-go-into-production-in-2028-but-dont-get-your-hopes-up/l-intro-1792201617.jpg",
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "tesla"
+      ],
+      "category": "ev_autonomous",
+      "baseScore": 4
+    },
+    {
+      "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
+      "link": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
+      "description": "Numbers the spy agency handed over in the 1990s, long suspected of hiding a backdoor, turn out to have come from a basic computer program. Bitcoin was never on that list, and its quantum problem hasn’t gone anywhere.",
+      "published": "2026-10-17T06:39:48.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "priority": 3,
+      "image": null,
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "claude",
+        "bitcoin"
+      ],
+      "category": "ai",
+      "baseScore": 4
+    },
+    {
+      "title": "Some companies give AI to everyone. This CEO is doing the opposite",
+      "link": "https://www.cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html",
+      "description": "Paysend CEO Ben Chisell limits AI tools to top performers as other U.K. companies push broader workplace rollouts.",
+      "published": "2026-10-17T05:00:01.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 2,
+      "matchedKeywords": [
+        "ceo"
+      ],
+      "category": "business",
+      "baseScore": 2
+    },
+    {
+      "title": "US Army to use 3D-printed rocket motors for low-cost cruise missiles",
+      "link": "https://www.tomshardware.com/3d-printing/us-army-to-use-3d-printed-rocket-motors-for-low-cost-cruise-missiles-additive-manufacturing-company-secures-deal-to-build-rocket-engines-for-the-arsenal-of-freedom",
+      "description": "X-Bow Systems has been tapped to 3D-print rocket motors for the U.S. Army's low-cost cruise missiles.",
+      "published": "2026-10-17T10:30:00.000Z",
+      "source": "Tom's Hardware",
+      "sourceKey": "tomshardware",
+      "priority": 2,
+      "image": "https://cdn.mos.cms.futurecdn.net/xMSuicz7be2Tzn8jfHcNP4-1920-80.png",
+      "relevanceScore": 0,
+      "matchedKeywords": [],
+      "category": "space",
+      "baseScore": 0
     }
   ],
   "byCategory": {
@@ -130,15 +132,15 @@
         "sourceKey": "coindesk",
         "priority": 3,
         "image": null,
-        "relevanceScore": 12,
+        "relevanceScore": 9,
         "matchedKeywords": [
           "google",
           "breakthrough",
-          "quantum",
-          "chip",
-          "bitcoin"
+          "bitcoin",
+          "chip"
         ],
-        "category": "crypto"
+        "category": "crypto",
+        "baseScore": 9
       }
     ],
     "ai": [
@@ -155,7 +157,8 @@
         "matchedKeywords": [
           "openai"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 8
       },
       {
         "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
@@ -166,29 +169,16 @@
         "sourceKey": "coindesk",
         "priority": 3,
         "image": null,
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "claude",
-          "quantum",
-          "bitcoin"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Some companies give AI to everyone. This CEO is doing the opposite",
-        "link": "https://www.cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html",
-        "description": "Paysend CEO Ben Chisell limits AI tools to top performers as other U.K. companies push broader workplace rollouts.",
-        "published": "2026-10-17T05:00:01.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_tech",
-        "priority": 1,
-        "image": null,
         "relevanceScore": 4,
         "matchedKeywords": [
-          "ceo"
+          "claude",
+          "bitcoin"
         ],
-        "category": "ai"
-      },
+        "category": "ai",
+        "baseScore": 4
+      }
+    ],
+    "devices": [
       {
         "title": "Amazon wants you to Bee-lieve wearable AI can recall it all for you",
         "link": "https://www.theregister.com/personal-tech/2026/10/17/amazon-wants-you-to-bee-lieve-wearable-ai-can-recall-it-all-for-you/5303569",
@@ -202,25 +192,8 @@
         "matchedKeywords": [
           "amazon"
         ],
-        "category": "ai"
-      }
-    ],
-    "chips_cloud": [
-      {
-        "title": " US Army to use 3D-printed rocket motors for low-cost cruise missiles ",
-        "link": "https://www.tomshardware.com/3d-printing/us-army-to-use-3d-printed-rocket-motors-for-low-cost-cruise-missiles-additive-manufacturing-company-secures-deal-to-build-rocket-engines-for-the-arsenal-of-freedom",
-        "description": "X-Bow Systems has been tapped to 3D-print rocket motors for the U.S. Army's low-cost cruise missiles.",
-        "published": "2026-10-17T10:30:00.000Z",
-        "source": "Tom's Hardware",
-        "sourceKey": "tomshardware",
-        "priority": 2,
-        "image": "https://cdn.mos.cms.futurecdn.net/xMSuicz7be2Tzn8jfHcNP4-1920-80.png",
-        "relevanceScore": 8,
-        "matchedKeywords": [
-          "cruise",
-          "arm"
-        ],
-        "category": "chips_cloud"
+        "category": "devices",
+        "baseScore": 4
       }
     ],
     "ev_autonomous": [
@@ -237,7 +210,42 @@
         "matchedKeywords": [
           "tesla"
         ],
-        "category": "ev_autonomous"
+        "category": "ev_autonomous",
+        "baseScore": 4
+      }
+    ],
+    "business": [
+      {
+        "title": "Some companies give AI to everyone. This CEO is doing the opposite",
+        "link": "https://www.cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html",
+        "description": "Paysend CEO Ben Chisell limits AI tools to top performers as other U.K. companies push broader workplace rollouts.",
+        "published": "2026-10-17T05:00:01.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 2,
+        "matchedKeywords": [
+          "ceo"
+        ],
+        "category": "business",
+        "baseScore": 2
+      }
+    ],
+    "space": [
+      {
+        "title": "US Army to use 3D-printed rocket motors for low-cost cruise missiles",
+        "link": "https://www.tomshardware.com/3d-printing/us-army-to-use-3d-printed-rocket-motors-for-low-cost-cruise-missiles-additive-manufacturing-company-secures-deal-to-build-rocket-engines-for-the-arsenal-of-freedom",
+        "description": "X-Bow Systems has been tapped to 3D-print rocket motors for the U.S. Army's low-cost cruise missiles.",
+        "published": "2026-10-17T10:30:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/xMSuicz7be2Tzn8jfHcNP4-1920-80.png",
+        "relevanceScore": 0,
+        "matchedKeywords": [],
+        "category": "space",
+        "baseScore": 0
       }
     ]
   },

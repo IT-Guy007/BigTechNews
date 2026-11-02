@@ -19,7 +19,8 @@
       "matchedKeywords": [
         "openai"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 7
     },
     {
       "title": "Nvidia Partner Hon Hai’s Sales Climb 52% With AI Server Momentum",
@@ -35,7 +36,8 @@
         "nvidia",
         "data center"
       ],
-      "category": "chips_cloud"
+      "category": "chips_cloud",
+      "baseScore": 6
     }
   ],
   "byCategory": {
@@ -53,7 +55,8 @@
         "matchedKeywords": [
           "openai"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 7
       }
     ],
     "chips_cloud": [
@@ -71,7 +74,8 @@
           "nvidia",
           "data center"
         ],
-        "category": "chips_cloud"
+        "category": "chips_cloud",
+        "baseScore": 6
       }
     ]
   },

@@ -15,12 +15,12 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 4,
+      "relevanceScore": 2,
       "matchedKeywords": [
-        "intel",
         "artificial intelligence"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 2
     }
   ],
   "byCategory": {
@@ -34,12 +34,12 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 2,
         "matchedKeywords": [
-          "intel",
           "artificial intelligence"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 2
       }
     ]
   },

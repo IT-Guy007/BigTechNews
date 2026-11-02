@@ -15,15 +15,16 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 8,
+      "relevanceScore": 11,
       "matchedKeywords": [
         "nvidia",
-        "intel",
+        "deepseek",
         "artificial intelligence",
         "semiconductor",
         "billion"
       ],
-      "category": "chips_cloud"
+      "category": "ai",
+      "baseScore": 11
     },
     {
       "title": "Moonshot AI IPO push follows Kimi, Alibaba AI releases that shook bitcoin",
@@ -34,31 +35,17 @@
       "sourceKey": "coindesk",
       "priority": 3,
       "image": null,
-      "relevanceScore": 8,
+      "relevanceScore": 11,
       "matchedKeywords": [
+        "alibaba",
         "ipo",
+        "bitcoin",
         "chip",
-        "billion",
         "valuation",
-        "bitcoin"
-      ],
-      "category": "business"
-    },
-    {
-      "title": " China's Zhongji Innolight sees shares surge after Hong Kong listing approval ",
-      "link": "https://www.cnbc.com/2026/07/20/-chinas-zhongji-innolight-sees-shares-surge-after-hong-kong-listing-approval-.html",
-      "description": "The deal size will exceed Luxshare Precision's $3.1 billion IPO earlier this month, making it the largest listing in Hong Kong this ​year.",
-      "published": "2026-07-20T04:09:38.000Z",
-      "source": "CNBC",
-      "sourceKey": "cnbc_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 6,
-      "matchedKeywords": [
-        "ipo",
         "billion"
       ],
-      "category": "business"
+      "category": "business",
+      "baseScore": 11
     },
     {
       "title": "TSMC is accelerating Arizona factory buildout to capitalize on AI 'megatrend,' CFO says",
@@ -73,22 +60,25 @@
       "matchedKeywords": [
         "tsmc"
       ],
-      "category": "ai"
+      "category": "chips_cloud",
+      "baseScore": 5
     },
     {
-      "title": "AI Pioneer Kai-Fu Lee’s Startup Targets Hong Kong IPO Next Year",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-20/ai-pioneer-kai-fu-lee-s-startup-targets-hong-kong-ipo-next-year",
-      "description": "01.ai, the Chinese AI startup founded by computer scientist Kai-Fu Lee, is pushing ahead with plans to raise funds before an initial public offering in 2027.",
-      "published": "2026-07-20T03:40:12.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
+      "title": "China's Zhongji Innolight sees shares surge after Hong Kong listing approval",
+      "link": "https://www.cnbc.com/2026/07/20/-chinas-zhongji-innolight-sees-shares-surge-after-hong-kong-listing-approval-.html",
+      "description": "The deal size will exceed Luxshare Precision's $3.1 billion IPO earlier this month, making it the largest listing in Hong Kong this ​year.",
+      "published": "2026-07-20T04:09:38.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
       "priority": 1,
       "image": null,
       "relevanceScore": 5,
       "matchedKeywords": [
-        "ipo"
+        "ipo",
+        "billion"
       ],
-      "category": "ai"
+      "category": "business",
+      "baseScore": 5
     },
     {
       "title": "Amazon Japan supplier AZ-Com Maruwa to adopt yen stablecoin JPYC for payments",
@@ -104,7 +94,40 @@
         "amazon",
         "stablecoin"
       ],
-      "category": "crypto"
+      "category": "crypto",
+      "baseScore": 5
+    },
+    {
+      "title": "AI Pioneer Kai-Fu Lee’s Startup Targets Hong Kong IPO Next Year",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-20/ai-pioneer-kai-fu-lee-s-startup-targets-hong-kong-ipo-next-year",
+      "description": "01.ai, the Chinese AI startup founded by computer scientist Kai-Fu Lee, is pushing ahead with plans to raise funds before an initial public offering in 2027.",
+      "published": "2026-07-20T03:40:12.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "ipo"
+      ],
+      "category": "business",
+      "baseScore": 4
+    },
+    {
+      "title": "Apple Testing New 'Live Notes' Feature at Genius Bar",
+      "link": "https://www.macrumors.com/2026/07/19/apple-testing-live-notes-feature-at-genius-bar/",
+      "description": "Apple is testing a new AI-powered \"Live Notes\" feature that can transcribe conversations between Genius Bar employees and customers at some of its stores, according to Bloomberg's Mark Gurman. The system is currently opt-in, meaning it is only active if both the employee and customer agree to use it. This article, \"Apple Testing New 'Live Notes' Feature at Genius Bar\" first appeared on MacRumors.com Discuss this article in our forums",
+      "published": "2026-07-20T01:59:22.000Z",
+      "source": "MacRumors",
+      "sourceKey": "macrumors",
+      "priority": 2,
+      "image": "https://images.macrumors.com/article-new/2026/07/Apple-Genius-Bar.jpg",
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "apple"
+      ],
+      "category": "ai",
+      "baseScore": 4
     },
     {
       "title": "Moonshot Is Creating New Winners and Losers in the AI Trade",
@@ -115,12 +138,12 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 4,
+      "relevanceScore": 2,
       "matchedKeywords": [
-        "intel",
         "artificial intelligence"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 2
     },
     {
       "title": "AI Is ‘New Engine’ Keeping Chinese Economy From Harder Landing",
@@ -131,46 +154,30 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 4,
+      "relevanceScore": 2,
       "matchedKeywords": [
-        "intel",
         "artificial intelligence"
       ],
-      "category": "ai"
-    },
-    {
-      "title": "Apple Testing New 'Live Notes' Feature at Genius Bar",
-      "link": "https://www.macrumors.com/2026/07/19/apple-testing-live-notes-feature-at-genius-bar/",
-      "description": "Apple is testing a new AI-powered \"Live Notes\" feature that can transcribe conversations between Genius Bar employees and customers at some of its stores, according to Bloomberg's Mark Gurman. The system is currently opt-in, meaning it is only active if both the employee and customer agree to use it.\r\n\r\nThis article, \"Apple Testing New 'Live Notes' Feature at Genius Bar\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-      "published": "2026-07-20T01:59:22.000Z",
-      "source": "MacRumors",
-      "sourceKey": "macrumors",
-      "priority": 2,
-      "image": "https://images.macrumors.com/article-new/2026/07/Apple-Genius-Bar.jpg",
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "apple"
-      ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 2
     },
     {
       "title": "Influencers Are Being Paid to Spread the Mormon Church's Gospel",
       "link": "https://www.bloomberg.com/news/articles/2026-07-20/influencers-are-being-paid-to-spread-the-mormon-church-s-gospel",
-      "description": "Through its for-profit subsidiary, the church owns several advertising companies with influencer-marketing arms",
+      "description": "Through its for-profit subsidiary, the church owns several advertising companies with influencer-marketing arms",
       "published": "2026-07-20T09:30:22.000Z",
       "source": "Bloomberg",
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 3,
-      "matchedKeywords": [
-        "arm"
-      ],
-      "category": "ai"
+      "relevanceScore": 1,
+      "matchedKeywords": [],
+      "category": "other",
+      "baseScore": 1
     }
   ],
   "byCategory": {
-    "chips_cloud": [
+    "ai": [
       {
         "title": "Moonshot’s Kimi K3 May Be More About Memory Than Compute",
         "link": "https://www.bloomberg.com/news/articles/2026-07-20/moonshot-s-kimi-k3-may-be-more-about-memory-than-compute",
@@ -180,15 +187,64 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 8,
+        "relevanceScore": 11,
         "matchedKeywords": [
           "nvidia",
-          "intel",
+          "deepseek",
           "artificial intelligence",
           "semiconductor",
           "billion"
         ],
-        "category": "chips_cloud"
+        "category": "ai",
+        "baseScore": 11
+      },
+      {
+        "title": "Apple Testing New 'Live Notes' Feature at Genius Bar",
+        "link": "https://www.macrumors.com/2026/07/19/apple-testing-live-notes-feature-at-genius-bar/",
+        "description": "Apple is testing a new AI-powered \"Live Notes\" feature that can transcribe conversations between Genius Bar employees and customers at some of its stores, according to Bloomberg's Mark Gurman. The system is currently opt-in, meaning it is only active if both the employee and customer agree to use it. This article, \"Apple Testing New 'Live Notes' Feature at Genius Bar\" first appeared on MacRumors.com Discuss this article in our forums",
+        "published": "2026-07-20T01:59:22.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/07/Apple-Genius-Bar.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai",
+        "baseScore": 4
+      },
+      {
+        "title": "Moonshot Is Creating New Winners and Losers in the AI Trade",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-20/moonshot-ai-is-creating-new-winners-and-losers-in-the-ai-trade",
+        "description": "Moonshot AI’s surprise release of a new artificial intelligence model has sent a jolt through markets, forcing investors to reassess some of the biggest assumptions behind the global tech rally.",
+        "published": "2026-07-20T08:34:41.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 2,
+        "matchedKeywords": [
+          "artificial intelligence"
+        ],
+        "category": "ai",
+        "baseScore": 2
+      },
+      {
+        "title": "AI Is ‘New Engine’ Keeping Chinese Economy From Harder Landing",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-20/ai-is-new-engine-keeping-chinese-economy-from-harder-landing",
+        "description": "A global rush to build out artificial intelligence infrastructure has turned the technology into a key pocket of growth in China’s economy during one of its weakest stretches in years.",
+        "published": "2026-07-20T07:25:45.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 2,
+        "matchedKeywords": [
+          "artificial intelligence"
+        ],
+        "category": "ai",
+        "baseScore": 2
       }
     ],
     "business": [
@@ -201,34 +257,53 @@
         "sourceKey": "coindesk",
         "priority": 3,
         "image": null,
-        "relevanceScore": 8,
+        "relevanceScore": 11,
         "matchedKeywords": [
+          "alibaba",
           "ipo",
+          "bitcoin",
           "chip",
-          "billion",
           "valuation",
-          "bitcoin"
+          "billion"
         ],
-        "category": "business"
+        "category": "business",
+        "baseScore": 11
       },
       {
-        "title": " China's Zhongji Innolight sees shares surge after Hong Kong listing approval ",
+        "title": "China's Zhongji Innolight sees shares surge after Hong Kong listing approval",
         "link": "https://www.cnbc.com/2026/07/20/-chinas-zhongji-innolight-sees-shares-surge-after-hong-kong-listing-approval-.html",
-        "description": "The deal size will exceed Luxshare Precision's $3.1 billion IPO earlier this month, making it the largest listing in Hong Kong this ​year.",
+        "description": "The deal size will exceed Luxshare Precision's $3.1 billion IPO earlier this month, making it the largest listing in Hong Kong this ​year.",
         "published": "2026-07-20T04:09:38.000Z",
         "source": "CNBC",
         "sourceKey": "cnbc_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 6,
+        "relevanceScore": 5,
         "matchedKeywords": [
           "ipo",
           "billion"
         ],
-        "category": "business"
+        "category": "business",
+        "baseScore": 5
+      },
+      {
+        "title": "AI Pioneer Kai-Fu Lee’s Startup Targets Hong Kong IPO Next Year",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-20/ai-pioneer-kai-fu-lee-s-startup-targets-hong-kong-ipo-next-year",
+        "description": "01.ai, the Chinese AI startup founded by computer scientist Kai-Fu Lee, is pushing ahead with plans to raise funds before an initial public offering in 2027.",
+        "published": "2026-07-20T03:40:12.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "ipo"
+        ],
+        "category": "business",
+        "baseScore": 4
       }
     ],
-    "ai": [
+    "chips_cloud": [
       {
         "title": "TSMC is accelerating Arizona factory buildout to capitalize on AI 'megatrend,' CFO says",
         "link": "https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html",
@@ -242,84 +317,8 @@
         "matchedKeywords": [
           "tsmc"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "AI Pioneer Kai-Fu Lee’s Startup Targets Hong Kong IPO Next Year",
-        "link": "https://www.bloomberg.com/news/articles/2026-07-20/ai-pioneer-kai-fu-lee-s-startup-targets-hong-kong-ipo-next-year",
-        "description": "01.ai, the Chinese AI startup founded by computer scientist Kai-Fu Lee, is pushing ahead with plans to raise funds before an initial public offering in 2027.",
-        "published": "2026-07-20T03:40:12.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "ipo"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Moonshot Is Creating New Winners and Losers in the AI Trade",
-        "link": "https://www.bloomberg.com/news/articles/2026-07-20/moonshot-ai-is-creating-new-winners-and-losers-in-the-ai-trade",
-        "description": "Moonshot AI’s surprise release of a new artificial intelligence model has sent a jolt through markets, forcing investors to reassess some of the biggest assumptions behind the global tech rally.",
-        "published": "2026-07-20T08:34:41.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "intel",
-          "artificial intelligence"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "AI Is ‘New Engine’ Keeping Chinese Economy From Harder Landing",
-        "link": "https://www.bloomberg.com/news/articles/2026-07-20/ai-is-new-engine-keeping-chinese-economy-from-harder-landing",
-        "description": "A global rush to build out artificial intelligence infrastructure has turned the technology into a key pocket of growth in China’s economy during one of its weakest stretches in years.",
-        "published": "2026-07-20T07:25:45.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "intel",
-          "artificial intelligence"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Apple Testing New 'Live Notes' Feature at Genius Bar",
-        "link": "https://www.macrumors.com/2026/07/19/apple-testing-live-notes-feature-at-genius-bar/",
-        "description": "Apple is testing a new AI-powered \"Live Notes\" feature that can transcribe conversations between Genius Bar employees and customers at some of its stores, according to Bloomberg's Mark Gurman. The system is currently opt-in, meaning it is only active if both the employee and customer agree to use it.\r\n\r\nThis article, \"Apple Testing New 'Live Notes' Feature at Genius Bar\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-        "published": "2026-07-20T01:59:22.000Z",
-        "source": "MacRumors",
-        "sourceKey": "macrumors",
-        "priority": 2,
-        "image": "https://images.macrumors.com/article-new/2026/07/Apple-Genius-Bar.jpg",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Influencers Are Being Paid to Spread the Mormon Church's Gospel",
-        "link": "https://www.bloomberg.com/news/articles/2026-07-20/influencers-are-being-paid-to-spread-the-mormon-church-s-gospel",
-        "description": "Through its for-profit subsidiary, the church owns several advertising companies with influencer-marketing arms",
-        "published": "2026-07-20T09:30:22.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "arm"
-        ],
-        "category": "ai"
+        "category": "chips_cloud",
+        "baseScore": 5
       }
     ],
     "crypto": [
@@ -337,7 +336,24 @@
           "amazon",
           "stablecoin"
         ],
-        "category": "crypto"
+        "category": "crypto",
+        "baseScore": 5
+      }
+    ],
+    "other": [
+      {
+        "title": "Influencers Are Being Paid to Spread the Mormon Church's Gospel",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-20/influencers-are-being-paid-to-spread-the-mormon-church-s-gospel",
+        "description": "Through its for-profit subsidiary, the church owns several advertising companies with influencer-marketing arms",
+        "published": "2026-07-20T09:30:22.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 1,
+        "matchedKeywords": [],
+        "category": "other",
+        "baseScore": 1
       }
     ]
   },

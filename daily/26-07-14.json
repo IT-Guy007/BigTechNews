@@ -21,9 +21,30 @@
         "openai",
         "xai",
         "chatgpt",
-        "elon musk"
+        "elon musk",
+        "lawsuit"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 23
+    },
+    {
+      "title": "Trillion Dollar Chip Rout Trains Spotlight on TSMC and ASML Results",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-14/trillion-dollar-chip-rout-trains-spotlight-on-tsmc-asml-results",
+      "description": "At a time of acute investor unease over a selloff in AI-inflated tech stocks, this week’s results from Taiwan Semiconductor Manufacturing Co. and ASML Holding NV carry even greater significance than usual.",
+      "published": "2026-07-14T07:17:54.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 11,
+      "matchedKeywords": [
+        "tsmc",
+        "asml",
+        "chip",
+        "semiconductor"
+      ],
+      "category": "chips_cloud",
+      "baseScore": 11
     },
     {
       "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
@@ -37,47 +58,11 @@
       "relevanceScore": 11,
       "matchedKeywords": [
         "uber",
-        "waymo",
-        "robotaxi"
+        "robotaxi",
+        "waymo"
       ],
-      "category": "ev_autonomous"
-    },
-    {
-      "title": "Nvidia Partner GMI Cloud Seeks $635 Million GPU-Backed Bank Loan",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-14/nvidia-partner-gmi-cloud-seeks-635-million-gpu-backed-bank-loan",
-      "description": "US-based data center operator GMI Cloud is seeking a NT$20.45 billion ($635 million) multi-tranche loan deal supported by customer contracts for graphics processing units, one of the first such financings in Asia that reflects the region’s growing demand for artificial intelligence.",
-      "published": "2026-07-14T06:17:56.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 11,
-      "matchedKeywords": [
-        "nvidia",
-        "intel",
-        "artificial intelligence",
-        "gpu",
-        "data center"
-      ],
-      "category": "chips_cloud"
-    },
-    {
-      "title": "SoftBank Billionaire: Nuclear Fusion Is Key to AI Future",
-      "link": "https://www.bloomberg.com/news/videos/2026-07-14/softbank-billionaire-nuclear-fusion-as-key-to-ai-future-video",
-      "description": "SoftBank founder Masayoshi Son said that in the not-so-distant future, nuclear fusion technology will offer the most realistic solution for powering AI data centers’ ballooning needs. He speaks at an annual SoftBank World event in Tokyo.  (Source: Bloomberg)",
-      "published": "2026-07-14T05:58:10.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 10,
-      "matchedKeywords": [
-        "softbank",
-        "fusion",
-        "data center",
-        "billion"
-      ],
-      "category": "ai"
+      "category": "ev_autonomous",
+      "baseScore": 11
     },
     {
       "title": "SoftBank’s Masayoshi Son Sees Fusion as Key to AI’s Future",
@@ -94,7 +79,35 @@
         "fusion",
         "data center"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 9,
+      "alsoIn": [
+        {
+          "source": "Bloomberg",
+          "title": "SoftBank Billionaire: Nuclear Fusion Is Key to AI Future",
+          "link": "https://www.bloomberg.com/news/videos/2026-07-14/softbank-billionaire-nuclear-fusion-as-key-to-ai-future-video"
+        }
+      ]
+    },
+    {
+      "title": "Nvidia Partner GMI Cloud Seeks $635 Million GPU-Backed Bank Loan",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-14/nvidia-partner-gmi-cloud-seeks-635-million-gpu-backed-bank-loan",
+      "description": "US-based data center operator GMI Cloud is seeking a NT$20.45 billion ($635 million) multi-tranche loan deal supported by customer contracts for graphics processing units, one of the first such financings in Asia that reflects the region’s growing demand for artificial intelligence.",
+      "published": "2026-07-14T06:17:56.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "nvidia",
+        "gpu",
+        "artificial intelligence",
+        "data center",
+        "billion"
+      ],
+      "category": "chips_cloud",
+      "baseScore": 9
     },
     {
       "title": "Huawei, Apple Get Boost in China From Memory Costs, IDC Says",
@@ -110,7 +123,8 @@
         "apple",
         "huawei"
       ],
-      "category": "ev_autonomous"
+      "category": "devices",
+      "baseScore": 9
     },
     {
       "title": "SpaceX is gearing up for Starship's 13th test flight later this week",
@@ -124,11 +138,12 @@
       "relevanceScore": 8,
       "matchedKeywords": [
         "spacex",
-        "starlink",
         "starship",
+        "starlink",
         "satellite"
       ],
-      "category": "space"
+      "category": "space",
+      "baseScore": 8
     },
     {
       "title": "Google brings Gemini in Chrome to UK users",
@@ -144,24 +159,8 @@
         "google",
         "gemini"
       ],
-      "category": "ai"
-    },
-    {
-      "title": "Trillion Dollar Chip Rout Trains Spotlight on TSMC and ASML Results",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-14/trillion-dollar-chip-rout-trains-spotlight-on-tsmc-asml-results",
-      "description": "At a time of acute investor unease over a selloff in AI-inflated tech stocks, this week’s results from Taiwan Semiconductor Manufacturing Co. and ASML Holding NV carry even greater significance than usual.",
-      "published": "2026-07-14T07:17:54.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 7,
-      "matchedKeywords": [
-        "tsmc",
-        "semiconductor",
-        "chip"
-      ],
-      "category": "chips_cloud"
+      "category": "ai",
+      "baseScore": 7
     },
     {
       "title": "India’s Antitrust Body Fines HP $13.3 Million for Cartelizing",
@@ -177,7 +176,25 @@
         "antitrust",
         "billion"
       ],
-      "category": "regulation"
+      "category": "regulation",
+      "baseScore": 6
+    },
+    {
+      "title": "SK Hynix Shares Rebound After Early Rout as AI Jitters Persist",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-14/sk-hynix-shares-waver-in-seoul-after-wall-street-ai-memory-rout",
+      "description": "SK Hynix Inc. erased an early plunge to climb more than 3% in Seoul on Tuesday, underscoring the extreme volatility gripping one of the world’s biggest beneficiaries of the artificial intelligence boom.",
+      "published": "2026-07-14T00:53:47.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 6,
+      "matchedKeywords": [
+        "sk hynix",
+        "artificial intelligence"
+      ],
+      "category": "ai",
+      "baseScore": 6
     }
   ],
   "byCategory": {
@@ -197,27 +214,11 @@
           "openai",
           "xai",
           "chatgpt",
-          "elon musk"
+          "elon musk",
+          "lawsuit"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "SoftBank Billionaire: Nuclear Fusion Is Key to AI Future",
-        "link": "https://www.bloomberg.com/news/videos/2026-07-14/softbank-billionaire-nuclear-fusion-as-key-to-ai-future-video",
-        "description": "SoftBank founder Masayoshi Son said that in the not-so-distant future, nuclear fusion technology will offer the most realistic solution for powering AI data centers’ ballooning needs. He speaks at an annual SoftBank World event in Tokyo.  (Source: Bloomberg)",
-        "published": "2026-07-14T05:58:10.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 10,
-        "matchedKeywords": [
-          "softbank",
-          "fusion",
-          "data center",
-          "billion"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 23
       },
       {
         "title": "SoftBank’s Masayoshi Son Sees Fusion as Key to AI’s Future",
@@ -234,7 +235,15 @@
           "fusion",
           "data center"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 9,
+        "alsoIn": [
+          {
+            "source": "Bloomberg",
+            "title": "SoftBank Billionaire: Nuclear Fusion Is Key to AI Future",
+            "link": "https://www.bloomberg.com/news/videos/2026-07-14/softbank-billionaire-nuclear-fusion-as-key-to-ai-future-video"
+          }
+        ]
       },
       {
         "title": "Google brings Gemini in Chrome to UK users",
@@ -250,41 +259,8 @@
           "google",
           "gemini"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "South Korea Turns More Bullish on Economy as Chip Boom Rolls On",
-        "link": "https://www.bloomberg.com/news/articles/2026-07-14/south-korea-turns-more-bullish-on-economy-as-chip-boom-rolls-on",
-        "description": "South Korea’s government is taking a more bullish view of the economy than the International Monetary Fund’s recent assessment, maintaining that an artificial intelligence-driven semiconductor boom will continue to outweigh the impact of the Middle East conflict.",
-        "published": "2026-07-14T02:39:23.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 6,
-        "matchedKeywords": [
-          "intel",
-          "artificial intelligence",
-          "semiconductor",
-          "chip"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "State Street to Continue Buying Tech Dips, Veitmane Says",
-        "link": "https://www.bloomberg.com/news/videos/2026-07-14/state-street-to-continue-buying-tech-dips-veitmane-says-video",
-        "description": "Marija Veitmane, equity research head at State Street Global Markets, discusses the artificial intelligence trade and why she sees opportunities in software stocks. \"We see analysts stabilizing their margin expectation revenue,\" Veitmane tells Bloomberg Television. \"At the same time, we see institutional investors starting to buy from this big, big underweight position,\" she adds. (Source: Bloomberg)",
-        "published": "2026-07-14T07:51:14.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "intel",
-          "artificial intelligence"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 7
       },
       {
         "title": "SK Hynix Shares Rebound After Early Rout as AI Jitters Persist",
@@ -295,12 +271,13 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 6,
         "matchedKeywords": [
-          "intel",
+          "sk hynix",
           "artificial intelligence"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 6
       },
       {
         "title": "Finland’s NestAI Builds Sovereign AI Tools for Europe Militaries",
@@ -311,27 +288,71 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 2,
         "matchedKeywords": [
-          "intel",
           "artificial intelligence"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 2
+      }
+    ],
+    "chips_cloud": [
+      {
+        "title": "Trillion Dollar Chip Rout Trains Spotlight on TSMC and ASML Results",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-14/trillion-dollar-chip-rout-trains-spotlight-on-tsmc-asml-results",
+        "description": "At a time of acute investor unease over a selloff in AI-inflated tech stocks, this week’s results from Taiwan Semiconductor Manufacturing Co. and ASML Holding NV carry even greater significance than usual.",
+        "published": "2026-07-14T07:17:54.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "tsmc",
+          "asml",
+          "chip",
+          "semiconductor"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 11
       },
       {
-        "title": "Google rolls out first Fitbit Air firmware update [U]",
-        "link": "https://9to5google.com/2026/07/13/first-fitbit-air-update/",
-        "description": "Following two big Google Health app updates, the Fitbit Air is getting its first post-launch firmware update.",
-        "published": "2026-07-14T02:31:00.000Z",
-        "source": "9to5Google",
-        "sourceKey": "9to5google",
-        "priority": 2,
-        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Fitbit-Air-in-Fog-3.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "title": "Nvidia Partner GMI Cloud Seeks $635 Million GPU-Backed Bank Loan",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-14/nvidia-partner-gmi-cloud-seeks-635-million-gpu-backed-bank-loan",
+        "description": "US-based data center operator GMI Cloud is seeking a NT$20.45 billion ($635 million) multi-tranche loan deal supported by customer contracts for graphics processing units, one of the first such financings in Asia that reflects the region’s growing demand for artificial intelligence.",
+        "published": "2026-07-14T06:17:56.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "nvidia",
+          "gpu",
+          "artificial intelligence",
+          "data center",
+          "billion"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 9
+      },
+      {
+        "title": "South Korea Turns More Bullish on Economy as Chip Boom Rolls On",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-14/south-korea-turns-more-bullish-on-economy-as-chip-boom-rolls-on",
+        "description": "South Korea’s government is taking a more bullish view of the economy than the International Monetary Fund’s recent assessment, maintaining that an artificial intelligence-driven semiconductor boom will continue to outweigh the impact of the Middle East conflict.",
+        "published": "2026-07-14T02:39:23.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
         "relevanceScore": 4,
         "matchedKeywords": [
-          "google"
+          "chip",
+          "artificial intelligence",
+          "semiconductor"
         ],
-        "category": "ai"
+        "category": "chips_cloud",
+        "baseScore": 4
       }
     ],
     "ev_autonomous": [
@@ -347,11 +368,14 @@
         "relevanceScore": 11,
         "matchedKeywords": [
           "uber",
-          "waymo",
-          "robotaxi"
+          "robotaxi",
+          "waymo"
         ],
-        "category": "ev_autonomous"
-      },
+        "category": "ev_autonomous",
+        "baseScore": 11
+      }
+    ],
+    "devices": [
       {
         "title": "Huawei, Apple Get Boost in China From Memory Costs, IDC Says",
         "link": "https://www.bloomberg.com/news/articles/2026-07-14/huawei-and-apple-get-boost-in-china-from-memory-crisis-idc-says",
@@ -366,45 +390,8 @@
           "apple",
           "huawei"
         ],
-        "category": "ev_autonomous"
-      }
-    ],
-    "chips_cloud": [
-      {
-        "title": "Nvidia Partner GMI Cloud Seeks $635 Million GPU-Backed Bank Loan",
-        "link": "https://www.bloomberg.com/news/articles/2026-07-14/nvidia-partner-gmi-cloud-seeks-635-million-gpu-backed-bank-loan",
-        "description": "US-based data center operator GMI Cloud is seeking a NT$20.45 billion ($635 million) multi-tranche loan deal supported by customer contracts for graphics processing units, one of the first such financings in Asia that reflects the region’s growing demand for artificial intelligence.",
-        "published": "2026-07-14T06:17:56.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 11,
-        "matchedKeywords": [
-          "nvidia",
-          "intel",
-          "artificial intelligence",
-          "gpu",
-          "data center"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": "Trillion Dollar Chip Rout Trains Spotlight on TSMC and ASML Results",
-        "link": "https://www.bloomberg.com/news/articles/2026-07-14/trillion-dollar-chip-rout-trains-spotlight-on-tsmc-asml-results",
-        "description": "At a time of acute investor unease over a selloff in AI-inflated tech stocks, this week’s results from Taiwan Semiconductor Manufacturing Co. and ASML Holding NV carry even greater significance than usual.",
-        "published": "2026-07-14T07:17:54.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "tsmc",
-          "semiconductor",
-          "chip"
-        ],
-        "category": "chips_cloud"
+        "category": "devices",
+        "baseScore": 9
       }
     ],
     "space": [
@@ -420,11 +407,12 @@
         "relevanceScore": 8,
         "matchedKeywords": [
           "spacex",
-          "starlink",
           "starship",
+          "starlink",
           "satellite"
         ],
-        "category": "space"
+        "category": "space",
+        "baseScore": 8
       }
     ],
     "regulation": [
@@ -442,7 +430,8 @@
           "antitrust",
           "billion"
         ],
-        "category": "regulation"
+        "category": "regulation",
+        "baseScore": 6
       }
     ],
     "crypto": [
@@ -460,9 +449,46 @@
           "coinbase",
           "bitcoin"
         ],
-        "category": "crypto"
+        "category": "crypto",
+        "baseScore": 5
+      }
+    ],
+    "other": [
+      {
+        "title": "Google rolls out first Fitbit Air firmware update [U]",
+        "link": "https://9to5google.com/2026/07/13/first-fitbit-air-update/",
+        "description": "Following two big Google Health app updates, the Fitbit Air is getting its first post-launch firmware update.",
+        "published": "2026-07-14T02:31:00.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Fitbit-Air-in-Fog-3.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "other",
+        "baseScore": 4
+      }
+    ],
+    "business": [
+      {
+        "title": "State Street to Continue Buying Tech Dips, Veitmane Says",
+        "link": "https://www.bloomberg.com/news/videos/2026-07-14/state-street-to-continue-buying-tech-dips-veitmane-says-video",
+        "description": "Marija Veitmane, equity research head at State Street Global Markets, discusses the artificial intelligence trade and why she sees opportunities in software stocks. \"We see analysts stabilizing their margin expectation revenue,\" Veitmane tells Bloomberg Television. \"At the same time, we see institutional investors starting to buy from this big, big underweight position,\" she adds. (Source: Bloomberg)",
+        "published": "2026-07-14T07:51:14.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 2,
+        "matchedKeywords": [
+          "artificial intelligence"
+        ],
+        "category": "business",
+        "baseScore": 2
       }
     ]
   },
-  "totalArticles": 16
+  "totalArticles": 15
 }

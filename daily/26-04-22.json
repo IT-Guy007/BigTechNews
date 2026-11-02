@@ -7,22 +7,6 @@
   "generatedAt": "2026-04-22T08:14:05.816Z",
   "highlights": [
     {
-      "title": "Anthropic’s Mythos Accessed by Unauthorized Users",
-      "link": "https://www.bloomberg.com/news/videos/2026-04-22/anthropic-s-mythos-accessed-by-unauthorized-users-video-mo9mo8e4",
-      "description": "A small group of unauthorized users have accessed Anthropic's new Mythos AI model, a technology that the company says is so powerful it can enable dangerous cyberattacks, according to a person familiar with the matter and documentation viewed by Bloomberg News. Bloomberg Intelligence's Matt Bloxham explains. (Source: Bloomberg)",
-      "published": "2026-04-22T05:44:22.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 10,
-      "matchedKeywords": [
-        "anthropic",
-        "intel"
-      ],
-      "category": "ai"
-    },
-    {
       "title": "Anthropic tests how devs react to yanking Claude Code from Pro plan",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/anthropic_removes_claude_code_pro/",
       "description": "",
@@ -36,24 +20,25 @@
         "anthropic",
         "claude"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 10
     },
     {
-      "title": "Tesla lithium refinery discharge contains toxic metals, drainage district demands halt",
-      "link": "https://electrek.co/2026/04/21/tesla-lithium-refinery-toxic-metals-wastewater-texas/",
-      "description": "Independent lab testing has found traces of hexavalent chromium — a known carcinogen — along with arsenic and elevated levels of lithium in wastewater discharged from Tesla’s nearly $1 billion lithium refinery in Robstown, Texas.\nThe Nueces County Drainage District No. 2, which manages the ditch receiving Tesla’s 231,000-gallon daily discharge, has issued a cease-and-desist letter demanding the company halt its wastewater flow pending further discussion.\nmore…",
-      "published": "2026-04-22T00:25:59.000Z",
-      "source": "Electrek",
-      "sourceKey": "electrek",
-      "priority": 2,
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/01/Tesla-lithium.png?w=1600",
+      "title": "Anthropic’s Mythos Accessed by Unauthorized Users",
+      "link": "https://www.bloomberg.com/news/videos/2026-04-22/anthropic-s-mythos-accessed-by-unauthorized-users-video-mo9mo8e4",
+      "description": "A small group of unauthorized users have accessed Anthropic's new Mythos AI model, a technology that the company says is so powerful it can enable dangerous cyberattacks, according to a person familiar with the matter and documentation viewed by Bloomberg News. Bloomberg Intelligence's Matt Bloxham explains. (Source: Bloomberg)",
+      "published": "2026-04-22T05:44:22.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
       "relevanceScore": 9,
       "matchedKeywords": [
-        "meta",
-        "tesla",
-        "billion"
+        "anthropic",
+        "ai model"
       ],
-      "category": "ev_autonomous"
+      "category": "ai",
+      "baseScore": 9
     },
     {
       "title": "RBA, RBNZ Monitor Anthropic’s Mythos Over Cyberattack Fears",
@@ -64,11 +49,30 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 8,
+      "relevanceScore": 9,
       "matchedKeywords": [
-        "anthropic"
+        "anthropic",
+        "ai model"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 9
+    },
+    {
+      "title": "Japan Top Officials to Meet Banks to Discuss Mythos Threat",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-22/japan-finance-minister-to-meet-banks-to-discuss-mythos-threat",
+      "description": "Japan’s Finance Minister Satsuki Katayama plans to meet the country’s biggest banks and other financial institutions to discuss Anthropic PBC’s latest AI model Mythos as early as this week, people familiar with the matter said.",
+      "published": "2026-04-22T01:42:16.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 7,
+      "matchedKeywords": [
+        "anthropic",
+        "ai model"
+      ],
+      "category": "ai",
+      "baseScore": 7
     },
     {
       "title": "SpaceX says it can buy Cursor later this year for $60 billion or pay $10 billion for 'our work together'",
@@ -84,22 +88,25 @@
         "spacex",
         "billion"
       ],
-      "category": "ai"
+      "category": "space",
+      "baseScore": 6
     },
     {
-      "title": "Japan Top Officials to Meet Banks to Discuss Mythos Threat",
-      "link": "https://www.bloomberg.com/news/articles/2026-04-22/japan-finance-minister-to-meet-banks-to-discuss-mythos-threat",
-      "description": "Japan’s Finance Minister Satsuki Katayama plans to meet the country’s biggest banks and other financial institutions to discuss Anthropic PBC’s latest AI model Mythos as early as this week, people familiar with the matter said.",
-      "published": "2026-04-22T01:42:16.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 6,
+      "title": "Tesla lithium refinery discharge contains toxic metals, drainage district demands halt",
+      "link": "https://electrek.co/2026/04/21/tesla-lithium-refinery-toxic-metals-wastewater-texas/",
+      "description": "Independent lab testing has found traces of hexavalent chromium — a known carcinogen — along with arsenic and elevated levels of lithium in wastewater discharged from Tesla’s nearly $1 billion lithium refinery in Robstown, Texas. The Nueces County Drainage District No. 2, which manages the ditch receiving Tesla’s 231,000-gallon daily discharge, has issued a cease-and-desist letter demanding the company halt its wastewater flow pending further discussion. more…",
+      "published": "2026-04-22T00:25:59.000Z",
+      "source": "Electrek",
+      "sourceKey": "electrek",
+      "priority": 2,
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/01/Tesla-lithium.png?w=1600",
+      "relevanceScore": 5,
       "matchedKeywords": [
-        "anthropic"
+        "tesla",
+        "billion"
       ],
-      "category": "ai"
+      "category": "ev_autonomous",
+      "baseScore": 5
     },
     {
       "title": "Bitcoin's 'Coinbase premium' just posted its longest bullish streak since October's record high of $126,000",
@@ -115,38 +122,8 @@
         "coinbase",
         "bitcoin"
       ],
-      "category": "crypto"
-    },
-    {
-      "title": "AI Firms Seeking Office Space Boost London Developers’ Outlook",
-      "link": "https://www.bloomberg.com/news/articles/2026-04-22/ai-firms-seeking-office-space-boost-london-developers-outlook",
-      "description": "London property developers are benefiting from the rapid expansion of artificial intelligence companies, driving demand for premium office and corporate campus space.",
-      "published": "2026-04-22T06:59:11.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "intel",
-        "artificial intelligence"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": "Apple executive in charge of Siri revamp has considered stepping back, report says",
-      "link": "https://9to5mac.com/2026/04/21/apple-executive-in-charge-of-siri-revamp-has-considered-stepping-back-report-says/",
-      "description": "Bloomberg reports that amid recent leadership changes at Apple, Mike Rockwell, who created the Vision Pro and now oversees efforts to revamp Siri, has considered leaving or reducing his role at the company. Here are the details.\nmore…",
-      "published": "2026-04-22T00:02:24.000Z",
-      "source": "9to5Mac",
-      "sourceKey": "9to5mac",
-      "priority": 2,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/siri.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "apple"
-      ],
-      "category": "ai"
+      "category": "crypto",
+      "baseScore": 5
     },
     {
       "title": "Magnificent irony as Meta staff unhappy about running surveillance software on work PCs",
@@ -161,27 +138,45 @@
       "matchedKeywords": [
         "meta"
       ],
-      "category": null
+      "category": "other",
+      "baseScore": 4
+    },
+    {
+      "title": "Apple executive in charge of Siri revamp has considered stepping back, report says",
+      "link": "https://9to5mac.com/2026/04/21/apple-executive-in-charge-of-siri-revamp-has-considered-stepping-back-report-says/",
+      "description": "Bloomberg reports that amid recent leadership changes at Apple, Mike Rockwell, who created the Vision Pro and now oversees efforts to revamp Siri, has considered leaving or reducing his role at the company. Here are the details. more…",
+      "published": "2026-04-22T00:02:24.000Z",
+      "source": "9to5Mac",
+      "sourceKey": "9to5mac",
+      "priority": 2,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/siri.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "apple"
+      ],
+      "category": "business",
+      "baseScore": 4
+    },
+    {
+      "title": "ASMPT Soars to Record as Sales Forecast Beat on AI Demand",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-22/asmpt-sees-second-quarter-sales-forecast-beat-due-to-ai-demand",
+      "description": "Chip gear maker ASMPT Ltd. shares jumped as much as 8.7% to a record as its second-quarter revenue beat expectations, driven by strong growth from its semiconductor business critical for AI.",
+      "published": "2026-04-22T00:04:47.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 3,
+      "matchedKeywords": [
+        "semiconductor",
+        "chip"
+      ],
+      "category": "chips_cloud",
+      "baseScore": 3
     }
   ],
   "byCategory": {
     "ai": [
-      {
-        "title": "Anthropic’s Mythos Accessed by Unauthorized Users",
-        "link": "https://www.bloomberg.com/news/videos/2026-04-22/anthropic-s-mythos-accessed-by-unauthorized-users-video-mo9mo8e4",
-        "description": "A small group of unauthorized users have accessed Anthropic's new Mythos AI model, a technology that the company says is so powerful it can enable dangerous cyberattacks, according to a person familiar with the matter and documentation viewed by Bloomberg News. Bloomberg Intelligence's Matt Bloxham explains. (Source: Bloomberg)",
-        "published": "2026-04-22T05:44:22.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 10,
-        "matchedKeywords": [
-          "anthropic",
-          "intel"
-        ],
-        "category": "ai"
-      },
       {
         "title": "Anthropic tests how devs react to yanking Claude Code from Pro plan",
         "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/anthropic_removes_claude_code_pro/",
@@ -196,7 +191,25 @@
           "anthropic",
           "claude"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 10
+      },
+      {
+        "title": "Anthropic’s Mythos Accessed by Unauthorized Users",
+        "link": "https://www.bloomberg.com/news/videos/2026-04-22/anthropic-s-mythos-accessed-by-unauthorized-users-video-mo9mo8e4",
+        "description": "A small group of unauthorized users have accessed Anthropic's new Mythos AI model, a technology that the company says is so powerful it can enable dangerous cyberattacks, according to a person familiar with the matter and documentation viewed by Bloomberg News. Bloomberg Intelligence's Matt Bloxham explains. (Source: Bloomberg)",
+        "published": "2026-04-22T05:44:22.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "anthropic",
+          "ai model"
+        ],
+        "category": "ai",
+        "baseScore": 9
       },
       {
         "title": "RBA, RBNZ Monitor Anthropic’s Mythos Over Cyberattack Fears",
@@ -207,12 +220,49 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 8,
+        "relevanceScore": 9,
         "matchedKeywords": [
-          "anthropic"
+          "anthropic",
+          "ai model"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 9
       },
+      {
+        "title": "Japan Top Officials to Meet Banks to Discuss Mythos Threat",
+        "link": "https://www.bloomberg.com/news/articles/2026-04-22/japan-finance-minister-to-meet-banks-to-discuss-mythos-threat",
+        "description": "Japan’s Finance Minister Satsuki Katayama plans to meet the country’s biggest banks and other financial institutions to discuss Anthropic PBC’s latest AI model Mythos as early as this week, people familiar with the matter said.",
+        "published": "2026-04-22T01:42:16.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "anthropic",
+          "ai model"
+        ],
+        "category": "ai",
+        "baseScore": 7
+      },
+      {
+        "title": "AI Firms Seeking Office Space Boost London Developers’ Outlook",
+        "link": "https://www.bloomberg.com/news/articles/2026-04-22/ai-firms-seeking-office-space-boost-london-developers-outlook",
+        "description": "London property developers are benefiting from the rapid expansion of artificial intelligence companies, driving demand for premium office and corporate campus space.",
+        "published": "2026-04-22T06:59:11.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 2,
+        "matchedKeywords": [
+          "artificial intelligence"
+        ],
+        "category": "ai",
+        "baseScore": 2
+      }
+    ],
+    "space": [
       {
         "title": "SpaceX says it can buy Cursor later this year for $60 billion or pay $10 billion for 'our work together'",
         "link": "https://www.cnbc.com/2026/04/21/spacex-says-it-can-buy-cursor-later-this-year-for-60-billion-or-pay-10-billion-for-our-work-together.html",
@@ -227,103 +277,27 @@
           "spacex",
           "billion"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "Japan Top Officials to Meet Banks to Discuss Mythos Threat",
-        "link": "https://www.bloomberg.com/news/articles/2026-04-22/japan-finance-minister-to-meet-banks-to-discuss-mythos-threat",
-        "description": "Japan’s Finance Minister Satsuki Katayama plans to meet the country’s biggest banks and other financial institutions to discuss Anthropic PBC’s latest AI model Mythos as early as this week, people familiar with the matter said.",
-        "published": "2026-04-22T01:42:16.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 6,
-        "matchedKeywords": [
-          "anthropic"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "AI Firms Seeking Office Space Boost London Developers’ Outlook",
-        "link": "https://www.bloomberg.com/news/articles/2026-04-22/ai-firms-seeking-office-space-boost-london-developers-outlook",
-        "description": "London property developers are benefiting from the rapid expansion of artificial intelligence companies, driving demand for premium office and corporate campus space.",
-        "published": "2026-04-22T06:59:11.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "intel",
-          "artificial intelligence"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Apple executive in charge of Siri revamp has considered stepping back, report says",
-        "link": "https://9to5mac.com/2026/04/21/apple-executive-in-charge-of-siri-revamp-has-considered-stepping-back-report-says/",
-        "description": "Bloomberg reports that amid recent leadership changes at Apple, Mike Rockwell, who created the Vision Pro and now oversees efforts to revamp Siri, has considered leaving or reducing his role at the company. Here are the details.\nmore…",
-        "published": "2026-04-22T00:02:24.000Z",
-        "source": "9to5Mac",
-        "sourceKey": "9to5mac",
-        "priority": 2,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/siri.jpg?quality=82&#038;strip=all&#038;w=1600",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Deutsche Telekom Said to Weigh T-Mobile Combination",
-        "link": "https://www.bloomberg.com/news/videos/2026-04-22/deutsche-telekom-said-to-weigh-t-mobile-combination-video",
-        "description": "Deutsche Telekom is considering a full combination with its American arm T-Mobile US, a move that would create a multinational telecom group and rank as the largest-ever public M&A deal, people with knowledge of the matter said. Bloomberg's Manuel Baigorri reports. (Source: Bloomberg)",
-        "published": "2026-04-22T05:54:13.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "arm"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "ASMPT Soars to Record as Sales Forecast Beat on AI Demand",
-        "link": "https://www.bloomberg.com/news/articles/2026-04-22/asmpt-sees-second-quarter-sales-forecast-beat-due-to-ai-demand",
-        "description": "Chip gear maker ASMPT Ltd. shares jumped as much as 8.7% to a record as its second-quarter revenue beat expectations, driven by strong growth from its semiconductor business critical for AI.",
-        "published": "2026-04-22T00:04:47.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "semiconductor",
-          "chip"
-        ],
-        "category": "ai"
+        "category": "space",
+        "baseScore": 6
       }
     ],
     "ev_autonomous": [
       {
         "title": "Tesla lithium refinery discharge contains toxic metals, drainage district demands halt",
         "link": "https://electrek.co/2026/04/21/tesla-lithium-refinery-toxic-metals-wastewater-texas/",
-        "description": "Independent lab testing has found traces of hexavalent chromium — a known carcinogen — along with arsenic and elevated levels of lithium in wastewater discharged from Tesla’s nearly $1 billion lithium refinery in Robstown, Texas.\nThe Nueces County Drainage District No. 2, which manages the ditch receiving Tesla’s 231,000-gallon daily discharge, has issued a cease-and-desist letter demanding the company halt its wastewater flow pending further discussion.\nmore…",
+        "description": "Independent lab testing has found traces of hexavalent chromium — a known carcinogen — along with arsenic and elevated levels of lithium in wastewater discharged from Tesla’s nearly $1 billion lithium refinery in Robstown, Texas. The Nueces County Drainage District No. 2, which manages the ditch receiving Tesla’s 231,000-gallon daily discharge, has issued a cease-and-desist letter demanding the company halt its wastewater flow pending further discussion. more…",
         "published": "2026-04-22T00:25:59.000Z",
         "source": "Electrek",
         "sourceKey": "electrek",
         "priority": 2,
         "image": "https://electrek.co/wp-content/uploads/sites/3/2026/01/Tesla-lithium.png?w=1600",
-        "relevanceScore": 9,
+        "relevanceScore": 5,
         "matchedKeywords": [
-          "meta",
           "tesla",
           "billion"
         ],
-        "category": "ev_autonomous"
+        "category": "ev_autonomous",
+        "baseScore": 5
       }
     ],
     "crypto": [
@@ -341,10 +315,9 @@
           "coinbase",
           "bitcoin"
         ],
-        "category": "crypto"
-      }
-    ],
-    "chips_cloud": [
+        "category": "crypto",
+        "baseScore": 5
+      },
       {
         "title": "Chinese crypto mogul Li Lin’s private trading arm is set to move into a Hong Kong-listed wealth firm",
         "link": "https://www.coindesk.com/markets/2026/04/22/chinese-crypto-mogul-li-lin-s-private-trading-arm-is-set-to-move-into-a-hong-kong-listed-wealth-firm",
@@ -354,11 +327,79 @@
         "sourceKey": "coindesk",
         "priority": 3,
         "image": null,
+        "relevanceScore": 0,
+        "matchedKeywords": [],
+        "category": "crypto",
+        "baseScore": 0
+      }
+    ],
+    "other": [
+      {
+        "title": "Magnificent irony as Meta staff unhappy about running surveillance software on work PCs",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/meta_employee_surveillance_software/",
+        "description": "",
+        "published": "2026-04-22T02:54:02.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": null,
         "relevanceScore": 4,
         "matchedKeywords": [
-          "arm"
+          "meta"
         ],
-        "category": "chips_cloud"
+        "category": "other",
+        "baseScore": 4
+      },
+      {
+        "title": "Deutsche Telekom Said to Weigh T-Mobile Combination",
+        "link": "https://www.bloomberg.com/news/videos/2026-04-22/deutsche-telekom-said-to-weigh-t-mobile-combination-video",
+        "description": "Deutsche Telekom is considering a full combination with its American arm T-Mobile US, a move that would create a multinational telecom group and rank as the largest-ever public M&A deal, people with knowledge of the matter said. Bloomberg's Manuel Baigorri reports. (Source: Bloomberg)",
+        "published": "2026-04-22T05:54:13.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 1,
+        "matchedKeywords": [],
+        "category": "other",
+        "baseScore": 1
+      }
+    ],
+    "business": [
+      {
+        "title": "Apple executive in charge of Siri revamp has considered stepping back, report says",
+        "link": "https://9to5mac.com/2026/04/21/apple-executive-in-charge-of-siri-revamp-has-considered-stepping-back-report-says/",
+        "description": "Bloomberg reports that amid recent leadership changes at Apple, Mike Rockwell, who created the Vision Pro and now oversees efforts to revamp Siri, has considered leaving or reducing his role at the company. Here are the details. more…",
+        "published": "2026-04-22T00:02:24.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/siri.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "business",
+        "baseScore": 4
+      }
+    ],
+    "chips_cloud": [
+      {
+        "title": "ASMPT Soars to Record as Sales Forecast Beat on AI Demand",
+        "link": "https://www.bloomberg.com/news/articles/2026-04-22/asmpt-sees-second-quarter-sales-forecast-beat-due-to-ai-demand",
+        "description": "Chip gear maker ASMPT Ltd. shares jumped as much as 8.7% to a record as its second-quarter revenue beat expectations, driven by strong growth from its semiconductor business critical for AI.",
+        "published": "2026-04-22T00:04:47.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "semiconductor",
+          "chip"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 3
       }
     ]
   },

@@ -15,12 +15,13 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 9,
+      "relevanceScore": 8,
       "matchedKeywords": [
         "spacex",
         "ipo"
       ],
-      "category": "space"
+      "category": "business",
+      "baseScore": 8
     },
     {
       "title": "Stripe's John Collison on How Agentic Commerce Will Reshape the Internet",
@@ -31,47 +32,25 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 5,
+      "relevanceScore": 6,
       "matchedKeywords": [
-        "stripe"
+        "stripe",
+        "ai agent"
       ],
-      "category": "ai"
-    },
-    {
-      "title": "Odd Lots: Stripe’s John Collison on Agentic Commerce (Podcast)",
-      "link": "https://www.bloomberg.com/news/audio/2026-05-16/odd-lots-stripe-s-john-collison-on-agentic-commerce-podcast",
-      "description": "The internet is made for shopping. For years, the main inputs for e-commerce transactions involved targeted ads, algorithmic recommendations, SEO, and lots of mindless scrolling. But agentic commerce might represent a sea change for e-commerce: With the rise of AI agents doing shopping on behalf of consumers, how are retailers going to adapt? John Collison, co-founder of the financial services and payment processing company Stripe, has first-hand experience with all the ways e-commerce has chang",
-      "published": "2026-05-16T08:00:00.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 5,
-      "matchedKeywords": [
-        "stripe"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": "Europe Lacks Everything Needed to Make Its Stock Market a Winner",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-16/europe-lacks-everything-needed-to-make-its-stock-market-a-winner",
-      "description": "The equity story that powered European stocks has unraveled as investors seek shelter from a global energy shock and buy into the artificial intelligence frenzy.",
-      "published": "2026-05-16T05:00:00.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "intel",
-        "artificial intelligence"
-      ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 6,
+      "alsoIn": [
+        {
+          "source": "Bloomberg",
+          "title": "Odd Lots: Stripe’s John Collison on Agentic Commerce (Podcast)",
+          "link": "https://www.bloomberg.com/news/audio/2026-05-16/odd-lots-stripe-s-john-collison-on-agentic-commerce-podcast"
+        }
+      ]
     },
     {
       "title": "Apple Cash is down for some iPhone users in the U.S. [U: Fixed]",
       "link": "https://9to5mac.com/2026/05/15/apple-cash-is-down-for-some-iphone-users-in-the-u-s/",
-      "description": "Update: Apple now lists the issue as resolved. The original story follows below.\nIf you’ve been unable to use Apple Cash over the last few hours, you’re not alone, as the service is currently experiencing an outage affecting some users in the U.S. Here are the details.\nmore…",
+      "description": "Update: Apple now lists the issue as resolved. The original story follows below. If you’ve been unable to use Apple Cash over the last few hours, you’re not alone, as the service is currently experiencing an outage affecting some users in the U.S. Here are the details. more…",
       "published": "2026-05-16T01:31:19.000Z",
       "source": "9to5Mac",
       "sourceKey": "9to5mac",
@@ -81,24 +60,8 @@
       "matchedKeywords": [
         "apple"
       ],
-      "category": "ai"
-    },
-    {
-      "title": "Bhutan ‘doesn’t recall’ selling any bitcoin, disputing widely-tracked $1 billion BTC drawdown",
-      "link": "https://www.coindesk.com/markets/2026/05/16/bhutan-doesn-t-recall-selling-any-bitcoin-disputing-widely-tracked-usd1-billion-btc-drawdown",
-      "description": "Arkham Intelligence data shows that over $1 billion in bitcoin has left wallets attributed to Bhutan in the past year, flowing to exchanges and trading firms. The country says it has not sold any.",
-      "published": "2026-05-16T02:30:00.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "priority": 3,
-      "image": null,
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "intel",
-        "billion",
-        "bitcoin"
-      ],
-      "category": "chips_cloud"
+      "category": "devices",
+      "baseScore": 4
     },
     {
       "title": "Korea Bond Yields Seen Gaining on Chips Boom, Analysts Say",
@@ -111,14 +74,48 @@
       "image": null,
       "relevanceScore": 3,
       "matchedKeywords": [
-        "semiconductor",
-        "chip"
+        "chip",
+        "semiconductor"
       ],
-      "category": "ai"
+      "category": "chips_cloud",
+      "baseScore": 3
+    },
+    {
+      "title": "Europe Lacks Everything Needed to Make Its Stock Market a Winner",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-16/europe-lacks-everything-needed-to-make-its-stock-market-a-winner",
+      "description": "The equity story that powered European stocks has unraveled as investors seek shelter from a global energy shock and buy into the artificial intelligence frenzy.",
+      "published": "2026-05-16T05:00:00.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 2,
+      "matchedKeywords": [
+        "artificial intelligence"
+      ],
+      "category": "business",
+      "baseScore": 2
+    },
+    {
+      "title": "Bhutan ‘doesn’t recall’ selling any bitcoin, disputing widely-tracked $1 billion BTC drawdown",
+      "link": "https://www.coindesk.com/markets/2026/05/16/bhutan-doesn-t-recall-selling-any-bitcoin-disputing-widely-tracked-usd1-billion-btc-drawdown",
+      "description": "Arkham Intelligence data shows that over $1 billion in bitcoin has left wallets attributed to Bhutan in the past year, flowing to exchanges and trading firms. The country says it has not sold any.",
+      "published": "2026-05-16T02:30:00.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "priority": 3,
+      "image": null,
+      "relevanceScore": 2,
+      "matchedKeywords": [
+        "billion",
+        "bitcoin"
+      ],
+      "category": "crypto",
+      "baseScore": 2
     }
   ],
   "byCategory": {
-    "space": [
+    "business": [
       {
         "title": "SpaceX Holders Sign Off on 5-for-1 Stock Split Ahead of IPO",
         "link": "https://www.bloomberg.com/news/articles/2026-05-16/spacex-shareholders-approve-5-for-1-split-of-common-stock",
@@ -128,12 +125,29 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 9,
+        "relevanceScore": 8,
         "matchedKeywords": [
           "spacex",
           "ipo"
         ],
-        "category": "space"
+        "category": "business",
+        "baseScore": 8
+      },
+      {
+        "title": "Europe Lacks Everything Needed to Make Its Stock Market a Winner",
+        "link": "https://www.bloomberg.com/news/articles/2026-05-16/europe-lacks-everything-needed-to-make-its-stock-market-a-winner",
+        "description": "The equity story that powered European stocks has unraveled as investors seek shelter from a global energy shock and buy into the artificial intelligence frenzy.",
+        "published": "2026-05-16T05:00:00.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 2,
+        "matchedKeywords": [
+          "artificial intelligence"
+        ],
+        "category": "business",
+        "baseScore": 2
       }
     ],
     "ai": [
@@ -146,47 +160,27 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 5,
+        "relevanceScore": 6,
         "matchedKeywords": [
-          "stripe"
+          "stripe",
+          "ai agent"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "Odd Lots: Stripe’s John Collison on Agentic Commerce (Podcast)",
-        "link": "https://www.bloomberg.com/news/audio/2026-05-16/odd-lots-stripe-s-john-collison-on-agentic-commerce-podcast",
-        "description": "The internet is made for shopping. For years, the main inputs for e-commerce transactions involved targeted ads, algorithmic recommendations, SEO, and lots of mindless scrolling. But agentic commerce might represent a sea change for e-commerce: With the rise of AI agents doing shopping on behalf of consumers, how are retailers going to adapt? John Collison, co-founder of the financial services and payment processing company Stripe, has first-hand experience with all the ways e-commerce has chang",
-        "published": "2026-05-16T08:00:00.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "stripe"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Europe Lacks Everything Needed to Make Its Stock Market a Winner",
-        "link": "https://www.bloomberg.com/news/articles/2026-05-16/europe-lacks-everything-needed-to-make-its-stock-market-a-winner",
-        "description": "The equity story that powered European stocks has unraveled as investors seek shelter from a global energy shock and buy into the artificial intelligence frenzy.",
-        "published": "2026-05-16T05:00:00.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "intel",
-          "artificial intelligence"
-        ],
-        "category": "ai"
-      },
+        "category": "ai",
+        "baseScore": 6,
+        "alsoIn": [
+          {
+            "source": "Bloomberg",
+            "title": "Odd Lots: Stripe’s John Collison on Agentic Commerce (Podcast)",
+            "link": "https://www.bloomberg.com/news/audio/2026-05-16/odd-lots-stripe-s-john-collison-on-agentic-commerce-podcast"
+          }
+        ]
+      }
+    ],
+    "devices": [
       {
         "title": "Apple Cash is down for some iPhone users in the U.S. [U: Fixed]",
         "link": "https://9to5mac.com/2026/05/15/apple-cash-is-down-for-some-iphone-users-in-the-u-s/",
-        "description": "Update: Apple now lists the issue as resolved. The original story follows below.\nIf you’ve been unable to use Apple Cash over the last few hours, you’re not alone, as the service is currently experiencing an outage affecting some users in the U.S. Here are the details.\nmore…",
+        "description": "Update: Apple now lists the issue as resolved. The original story follows below. If you’ve been unable to use Apple Cash over the last few hours, you’re not alone, as the service is currently experiencing an outage affecting some users in the U.S. Here are the details. more…",
         "published": "2026-05-16T01:31:19.000Z",
         "source": "9to5Mac",
         "sourceKey": "9to5mac",
@@ -196,8 +190,11 @@
         "matchedKeywords": [
           "apple"
         ],
-        "category": "ai"
-      },
+        "category": "devices",
+        "baseScore": 4
+      }
+    ],
+    "chips_cloud": [
       {
         "title": "Korea Bond Yields Seen Gaining on Chips Boom, Analysts Say",
         "link": "https://www.bloomberg.com/news/articles/2026-05-16/korea-bond-yields-may-extend-gains-on-chips-boom-analysts-say",
@@ -209,13 +206,14 @@
         "image": null,
         "relevanceScore": 3,
         "matchedKeywords": [
-          "semiconductor",
-          "chip"
+          "chip",
+          "semiconductor"
         ],
-        "category": "ai"
+        "category": "chips_cloud",
+        "baseScore": 3
       }
     ],
-    "chips_cloud": [
+    "crypto": [
       {
         "title": "Bhutan ‘doesn’t recall’ selling any bitcoin, disputing widely-tracked $1 billion BTC drawdown",
         "link": "https://www.coindesk.com/markets/2026/05/16/bhutan-doesn-t-recall-selling-any-bitcoin-disputing-widely-tracked-usd1-billion-btc-drawdown",
@@ -225,15 +223,15 @@
         "sourceKey": "coindesk",
         "priority": 3,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 2,
         "matchedKeywords": [
-          "intel",
           "billion",
           "bitcoin"
         ],
-        "category": "chips_cloud"
+        "category": "crypto",
+        "baseScore": 2
       }
     ]
   },
-  "totalArticles": 7
+  "totalArticles": 6
 }

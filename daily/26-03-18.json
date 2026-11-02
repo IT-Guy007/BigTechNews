@@ -15,14 +15,16 @@
       "sourceKey": "cnbc_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 14,
+      "relevanceScore": 13,
       "matchedKeywords": [
         "nvidia",
         "chatgpt",
         "ceo",
-        "jensen huang"
+        "jensen huang",
+        "ai agent"
       ],
-      "category": "ai"
+      "category": "business",
+      "baseScore": 13
     },
     {
       "title": "Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems",
@@ -33,13 +35,15 @@
       "sourceKey": "wired",
       "priority": 2,
       "image": null,
-      "relevanceScore": 11,
+      "relevanceScore": 12,
       "matchedKeywords": [
         "anthropic",
         "claude",
+        "ai model",
         "lawsuit"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 12
     },
     {
       "title": "China’s AI Stocks Rise as Nvidia’s Huang Calls OpenClaw 'the Next ChatGPT'",
@@ -50,14 +54,32 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 11,
+      "relevanceScore": 9,
       "matchedKeywords": [
         "nvidia",
-        "intel",
         "chatgpt",
         "artificial intelligence"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 9
+    },
+    {
+      "title": "Nvidia Says Company Firing Up H200 Production for China",
+      "link": "https://www.bloomberg.com/news/videos/2026-03-18/nvidia-says-company-firing-up-h200-production-for-china-video",
+      "description": "Nvidia CEO Jensen Huang says the company has been licensed for “many customers in China” for H200 sales and is in the process of “restarting our manufacturing.” Bloomberg's Ed Ludlow reports. (Source: Bloomberg)",
+      "published": "2026-03-18T01:37:39.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "nvidia",
+        "jensen huang",
+        "ceo"
+      ],
+      "category": "chips_cloud",
+      "baseScore": 9
     },
     {
       "title": "Trump Officials Fire Back at Anthropic Over AI Tool Ban",
@@ -68,63 +90,13 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 11,
+      "relevanceScore": 9,
       "matchedKeywords": [
         "anthropic",
-        "intel",
         "artificial intelligence"
       ],
-      "category": "ai"
-    },
-    {
-      "title": "Nvidia Says Company Firing Up H200 Production for China",
-      "link": "https://www.bloomberg.com/news/videos/2026-03-18/nvidia-says-company-firing-up-h200-production-for-china-video",
-      "description": "Nvidia CEO Jensen Huang says the company has been licensed for “many customers in China” for H200 sales and is in the process of “restarting our manufacturing.” Bloomberg's Ed Ludlow reports. (Source: Bloomberg)",
-      "published": "2026-03-18T01:37:39.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 11,
-      "matchedKeywords": [
-        "nvidia",
-        "ceo",
-        "jensen huang"
-      ],
-      "category": "chips_cloud"
-    },
-    {
-      "title": "Geely Profit Beats Estimates as Sales Approach Those of BYD",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-18/geely-profit-beats-estimates-as-sales-approach-those-of-byd",
-      "description": "Geely Automobile Holdings Ltd.’s full-year profit beat analyst estimates and climbed to a record as China’s second-largest carmaker closed in on market leader BYD Co.’s sales, thanks to the popularity of its EX2 hatchbacks and Zeekr sport utility vehicles.",
-      "published": "2026-03-18T04:25:10.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 7,
-      "matchedKeywords": [
-        "byd",
-        "arm"
-      ],
-      "category": "chips_cloud"
-    },
-    {
-      "title": "Hong Kong Crypto Unicorn RedotPay Churns Executives in IPO Drive",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-18/hong-kong-crypto-unicorn-redotpay-churns-executives-in-ipo-drive",
-      "description": "RedotPay, a Hong Kong startup in the stablecoin payments space, is contending with executive turnover and sensitivities around its connections to mainland China as it seeks to raise up to $150 million just months after its last funding round.",
-      "published": "2026-03-18T00:00:04.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 7,
-      "matchedKeywords": [
-        "ipo",
-        "funding round",
-        "stablecoin"
-      ],
-      "category": "business"
+      "category": "ai",
+      "baseScore": 9
     },
     {
       "title": "Meta's Manus launches desktop app to bring its AI agent onto personal devices amid OpenClaw craze",
@@ -135,32 +107,52 @@
       "sourceKey": "cnbc_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 5,
+      "relevanceScore": 6,
       "matchedKeywords": [
-        "meta"
+        "meta",
+        "ai agent"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 6
     },
     {
-      "title": "StanChart’s AI Chief Exiting Less Than a Year After Joining",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-18/stanchart-s-ai-chief-exiting-less-than-a-year-after-joining",
-      "description": "The executive leading Standard Chartered Plc’s adoption of artificial intelligence is leaving the emerging markets lender less than a year into his role, according to people familiar with the matter.",
-      "published": "2026-03-18T06:57:32.000Z",
+      "title": "Hong Kong Crypto Unicorn RedotPay Churns Executives in IPO Drive",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-18/hong-kong-crypto-unicorn-redotpay-churns-executives-in-ipo-drive",
+      "description": "RedotPay, a Hong Kong startup in the stablecoin payments space, is contending with executive turnover and sensitivities around its connections to mainland China as it seeks to raise up to $150 million just months after its last funding round.",
+      "published": "2026-03-18T00:00:04.000Z",
       "source": "Bloomberg",
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 4,
+      "relevanceScore": 6,
       "matchedKeywords": [
-        "intel",
-        "artificial intelligence"
+        "ipo",
+        "funding round",
+        "stablecoin"
       ],
-      "category": "ai"
+      "category": "business",
+      "baseScore": 6
     },
     {
-      "title": "Pixel Weather tweaks widget as new icons come to Google Clock 8.6 ",
+      "title": "Geely Profit Beats Estimates as Sales Approach Those of BYD",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-18/geely-profit-beats-estimates-as-sales-approach-those-of-byd",
+      "description": "Geely Automobile Holdings Ltd.’s full-year profit beat analyst estimates and climbed to a record as China’s second-largest carmaker closed in on market leader BYD Co.’s sales, thanks to the popularity of its EX2 hatchbacks and Zeekr sport utility vehicles.",
+      "published": "2026-03-18T04:25:10.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 5,
+      "matchedKeywords": [
+        "byd"
+      ],
+      "category": "ev_autonomous",
+      "baseScore": 5
+    },
+    {
+      "title": "Pixel Weather tweaks widget as new icons come to Google Clock 8.6",
       "link": "https://9to5google.com/2026/03/17/google-clock-8-6-weather/",
-      "description": "Google has made a pair of weather tweaks to Pixel Weather and the Clock app (version 8.6).\nmore…",
+      "description": "Google has made a pair of weather tweaks to Pixel Weather and the Clock app (version 8.6). more…",
       "published": "2026-03-18T01:22:03.000Z",
       "source": "9to5Google",
       "sourceKey": "9to5google",
@@ -170,11 +162,29 @@
       "matchedKeywords": [
         "google"
       ],
-      "category": "ai"
+      "category": "devices",
+      "baseScore": 4
+    },
+    {
+      "title": "Data Center Firm DayOne Seeks to Boost Loan to Record $7 Billion",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-18/data-center-firm-dayone-seeks-to-boost-loan-to-record-7-billion",
+      "description": "DayOne Data Centers Ltd. is seeking to double the size of an existing loan to as much as $7 billion, according to people familiar with the matter, in what would be the largest borrowing for the sector by any firm in Asia.",
+      "published": "2026-03-18T01:56:39.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 3,
+      "matchedKeywords": [
+        "data center",
+        "billion"
+      ],
+      "category": "chips_cloud",
+      "baseScore": 3
     }
   ],
   "byCategory": {
-    "ai": [
+    "business": [
       {
         "title": "China’s ‘AI tigers’ see shares surge after Nvidia CEO touts OpenClaw as ‘next ChatGPT’",
         "link": "https://www.cnbc.com/2026/03/18/china-ai-zhipu-minimax-after-nvidia-jensen-huang-openclaw-comments.html",
@@ -184,15 +194,37 @@
         "sourceKey": "cnbc_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 14,
+        "relevanceScore": 13,
         "matchedKeywords": [
           "nvidia",
           "chatgpt",
           "ceo",
-          "jensen huang"
+          "jensen huang",
+          "ai agent"
         ],
-        "category": "ai"
+        "category": "business",
+        "baseScore": 13
       },
+      {
+        "title": "Hong Kong Crypto Unicorn RedotPay Churns Executives in IPO Drive",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-18/hong-kong-crypto-unicorn-redotpay-churns-executives-in-ipo-drive",
+        "description": "RedotPay, a Hong Kong startup in the stablecoin payments space, is contending with executive turnover and sensitivities around its connections to mainland China as it seeks to raise up to $150 million just months after its last funding round.",
+        "published": "2026-03-18T00:00:04.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "ipo",
+          "funding round",
+          "stablecoin"
+        ],
+        "category": "business",
+        "baseScore": 6
+      }
+    ],
+    "ai": [
       {
         "title": "Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems",
         "link": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
@@ -202,13 +234,15 @@
         "sourceKey": "wired",
         "priority": 2,
         "image": null,
-        "relevanceScore": 11,
+        "relevanceScore": 12,
         "matchedKeywords": [
           "anthropic",
           "claude",
+          "ai model",
           "lawsuit"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 12
       },
       {
         "title": "China’s AI Stocks Rise as Nvidia’s Huang Calls OpenClaw 'the Next ChatGPT'",
@@ -219,14 +253,14 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 11,
+        "relevanceScore": 9,
         "matchedKeywords": [
           "nvidia",
-          "intel",
           "chatgpt",
           "artificial intelligence"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 9
       },
       {
         "title": "Trump Officials Fire Back at Anthropic Over AI Tool Ban",
@@ -237,13 +271,13 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 11,
+        "relevanceScore": 9,
         "matchedKeywords": [
           "anthropic",
-          "intel",
           "artificial intelligence"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 9
       },
       {
         "title": "Meta's Manus launches desktop app to bring its AI agent onto personal devices amid OpenClaw craze",
@@ -254,11 +288,13 @@
         "sourceKey": "cnbc_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 5,
+        "relevanceScore": 6,
         "matchedKeywords": [
-          "meta"
+          "meta",
+          "ai agent"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 6
       },
       {
         "title": "StanChart’s AI Chief Exiting Less Than a Year After Joining",
@@ -269,62 +305,32 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 2,
         "matchedKeywords": [
-          "intel",
           "artificial intelligence"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "Pixel Weather tweaks widget as new icons come to Google Clock 8.6 ",
-        "link": "https://9to5google.com/2026/03/17/google-clock-8-6-weather/",
-        "description": "Google has made a pair of weather tweaks to Pixel Weather and the Clock app (version 8.6).\nmore…",
-        "published": "2026-03-18T01:22:03.000Z",
-        "source": "9to5Google",
-        "sourceKey": "9to5google",
-        "priority": 2,
-        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/01/pixel-weather-snow-2.jpg?quality=82&#038;strip=all&#038;w=1600",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "google"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 2
       }
     ],
     "chips_cloud": [
       {
         "title": "Nvidia Says Company Firing Up H200 Production for China",
         "link": "https://www.bloomberg.com/news/videos/2026-03-18/nvidia-says-company-firing-up-h200-production-for-china-video",
-        "description": "Nvidia CEO Jensen Huang says the company has been licensed for “many customers in China” for H200 sales and is in the process of “restarting our manufacturing.” Bloomberg's Ed Ludlow reports. (Source: Bloomberg)",
+        "description": "Nvidia CEO Jensen Huang says the company has been licensed for “many customers in China” for H200 sales and is in the process of “restarting our manufacturing.” Bloomberg's Ed Ludlow reports. (Source: Bloomberg)",
         "published": "2026-03-18T01:37:39.000Z",
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 11,
+        "relevanceScore": 9,
         "matchedKeywords": [
           "nvidia",
-          "ceo",
-          "jensen huang"
+          "jensen huang",
+          "ceo"
         ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": "Geely Profit Beats Estimates as Sales Approach Those of BYD",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-18/geely-profit-beats-estimates-as-sales-approach-those-of-byd",
-        "description": "Geely Automobile Holdings Ltd.’s full-year profit beat analyst estimates and climbed to a record as China’s second-largest carmaker closed in on market leader BYD Co.’s sales, thanks to the popularity of its EX2 hatchbacks and Zeekr sport utility vehicles.",
-        "published": "2026-03-18T04:25:10.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "byd",
-          "arm"
-        ],
-        "category": "chips_cloud"
+        "category": "chips_cloud",
+        "baseScore": 9
       },
       {
         "title": "Data Center Firm DayOne Seeks to Boost Loan to Record $7 Billion",
@@ -340,26 +346,44 @@
           "data center",
           "billion"
         ],
-        "category": "chips_cloud"
+        "category": "chips_cloud",
+        "baseScore": 3
       }
     ],
-    "business": [
+    "ev_autonomous": [
       {
-        "title": "Hong Kong Crypto Unicorn RedotPay Churns Executives in IPO Drive",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-18/hong-kong-crypto-unicorn-redotpay-churns-executives-in-ipo-drive",
-        "description": "RedotPay, a Hong Kong startup in the stablecoin payments space, is contending with executive turnover and sensitivities around its connections to mainland China as it seeks to raise up to $150 million just months after its last funding round.",
-        "published": "2026-03-18T00:00:04.000Z",
+        "title": "Geely Profit Beats Estimates as Sales Approach Those of BYD",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-18/geely-profit-beats-estimates-as-sales-approach-those-of-byd",
+        "description": "Geely Automobile Holdings Ltd.’s full-year profit beat analyst estimates and climbed to a record as China’s second-largest carmaker closed in on market leader BYD Co.’s sales, thanks to the popularity of its EX2 hatchbacks and Zeekr sport utility vehicles.",
+        "published": "2026-03-18T04:25:10.000Z",
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 7,
+        "relevanceScore": 5,
         "matchedKeywords": [
-          "ipo",
-          "funding round",
-          "stablecoin"
+          "byd"
         ],
-        "category": "business"
+        "category": "ev_autonomous",
+        "baseScore": 5
+      }
+    ],
+    "devices": [
+      {
+        "title": "Pixel Weather tweaks widget as new icons come to Google Clock 8.6",
+        "link": "https://9to5google.com/2026/03/17/google-clock-8-6-weather/",
+        "description": "Google has made a pair of weather tweaks to Pixel Weather and the Clock app (version 8.6). more…",
+        "published": "2026-03-18T01:22:03.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/01/pixel-weather-snow-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "devices",
+        "baseScore": 4
       }
     ]
   },

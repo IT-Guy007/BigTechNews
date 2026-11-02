@@ -15,31 +15,14 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 12,
+      "relevanceScore": 10,
       "matchedKeywords": [
         "anthropic",
-        "intel",
-        "artificial intelligence",
-        "billion"
+        "billion",
+        "artificial intelligence"
       ],
-      "category": "ai"
-    },
-    {
-      "title": "Metaplanet denies selling bitcoin worth $320 million ",
-      "link": "https://www.coindesk.com/markets/2026/08/13/metaplanet-denies-selling-bitcoin-worth-usd320-million",
-      "description": "Metaplanet CEO dismisses bitcoin sale rumors, confirms 43,000 BTC holdings",
-      "published": "2026-08-13T05:34:48.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "priority": 3,
-      "image": null,
-      "relevanceScore": 8,
-      "matchedKeywords": [
-        "meta",
-        "ceo",
-        "bitcoin"
-      ],
-      "category": "business"
+      "category": "ai",
+      "baseScore": 10
     },
     {
       "title": "Meta Says It’s Shut Down 750,000 Under-16 Accounts in Australia",
@@ -50,47 +33,19 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 7,
+      "relevanceScore": 9,
       "matchedKeywords": [
         "meta",
-        "facebook"
+        "facebook",
+        "instagram"
       ],
-      "category": "ev_autonomous"
-    },
-    {
-      "title": " Treasury Wine Sees Price Stabilization in China",
-      "link": "https://www.bloomberg.com/news/videos/2026-08-13/asus-lifts-ai-server-growth-target-video",
-      "description": "Treasury Wine Estates CEO Sam Fisher, says demand for key brands is improving after the company reported a 36% decline in annual earnings. He adds, efforts to tackle US supply chain issues and curb parallel imports in China are beginning to show results.​ He spoke exclusively with Paul Allen on Insight with Haslinda Amin. (Source: Bloomberg)",
-      "published": "2026-08-13T04:49:14.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "ceo"
-      ],
-      "category": "business"
-    },
-    {
-      "title": "ASUS Lifts AI Server Growth Target",
-      "link": "https://www.bloomberg.com/news/videos/2026-08-13/asus-lifts-ai-server-growth-target-video-msr2k85y",
-      "description": "ASUS Co-CEO, S.Y. Hsu, says AI server demand remains strong, prompting the company to raise its 2026 growth outlook. He discusses AI infrastructure spending, memory shortages, supply chain challenges, and the outlook for AI servers and PCs. He spoke exclusively with Paul Allen on Insight with Haslinda Amin. (Source: Bloomberg)",
-      "published": "2026-08-13T05:20:04.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "ceo"
-      ],
-      "category": "ai"
+      "category": "other",
+      "baseScore": 9
     },
     {
       "title": "Apple TV just added a bunch of classic movies to stream for free",
       "link": "https://9to5mac.com/2026/08/12/apple-tv-just-added-a-bunch-of-classic-movies-to-stream-for-free/",
-      "description": "Marketed as a streaming service of originals, the Apple TV streaming service has been slowly growing its catalog of exclusive TV shows and movies. But Apple has just complemented its offering with a bunch of classic movies to stream with your subscription at no extra charge.\nIt’s currently not clear if this new initiative is intended to be permanent, or a limited time promotion. The service experimented with something similar a few years ago, but it didn’t last too long.",
+      "description": "Marketed as a streaming service of originals, the Apple TV streaming service has been slowly growing its catalog of exclusive TV shows and movies. But Apple has just complemented its offering with a bunch of classic movies to stream with your subscription at no extra charge. It’s currently not clear if this new initiative is intended to be permanent, or a limited time promotion. The service experimented with something similar a few years ago, but it didn’t last too long.",
       "published": "2026-08-13T06:42:56.000Z",
       "source": "9to5Mac",
       "sourceKey": "9to5mac",
@@ -100,7 +55,8 @@
       "matchedKeywords": [
         "apple"
       ],
-      "category": null
+      "category": "devices",
+      "baseScore": 4
     },
     {
       "title": "Apple TV publishes the trailer for Stillwater’s fifth season",
@@ -115,12 +71,13 @@
       "matchedKeywords": [
         "apple"
       ],
-      "category": "ai"
+      "category": "devices",
+      "baseScore": 4
     },
     {
       "title": "Apple in Talks to Pay Publishers for News Content to Power Siri AI",
       "link": "https://www.macrumors.com/2026/08/12/apple-siri-ai-publisher-talks/",
-      "description": "Apple has approached publishers to establish content deals that would give Siri AI access to current news and information, reports The Wall Street Journal.\r\n\r\n\r\nApple is proposing multiyear agreements where publishers would receive payment when their content is used, which is different from standard AI deals. Typical deals between AI companies and news organizations have set fees for broad content access. Apple has discussed a nine-figure budget for the payments.\r\n\r\nThe Wall Street Journal says Apple previously inked deals that included AI training rights. Apple has also worked with publishers for its Apple News+ service since 2019, though some publishers were unhappy with the content deals and ended their partnerships.\r\n\r\niOS 27, iPadOS 27, and macOS 27. ‌Siri‌ AI is a major departure from the prior version of ‌Siri‌, and Apple has an incentive to ensure accurate news headlines. An iOS 18 notification summary feature turned out to be an embarrassment after Apple Intelligence generated false headlines that misled users. Apple ended up removing news summaries for more than a year while it made improvements.\nTag: Siri\nThis article, \"Apple in Talks to Pay Publishers for News Content to Power Siri AI\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+      "description": "Apple has approached publishers to establish content deals that would give Siri AI access to current news and information, reports The Wall Street Journal. Apple is proposing multiyear agreements where publishers would receive payment when their content is used, which is different from standard AI deals. Typical deals between AI companies and news organizations have set fees for broad content access. Apple has discussed a nine-figure budget for the payments. The Wall Street Journal says Apple pr",
       "published": "2026-08-13T00:03:40.000Z",
       "source": "MacRumors",
       "sourceKey": "macrumors",
@@ -130,7 +87,25 @@
       "matchedKeywords": [
         "apple"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 4
+    },
+    {
+      "title": "Treasury Wine Sees Price Stabilization in China",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-13/asus-lifts-ai-server-growth-target-video",
+      "description": "Treasury Wine Estates CEO Sam Fisher, says demand for key brands is improving after the company reported a 36% decline in annual earnings. He adds, efforts to tackle US supply chain issues and curb parallel imports in China are beginning to show results.​ He spoke exclusively with Paul Allen on Insight with Haslinda Amin. (Source: Bloomberg)",
+      "published": "2026-08-13T04:49:14.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 3,
+      "matchedKeywords": [
+        "ceo",
+        "earnings"
+      ],
+      "category": "business",
+      "baseScore": 3
     },
     {
       "title": "EVs dominate China’s car market: 5 takeaways from the country's latest auto sales data",
@@ -145,7 +120,8 @@
       "matchedKeywords": [
         "tesla"
       ],
-      "category": "ev_autonomous"
+      "category": "ev_autonomous",
+      "baseScore": 3
     },
     {
       "title": "Bitcoin firms ask AI labs for same tools attackers already have",
@@ -158,10 +134,44 @@
       "image": null,
       "relevanceScore": 3,
       "matchedKeywords": [
-        "coinbase",
-        "bitcoin"
+        "bitcoin",
+        "coinbase"
       ],
-      "category": "crypto"
+      "category": "crypto",
+      "baseScore": 3
+    },
+    {
+      "title": "ASUS Lifts AI Server Growth Target",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-13/asus-lifts-ai-server-growth-target-video-msr2k85y",
+      "description": "ASUS Co-CEO, S.Y. Hsu, says AI server demand remains strong, prompting the company to raise its 2026 growth outlook. He discusses AI infrastructure spending, memory shortages, supply chain challenges, and the outlook for AI servers and PCs. He spoke exclusively with Paul Allen on Insight with Haslinda Amin. (Source: Bloomberg)",
+      "published": "2026-08-13T05:20:04.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 2,
+      "matchedKeywords": [
+        "ceo"
+      ],
+      "category": "ai",
+      "baseScore": 2
+    },
+    {
+      "title": "Metaplanet denies selling bitcoin worth $320 million",
+      "link": "https://www.coindesk.com/markets/2026/08/13/metaplanet-denies-selling-bitcoin-worth-usd320-million",
+      "description": "Metaplanet CEO dismisses bitcoin sale rumors, confirms 43,000 BTC holdings",
+      "published": "2026-08-13T05:34:48.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "priority": 3,
+      "image": null,
+      "relevanceScore": 2,
+      "matchedKeywords": [
+        "bitcoin",
+        "ceo"
+      ],
+      "category": "crypto",
+      "baseScore": 2
     }
   ],
   "byCategory": {
@@ -175,14 +185,30 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 12,
+        "relevanceScore": 10,
         "matchedKeywords": [
           "anthropic",
-          "intel",
-          "artificial intelligence",
-          "billion"
+          "billion",
+          "artificial intelligence"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 10
+      },
+      {
+        "title": "Apple in Talks to Pay Publishers for News Content to Power Siri AI",
+        "link": "https://www.macrumors.com/2026/08/12/apple-siri-ai-publisher-talks/",
+        "description": "Apple has approached publishers to establish content deals that would give Siri AI access to current news and information, reports The Wall Street Journal. Apple is proposing multiyear agreements where publishers would receive payment when their content is used, which is different from standard AI deals. Typical deals between AI companies and news organizations have set fees for broad content access. Apple has discussed a nine-figure budget for the payments. The Wall Street Journal says Apple pr",
+        "published": "2026-08-13T00:03:40.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/06/Siri-AI.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai",
+        "baseScore": 4
       },
       {
         "title": "ASUS Lifts AI Server Growth Target",
@@ -193,11 +219,50 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 2,
         "matchedKeywords": [
           "ceo"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 2
+      }
+    ],
+    "other": [
+      {
+        "title": "Meta Says It’s Shut Down 750,000 Under-16 Accounts in Australia",
+        "link": "https://www.bloomberg.com/news/articles/2026-08-13/meta-says-it-s-shut-down-750-000-under-16-accounts-in-australia",
+        "description": "Meta Platforms Inc. says it has removed access to more than 750,000 Instagram and Facebook accounts in Australia believed to belong to people under 16 since it began complying with the country’s landmark youth social media ban last year.",
+        "published": "2026-08-13T04:25:52.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "meta",
+          "facebook",
+          "instagram"
+        ],
+        "category": "other",
+        "baseScore": 9
+      }
+    ],
+    "devices": [
+      {
+        "title": "Apple TV just added a bunch of classic movies to stream for free",
+        "link": "https://9to5mac.com/2026/08/12/apple-tv-just-added-a-bunch-of-classic-movies-to-stream-for-free/",
+        "description": "Marketed as a streaming service of originals, the Apple TV streaming service has been slowly growing its catalog of exclusive TV shows and movies. But Apple has just complemented its offering with a bunch of classic movies to stream with your subscription at no extra charge. It’s currently not clear if this new initiative is intended to be permanent, or a limited time promotion. The service experimented with something similar a few years ago, but it didn’t last too long.",
+        "published": "2026-08-13T06:42:56.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-tv-free-movies.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices",
+        "baseScore": 4
       },
       {
         "title": "Apple TV publishes the trailer for Stillwater’s fifth season",
@@ -212,44 +277,13 @@
         "matchedKeywords": [
           "apple"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "Apple in Talks to Pay Publishers for News Content to Power Siri AI",
-        "link": "https://www.macrumors.com/2026/08/12/apple-siri-ai-publisher-talks/",
-        "description": "Apple has approached publishers to establish content deals that would give Siri AI access to current news and information, reports The Wall Street Journal.\r\n\r\n\r\nApple is proposing multiyear agreements where publishers would receive payment when their content is used, which is different from standard AI deals. Typical deals between AI companies and news organizations have set fees for broad content access. Apple has discussed a nine-figure budget for the payments.\r\n\r\nThe Wall Street Journal says Apple previously inked deals that included AI training rights. Apple has also worked with publishers for its Apple News+ service since 2019, though some publishers were unhappy with the content deals and ended their partnerships.\r\n\r\niOS 27, iPadOS 27, and macOS 27. ‌Siri‌ AI is a major departure from the prior version of ‌Siri‌, and Apple has an incentive to ensure accurate news headlines. An iOS 18 notification summary feature turned out to be an embarrassment after Apple Intelligence generated false headlines that misled users. Apple ended up removing news summaries for more than a year while it made improvements.\nTag: Siri\nThis article, \"Apple in Talks to Pay Publishers for News Content to Power Siri AI\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-        "published": "2026-08-13T00:03:40.000Z",
-        "source": "MacRumors",
-        "sourceKey": "macrumors",
-        "priority": 2,
-        "image": "https://images.macrumors.com/article-new/2026/06/Siri-AI.jpg",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "ai"
+        "category": "devices",
+        "baseScore": 4
       }
     ],
     "business": [
       {
-        "title": "Metaplanet denies selling bitcoin worth $320 million ",
-        "link": "https://www.coindesk.com/markets/2026/08/13/metaplanet-denies-selling-bitcoin-worth-usd320-million",
-        "description": "Metaplanet CEO dismisses bitcoin sale rumors, confirms 43,000 BTC holdings",
-        "published": "2026-08-13T05:34:48.000Z",
-        "source": "CoinDesk",
-        "sourceKey": "coindesk",
-        "priority": 3,
-        "image": null,
-        "relevanceScore": 8,
-        "matchedKeywords": [
-          "meta",
-          "ceo",
-          "bitcoin"
-        ],
-        "category": "business"
-      },
-      {
-        "title": " Treasury Wine Sees Price Stabilization in China",
+        "title": "Treasury Wine Sees Price Stabilization in China",
         "link": "https://www.bloomberg.com/news/videos/2026-08-13/asus-lifts-ai-server-growth-target-video",
         "description": "Treasury Wine Estates CEO Sam Fisher, says demand for key brands is improving after the company reported a 36% decline in annual earnings. He adds, efforts to tackle US supply chain issues and curb parallel imports in China are beginning to show results.​ He spoke exclusively with Paul Allen on Insight with Haslinda Amin. (Source: Bloomberg)",
         "published": "2026-08-13T04:49:14.000Z",
@@ -257,30 +291,16 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 3,
         "matchedKeywords": [
-          "ceo"
+          "ceo",
+          "earnings"
         ],
-        "category": "business"
+        "category": "business",
+        "baseScore": 3
       }
     ],
     "ev_autonomous": [
-      {
-        "title": "Meta Says It’s Shut Down 750,000 Under-16 Accounts in Australia",
-        "link": "https://www.bloomberg.com/news/articles/2026-08-13/meta-says-it-s-shut-down-750-000-under-16-accounts-in-australia",
-        "description": "Meta Platforms Inc. says it has removed access to more than 750,000 Instagram and Facebook accounts in Australia believed to belong to people under 16 since it began complying with the country’s landmark youth social media ban last year.",
-        "published": "2026-08-13T04:25:52.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "meta",
-          "facebook"
-        ],
-        "category": "ev_autonomous"
-      },
       {
         "title": "EVs dominate China’s car market: 5 takeaways from the country's latest auto sales data",
         "link": "https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html",
@@ -294,7 +314,8 @@
         "matchedKeywords": [
           "tesla"
         ],
-        "category": "ev_autonomous"
+        "category": "ev_autonomous",
+        "baseScore": 3
       }
     ],
     "crypto": [
@@ -309,10 +330,28 @@
         "image": null,
         "relevanceScore": 3,
         "matchedKeywords": [
-          "coinbase",
-          "bitcoin"
+          "bitcoin",
+          "coinbase"
         ],
-        "category": "crypto"
+        "category": "crypto",
+        "baseScore": 3
+      },
+      {
+        "title": "Metaplanet denies selling bitcoin worth $320 million",
+        "link": "https://www.coindesk.com/markets/2026/08/13/metaplanet-denies-selling-bitcoin-worth-usd320-million",
+        "description": "Metaplanet CEO dismisses bitcoin sale rumors, confirms 43,000 BTC holdings",
+        "published": "2026-08-13T05:34:48.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 2,
+        "matchedKeywords": [
+          "bitcoin",
+          "ceo"
+        ],
+        "category": "crypto",
+        "baseScore": 2
       }
     ]
   },

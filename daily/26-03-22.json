@@ -15,15 +15,17 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 21,
+      "relevanceScore": 19,
       "matchedKeywords": [
         "tesla",
         "spacex",
-        "intel",
         "xai",
-        "elon musk"
+        "chip",
+        "elon musk",
+        "artificial intelligence"
       ],
-      "category": "ai"
+      "category": "chips_cloud",
+      "baseScore": 19
     },
     {
       "title": "Apple CEO Praises China Partners as Beijing Applies Pressure",
@@ -34,17 +36,18 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 11,
+      "relevanceScore": 9,
       "matchedKeywords": [
         "apple",
         "ceo",
         "tim cook"
       ],
-      "category": "business"
+      "category": "business",
+      "baseScore": 9
     }
   ],
   "byCategory": {
-    "ai": [
+    "chips_cloud": [
       {
         "title": "Musk Says Tesla, SpaceX, xAI Chip Project to Kick Off in Texas",
         "link": "https://www.bloomberg.com/news/articles/2026-03-22/elon-musk-says-tesla-xai-spacex-terafab-to-start-in-austin",
@@ -54,15 +57,17 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 21,
+        "relevanceScore": 19,
         "matchedKeywords": [
           "tesla",
           "spacex",
-          "intel",
           "xai",
-          "elon musk"
+          "chip",
+          "elon musk",
+          "artificial intelligence"
         ],
-        "category": "ai"
+        "category": "chips_cloud",
+        "baseScore": 19
       }
     ],
     "business": [
@@ -75,13 +80,14 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 11,
+        "relevanceScore": 9,
         "matchedKeywords": [
           "apple",
           "ceo",
           "tim cook"
         ],
-        "category": "business"
+        "category": "business",
+        "baseScore": 9
       }
     ]
   },

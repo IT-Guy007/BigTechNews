@@ -19,7 +19,8 @@
       "matchedKeywords": [
         "anthropic"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 7
     },
     {
       "title": "Commerce Secretary says US opposes Apple buying Chinese memory chips",
@@ -35,7 +36,8 @@
         "apple",
         "chip"
       ],
-      "category": "ai"
+      "category": "chips_cloud",
+      "baseScore": 5
     }
   ],
   "byCategory": {
@@ -53,8 +55,11 @@
         "matchedKeywords": [
           "anthropic"
         ],
-        "category": "ai"
-      },
+        "category": "ai",
+        "baseScore": 7
+      }
+    ],
+    "chips_cloud": [
       {
         "title": "Commerce Secretary says US opposes Apple buying Chinese memory chips",
         "link": "https://9to5mac.com/2026/08/14/commerce-secretary-says-us-opposes-apple-buying-chinese-memory-chips/",
@@ -69,7 +74,8 @@
           "apple",
           "chip"
         ],
-        "category": "ai"
+        "category": "chips_cloud",
+        "baseScore": 5
       }
     ]
   },

@@ -9,7 +9,7 @@
     {
       "title": "Court orders Elon Musk to turn over Tesla and SpaceX emails in Apple/OpenAI lawsuit",
       "link": "https://9to5mac.com/2026/06/02/court-orders-elon-musk-to-turn-over-tesla-and-spacex-emails-in-apple-openai-lawsuit/",
-      "description": "United States District Judge Mark Pittman has rejected xAI’s attempt to keep Elon Musk’s Tesla and SpaceX emails out of discovery in the lawsuit against Apple and OpenAI. Here are the details.\nmore…",
+      "description": "United States District Judge Mark Pittman has rejected xAI’s attempt to keep Elon Musk’s Tesla and SpaceX emails out of discovery in the lawsuit against Apple and OpenAI. Here are the details. more…",
       "published": "2026-06-03T01:25:51.000Z",
       "source": "9to5Mac",
       "sourceKey": "9to5mac",
@@ -21,9 +21,11 @@
         "openai",
         "tesla",
         "spacex",
-        "xai"
+        "elon musk",
+        "lawsuit"
       ],
-      "category": "ai"
+      "category": "regulation",
+      "baseScore": 25
     },
     {
       "title": "Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs for developers",
@@ -34,15 +36,17 @@
       "sourceKey": "cnbc_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 20,
+      "relevanceScore": 21,
       "matchedKeywords": [
-        "google",
         "microsoft",
         "openai",
+        "ai model",
+        "google",
         "anthropic",
         "generative ai"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 21
     },
     {
       "title": "Meta took down over a million scam accounts in joint operation with Microsoft, SpaceX and DOJ",
@@ -58,29 +62,11 @@
         "microsoft",
         "meta",
         "spacex",
-        "coinbase",
-        "doj"
+        "doj",
+        "coinbase"
       ],
-      "category": "space"
-    },
-    {
-      "title": "Nvidia CEO Pitches ‘Insane’ AI Returns to Billionaire Families",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-03/nvidia-ceo-pitches-insane-ai-returns-to-billionaire-families",
-      "description": "Nvidia Corp. Chief Executive Officer Jensen Huang touted “insane” returns for investors willing to bet on the AI boom, seeking to dispel lingering concerns around the big sums spent on artificial intelligence and its long-term profitability.",
-      "published": "2026-06-03T09:05:23.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 15,
-      "matchedKeywords": [
-        "nvidia",
-        "intel",
-        "ceo",
-        "jensen huang",
-        "artificial intelligence"
-      ],
-      "category": "business"
+      "category": "space",
+      "baseScore": 17
     },
     {
       "title": "Google Ordered to Make Changes to AI Search Summaries by UK",
@@ -91,15 +77,15 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 14,
+      "relevanceScore": 12,
       "matchedKeywords": [
         "google",
         "alphabet",
-        "intel",
         "antitrust",
         "artificial intelligence"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 12
     },
     {
       "title": "BYD-Backed Robotics Firm PaXini Is Said to Explore Hong Kong IPO",
@@ -110,13 +96,15 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 13,
+      "relevanceScore": 12,
       "matchedKeywords": [
         "byd",
         "ipo",
-        "humanoid robot"
+        "humanoid robot",
+        "humanoid"
       ],
-      "category": "robotics"
+      "category": "robotics",
+      "baseScore": 12
     },
     {
       "title": "France's Macron invites Sam Altman to attend G7, OpenAI tells CNBC",
@@ -132,7 +120,8 @@
         "openai",
         "sam altman"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 11
     },
     {
       "title": "SpaceX is worth less than half of its $1.75 trillion IPO target, Morningstar says",
@@ -143,56 +132,75 @@
       "sourceKey": "cnbc_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 11,
+      "relevanceScore": 10,
       "matchedKeywords": [
         "spacex",
-        "xai",
-        "ipo"
+        "ipo",
+        "xai"
       ],
-      "category": "ai"
+      "category": "space",
+      "baseScore": 10
     },
     {
-      "title": "SpaceX Seeks $135 a Share for $75 Billion IPO, Reuters Says",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-03/spacex-seeks-75-billion-in-ipo-at-135-per-share-reuters-says",
-      "description": "SpaceX aims to sell 555.6 million shares ​at $135 apiece for its record-breaking $75 ​billion ⁠initial public ​offering, Reuters reported, citing an unidentified person familiar with the matter.",
-      "published": "2026-06-03T00:39:02.000Z",
+      "title": "Nvidia CEO Pitches ‘Insane’ AI Returns to Billionaire Families",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-03/nvidia-ceo-pitches-insane-ai-returns-to-billionaire-families",
+      "description": "Nvidia Corp. Chief Executive Officer Jensen Huang touted “insane” returns for investors willing to bet on the AI boom, seeking to dispel lingering concerns around the big sums spent on artificial intelligence and its long-term profitability.",
+      "published": "2026-06-03T09:05:23.000Z",
       "source": "Bloomberg",
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
       "relevanceScore": 10,
       "matchedKeywords": [
-        "spacex",
-        "ipo",
-        "billion"
+        "nvidia",
+        "ceo",
+        "jensen huang",
+        "artificial intelligence"
       ],
-      "category": "regulation"
+      "category": "business",
+      "baseScore": 10
     },
     {
-      "title": "Spain Earmarks Up to €800M for Massive EU Data Center Project",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-03/spain-earmarks-600m-800m-for-massive-eu-data-center-project",
-      "description": "Spain is confident it’ll be awarded a massive artificial intelligence data center project by the EU and plans to invest as much as €800 million ($929 million) in it.",
-      "published": "2026-06-03T10:19:14.000Z",
+      "title": "How long will it take to rebuild Blue Origin's launch pad? We asked some SpaceX vets.",
+      "link": "https://arstechnica.com/space/2026/06/how-long-will-it-take-to-rebuild-blue-origins-launch-pad-we-asked-some-spacex-vets/",
+      "description": "\"Everyone is in a place where it’s no fun to be there.\"",
+      "published": "2026-06-03T10:00:07.000Z",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "spacex",
+        "blue origin"
+      ],
+      "category": "space",
+      "baseScore": 9
+    },
+    {
+      "title": "Baidu CFO Haijian He on AI Revenue, Robotaxis",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-03/baidu-cfo-haijian-he-on-ai-revenue-robotaxis-video",
+      "description": "Baidu CFO Haijian He speaks to Bloomberg's Haslinda Amin about how the company's AI-related revenue has reached 50%, explaining the benefits of its integrated services offering and the potential of its robotaxi business. (Source: Bloomberg)",
+      "published": "2026-06-03T03:31:23.000Z",
       "source": "Bloomberg",
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
       "relevanceScore": 9,
       "matchedKeywords": [
-        "intel",
-        "arm",
-        "artificial intelligence",
-        "data center"
+        "baidu",
+        "robotaxi"
       ],
-      "category": "chips_cloud"
+      "category": "ev_autonomous",
+      "baseScore": 9
     }
   ],
   "byCategory": {
-    "ai": [
+    "regulation": [
       {
         "title": "Court orders Elon Musk to turn over Tesla and SpaceX emails in Apple/OpenAI lawsuit",
         "link": "https://9to5mac.com/2026/06/02/court-orders-elon-musk-to-turn-over-tesla-and-spacex-emails-in-apple-openai-lawsuit/",
-        "description": "United States District Judge Mark Pittman has rejected xAI’s attempt to keep Elon Musk’s Tesla and SpaceX emails out of discovery in the lawsuit against Apple and OpenAI. Here are the details.\nmore…",
+        "description": "United States District Judge Mark Pittman has rejected xAI’s attempt to keep Elon Musk’s Tesla and SpaceX emails out of discovery in the lawsuit against Apple and OpenAI. Here are the details. more…",
         "published": "2026-06-03T01:25:51.000Z",
         "source": "9to5Mac",
         "sourceKey": "9to5mac",
@@ -204,10 +212,45 @@
           "openai",
           "tesla",
           "spacex",
-          "xai"
+          "elon musk",
+          "lawsuit"
         ],
-        "category": "ai"
+        "category": "regulation",
+        "baseScore": 25
       },
+      {
+        "title": "Spain Earmarks Up to €800M for Massive EU Data Center Project",
+        "link": "https://www.bloomberg.com/news/articles/2026-06-03/spain-earmarks-600m-800m-for-massive-eu-data-center-project",
+        "description": "Spain is confident it’ll be awarded a massive artificial intelligence data center project by the EU and plans to invest as much as €800 million ($929 million) in it.",
+        "published": "2026-06-03T10:19:14.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "data center",
+          "artificial intelligence"
+        ],
+        "category": "regulation",
+        "baseScore": 3
+      },
+      {
+        "title": "US and Iran Exchange Strikes, Trump Begins Rebuilding Tariff Wall | The Opening Trade 6/3/2026",
+        "link": "https://www.bloomberg.com/news/videos/2026-06-03/the-opening-trade-6-3-2026-video",
+        "description": "US stocks struggled to build on record gains as growing strains on the ceasefire between the US and Iran sent oil prices higher for a third straight day. The cautious mood follows flare-ups in the Middle East that are testing a fragile truce between Washington and Tehran, with US forces intercepting ballistic missiles and drones aimed at neighboring countries and striking an Iranian command center in response. The US is proposing new tariffs of at least 10% on imports from 60 trading partners in",
+        "published": "2026-06-03T09:29:33.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 1,
+        "matchedKeywords": [],
+        "category": "regulation",
+        "baseScore": 1
+      }
+    ],
+    "ai": [
       {
         "title": "Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs for developers",
         "link": "https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html",
@@ -217,15 +260,17 @@
         "sourceKey": "cnbc_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 20,
+        "relevanceScore": 21,
         "matchedKeywords": [
-          "google",
           "microsoft",
           "openai",
+          "ai model",
+          "google",
           "anthropic",
           "generative ai"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 21
       },
       {
         "title": "Google Ordered to Make Changes to AI Search Summaries by UK",
@@ -236,15 +281,15 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 14,
+        "relevanceScore": 12,
         "matchedKeywords": [
           "google",
           "alphabet",
-          "intel",
           "antitrust",
           "artificial intelligence"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 12
       },
       {
         "title": "France's Macron invites Sam Altman to attend G7, OpenAI tells CNBC",
@@ -260,56 +305,8 @@
           "openai",
           "sam altman"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "SpaceX is worth less than half of its $1.75 trillion IPO target, Morningstar says",
-        "link": "https://www.cnbc.com/2026/06/03/morningstar-spacex-ipo-target-price-nasdaq.html",
-        "description": "The analysts see a wide range of possibilities around xAI and find its \"economic moat indeterminate.\"",
-        "published": "2026-06-03T09:19:45.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 11,
-        "matchedKeywords": [
-          "spacex",
-          "xai",
-          "ipo"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "SpaceX Kicks Off AI IPOs Set to Rewrite the Rules of Wall Street",
-        "link": "https://www.bloomberg.com/news/newsletters/2026-06-03/spacex-ipo-to-openai-ipo-the-ai-gold-rush-is-rewiring-wall-street",
-        "description": "The AI era is set to enrich Wall Street in a way different from previous technology booms.",
-        "published": "2026-06-03T10:30:01.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 9,
-        "matchedKeywords": [
-          "spacex",
-          "ipo"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Perplexity CEO tells CNBC one metric will determine who wins the AI race",
-        "link": "https://www.cnbc.com/2026/06/03/perplexity-ceo-ai-valuations-computer-agentic.html",
-        "description": "Perplexity CEO Aravind Srinivas said that whichever company can provide the \"most taken value per watt per user\" will be the AI winners in the future.",
-        "published": "2026-06-03T08:45:54.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 8,
-        "matchedKeywords": [
-          "perplexity",
-          "ceo"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 11
       },
       {
         "title": "What’s Worth More Than Cash in San Francisco Real Estate? Anthropic Stock",
@@ -324,12 +321,13 @@
         "matchedKeywords": [
           "anthropic"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 7
       },
       {
         "title": "AI has a water problem. Google thinks it has a fix",
         "link": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
-        "description": "In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actually increasing water for local communities. \nThe company laid out five commitments around water use in a new blog post published Wednesday, including a goal to replenish more water than it uses at its data centers by 2030. Google also said it will invest in local water infrastructure, identify alternative water sources to power its facilities, and be transparent about its water use overall. \n\"We're just one of dozens of players in the space,\" Google's global head of infrastructure a …\nRead the full story at The Verge.",
+        "description": "In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actually increasing water for local communities. The company laid out five commitments around water use in a new blog post published Wednesday, including a goal to replenish more water than it uses at its data centers by 2030. Google also said it will invest in local water infrastructure, identify alternative water sources to power its facilit",
         "published": "2026-06-03T09:00:00.000Z",
         "source": "The Verge",
         "sourceKey": "theverge",
@@ -340,7 +338,42 @@
           "google",
           "data center"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 6
+      },
+      {
+        "title": "Perplexity CEO tells CNBC one metric will determine who wins the AI race",
+        "link": "https://www.cnbc.com/2026/06/03/perplexity-ceo-ai-valuations-computer-agentic.html",
+        "description": "Perplexity CEO Aravind Srinivas said that whichever company can provide the \"most taken value per watt per user\" will be the AI winners in the future.",
+        "published": "2026-06-03T08:45:54.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "perplexity",
+          "ceo"
+        ],
+        "category": "ai",
+        "baseScore": 6
+      },
+      {
+        "title": "Google must let publishers opt out of AI Search features, rules UK",
+        "link": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
+        "description": "Online publishers are getting more control over whether their websites appear in Google's AI Search features, thanks to a UK regulatory ruling. The new conduct rule imposed by the Competition and Markets Authority (CMA) requires Google to let website owners keep their content out of features like AI Overviews and prevent it from being used for the \"fine-tuning\" of Google's AI models. \"In a world first, publishers will now have effective tools to prevent their content being used to power AI featu",
+        "published": "2026-06-03T08:45:48.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS487_ANTITRUST_2__STK093_GOOGLE.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "google",
+          "ai model"
+        ],
+        "category": "ai",
+        "baseScore": 6
       },
       {
         "title": "AI Music Startup Suno Raises Capital at $5.4 Billion Valuation",
@@ -351,125 +384,47 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 6,
+        "relevanceScore": 4,
         "matchedKeywords": [
-          "intel",
-          "artificial intelligence",
+          "valuation",
           "billion",
-          "valuation"
+          "artificial intelligence"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 4
       },
       {
-        "title": "Google must let publishers opt out of AI Search features, rules UK",
-        "link": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
-        "description": "Online publishers are getting more control over whether their websites appear in Google's AI Search features, thanks to a UK regulatory ruling. The new conduct rule imposed by the Competition and Markets Authority (CMA) requires Google to let website owners keep their content out of features like AI Overviews and prevent it from being used for the \"fine-tuning\" of Google's AI models. \n\"In a world first, publishers will now have effective tools to prevent their content being used to power AI features in search, such as AI Overviews,\" the CMA announced. \"This will put publishers, like news organizations, in a stronger position to negotiate co …\nRead the full story at The Verge.",
-        "published": "2026-06-03T08:45:48.000Z",
-        "source": "The Verge",
-        "sourceKey": "theverge",
+        "title": "Big Tech's AI ambitions pose a major power test for Europe",
+        "link": "https://www.cnbc.com/2026/06/03/big-techs-ai-power-test-europe-softbank-france.html",
+        "description": "Japan's SoftBank on Saturday announced plans to build 3.1 GW of AI data centers in the northern Hauts-de-France region by 2031.",
+        "published": "2026-06-03T05:03:01.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
         "priority": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS487_ANTITRUST_2__STK093_GOOGLE.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "google"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Nvidia’s RTX Spark Laptops Look Hell-Bent on Disruption",
-        "link": "https://www.wired.com/story/nvidia-rtx-spark-laptop-disruption/",
-        "description": "The company’s RTX Spark chips might finally turn the “AI PC” into reality.",
-        "published": "2026-06-03T11:00:00.000Z",
-        "source": "Wired",
-        "sourceKey": "wired",
-        "priority": 2,
         "image": null,
-        "relevanceScore": 5,
+        "relevanceScore": 4,
         "matchedKeywords": [
-          "nvidia",
-          "chip"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Data Center Operators Are Trying to Fix Their Water Use Problems",
-        "link": "https://www.wired.com/story/data-center-operators-fix-water-use-problems/",
-        "description": "Google, Microsoft, and other hyperscalers have come under scrutiny for their impact on water quality and availability.",
-        "published": "2026-06-03T10:00:00.000Z",
-        "source": "Wired",
-        "sourceKey": "wired",
-        "priority": 2,
-        "image": null,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "google",
-          "microsoft",
+          "softbank",
           "data center"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 4
       },
       {
-        "title": "Greenbriar-Backed Applied Aerospace Raises $650 Million in IPO",
-        "link": "https://www.bloomberg.com/news/articles/2026-06-03/applied-aerospace-defense-said-to-raise-650-million-in-us-ipo",
-        "description": "Applied Aerospace & Defense Inc., a space and defense engineering firm, raised $650 million in an initial public offering, pricing the shares near the top of a marketed range.",
-        "published": "2026-06-03T00:23:34.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "ipo"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Megaport to Raise $594 Million in Australia to Fund AI Expansion",
-        "link": "https://www.bloomberg.com/news/articles/2026-06-03/megaport-to-raise-594-million-in-australia-to-fund-ai-expansion",
-        "description": "Australia’s Megaport Ltd. is seeking to raise A$827.3 million ($594 million) to support the creation of an artificial intelligence inference cloud and execute new contracts, one of the country’s biggest deals this year as companies look to finance the global data center buildout.",
-        "published": "2026-06-03T02:02:43.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "intel",
-          "artificial intelligence",
-          "data center"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": " AMD says new EXPO ‘Ultra Low Latency’ DDR5 memory should be 'effectively the same price' as current kits — feature will work on existing chipsets, but will require new DIMMs ",
-        "link": "https://www.tomshardware.com/pc-components/ram/amd-says-new-expo-ultra-low-latency-ddr5-memory-should-be-effectively-the-same-price-as-current-kits-feature-will-work-on-existing-chipsets-but-will-require-new-dimms",
-        "description": "AMD provides us with a bit more detail about its upcoming EXPO Ultra Low Latency mode, which should be available from leading memory partners soon.",
-        "published": "2026-06-03T10:00:00.000Z",
+        "title": "Github Copilot customers report up to 100-fold price hikes — AI sticker shock bites as Microsoft switches to usage-based pricing",
+        "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/github-copilot-customers-suffer-from-sticker-shock-as-microsoft-switches-to-usage-based-pricing-customers-report-up-to-100-fold-price-hikes",
+        "description": "Github Copilot customers suffer from sticker shock syndrome as Microsoft switches to usage-based pricing — customers reporting ten- to hundred-fold price hikes",
+        "published": "2026-06-03T09:55:12.000Z",
         "source": "Tom's Hardware",
         "sourceKey": "tomshardware",
         "priority": 2,
-        "image": "https://cdn.mos.cms.futurecdn.net/sTEYc4MhaPS3YTjqAqBNvB-1280-80.jpg",
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "amd",
-          "chip"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Google shares Fitbit Air blueprints so you can 3D print your own accessories",
-        "link": "https://www.engadget.com/2186347/google-fitbit-air-blueprint-measurements-accessories/",
-        "description": "Google has released 2D CAD drawings of the Fitbit Air.",
-        "published": "2026-06-03T08:17:26.000Z",
-        "source": "Engadget",
-        "sourceKey": "engadget",
-        "priority": 2,
-        "image": "https://www.engadget.com/img/gallery/google-shares-fitbit-air-blueprints-so-you-can-3d-print-your-own-accessories/l-intro-1780474581.jpg",
+        "image": "https://cdn.mos.cms.futurecdn.net/uvkcqKzCaURJht9RS8ftn3-1280-80.jpg",
         "relevanceScore": 4,
         "matchedKeywords": [
-          "google"
+          "microsoft"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 4
       },
       {
         "title": "Google will allow websites to exclude themselves from AI search results",
@@ -484,59 +439,13 @@
         "matchedKeywords": [
           "google"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "Big Tech's AI ambitions pose a major power test for Europe ",
-        "link": "https://www.cnbc.com/2026/06/03/big-techs-ai-power-test-europe-softbank-france.html",
-        "description": "Japan's SoftBank on Saturday announced plans to build 3.1 GW of AI data centers in the northern Hauts-de-France region by 2031.",
-        "published": "2026-06-03T05:03:01.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "softbank",
-          "data center"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "US and Iran Exchange Strikes, Trump Begins Rebuilding Tariff Wall | The Opening Trade 6/3/2026",
-        "link": "https://www.bloomberg.com/news/videos/2026-06-03/the-opening-trade-6-3-2026-video",
-        "description": "US stocks struggled to build on record gains as growing strains on the ceasefire between the US and Iran sent oil prices higher for a third straight day. The cautious mood follows flare-ups in the Middle East that are testing a fragile truce between Washington and Tehran, with US forces intercepting ballistic missiles and drones aimed at neighboring countries and striking an Iranian command center in response.\n\nThe US is proposing new tariffs of at least 10% on imports from 60 trading partners in President Donald Trump’s biggest move to rebuild his protectionist wall since his earlier levies were struck down by the US Supreme Court.\n\nThe Opening Trade has everything you need to know as markets open across Europe. With analysis you won't find anywhere else, we break down the biggest stories of the day and speak to top guests who have skin in the game. Hosted by Anna Edwards, Guy Johnson and Tom Mackenzie. (Source: Bloomberg)",
-        "published": "2026-06-03T09:29:33.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "agi"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Kioxia Briefly Ousts Toyota as Japan’s No. 2 Most Valuable Firm",
-        "link": "https://www.bloomberg.com/news/articles/2026-06-03/kioxia-edges-nearer-toyota-s-market-cap-in-shakeup-to-japan-inc",
-        "description": "Kioxia Holdings Corp.’s market cap briefly surpassed that of Toyota Motor Corp. to become Japan’s second-most valuable firm as the global artificial intelligence boom remodels the country’s corporate landscape.",
-        "published": "2026-06-03T04:53:02.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "intel",
-          "artificial intelligence"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 4
       },
       {
         "title": "Google will let websites opt-out of AI Mode & Overviews in Search",
         "link": "https://9to5google.com/2026/06/02/google-ai-mode-overviews-opt-out/",
-        "description": "Google announced today that it will let publishers determine whether their websites appear and are used by AI Mode and AI Overviews, independently of regular Search results.\nmore…",
+        "description": "Google announced today that it will let publishers determine whether their websites appear and are used by AI Mode and AI Overviews, independently of regular Search results. more…",
         "published": "2026-06-03T05:10:00.000Z",
         "source": "9to5Google",
         "sourceKey": "9to5google",
@@ -546,52 +455,25 @@
         "matchedKeywords": [
           "google"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 4
       },
       {
-        "title": "Google releases Fitbit Air blueprints to let anyone make bands, accessories ",
-        "link": "https://9to5google.com/2026/06/02/fitbit-air-blueprints/",
-        "description": "Google is leaning into the Fitbit Air’s swappable pebble design to let anyone make their own accessories. This move is rather Google-y and reminiscent of the company’s earlier days.\nmore…",
-        "published": "2026-06-03T00:55:36.000Z",
-        "source": "9to5Google",
-        "sourceKey": "9to5google",
-        "priority": 2,
-        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Fitbit-Air-blueprints.jpg?quality=82&#038;strip=all&#038;w=1600",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "google"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": " Github Copilot customers report up to 100-fold price hikes — AI sticker shock bites as Microsoft switches to usage-based pricing ",
-        "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/github-copilot-customers-suffer-from-sticker-shock-as-microsoft-switches-to-usage-based-pricing-customers-report-up-to-100-fold-price-hikes",
-        "description": "Github Copilot customers suffer from sticker shock syndrome as Microsoft switches to usage-based pricing — customers reporting ten- to hundred-fold price hikes",
-        "published": "2026-06-03T09:55:12.000Z",
-        "source": "Tom's Hardware",
-        "sourceKey": "tomshardware",
-        "priority": 2,
-        "image": "https://cdn.mos.cms.futurecdn.net/uvkcqKzCaURJht9RS8ftn3-1280-80.jpg",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "microsoft"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Trans teens have something to say",
-        "link": "https://www.theverge.com/features/940977/trans-teens-pediatric-care-closing",
-        "description": "By the time the Children's Hospital closed its doors to trans patients, Sage had already stopped taking testosterone. A nonbinary high school student, they originally received treatment for the rapid onset of puberty. The changes their body experienced felt frightening and sudden. They developed PMOS, a relatively common hormonal disorder that can lead to hair growth and irregular periods. The pandemic didn't help. Too much time to focus on scrutinizing the person in the mirror while doomscrolling. Their doctor first prescribed puberty blockers to help with their PMOS symptoms - not explicitly for trans-related reasons - and eventually recom …\nRead the full story at The Verge.",
-        "published": "2026-06-03T11:00:00.000Z",
-        "source": "The Verge",
-        "sourceKey": "theverge",
+        "title": "Megaport to Raise $594 Million in Australia to Fund AI Expansion",
+        "link": "https://www.bloomberg.com/news/articles/2026-06-03/megaport-to-raise-594-million-in-australia-to-fund-ai-expansion",
+        "description": "Australia’s Megaport Ltd. is seeking to raise A$827.3 million ($594 million) to support the creation of an artificial intelligence inference cloud and execute new contracts, one of the country’s biggest deals this year as companies look to finance the global data center buildout.",
+        "published": "2026-06-03T02:02:43.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
         "priority": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268514_trans_pediatrics_VSHARMA3.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "image": null,
         "relevanceScore": 3,
         "matchedKeywords": [
-          "uber"
+          "artificial intelligence",
+          "data center"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 3
       },
       {
         "title": "Redditors Are Using AI to Beat Obscene World Cup Ticket Prices",
@@ -606,7 +488,24 @@
         "matchedKeywords": [
           "claude"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 3
+      },
+      {
+        "title": "Kioxia Briefly Ousts Toyota as Japan’s No. 2 Most Valuable Firm",
+        "link": "https://www.bloomberg.com/news/articles/2026-06-03/kioxia-edges-nearer-toyota-s-market-cap-in-shakeup-to-japan-inc",
+        "description": "Kioxia Holdings Corp.’s market cap briefly surpassed that of Toyota Motor Corp. to become Japan’s second-most valuable firm as the global artificial intelligence boom remodels the country’s corporate landscape.",
+        "published": "2026-06-03T04:53:02.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 2,
+        "matchedKeywords": [
+          "artificial intelligence"
+        ],
+        "category": "ai",
+        "baseScore": 2
       }
     ],
     "space": [
@@ -624,10 +523,29 @@
           "microsoft",
           "meta",
           "spacex",
-          "coinbase",
-          "doj"
+          "doj",
+          "coinbase"
         ],
-        "category": "space"
+        "category": "space",
+        "baseScore": 17
+      },
+      {
+        "title": "SpaceX is worth less than half of its $1.75 trillion IPO target, Morningstar says",
+        "link": "https://www.cnbc.com/2026/06/03/morningstar-spacex-ipo-target-price-nasdaq.html",
+        "description": "The analysts see a wide range of possibilities around xAI and find its \"economic moat indeterminate.\"",
+        "published": "2026-06-03T09:19:45.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "spacex",
+          "ipo",
+          "xai"
+        ],
+        "category": "space",
+        "baseScore": 10
       },
       {
         "title": "How long will it take to rebuild Blue Origin's launch pad? We asked some SpaceX vets.",
@@ -638,26 +556,85 @@
         "sourceKey": "arstechnica",
         "priority": 1,
         "image": null,
-        "relevanceScore": 5,
+        "relevanceScore": 9,
         "matchedKeywords": [
-          "spacex"
+          "spacex",
+          "blue origin"
         ],
-        "category": "space"
+        "category": "space",
+        "baseScore": 9
+      },
+      {
+        "title": "SpaceX Kicks Off AI IPOs Set to Rewrite the Rules of Wall Street",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-06-03/spacex-ipo-to-openai-ipo-the-ai-gold-rush-is-rewiring-wall-street",
+        "description": "The AI era is set to enrich Wall Street in a way different from previous technology booms.",
+        "published": "2026-06-03T10:30:01.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "spacex",
+          "ipo"
+        ],
+        "category": "space",
+        "baseScore": 8
       },
       {
         "title": "Blue Origin seeks to resume New Glenn launches by year’s end",
         "link": "https://spacenews.com/blue-origin-seeks-to-resume-new-glenn-launches-by-years-end/",
-        "description": "Blue Origin’s CEO says damage to its New Glenn launch pad is not as bad as feared and the rocket could return to flight by the end of the year.\nThe post Blue Origin seeks to resume New Glenn launches by year’s end appeared first on SpaceNews.",
+        "description": "Blue Origin’s CEO says damage to its New Glenn launch pad is not as bad as feared and the rocket could return to flight by the end of the year. The post Blue Origin seeks to resume New Glenn launches by year’s end appeared first on SpaceNews.",
         "published": "2026-06-03T10:39:28.000Z",
         "source": "SpaceNews",
         "sourceKey": "spacenews",
         "priority": 2,
         "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/Gallery-NG3-liftoff3-scaled.jpg?fit=1024%2C683&amp;ssl=1",
-        "relevanceScore": 3,
+        "relevanceScore": 5,
         "matchedKeywords": [
+          "blue origin",
           "ceo"
         ],
-        "category": "space"
+        "category": "space",
+        "baseScore": 5
+      }
+    ],
+    "robotics": [
+      {
+        "title": "BYD-Backed Robotics Firm PaXini Is Said to Explore Hong Kong IPO",
+        "link": "https://www.bloomberg.com/news/articles/2026-06-03/byd-backed-robotics-firm-paxini-is-said-to-explore-hong-kong-ipo",
+        "description": "PaXini Tech, a maker of dexterous robotic hands and humanoid robots, is considering a Hong Kong initial public offering, people familiar with the matter said, the latest in the sector looking to tap investor demand.",
+        "published": "2026-06-03T03:43:56.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "byd",
+          "ipo",
+          "humanoid robot",
+          "humanoid"
+        ],
+        "category": "robotics",
+        "baseScore": 12
+      },
+      {
+        "title": "Investors bet humanoid robots will transform industry and homes over the next decade",
+        "link": "https://www.cnbc.com/2026/06/03/humanoid-robots-trillion-dollar-ai-market.html",
+        "description": "“Be ready for it,” said one fund manager who sees enormous opportunities in the space.",
+        "published": "2026-06-03T05:00:01.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "humanoid robot",
+          "humanoid"
+        ],
+        "category": "robotics",
+        "baseScore": 5
       }
     ],
     "business": [
@@ -670,15 +647,33 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 15,
+        "relevanceScore": 10,
         "matchedKeywords": [
           "nvidia",
-          "intel",
           "ceo",
           "jensen huang",
           "artificial intelligence"
         ],
-        "category": "business"
+        "category": "business",
+        "baseScore": 10
+      },
+      {
+        "title": "SpaceX Seeks $135 a Share for $75 Billion IPO, Reuters Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-06-03/spacex-seeks-75-billion-in-ipo-at-135-per-share-reuters-says",
+        "description": "SpaceX aims to sell 555.6 million shares ​at $135 apiece for its record-breaking $75 ​billion ⁠initial public ​offering, Reuters reported, citing an unidentified person familiar with the matter.",
+        "published": "2026-06-03T00:39:02.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "spacex",
+          "ipo",
+          "billion"
+        ],
+        "category": "business",
+        "baseScore": 9
       },
       {
         "title": "TikTok Billionaire Tops Ambani as Asia’s Second-Richest",
@@ -689,32 +684,14 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 9,
-        "matchedKeywords": [
-          "bytedance",
-          "tiktok",
-          "billion",
-          "valuation"
-        ],
-        "category": "business"
-      },
-      {
-        "title": "Big tech is 'terrified' of AI agents wiping out ad revenue, says Billions Network CEO",
-        "link": "https://www.coindesk.com/business/2026/06/03/big-tech-is-terrified-of-ai-agents-wiping-out-ad-revenue-says-billions-network-ceo",
-        "description": "Evin McMullen’s view on AI agents disrupting Google’s and Facebook’s business model was previously shared by Cardano Founder Charles Hoskinson and Cloudflare CSO Stephanie Cohen.",
-        "published": "2026-06-03T06:51:08.000Z",
-        "source": "CoinDesk",
-        "sourceKey": "coindesk",
-        "priority": 3,
-        "image": null,
         "relevanceScore": 8,
         "matchedKeywords": [
-          "google",
-          "facebook",
-          "ceo",
-          "billion"
+          "tiktok",
+          "bytedance",
+          "valuation"
         ],
-        "category": "business"
+        "category": "business",
+        "baseScore": 8
       },
       {
         "title": "Broadcom’s $280 Billion, Four-Day Bonanza to Get Earnings Check",
@@ -725,12 +702,50 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 6,
+        "relevanceScore": 7,
         "matchedKeywords": [
           "broadcom",
+          "earnings",
           "billion"
         ],
-        "category": "business"
+        "category": "business",
+        "baseScore": 7
+      },
+      {
+        "title": "Big tech is 'terrified' of AI agents wiping out ad revenue, says Billions Network CEO",
+        "link": "https://www.coindesk.com/business/2026/06/03/big-tech-is-terrified-of-ai-agents-wiping-out-ad-revenue-says-billions-network-ceo",
+        "description": "Evin McMullen’s view on AI agents disrupting Google’s and Facebook’s business model was previously shared by Cardano Founder Charles Hoskinson and Cloudflare CSO Stephanie Cohen.",
+        "published": "2026-06-03T06:51:08.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "ai agent",
+          "ceo",
+          "billion",
+          "google",
+          "facebook"
+        ],
+        "category": "business",
+        "baseScore": 7
+      },
+      {
+        "title": "Greenbriar-Backed Applied Aerospace Raises $650 Million in IPO",
+        "link": "https://www.bloomberg.com/news/articles/2026-06-03/applied-aerospace-defense-said-to-raise-650-million-in-us-ipo",
+        "description": "Applied Aerospace & Defense Inc., a space and defense engineering firm, raised $650 million in an initial public offering, pricing the shares near the top of a marketed range.",
+        "published": "2026-06-03T00:23:34.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "ipo"
+        ],
+        "category": "business",
+        "baseScore": 4
       },
       {
         "title": "Software Startup Factorial Raises Funds at $2.5 Billion Value",
@@ -746,95 +761,8 @@
           "billion",
           "valuation"
         ],
-        "category": "business"
-      }
-    ],
-    "robotics": [
-      {
-        "title": "BYD-Backed Robotics Firm PaXini Is Said to Explore Hong Kong IPO",
-        "link": "https://www.bloomberg.com/news/articles/2026-06-03/byd-backed-robotics-firm-paxini-is-said-to-explore-hong-kong-ipo",
-        "description": "PaXini Tech, a maker of dexterous robotic hands and humanoid robots, is considering a Hong Kong initial public offering, people familiar with the matter said, the latest in the sector looking to tap investor demand.",
-        "published": "2026-06-03T03:43:56.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 13,
-        "matchedKeywords": [
-          "byd",
-          "ipo",
-          "humanoid robot"
-        ],
-        "category": "robotics"
-      },
-      {
-        "title": "Investors bet humanoid robots will transform industry and homes over the next decade",
-        "link": "https://www.cnbc.com/2026/06/03/humanoid-robots-trillion-dollar-ai-market.html",
-        "description": "“Be ready for it,” said one fund manager who sees enormous opportunities in the space.",
-        "published": "2026-06-03T05:00:01.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "humanoid robot"
-        ],
-        "category": "robotics"
-      }
-    ],
-    "regulation": [
-      {
-        "title": "SpaceX Seeks $135 a Share for $75 Billion IPO, Reuters Says",
-        "link": "https://www.bloomberg.com/news/articles/2026-06-03/spacex-seeks-75-billion-in-ipo-at-135-per-share-reuters-says",
-        "description": "SpaceX aims to sell 555.6 million shares ​at $135 apiece for its record-breaking $75 ​billion ⁠initial public ​offering, Reuters reported, citing an unidentified person familiar with the matter.",
-        "published": "2026-06-03T00:39:02.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 10,
-        "matchedKeywords": [
-          "spacex",
-          "ipo",
-          "billion"
-        ],
-        "category": "regulation"
-      }
-    ],
-    "chips_cloud": [
-      {
-        "title": "Spain Earmarks Up to €800M for Massive EU Data Center Project",
-        "link": "https://www.bloomberg.com/news/articles/2026-06-03/spain-earmarks-600m-800m-for-massive-eu-data-center-project",
-        "description": "Spain is confident it’ll be awarded a massive artificial intelligence data center project by the EU and plans to invest as much as €800 million ($929 million) in it.",
-        "published": "2026-06-03T10:19:14.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 9,
-        "matchedKeywords": [
-          "intel",
-          "arm",
-          "artificial intelligence",
-          "data center"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": " Intel's 5.7 GHz Xeon 6377P features 12 P-cores and a desktop-class LGA1700 socket — unusual server CPU prioritizes clock speed over core count ",
-        "link": "https://www.tomshardware.com/pc-components/cpus/intels-5-7-ghz-s-features-12-p-cores-and-a-desktop-class-lga1700-socket-unusual-server-cpu-prioritizes-clock-speed-over-core-count",
-        "description": "Intel has unveiled the Xeon 6377P, a 12-core Bartlett Lake server processor featuring a 5.7 GHz boost clock, ECC support, and a 95W TDP. The unusual Xeon targets entry-level enterprise workloads where single-threaded performance matters more than massive core counts.",
-        "published": "2026-06-03T10:00:00.000Z",
-        "source": "Tom's Hardware",
-        "sourceKey": "tomshardware",
-        "priority": 2,
-        "image": "https://cdn.mos.cms.futurecdn.net/9asxFHhddoB3Do2bCK4FfR-1280-80.jpg",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "intel"
-        ],
-        "category": "chips_cloud"
+        "category": "business",
+        "baseScore": 3
       }
     ],
     "ev_autonomous": [
@@ -852,7 +780,8 @@
           "baidu",
           "robotaxi"
         ],
-        "category": "ev_autonomous"
+        "category": "ev_autonomous",
+        "baseScore": 9
       },
       {
         "title": "Tesla's China-made EV sales jump nearly 40% in May as domestic market rebounds",
@@ -867,27 +796,13 @@
         "matchedKeywords": [
           "tesla"
         ],
-        "category": "ev_autonomous"
-      },
-      {
-        "title": "Best Apple 3-in-1 Travel Chargers (2026): Anker, ESR, Satechi",
-        "link": "https://www.wired.com/gallery/best-apple-3-in-1-travel-chargers/",
-        "description": "Keep your trio of Apple gadgets powered up wherever you go with these compact folding chargers.",
-        "published": "2026-06-03T09:59:00.000Z",
-        "source": "Wired",
-        "sourceKey": "wired",
-        "priority": 2,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "ev_autonomous"
+        "category": "ev_autonomous",
+        "baseScore": 5
       },
       {
         "title": "Tesla found new buyers for its Cybertruck: Kazakh emergency services",
         "link": "https://electrek.co/2026/06/02/tesla-cybertruck-kazakhstan-emergency-services/",
-        "description": "Kazakhstan’s Ministry of Emergency Situations has confirmed it will purchase additional Tesla Cybertrucks after the electric pickup proved effective in rescue operations in Almaty, the country’s largest city.\nThe Central Asian country has become the latest small international market to adopt the Cybertruck, as Tesla continues to struggle with collapsing domestic demand for the electric pickup.\nmore…",
+        "description": "Kazakhstan’s Ministry of Emergency Situations has confirmed it will purchase additional Tesla Cybertrucks after the electric pickup proved effective in rescue operations in Almaty, the country’s largest city. The Central Asian country has become the latest small international market to adopt the Cybertruck, as Tesla continues to struggle with collapsing domestic demand for the electric pickup. more…",
         "published": "2026-06-03T02:33:21.000Z",
         "source": "Electrek",
         "sourceKey": "electrek",
@@ -897,7 +812,33 @@
         "matchedKeywords": [
           "tesla"
         ],
-        "category": "ev_autonomous"
+        "category": "ev_autonomous",
+        "baseScore": 4
+      }
+    ],
+    "other": [
+      {
+        "title": "Google releases Fitbit Air blueprints to let anyone make bands, accessories",
+        "link": "https://9to5google.com/2026/06/02/fitbit-air-blueprints/",
+        "description": "Google is leaning into the Fitbit Air’s swappable pebble design to let anyone make their own accessories. This move is rather Google-y and reminiscent of the company’s earlier days. more…",
+        "published": "2026-06-03T00:55:36.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Fitbit-Air-blueprints.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "other",
+        "baseScore": 4,
+        "alsoIn": [
+          {
+            "source": "Engadget",
+            "title": "Google shares Fitbit Air blueprints so you can 3D print your own accessories",
+            "link": "https://www.engadget.com/2186347/google-fitbit-air-blueprint-measurements-accessories/"
+          }
+        ]
       },
       {
         "title": "TypeScript devs no longer need to tangle with C# to use Aspire dev stack after Microsoft update",
@@ -912,7 +853,107 @@
         "matchedKeywords": [
           "microsoft"
         ],
-        "category": "ev_autonomous"
+        "category": "other",
+        "baseScore": 4
+      },
+      {
+        "title": "Trans teens have something to say",
+        "link": "https://www.theverge.com/features/940977/trans-teens-pediatric-care-closing",
+        "description": "By the time the Children's Hospital closed its doors to trans patients, Sage had already stopped taking testosterone. A nonbinary high school student, they originally received treatment for the rapid onset of puberty. The changes their body experienced felt frightening and sudden. They developed PMOS, a relatively common hormonal disorder that can lead to hair growth and irregular periods. The pandemic didn't help. Too much time to focus on scrutinizing the person in the mirror while doomscrolli",
+        "published": "2026-06-03T11:00:00.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268514_trans_pediatrics_VSHARMA3.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "relevanceScore": 1,
+        "matchedKeywords": [],
+        "category": "other",
+        "baseScore": 1
+      },
+      {
+        "title": "Best Apple 3-in-1 Travel Chargers (2026): Anker, ESR, Satechi",
+        "link": "https://www.wired.com/gallery/best-apple-3-in-1-travel-chargers/",
+        "description": "Keep your trio of Apple gadgets powered up wherever you go with these compact folding chargers.",
+        "published": "2026-06-03T09:59:00.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 0,
+        "matchedKeywords": [
+          "excluded"
+        ],
+        "category": "other",
+        "baseScore": 0
+      }
+    ],
+    "chips_cloud": [
+      {
+        "title": "Nvidia’s RTX Spark Laptops Look Hell-Bent on Disruption",
+        "link": "https://www.wired.com/story/nvidia-rtx-spark-laptop-disruption/",
+        "description": "The company’s RTX Spark chips might finally turn the “AI PC” into reality.",
+        "published": "2026-06-03T11:00:00.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "nvidia",
+          "chip"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 5
+      },
+      {
+        "title": "Data Center Operators Are Trying to Fix Their Water Use Problems",
+        "link": "https://www.wired.com/story/data-center-operators-fix-water-use-problems/",
+        "description": "Google, Microsoft, and other hyperscalers have come under scrutiny for their impact on water quality and availability.",
+        "published": "2026-06-03T10:00:00.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "data center",
+          "google",
+          "microsoft"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 5
+      },
+      {
+        "title": "AMD says new EXPO ‘Ultra Low Latency’ DDR5 memory should be 'effectively the same price' as current kits — feature will work on existing chipsets, but will require new DIMMs",
+        "link": "https://www.tomshardware.com/pc-components/ram/amd-says-new-expo-ultra-low-latency-ddr5-memory-should-be-effectively-the-same-price-as-current-kits-feature-will-work-on-existing-chipsets-but-will-require-new-dimms",
+        "description": "AMD provides us with a bit more detail about its upcoming EXPO Ultra Low Latency mode, which should be available from leading memory partners soon.",
+        "published": "2026-06-03T10:00:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/sTEYc4MhaPS3YTjqAqBNvB-1280-80.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "amd"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 4
+      },
+      {
+        "title": "Intel's 5.7 GHz Xeon 6377P features 12 P-cores and a desktop-class LGA1700 socket — unusual server CPU prioritizes clock speed over core count",
+        "link": "https://www.tomshardware.com/pc-components/cpus/intels-5-7-ghz-s-features-12-p-cores-and-a-desktop-class-lga1700-socket-unusual-server-cpu-prioritizes-clock-speed-over-core-count",
+        "description": "Intel has unveiled the Xeon 6377P, a 12-core Bartlett Lake server processor featuring a 5.7 GHz boost clock, ECC support, and a 95W TDP. The unusual Xeon targets entry-level enterprise workloads where single-threaded performance matters more than massive core counts.",
+        "published": "2026-06-03T10:00:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/9asxFHhddoB3Do2bCK4FfR-1280-80.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "intel"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 4
       }
     ],
     "crypto": [
@@ -927,10 +968,11 @@
         "image": null,
         "relevanceScore": 3,
         "matchedKeywords": [
-          "coinbase",
-          "bitcoin"
+          "bitcoin",
+          "coinbase"
         ],
-        "category": "crypto"
+        "category": "crypto",
+        "baseScore": 3
       },
       {
         "title": "Franklin Templeton says Wall Street fears blockchain because it threatens its profits",
@@ -941,13 +983,14 @@
         "sourceKey": "coindesk",
         "priority": 3,
         "image": null,
-        "relevanceScore": 3,
+        "relevanceScore": 1,
         "matchedKeywords": [
           "ceo"
         ],
-        "category": "crypto"
+        "category": "crypto",
+        "baseScore": 1
       }
     ]
   },
-  "totalArticles": 50
+  "totalArticles": 45
 }

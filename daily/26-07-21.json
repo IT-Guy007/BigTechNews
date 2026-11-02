@@ -9,7 +9,7 @@
     {
       "title": "Tesla puts Starlink antenna in Cybercab",
       "link": "https://electrek.co/2026/07/20/tesla-starlink-cybercab-integration-why/",
-      "description": "Tesla and Starlink say SpaceX’s satellite internet is now “directly integrated” into the Cybercab, Tesla’s dedicated robotaxi.\nThe reveal came through a pair of posts on X on Monday, with a cutaway diagram showing a Starlink antenna sitting in the vehicle’s roof. Neither company explained why a car that drives itself on its own computer needs internet from space.",
+      "description": "Tesla and Starlink say SpaceX’s satellite internet is now “directly integrated” into the Cybercab, Tesla’s dedicated robotaxi. The reveal came through a pair of posts on X on Monday, with a cutaway diagram showing a Starlink antenna sitting in the vehicle’s roof. Neither company explained why a car that drives itself on its own computer needs internet from space.",
       "published": "2026-07-21T00:25:21.000Z",
       "source": "Electrek",
       "sourceKey": "electrek",
@@ -18,12 +18,13 @@
       "relevanceScore": 12,
       "matchedKeywords": [
         "tesla",
+        "starlink",
         "spacex",
         "robotaxi",
-        "starlink",
         "satellite"
       ],
-      "category": "ev_autonomous"
+      "category": "ev_autonomous",
+      "baseScore": 12
     },
     {
       "title": "Samsung Hires Ex-Boston Dynamics Executive in Robotics Push",
@@ -39,7 +40,8 @@
         "samsung",
         "boston dynamics"
       ],
-      "category": "robotics"
+      "category": "robotics",
+      "baseScore": 9
     },
     {
       "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
@@ -50,11 +52,13 @@
       "sourceKey": "techcrunch",
       "priority": 1,
       "image": null,
-      "relevanceScore": 8,
+      "relevanceScore": 9,
       "matchedKeywords": [
-        "anthropic"
+        "anthropic",
+        "ai model"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 9
     },
     {
       "title": "TSMC in Talks to Raise Prices by Up to 10% in 2027, Nikkei Says",
@@ -70,7 +74,8 @@
         "tsmc",
         "semiconductor"
       ],
-      "category": "chips_cloud"
+      "category": "chips_cloud",
+      "baseScore": 6
     },
     {
       "title": "China’s GigaAI Seeks 2026 Hong Kong IPO in First for World Model",
@@ -81,43 +86,12 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 5,
+      "relevanceScore": 4,
       "matchedKeywords": [
         "ipo"
       ],
-      "category": "ai"
-    },
-    {
-      "title": "South Korea’s Early Exports Jump to July Record on AI-Led Gains",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-21/south-korea-s-early-exports-jump-to-july-record-on-ai-led-gains",
-      "description": "South Korea’s exports extended robust growth in early July as artificial intelligence-driven demand for semiconductors continued to fuel the economy.",
-      "published": "2026-07-21T00:00:00.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 5,
-      "matchedKeywords": [
-        "intel",
-        "artificial intelligence",
-        "semiconductor"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": "iOS 27 beta 4 adds a useful Apple TV app feature, here’s how it works",
-      "link": "https://9to5mac.com/2026/07/20/ios-27-beta-4-adds-a-useful-apple-tv-app-feature-heres-how-it-works/",
-      "description": "Apple released iOS 27 beta 4 today, and it comes with a useful new “Automatic Downloads” feature in the Apple TV app. Here’s how it works.",
-      "published": "2026-07-21T00:25:03.000Z",
-      "source": "9to5Mac",
-      "sourceKey": "9to5mac",
-      "priority": 2,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/02/apple-tv-app-iphone_e8e761.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "apple"
-      ],
-      "category": null
+      "category": "business",
+      "baseScore": 4
     },
     {
       "title": "Google Cloud outage shows it’s still hard to understand hyperscalers’ real resilience regimes",
@@ -132,7 +106,41 @@
       "matchedKeywords": [
         "google"
       ],
-      "category": "chips_cloud"
+      "category": "chips_cloud",
+      "baseScore": 4
+    },
+    {
+      "title": "iOS 27 beta 4 adds a useful Apple TV app feature, here’s how it works",
+      "link": "https://9to5mac.com/2026/07/20/ios-27-beta-4-adds-a-useful-apple-tv-app-feature-heres-how-it-works/",
+      "description": "Apple released iOS 27 beta 4 today, and it comes with a useful new “Automatic Downloads” feature in the Apple TV app. Here’s how it works.",
+      "published": "2026-07-21T00:25:03.000Z",
+      "source": "9to5Mac",
+      "sourceKey": "9to5mac",
+      "priority": 2,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/02/apple-tv-app-iphone_e8e761.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "apple"
+      ],
+      "category": "devices",
+      "baseScore": 4
+    },
+    {
+      "title": "South Korea’s Early Exports Jump to July Record on AI-Led Gains",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-21/south-korea-s-early-exports-jump-to-july-record-on-ai-led-gains",
+      "description": "South Korea’s exports extended robust growth in early July as artificial intelligence-driven demand for semiconductors continued to fuel the economy.",
+      "published": "2026-07-21T00:00:00.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 3,
+      "matchedKeywords": [
+        "artificial intelligence",
+        "semiconductor"
+      ],
+      "category": "ai",
+      "baseScore": 3
     },
     {
       "title": "Bitcoin hits a two-week high near $65,500 as the chip trade turns back into a tailwind",
@@ -145,11 +153,12 @@
       "image": null,
       "relevanceScore": 3,
       "matchedKeywords": [
-        "semiconductor",
         "chip",
-        "bitcoin"
+        "bitcoin",
+        "semiconductor"
       ],
-      "category": "ai"
+      "category": "chips_cloud",
+      "baseScore": 3
     }
   ],
   "byCategory": {
@@ -157,7 +166,7 @@
       {
         "title": "Tesla puts Starlink antenna in Cybercab",
         "link": "https://electrek.co/2026/07/20/tesla-starlink-cybercab-integration-why/",
-        "description": "Tesla and Starlink say SpaceX’s satellite internet is now “directly integrated” into the Cybercab, Tesla’s dedicated robotaxi.\nThe reveal came through a pair of posts on X on Monday, with a cutaway diagram showing a Starlink antenna sitting in the vehicle’s roof. Neither company explained why a car that drives itself on its own computer needs internet from space.",
+        "description": "Tesla and Starlink say SpaceX’s satellite internet is now “directly integrated” into the Cybercab, Tesla’s dedicated robotaxi. The reveal came through a pair of posts on X on Monday, with a cutaway diagram showing a Starlink antenna sitting in the vehicle’s roof. Neither company explained why a car that drives itself on its own computer needs internet from space.",
         "published": "2026-07-21T00:25:21.000Z",
         "source": "Electrek",
         "sourceKey": "electrek",
@@ -166,12 +175,13 @@
         "relevanceScore": 12,
         "matchedKeywords": [
           "tesla",
+          "starlink",
           "spacex",
           "robotaxi",
-          "starlink",
           "satellite"
         ],
-        "category": "ev_autonomous"
+        "category": "ev_autonomous",
+        "baseScore": 12
       }
     ],
     "robotics": [
@@ -189,7 +199,8 @@
           "samsung",
           "boston dynamics"
         ],
-        "category": "robotics"
+        "category": "robotics",
+        "baseScore": 9
       }
     ],
     "ai": [
@@ -202,26 +213,13 @@
         "sourceKey": "techcrunch",
         "priority": 1,
         "image": null,
-        "relevanceScore": 8,
+        "relevanceScore": 9,
         "matchedKeywords": [
-          "anthropic"
+          "anthropic",
+          "ai model"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "China’s GigaAI Seeks 2026 Hong Kong IPO in First for World Model",
-        "link": "https://www.bloomberg.com/news/articles/2026-07-21/china-s-gigaai-seeks-2026-hong-kong-ipo-in-first-for-world-model",
-        "description": "Jijia Vision is in discussions to hold an initial public offering on Hong Kong’s stock exchange as soon as this year, joining a flurry of Chinese AI firms planning public market debuts.",
-        "published": "2026-07-21T01:14:44.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "ipo"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 9
       },
       {
         "title": "South Korea’s Early Exports Jump to July Record on AI-Led Gains",
@@ -232,30 +230,13 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 5,
+        "relevanceScore": 3,
         "matchedKeywords": [
-          "intel",
           "artificial intelligence",
           "semiconductor"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "Bitcoin hits a two-week high near $65,500 as the chip trade turns back into a tailwind",
-        "link": "https://www.coindesk.com/markets/2026/07/21/bitcoin-hits-a-two-week-high-near-usd65-500-as-the-chip-trade-turns-back-into-a-tailwind",
-        "description": "Asian semiconductor shares rebounded hard, a five-day ETF inflow streak passed $600 million, and oil pulled back on Middle East diplomacy.",
-        "published": "2026-07-21T05:34:00.000Z",
-        "source": "CoinDesk",
-        "sourceKey": "coindesk",
-        "priority": 3,
-        "image": null,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "semiconductor",
-          "chip",
-          "bitcoin"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 3
       }
     ],
     "chips_cloud": [
@@ -273,7 +254,8 @@
           "tsmc",
           "semiconductor"
         ],
-        "category": "chips_cloud"
+        "category": "chips_cloud",
+        "baseScore": 6
       },
       {
         "title": "Google Cloud outage shows it’s still hard to understand hyperscalers’ real resilience regimes",
@@ -288,7 +270,62 @@
         "matchedKeywords": [
           "google"
         ],
-        "category": "chips_cloud"
+        "category": "chips_cloud",
+        "baseScore": 4
+      },
+      {
+        "title": "Bitcoin hits a two-week high near $65,500 as the chip trade turns back into a tailwind",
+        "link": "https://www.coindesk.com/markets/2026/07/21/bitcoin-hits-a-two-week-high-near-usd65-500-as-the-chip-trade-turns-back-into-a-tailwind",
+        "description": "Asian semiconductor shares rebounded hard, a five-day ETF inflow streak passed $600 million, and oil pulled back on Middle East diplomacy.",
+        "published": "2026-07-21T05:34:00.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "chip",
+          "bitcoin",
+          "semiconductor"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 3
+      }
+    ],
+    "business": [
+      {
+        "title": "China’s GigaAI Seeks 2026 Hong Kong IPO in First for World Model",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-21/china-s-gigaai-seeks-2026-hong-kong-ipo-in-first-for-world-model",
+        "description": "Jijia Vision is in discussions to hold an initial public offering on Hong Kong’s stock exchange as soon as this year, joining a flurry of Chinese AI firms planning public market debuts.",
+        "published": "2026-07-21T01:14:44.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "ipo"
+        ],
+        "category": "business",
+        "baseScore": 4
+      }
+    ],
+    "devices": [
+      {
+        "title": "iOS 27 beta 4 adds a useful Apple TV app feature, here’s how it works",
+        "link": "https://9to5mac.com/2026/07/20/ios-27-beta-4-adds-a-useful-apple-tv-app-feature-heres-how-it-works/",
+        "description": "Apple released iOS 27 beta 4 today, and it comes with a useful new “Automatic Downloads” feature in the Apple TV app. Here’s how it works.",
+        "published": "2026-07-21T00:25:03.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/02/apple-tv-app-iphone_e8e761.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices",
+        "baseScore": 4
       }
     ]
   },

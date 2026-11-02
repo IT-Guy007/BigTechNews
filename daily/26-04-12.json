@@ -17,14 +17,15 @@
       "image": null,
       "relevanceScore": 7,
       "matchedKeywords": [
-        "meta",
-        "facebook"
+        "facebook",
+        "meta"
       ],
-      "category": "ai"
+      "category": "other",
+      "baseScore": 7
     }
   ],
   "byCategory": {
-    "ai": [
+    "other": [
       {
         "title": "Philippines Asks Facebook to Curb Fake News, Warns of Legal Move",
         "link": "https://www.bloomberg.com/news/articles/2026-04-12/philippines-asks-facebook-to-curb-fake-news-warns-of-legal-move",
@@ -36,10 +37,11 @@
         "image": null,
         "relevanceScore": 7,
         "matchedKeywords": [
-          "meta",
-          "facebook"
+          "facebook",
+          "meta"
         ],
-        "category": "ai"
+        "category": "other",
+        "baseScore": 7
       }
     ]
   },

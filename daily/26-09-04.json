@@ -15,38 +15,67 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 18,
+      "relevanceScore": 17,
       "matchedKeywords": [
         "anthropic",
-        "spacex",
-        "claude",
         "ipo",
-        "billion"
+        "billion",
+        "spacex",
+        "claude"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 17
     },
     {
-      "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
+      "title": "DeepSeek Plans Big Huawei AI Chip Order to Power New Data Center",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-04/deepseek-plans-big-huawei-ai-chip-order-to-power-new-data-center",
+      "description": "DeepSeek plans to deploy at least 160,000 of Huawei Technologies Co.’s top accelerators at a massive data center it’s building in Inner Mongolia, which could create one of the largest known clusters of Huawei AI chips and advance China’s efforts to replace Nvidia Corp.",
+      "published": "2026-09-04T09:08:43.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 16,
+      "matchedKeywords": [
+        "huawei",
+        "deepseek",
+        "chip",
+        "data center",
+        "nvidia"
+      ],
+      "category": "chips_cloud",
+      "baseScore": 16,
+      "alsoIn": [
+        {
+          "source": "Bloomberg",
+          "title": "DeepSeek Plans to Deploy Huawei AI Chips for New Data Center",
+          "link": "https://www.bloomberg.com/news/videos/2026-09-04/deepseek-plans-to-deploy-huawei-ai-chips-for-data-center-video"
+        }
+      ]
+    },
+    {
+      "title": "Sam Altman apologizes for ‘messy’ GPT-6 Astra rollout that’s locked out paying users",
       "link": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
-      "description": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting.  \nThe company hailed the model as a \"generational leap in capability\" on Thursday and described it as the start of \"the AGI era,\" a fuzzy and poorly defined term tech executives nevertheless insist on using to promote their products. It said Astra would roll out to some enterprise customers - specifically those with access to its Daybreak cybersecurity platform - that day. This would expand to include all Plus, Pro, Business, and Enter …\nRead the full story at The Verge.",
+      "description": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting. The company hailed the model as a \"generational leap in capability\" on Thursday and described it as the start of \"the AGI era,\" a fuzzy and poorly defined term tech executives nevertheless insist on using to promote their products. It said Astra would roll out to some enterprise customers -",
       "published": "2026-09-04T10:41:48.000Z",
       "source": "The Verge",
       "sourceKey": "theverge",
       "priority": 1,
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285138968.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "relevanceScore": 15,
+      "relevanceScore": 13,
       "matchedKeywords": [
+        "sam altman",
         "openai",
         "agi",
-        "ceo",
-        "sam altman"
+        "ceo"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 13
     },
     {
       "title": "The unusually muted Tesla Cybercab launch",
       "link": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
-      "description": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future: the Cybercab. It's a huge milestone for Elon Musk, who has been hyping the imminent arrival of driverless cars for years and has bet the future of his company on AI, autonomous vehicles, and humanoid robots.\nIt was an unusually muted event, with no livestream, no journalists, and a very short invite list comprised mostly of pro-Tesla content creators. Tesla influencers planning live shows with the event stream were left streaming the webpage that tracks the number of Tesla robotaxis in Texas instead. \nBut if the goal was to blunt …\nRead the full story at The Verge.",
+      "description": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future: the Cybercab. It's a huge milestone for Elon Musk, who has been hyping the imminent arrival of driverless cars for years and has bet the future of his company on AI, autonomous vehicles, and humanoid robots. It was an unusually muted event, with no livestream, no journalists, and a very short invite list comprised mostly of pro-Tesla content creators. Tesla influencers planning live sh",
       "published": "2026-09-04T00:25:06.000Z",
       "source": "The Verge",
       "sourceKey": "theverge",
@@ -57,44 +86,30 @@
         "tesla",
         "elon musk",
         "humanoid robot",
-        "autonomous vehicle"
+        "autonomous vehicle",
+        "humanoid"
       ],
-      "category": "ev_autonomous"
+      "category": "ev_autonomous",
+      "baseScore": 13
     },
     {
-      "title": "Tesla starts offering Cybercab robotaxi rides",
-      "link": "https://www.engadget.com/2250874/tesla-offering-cybercab-robotaxi-rides/",
-      "description": "Tesla has officially launched the Cybercab, its autonomous vehicle with no steering wheel.",
-      "published": "2026-09-04T06:41:33.000Z",
-      "source": "Engadget",
-      "sourceKey": "engadget",
-      "priority": 2,
-      "image": "https://www.engadget.com/img/gallery/tesla-offering-cybercab-robotaxi-rides/l-intro-1788504257.jpg",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "tesla",
-        "robotaxi",
-        "autonomous vehicle"
-      ],
-      "category": "ev_autonomous"
-    },
-    {
-      "title": "China’s Moonshot Said to Seek Up to $5 Billion in Hong Kong IPO This Year",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-04/moonshot-is-said-to-seek-up-to-5-billion-in-hk-ipo-this-year",
-      "description": "Moonshot AI is considering raising up to $5 billion in its planned Hong Kong initial public offering as soon as this year, people familiar with the matter said, as the Chinese artificial intelligence champion taps into strong investor demand.",
-      "published": "2026-09-04T11:07:32.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
+      "title": "Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips",
+      "link": "https://www.cnbc.com/2026/09/04/nvidia-hugging-face-deal-chips.html",
+      "description": "Nvidia’s $12.9 billion Hugging Face deal could protect its open AI ecosystem, deepen ties with developers and keep the platform from rivals.",
+      "published": "2026-09-04T11:31:30.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 9,
+      "relevanceScore": 10,
       "matchedKeywords": [
-        "intel",
-        "ipo",
-        "artificial intelligence",
+        "nvidia",
+        "acquire",
+        "chip",
         "billion"
       ],
-      "category": "ai"
+      "category": "chips_cloud",
+      "baseScore": 10
     },
     {
       "title": "Amazon Fight Over Ad Fees Is Latest Clash With FTC",
@@ -111,25 +126,8 @@
         "ftc",
         "billion"
       ],
-      "category": "regulation"
-    },
-    {
-      "title": "DeepSeek Plans Big Huawei AI Chip Order to Power New Data Center",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-04/deepseek-plans-big-huawei-ai-chip-order-to-power-new-data-center",
-      "description": "DeepSeek plans to deploy at least 160,000 of Huawei Technologies Co.’s top accelerators at a massive data center it’s building in Inner Mongolia, which could create one of the largest known clusters of Huawei AI chips and advance China’s efforts to replace Nvidia Corp.",
-      "published": "2026-09-04T09:08:43.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "nvidia",
-        "huawei",
-        "chip",
-        "data center"
-      ],
-      "category": "chips_cloud"
+      "category": "regulation",
+      "baseScore": 9
     },
     {
       "title": "Wayve and Uber steal a march on Waymo with paid self-driving London rides",
@@ -146,12 +144,31 @@
         "waymo",
         "self-driving"
       ],
-      "category": "ev_autonomous"
+      "category": "ev_autonomous",
+      "baseScore": 9
+    },
+    {
+      "title": "Tesla starts offering Cybercab robotaxi rides",
+      "link": "https://www.engadget.com/2250874/tesla-offering-cybercab-robotaxi-rides/",
+      "description": "Tesla has officially launched the Cybercab, its autonomous vehicle with no steering wheel.",
+      "published": "2026-09-04T06:41:33.000Z",
+      "source": "Engadget",
+      "sourceKey": "engadget",
+      "priority": 2,
+      "image": "https://www.engadget.com/img/gallery/tesla-offering-cybercab-robotaxi-rides/l-intro-1788504257.jpg",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "tesla",
+        "robotaxi",
+        "autonomous vehicle"
+      ],
+      "category": "ev_autonomous",
+      "baseScore": 9
     },
     {
       "title": "Tesla announces Robotaxi has driven 1 million unsupervised miles",
       "link": "https://electrek.co/2026/09/03/tesla-announces-1-million-unsupervised-miles-driven-by-robotaxi/",
-      "description": "Tesla said today that its Robotaxis have driven a total of 1 million miles without a human driver supervising them. The number is more than double what we heard at the last check-in just six weeks ago, as Tesla finally shifts away from human “safety drivers.”\nmore…",
+      "description": "Tesla said today that its Robotaxis have driven a total of 1 million miles without a human driver supervising them. The number is more than double what we heard at the last check-in just six weeks ago, as Tesla finally shifts away from human “safety drivers.” more…",
       "published": "2026-09-04T05:04:32.000Z",
       "source": "Electrek",
       "sourceKey": "electrek",
@@ -162,12 +179,13 @@
         "tesla",
         "robotaxi"
       ],
-      "category": "ev_autonomous"
+      "category": "ev_autonomous",
+      "baseScore": 8
     },
     {
       "title": "Tesla opens search for Cybercab fleet sales, but FSD owners are still left out",
       "link": "https://electrek.co/2026/09/03/tesla-opens-search-for-cybercab-fleet-sales-but-fsd-owners-are-still-left-out/",
-      "description": "Tesla has started distributing a “Robotaxi interest form,” collecting interest from fleet buyers who would want to build a Robotaxi network or provide related infrastructure services.\nIt’s the first step in allowing non-Tesla entities to make money off of Tesla’s FSD driver-assist software… but the owners who were promised they could make passive income with their cars are still out of luck.\nmore…",
+      "description": "Tesla has started distributing a “Robotaxi interest form,” collecting interest from fleet buyers who would want to build a Robotaxi network or provide related infrastructure services. It’s the first step in allowing non-Tesla entities to make money off of Tesla’s FSD driver-assist software… but the owners who were promised they could make passive income with their cars are still out of luck. more…",
       "published": "2026-09-04T01:05:58.000Z",
       "source": "Electrek",
       "sourceKey": "electrek",
@@ -178,7 +196,8 @@
         "tesla",
         "robotaxi"
       ],
-      "category": "ev_autonomous"
+      "category": "ev_autonomous",
+      "baseScore": 8
     }
   ],
   "byCategory": {
@@ -192,51 +211,35 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 18,
+        "relevanceScore": 17,
         "matchedKeywords": [
           "anthropic",
-          "spacex",
-          "claude",
           "ipo",
-          "billion"
+          "billion",
+          "spacex",
+          "claude"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 17
       },
       {
-        "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
+        "title": "Sam Altman apologizes for ‘messy’ GPT-6 Astra rollout that’s locked out paying users",
         "link": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
-        "description": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting.  \nThe company hailed the model as a \"generational leap in capability\" on Thursday and described it as the start of \"the AGI era,\" a fuzzy and poorly defined term tech executives nevertheless insist on using to promote their products. It said Astra would roll out to some enterprise customers - specifically those with access to its Daybreak cybersecurity platform - that day. This would expand to include all Plus, Pro, Business, and Enter …\nRead the full story at The Verge.",
+        "description": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting. The company hailed the model as a \"generational leap in capability\" on Thursday and described it as the start of \"the AGI era,\" a fuzzy and poorly defined term tech executives nevertheless insist on using to promote their products. It said Astra would roll out to some enterprise customers -",
         "published": "2026-09-04T10:41:48.000Z",
         "source": "The Verge",
         "sourceKey": "theverge",
         "priority": 1,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285138968.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "relevanceScore": 15,
+        "relevanceScore": 13,
         "matchedKeywords": [
+          "sam altman",
           "openai",
           "agi",
-          "ceo",
-          "sam altman"
+          "ceo"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "China’s Moonshot Said to Seek Up to $5 Billion in Hong Kong IPO This Year",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-04/moonshot-is-said-to-seek-up-to-5-billion-in-hk-ipo-this-year",
-        "description": "Moonshot AI is considering raising up to $5 billion in its planned Hong Kong initial public offering as soon as this year, people familiar with the matter said, as the Chinese artificial intelligence champion taps into strong investor demand.",
-        "published": "2026-09-04T11:07:32.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 9,
-        "matchedKeywords": [
-          "intel",
-          "ipo",
-          "artificial intelligence",
-          "billion"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 13
       },
       {
         "title": "OpenAI puts $1 billion behind cyber defense after unveiling AI that can find zero-days",
@@ -252,7 +255,54 @@
           "openai",
           "billion"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 8
+      },
+      {
+        "title": "Andreessen-Backed AI Startup Gimlet Is Valued at $3 Billion in New Round",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-04/andreessen-backed-ai-startup-gimlet-is-valued-at-3-billion-in-new-round",
+        "description": "The company, which helps divide AI tasks among different chips, raised $300 million in its latest round",
+        "published": "2026-09-04T03:08:18.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "billion",
+          "chip"
+        ],
+        "category": "ai",
+        "baseScore": 3
+      }
+    ],
+    "chips_cloud": [
+      {
+        "title": "DeepSeek Plans Big Huawei AI Chip Order to Power New Data Center",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-04/deepseek-plans-big-huawei-ai-chip-order-to-power-new-data-center",
+        "description": "DeepSeek plans to deploy at least 160,000 of Huawei Technologies Co.’s top accelerators at a massive data center it’s building in Inner Mongolia, which could create one of the largest known clusters of Huawei AI chips and advance China’s efforts to replace Nvidia Corp.",
+        "published": "2026-09-04T09:08:43.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 16,
+        "matchedKeywords": [
+          "huawei",
+          "deepseek",
+          "chip",
+          "data center",
+          "nvidia"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 16,
+        "alsoIn": [
+          {
+            "source": "Bloomberg",
+            "title": "DeepSeek Plans to Deploy Huawei AI Chips for New Data Center",
+            "link": "https://www.bloomberg.com/news/videos/2026-09-04/deepseek-plans-to-deploy-huawei-ai-chips-for-data-center-video"
+          }
+        ]
       },
       {
         "title": "Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips",
@@ -263,30 +313,83 @@
         "sourceKey": "cnbc_tech",
         "priority": 1,
         "image": null,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "nvidia",
+          "acquire",
+          "chip",
+          "billion"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 10
+      },
+      {
+        "title": "Nvidia's investments grow to $99 billion as chip giant becomes major backer of AI companies",
+        "link": "https://www.cnbc.com/2026/09/04/nvidia-ai-investments-99-billion.html",
+        "description": "Nvidia reported $99 billion in equity holdings as it backs AI labs, cloud providers and infrastructure companies across the sector.",
+        "published": "2026-09-04T09:32:09.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
         "relevanceScore": 7,
         "matchedKeywords": [
           "nvidia",
           "chip",
           "billion"
         ],
-        "category": "ai"
+        "category": "chips_cloud",
+        "baseScore": 7
       },
       {
-        "title": "DeepSeek Plans to Deploy Huawei AI Chips for New Data Center",
-        "link": "https://www.bloomberg.com/news/videos/2026-09-04/deepseek-plans-to-deploy-huawei-ai-chips-for-data-center-video",
-        "description": "DeepSeek plans to power a massive data center it’s building in Inner Mongolia with at least 160,000 of Huawei Technologies Co.’s top accelerators. Neil Campling reports on Bloomberg Television. (Source: Bloomberg)",
-        "published": "2026-09-04T10:27:53.000Z",
+        "title": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control",
+        "link": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40",
+        "description": "Officially, Nvidia's controversial DLSS 5 AI rendering was supposed to launch this evening with only a single game, only on Nvidia's latest RTX 50 GPUs, and with developers in full control of their artistic vision. But unofficially, modders have already ported a leaked version of DLSS 5 to run on just about anything while cranking sliders to the max. Now, Nvidia is changing its plans. DLSS 5 is still launching first on RTX 50 GPUs, but it's officially coming to older RTX 40-series GPUs as well, ",
+        "published": "2026-09-04T01:49:25.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25256536/246993_Nvidia_RTX_4080_Super_TWarren_0002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "nvidia",
+          "gpu"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 6
+      },
+      {
+        "title": "Google engineer unplugged every fiber they could see and – surprise! – took down a chunk of the G-Cloud",
+        "link": "https://www.theregister.com/off-prem/2026/09/04/google-engineer-unplugged-every-fiber-they-could-see-and-surprise-took-down-a-chunk-of-the-g-cloud/5294418",
+        "description": "This sounds like a RTFM error at hyperscale",
+        "published": "2026-09-04T04:48:25.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=5263102&width=800",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 4
+      },
+      {
+        "title": "Middle East’s Data Center Push Endures Under the Cloud of War",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-04/middle-east-s-data-center-push-endures-under-the-cloud-of-war",
+        "description": "The Persian Gulf’s richest states are pushing forward with plans for a massive build-out of artificial intelligence infrastructure, even though data centers have become repeated targets in the US war with Iran.",
+        "published": "2026-09-04T11:00:14.000Z",
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 7,
+        "relevanceScore": 3,
         "matchedKeywords": [
-          "huawei",
-          "chip",
-          "data center"
+          "data center",
+          "artificial intelligence"
         ],
-        "category": "ai"
+        "category": "chips_cloud",
+        "baseScore": 3
       },
       {
         "title": "Capcom, Kokusai Electric and JX Metals to Join Nikkei 225 Index",
@@ -297,127 +400,51 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 6,
+        "relevanceScore": 2,
         "matchedKeywords": [
-          "meta",
           "chip"
         ],
-        "category": "ai"
+        "category": "chips_cloud",
+        "baseScore": 2
       },
       {
-        "title": "SoftBank’s ¥1 Trillion Retail Bond Rejuvenates Japan Debt Market",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-04/softbank-group-prices-1-trillion-retail-bond-at-4-75",
-        "description": "SoftBank Group Corp. priced a ¥1 trillion ($6.3 billion) retail bond in an offering that expands Japan’s retail corporate debt market and gives investors a viable alternative to bank deposits and stocks.",
-        "published": "2026-09-04T00:41:55.000Z",
+        "title": "Thailand Puts 49 Data Centers on Hold Over Resource Strain",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-04/thailand-puts-49-data-centers-on-hold-over-resource-strain",
+        "description": "Thailand’s embrace of data centers hit a speed bump after the government suspended construction of 49 server farms as public concerns about the power-hungry facilities’ impact on communities intensify.",
+        "published": "2026-09-04T07:23:14.000Z",
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 6,
+        "relevanceScore": 2,
         "matchedKeywords": [
-          "softbank",
-          "billion"
+          "data center"
         ],
-        "category": "ai"
+        "category": "chips_cloud",
+        "baseScore": 2
       },
       {
-        "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
-        "link": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
-        "description": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this year, Project Zenith is designed for new developer-focused devices with 64GB or more of unified memory.\n\"Project Zenith devices come with a preconfigured Windows setup for development and a set of tools curated for what developers reach for first,\" explains Logan Iyer, CVP of Windows platform and developer at Microsoft. \"On these devices, developers can run 30B+ parameter models locally and unmetered - accelerating experimentation while helping …\nRead the full story at The Verge.",
-        "published": "2026-09-04T10:44:15.000Z",
-        "source": "The Verge",
-        "sourceKey": "theverge",
-        "priority": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/projectzenith.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "microsoft"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "New action comedy movie Mayday is now streaming on Apple TV",
-        "link": "https://9to5mac.com/2026/09/04/new-action-comedy-movie-mayday-is-now-streaming-on-apple-tv/",
-        "description": "There’s a new original movie streaming today on Apple TV: a new action-comedy called Mayday, starring Ryan Reynolds and Kenneth Branagh. \nStreaming for free with an Apple TV subscription, Mayday sees Troy (Reynolds) infiltrate Russian territory amidst the Cold War. Ex-KGB agent Nikolai (Branagh) becomes an unlikely ally in this caper.\nmore…",
-        "published": "2026-09-04T09:10:03.000Z",
-        "source": "9to5Mac",
-        "sourceKey": "9to5mac",
-        "priority": 2,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-tv-mayday.jpg?quality=82&#038;strip=all&#038;w=1600",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Apple Is Testing a Four-HomePod Surround System, Code Suggests",
-        "link": "https://www.macrumors.com/2026/09/04/apple-testing-four-homepod-surround-system/",
-        "description": "Apple appears to be working on some major new HomePod home theater features, including a four-speaker surround sound system and a new \"Party Mode,\" according to code found in audioOS 27 beta 8, and shared on the MacRumors forums by member pdfu.\r\n\r\n\r\nReferences in the software for the second-generation HomePod suggest the ability to tune for a setup with front-left, front-right, rear-left, and rear-right HomePods. The four-speaker surround configuration references automatic room calibration, speaker-position mapping, timing adjustments, bass management, EQ, dialogue enhancement, and different processing modes for movies and music.\r\n\r\nFor stereo content, the code suggests the ability to either spatialize sound across all four speakers or limit traditional stereo playback to the two front speakers.\r\n\r\nThe files also reference a new tuning system called \"Forklift\" that combines two second-generation HomePods with two speakers that use an unidentified AID12007 hardware family. We haven't seen this identifier before – it doesn't correspond to any existing HomePod models – suggesting it refers to a future HomePod mini, third-generation HomePod, or some other unreleased audio device.\r\n\r\nIn addition, Apple appears to be working on a new \"Party Mode\" feature for stereo-paired HomePods. The feature applies a more diffuse sound field that's designed to spread sound more evenly across the room for a more immersive listening experience, rather than optimizing playback for a single listening position.\r\n\r\nThe Home app and Apple TV do not currently provide a way to configure four HomePods as a surround system. Indeed, none of these features have been referenced before. All we can say at this point is that they indicate that Apple is testing them, but whether Apple ultimately releases them remains to be seen. \r\n\r\nBloomberg's Mark Gurman, so it's possible that these features could be part of Apple's broader HomePod refresh. Watch this space.\nRelated Roundups: HomePod, HomePod mini\nBuyer's Guide: HomePod (Caution), HomePod Mini (Don't Buy)\nRelated Forum: HomePod, HomeKit, CarPlay, Home & Auto Technology\nThis article, \"Apple Is Testing a Four-HomePod Surround System, Code Suggests\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-        "published": "2026-09-04T09:30:01.000Z",
-        "source": "MacRumors",
-        "sourceKey": "macrumors",
-        "priority": 2,
-        "image": "https://images.macrumors.com/article-new/2026/09/homepods-four.jpg",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Andreessen-Backed AI Startup Gimlet Is Valued at $3 Billion in New Round",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-04/andreessen-backed-ai-startup-gimlet-is-valued-at-3-billion-in-new-round",
-        "description": "The company, which helps divide AI tasks among different chips, raised $300 million in its latest round",
-        "published": "2026-09-04T03:08:18.000Z",
+        "title": "Novo Owner to Build $62 Million Quantum Chip Plant in Denmark",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-04/novo-owner-to-build-62-million-quantum-chip-plant-in-denmark",
+        "description": "The foundation that controls Ozempic maker Novo Nordisk A/S is building a new quantum chip factory in Copenhagen as the global race to develop the emerging technology heats up.",
+        "published": "2026-09-04T05:00:00.000Z",
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 3,
+        "relevanceScore": 2,
         "matchedKeywords": [
-          "chip",
-          "billion"
+          "chip"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "iPhone Ultra Production Hitting Just 'a Few Hundred' a Day, Says Nikkei",
-        "link": "https://www.macrumors.com/2026/09/04/iphone-ultra-production-extremely-limited/",
-        "description": "Apple last month only managed to produce \"a few hundred units a day\" of its upcoming foldable iPhone because of the company's extremely high quality control standards, according to Nikkei Asia ($), citing supply chain sources.\r\n\r\n\r\nFrom today's report:\r\n\"Production is ramping up slowly, with output currently at only a few hundred units a day in late August. That initial volume could be challenging to meet market demand,\" one supply chain manager with knowledge of the matter told Nikkei Asia.\nMultiple reports have suggested the iPhone Ultra's production has faced hurdles because of how difficult the device is to build, with the hinge structure and display durability testing having been the principal bottlenecks. Those issues were thought to have been resolved during trial production at Foxconn, with Apple subsequently raising its order to around 10 million units, up from 7-8 million units for the year, Nikkei previously reported.\r\n\r\nNikkei.\r\n\r\nAll of this has apparently \"pushed back commercial production for weeks,\" suggesting Apple could fall short of its production target unless it can ramp up output more quickly. Apple and its suppliers are said to be working \"around the clock\" to ramp up production and avoid limited stocks at distribution centers.\r\n\r\nstaggered market launch, with availability initially limited to the U.S. \r\n\r\nSurprise and shine\" event. For everything we know about the device, be sure to check out our latest roundup.\r\n\r\nRelated Roundup: iPhone Fold\nTags: iPhone Ultra, Nikkei\nThis article, \"iPhone Ultra Production Hitting Just 'a Few Hundred' a Day, Says Nikkei\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-        "published": "2026-09-04T10:09:03.000Z",
-        "source": "MacRumors",
-        "sourceKey": "macrumors",
-        "priority": 2,
-        "image": "https://images.macrumors.com/article-new/2026/08/iPhone-Ultra-Fold-Feature.jpg",
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "apple",
-          "tpu"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "AMC CEO blasts Robinhood for stock token, putting synthetic shares in spotlight",
-        "link": "https://www.coindesk.com/business/2026/09/03/amc-ceo-blasts-robinhood-for-stock-token-putting-synthetic-shares-in-spotlight",
-        "description": "Adam Aron said AMC has no connection to Robinhood’s tokenized shares, reviving questions around how stocks are brought onchain.",
-        "published": "2026-09-04T03:03:25.000Z",
-        "source": "CoinDesk",
-        "sourceKey": "coindesk",
-        "priority": 3,
-        "image": null,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "ceo"
-        ],
-        "category": "ai"
+        "category": "chips_cloud",
+        "baseScore": 2
       }
     ],
     "ev_autonomous": [
       {
         "title": "The unusually muted Tesla Cybercab launch",
         "link": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
-        "description": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future: the Cybercab. It's a huge milestone for Elon Musk, who has been hyping the imminent arrival of driverless cars for years and has bet the future of his company on AI, autonomous vehicles, and humanoid robots.\nIt was an unusually muted event, with no livestream, no journalists, and a very short invite list comprised mostly of pro-Tesla content creators. Tesla influencers planning live shows with the event stream were left streaming the webpage that tracks the number of Tesla robotaxis in Texas instead. \nBut if the goal was to blunt …\nRead the full story at The Verge.",
+        "description": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future: the Cybercab. It's a huge milestone for Elon Musk, who has been hyping the imminent arrival of driverless cars for years and has bet the future of his company on AI, autonomous vehicles, and humanoid robots. It was an unusually muted event, with no livestream, no journalists, and a very short invite list comprised mostly of pro-Tesla content creators. Tesla influencers planning live sh",
         "published": "2026-09-04T00:25:06.000Z",
         "source": "The Verge",
         "sourceKey": "theverge",
@@ -428,26 +455,11 @@
           "tesla",
           "elon musk",
           "humanoid robot",
-          "autonomous vehicle"
+          "autonomous vehicle",
+          "humanoid"
         ],
-        "category": "ev_autonomous"
-      },
-      {
-        "title": "Tesla starts offering Cybercab robotaxi rides",
-        "link": "https://www.engadget.com/2250874/tesla-offering-cybercab-robotaxi-rides/",
-        "description": "Tesla has officially launched the Cybercab, its autonomous vehicle with no steering wheel.",
-        "published": "2026-09-04T06:41:33.000Z",
-        "source": "Engadget",
-        "sourceKey": "engadget",
-        "priority": 2,
-        "image": "https://www.engadget.com/img/gallery/tesla-offering-cybercab-robotaxi-rides/l-intro-1788504257.jpg",
-        "relevanceScore": 9,
-        "matchedKeywords": [
-          "tesla",
-          "robotaxi",
-          "autonomous vehicle"
-        ],
-        "category": "ev_autonomous"
+        "category": "ev_autonomous",
+        "baseScore": 13
       },
       {
         "title": "Wayve and Uber steal a march on Waymo with paid self-driving London rides",
@@ -464,12 +476,31 @@
           "waymo",
           "self-driving"
         ],
-        "category": "ev_autonomous"
+        "category": "ev_autonomous",
+        "baseScore": 9
+      },
+      {
+        "title": "Tesla starts offering Cybercab robotaxi rides",
+        "link": "https://www.engadget.com/2250874/tesla-offering-cybercab-robotaxi-rides/",
+        "description": "Tesla has officially launched the Cybercab, its autonomous vehicle with no steering wheel.",
+        "published": "2026-09-04T06:41:33.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/tesla-offering-cybercab-robotaxi-rides/l-intro-1788504257.jpg",
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "tesla",
+          "robotaxi",
+          "autonomous vehicle"
+        ],
+        "category": "ev_autonomous",
+        "baseScore": 9
       },
       {
         "title": "Tesla announces Robotaxi has driven 1 million unsupervised miles",
         "link": "https://electrek.co/2026/09/03/tesla-announces-1-million-unsupervised-miles-driven-by-robotaxi/",
-        "description": "Tesla said today that its Robotaxis have driven a total of 1 million miles without a human driver supervising them. The number is more than double what we heard at the last check-in just six weeks ago, as Tesla finally shifts away from human “safety drivers.”\nmore…",
+        "description": "Tesla said today that its Robotaxis have driven a total of 1 million miles without a human driver supervising them. The number is more than double what we heard at the last check-in just six weeks ago, as Tesla finally shifts away from human “safety drivers.” more…",
         "published": "2026-09-04T05:04:32.000Z",
         "source": "Electrek",
         "sourceKey": "electrek",
@@ -480,12 +511,13 @@
           "tesla",
           "robotaxi"
         ],
-        "category": "ev_autonomous"
+        "category": "ev_autonomous",
+        "baseScore": 8
       },
       {
         "title": "Tesla opens search for Cybercab fleet sales, but FSD owners are still left out",
         "link": "https://electrek.co/2026/09/03/tesla-opens-search-for-cybercab-fleet-sales-but-fsd-owners-are-still-left-out/",
-        "description": "Tesla has started distributing a “Robotaxi interest form,” collecting interest from fleet buyers who would want to build a Robotaxi network or provide related infrastructure services.\nIt’s the first step in allowing non-Tesla entities to make money off of Tesla’s FSD driver-assist software… but the owners who were promised they could make passive income with their cars are still out of luck.\nmore…",
+        "description": "Tesla has started distributing a “Robotaxi interest form,” collecting interest from fleet buyers who would want to build a Robotaxi network or provide related infrastructure services. It’s the first step in allowing non-Tesla entities to make money off of Tesla’s FSD driver-assist software… but the owners who were promised they could make passive income with their cars are still out of luck. more…",
         "published": "2026-09-04T01:05:58.000Z",
         "source": "Electrek",
         "sourceKey": "electrek",
@@ -496,38 +528,8 @@
           "tesla",
           "robotaxi"
         ],
-        "category": "ev_autonomous"
-      },
-      {
-        "title": "Wayve Autonomous Taxi Rides Debut on Uber in London",
-        "link": "https://www.bloomberg.com/news/newsletters/2026-09-04/wayve-autonomous-taxi-rides-debut-on-uber-in-london",
-        "description": "Autonomous rides with hands still hovering over the steering wheel",
-        "published": "2026-09-04T10:29:01.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "uber"
-        ],
-        "category": "ev_autonomous"
-      },
-      {
-        "title": "Novo Owner to Build $62 Million Quantum Chip Plant in Denmark",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-04/novo-owner-to-build-62-million-quantum-chip-plant-in-denmark",
-        "description": "The foundation that controls Ozempic maker Novo Nordisk A/S is building a new quantum chip factory in Copenhagen as the global race to develop the emerging technology heats up.",
-        "published": "2026-09-04T05:00:00.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "quantum",
-          "chip"
-        ],
-        "category": "ev_autonomous"
+        "category": "ev_autonomous",
+        "baseScore": 8
       },
       {
         "title": "Tesla’s Make-or-Break Cybercab Had a Quiet Debut",
@@ -542,7 +544,8 @@
         "matchedKeywords": [
           "tesla"
         ],
-        "category": "ev_autonomous"
+        "category": "ev_autonomous",
+        "baseScore": 4
       }
     ],
     "regulation": [
@@ -561,93 +564,129 @@
           "ftc",
           "billion"
         ],
-        "category": "regulation"
+        "category": "regulation",
+        "baseScore": 9
       }
     ],
-    "chips_cloud": [
+    "business": [
       {
-        "title": "DeepSeek Plans Big Huawei AI Chip Order to Power New Data Center",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-04/deepseek-plans-big-huawei-ai-chip-order-to-power-new-data-center",
-        "description": "DeepSeek plans to deploy at least 160,000 of Huawei Technologies Co.’s top accelerators at a massive data center it’s building in Inner Mongolia, which could create one of the largest known clusters of Huawei AI chips and advance China’s efforts to replace Nvidia Corp.",
-        "published": "2026-09-04T09:08:43.000Z",
+        "title": "China’s Moonshot Said to Seek Up to $5 Billion in Hong Kong IPO This Year",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-04/moonshot-is-said-to-seek-up-to-5-billion-in-hk-ipo-this-year",
+        "description": "Moonshot AI is considering raising up to $5 billion in its planned Hong Kong initial public offering as soon as this year, people familiar with the matter said, as the Chinese artificial intelligence champion taps into strong investor demand.",
+        "published": "2026-09-04T11:07:32.000Z",
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 9,
+        "relevanceScore": 6,
         "matchedKeywords": [
-          "nvidia",
-          "huawei",
-          "chip",
-          "data center"
+          "ipo",
+          "billion",
+          "artificial intelligence"
         ],
-        "category": "chips_cloud"
+        "category": "business",
+        "baseScore": 6
       },
       {
-        "title": "Nvidia's investments grow to $99 billion as chip giant becomes major backer of AI companies",
-        "link": "https://www.cnbc.com/2026/09/04/nvidia-ai-investments-99-billion.html",
-        "description": "Nvidia reported $99 billion in equity holdings as it backs AI labs, cloud providers and infrastructure companies across the sector.",
-        "published": "2026-09-04T09:32:09.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_tech",
+        "title": "SoftBank’s ¥1 Trillion Retail Bond Rejuvenates Japan Debt Market",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-04/softbank-group-prices-1-trillion-retail-bond-at-4-75",
+        "description": "SoftBank Group Corp. priced a ¥1 trillion ($6.3 billion) retail bond in an offering that expands Japan’s retail corporate debt market and gives investors a viable alternative to bank deposits and stocks.",
+        "published": "2026-09-04T00:41:55.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 7,
+        "relevanceScore": 6,
         "matchedKeywords": [
-          "nvidia",
-          "chip",
+          "softbank",
           "billion"
         ],
-        "category": "chips_cloud"
+        "category": "business",
+        "baseScore": 6
       },
       {
-        "title": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control",
-        "link": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40",
-        "description": "Officially, Nvidia's controversial DLSS 5 AI rendering was supposed to launch this evening with only a single game, only on Nvidia's latest RTX 50 GPUs, and with developers in full control of their artistic vision.\nBut unofficially, modders have already ported a leaked version of DLSS 5 to run on just about anything while cranking sliders to the max. Now, Nvidia is changing its plans. DLSS 5 is still launching first on RTX 50 GPUs, but it's officially coming to older RTX 40-series GPUs as well, Nvidia spokesperson Rajal Maharaj confirms to The Verge.\n\"Our current focus is on optimizing performance for the GeForce RTX 50 Series with model u …\nRead the full story at The Verge.",
-        "published": "2026-09-04T01:49:25.000Z",
+        "title": "Crusoe reportedly raises $3B at a $30B valuation",
+        "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+        "description": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+        "published": "2026-09-04T00:48:42.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "valuation",
+          "data center",
+          "billion"
+        ],
+        "category": "business",
+        "baseScore": 4
+      },
+      {
+        "title": "AMC CEO blasts Robinhood for stock token, putting synthetic shares in spotlight",
+        "link": "https://www.coindesk.com/business/2026/09/03/amc-ceo-blasts-robinhood-for-stock-token-putting-synthetic-shares-in-spotlight",
+        "description": "Adam Aron said AMC has no connection to Robinhood’s tokenized shares, reviving questions around how stocks are brought onchain.",
+        "published": "2026-09-04T03:03:25.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 1,
+        "matchedKeywords": [
+          "ceo"
+        ],
+        "category": "business",
+        "baseScore": 1
+      }
+    ],
+    "other": [
+      {
+        "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
+        "link": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
+        "description": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this year, Project Zenith is designed for new developer-focused devices with 64GB or more of unified memory. \"Project Zenith devices come with a preconfigured Windows setup for development and a set of tools curated for what developers reach for first,\" explains Logan Iyer, CVP of Windows platform and de",
+        "published": "2026-09-04T10:44:15.000Z",
         "source": "The Verge",
         "sourceKey": "theverge",
         "priority": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25256536/246993_Nvidia_RTX_4080_Super_TWarren_0002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "relevanceScore": 6,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/projectzenith.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "relevanceScore": 5,
         "matchedKeywords": [
-          "nvidia",
-          "gpu"
+          "microsoft"
         ],
-        "category": "chips_cloud"
+        "category": "other",
+        "baseScore": 5
       },
       {
-        "title": "Middle East’s Data Center Push Endures Under the Cloud of War",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-04/middle-east-s-data-center-push-endures-under-the-cloud-of-war",
-        "description": "The Persian Gulf’s richest states are pushing forward with plans for a massive build-out of artificial intelligence infrastructure, even though data centers have become repeated targets in the US war with Iran.",
-        "published": "2026-09-04T11:00:14.000Z",
+        "title": "Wayve Autonomous Taxi Rides Debut on Uber in London",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-09-04/wayve-autonomous-taxi-rides-debut-on-uber-in-london",
+        "description": "Autonomous rides with hands still hovering over the steering wheel",
+        "published": "2026-09-04T10:29:01.000Z",
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
         "relevanceScore": 5,
         "matchedKeywords": [
-          "intel",
-          "artificial intelligence",
-          "data center"
+          "uber"
         ],
-        "category": "chips_cloud"
+        "category": "other",
+        "baseScore": 5
       },
       {
-        "title": "Thailand Puts 49 Data Centers on Hold Over Resource Strain",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-04/thailand-puts-49-data-centers-on-hold-over-resource-strain",
-        "description": "Thailand’s embrace of data centers hit a speed bump after the government suspended construction of 49 server farms as public concerns about the power-hungry facilities’ impact on communities intensify.",
-        "published": "2026-09-04T07:23:14.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
+        "title": "Apple Is Testing a Four-HomePod Surround System, Code Suggests",
+        "link": "https://www.macrumors.com/2026/09/04/apple-testing-four-homepod-surround-system/",
+        "description": "Apple appears to be working on some major new HomePod home theater features, including a four-speaker surround sound system and a new \"Party Mode,\" according to code found in audioOS 27 beta 8, and shared on the MacRumors forums by member pdfu. References in the software for the second-generation HomePod suggest the ability to tune for a setup with front-left, front-right, rear-left, and rear-right HomePods. The four-speaker surround configuration references automatic room calibration, speaker-p",
+        "published": "2026-09-04T09:30:01.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/09/homepods-four.jpg",
         "relevanceScore": 4,
         "matchedKeywords": [
-          "arm",
-          "data center"
+          "apple"
         ],
-        "category": "chips_cloud"
+        "category": "other",
+        "baseScore": 4
       },
       {
         "title": "UK military wants lasers to stop drone swarms without running out of ammo",
@@ -658,47 +697,46 @@
         "sourceKey": "theregister",
         "priority": 2,
         "image": "https://image.theregister.com/?imageId=5294183&width=800",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "arm"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": "Google engineer unplugged every fiber they could see and – surprise! – took down a chunk of the G-Cloud",
-        "link": "https://www.theregister.com/off-prem/2026/09/04/google-engineer-unplugged-every-fiber-they-could-see-and-surprise-took-down-a-chunk-of-the-g-cloud/5294418",
-        "description": "This sounds like a RTFM error at hyperscale",
-        "published": "2026-09-04T04:48:25.000Z",
-        "source": "The Register",
-        "sourceKey": "theregister",
-        "priority": 2,
-        "image": "https://image.theregister.com/?imageId=5263102&width=800",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "google"
-        ],
-        "category": "chips_cloud"
+        "relevanceScore": 0,
+        "matchedKeywords": [],
+        "category": "other",
+        "baseScore": 0
       }
     ],
-    "business": [
+    "devices": [
       {
-        "title": "Crusoe reportedly raises $3B at a  $30B valuation",
-        "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-        "description": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
-        "published": "2026-09-04T00:48:42.000Z",
-        "source": "TechCrunch",
-        "sourceKey": "techcrunch",
-        "priority": 1,
-        "image": null,
+        "title": "New action comedy movie Mayday is now streaming on Apple TV",
+        "link": "https://9to5mac.com/2026/09/04/new-action-comedy-movie-mayday-is-now-streaming-on-apple-tv/",
+        "description": "There’s a new original movie streaming today on Apple TV: a new action-comedy called Mayday, starring Ryan Reynolds and Kenneth Branagh. Streaming for free with an Apple TV subscription, Mayday sees Troy (Reynolds) infiltrate Russian territory amidst the Cold War. Ex-KGB agent Nikolai (Branagh) becomes an unlikely ally in this caper. more…",
+        "published": "2026-09-04T09:10:03.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-tv-mayday.jpg?quality=82&#038;strip=all&#038;w=1600",
         "relevanceScore": 4,
         "matchedKeywords": [
-          "data center",
-          "billion",
-          "valuation"
+          "apple"
         ],
-        "category": "business"
+        "category": "devices",
+        "baseScore": 4
+      },
+      {
+        "title": "iPhone Ultra Production Hitting Just 'a Few Hundred' a Day, Says Nikkei",
+        "link": "https://www.macrumors.com/2026/09/04/iphone-ultra-production-extremely-limited/",
+        "description": "Apple last month only managed to produce \"a few hundred units a day\" of its upcoming foldable iPhone because of the company's extremely high quality control standards, according to Nikkei Asia ($), citing supply chain sources. From today's report: \"Production is ramping up slowly, with output currently at only a few hundred units a day in late August. That initial volume could be challenging to meet market demand,\" one supply chain manager with knowledge of the matter told Nikkei Asia. Multiple ",
+        "published": "2026-09-04T10:09:03.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/08/iPhone-Ultra-Fold-Feature.jpg",
+        "relevanceScore": 2,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices",
+        "baseScore": 2
       }
     ]
   },
-  "totalArticles": 32
+  "totalArticles": 30
 }

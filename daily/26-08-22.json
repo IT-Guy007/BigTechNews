@@ -19,7 +19,8 @@
       "matchedKeywords": [
         "apple"
       ],
-      "category": "ai"
+      "category": "devices",
+      "baseScore": 4
     },
     {
       "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
@@ -35,11 +36,12 @@
         "satellite",
         "billion"
       ],
-      "category": "space"
+      "category": "space",
+      "baseScore": 3
     }
   ],
   "byCategory": {
-    "ai": [
+    "devices": [
       {
         "title": "Apple reportedly cut more than 200 jobs across Vision Pro and Siri software teams",
         "link": "https://www.engadget.com/2242070/apple-reportedly-cut-more-than-200-jobs-across-vision-pro-and-siri-software-teams/",
@@ -53,7 +55,8 @@
         "matchedKeywords": [
           "apple"
         ],
-        "category": "ai"
+        "category": "devices",
+        "baseScore": 4
       }
     ],
     "space": [
@@ -71,7 +74,8 @@
           "satellite",
           "billion"
         ],
-        "category": "space"
+        "category": "space",
+        "baseScore": 3
       }
     ]
   },

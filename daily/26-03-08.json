@@ -18,10 +18,11 @@
       "relevanceScore": 10,
       "matchedKeywords": [
         "google",
-        "waymo",
-        "sundar pichai"
+        "sundar pichai",
+        "waymo"
       ],
-      "category": "ai"
+      "category": "ev_autonomous",
+      "baseScore": 10
     },
     {
       "title": "A roadmap for AI, if anyone will listen",
@@ -36,11 +37,12 @@
       "matchedKeywords": [
         "anthropic"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 6
     }
   ],
   "byCategory": {
-    "ai": [
+    "ev_autonomous": [
       {
         "title": "Google just gave Sundar Pichai a $692M pay package",
         "link": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
@@ -53,11 +55,14 @@
         "relevanceScore": 10,
         "matchedKeywords": [
           "google",
-          "waymo",
-          "sundar pichai"
+          "sundar pichai",
+          "waymo"
         ],
-        "category": "ai"
-      },
+        "category": "ev_autonomous",
+        "baseScore": 10
+      }
+    ],
+    "ai": [
       {
         "title": "A roadmap for AI, if anyone will listen",
         "link": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
@@ -71,7 +76,8 @@
         "matchedKeywords": [
           "anthropic"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 6
       }
     ]
   },

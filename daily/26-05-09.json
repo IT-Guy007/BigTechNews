@@ -15,15 +15,16 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 12,
+      "relevanceScore": 10,
       "matchedKeywords": [
-        "intel",
         "bytedance",
         "tiktok",
         "artificial intelligence",
-        "chip"
+        "chip",
+        "billion"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 10
     },
     {
       "title": "Chinese Export Growth Rebounds as War Fails to Curb Trade",
@@ -34,12 +35,12 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 4,
+      "relevanceScore": 2,
       "matchedKeywords": [
-        "intel",
         "artificial intelligence"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 2
     },
     {
       "title": "China’s Top Economic Planner Urges Stronger Coordination on AI",
@@ -50,12 +51,12 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 4,
+      "relevanceScore": 2,
       "matchedKeywords": [
-        "intel",
         "artificial intelligence"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 2
     }
   ],
   "byCategory": {
@@ -69,15 +70,16 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 12,
+        "relevanceScore": 10,
         "matchedKeywords": [
-          "intel",
           "bytedance",
           "tiktok",
           "artificial intelligence",
-          "chip"
+          "chip",
+          "billion"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 10
       },
       {
         "title": "Chinese Export Growth Rebounds as War Fails to Curb Trade",
@@ -88,12 +90,12 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 2,
         "matchedKeywords": [
-          "intel",
           "artificial intelligence"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 2
       },
       {
         "title": "China’s Top Economic Planner Urges Stronger Coordination on AI",
@@ -104,12 +106,12 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 2,
         "matchedKeywords": [
-          "intel",
           "artificial intelligence"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 2
       }
     ]
   },

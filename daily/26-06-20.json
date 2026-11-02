@@ -19,7 +19,8 @@
       "matchedKeywords": [
         "byd"
       ],
-      "category": "ev_autonomous"
+      "category": "ev_autonomous",
+      "baseScore": 5
     },
     {
       "title": "Hackers Claim to Leak Stolen Madison Square Garden Data",
@@ -35,7 +36,8 @@
         "apple",
         "palantir"
       ],
-      "category": "ai"
+      "category": "other",
+      "baseScore": 4
     }
   ],
   "byCategory": {
@@ -53,10 +55,11 @@
         "matchedKeywords": [
           "byd"
         ],
-        "category": "ev_autonomous"
+        "category": "ev_autonomous",
+        "baseScore": 5
       }
     ],
-    "ai": [
+    "other": [
       {
         "title": "Hackers Claim to Leak Stolen Madison Square Garden Data",
         "link": "https://www.wired.com/story/security-news-this-week-hackers-claim-to-leak-stolen-madison-square-garden-data/",
@@ -71,7 +74,8 @@
           "apple",
           "palantir"
         ],
-        "category": "ai"
+        "category": "other",
+        "baseScore": 4
       }
     ]
   },

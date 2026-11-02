@@ -15,30 +15,14 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "ipo",
-        "humanoid robot"
-      ],
-      "category": "robotics"
-    },
-    {
-      "title": "Attacking bitcoin mining with a quantum computer would require the energy of a star, academics say",
-      "link": "https://www.coindesk.com/tech/2026/04/08/attacking-bitcoin-mining-with-a-quantum-computer-would-require-the-energy-of-a-star-academics-say",
-      "description": "One paper finds that attacking the bitcoin blockchain through quantum mining would demand the energy output of a star. Another replicates every major \"quantum factoring breakthrough\" using a 1981 home computer and a dog.",
-      "published": "2026-04-08T05:42:54.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "priority": 3,
-      "image": null,
       "relevanceScore": 8,
       "matchedKeywords": [
-        "breakthrough",
-        "quantum",
-        "tpu",
-        "bitcoin"
+        "ipo",
+        "humanoid robot",
+        "humanoid"
       ],
-      "category": "crypto"
+      "category": "robotics",
+      "baseScore": 8
     },
     {
       "title": "Bain Data Center Unit Cuts Ties With Nvidia Buyer After US Probe",
@@ -52,10 +36,29 @@
       "relevanceScore": 7,
       "matchedKeywords": [
         "nvidia",
-        "chip",
-        "data center"
+        "data center",
+        "chip"
       ],
-      "category": "chips_cloud"
+      "category": "chips_cloud",
+      "baseScore": 7
+    },
+    {
+      "title": "Attacking bitcoin mining with a quantum computer would require the energy of a star, academics say",
+      "link": "https://www.coindesk.com/tech/2026/04/08/attacking-bitcoin-mining-with-a-quantum-computer-would-require-the-energy-of-a-star-academics-say",
+      "description": "One paper finds that attacking the bitcoin blockchain through quantum mining would demand the energy output of a star. Another replicates every major \"quantum factoring breakthrough\" using a 1981 home computer and a dog.",
+      "published": "2026-04-08T05:42:54.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "priority": 3,
+      "image": null,
+      "relevanceScore": 7,
+      "matchedKeywords": [
+        "quantum computer",
+        "bitcoin",
+        "breakthrough"
+      ],
+      "category": "crypto",
+      "baseScore": 7
     },
     {
       "title": "Google quietly launched an AI dictation app that works offline",
@@ -66,16 +69,18 @@
       "sourceKey": "techcrunch",
       "priority": 1,
       "image": null,
-      "relevanceScore": 5,
+      "relevanceScore": 6,
       "matchedKeywords": [
-        "google"
+        "google",
+        "ai model"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 6
     },
     {
       "title": "9to5Mac Overtime 066: Every time I breathe there’s a new Claude update",
       "link": "https://9to5mac.com/2026/04/07/9to5mac-overtime-066-every-time-i-breathe-theres-a-new-claude-update/",
-      "description": "Jeff unpacks his surprising journey from AI skeptic to enthusiast, sharing how he now uses tools like Claude Code to build custom solutions. Fernando provides an honest opinion about the new AirPods Max versus AirPods Pro 3, and a one-month check-in on the MacBook Neo.\n9to5Mac Overtime is a weekly video-first podcast exploring fun and interesting observations in the Apple ecosystem, featuring 9to5Mac’s Fernando Silva & Jeff Benjamin. Subscribe to Overtime via Apple Podcasts and our YouTube channel for more.\nmore…",
+      "description": "Jeff unpacks his surprising journey from AI skeptic to enthusiast, sharing how he now uses tools like Claude Code to build custom solutions. Fernando provides an honest opinion about the new AirPods Max versus AirPods Pro 3, and a one-month check-in on the MacBook Neo. 9to5Mac Overtime is a weekly video-first podcast exploring fun and interesting observations in the Apple ecosystem, featuring 9to5Mac’s Fernando Silva & Jeff Benjamin. Subscribe to Overtime via Apple Podcasts and our YouTube chann",
       "published": "2026-04-08T00:42:02.000Z",
       "source": "9to5Mac",
       "sourceKey": "9to5mac",
@@ -83,42 +88,11 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/9to5Mac-Overtime-066-Every-time-I-breathe-theres-a-new-update-to-Claude.jpg?quality=82&#038;strip=all&#038;w=1600",
       "relevanceScore": 5,
       "matchedKeywords": [
-        "apple",
-        "claude"
+        "claude",
+        "apple"
       ],
-      "category": "ai"
-    },
-    {
-      "title": "Zhipu Hikes Prices Again as China AI Monetization Wave Quickens",
-      "link": "https://www.bloomberg.com/news/articles/2026-04-08/zhipu-hikes-prices-again-as-china-ai-monetization-wave-quickens",
-      "description": "Zhipu raised the cost of access to its most advanced AI model by at least 8%, joining other leading Chinese artificial intelligence players in trying to profit off years of research and computing investments.",
-      "published": "2026-04-08T05:12:05.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "intel",
-        "artificial intelligence"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": "Robot Maker Kuka Eyes US, Asia as Europe’s Factories Lag on AI",
-      "link": "https://www.bloomberg.com/news/articles/2026-04-08/robot-maker-kuka-eyes-us-asia-as-europe-s-factories-lag-on-ai",
-      "description": "Many of Europe’s industrial companies are too slow to adopt artificial intelligence, putting faster-moving global rivals in a position to overtake them, according to German-Chinese robotics maker Kuka AG.",
-      "published": "2026-04-08T04:00:00.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "intel",
-        "artificial intelligence"
-      ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 5
     },
     {
       "title": "Microsoft hints at bit bunkers for war zones",
@@ -133,22 +107,25 @@
       "matchedKeywords": [
         "microsoft"
       ],
-      "category": null
+      "category": "other",
+      "baseScore": 4
     },
     {
-      "title": "Men Are Buying Hacking Tools to Use Against Their Wives and Friends",
-      "link": "https://www.wired.com/story/men-are-buying-hacking-tools-to-use-against-their-wives-and-friends/",
-      "description": "In Telegram groups, men are sharing thousands of nonconsensual images of women and girls, buying spyware, and engaging in doxing and sexual abuse.",
-      "published": "2026-04-08T07:00:00.000Z",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "priority": 2,
+      "title": "Zhipu Hikes Prices Again as China AI Monetization Wave Quickens",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-08/zhipu-hikes-prices-again-as-china-ai-monetization-wave-quickens",
+      "description": "Zhipu raised the cost of access to its most advanced AI model by at least 8%, joining other leading Chinese artificial intelligence players in trying to profit off years of research and computing investments.",
+      "published": "2026-04-08T05:12:05.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
       "image": null,
       "relevanceScore": 3,
       "matchedKeywords": [
-        "agi"
+        "artificial intelligence",
+        "ai model"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 3
     },
     {
       "title": "S. Korea Posts Record Current Account Surplus on Chip Exports",
@@ -161,10 +138,41 @@
       "image": null,
       "relevanceScore": 3,
       "matchedKeywords": [
-        "semiconductor",
-        "chip"
+        "chip",
+        "semiconductor"
       ],
-      "category": "chips_cloud"
+      "category": "chips_cloud",
+      "baseScore": 3
+    },
+    {
+      "title": "Robot Maker Kuka Eyes US, Asia as Europe’s Factories Lag on AI",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-08/robot-maker-kuka-eyes-us-asia-as-europe-s-factories-lag-on-ai",
+      "description": "Many of Europe’s industrial companies are too slow to adopt artificial intelligence, putting faster-moving global rivals in a position to overtake them, according to German-Chinese robotics maker Kuka AG.",
+      "published": "2026-04-08T04:00:00.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 2,
+      "matchedKeywords": [
+        "artificial intelligence"
+      ],
+      "category": "robotics",
+      "baseScore": 2
+    },
+    {
+      "title": "Men Are Buying Hacking Tools to Use Against Their Wives and Friends",
+      "link": "https://www.wired.com/story/men-are-buying-hacking-tools-to-use-against-their-wives-and-friends/",
+      "description": "In Telegram groups, men are sharing thousands of nonconsensual images of women and girls, buying spyware, and engaging in doxing and sexual abuse.",
+      "published": "2026-04-08T07:00:00.000Z",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "priority": 2,
+      "image": null,
+      "relevanceScore": 0,
+      "matchedKeywords": [],
+      "category": "other",
+      "baseScore": 0
     }
   ],
   "byCategory": {
@@ -178,32 +186,30 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 9,
-        "matchedKeywords": [
-          "ipo",
-          "humanoid robot"
-        ],
-        "category": "robotics"
-      }
-    ],
-    "crypto": [
-      {
-        "title": "Attacking bitcoin mining with a quantum computer would require the energy of a star, academics say",
-        "link": "https://www.coindesk.com/tech/2026/04/08/attacking-bitcoin-mining-with-a-quantum-computer-would-require-the-energy-of-a-star-academics-say",
-        "description": "One paper finds that attacking the bitcoin blockchain through quantum mining would demand the energy output of a star. Another replicates every major \"quantum factoring breakthrough\" using a 1981 home computer and a dog.",
-        "published": "2026-04-08T05:42:54.000Z",
-        "source": "CoinDesk",
-        "sourceKey": "coindesk",
-        "priority": 3,
-        "image": null,
         "relevanceScore": 8,
         "matchedKeywords": [
-          "breakthrough",
-          "quantum",
-          "tpu",
-          "bitcoin"
+          "ipo",
+          "humanoid robot",
+          "humanoid"
         ],
-        "category": "crypto"
+        "category": "robotics",
+        "baseScore": 8
+      },
+      {
+        "title": "Robot Maker Kuka Eyes US, Asia as Europe’s Factories Lag on AI",
+        "link": "https://www.bloomberg.com/news/articles/2026-04-08/robot-maker-kuka-eyes-us-asia-as-europe-s-factories-lag-on-ai",
+        "description": "Many of Europe’s industrial companies are too slow to adopt artificial intelligence, putting faster-moving global rivals in a position to overtake them, according to German-Chinese robotics maker Kuka AG.",
+        "published": "2026-04-08T04:00:00.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 2,
+        "matchedKeywords": [
+          "artificial intelligence"
+        ],
+        "category": "robotics",
+        "baseScore": 2
       }
     ],
     "chips_cloud": [
@@ -219,10 +225,11 @@
         "relevanceScore": 7,
         "matchedKeywords": [
           "nvidia",
-          "chip",
-          "data center"
+          "data center",
+          "chip"
         ],
-        "category": "chips_cloud"
+        "category": "chips_cloud",
+        "baseScore": 7
       },
       {
         "title": "S. Korea Posts Record Current Account Surplus on Chip Exports",
@@ -235,10 +242,31 @@
         "image": null,
         "relevanceScore": 3,
         "matchedKeywords": [
-          "semiconductor",
-          "chip"
+          "chip",
+          "semiconductor"
         ],
-        "category": "chips_cloud"
+        "category": "chips_cloud",
+        "baseScore": 3
+      }
+    ],
+    "crypto": [
+      {
+        "title": "Attacking bitcoin mining with a quantum computer would require the energy of a star, academics say",
+        "link": "https://www.coindesk.com/tech/2026/04/08/attacking-bitcoin-mining-with-a-quantum-computer-would-require-the-energy-of-a-star-academics-say",
+        "description": "One paper finds that attacking the bitcoin blockchain through quantum mining would demand the energy output of a star. Another replicates every major \"quantum factoring breakthrough\" using a 1981 home computer and a dog.",
+        "published": "2026-04-08T05:42:54.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "quantum computer",
+          "bitcoin",
+          "breakthrough"
+        ],
+        "category": "crypto",
+        "baseScore": 7
       }
     ],
     "ai": [
@@ -251,16 +279,18 @@
         "sourceKey": "techcrunch",
         "priority": 1,
         "image": null,
-        "relevanceScore": 5,
+        "relevanceScore": 6,
         "matchedKeywords": [
-          "google"
+          "google",
+          "ai model"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 6
       },
       {
         "title": "9to5Mac Overtime 066: Every time I breathe there’s a new Claude update",
         "link": "https://9to5mac.com/2026/04/07/9to5mac-overtime-066-every-time-i-breathe-theres-a-new-claude-update/",
-        "description": "Jeff unpacks his surprising journey from AI skeptic to enthusiast, sharing how he now uses tools like Claude Code to build custom solutions. Fernando provides an honest opinion about the new AirPods Max versus AirPods Pro 3, and a one-month check-in on the MacBook Neo.\n9to5Mac Overtime is a weekly video-first podcast exploring fun and interesting observations in the Apple ecosystem, featuring 9to5Mac’s Fernando Silva & Jeff Benjamin. Subscribe to Overtime via Apple Podcasts and our YouTube channel for more.\nmore…",
+        "description": "Jeff unpacks his surprising journey from AI skeptic to enthusiast, sharing how he now uses tools like Claude Code to build custom solutions. Fernando provides an honest opinion about the new AirPods Max versus AirPods Pro 3, and a one-month check-in on the MacBook Neo. 9to5Mac Overtime is a weekly video-first podcast exploring fun and interesting observations in the Apple ecosystem, featuring 9to5Mac’s Fernando Silva & Jeff Benjamin. Subscribe to Overtime via Apple Podcasts and our YouTube chann",
         "published": "2026-04-08T00:42:02.000Z",
         "source": "9to5Mac",
         "sourceKey": "9to5mac",
@@ -268,10 +298,11 @@
         "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/9to5Mac-Overtime-066-Every-time-I-breathe-theres-a-new-update-to-Claude.jpg?quality=82&#038;strip=all&#038;w=1600",
         "relevanceScore": 5,
         "matchedKeywords": [
-          "apple",
-          "claude"
+          "claude",
+          "apple"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 5
       },
       {
         "title": "Zhipu Hikes Prices Again as China AI Monetization Wave Quickens",
@@ -282,28 +313,31 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 3,
         "matchedKeywords": [
-          "intel",
-          "artificial intelligence"
+          "artificial intelligence",
+          "ai model"
         ],
-        "category": "ai"
-      },
+        "category": "ai",
+        "baseScore": 3
+      }
+    ],
+    "other": [
       {
-        "title": "Robot Maker Kuka Eyes US, Asia as Europe’s Factories Lag on AI",
-        "link": "https://www.bloomberg.com/news/articles/2026-04-08/robot-maker-kuka-eyes-us-asia-as-europe-s-factories-lag-on-ai",
-        "description": "Many of Europe’s industrial companies are too slow to adopt artificial intelligence, putting faster-moving global rivals in a position to overtake them, according to German-Chinese robotics maker Kuka AG.",
-        "published": "2026-04-08T04:00:00.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
+        "title": "Microsoft hints at bit bunkers for war zones",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/08/microsoft_armored_datacenters/",
+        "description": "",
+        "published": "2026-04-08T06:53:08.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
         "image": null,
         "relevanceScore": 4,
         "matchedKeywords": [
-          "intel",
-          "artificial intelligence"
+          "microsoft"
         ],
-        "category": "ai"
+        "category": "other",
+        "baseScore": 4
       },
       {
         "title": "Men Are Buying Hacking Tools to Use Against Their Wives and Friends",
@@ -314,11 +348,10 @@
         "sourceKey": "wired",
         "priority": 2,
         "image": null,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "agi"
-        ],
-        "category": "ai"
+        "relevanceScore": 0,
+        "matchedKeywords": [],
+        "category": "other",
+        "baseScore": 0
       }
     ]
   },

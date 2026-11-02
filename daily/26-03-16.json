@@ -17,15 +17,16 @@
       "image": null,
       "relevanceScore": 11,
       "matchedKeywords": [
-        "google",
         "microsoft",
+        "google",
         "amazon",
         "meta"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 11
     },
     {
-      "title": "Baidu-Backed BioMap Is Said to Confidentially File for HK IPO",
+      "title": "Baidu-Backed BioMap Is Said to Confidentially File for HK IPO",
       "link": "https://www.bloomberg.com/news/articles/2026-03-16/baidu-backed-biomap-is-said-to-confidentially-file-for-hk-ipo",
       "description": "BioMap Beijing Intelligent Technology Co. has filed confidentially for a Hong Kong initial public offering that could raise a few hundred million dollars this year, according to people familiar with the matter.",
       "published": "2026-03-16T02:40:48.000Z",
@@ -33,58 +34,30 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 11,
+      "relevanceScore": 8,
       "matchedKeywords": [
-        "intel",
         "baidu",
         "ipo"
       ],
-      "category": "ai"
+      "category": "business",
+      "baseScore": 8
     },
     {
-      "title": "Netflix’s ‘Frankenstein’ wins three Oscars, ‘KPop Demon Hunters’ wins two",
-      "link": "https://techcrunch.com/2026/03/15/netflixs-frankenstein-wins-three-oscars-kpop-demon-hunters-wins-two/",
-      "description": "“Frankenstein” won for Best Production Design, Best Costume Design, and Best Makeup and Hairstyling, while “KPop Demon Hunters” won for Best Animated Feature and Best Original Song.",
-      "published": "2026-03-16T02:27:18.000Z",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
+      "title": "Alibaba Creates AI Tool for Companies to Ride China Agent Craze",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-16/alibaba-creates-ai-tool-for-companies-to-ride-china-agent-craze",
+      "description": "Alibaba Group Holding Ltd. plans to release an agentic AI service for companies, banking on national enthusiasm around artificial intelligence assistants like OpenClaw that help users perform actual tasks.",
+      "published": "2026-03-16T04:04:22.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 5,
+      "relevanceScore": 6,
       "matchedKeywords": [
-        "netflix"
+        "alibaba",
+        "artificial intelligence"
       ],
-      "category": "ai"
-    },
-    {
-      "title": "Google, Accel India accelerator chooses 5 startups and none are ‘AI wrappers’",
-      "link": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/",
-      "description": "Google and Accel say about 70% of AI startup pitches tied to India were \"wrappers\" as they reviewed more than 4,000 applications for their Atoms cohort.",
-      "published": "2026-03-16T00:30:00.000Z",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 5,
-      "matchedKeywords": [
-        "google"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": "JD.com takes on Amazon in Europe as China's e-commerce titans expand globally",
-      "link": "https://www.cnbc.com/2026/03/16/jd-launches-joybuy-in-europe-amazon-rival.html",
-      "description": "JD.com is pushing same-day delivery and international brands as a way to help it compete with Amazon.",
-      "published": "2026-03-16T00:18:14.000Z",
-      "source": "CNBC",
-      "sourceKey": "cnbc_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 5,
-      "matchedKeywords": [
-        "amazon"
-      ],
-      "category": "regulation"
+      "category": "ai",
+      "baseScore": 6
     },
     {
       "title": "Nvidia Partner Hon Hai’s Profit Miss Raises AI Demand Fears",
@@ -99,7 +72,56 @@
       "matchedKeywords": [
         "nvidia"
       ],
-      "category": "ai"
+      "category": "chips_cloud",
+      "baseScore": 5
+    },
+    {
+      "title": "Netflix’s ‘Frankenstein’ wins three Oscars, ‘KPop Demon Hunters’ wins two",
+      "link": "https://techcrunch.com/2026/03/15/netflixs-frankenstein-wins-three-oscars-kpop-demon-hunters-wins-two/",
+      "description": "“Frankenstein” won for Best Production Design, Best Costume Design, and Best Makeup and Hairstyling, while “KPop Demon Hunters” won for Best Animated Feature and Best Original Song.",
+      "published": "2026-03-16T02:27:18.000Z",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 5,
+      "matchedKeywords": [
+        "netflix"
+      ],
+      "category": "other",
+      "baseScore": 5
+    },
+    {
+      "title": "Google, Accel India accelerator chooses 5 startups and none are ‘AI wrappers’",
+      "link": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/",
+      "description": "Google and Accel say about 70% of AI startup pitches tied to India were \"wrappers\" as they reviewed more than 4,000 applications for their Atoms cohort.",
+      "published": "2026-03-16T00:30:00.000Z",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 5,
+      "matchedKeywords": [
+        "google"
+      ],
+      "category": "ai",
+      "baseScore": 5
+    },
+    {
+      "title": "JD.com takes on Amazon in Europe as China's e-commerce titans expand globally",
+      "link": "https://www.cnbc.com/2026/03/16/jd-launches-joybuy-in-europe-amazon-rival.html",
+      "description": "JD.com is pushing same-day delivery and international brands as a way to help it compete with Amazon.",
+      "published": "2026-03-16T00:18:14.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 5,
+      "matchedKeywords": [
+        "amazon"
+      ],
+      "category": "other",
+      "baseScore": 5
     },
     {
       "title": "JD.com’s European Push Pits Chinese Retailer Against Amazon",
@@ -114,7 +136,24 @@
       "matchedKeywords": [
         "amazon"
       ],
-      "category": "ai"
+      "category": "other",
+      "baseScore": 5
+    },
+    {
+      "title": "Melinda French Gates on Leading With Integrity",
+      "link": "https://www.bloomberg.com/news/videos/2026-03-16/melinda-french-gates-on-leading-with-integrity-video",
+      "description": "Having navigated some of life’s most defining transitions, Melinda French Gates reflects on the choices that set her path—from Microsoft executive to philanthropist and now founder of Pivotal. She shares how values-based leadership, resilience and the courage to embrace “the next day” have guided her through change, power and public scrutiny. (Source: Bloomberg)",
+      "published": "2026-03-16T06:08:09.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 3,
+      "matchedKeywords": [
+        "microsoft"
+      ],
+      "category": "business",
+      "baseScore": 3
     },
     {
       "title": "Australian Senate panel backs crypto regulation framework",
@@ -125,44 +164,13 @@
       "sourceKey": "coindesk",
       "priority": 3,
       "image": null,
-      "relevanceScore": 5,
+      "relevanceScore": 2,
       "matchedKeywords": [
         "regulation",
         "crypto regulation"
       ],
-      "category": "regulation"
-    },
-    {
-      "title": "The billionaires made a promise — now some want out",
-      "link": "https://techcrunch.com/2026/03/15/the-billionaires-made-a-promise-now-some-want-out/",
-      "description": "In 2010, Warren Buffett and Bill Gates launched a disarmingly simple campaign they called the Giving Pledge: a public commitment, open to the world’s wealthiest people, to give away more than half their fortune during their lifetime or upon their death. The moment seemed to call for it. Tech was minting billionaires faster than any […]",
-      "published": "2026-03-16T04:40:24.000Z",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "arm",
-        "billion"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": "Alibaba Creates AI Tool for Companies to Ride China Agent Craze",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-16/alibaba-creates-ai-tool-for-companies-to-ride-china-agent-craze",
-      "description": "Alibaba Group Holding Ltd. plans to release an agentic AI service for companies, banking on national enthusiasm around artificial intelligence assistants like OpenClaw that help users perform actual tasks.",
-      "published": "2026-03-16T04:04:22.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "intel",
-        "artificial intelligence"
-      ],
-      "category": "ai"
+      "category": "crypto",
+      "baseScore": 2
     }
   ],
   "byCategory": {
@@ -178,44 +186,30 @@
         "image": null,
         "relevanceScore": 11,
         "matchedKeywords": [
-          "google",
           "microsoft",
+          "google",
           "amazon",
           "meta"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 11
       },
       {
-        "title": "Baidu-Backed BioMap Is Said to Confidentially File for HK IPO",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-16/baidu-backed-biomap-is-said-to-confidentially-file-for-hk-ipo",
-        "description": "BioMap Beijing Intelligent Technology Co. has filed confidentially for a Hong Kong initial public offering that could raise a few hundred million dollars this year, according to people familiar with the matter.",
-        "published": "2026-03-16T02:40:48.000Z",
+        "title": "Alibaba Creates AI Tool for Companies to Ride China Agent Craze",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-16/alibaba-creates-ai-tool-for-companies-to-ride-china-agent-craze",
+        "description": "Alibaba Group Holding Ltd. plans to release an agentic AI service for companies, banking on national enthusiasm around artificial intelligence assistants like OpenClaw that help users perform actual tasks.",
+        "published": "2026-03-16T04:04:22.000Z",
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 11,
+        "relevanceScore": 6,
         "matchedKeywords": [
-          "intel",
-          "baidu",
-          "ipo"
+          "alibaba",
+          "artificial intelligence"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "Netflix’s ‘Frankenstein’ wins three Oscars, ‘KPop Demon Hunters’ wins two",
-        "link": "https://techcrunch.com/2026/03/15/netflixs-frankenstein-wins-three-oscars-kpop-demon-hunters-wins-two/",
-        "description": "“Frankenstein” won for Best Production Design, Best Costume Design, and Best Makeup and Hairstyling, while “KPop Demon Hunters” won for Best Animated Feature and Best Original Song.",
-        "published": "2026-03-16T02:27:18.000Z",
-        "source": "TechCrunch",
-        "sourceKey": "techcrunch",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "netflix"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 6
       },
       {
         "title": "Google, Accel India accelerator chooses 5 startups and none are ‘AI wrappers’",
@@ -230,8 +224,46 @@
         "matchedKeywords": [
           "google"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 5
+      }
+    ],
+    "business": [
+      {
+        "title": "Baidu-Backed BioMap Is Said to Confidentially File for HK IPO",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-16/baidu-backed-biomap-is-said-to-confidentially-file-for-hk-ipo",
+        "description": "BioMap Beijing Intelligent Technology Co. has filed confidentially for a Hong Kong initial public offering that could raise a few hundred million dollars this year, according to people familiar with the matter.",
+        "published": "2026-03-16T02:40:48.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "baidu",
+          "ipo"
+        ],
+        "category": "business",
+        "baseScore": 8
       },
+      {
+        "title": "Melinda French Gates on Leading With Integrity",
+        "link": "https://www.bloomberg.com/news/videos/2026-03-16/melinda-french-gates-on-leading-with-integrity-video",
+        "description": "Having navigated some of life’s most defining transitions, Melinda French Gates reflects on the choices that set her path—from Microsoft executive to philanthropist and now founder of Pivotal. She shares how values-based leadership, resilience and the courage to embrace “the next day” have guided her through change, power and public scrutiny. (Source: Bloomberg)",
+        "published": "2026-03-16T06:08:09.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "microsoft"
+        ],
+        "category": "business",
+        "baseScore": 3
+      }
+    ],
+    "chips_cloud": [
       {
         "title": "Nvidia Partner Hon Hai’s Profit Miss Raises AI Demand Fears",
         "link": "https://www.bloomberg.com/news/articles/2026-03-16/nvidia-partner-hon-hai-s-profit-miss-raises-ai-demand-fears",
@@ -245,7 +277,42 @@
         "matchedKeywords": [
           "nvidia"
         ],
-        "category": "ai"
+        "category": "chips_cloud",
+        "baseScore": 5
+      }
+    ],
+    "other": [
+      {
+        "title": "Netflix’s ‘Frankenstein’ wins three Oscars, ‘KPop Demon Hunters’ wins two",
+        "link": "https://techcrunch.com/2026/03/15/netflixs-frankenstein-wins-three-oscars-kpop-demon-hunters-wins-two/",
+        "description": "“Frankenstein” won for Best Production Design, Best Costume Design, and Best Makeup and Hairstyling, while “KPop Demon Hunters” won for Best Animated Feature and Best Original Song.",
+        "published": "2026-03-16T02:27:18.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "netflix"
+        ],
+        "category": "other",
+        "baseScore": 5
+      },
+      {
+        "title": "JD.com takes on Amazon in Europe as China's e-commerce titans expand globally",
+        "link": "https://www.cnbc.com/2026/03/16/jd-launches-joybuy-in-europe-amazon-rival.html",
+        "description": "JD.com is pushing same-day delivery and international brands as a way to help it compete with Amazon.",
+        "published": "2026-03-16T00:18:14.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "amazon"
+        ],
+        "category": "other",
+        "baseScore": 5
       },
       {
         "title": "JD.com’s European Push Pits Chinese Retailer Against Amazon",
@@ -260,7 +327,8 @@
         "matchedKeywords": [
           "amazon"
         ],
-        "category": "ai"
+        "category": "other",
+        "baseScore": 5
       },
       {
         "title": "The billionaires made a promise — now some want out",
@@ -271,46 +339,13 @@
         "sourceKey": "techcrunch",
         "priority": 1,
         "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "arm",
-          "billion"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Alibaba Creates AI Tool for Companies to Ride China Agent Craze",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-16/alibaba-creates-ai-tool-for-companies-to-ride-china-agent-craze",
-        "description": "Alibaba Group Holding Ltd. plans to release an agentic AI service for companies, banking on national enthusiasm around artificial intelligence assistants like OpenClaw that help users perform actual tasks.",
-        "published": "2026-03-16T04:04:22.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "intel",
-          "artificial intelligence"
-        ],
-        "category": "ai"
+        "relevanceScore": 1,
+        "matchedKeywords": [],
+        "category": "other",
+        "baseScore": 1
       }
     ],
-    "regulation": [
-      {
-        "title": "JD.com takes on Amazon in Europe as China's e-commerce titans expand globally",
-        "link": "https://www.cnbc.com/2026/03/16/jd-launches-joybuy-in-europe-amazon-rival.html",
-        "description": "JD.com is pushing same-day delivery and international brands as a way to help it compete with Amazon.",
-        "published": "2026-03-16T00:18:14.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "amazon"
-        ],
-        "category": "regulation"
-      },
+    "crypto": [
       {
         "title": "Australian Senate panel backs crypto regulation framework",
         "link": "https://www.coindesk.com/markets/2026/03/16/australian-senate-backs-crypto-regulation-framework",
@@ -320,29 +355,13 @@
         "sourceKey": "coindesk",
         "priority": 3,
         "image": null,
-        "relevanceScore": 5,
+        "relevanceScore": 2,
         "matchedKeywords": [
           "regulation",
           "crypto regulation"
         ],
-        "category": "regulation"
-      }
-    ],
-    "business": [
-      {
-        "title": "Melinda French Gates on Leading With Integrity",
-        "link": "https://www.bloomberg.com/news/videos/2026-03-16/melinda-french-gates-on-leading-with-integrity-video",
-        "description": "Having navigated some of life’s most defining transitions, Melinda French Gates reflects on the choices that set her path—from Microsoft executive to philanthropist and now founder of Pivotal. She shares how values-based leadership, resilience and the courage to embrace “the next day” have guided her through change, power and public scrutiny. (Source: Bloomberg)",
-        "published": "2026-03-16T06:08:09.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "microsoft"
-        ],
-        "category": "business"
+        "category": "crypto",
+        "baseScore": 2
       }
     ]
   },

@@ -15,16 +15,17 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 4,
+      "relevanceScore": 7,
       "matchedKeywords": [
+        "sk hynix",
         "chip",
-        "data center",
-        "tpu"
+        "data center"
       ],
-      "category": "ai"
+      "category": "chips_cloud",
+      "baseScore": 7
     },
     {
-      "title": "Bitcoin slides 5%,  tumbling below $65,000 as whale selling grows and recent buyers lock in losses",
+      "title": "Bitcoin slides 5%, tumbling below $65,000 as whale selling grows and recent buyers lock in losses",
       "link": "https://www.coindesk.com/markets/2026/02/23/bitcoin-slides-4-to-usd65-000-as-whale-selling-grows-and-recent-buyers-lock-in-losses",
       "description": "On-chain data from Glassnode and CryptoQuant shows large holders dominating exchange inflows while short-term investors continue to sell at a loss, pointing to a fragile base-building phase.",
       "published": "2026-02-23T01:49:11.000Z",
@@ -32,16 +33,16 @@
       "sourceKey": "coindesk",
       "priority": 3,
       "image": null,
-      "relevanceScore": 4,
+      "relevanceScore": 1,
       "matchedKeywords": [
-        "agi",
         "bitcoin"
       ],
-      "category": "crypto"
+      "category": "crypto",
+      "baseScore": 1
     }
   ],
   "byCategory": {
-    "ai": [
+    "chips_cloud": [
       {
         "title": "SK Hynix Boss Pledges to Boost Output of AI Memory Chips",
         "link": "https://www.bloomberg.com/news/articles/2026-02-23/sk-hynix-boss-pledges-to-boost-output-of-ai-memory-chips",
@@ -51,18 +52,19 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 7,
         "matchedKeywords": [
+          "sk hynix",
           "chip",
-          "data center",
-          "tpu"
+          "data center"
         ],
-        "category": "ai"
+        "category": "chips_cloud",
+        "baseScore": 7
       }
     ],
     "crypto": [
       {
-        "title": "Bitcoin slides 5%,  tumbling below $65,000 as whale selling grows and recent buyers lock in losses",
+        "title": "Bitcoin slides 5%, tumbling below $65,000 as whale selling grows and recent buyers lock in losses",
         "link": "https://www.coindesk.com/markets/2026/02/23/bitcoin-slides-4-to-usd65-000-as-whale-selling-grows-and-recent-buyers-lock-in-losses",
         "description": "On-chain data from Glassnode and CryptoQuant shows large holders dominating exchange inflows while short-term investors continue to sell at a loss, pointing to a fragile base-building phase.",
         "published": "2026-02-23T01:49:11.000Z",
@@ -70,12 +72,12 @@
         "sourceKey": "coindesk",
         "priority": 3,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 1,
         "matchedKeywords": [
-          "agi",
           "bitcoin"
         ],
-        "category": "crypto"
+        "category": "crypto",
+        "baseScore": 1
       }
     ]
   },

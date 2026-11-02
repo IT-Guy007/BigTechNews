@@ -7,23 +7,6 @@
   "generatedAt": "2026-05-11T10:05:07.802Z",
   "highlights": [
     {
-      "title": "Amazon Prepares to Issue Its First Swiss Franc Bond in AI Push",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-11/amazon-prepares-to-issue-its-first-swiss-franc-bond-in-ai-push",
-      "description": "Amazon.com, Inc. is preparing to issue Swiss franc bonds for the first time, as Big Tech hyperscalers turn to new debt markets to fund artificial intelligence spending.",
-      "published": "2026-05-11T09:04:39.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 8,
-      "matchedKeywords": [
-        "amazon",
-        "intel",
-        "artificial intelligence"
-      ],
-      "category": "ai"
-    },
-    {
       "title": "SoftBank Preps Forays Into AI Data Center Batteries and Chips",
       "link": "https://www.bloomberg.com/news/articles/2026-05-11/softbank-plans-to-make-large-scale-batteries-for-ai-data-centers",
       "description": "SoftBank Group Corp.’s mobile unit plans to expand into selling AI computing power and the manufacture of large-scale battery cells to address growing demand for AI-related hardware.",
@@ -38,39 +21,25 @@
         "chip",
         "data center"
       ],
-      "category": "ai"
+      "category": "chips_cloud",
+      "baseScore": 7
     },
     {
-      "title": "Goldman Sees ‘AI-Driven Super Surplus’ Swelling in Korea, Taiwan",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-11/goldman-sees-rates-pressure-as-ai-fuels-k-shaped-korea-taiwan",
-      "description": "South Korea and Taiwan’s artificial intelligence-fueled chip booms are set to swell both economies’ current-account surpluses to fresh records and pressure their central banks to raise interest rates later this year.",
-      "published": "2026-05-11T04:26:54.000Z",
+      "title": "Amazon Prepares to Issue Its First Swiss Franc Bond in AI Push",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-11/amazon-prepares-to-issue-its-first-swiss-franc-bond-in-ai-push",
+      "description": "Amazon.com, Inc. is preparing to issue Swiss franc bonds for the first time, as Big Tech hyperscalers turn to new debt markets to fund artificial intelligence spending.",
+      "published": "2026-05-11T09:04:39.000Z",
       "source": "Bloomberg",
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 5,
+      "relevanceScore": 6,
       "matchedKeywords": [
-        "intel",
-        "artificial intelligence",
-        "chip"
+        "amazon",
+        "artificial intelligence"
       ],
-      "category": "ai"
-    },
-    {
-      "title": "South Korea Exploring Using Hyundai Robots as Army Numbers Fall",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-11/south-korea-exploring-using-hyundai-robots-as-army-numbers-fall",
-      "description": "South Korea’s military is exploring a strategic partnership with Hyundai Motor Co. to potentially deploy robotics to the front lines as Seoul accelerates investment in AI-powered, unmanned systems to tackle a deepening troop shortage.",
-      "published": "2026-05-11T04:00:27.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 5,
-      "matchedKeywords": [
-        "arm"
-      ],
-      "category": "robotics"
+      "category": "ai",
+      "baseScore": 6
     },
     {
       "title": "ASIA IN BRIEF: China’s agentic AI policy wants to keep humans in the loop",
@@ -87,7 +56,25 @@
         "baidu",
         "chip"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 5
+    },
+    {
+      "title": "Goldman Sees ‘AI-Driven Super Surplus’ Swelling in Korea, Taiwan",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-11/goldman-sees-rates-pressure-as-ai-fuels-k-shaped-korea-taiwan",
+      "description": "South Korea and Taiwan’s artificial intelligence-fueled chip booms are set to swell both economies’ current-account surpluses to fresh records and pressure their central banks to raise interest rates later this year.",
+      "published": "2026-05-11T04:26:54.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 3,
+      "matchedKeywords": [
+        "artificial intelligence",
+        "chip"
+      ],
+      "category": "ai",
+      "baseScore": 3
     },
     {
       "title": "A $400 AI Bet That’s Actually a High-Stakes Wager on the Future of Work",
@@ -98,28 +85,12 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 4,
+      "relevanceScore": 2,
       "matchedKeywords": [
-        "intel",
         "artificial intelligence"
       ],
-      "category": "ai"
-    },
-    {
-      "title": "Emerging-Market Stocks Set for Record High on Technology Rally",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-11/emerging-stocks-set-to-close-at-record-high-on-tech-bets",
-      "description": "Emerging-market equities rose, with artificial intelligence-related stocks keeping the benchmark buoyant as stalled peace talks between the US and Iran pushed up oil prices. Most developing-nation currencies weakened against the dollar.",
-      "published": "2026-05-11T05:27:57.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "intel",
-        "artificial intelligence"
-      ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 2
     },
     {
       "title": "JPMorgan Says Equities at All-Time Highs 'Make Sense'",
@@ -130,12 +101,28 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 4,
+      "relevanceScore": 2,
       "matchedKeywords": [
-        "intel",
         "artificial intelligence"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 2
+    },
+    {
+      "title": "Emerging-Market Stocks Set for Record High on Technology Rally",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-11/emerging-stocks-set-to-close-at-record-high-on-tech-bets",
+      "description": "Emerging-market equities rose, with artificial intelligence-related stocks keeping the benchmark buoyant as stalled peace talks between the US and Iran pushed up oil prices. Most developing-nation currencies weakened against the dollar.",
+      "published": "2026-05-11T05:27:57.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 2,
+      "matchedKeywords": [
+        "artificial intelligence"
+      ],
+      "category": "business",
+      "baseScore": 2
     },
     {
       "title": "Pictet Fund Plows 30% of Cash Into AI Stocks on Risk Revival",
@@ -146,12 +133,12 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 4,
+      "relevanceScore": 2,
       "matchedKeywords": [
-        "intel",
         "billion"
       ],
-      "category": "ai"
+      "category": "business",
+      "baseScore": 2
     },
     {
       "title": "Africa’s CEOs Warn Online Gambling Is Draining Customer Wallets",
@@ -162,32 +149,30 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 4,
+      "relevanceScore": 2,
       "matchedKeywords": [
         "ceo"
       ],
-      "category": "ai"
+      "category": "business",
+      "baseScore": 2
+    },
+    {
+      "title": "South Korea Exploring Using Hyundai Robots as Army Numbers Fall",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-11/south-korea-exploring-using-hyundai-robots-as-army-numbers-fall",
+      "description": "South Korea’s military is exploring a strategic partnership with Hyundai Motor Co. to potentially deploy robotics to the front lines as Seoul accelerates investment in AI-powered, unmanned systems to tackle a deepening troop shortage.",
+      "published": "2026-05-11T04:00:27.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 1,
+      "matchedKeywords": [],
+      "category": "robotics",
+      "baseScore": 1
     }
   ],
   "byCategory": {
-    "ai": [
-      {
-        "title": "Amazon Prepares to Issue Its First Swiss Franc Bond in AI Push",
-        "link": "https://www.bloomberg.com/news/articles/2026-05-11/amazon-prepares-to-issue-its-first-swiss-franc-bond-in-ai-push",
-        "description": "Amazon.com, Inc. is preparing to issue Swiss franc bonds for the first time, as Big Tech hyperscalers turn to new debt markets to fund artificial intelligence spending.",
-        "published": "2026-05-11T09:04:39.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 8,
-        "matchedKeywords": [
-          "amazon",
-          "intel",
-          "artificial intelligence"
-        ],
-        "category": "ai"
-      },
+    "chips_cloud": [
       {
         "title": "SoftBank Preps Forays Into AI Data Center Batteries and Chips",
         "link": "https://www.bloomberg.com/news/articles/2026-05-11/softbank-plans-to-make-large-scale-batteries-for-ai-data-centers",
@@ -203,24 +188,27 @@
           "chip",
           "data center"
         ],
-        "category": "ai"
-      },
+        "category": "chips_cloud",
+        "baseScore": 7
+      }
+    ],
+    "ai": [
       {
-        "title": "Goldman Sees ‘AI-Driven Super Surplus’ Swelling in Korea, Taiwan",
-        "link": "https://www.bloomberg.com/news/articles/2026-05-11/goldman-sees-rates-pressure-as-ai-fuels-k-shaped-korea-taiwan",
-        "description": "South Korea and Taiwan’s artificial intelligence-fueled chip booms are set to swell both economies’ current-account surpluses to fresh records and pressure their central banks to raise interest rates later this year.",
-        "published": "2026-05-11T04:26:54.000Z",
+        "title": "Amazon Prepares to Issue Its First Swiss Franc Bond in AI Push",
+        "link": "https://www.bloomberg.com/news/articles/2026-05-11/amazon-prepares-to-issue-its-first-swiss-franc-bond-in-ai-push",
+        "description": "Amazon.com, Inc. is preparing to issue Swiss franc bonds for the first time, as Big Tech hyperscalers turn to new debt markets to fund artificial intelligence spending.",
+        "published": "2026-05-11T09:04:39.000Z",
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 5,
+        "relevanceScore": 6,
         "matchedKeywords": [
-          "intel",
-          "artificial intelligence",
-          "chip"
+          "amazon",
+          "artificial intelligence"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 6
       },
       {
         "title": "ASIA IN BRIEF: China’s agentic AI policy wants to keep humans in the loop",
@@ -237,7 +225,25 @@
           "baidu",
           "chip"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 5
+      },
+      {
+        "title": "Goldman Sees ‘AI-Driven Super Surplus’ Swelling in Korea, Taiwan",
+        "link": "https://www.bloomberg.com/news/articles/2026-05-11/goldman-sees-rates-pressure-as-ai-fuels-k-shaped-korea-taiwan",
+        "description": "South Korea and Taiwan’s artificial intelligence-fueled chip booms are set to swell both economies’ current-account surpluses to fresh records and pressure their central banks to raise interest rates later this year.",
+        "published": "2026-05-11T04:26:54.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "artificial intelligence",
+          "chip"
+        ],
+        "category": "ai",
+        "baseScore": 3
       },
       {
         "title": "A $400 AI Bet That’s Actually a High-Stakes Wager on the Future of Work",
@@ -248,28 +254,12 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 2,
         "matchedKeywords": [
-          "intel",
           "artificial intelligence"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "Emerging-Market Stocks Set for Record High on Technology Rally",
-        "link": "https://www.bloomberg.com/news/articles/2026-05-11/emerging-stocks-set-to-close-at-record-high-on-tech-bets",
-        "description": "Emerging-market equities rose, with artificial intelligence-related stocks keeping the benchmark buoyant as stalled peace talks between the US and Iran pushed up oil prices. Most developing-nation currencies weakened against the dollar.",
-        "published": "2026-05-11T05:27:57.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "intel",
-          "artificial intelligence"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 2
       },
       {
         "title": "JPMorgan Says Equities at All-Time Highs 'Make Sense'",
@@ -280,12 +270,30 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 2,
         "matchedKeywords": [
-          "intel",
           "artificial intelligence"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 2
+      }
+    ],
+    "business": [
+      {
+        "title": "Emerging-Market Stocks Set for Record High on Technology Rally",
+        "link": "https://www.bloomberg.com/news/articles/2026-05-11/emerging-stocks-set-to-close-at-record-high-on-tech-bets",
+        "description": "Emerging-market equities rose, with artificial intelligence-related stocks keeping the benchmark buoyant as stalled peace talks between the US and Iran pushed up oil prices. Most developing-nation currencies weakened against the dollar.",
+        "published": "2026-05-11T05:27:57.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 2,
+        "matchedKeywords": [
+          "artificial intelligence"
+        ],
+        "category": "business",
+        "baseScore": 2
       },
       {
         "title": "Pictet Fund Plows 30% of Cash Into AI Stocks on Risk Revival",
@@ -296,12 +304,12 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 2,
         "matchedKeywords": [
-          "intel",
           "billion"
         ],
-        "category": "ai"
+        "category": "business",
+        "baseScore": 2
       },
       {
         "title": "Africa’s CEOs Warn Online Gambling Is Draining Customer Wallets",
@@ -312,11 +320,12 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 2,
         "matchedKeywords": [
           "ceo"
         ],
-        "category": "ai"
+        "category": "business",
+        "baseScore": 2
       }
     ],
     "robotics": [
@@ -329,13 +338,12 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "arm"
-        ],
-        "category": "robotics"
+        "relevanceScore": 1,
+        "matchedKeywords": [],
+        "category": "robotics",
+        "baseScore": 1
       }
     ]
   },
-  "totalArticles": 11
+  "totalArticles": 10
 }

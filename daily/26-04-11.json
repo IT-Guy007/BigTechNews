@@ -18,16 +18,17 @@
       "relevanceScore": 13,
       "matchedKeywords": [
         "openai",
+        "billion",
         "elon musk",
-        "lawsuit",
-        "billion"
+        "lawsuit"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 13
     },
     {
       "title": "OpenAI says to update Mac apps including ChatGPT and Codex as security precaution",
       "link": "https://9to5mac.com/2026/04/10/openai-says-to-update-mac-apps-including-chatgpt-and-codex-as-security-precaution/",
-      "description": "OpenAI is asking users of its Mac software to update to the latest releases from today “out of an abundance of caution.” This is due to a security issue with a third-party developer tool, Axios, that was used by OpenAI.\nmore…",
+      "description": "OpenAI is asking users of its Mac software to update to the latest releases from today “out of an abundance of caution.” This is due to a security issue with a third-party developer tool, Axios, that was used by OpenAI. more…",
       "published": "2026-04-11T02:11:37.000Z",
       "source": "9to5Mac",
       "sourceKey": "9to5mac",
@@ -38,7 +39,8 @@
         "openai",
         "chatgpt"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 10
     },
     {
       "title": "Apple Hires Uber’s Asia-Pacific Government Relations Chief",
@@ -54,27 +56,13 @@
         "apple",
         "uber"
       ],
-      "category": "ai"
-    },
-    {
-      "title": "Four astronauts are back home after a daring ride around the Moon",
-      "link": "https://arstechnica.com/space/2026/04/four-astronauts-are-back-home-after-a-daring-ride-around-the-moon/",
-      "description": "\"I can't imagine a better crew that just completed a perfect mission right now.\"",
-      "published": "2026-04-11T01:21:10.000Z",
-      "source": "Ars Technica",
-      "sourceKey": "arstechnica",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "agi"
-      ],
-      "category": null
+      "category": "other",
+      "baseScore": 9
     },
     {
       "title": "App Store fight continues as Apple and Epic clash over court-ordered stay",
       "link": "https://9to5mac.com/2026/04/10/app-store-fight-continues-as-apple-and-epic-clash-over-court-ordered-stay/",
-      "description": "Apple and Epic have filed new requests over whether the court should keep or lift a recent stay in their ongoing App Store legal battle. Here are the details.\nmore…",
+      "description": "Apple and Epic have filed new requests over whether the court should keep or lift a recent stay in their ongoing App Store legal battle. Here are the details. more…",
       "published": "2026-04-11T02:13:41.000Z",
       "source": "9to5Mac",
       "sourceKey": "9to5mac",
@@ -84,7 +72,8 @@
       "matchedKeywords": [
         "apple"
       ],
-      "category": "ai"
+      "category": "regulation",
+      "baseScore": 4
     },
     {
       "title": "Japan Bets $16 Billion to Propel Startup Rapidus Into AI Chips",
@@ -100,7 +89,22 @@
         "chip",
         "billion"
       ],
-      "category": "ai"
+      "category": "chips_cloud",
+      "baseScore": 3
+    },
+    {
+      "title": "Four astronauts are back home after a daring ride around the Moon",
+      "link": "https://arstechnica.com/space/2026/04/four-astronauts-are-back-home-after-a-daring-ride-around-the-moon/",
+      "description": "\"I can't imagine a better crew that just completed a perfect mission right now.\"",
+      "published": "2026-04-11T01:21:10.000Z",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 1,
+      "matchedKeywords": [],
+      "category": "space",
+      "baseScore": 1
     }
   ],
   "byCategory": {
@@ -117,16 +121,17 @@
         "relevanceScore": 13,
         "matchedKeywords": [
           "openai",
+          "billion",
           "elon musk",
-          "lawsuit",
-          "billion"
+          "lawsuit"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 13
       },
       {
         "title": "OpenAI says to update Mac apps including ChatGPT and Codex as security precaution",
         "link": "https://9to5mac.com/2026/04/10/openai-says-to-update-mac-apps-including-chatgpt-and-codex-as-security-precaution/",
-        "description": "OpenAI is asking users of its Mac software to update to the latest releases from today “out of an abundance of caution.” This is due to a security issue with a third-party developer tool, Axios, that was used by OpenAI.\nmore…",
+        "description": "OpenAI is asking users of its Mac software to update to the latest releases from today “out of an abundance of caution.” This is due to a security issue with a third-party developer tool, Axios, that was used by OpenAI. more…",
         "published": "2026-04-11T02:11:37.000Z",
         "source": "9to5Mac",
         "sourceKey": "9to5mac",
@@ -137,8 +142,11 @@
           "openai",
           "chatgpt"
         ],
-        "category": "ai"
-      },
+        "category": "ai",
+        "baseScore": 10
+      }
+    ],
+    "other": [
       {
         "title": "Apple Hires Uber’s Asia-Pacific Government Relations Chief",
         "link": "https://www.bloomberg.com/news/articles/2026-04-11/apple-hires-uber-s-asia-pacific-government-relations-chief",
@@ -153,12 +161,15 @@
           "apple",
           "uber"
         ],
-        "category": "ai"
-      },
+        "category": "other",
+        "baseScore": 9
+      }
+    ],
+    "regulation": [
       {
         "title": "App Store fight continues as Apple and Epic clash over court-ordered stay",
         "link": "https://9to5mac.com/2026/04/10/app-store-fight-continues-as-apple-and-epic-clash-over-court-ordered-stay/",
-        "description": "Apple and Epic have filed new requests over whether the court should keep or lift a recent stay in their ongoing App Store legal battle. Here are the details.\nmore…",
+        "description": "Apple and Epic have filed new requests over whether the court should keep or lift a recent stay in their ongoing App Store legal battle. Here are the details. more…",
         "published": "2026-04-11T02:13:41.000Z",
         "source": "9to5Mac",
         "sourceKey": "9to5mac",
@@ -168,8 +179,11 @@
         "matchedKeywords": [
           "apple"
         ],
-        "category": "ai"
-      },
+        "category": "regulation",
+        "baseScore": 4
+      }
+    ],
+    "chips_cloud": [
       {
         "title": "Japan Bets $16 Billion to Propel Startup Rapidus Into AI Chips",
         "link": "https://www.bloomberg.com/news/articles/2026-04-11/japan-bets-16-billion-to-propel-startup-rapidus-into-ai-chips",
@@ -184,7 +198,24 @@
           "chip",
           "billion"
         ],
-        "category": "ai"
+        "category": "chips_cloud",
+        "baseScore": 3
+      }
+    ],
+    "space": [
+      {
+        "title": "Four astronauts are back home after a daring ride around the Moon",
+        "link": "https://arstechnica.com/space/2026/04/four-astronauts-are-back-home-after-a-daring-ride-around-the-moon/",
+        "description": "\"I can't imagine a better crew that just completed a perfect mission right now.\"",
+        "published": "2026-04-11T01:21:10.000Z",
+        "source": "Ars Technica",
+        "sourceKey": "arstechnica",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 1,
+        "matchedKeywords": [],
+        "category": "space",
+        "baseScore": 1
       }
     ]
   },

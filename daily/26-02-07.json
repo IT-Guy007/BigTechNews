@@ -9,7 +9,7 @@
     {
       "title": "Autonomous, battery-swap mining truck gets big-buck boost from BYD [video]",
       "link": "https://electrek.co/2026/02/07/autonomous-battery-swap-mining-truck-gets-big-buck-boost-from-byd/",
-      "description": "Chinese equipment brand Boonray has developed an autonomous, battery-swapping electric mining truck that it hopes will revolutionize the global mining industry – and global EV leader BYD just gave it a multimillion dollar vote of confidence.\nmore…",
+      "description": "Chinese equipment brand Boonray has developed an autonomous, battery-swapping electric mining truck that it hopes will revolutionize the global mining industry – and global EV leader BYD just gave it a multimillion dollar vote of confidence. more…",
       "published": "2026-02-07T17:17:07.000Z",
       "source": "Electrek",
       "sourceKey": "electrek",
@@ -19,27 +19,13 @@
       "matchedKeywords": [
         "byd"
       ],
-      "category": "ev_autonomous"
-    },
-    {
-      "title": "Why another US state is preparing a 10 mph e-bike speed limit",
-      "link": "https://electrek.co/2026/02/07/why-another-us-state-is-preparing-a-10-mph-e-bike-speed-limit/",
-      "description": "Florida is the latest US state to wade into the increasingly crowded waters of e-bike regulation, with lawmakers advancing a bill that would impose a situational 10 mph (16 km/h) speed limit for e-bikes on shared-use paths. It’s a move that fits squarely into a broader national trend, as states and cities across the country reconsider how electric bikes fit into public spaces that were never designed with fast, motor-assisted travel in mind.\nmore…",
-      "published": "2026-02-07T12:11:00.000Z",
-      "source": "Electrek",
-      "sourceKey": "electrek",
-      "priority": 2,
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2025/05/cop-car-cyclist-header.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "regulation"
-      ],
-      "category": "regulation"
+      "category": "ev_autonomous",
+      "baseScore": 4
     },
     {
       "title": "Tesla exec tells Congress ‘no one has ever’ taken control of its vehicles — but that’s not true",
       "link": "https://electrek.co/2026/02/06/tesla-exec-tells-congress-no-one-has-ever-taken-control-vehicles-but-thats-not-true/",
-      "description": "Tesla Vice President of Vehicle Engineering Lars Moravy told a Senate committee this week that no one has ever remotely taken control of Tesla vehicles. That claim doesn’t hold up to the facts of history.\nIn fact, a single hacker once gained control of Tesla’s entire fleet.\nmore…",
+      "description": "Tesla Vice President of Vehicle Engineering Lars Moravy told a Senate committee this week that no one has ever remotely taken control of Tesla vehicles. That claim doesn’t hold up to the facts of history. In fact, a single hacker once gained control of Tesla’s entire fleet. more…",
       "published": "2026-02-07T00:31:29.000Z",
       "source": "Electrek",
       "sourceKey": "electrek",
@@ -49,7 +35,24 @@
       "matchedKeywords": [
         "tesla"
       ],
-      "category": "ev_autonomous"
+      "category": "regulation",
+      "baseScore": 4
+    },
+    {
+      "title": "Why another US state is preparing a 10 mph e-bike speed limit",
+      "link": "https://electrek.co/2026/02/07/why-another-us-state-is-preparing-a-10-mph-e-bike-speed-limit/",
+      "description": "Florida is the latest US state to wade into the increasingly crowded waters of e-bike regulation, with lawmakers advancing a bill that would impose a situational 10 mph (16 km/h) speed limit for e-bikes on shared-use paths. It’s a move that fits squarely into a broader national trend, as states and cities across the country reconsider how electric bikes fit into public spaces that were never designed with fast, motor-assisted travel in mind. more…",
+      "published": "2026-02-07T12:11:00.000Z",
+      "source": "Electrek",
+      "sourceKey": "electrek",
+      "priority": 2,
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2025/05/cop-car-cyclist-header.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "relevanceScore": 1,
+      "matchedKeywords": [
+        "regulation"
+      ],
+      "category": "regulation",
+      "baseScore": 1
     }
   ],
   "byCategory": {
@@ -57,7 +60,7 @@
       {
         "title": "Autonomous, battery-swap mining truck gets big-buck boost from BYD [video]",
         "link": "https://electrek.co/2026/02/07/autonomous-battery-swap-mining-truck-gets-big-buck-boost-from-byd/",
-        "description": "Chinese equipment brand Boonray has developed an autonomous, battery-swapping electric mining truck that it hopes will revolutionize the global mining industry – and global EV leader BYD just gave it a multimillion dollar vote of confidence.\nmore…",
+        "description": "Chinese equipment brand Boonray has developed an autonomous, battery-swapping electric mining truck that it hopes will revolutionize the global mining industry – and global EV leader BYD just gave it a multimillion dollar vote of confidence. more…",
         "published": "2026-02-07T17:17:07.000Z",
         "source": "Electrek",
         "sourceKey": "electrek",
@@ -67,12 +70,15 @@
         "matchedKeywords": [
           "byd"
         ],
-        "category": "ev_autonomous"
-      },
+        "category": "ev_autonomous",
+        "baseScore": 4
+      }
+    ],
+    "regulation": [
       {
         "title": "Tesla exec tells Congress ‘no one has ever’ taken control of its vehicles — but that’s not true",
         "link": "https://electrek.co/2026/02/06/tesla-exec-tells-congress-no-one-has-ever-taken-control-vehicles-but-thats-not-true/",
-        "description": "Tesla Vice President of Vehicle Engineering Lars Moravy told a Senate committee this week that no one has ever remotely taken control of Tesla vehicles. That claim doesn’t hold up to the facts of history.\nIn fact, a single hacker once gained control of Tesla’s entire fleet.\nmore…",
+        "description": "Tesla Vice President of Vehicle Engineering Lars Moravy told a Senate committee this week that no one has ever remotely taken control of Tesla vehicles. That claim doesn’t hold up to the facts of history. In fact, a single hacker once gained control of Tesla’s entire fleet. more…",
         "published": "2026-02-07T00:31:29.000Z",
         "source": "Electrek",
         "sourceKey": "electrek",
@@ -82,24 +88,24 @@
         "matchedKeywords": [
           "tesla"
         ],
-        "category": "ev_autonomous"
-      }
-    ],
-    "regulation": [
+        "category": "regulation",
+        "baseScore": 4
+      },
       {
         "title": "Why another US state is preparing a 10 mph e-bike speed limit",
         "link": "https://electrek.co/2026/02/07/why-another-us-state-is-preparing-a-10-mph-e-bike-speed-limit/",
-        "description": "Florida is the latest US state to wade into the increasingly crowded waters of e-bike regulation, with lawmakers advancing a bill that would impose a situational 10 mph (16 km/h) speed limit for e-bikes on shared-use paths. It’s a move that fits squarely into a broader national trend, as states and cities across the country reconsider how electric bikes fit into public spaces that were never designed with fast, motor-assisted travel in mind.\nmore…",
+        "description": "Florida is the latest US state to wade into the increasingly crowded waters of e-bike regulation, with lawmakers advancing a bill that would impose a situational 10 mph (16 km/h) speed limit for e-bikes on shared-use paths. It’s a move that fits squarely into a broader national trend, as states and cities across the country reconsider how electric bikes fit into public spaces that were never designed with fast, motor-assisted travel in mind. more…",
         "published": "2026-02-07T12:11:00.000Z",
         "source": "Electrek",
         "sourceKey": "electrek",
         "priority": 2,
         "image": "https://electrek.co/wp-content/uploads/sites/3/2025/05/cop-car-cyclist-header.jpg?quality=82&#038;strip=all&#038;w=1600",
-        "relevanceScore": 4,
+        "relevanceScore": 1,
         "matchedKeywords": [
           "regulation"
         ],
-        "category": "regulation"
+        "category": "regulation",
+        "baseScore": 1
       }
     ]
   },

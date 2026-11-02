@@ -15,12 +15,12 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 4,
+      "relevanceScore": 2,
       "matchedKeywords": [
-        "intel",
         "artificial intelligence"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 2
     },
     {
       "title": "Ripple once weighed shutting down and handing XRP to shareholders, CEO says",
@@ -31,12 +31,13 @@
       "sourceKey": "coindesk",
       "priority": 3,
       "image": null,
-      "relevanceScore": 4,
+      "relevanceScore": 2,
       "matchedKeywords": [
         "ceo",
         "lawsuit"
       ],
-      "category": "chips_cloud"
+      "category": "business",
+      "baseScore": 2
     }
   ],
   "byCategory": {
@@ -50,15 +51,15 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 2,
         "matchedKeywords": [
-          "intel",
           "artificial intelligence"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 2
       }
     ],
-    "chips_cloud": [
+    "business": [
       {
         "title": "Ripple once weighed shutting down and handing XRP to shareholders, CEO says",
         "link": "https://www.coindesk.com/markets/2026/07/12/ripple-once-weighed-shutting-down-and-handing-xrp-to-shareholders-ceo-says",
@@ -68,12 +69,13 @@
         "sourceKey": "coindesk",
         "priority": 3,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 2,
         "matchedKeywords": [
           "ceo",
           "lawsuit"
         ],
-        "category": "chips_cloud"
+        "category": "business",
+        "baseScore": 2
       }
     ]
   },

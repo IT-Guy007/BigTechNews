@@ -15,20 +15,21 @@
       "sourceKey": "techcrunch",
       "priority": 1,
       "image": null,
-      "relevanceScore": 25,
+      "relevanceScore": 23,
       "matchedKeywords": [
         "nvidia",
         "openai",
         "anthropic",
-        "ceo",
-        "jensen huang"
+        "jensen huang",
+        "ceo"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 23
     },
     {
-      "title": "Seven tech giants signed Trump’s pledge to keep electricity costs from spiking around data centers ",
+      "title": "Seven tech giants signed Trump’s pledge to keep electricity costs from spiking around data centers",
       "link": "https://www.theverge.com/news/889578/data-center-power-pledge-white-house-google-meta-microsoft",
-      "description": "Trump summoned tech leaders to the White House on Wednesday, March 4, 2026 to sign pledges committing their companies to foot the electricity bill for energy-hungry data centers.  | Photo: Getty Images\t\n\nLeaders from Google, Meta, Microsoft, Oracle, OpenAI, Amazon, and xAI met with President Donald Trump today to sign a \"rate payer protection pledge.\" It's one way they're responding to growing bipartisan concerns about electricity rates rising as tech companies and the Trump administration rush to build out a new generation of AI data centers. \n\"[Tech companies] need some PR help because people think that if a data center goes in, their electricity prices are going to go up,\" Trump said during the event. \"Some centers were rejected by communities for that and now I think it's going to be the opposite.\"\nTrump signed a proclamation formally  …\nRead the full story at The Verge.",
+      "description": "Trump summoned tech leaders to the White House on Wednesday, March 4, 2026 to sign pledges committing their companies to foot the electricity bill for energy-hungry data centers. | Photo: Getty Images Leaders from Google, Meta, Microsoft, Oracle, OpenAI, Amazon, and xAI met with President Donald Trump today to sign a \"rate payer protection pledge.\" It's one way they're responding to growing bipartisan concerns about electricity rates rising as tech companies and the Trump administration rush to ",
       "published": "2026-03-05T00:17:37.000Z",
       "source": "The Verge",
       "sourceKey": "theverge",
@@ -36,30 +37,15 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2264235364.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "relevanceScore": 19,
       "matchedKeywords": [
+        "data center",
         "google",
         "microsoft",
         "amazon",
         "meta",
         "openai"
       ],
-      "category": "ai"
-    },
-    {
-      "title": "Anthropic and the Pentagon are back at the negotiating table, FT reports ",
-      "link": "https://www.cnbc.com/2026/03/05/anthropic-pentagon-ai-deal-department-of-defense-openai-.html",
-      "description": "Anthropic CEO Dario Amodei is reportedly back at the negotiating table with the U.S. Department of Defense after the breakdown of talks on Friday.",
-      "published": "2026-03-05T06:03:53.000Z",
-      "source": "CNBC",
-      "sourceKey": "cnbc_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 14,
-      "matchedKeywords": [
-        "anthropic",
-        "ceo",
-        "dario amodei"
-      ],
-      "category": "ai"
+      "category": "chips_cloud",
+      "baseScore": 19
     },
     {
       "title": "Tech Groups Urge Trump to Drop Anthropic Supply-Chain Risk Label",
@@ -72,12 +58,13 @@
       "image": null,
       "relevanceScore": 14,
       "matchedKeywords": [
+        "anthropic",
         "google",
         "alphabet",
-        "apple",
-        "anthropic"
+        "apple"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 14
     },
     {
       "title": "Anthropic Reopens Talks with Pentagon After Feud Over AI Safety",
@@ -88,18 +75,38 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
+      "relevanceScore": 13,
+      "matchedKeywords": [
+        "anthropic",
+        "ai safety",
+        "dario amodei",
+        "ai model"
+      ],
+      "category": "ai",
+      "baseScore": 13
+    },
+    {
+      "title": "Anthropic and the Pentagon are back at the negotiating table, FT reports",
+      "link": "https://www.cnbc.com/2026/03/05/anthropic-pentagon-ai-deal-department-of-defense-openai-.html",
+      "description": "Anthropic CEO Dario Amodei is reportedly back at the negotiating table with the U.S. Department of Defense after the breakdown of talks on Friday.",
+      "published": "2026-03-05T06:03:53.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
       "relevanceScore": 12,
       "matchedKeywords": [
         "anthropic",
         "dario amodei",
-        "ai safety"
+        "ceo"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 12
     },
     {
       "title": "Industry group representing Apple voices concern to Pentagon over Anthropic ban",
       "link": "https://9to5mac.com/2026/03/04/industry-group-representing-apple-voices-concern-to-pentagon-over-anthropic-ban/",
-      "description": "The Information Technology Industry Council, whose members ​include Apple, sent a letter to the Pentagon addressing Anthropic’s designation as a “supply chain risk.” Here are the details.\nmore…",
+      "description": "The Information Technology Industry Council, whose members ​include Apple, sent a letter to the Pentagon addressing Anthropic’s designation as a “supply chain risk.” Here are the details. more…",
       "published": "2026-03-05T00:49:02.000Z",
       "source": "9to5Mac",
       "sourceKey": "9to5mac",
@@ -110,7 +117,8 @@
         "apple",
         "anthropic"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 11
     },
     {
       "title": "Broadcom CEO Hock Tan sees AI chip revenue 'significantly' above $100 billion next year",
@@ -121,50 +129,18 @@
       "sourceKey": "cnbc_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 10,
-      "matchedKeywords": [
-        "broadcom",
-        "ceo",
-        "chip",
-        "billion"
-      ],
-      "category": "business"
-    },
-    {
-      "title": "SoftBank Group CDS Rises to Near Year-High on S&amp;P Outlook Cut",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-05/softbank-group-cds-rises-to-near-year-high-on-s-p-outlook-cut",
-      "description": "SoftBank Group Corp.’s credit default swaps widened to an 11-month high and remained the widest among Japanese corporates as its heavy investment in artificial intelligence weighs on its credit profile.",
-      "published": "2026-03-05T06:28:24.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
       "relevanceScore": 8,
       "matchedKeywords": [
-        "intel",
-        "softbank",
-        "artificial intelligence"
+        "broadcom",
+        "chip",
+        "ceo",
+        "billion"
       ],
-      "category": "ai"
+      "category": "chips_cloud",
+      "baseScore": 8
     },
     {
-      "title": "French thriller series ‘The Hunt’ premieres on Apple TV after three-month delay",
-      "link": "https://9to5mac.com/2026/03/04/french-thriller-series-the-hunt-premieres-on-apple-tv-after-three-month-delay/",
-      "description": "Following a last-minute delay due to reported allegations of plagiarism, French drama The Hunt was released on Apple TV this Wednesday. Here are the details.\nmore…",
-      "published": "2026-03-05T01:57:00.000Z",
-      "source": "9to5Mac",
-      "sourceKey": "9to5mac",
-      "priority": 2,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/apple-tv-the-hunt.jpeg?quality=82&#038;strip=all&#038;w=1600",
-      "relevanceScore": 7,
-      "matchedKeywords": [
-        "apple",
-        "agi"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": "Broadcom's custom AI chip business stays hot and gives the bulls a much-needed win ",
+      "title": "Broadcom's custom AI chip business stays hot and gives the bulls a much-needed win",
       "link": "https://www.cnbc.com/2026/03/04/broadcoms-custom-ai-chip-business-stays-hot-and-gives-the-bulls-a-much-needed-win-.html",
       "description": "Shares of Broadcom rose about 5% in extended trading after its earnings report underscored the strength of its custom chip business.",
       "published": "2026-03-05T01:54:14.000Z",
@@ -172,12 +148,49 @@
       "sourceKey": "cnbc_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 6,
+      "relevanceScore": 7,
       "matchedKeywords": [
         "broadcom",
-        "chip"
+        "chip",
+        "earnings"
       ],
-      "category": "ai"
+      "category": "chips_cloud",
+      "baseScore": 7
+    },
+    {
+      "title": "SoftBank Group CDS Rises to Near Year-High on S&P Outlook Cut",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-05/softbank-group-cds-rises-to-near-year-high-on-s-p-outlook-cut",
+      "description": "SoftBank Group Corp.’s credit default swaps widened to an 11-month high and remained the widest among Japanese corporates as its heavy investment in artificial intelligence weighs on its credit profile.",
+      "published": "2026-03-05T06:28:24.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 6,
+      "matchedKeywords": [
+        "softbank",
+        "artificial intelligence"
+      ],
+      "category": "ai",
+      "baseScore": 6
+    },
+    {
+      "title": "Musk Says Judge’s Bias Forced Him to Pay Full Price for Twitter",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-05/musk-says-judge-s-bias-forced-him-to-pay-full-price-for-twitter",
+      "description": "Elon Musk testified he had to pay full price to buy Twitter Inc. in 2022 because the Delaware judge in the company’s lawsuit to make him consummate the $44 billion deal was “biased” against him.",
+      "published": "2026-03-05T01:11:21.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 6,
+      "matchedKeywords": [
+        "elon musk",
+        "lawsuit",
+        "billion"
+      ],
+      "category": "regulation",
+      "baseScore": 6
     }
   ],
   "byCategory": {
@@ -191,51 +204,16 @@
         "sourceKey": "techcrunch",
         "priority": 1,
         "image": null,
-        "relevanceScore": 25,
+        "relevanceScore": 23,
         "matchedKeywords": [
           "nvidia",
           "openai",
           "anthropic",
-          "ceo",
-          "jensen huang"
+          "jensen huang",
+          "ceo"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "Seven tech giants signed Trump’s pledge to keep electricity costs from spiking around data centers ",
-        "link": "https://www.theverge.com/news/889578/data-center-power-pledge-white-house-google-meta-microsoft",
-        "description": "Trump summoned tech leaders to the White House on Wednesday, March 4, 2026 to sign pledges committing their companies to foot the electricity bill for energy-hungry data centers.  | Photo: Getty Images\t\n\nLeaders from Google, Meta, Microsoft, Oracle, OpenAI, Amazon, and xAI met with President Donald Trump today to sign a \"rate payer protection pledge.\" It's one way they're responding to growing bipartisan concerns about electricity rates rising as tech companies and the Trump administration rush to build out a new generation of AI data centers. \n\"[Tech companies] need some PR help because people think that if a data center goes in, their electricity prices are going to go up,\" Trump said during the event. \"Some centers were rejected by communities for that and now I think it's going to be the opposite.\"\nTrump signed a proclamation formally  …\nRead the full story at The Verge.",
-        "published": "2026-03-05T00:17:37.000Z",
-        "source": "The Verge",
-        "sourceKey": "theverge",
-        "priority": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2264235364.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "relevanceScore": 19,
-        "matchedKeywords": [
-          "google",
-          "microsoft",
-          "amazon",
-          "meta",
-          "openai"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Anthropic and the Pentagon are back at the negotiating table, FT reports ",
-        "link": "https://www.cnbc.com/2026/03/05/anthropic-pentagon-ai-deal-department-of-defense-openai-.html",
-        "description": "Anthropic CEO Dario Amodei is reportedly back at the negotiating table with the U.S. Department of Defense after the breakdown of talks on Friday.",
-        "published": "2026-03-05T06:03:53.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 14,
-        "matchedKeywords": [
-          "anthropic",
-          "ceo",
-          "dario amodei"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 23
       },
       {
         "title": "Tech Groups Urge Trump to Drop Anthropic Supply-Chain Risk Label",
@@ -248,12 +226,13 @@
         "image": null,
         "relevanceScore": 14,
         "matchedKeywords": [
+          "anthropic",
           "google",
           "alphabet",
-          "apple",
-          "anthropic"
+          "apple"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 14
       },
       {
         "title": "Anthropic Reopens Talks with Pentagon After Feud Over AI Safety",
@@ -264,18 +243,38 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
+        "relevanceScore": 13,
+        "matchedKeywords": [
+          "anthropic",
+          "ai safety",
+          "dario amodei",
+          "ai model"
+        ],
+        "category": "ai",
+        "baseScore": 13
+      },
+      {
+        "title": "Anthropic and the Pentagon are back at the negotiating table, FT reports",
+        "link": "https://www.cnbc.com/2026/03/05/anthropic-pentagon-ai-deal-department-of-defense-openai-.html",
+        "description": "Anthropic CEO Dario Amodei is reportedly back at the negotiating table with the U.S. Department of Defense after the breakdown of talks on Friday.",
+        "published": "2026-03-05T06:03:53.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
         "relevanceScore": 12,
         "matchedKeywords": [
           "anthropic",
           "dario amodei",
-          "ai safety"
+          "ceo"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 12
       },
       {
         "title": "Industry group representing Apple voices concern to Pentagon over Anthropic ban",
         "link": "https://9to5mac.com/2026/03/04/industry-group-representing-apple-voices-concern-to-pentagon-over-anthropic-ban/",
-        "description": "The Information Technology Industry Council, whose members ​include Apple, sent a letter to the Pentagon addressing Anthropic’s designation as a “supply chain risk.” Here are the details.\nmore…",
+        "description": "The Information Technology Industry Council, whose members ​include Apple, sent a letter to the Pentagon addressing Anthropic’s designation as a “supply chain risk.” Here are the details. more…",
         "published": "2026-03-05T00:49:02.000Z",
         "source": "9to5Mac",
         "sourceKey": "9to5mac",
@@ -286,10 +285,11 @@
           "apple",
           "anthropic"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 11
       },
       {
-        "title": "SoftBank Group CDS Rises to Near Year-High on S&amp;P Outlook Cut",
+        "title": "SoftBank Group CDS Rises to Near Year-High on S&P Outlook Cut",
         "link": "https://www.bloomberg.com/news/articles/2026-03-05/softbank-group-cds-rises-to-near-year-high-on-s-p-outlook-cut",
         "description": "SoftBank Group Corp.’s credit default swaps widened to an 11-month high and remained the widest among Japanese corporates as its heavy investment in artificial intelligence weighs on its credit profile.",
         "published": "2026-03-05T06:28:24.000Z",
@@ -297,45 +297,13 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 8,
+        "relevanceScore": 6,
         "matchedKeywords": [
-          "intel",
           "softbank",
           "artificial intelligence"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "French thriller series ‘The Hunt’ premieres on Apple TV after three-month delay",
-        "link": "https://9to5mac.com/2026/03/04/french-thriller-series-the-hunt-premieres-on-apple-tv-after-three-month-delay/",
-        "description": "Following a last-minute delay due to reported allegations of plagiarism, French drama The Hunt was released on Apple TV this Wednesday. Here are the details.\nmore…",
-        "published": "2026-03-05T01:57:00.000Z",
-        "source": "9to5Mac",
-        "sourceKey": "9to5mac",
-        "priority": 2,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/apple-tv-the-hunt.jpeg?quality=82&#038;strip=all&#038;w=1600",
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "apple",
-          "agi"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Broadcom's custom AI chip business stays hot and gives the bulls a much-needed win ",
-        "link": "https://www.cnbc.com/2026/03/04/broadcoms-custom-ai-chip-business-stays-hot-and-gives-the-bulls-a-much-needed-win-.html",
-        "description": "Shares of Broadcom rose about 5% in extended trading after its earnings report underscored the strength of its custom chip business.",
-        "published": "2026-03-05T01:54:14.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 6,
-        "matchedKeywords": [
-          "broadcom",
-          "chip"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 6
       },
       {
         "title": "US Military Relying on AI as Key Tool to Speed Iran Operations",
@@ -346,43 +314,72 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 2,
         "matchedKeywords": [
-          "intel",
           "artificial intelligence"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 2
+      }
+    ],
+    "chips_cloud": [
+      {
+        "title": "Seven tech giants signed Trump’s pledge to keep electricity costs from spiking around data centers",
+        "link": "https://www.theverge.com/news/889578/data-center-power-pledge-white-house-google-meta-microsoft",
+        "description": "Trump summoned tech leaders to the White House on Wednesday, March 4, 2026 to sign pledges committing their companies to foot the electricity bill for energy-hungry data centers. | Photo: Getty Images Leaders from Google, Meta, Microsoft, Oracle, OpenAI, Amazon, and xAI met with President Donald Trump today to sign a \"rate payer protection pledge.\" It's one way they're responding to growing bipartisan concerns about electricity rates rising as tech companies and the Trump administration rush to ",
+        "published": "2026-03-05T00:17:37.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2264235364.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "relevanceScore": 19,
+        "matchedKeywords": [
+          "data center",
+          "google",
+          "microsoft",
+          "amazon",
+          "meta",
+          "openai"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 19
       },
       {
-        "title": "macOS Will Alert You to MacBook Neo's USB-C Port Limitation",
-        "link": "https://www.macrumors.com/2026/03/04/macbook-neo-usb-c-port-limitation/",
-        "description": "The new MacBook Neo is equipped with two USB-C ports, but they are not the same. The left USB-C port supports USB 3 speeds of up to 10 Gb/s, while the right USB-C port closer to the trackpad is limited to USB 2 speeds of just 480 Mb/s. As a result, Apple says external display connectivity is supported on the left port only.\r\n\r\n\r\nGiven the ports are not labeled, this limitation could be an inconvenience. Fortunately, though, Daring Fireball's John Gruber said if you plug an external display into the incorrect port, macOS will alert you to use the other port.\r\n\r\nsupports one external display with up to 4K resolution at 60Hz.\r\n\r\nin-depth list of compromises.\r\n\r\nRelated Roundup: MacBook Neo\nThis article, \"macOS Will Alert You to MacBook Neo's USB-C Port Limitation\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-        "published": "2026-03-05T01:24:11.000Z",
-        "source": "MacRumors",
-        "sourceKey": "macrumors",
-        "priority": 2,
-        "image": "https://images.macrumors.com/article-new/2026/03/macbook-neo-ports.jpg",
-        "relevanceScore": 4,
+        "title": "Broadcom CEO Hock Tan sees AI chip revenue 'significantly' above $100 billion next year",
+        "link": "https://www.cnbc.com/2026/03/04/broadcom-sees-ai-chip-sales-significantly-over-100-billion-in-2027.html",
+        "description": "Broadcom reported that AI revenue more than doubled in the latest quarter and is projecting continued growth as demand soars.",
+        "published": "2026-03-05T01:45:15.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 8,
         "matchedKeywords": [
-          "apple",
-          "uber"
+          "broadcom",
+          "chip",
+          "ceo",
+          "billion"
         ],
-        "category": "ai"
+        "category": "chips_cloud",
+        "baseScore": 8
       },
       {
-        "title": "Apple Does Not Include a Charger With All New MacBooks in UK and EU",
-        "link": "https://www.macrumors.com/2026/03/04/macbook-neo-no-charger-in-uk-or-eu/",
-        "description": "None of the new MacBook Neo, MacBook Air, or MacBook Pro models unveiled this week come with a charger in the UK and EU countries, such as Germany, France, Italy, and Spain. This change began with the base 14-inch MacBook Pro last year.\r\n\r\n\r\nIf you need a power adapter, you must purchase one separately during checkout or later.\r\n\r\nIn all other countries, Apple includes a charger in the box with these Macs, at no additional cost. In the U.S., for example, the MacBook Neo ships with Apple's 20W USB-C Power Adapter (sold separately for $19), while the 16-inch MacBook Pro comes with Apple's 140W USB-C Power Adapter (sold separately for $99).\r\n\r\nRelated Roundups: MacBook Air, MacBook Neo, MacBook Pro\nBuyer's Guide: 15\" MacBook Air (Buy Now), MacBook Pro (Buy Now), 13\" MacBook Air (Buy Now)\nRelated Forums: MacBook Air, MacBook Pro\nThis article, \"Apple Does Not Include a Charger With All New MacBooks in UK and EU\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-        "published": "2026-03-05T00:55:55.000Z",
-        "source": "MacRumors",
-        "sourceKey": "macrumors",
-        "priority": 2,
-        "image": "https://images.macrumors.com/article-new/2026/03/MacBook-Neo-Feature-Pastel-1.jpg",
-        "relevanceScore": 4,
+        "title": "Broadcom's custom AI chip business stays hot and gives the bulls a much-needed win",
+        "link": "https://www.cnbc.com/2026/03/04/broadcoms-custom-ai-chip-business-stays-hot-and-gives-the-bulls-a-much-needed-win-.html",
+        "description": "Shares of Broadcom rose about 5% in extended trading after its earnings report underscored the strength of its custom chip business.",
+        "published": "2026-03-05T01:54:14.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 7,
         "matchedKeywords": [
-          "apple"
+          "broadcom",
+          "chip",
+          "earnings"
         ],
-        "category": "ai"
+        "category": "chips_cloud",
+        "baseScore": 7
       },
       {
         "title": "Broadcom says AI companies can’t make their own silicon any time soon",
@@ -397,43 +394,8 @@
         "matchedKeywords": [
           "broadcom"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "Bitcoin tops $72,000 as ETFs pull $155 million, extending two week inflow streak",
-        "link": "https://www.coindesk.com/markets/2026/03/05/bitcoin-tops-usd72k-as-etfs-pull-usd155-million-extending-two-week-inflow-streak",
-        "description": "U.S. spot bitcoin ETFs added another $155 Million on Wednesday, continuing a two week run of institutional inflows even as Glassnode warns underlying demand remains fragile.",
-        "published": "2026-03-05T06:02:56.000Z",
-        "source": "CoinDesk",
-        "sourceKey": "coindesk",
-        "priority": 3,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "agi",
-          "bitcoin"
-        ],
-        "category": "ai"
-      }
-    ],
-    "business": [
-      {
-        "title": "Broadcom CEO Hock Tan sees AI chip revenue 'significantly' above $100 billion next year",
-        "link": "https://www.cnbc.com/2026/03/04/broadcom-sees-ai-chip-sales-significantly-over-100-billion-in-2027.html",
-        "description": "Broadcom reported that AI revenue more than doubled in the latest quarter and is projecting continued growth as demand soars.",
-        "published": "2026-03-05T01:45:15.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 10,
-        "matchedKeywords": [
-          "broadcom",
-          "ceo",
-          "chip",
-          "billion"
-        ],
-        "category": "business"
+        "category": "chips_cloud",
+        "baseScore": 4
       }
     ],
     "regulation": [
@@ -452,26 +414,96 @@
           "lawsuit",
           "billion"
         ],
-        "category": "regulation"
+        "category": "regulation",
+        "baseScore": 6
       }
     ],
-    "ev_autonomous": [
+    "devices": [
+      {
+        "title": "French thriller series ‘The Hunt’ premieres on Apple TV after three-month delay",
+        "link": "https://9to5mac.com/2026/03/04/french-thriller-series-the-hunt-premieres-on-apple-tv-after-three-month-delay/",
+        "description": "Following a last-minute delay due to reported allegations of plagiarism, French drama The Hunt was released on Apple TV this Wednesday. Here are the details. more…",
+        "published": "2026-03-05T01:57:00.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/apple-tv-the-hunt.jpeg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices",
+        "baseScore": 4
+      },
+      {
+        "title": "Apple Does Not Include a Charger With All New MacBooks in UK and EU",
+        "link": "https://www.macrumors.com/2026/03/04/macbook-neo-no-charger-in-uk-or-eu/",
+        "description": "None of the new MacBook Neo, MacBook Air, or MacBook Pro models unveiled this week come with a charger in the UK and EU countries, such as Germany, France, Italy, and Spain. This change began with the base 14-inch MacBook Pro last year. If you need a power adapter, you must purchase one separately during checkout or later. In all other countries, Apple includes a charger in the box with these Macs, at no additional cost. In the U.S., for example, the MacBook Neo ships with Apple's 20W USB-C Powe",
+        "published": "2026-03-05T00:55:55.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/03/MacBook-Neo-Feature-Pastel-1.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices",
+        "baseScore": 4
+      },
+      {
+        "title": "macOS Will Alert You to MacBook Neo's USB-C Port Limitation",
+        "link": "https://www.macrumors.com/2026/03/04/macbook-neo-usb-c-port-limitation/",
+        "description": "The new MacBook Neo is equipped with two USB-C ports, but they are not the same. The left USB-C port supports USB 3 speeds of up to 10 Gb/s, while the right USB-C port closer to the trackpad is limited to USB 2 speeds of just 480 Mb/s. As a result, Apple says external display connectivity is supported on the left port only. Given the ports are not labeled, this limitation could be an inconvenience. Fortunately, though, Daring Fireball's John Gruber said if you plug an external display into the i",
+        "published": "2026-03-05T01:24:11.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/03/macbook-neo-ports.jpg",
+        "relevanceScore": 2,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices",
+        "baseScore": 2
+      }
+    ],
+    "business": [
       {
         "title": "Did Live Nation punish a venue by taking Billie Eilish away?",
         "link": "https://www.theverge.com/policy/889720/live-nation-ticketmaster-trial-doj-barclays-center-threats",
-        "description": "John Abbamondi had orders to let the CEO of Ticketmaster down easy.\nIn April 2021, Abbamondi was the CEO of BSE Global, the company that ran Brooklyn arena the Barclays Center. BSE Global's existing Ticketmaster contract would expire at the end of September, and Abbamondi and his team had evaluated proposals from SeatGeek, AXS, and Ticketmaster. The economics of Ticketmaster offer, according to Abbamondi, \"was nowhere near as good as the other two.\" SeatGeek's technology was \"superior\" to Ticketmaster's on balance, on top of better financial terms including an equity stake in the company, the arena decided. It clinched their decision to go  …\nRead the full story at The Verge.",
+        "description": "John Abbamondi had orders to let the CEO of Ticketmaster down easy. In April 2021, Abbamondi was the CEO of BSE Global, the company that ran Brooklyn arena the Barclays Center. BSE Global's existing Ticketmaster contract would expire at the end of September, and Abbamondi and his team had evaluated proposals from SeatGeek, AXS, and Ticketmaster. The economics of Ticketmaster offer, according to Abbamondi, \"was nowhere near as good as the other two.\" SeatGeek's technology was \"superior\" to Ticket",
         "published": "2026-03-05T02:21:41.000Z",
         "source": "The Verge",
         "sourceKey": "theverge",
         "priority": 1,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK268_TICKETMASTER_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "relevanceScore": 4,
+        "relevanceScore": 2,
         "matchedKeywords": [
           "ceo"
         ],
-        "category": "ev_autonomous"
+        "category": "business",
+        "baseScore": 2
+      }
+    ],
+    "crypto": [
+      {
+        "title": "Bitcoin tops $72,000 as ETFs pull $155 million, extending two week inflow streak",
+        "link": "https://www.coindesk.com/markets/2026/03/05/bitcoin-tops-usd72k-as-etfs-pull-usd155-million-extending-two-week-inflow-streak",
+        "description": "U.S. spot bitcoin ETFs added another $155 Million on Wednesday, continuing a two week run of institutional inflows even as Glassnode warns underlying demand remains fragile.",
+        "published": "2026-03-05T06:02:56.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 1,
+        "matchedKeywords": [
+          "bitcoin"
+        ],
+        "category": "crypto",
+        "baseScore": 1
       }
     ]
   },
-  "totalArticles": 18
+  "totalArticles": 17
 }

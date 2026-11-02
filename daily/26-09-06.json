@@ -20,11 +20,12 @@
         "uber",
         "antitrust"
       ],
-      "category": "ai"
+      "category": "regulation",
+      "baseScore": 9
     }
   ],
   "byCategory": {
-    "ai": [
+    "regulation": [
       {
         "title": "Nigeria’s Antitrust Agency Probes Uber’s Exit From Country",
         "link": "https://www.bloomberg.com/news/articles/2026-09-06/nigeria-s-antitrust-agency-probes-uber-s-exit-from-country",
@@ -39,7 +40,8 @@
           "uber",
           "antitrust"
         ],
-        "category": "ai"
+        "category": "regulation",
+        "baseScore": 9
       }
     ]
   },

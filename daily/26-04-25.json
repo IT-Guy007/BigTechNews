@@ -21,29 +21,13 @@
         "data center",
         "billion"
       ],
-      "category": "chips_cloud"
-    },
-    {
-      "title": "AI Chip Surge Elevates Taiwan, Korea in Global Equity Rankings",
-      "link": "https://www.bloomberg.com/news/articles/2026-04-25/ai-chip-surge-elevates-taiwan-korea-in-global-equity-rankings",
-      "description": "The artificial intelligence boom has triggered a seismic reshuffling of global equity markets, with Taiwan and South Korea muscling past European nations one by one.",
-      "published": "2026-04-25T00:00:00.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 5,
-      "matchedKeywords": [
-        "intel",
-        "artificial intelligence",
-        "chip"
-      ],
-      "category": "ai"
+      "category": "chips_cloud",
+      "baseScore": 7
     },
     {
       "title": "Tesla offers 1 year of free Supercharging, claims ~40% premium for non-Tesla EVs",
       "link": "https://electrek.co/2026/04/24/tesla-model-3-free-supercharging-non-tesla-pricing-premium/",
-      "description": "Tesla is bringing back free Supercharging for new Model 3 Premium and Performance orders in North America, bundling one year of complimentary charging with new purchases.\nThe automaker also used the announcement to take a shot at non-Tesla EV owners using the Supercharger network, claiming they pay a “~40% premium” — but the actual figure is closer to 30-35% based on available data.\nmore…",
+      "description": "Tesla is bringing back free Supercharging for new Model 3 Premium and Performance orders in North America, bundling one year of complimentary charging with new purchases. The automaker also used the announcement to take a shot at non-Tesla EV owners using the Supercharger network, claiming they pay a “~40% premium” — but the actual figure is closer to 30-35% based on available data. more…",
       "published": "2026-04-25T01:00:21.000Z",
       "source": "Electrek",
       "sourceKey": "electrek",
@@ -53,7 +37,8 @@
       "matchedKeywords": [
         "tesla"
       ],
-      "category": "ev_autonomous"
+      "category": "ev_autonomous",
+      "baseScore": 4
     },
     {
       "title": "China Says US Export Bills Risk Disrupting Chip Supply Chains",
@@ -66,10 +51,28 @@
       "image": null,
       "relevanceScore": 3,
       "matchedKeywords": [
-        "semiconductor",
-        "chip"
+        "chip",
+        "semiconductor"
       ],
-      "category": "ai"
+      "category": "chips_cloud",
+      "baseScore": 3
+    },
+    {
+      "title": "AI Chip Surge Elevates Taiwan, Korea in Global Equity Rankings",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-25/ai-chip-surge-elevates-taiwan-korea-in-global-equity-rankings",
+      "description": "The artificial intelligence boom has triggered a seismic reshuffling of global equity markets, with Taiwan and South Korea muscling past European nations one by one.",
+      "published": "2026-04-25T00:00:00.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 3,
+      "matchedKeywords": [
+        "chip",
+        "artificial intelligence"
+      ],
+      "category": "ai",
+      "baseScore": 3
     }
   ],
   "byCategory": {
@@ -89,26 +92,8 @@
           "data center",
           "billion"
         ],
-        "category": "chips_cloud"
-      }
-    ],
-    "ai": [
-      {
-        "title": "AI Chip Surge Elevates Taiwan, Korea in Global Equity Rankings",
-        "link": "https://www.bloomberg.com/news/articles/2026-04-25/ai-chip-surge-elevates-taiwan-korea-in-global-equity-rankings",
-        "description": "The artificial intelligence boom has triggered a seismic reshuffling of global equity markets, with Taiwan and South Korea muscling past European nations one by one.",
-        "published": "2026-04-25T00:00:00.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "intel",
-          "artificial intelligence",
-          "chip"
-        ],
-        "category": "ai"
+        "category": "chips_cloud",
+        "baseScore": 7
       },
       {
         "title": "China Says US Export Bills Risk Disrupting Chip Supply Chains",
@@ -121,17 +106,18 @@
         "image": null,
         "relevanceScore": 3,
         "matchedKeywords": [
-          "semiconductor",
-          "chip"
+          "chip",
+          "semiconductor"
         ],
-        "category": "ai"
+        "category": "chips_cloud",
+        "baseScore": 3
       }
     ],
     "ev_autonomous": [
       {
         "title": "Tesla offers 1 year of free Supercharging, claims ~40% premium for non-Tesla EVs",
         "link": "https://electrek.co/2026/04/24/tesla-model-3-free-supercharging-non-tesla-pricing-premium/",
-        "description": "Tesla is bringing back free Supercharging for new Model 3 Premium and Performance orders in North America, bundling one year of complimentary charging with new purchases.\nThe automaker also used the announcement to take a shot at non-Tesla EV owners using the Supercharger network, claiming they pay a “~40% premium” — but the actual figure is closer to 30-35% based on available data.\nmore…",
+        "description": "Tesla is bringing back free Supercharging for new Model 3 Premium and Performance orders in North America, bundling one year of complimentary charging with new purchases. The automaker also used the announcement to take a shot at non-Tesla EV owners using the Supercharger network, claiming they pay a “~40% premium” — but the actual figure is closer to 30-35% based on available data. more…",
         "published": "2026-04-25T01:00:21.000Z",
         "source": "Electrek",
         "sourceKey": "electrek",
@@ -141,7 +127,27 @@
         "matchedKeywords": [
           "tesla"
         ],
-        "category": "ev_autonomous"
+        "category": "ev_autonomous",
+        "baseScore": 4
+      }
+    ],
+    "ai": [
+      {
+        "title": "AI Chip Surge Elevates Taiwan, Korea in Global Equity Rankings",
+        "link": "https://www.bloomberg.com/news/articles/2026-04-25/ai-chip-surge-elevates-taiwan-korea-in-global-equity-rankings",
+        "description": "The artificial intelligence boom has triggered a seismic reshuffling of global equity markets, with Taiwan and South Korea muscling past European nations one by one.",
+        "published": "2026-04-25T00:00:00.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "chip",
+          "artificial intelligence"
+        ],
+        "category": "ai",
+        "baseScore": 3
       }
     ]
   },

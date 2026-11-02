@@ -19,7 +19,8 @@
       "matchedKeywords": [
         "anthropic"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 8
     },
     {
       "title": "SpaceX Surge Further Boosts Saudi Billionaire Prince’s Fortune",
@@ -30,27 +31,12 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 6,
-      "matchedKeywords": [
-        "spacex",
-        "billion"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": "Starmer to Meet Japan’s Takaichi as Fighter Jet Funding Sputters",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-14/starmer-to-meet-japan-s-takaichi-as-fighter-jet-funding-sputters",
-      "description": "British Prime Minister Keir Starmer will meet his Japanese counterpart Sanae Takaichi on Sunday as uncertainty mounts over their joint fighter jet program with Italy because of doubts about the UK’s commitment.",
-      "published": "2026-06-14T05:02:00.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
       "relevanceScore": 5,
       "matchedKeywords": [
-        "arm"
+        "spacex"
       ],
-      "category": "ai"
+      "category": "space",
+      "baseScore": 5
     },
     {
       "title": "EU sovereignty push gives tech buyers a new alphabet soup to swallow",
@@ -65,7 +51,22 @@
       "matchedKeywords": [
         "alphabet"
       ],
-      "category": "chips_cloud"
+      "category": "regulation",
+      "baseScore": 4
+    },
+    {
+      "title": "Starmer to Meet Japan’s Takaichi as Fighter Jet Funding Sputters",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-14/starmer-to-meet-japan-s-takaichi-as-fighter-jet-funding-sputters",
+      "description": "British Prime Minister Keir Starmer will meet his Japanese counterpart Sanae Takaichi on Sunday as uncertainty mounts over their joint fighter jet program with Italy because of doubts about the UK’s commitment.",
+      "published": "2026-06-14T05:02:00.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 1,
+      "matchedKeywords": [],
+      "category": "business",
+      "baseScore": 1
     }
   ],
   "byCategory": {
@@ -83,8 +84,11 @@
         "matchedKeywords": [
           "anthropic"
         ],
-        "category": "ai"
-      },
+        "category": "ai",
+        "baseScore": 8
+      }
+    ],
+    "space": [
       {
         "title": "SpaceX Surge Further Boosts Saudi Billionaire Prince’s Fortune",
         "link": "https://www.bloomberg.com/news/articles/2026-06-14/spacex-surge-further-boosts-saudi-billionaire-prince-s-fortune",
@@ -94,30 +98,15 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 6,
-        "matchedKeywords": [
-          "spacex",
-          "billion"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Starmer to Meet Japan’s Takaichi as Fighter Jet Funding Sputters",
-        "link": "https://www.bloomberg.com/news/articles/2026-06-14/starmer-to-meet-japan-s-takaichi-as-fighter-jet-funding-sputters",
-        "description": "British Prime Minister Keir Starmer will meet his Japanese counterpart Sanae Takaichi on Sunday as uncertainty mounts over their joint fighter jet program with Italy because of doubts about the UK’s commitment.",
-        "published": "2026-06-14T05:02:00.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
         "relevanceScore": 5,
         "matchedKeywords": [
-          "arm"
+          "spacex"
         ],
-        "category": "ai"
+        "category": "space",
+        "baseScore": 5
       }
     ],
-    "chips_cloud": [
+    "regulation": [
       {
         "title": "EU sovereignty push gives tech buyers a new alphabet soup to swallow",
         "link": "https://www.theregister.com/off-prem/2026/06/14/eu-sovereignty-push-gives-tech-buyers-a-new-alphabet-soup-to-swallow/5251995",
@@ -131,7 +120,24 @@
         "matchedKeywords": [
           "alphabet"
         ],
-        "category": "chips_cloud"
+        "category": "regulation",
+        "baseScore": 4
+      }
+    ],
+    "business": [
+      {
+        "title": "Starmer to Meet Japan’s Takaichi as Fighter Jet Funding Sputters",
+        "link": "https://www.bloomberg.com/news/articles/2026-06-14/starmer-to-meet-japan-s-takaichi-as-fighter-jet-funding-sputters",
+        "description": "British Prime Minister Keir Starmer will meet his Japanese counterpart Sanae Takaichi on Sunday as uncertainty mounts over their joint fighter jet program with Italy because of doubts about the UK’s commitment.",
+        "published": "2026-06-14T05:02:00.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 1,
+        "matchedKeywords": [],
+        "category": "business",
+        "baseScore": 1
       }
     ]
   },

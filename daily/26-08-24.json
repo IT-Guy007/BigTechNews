@@ -15,14 +15,14 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 9,
+      "relevanceScore": 7,
       "matchedKeywords": [
         "nvidia",
-        "intel",
         "artificial intelligence",
         "chip"
       ],
-      "category": "ai"
+      "category": "chips_cloud",
+      "baseScore": 7
     },
     {
       "title": "Shein targets $27 billion Hong Kong IPO — a fraction of its 2022 valuation",
@@ -33,62 +33,14 @@
       "sourceKey": "cnbc_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 7,
-      "matchedKeywords": [
-        "ipo",
-        "billion",
-        "valuation"
-      ],
-      "category": "business"
-    },
-    {
-      "title": "Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push",
-      "link": "https://www.coindesk.com/business/2026/08/22/stablecoin-neobank-fasset-lands-usd1-billion-valuation-as-sbi-backs-its-payments-push",
-      "description": "The firm raised $68 million as its revenue has grown six-fold as stablecoin payments and settlement expand, CEO Mohammad Raafi Hossain told CoinDesk.",
-      "published": "2026-08-24T04:45:00.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "priority": 3,
-      "image": null,
       "relevanceScore": 6,
       "matchedKeywords": [
-        "ceo",
-        "billion",
+        "ipo",
         "valuation",
-        "stablecoin"
+        "billion"
       ],
-      "category": "business"
-    },
-    {
-      "title": "How the War in Ukraine Changed Modern Warfare",
-      "link": "https://www.bloomberg.com/news/videos/2026-08-24/how-the-war-in-ukraine-changed-modern-warfare-video",
-      "description": "Bloomberg Intelligence's Rod Turnbull discusses how Russia's invasion of Ukraine and the ongoing conflict has changed how countries conduct warfare. He talks about the impact of new technology, drones and artificial intelligence on the military. (Source: Bloomberg)",
-      "published": "2026-08-24T06:13:04.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "intel",
-        "artificial intelligence"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": "New Zealand Joins Global Push to Ban Under-16s From Social Media",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-24/new-zealand-plans-social-media-ban-for-under-16s",
-      "description": "New Zealand plans to ban under-16s from social media, joining a throng of countries worldwide seeking to limit online harm to children.",
-      "published": "2026-08-24T03:30:00.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 3,
-      "matchedKeywords": [
-        "arm"
-      ],
-      "category": "chips_cloud"
+      "category": "business",
+      "baseScore": 6
     },
     {
       "title": "Crypto holds big weekly rally as Warsh’s Jackson Hole debut comes into focus",
@@ -99,16 +51,67 @@
       "sourceKey": "coindesk",
       "priority": 3,
       "image": null,
-      "relevanceScore": 3,
+      "relevanceScore": 5,
       "matchedKeywords": [
         "samsung",
+        "alibaba",
         "bitcoin"
       ],
-      "category": "crypto"
+      "category": "crypto",
+      "baseScore": 5
+    },
+    {
+      "title": "Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push",
+      "link": "https://www.coindesk.com/business/2026/08/22/stablecoin-neobank-fasset-lands-usd1-billion-valuation-as-sbi-backs-its-payments-push",
+      "description": "The firm raised $68 million as its revenue has grown six-fold as stablecoin payments and settlement expand, CEO Mohammad Raafi Hossain told CoinDesk.",
+      "published": "2026-08-24T04:45:00.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "priority": 3,
+      "image": null,
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "valuation",
+        "billion",
+        "stablecoin",
+        "ceo"
+      ],
+      "category": "business",
+      "baseScore": 4
+    },
+    {
+      "title": "How the War in Ukraine Changed Modern Warfare",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-24/how-the-war-in-ukraine-changed-modern-warfare-video",
+      "description": "Bloomberg Intelligence's Rod Turnbull discusses how Russia's invasion of Ukraine and the ongoing conflict has changed how countries conduct warfare. He talks about the impact of new technology, drones and artificial intelligence on the military. (Source: Bloomberg)",
+      "published": "2026-08-24T06:13:04.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 2,
+      "matchedKeywords": [
+        "artificial intelligence"
+      ],
+      "category": "ai",
+      "baseScore": 2
+    },
+    {
+      "title": "New Zealand Joins Global Push to Ban Under-16s From Social Media",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-24/new-zealand-plans-social-media-ban-for-under-16s",
+      "description": "New Zealand plans to ban under-16s from social media, joining a throng of countries worldwide seeking to limit online harm to children.",
+      "published": "2026-08-24T03:30:00.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 1,
+      "matchedKeywords": [],
+      "category": "other",
+      "baseScore": 1
     }
   ],
   "byCategory": {
-    "ai": [
+    "chips_cloud": [
       {
         "title": "Nvidia Notifies Customers About AI-Related Price Hikes",
         "link": "https://www.bloomberg.com/news/videos/2026-08-24/nvidia-notifies-customers-about-ai-related-price-hikes-video",
@@ -118,30 +121,14 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 9,
+        "relevanceScore": 7,
         "matchedKeywords": [
           "nvidia",
-          "intel",
           "artificial intelligence",
           "chip"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "How the War in Ukraine Changed Modern Warfare",
-        "link": "https://www.bloomberg.com/news/videos/2026-08-24/how-the-war-in-ukraine-changed-modern-warfare-video",
-        "description": "Bloomberg Intelligence's Rod Turnbull discusses how Russia's invasion of Ukraine and the ongoing conflict has changed how countries conduct warfare. He talks about the impact of new technology, drones and artificial intelligence on the military. (Source: Bloomberg)",
-        "published": "2026-08-24T06:13:04.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "intel",
-          "artificial intelligence"
-        ],
-        "category": "ai"
+        "category": "chips_cloud",
+        "baseScore": 7
       }
     ],
     "business": [
@@ -154,13 +141,14 @@
         "sourceKey": "cnbc_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 7,
+        "relevanceScore": 6,
         "matchedKeywords": [
           "ipo",
-          "billion",
-          "valuation"
+          "valuation",
+          "billion"
         ],
-        "category": "business"
+        "category": "business",
+        "baseScore": 6
       },
       {
         "title": "Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push",
@@ -171,31 +159,15 @@
         "sourceKey": "coindesk",
         "priority": 3,
         "image": null,
-        "relevanceScore": 6,
+        "relevanceScore": 4,
         "matchedKeywords": [
-          "ceo",
-          "billion",
           "valuation",
-          "stablecoin"
+          "billion",
+          "stablecoin",
+          "ceo"
         ],
-        "category": "business"
-      }
-    ],
-    "chips_cloud": [
-      {
-        "title": "New Zealand Joins Global Push to Ban Under-16s From Social Media",
-        "link": "https://www.bloomberg.com/news/articles/2026-08-24/new-zealand-plans-social-media-ban-for-under-16s",
-        "description": "New Zealand plans to ban under-16s from social media, joining a throng of countries worldwide seeking to limit online harm to children.",
-        "published": "2026-08-24T03:30:00.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "arm"
-        ],
-        "category": "chips_cloud"
+        "category": "business",
+        "baseScore": 4
       }
     ],
     "crypto": [
@@ -208,12 +180,48 @@
         "sourceKey": "coindesk",
         "priority": 3,
         "image": null,
-        "relevanceScore": 3,
+        "relevanceScore": 5,
         "matchedKeywords": [
           "samsung",
+          "alibaba",
           "bitcoin"
         ],
-        "category": "crypto"
+        "category": "crypto",
+        "baseScore": 5
+      }
+    ],
+    "ai": [
+      {
+        "title": "How the War in Ukraine Changed Modern Warfare",
+        "link": "https://www.bloomberg.com/news/videos/2026-08-24/how-the-war-in-ukraine-changed-modern-warfare-video",
+        "description": "Bloomberg Intelligence's Rod Turnbull discusses how Russia's invasion of Ukraine and the ongoing conflict has changed how countries conduct warfare. He talks about the impact of new technology, drones and artificial intelligence on the military. (Source: Bloomberg)",
+        "published": "2026-08-24T06:13:04.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 2,
+        "matchedKeywords": [
+          "artificial intelligence"
+        ],
+        "category": "ai",
+        "baseScore": 2
+      }
+    ],
+    "other": [
+      {
+        "title": "New Zealand Joins Global Push to Ban Under-16s From Social Media",
+        "link": "https://www.bloomberg.com/news/articles/2026-08-24/new-zealand-plans-social-media-ban-for-under-16s",
+        "description": "New Zealand plans to ban under-16s from social media, joining a throng of countries worldwide seeking to limit online harm to children.",
+        "published": "2026-08-24T03:30:00.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 1,
+        "matchedKeywords": [],
+        "category": "other",
+        "baseScore": 1
       }
     ]
   },

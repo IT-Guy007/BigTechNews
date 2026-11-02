@@ -21,7 +21,8 @@
         "elon musk",
         "billion"
       ],
-      "category": "business"
+      "category": "business",
+      "baseScore": 9
     },
     {
       "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
@@ -36,7 +37,8 @@
       "matchedKeywords": [
         "anthropic"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 8
     },
     {
       "title": "Anthropic Denies It Could Sabotage AI Tools During War",
@@ -51,7 +53,8 @@
       "matchedKeywords": [
         "anthropic"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 7
     },
     {
       "title": "Palantir AI System Wins Key Pentagon Status, Reuters Reports",
@@ -66,7 +69,8 @@
       "matchedKeywords": [
         "palantir"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 5
     }
   ],
   "byCategory": {
@@ -86,7 +90,8 @@
           "elon musk",
           "billion"
         ],
-        "category": "business"
+        "category": "business",
+        "baseScore": 9
       }
     ],
     "ai": [
@@ -103,7 +108,8 @@
         "matchedKeywords": [
           "anthropic"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 8
       },
       {
         "title": "Anthropic Denies It Could Sabotage AI Tools During War",
@@ -118,7 +124,8 @@
         "matchedKeywords": [
           "anthropic"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 7
       },
       {
         "title": "Palantir AI System Wins Key Pentagon Status, Reuters Reports",
@@ -133,7 +140,8 @@
         "matchedKeywords": [
           "palantir"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 5
       }
     ]
   },

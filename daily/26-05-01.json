@@ -15,13 +15,15 @@
       "sourceKey": "cnbc_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 11,
+      "relevanceScore": 10,
       "matchedKeywords": [
         "apple",
+        "tim cook",
         "ceo",
-        "tim cook"
+        "earnings"
       ],
-      "category": "business"
+      "category": "business",
+      "baseScore": 10
     },
     {
       "title": "How Shivon Zilis Operated as Elon Musk’s OpenAI Insider",
@@ -37,7 +39,8 @@
         "openai",
         "elon musk"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 10
     },
     {
       "title": "OpenAI CFO Sees ‘Vertical Wall of Demand’ for Products",
@@ -52,7 +55,8 @@
       "matchedKeywords": [
         "openai"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 8
     },
     {
       "title": "Apple Sales Forecast Beats Estimates",
@@ -63,13 +67,13 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 8,
+      "relevanceScore": 6,
       "matchedKeywords": [
         "apple",
-        "intel",
         "chip"
       ],
-      "category": "chips_cloud"
+      "category": "chips_cloud",
+      "baseScore": 6
     },
     {
       "title": "Japan Airlines begins humanoid robot trials at Tokyo's Haneda airport as labor shortages bite",
@@ -82,24 +86,28 @@
       "image": null,
       "relevanceScore": 5,
       "matchedKeywords": [
-        "humanoid robot"
+        "humanoid robot",
+        "humanoid"
       ],
-      "category": "robotics"
+      "category": "robotics",
+      "baseScore": 5
     },
     {
-      "title": "Warm, Wild Weather Puts Europe on Storm and Drought Watch in May",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-01/warm-wild-weather-puts-europe-on-storm-and-drought-watch-in-may",
-      "description": "Europe is set for weeks of erratic and increasingly warm weather over the coming month, raising the risk of storms, early season drought stress and increasing cooling demand.",
-      "published": "2026-05-01T07:45:16.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
+      "title": "Apple stock sees slight bump following Q2 2026 earnings report",
+      "link": "https://9to5mac.com/2026/04/30/apple-stock-sees-slight-bump-following-q2-2026-earnings-report/",
+      "description": "Following the release of Apple’s earnings report for the second fiscal quarter of 2026, shares rose slightly in after-hours trading as the market digested the results and outlook for Q3 2026. Here are the details. more…",
+      "published": "2026-05-01T01:41:45.000Z",
+      "source": "9to5Mac",
+      "sourceKey": "9to5mac",
+      "priority": 2,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-stock-up.jpg?quality=82&#038;strip=all&#038;w=1600",
       "relevanceScore": 5,
       "matchedKeywords": [
-        "arm"
+        "apple",
+        "earnings"
       ],
-      "category": "ai"
+      "category": "business",
+      "baseScore": 5
     },
     {
       "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
@@ -114,37 +122,8 @@
       "matchedKeywords": [
         "chatgpt"
       ],
-      "category": "ai"
-    },
-    {
-      "title": "Top Google Workspace Promo Codes for May",
-      "link": "https://www.wired.com/story/google-workspace-promo-code/",
-      "description": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
-      "published": "2026-05-01T05:00:00.000Z",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "priority": 2,
-      "image": null,
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "google"
-      ],
-      "category": null
-    },
-    {
-      "title": "Apple stock sees slight bump following Q2 2026 earnings report",
-      "link": "https://9to5mac.com/2026/04/30/apple-stock-sees-slight-bump-following-q2-2026-earnings-report/",
-      "description": "Following the release of Apple’s earnings report for the second fiscal quarter of 2026, shares rose slightly in after-hours trading as the market digested the results and outlook for Q3 2026. Here are the details.\nmore…",
-      "published": "2026-05-01T01:41:45.000Z",
-      "source": "9to5Mac",
-      "sourceKey": "9to5mac",
-      "priority": 2,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-stock-up.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "apple"
-      ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 4
     },
     {
       "title": "Qualcomm teases ‘dedicated CPU for agentic experiences’ and ‘agentic smartphones’",
@@ -159,7 +138,38 @@
       "matchedKeywords": [
         "qualcomm"
       ],
-      "category": "chips_cloud"
+      "category": "chips_cloud",
+      "baseScore": 4
+    },
+    {
+      "title": "Warm, Wild Weather Puts Europe on Storm and Drought Watch in May",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-01/warm-wild-weather-puts-europe-on-storm-and-drought-watch-in-may",
+      "description": "Europe is set for weeks of erratic and increasingly warm weather over the coming month, raising the risk of storms, early season drought stress and increasing cooling demand.",
+      "published": "2026-05-01T07:45:16.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 1,
+      "matchedKeywords": [],
+      "category": "other",
+      "baseScore": 1
+    },
+    {
+      "title": "Fujitsu confirms mainframe biz to die in 2035, in time for quantum AI supercomputers to take over",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/fujitsu_future_strategy/",
+      "description": "",
+      "published": "2026-05-01T04:55:52.000Z",
+      "source": "The Register",
+      "sourceKey": "theregister",
+      "priority": 2,
+      "image": null,
+      "relevanceScore": 1,
+      "matchedKeywords": [
+        "supercomputer"
+      ],
+      "category": "ai",
+      "baseScore": 1
     }
   ],
   "byCategory": {
@@ -173,13 +183,32 @@
         "sourceKey": "cnbc_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 11,
+        "relevanceScore": 10,
         "matchedKeywords": [
           "apple",
+          "tim cook",
           "ceo",
-          "tim cook"
+          "earnings"
         ],
-        "category": "business"
+        "category": "business",
+        "baseScore": 10
+      },
+      {
+        "title": "Apple stock sees slight bump following Q2 2026 earnings report",
+        "link": "https://9to5mac.com/2026/04/30/apple-stock-sees-slight-bump-following-q2-2026-earnings-report/",
+        "description": "Following the release of Apple’s earnings report for the second fiscal quarter of 2026, shares rose slightly in after-hours trading as the market digested the results and outlook for Q3 2026. Here are the details. more…",
+        "published": "2026-05-01T01:41:45.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-stock-up.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "apple",
+          "earnings"
+        ],
+        "category": "business",
+        "baseScore": 5
       }
     ],
     "ai": [
@@ -197,7 +226,8 @@
           "openai",
           "elon musk"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 10
       },
       {
         "title": "OpenAI CFO Sees ‘Vertical Wall of Demand’ for Products",
@@ -212,22 +242,8 @@
         "matchedKeywords": [
           "openai"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "Warm, Wild Weather Puts Europe on Storm and Drought Watch in May",
-        "link": "https://www.bloomberg.com/news/articles/2026-05-01/warm-wild-weather-puts-europe-on-storm-and-drought-watch-in-may",
-        "description": "Europe is set for weeks of erratic and increasingly warm weather over the coming month, raising the risk of storms, early season drought stress and increasing cooling demand.",
-        "published": "2026-05-01T07:45:16.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "arm"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 8
       },
       {
         "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
@@ -242,22 +258,8 @@
         "matchedKeywords": [
           "chatgpt"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "Apple stock sees slight bump following Q2 2026 earnings report",
-        "link": "https://9to5mac.com/2026/04/30/apple-stock-sees-slight-bump-following-q2-2026-earnings-report/",
-        "description": "Following the release of Apple’s earnings report for the second fiscal quarter of 2026, shares rose slightly in after-hours trading as the market digested the results and outlook for Q3 2026. Here are the details.\nmore…",
-        "published": "2026-05-01T01:41:45.000Z",
-        "source": "9to5Mac",
-        "sourceKey": "9to5mac",
-        "priority": 2,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-stock-up.jpg?quality=82&#038;strip=all&#038;w=1600",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 4
       },
       {
         "title": "Fujitsu confirms mainframe biz to die in 2035, in time for quantum AI supercomputers to take over",
@@ -268,12 +270,12 @@
         "sourceKey": "theregister",
         "priority": 2,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 1,
         "matchedKeywords": [
-          "quantum",
           "supercomputer"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 1
       }
     ],
     "chips_cloud": [
@@ -286,13 +288,13 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 8,
+        "relevanceScore": 6,
         "matchedKeywords": [
           "apple",
-          "intel",
           "chip"
         ],
-        "category": "chips_cloud"
+        "category": "chips_cloud",
+        "baseScore": 6
       },
       {
         "title": "Qualcomm teases ‘dedicated CPU for agentic experiences’ and ‘agentic smartphones’",
@@ -307,7 +309,8 @@
         "matchedKeywords": [
           "qualcomm"
         ],
-        "category": "chips_cloud"
+        "category": "chips_cloud",
+        "baseScore": 4
       }
     ],
     "robotics": [
@@ -322,9 +325,43 @@
         "image": null,
         "relevanceScore": 5,
         "matchedKeywords": [
-          "humanoid robot"
+          "humanoid robot",
+          "humanoid"
         ],
-        "category": "robotics"
+        "category": "robotics",
+        "baseScore": 5
+      }
+    ],
+    "other": [
+      {
+        "title": "Warm, Wild Weather Puts Europe on Storm and Drought Watch in May",
+        "link": "https://www.bloomberg.com/news/articles/2026-05-01/warm-wild-weather-puts-europe-on-storm-and-drought-watch-in-may",
+        "description": "Europe is set for weeks of erratic and increasingly warm weather over the coming month, raising the risk of storms, early season drought stress and increasing cooling demand.",
+        "published": "2026-05-01T07:45:16.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 1,
+        "matchedKeywords": [],
+        "category": "other",
+        "baseScore": 1
+      },
+      {
+        "title": "Top Google Workspace Promo Codes for May",
+        "link": "https://www.wired.com/story/google-workspace-promo-code/",
+        "description": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
+        "published": "2026-05-01T05:00:00.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 0,
+        "matchedKeywords": [
+          "excluded"
+        ],
+        "category": "other",
+        "baseScore": 0
       }
     ]
   },

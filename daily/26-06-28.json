@@ -15,15 +15,15 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 15,
+      "relevanceScore": 13,
       "matchedKeywords": [
         "google",
         "meta",
-        "intel",
         "gemini",
         "artificial intelligence"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 13
     },
     {
       "title": "AI Fever Powers HK Share Sales Through Hurdles to Five-Year High",
@@ -34,27 +34,26 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 4,
+      "relevanceScore": 2,
       "matchedKeywords": [
-        "intel",
         "artificial intelligence"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 2
     },
     {
       "title": "TMD’s keyless bike lock is a $280 solution to a $60 problem",
       "link": "https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review",
-      "description": "A $280 bike lock on a $10,000 e-bike.\t\n\nI've seen lots of so-called \"smart\" bike locks over the years, but none so far could justify the added cost. A newcomer that got its start securing ATMs for banks is trying to change that. There's nothing wholly unique about the TMD Chain Lock, but the combination of materials, performance, and insurance-friendly ART-2 certification makes it worth considering.\nTMD's first bicycle lock combines a Bluetooth proximity sensor and motion alarm with a slender core of hardened steel chain wrapped in a soft and lightweight sleeve of high performance Dyneema and Kevlar fibers. That makes this lock tough, yet flexible enough to conveniently wrap arou …\nRead the full story at The Verge.",
+      "description": "A $280 bike lock on a $10,000 e-bike. I've seen lots of so-called \"smart\" bike locks over the years, but none so far could justify the added cost. A newcomer that got its start securing ATMs for banks is trying to change that. There's nothing wholly unique about the TMD Chain Lock, but the combination of materials, performance, and insurance-friendly ART-2 certification makes it worth considering. TMD's first bicycle lock combines a Bluetooth proximity sensor and motion alarm with a slender core",
       "published": "2026-06-28T07:00:00.000Z",
       "source": "The Verge",
       "sourceKey": "theverge",
       "priority": 1,
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/IMG_1827.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "relevanceScore": 3,
-      "matchedKeywords": [
-        "arm"
-      ],
-      "category": "ai"
+      "relevanceScore": 1,
+      "matchedKeywords": [],
+      "category": "other",
+      "baseScore": 1
     }
   ],
   "byCategory": {
@@ -68,15 +67,15 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 15,
+        "relevanceScore": 13,
         "matchedKeywords": [
           "google",
           "meta",
-          "intel",
           "gemini",
           "artificial intelligence"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 13
       },
       {
         "title": "AI Fever Powers HK Share Sales Through Hurdles to Five-Year High",
@@ -87,27 +86,28 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 2,
         "matchedKeywords": [
-          "intel",
           "artificial intelligence"
         ],
-        "category": "ai"
-      },
+        "category": "ai",
+        "baseScore": 2
+      }
+    ],
+    "other": [
       {
         "title": "TMD’s keyless bike lock is a $280 solution to a $60 problem",
         "link": "https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review",
-        "description": "A $280 bike lock on a $10,000 e-bike.\t\n\nI've seen lots of so-called \"smart\" bike locks over the years, but none so far could justify the added cost. A newcomer that got its start securing ATMs for banks is trying to change that. There's nothing wholly unique about the TMD Chain Lock, but the combination of materials, performance, and insurance-friendly ART-2 certification makes it worth considering.\nTMD's first bicycle lock combines a Bluetooth proximity sensor and motion alarm with a slender core of hardened steel chain wrapped in a soft and lightweight sleeve of high performance Dyneema and Kevlar fibers. That makes this lock tough, yet flexible enough to conveniently wrap arou …\nRead the full story at The Verge.",
+        "description": "A $280 bike lock on a $10,000 e-bike. I've seen lots of so-called \"smart\" bike locks over the years, but none so far could justify the added cost. A newcomer that got its start securing ATMs for banks is trying to change that. There's nothing wholly unique about the TMD Chain Lock, but the combination of materials, performance, and insurance-friendly ART-2 certification makes it worth considering. TMD's first bicycle lock combines a Bluetooth proximity sensor and motion alarm with a slender core",
         "published": "2026-06-28T07:00:00.000Z",
         "source": "The Verge",
         "sourceKey": "theverge",
         "priority": 1,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/IMG_1827.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "arm"
-        ],
-        "category": "ai"
+        "relevanceScore": 1,
+        "matchedKeywords": [],
+        "category": "other",
+        "baseScore": 1
       }
     ]
   },

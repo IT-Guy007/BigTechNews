@@ -15,33 +15,44 @@
       "sourceKey": "cnbc_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 22,
+      "relevanceScore": 23,
       "matchedKeywords": [
+        "billion",
         "openai",
         "anthropic",
         "spacex",
         "xai",
         "merger"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 22,
+      "alsoIn": [
+        {
+          "source": "Bloomberg",
+          "title": "Abu Dhabi’s MGX Raises $49 Billion for One of the Biggest Ever AI Funds",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-01/uae-abu-dhabi-s-mgx-raises-49-billion-for-one-of-the-biggest-ai-funds-ever"
+        }
+      ]
     },
     {
-      "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
+      "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
       "link": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-      "description": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access Wednesday to users globally on Claude platforms, and that the company would re-enable access on AWS, Google Cloud, and Microsoft Foundry soon, but with no set timeline.\nAnthropic wrote:\nWe've received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5.\nWe'll begin restoring access tomorrow, and will share an update soon.\nWe're grateful to our users for their patience, and to everyone who work …\n\nRead the full story at The Verge.",
+      "description": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access Wednesday to users globally on Claude platforms, and that the company would re-enable access on AWS, Google Cloud, and Microsoft Foundry soon, but with no set timeline. Anthropic wrote: We've received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5. We",
       "published": "2026-07-01T00:03:55.000Z",
       "source": "The Verge",
       "sourceKey": "theverge",
       "priority": 1,
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "relevanceScore": 15,
+      "relevanceScore": 17,
       "matchedKeywords": [
+        "anthropic",
         "google",
         "microsoft",
-        "anthropic",
+        "aws",
         "claude"
       ],
-      "category": "ai"
+      "category": "chips_cloud",
+      "baseScore": 17
     },
     {
       "title": "Anthropic says Trump admin has lifted export controls on Claude Fable 5 and Mythos 5",
@@ -52,47 +63,67 @@
       "sourceKey": "cnbc_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 11,
+      "relevanceScore": 14,
       "matchedKeywords": [
         "anthropic",
         "claude"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 11,
+      "alsoIn": [
+        {
+          "source": "Bloomberg",
+          "title": "Anthropic Says US Lifted Restrictions on Fable 5",
+          "link": "https://www.bloomberg.com/news/videos/2026-07-01/anthropic-says-us-lifted-restrictions-on-fable-5-video"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+          "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/"
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Anthropic restores AI models Fable, Mythos after the U.S. lifts export controls",
+          "link": "https://www.coindesk.com/tech/2026/07/01/anthropic-restores-ai-models-fable-mythos-after-the-u-s-lifts-export-controls"
+        }
+      ]
     },
     {
-      "title": "Anthropic Says US Lifted Restrictions on Fable 5",
-      "link": "https://www.bloomberg.com/news/videos/2026-07-01/anthropic-says-us-lifted-restrictions-on-fable-5-video",
-      "description": "The US government removed foreign access restrictions on Anthropic's Fable 5 artificial intelligence model, clearing it for wider distribution. Anthropic said it had received notice that Commerce was lifting the curbs on access to Mythos 5 and Fable 5 AI models. Some of the restrictions on Mythos had been eased on June 26. Bloomberg's Neil Campling reports. (Source: Bloomberg)",
-      "published": "2026-07-01T06:09:44.000Z",
+      "title": "TikTok Eyes About 300 More Job Cuts at European Hub in Dublin",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-01/tiktok-eyes-about-300-more-job-cuts-at-european-hub-in-dublin",
+      "description": "TikTok is considering cutting about 300 jobs at its European hub in Dublin, following a similarly sized round of layoffs last year.",
+      "published": "2026-07-01T07:37:54.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 12,
+      "matchedKeywords": [
+        "tiktok",
+        "layoffs",
+        "layoff"
+      ],
+      "category": "business",
+      "baseScore": 12
+    },
+    {
+      "title": "Vimeo Parent Bending Spoons, Backers Raise $1.68 Billion in IPO",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-01/vimeo-parent-bending-spoons-backers-raise-1-68-billion-in-ipo",
+      "description": "Bending Spoons SpA, which acquires struggling software businesses, and some of its backers raised $1.68 billion in a US initial public offering priced above a marketed range.",
+      "published": "2026-07-01T00:05:22.000Z",
       "source": "Bloomberg",
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
       "relevanceScore": 11,
       "matchedKeywords": [
-        "anthropic",
-        "intel",
-        "artificial intelligence"
+        "ipo",
+        "billion",
+        "acquires",
+        "acquire"
       ],
-      "category": "ai"
-    },
-    {
-      "title": "Google and Actor Idris Elba to Fund African Creator Access to AI",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-01/google-and-actor-idris-elba-to-fund-african-creator-access-to-ai",
-      "description": "Alphabet Inc.’s Google and UK actor Idris Elba will fund access to artificial intelligence tools for African creators, with the goal of helping them produce high-quality content faster and more cheaply.",
-      "published": "2026-07-01T09:23:48.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 10,
-      "matchedKeywords": [
-        "google",
-        "alphabet",
-        "intel",
-        "artificial intelligence"
-      ],
-      "category": "ai"
+      "category": "business",
+      "baseScore": 11
     },
     {
       "title": "Claude Fable 5 cleared to return as US lifts Anthropic’s export control restriction",
@@ -108,12 +139,32 @@
         "anthropic",
         "claude"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 10
+    },
+    {
+      "title": "ByteDance Picks Brazil for Its Largest Data Center Outside China",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-01/tiktok-creator-bytedance-picks-brazil-for-largest-data-center-outside-china",
+      "description": "The TikTok creator’s $39 billion data center is the latest payoff from Lula’s courtship of Chinese investment.",
+      "published": "2026-07-01T09:00:19.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "bytedance",
+        "data center",
+        "tiktok",
+        "billion"
+      ],
+      "category": "chips_cloud",
+      "baseScore": 9
     },
     {
       "title": "Cleared by the US, derailed by the UK: Getty’s Shutterstock merger falls apart",
       "link": "https://www.theverge.com/tech/960047/getty-shutterstock-merger-agreement-termination",
-      "description": "Getty says it’s “not required” to accept approval conditions that would force Shutterstock to offload its editorial business. | Image: The Verge\t\n\nGetty is planning to axe its $3.7 billion merger agreement with Shutterstock after a UK regulator imposed restrictions that would prevent part of Shutterstock's business from being included in the deal. The move comes despite the US Department of Justice granting the deal \"unconditional antitrust clearance\" in February.\nIn an SEC filing published on Tuesday in the US, Getty said it is \"not required to accept\" approval conditions outlined by the UK Competition and Markets Authority in May that require Shutterstock to sell its global editorial business, including the Backgrid and Splash paparazzi agencies.\nThose conditions have proved unappe …\nRead the full story at The Verge.",
+      "description": "Getty says it’s “not required” to accept approval conditions that would force Shutterstock to offload its editorial business. | Image: The Verge Getty is planning to axe its $3.7 billion merger agreement with Shutterstock after a UK regulator imposed restrictions that would prevent part of Shutterstock's business from being included in the deal. The move comes despite the US Department of Justice granting the deal \"unconditional antitrust clearance\" in February. In an SEC filing published on Tue",
       "published": "2026-07-01T08:41:26.000Z",
       "source": "The Verge",
       "sourceKey": "theverge",
@@ -125,41 +176,26 @@
         "antitrust",
         "billion"
       ],
-      "category": "regulation"
+      "category": "regulation",
+      "baseScore": 9
     },
     {
-      "title": "ByteDance Picks Brazil for Its Largest Data Center Outside China",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-01/tiktok-creator-bytedance-picks-brazil-for-largest-data-center-outside-china",
-      "description": "The TikTok creator’s $39 billion data center is the latest payoff from Lula’s courtship of Chinese investment.",
-      "published": "2026-07-01T09:00:19.000Z",
+      "title": "Google and Actor Idris Elba to Fund African Creator Access to AI",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-01/google-and-actor-idris-elba-to-fund-african-creator-access-to-ai",
+      "description": "Alphabet Inc.’s Google and UK actor Idris Elba will fund access to artificial intelligence tools for African creators, with the goal of helping them produce high-quality content faster and more cheaply.",
+      "published": "2026-07-01T09:23:48.000Z",
       "source": "Bloomberg",
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 9,
+      "relevanceScore": 8,
       "matchedKeywords": [
-        "bytedance",
-        "tiktok",
-        "data center",
-        "billion"
+        "google",
+        "alphabet",
+        "artificial intelligence"
       ],
-      "category": "chips_cloud"
-    },
-    {
-      "title": "TikTok Eyes About 300 More Job Cuts at European Hub in Dublin",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-01/tiktok-eyes-about-300-more-job-cuts-at-european-hub-in-dublin",
-      "description": "TikTok is considering cutting about 300 jobs at its European hub in Dublin, following a similarly sized round of layoffs last year.",
-      "published": "2026-07-01T07:37:54.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "tiktok",
-        "layoffs"
-      ],
-      "category": "regulation"
+      "category": "ai",
+      "baseScore": 8
     },
     {
       "title": "Uber-Backed Bike Firm Lime, Investors Raise $174 Million in IPO",
@@ -170,12 +206,13 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 9,
+      "relevanceScore": 8,
       "matchedKeywords": [
         "uber",
         "ipo"
       ],
-      "category": "ai"
+      "category": "business",
+      "baseScore": 8
     }
   ],
   "byCategory": {
@@ -189,33 +226,24 @@
         "sourceKey": "cnbc_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 22,
+        "relevanceScore": 23,
         "matchedKeywords": [
+          "billion",
           "openai",
           "anthropic",
           "spacex",
           "xai",
           "merger"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-        "description": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access Wednesday to users globally on Claude platforms, and that the company would re-enable access on AWS, Google Cloud, and Microsoft Foundry soon, but with no set timeline.\nAnthropic wrote:\nWe've received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5.\nWe'll begin restoring access tomorrow, and will share an update soon.\nWe're grateful to our users for their patience, and to everyone who work …\n\nRead the full story at The Verge.",
-        "published": "2026-07-01T00:03:55.000Z",
-        "source": "The Verge",
-        "sourceKey": "theverge",
-        "priority": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "relevanceScore": 15,
-        "matchedKeywords": [
-          "google",
-          "microsoft",
-          "anthropic",
-          "claude"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 22,
+        "alsoIn": [
+          {
+            "source": "Bloomberg",
+            "title": "Abu Dhabi’s MGX Raises $49 Billion for One of the Biggest Ever AI Funds",
+            "link": "https://www.bloomberg.com/news/articles/2026-07-01/uae-abu-dhabi-s-mgx-raises-49-billion-for-one-of-the-biggest-ai-funds-ever"
+          }
+        ]
       },
       {
         "title": "Anthropic says Trump admin has lifted export controls on Claude Fable 5 and Mythos 5",
@@ -226,47 +254,30 @@
         "sourceKey": "cnbc_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 11,
+        "relevanceScore": 14,
         "matchedKeywords": [
           "anthropic",
           "claude"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "Anthropic Says US Lifted Restrictions on Fable 5",
-        "link": "https://www.bloomberg.com/news/videos/2026-07-01/anthropic-says-us-lifted-restrictions-on-fable-5-video",
-        "description": "The US government removed foreign access restrictions on Anthropic's Fable 5 artificial intelligence model, clearing it for wider distribution. Anthropic said it had received notice that Commerce was lifting the curbs on access to Mythos 5 and Fable 5 AI models. Some of the restrictions on Mythos had been eased on June 26. Bloomberg's Neil Campling reports. (Source: Bloomberg)",
-        "published": "2026-07-01T06:09:44.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 11,
-        "matchedKeywords": [
-          "anthropic",
-          "intel",
-          "artificial intelligence"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Google and Actor Idris Elba to Fund African Creator Access to AI",
-        "link": "https://www.bloomberg.com/news/articles/2026-07-01/google-and-actor-idris-elba-to-fund-african-creator-access-to-ai",
-        "description": "Alphabet Inc.’s Google and UK actor Idris Elba will fund access to artificial intelligence tools for African creators, with the goal of helping them produce high-quality content faster and more cheaply.",
-        "published": "2026-07-01T09:23:48.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 10,
-        "matchedKeywords": [
-          "google",
-          "alphabet",
-          "intel",
-          "artificial intelligence"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 11,
+        "alsoIn": [
+          {
+            "source": "Bloomberg",
+            "title": "Anthropic Says US Lifted Restrictions on Fable 5",
+            "link": "https://www.bloomberg.com/news/videos/2026-07-01/anthropic-says-us-lifted-restrictions-on-fable-5-video"
+          },
+          {
+            "source": "TechCrunch",
+            "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+            "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/"
+          },
+          {
+            "source": "CoinDesk",
+            "title": "Anthropic restores AI models Fable, Mythos after the U.S. lifts export controls",
+            "link": "https://www.coindesk.com/tech/2026/07/01/anthropic-restores-ai-models-fable-mythos-after-the-u-s-lifts-export-controls"
+          }
+        ]
       },
       {
         "title": "Claude Fable 5 cleared to return as US lifts Anthropic’s export control restriction",
@@ -282,38 +293,26 @@
           "anthropic",
           "claude"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 10
       },
       {
-        "title": "Uber-Backed Bike Firm Lime, Investors Raise $174 Million in IPO",
-        "link": "https://www.bloomberg.com/news/articles/2026-07-01/uber-backed-lime-investors-said-to-price-ipo-at-25-per-share",
-        "description": "Neutron Holdings Inc., better known as Lime, and some of its shareholders raised $174 million in a US initial public offering that priced at the midpoint of the marketed range.",
-        "published": "2026-07-01T00:29:44.000Z",
+        "title": "Google and Actor Idris Elba to Fund African Creator Access to AI",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-01/google-and-actor-idris-elba-to-fund-african-creator-access-to-ai",
+        "description": "Alphabet Inc.’s Google and UK actor Idris Elba will fund access to artificial intelligence tools for African creators, with the goal of helping them produce high-quality content faster and more cheaply.",
+        "published": "2026-07-01T09:23:48.000Z",
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 9,
-        "matchedKeywords": [
-          "uber",
-          "ipo"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
-        "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
-        "description": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.",
-        "published": "2026-07-01T02:16:06.000Z",
-        "source": "TechCrunch",
-        "sourceKey": "techcrunch",
-        "priority": 1,
-        "image": null,
         "relevanceScore": 8,
         "matchedKeywords": [
-          "anthropic"
+          "google",
+          "alphabet",
+          "artificial intelligence"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 8
       },
       {
         "title": "Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival",
@@ -326,10 +325,28 @@
         "image": null,
         "relevanceScore": 8,
         "matchedKeywords": [
-          "anthropic",
-          "claude"
+          "claude",
+          "anthropic"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 8
+      },
+      {
+        "title": "US government allows Anthropic to redeploy its Mythos and Fable AI models",
+        "link": "https://www.engadget.com/2205599/anthropic-redeploy-mythos-fable-ai-models/",
+        "description": "Anthropic will start its users' access to Mythos and Fable tomorrow, July 1.",
+        "published": "2026-07-01T01:59:26.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/us-government-allows-anthropic-to-redeploy-its-mythos-and-fable-ai-models/l-intro-1782871024.jpg",
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "anthropic",
+          "ai model"
+        ],
+        "category": "ai",
+        "baseScore": 8
       },
       {
         "title": "Gemini Spark comes to Google's Gemini app for macOS",
@@ -345,58 +362,13 @@
           "google",
           "gemini"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 7
       },
       {
-        "title": "US government allows Anthropic to redeploy its Mythos and Fable AI models",
-        "link": "https://www.engadget.com/2205599/anthropic-redeploy-mythos-fable-ai-models/",
-        "description": "Anthropic will start its users' access to Mythos and Fable tomorrow, July 1.",
-        "published": "2026-07-01T01:59:26.000Z",
-        "source": "Engadget",
-        "sourceKey": "engadget",
-        "priority": 2,
-        "image": "https://www.engadget.com/img/gallery/us-government-allows-anthropic-to-redeploy-its-mythos-and-fable-ai-models/l-intro-1782871024.jpg",
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "anthropic"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Agilent CEO on Business Strategy, Innovation",
-        "link": "https://www.bloomberg.com/news/videos/2026-07-01/agilent-ceo-on-business-strategy-innovation-video",
-        "description": "Padraig McDonnell, President and CEO at Agilent, discusses the company's business strategy and the innovations he sees in the life sciences sector. He speaks with Minmin Low from the sidelines of the World Economic Forum in Dalian. (Source: Bloomberg)",
-        "published": "2026-07-01T04:06:11.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "agi",
-          "ceo"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Anthropic restores AI models Fable, Mythos after the U.S. lifts export controls",
-        "link": "https://www.coindesk.com/tech/2026/07/01/anthropic-restores-ai-models-fable-mythos-after-the-u-s-lifts-export-controls",
-        "description": "The government cleared Fable 5 and Mythos 5 on June 30, weeks after a cybersecurity finding triggered an export order that froze access for everyone.",
-        "published": "2026-07-01T06:54:13.000Z",
-        "source": "CoinDesk",
-        "sourceKey": "coindesk",
-        "priority": 3,
-        "image": null,
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "anthropic"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Meta is adding ridiculous &#8216;rate limits&#8217; and a soft paywall to its smart glasses",
+        "title": "Meta is adding ridiculous ‘rate limits’ and a soft paywall to its smart glasses",
         "link": "https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit",
-        "description": "Would you pay $20 a month for access to AI hardware you already own? That appears to be one of Meta's next bets. This week, it quietly announced that your glasses' Conversation Focus feature will soon be limited to three hours of use per month, unless you pay for a $19.99 Meta One Premium subscription. \nIn a help article, the company insists that it won't require a subscription to use your glasses, period; it's merely erecting a \"rate limit\" for certain AI features. Even premium subscribers will only get 15 hours of Conversation Focus per month under that \"rate limit,\" it claims.\nProblem is, Meta's rate limit is ridiculous. The Conversatio …\nRead the full story at The Verge.",
+        "description": "Would you pay $20 a month for access to AI hardware you already own? That appears to be one of Meta's next bets. This week, it quietly announced that your glasses' Conversation Focus feature will soon be limited to three hours of use per month, unless you pay for a $19.99 Meta One Premium subscription. In a help article, the company insists that it won't require a subscription to use your glasses, period; it's merely erecting a \"rate limit\" for certain AI features. Even premium subscribers will ",
         "published": "2026-07-01T00:51:03.000Z",
         "source": "The Verge",
         "sourceKey": "theverge",
@@ -406,57 +378,24 @@
         "matchedKeywords": [
           "meta"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 5
       },
       {
-        "title": "Abu Dhabi’s MGX Raises $49 Billion for One of the Biggest Ever AI Funds",
-        "link": "https://www.bloomberg.com/news/articles/2026-07-01/uae-abu-dhabi-s-mgx-raises-49-billion-for-one-of-the-biggest-ai-funds-ever",
-        "description": "MGX has raised $49 billion for one of the biggest ever funds dedicated to artificial intelligence deals, propelling the two-year-old Abu Dhabi firm into the ranks of the most consequential investors in the sector globally.",
-        "published": "2026-07-01T06:00:00.000Z",
+        "title": "A Giant Cable Exposes Ireland’s AI Ambitions and Security Risks",
+        "link": "https://www.bloomberg.com/news/features/2026-07-01/amazon-cable-shows-ireland-s-status-as-ai-hub-and-highlights-security-risk",
+        "description": "A new Amazon transatlantic fiber-optic link is symbolic of the country’s tech economy, but also of its chronic lack of defense spending.",
+        "published": "2026-07-01T04:00:21.000Z",
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 5,
+        "relevanceScore": 3,
         "matchedKeywords": [
-          "intel",
-          "artificial intelligence",
-          "billion"
+          "amazon"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "OCBC to Raise Annual Tech Spending to More Than $771 Million",
-        "link": "https://www.bloomberg.com/news/articles/2026-07-01/ocbc-to-raise-annual-tech-spending-to-more-than-771-million",
-        "description": "Oversea-Chinese Banking Corp.  plans to increase its annual technology spending, including on artificial intelligence, to more than S$1 billion ($771 million), said a top executive.",
-        "published": "2026-07-01T04:26:47.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "intel",
-          "artificial intelligence",
-          "billion"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Employers who laid off workers citing AI are already starting to regret it",
-        "link": "https://www.cnbc.com/2026/07/01/employers-who-laid-off-workers-for-ai-are-reversing-their-decisions.html",
-        "description": "Companies are realizing artificial intelligence can't do everything after all, prompting them to rehire employees to grow their businesses",
-        "published": "2026-07-01T04:37:25.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "intel",
-          "artificial intelligence"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 3
       },
       {
         "title": "Tech and Finance Sectors Losing 28,000 Jobs Monthly Show AI Impact on Labor",
@@ -467,12 +406,28 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 2,
         "matchedKeywords": [
-          "intel",
           "artificial intelligence"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 2
+      },
+      {
+        "title": "Employers who laid off workers citing AI are already starting to regret it",
+        "link": "https://www.cnbc.com/2026/07/01/employers-who-laid-off-workers-for-ai-are-reversing-their-decisions.html",
+        "description": "Companies are realizing artificial intelligence can't do everything after all, prompting them to rehire employees to grow their businesses",
+        "published": "2026-07-01T04:37:25.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 2,
+        "matchedKeywords": [
+          "artificial intelligence"
+        ],
+        "category": "ai",
+        "baseScore": 2
       },
       {
         "title": "An English Furniture Maker Faces AI Era of Bots Buying Sofas",
@@ -483,12 +438,12 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 2,
         "matchedKeywords": [
-          "intel",
           "artificial intelligence"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 2
       },
       {
         "title": "Japan Investment Corp.'s Hata on AI, Strategic Sectors",
@@ -499,11 +454,140 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 1,
+        "matchedKeywords": [],
+        "category": "ai",
+        "baseScore": 1
+      }
+    ],
+    "chips_cloud": [
+      {
+        "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+        "description": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access Wednesday to users globally on Claude platforms, and that the company would re-enable access on AWS, Google Cloud, and Microsoft Foundry soon, but with no set timeline. Anthropic wrote: We've received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5. We",
+        "published": "2026-07-01T00:03:55.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "relevanceScore": 17,
         "matchedKeywords": [
-          "agi"
+          "anthropic",
+          "google",
+          "microsoft",
+          "aws",
+          "claude"
         ],
-        "category": "ai"
+        "category": "chips_cloud",
+        "baseScore": 17
+      },
+      {
+        "title": "ByteDance Picks Brazil for Its Largest Data Center Outside China",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-01/tiktok-creator-bytedance-picks-brazil-for-largest-data-center-outside-china",
+        "description": "The TikTok creator’s $39 billion data center is the latest payoff from Lula’s courtship of Chinese investment.",
+        "published": "2026-07-01T09:00:19.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "bytedance",
+          "data center",
+          "tiktok",
+          "billion"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 9
+      }
+    ],
+    "business": [
+      {
+        "title": "TikTok Eyes About 300 More Job Cuts at European Hub in Dublin",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-01/tiktok-eyes-about-300-more-job-cuts-at-european-hub-in-dublin",
+        "description": "TikTok is considering cutting about 300 jobs at its European hub in Dublin, following a similarly sized round of layoffs last year.",
+        "published": "2026-07-01T07:37:54.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "tiktok",
+          "layoffs",
+          "layoff"
+        ],
+        "category": "business",
+        "baseScore": 12
+      },
+      {
+        "title": "Vimeo Parent Bending Spoons, Backers Raise $1.68 Billion in IPO",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-01/vimeo-parent-bending-spoons-backers-raise-1-68-billion-in-ipo",
+        "description": "Bending Spoons SpA, which acquires struggling software businesses, and some of its backers raised $1.68 billion in a US initial public offering priced above a marketed range.",
+        "published": "2026-07-01T00:05:22.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "ipo",
+          "billion",
+          "acquires",
+          "acquire"
+        ],
+        "category": "business",
+        "baseScore": 11
+      },
+      {
+        "title": "Uber-Backed Bike Firm Lime, Investors Raise $174 Million in IPO",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-01/uber-backed-lime-investors-said-to-price-ipo-at-25-per-share",
+        "description": "Neutron Holdings Inc., better known as Lime, and some of its shareholders raised $174 million in a US initial public offering that priced at the midpoint of the marketed range.",
+        "published": "2026-07-01T00:29:44.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "uber",
+          "ipo"
+        ],
+        "category": "business",
+        "baseScore": 8
+      },
+      {
+        "title": "OCBC to Raise Annual Tech Spending to More Than $771 Million",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-01/ocbc-to-raise-annual-tech-spending-to-more-than-771-million",
+        "description": "Oversea-Chinese Banking Corp. plans to increase its annual technology spending, including on artificial intelligence, to more than S$1 billion ($771 million), said a top executive.",
+        "published": "2026-07-01T04:26:47.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "artificial intelligence",
+          "billion"
+        ],
+        "category": "business",
+        "baseScore": 3
+      },
+      {
+        "title": "Agilent CEO on Business Strategy, Innovation",
+        "link": "https://www.bloomberg.com/news/videos/2026-07-01/agilent-ceo-on-business-strategy-innovation-video",
+        "description": "Padraig McDonnell, President and CEO at Agilent, discusses the company's business strategy and the innovations he sees in the life sciences sector. He speaks with Minmin Low from the sidelines of the World Economic Forum in Dalian. (Source: Bloomberg)",
+        "published": "2026-07-01T04:06:11.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 2,
+        "matchedKeywords": [
+          "ceo"
+        ],
+        "category": "business",
+        "baseScore": 2
       },
       {
         "title": "Panasonic Targets Further AI Growth to Build on Record Valuation",
@@ -514,49 +598,19 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 2,
         "matchedKeywords": [
-          "intel",
           "valuation"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "Samsung drops first official Galaxy Z Fold 8 teasers, ‘New Shape, New Joy’ [Gallery]",
-        "link": "https://9to5google.com/2026/06/30/samsung-galaxy-z-fold-8-official-teasers/",
-        "description": "With less than a month to go, Samsung is kicking off its train of Galaxy Z Fold 8 teasers with a new series of social posts that also purged nearly the company’s entire Instagram account.",
-        "published": "2026-07-01T01:45:00.000Z",
-        "source": "9to5Google",
-        "sourceKey": "9to5google",
-        "priority": 2,
-        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/samsung-fold-8-shape-teaser-9.jpg?quality=82&#038;strip=all&#038;w=1600",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "samsung"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "A Giant Cable Exposes Ireland’s AI Ambitions and Security Risks",
-        "link": "https://www.bloomberg.com/news/features/2026-07-01/amazon-cable-shows-ireland-s-status-as-ai-hub-and-highlights-security-risk",
-        "description": "A new Amazon transatlantic fiber-optic link is symbolic of the country’s tech economy, but also of its chronic lack of defense spending.",
-        "published": "2026-07-01T04:00:21.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "amazon"
-        ],
-        "category": "ai"
+        "category": "business",
+        "baseScore": 2
       }
     ],
     "regulation": [
       {
         "title": "Cleared by the US, derailed by the UK: Getty’s Shutterstock merger falls apart",
         "link": "https://www.theverge.com/tech/960047/getty-shutterstock-merger-agreement-termination",
-        "description": "Getty says it’s “not required” to accept approval conditions that would force Shutterstock to offload its editorial business. | Image: The Verge\t\n\nGetty is planning to axe its $3.7 billion merger agreement with Shutterstock after a UK regulator imposed restrictions that would prevent part of Shutterstock's business from being included in the deal. The move comes despite the US Department of Justice granting the deal \"unconditional antitrust clearance\" in February.\nIn an SEC filing published on Tuesday in the US, Getty said it is \"not required to accept\" approval conditions outlined by the UK Competition and Markets Authority in May that require Shutterstock to sell its global editorial business, including the Backgrid and Splash paparazzi agencies.\nThose conditions have proved unappe …\nRead the full story at The Verge.",
+        "description": "Getty says it’s “not required” to accept approval conditions that would force Shutterstock to offload its editorial business. | Image: The Verge Getty is planning to axe its $3.7 billion merger agreement with Shutterstock after a UK regulator imposed restrictions that would prevent part of Shutterstock's business from being included in the deal. The move comes despite the US Department of Justice granting the deal \"unconditional antitrust clearance\" in February. In an SEC filing published on Tue",
         "published": "2026-07-01T08:41:26.000Z",
         "source": "The Verge",
         "sourceKey": "theverge",
@@ -568,62 +622,27 @@
           "antitrust",
           "billion"
         ],
-        "category": "regulation"
-      },
-      {
-        "title": "TikTok Eyes About 300 More Job Cuts at European Hub in Dublin",
-        "link": "https://www.bloomberg.com/news/articles/2026-07-01/tiktok-eyes-about-300-more-job-cuts-at-european-hub-in-dublin",
-        "description": "TikTok is considering cutting about 300 jobs at its European hub in Dublin, following a similarly sized round of layoffs last year.",
-        "published": "2026-07-01T07:37:54.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 9,
-        "matchedKeywords": [
-          "tiktok",
-          "layoffs"
-        ],
-        "category": "regulation"
+        "category": "regulation",
+        "baseScore": 9
       }
     ],
-    "chips_cloud": [
+    "devices": [
       {
-        "title": "ByteDance Picks Brazil for Its Largest Data Center Outside China",
-        "link": "https://www.bloomberg.com/news/articles/2026-07-01/tiktok-creator-bytedance-picks-brazil-for-largest-data-center-outside-china",
-        "description": "The TikTok creator’s $39 billion data center is the latest payoff from Lula’s courtship of Chinese investment.",
-        "published": "2026-07-01T09:00:19.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 9,
+        "title": "Samsung drops first official Galaxy Z Fold 8 teasers, ‘New Shape, New Joy’ [Gallery]",
+        "link": "https://9to5google.com/2026/06/30/samsung-galaxy-z-fold-8-official-teasers/",
+        "description": "With less than a month to go, Samsung is kicking off its train of Galaxy Z Fold 8 teasers with a new series of social posts that also purged nearly the company’s entire Instagram account.",
+        "published": "2026-07-01T01:45:00.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/samsung-fold-8-shape-teaser-9.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 6,
         "matchedKeywords": [
-          "bytedance",
-          "tiktok",
-          "data center",
-          "billion"
+          "samsung",
+          "instagram"
         ],
-        "category": "chips_cloud"
-      }
-    ],
-    "business": [
-      {
-        "title": "Vimeo Parent Bending Spoons, Backers Raise $1.68 Billion in IPO",
-        "link": "https://www.bloomberg.com/news/articles/2026-07-01/vimeo-parent-bending-spoons-backers-raise-1-68-billion-in-ipo",
-        "description": "Bending Spoons SpA, which acquires struggling software businesses, and some of its backers raised $1.68 billion in a US initial public offering priced above a marketed range.",
-        "published": "2026-07-01T00:05:22.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 9,
-        "matchedKeywords": [
-          "acquires",
-          "ipo",
-          "billion"
-        ],
-        "category": "business"
+        "category": "devices",
+        "baseScore": 6
       }
     ],
     "ev_autonomous": [
@@ -640,8 +659,11 @@
         "matchedKeywords": [
           "rivian"
         ],
-        "category": "ev_autonomous"
-      },
+        "category": "ev_autonomous",
+        "baseScore": 4
+      }
+    ],
+    "other": [
       {
         "title": "The ‘Father of the Internet’ is finally retiring",
         "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
@@ -655,9 +677,10 @@
         "matchedKeywords": [
           "google"
         ],
-        "category": "ev_autonomous"
+        "category": "other",
+        "baseScore": 3
       }
     ]
   },
-  "totalArticles": 30
+  "totalArticles": 25
 }

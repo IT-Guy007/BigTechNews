@@ -20,7 +20,8 @@
         "openai",
         "elon musk"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 11
     },
     {
       "title": "Uber wants to turn its millions of drivers into a sensor grid for self-driving companies",
@@ -36,12 +37,13 @@
         "uber",
         "self-driving"
       ],
-      "category": "ev_autonomous"
+      "category": "ev_autonomous",
+      "baseScore": 6
     },
     {
       "title": "Tesla launches Model 3 RWD in Canada at record-low $39,490 ($29,000 USD) from China",
       "link": "https://electrek.co/2026/05/01/tesla-model-3-rwd-premium-canada-record-low-price-giga-shanghai/",
-      "description": "Tesla has launched a new Model 3 Premium RWD trim in Canada starting at just $39,490 CAD — a record-low price for the electric sedan in the country. The price, which converts to roughly $29,000 USD, is made possible by sourcing the vehicle from Giga Shanghai instead of Fremont, California.\nThe move marks the first time Tesla is selling China-made vehicles in Canada since the country imposed a 100% tariff on Chinese EVs back in 2024 — and it creates a massive price gap with the Model 3 Performance.\nmore…",
+      "description": "Tesla has launched a new Model 3 Premium RWD trim in Canada starting at just $39,490 CAD — a record-low price for the electric sedan in the country. The price, which converts to roughly $29,000 USD, is made possible by sourcing the vehicle from Giga Shanghai instead of Fremont, California. The move marks the first time Tesla is selling China-made vehicles in Canada since the country imposed a 100% tariff on Chinese EVs back in 2024 — and it creates a massive price gap with the Model 3 Performanc",
       "published": "2026-05-02T03:06:10.000Z",
       "source": "Electrek",
       "sourceKey": "electrek",
@@ -51,7 +53,8 @@
       "matchedKeywords": [
         "tesla"
       ],
-      "category": "ev_autonomous"
+      "category": "ev_autonomous",
+      "baseScore": 4
     },
     {
       "title": "New Bitcoin quantum proposal offers Satoshi Nakamoto a way to prove control without moving BTC",
@@ -64,10 +67,11 @@
       "image": null,
       "relevanceScore": 4,
       "matchedKeywords": [
-        "quantum",
-        "bitcoin"
+        "bitcoin",
+        "quantum computer"
       ],
-      "category": "ev_autonomous"
+      "category": "crypto",
+      "baseScore": 4
     }
   ],
   "byCategory": {
@@ -86,7 +90,8 @@
           "openai",
           "elon musk"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 11
       }
     ],
     "ev_autonomous": [
@@ -104,12 +109,13 @@
           "uber",
           "self-driving"
         ],
-        "category": "ev_autonomous"
+        "category": "ev_autonomous",
+        "baseScore": 6
       },
       {
         "title": "Tesla launches Model 3 RWD in Canada at record-low $39,490 ($29,000 USD) from China",
         "link": "https://electrek.co/2026/05/01/tesla-model-3-rwd-premium-canada-record-low-price-giga-shanghai/",
-        "description": "Tesla has launched a new Model 3 Premium RWD trim in Canada starting at just $39,490 CAD — a record-low price for the electric sedan in the country. The price, which converts to roughly $29,000 USD, is made possible by sourcing the vehicle from Giga Shanghai instead of Fremont, California.\nThe move marks the first time Tesla is selling China-made vehicles in Canada since the country imposed a 100% tariff on Chinese EVs back in 2024 — and it creates a massive price gap with the Model 3 Performance.\nmore…",
+        "description": "Tesla has launched a new Model 3 Premium RWD trim in Canada starting at just $39,490 CAD — a record-low price for the electric sedan in the country. The price, which converts to roughly $29,000 USD, is made possible by sourcing the vehicle from Giga Shanghai instead of Fremont, California. The move marks the first time Tesla is selling China-made vehicles in Canada since the country imposed a 100% tariff on Chinese EVs back in 2024 — and it creates a massive price gap with the Model 3 Performanc",
         "published": "2026-05-02T03:06:10.000Z",
         "source": "Electrek",
         "sourceKey": "electrek",
@@ -119,8 +125,11 @@
         "matchedKeywords": [
           "tesla"
         ],
-        "category": "ev_autonomous"
-      },
+        "category": "ev_autonomous",
+        "baseScore": 4
+      }
+    ],
+    "crypto": [
       {
         "title": "New Bitcoin quantum proposal offers Satoshi Nakamoto a way to prove control without moving BTC",
         "link": "https://www.coindesk.com/tech/2026/05/02/new-bitcoin-quantum-proposal-offers-satoshi-nakamoto-a-way-to-prove-control-without-moving-btc",
@@ -132,10 +141,11 @@
         "image": null,
         "relevanceScore": 4,
         "matchedKeywords": [
-          "quantum",
-          "bitcoin"
+          "bitcoin",
+          "quantum computer"
         ],
-        "category": "ev_autonomous"
+        "category": "crypto",
+        "baseScore": 4
       }
     ]
   },

@@ -20,7 +20,8 @@
         "openai",
         "anthropic"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 14
     },
     {
       "title": "Nvidia-Backed AI Startup Firmus Signs New Contract Ahead of IPO",
@@ -31,19 +32,19 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 12,
+      "relevanceScore": 9,
       "matchedKeywords": [
         "nvidia",
-        "intel",
         "ipo",
         "data center"
       ],
-      "category": "chips_cloud"
+      "category": "chips_cloud",
+      "baseScore": 9
     },
     {
       "title": "Qualcomm’s new chip is geared toward wearable AI gadgets",
       "link": "https://www.theverge.com/tech/886434/qualcomm-snapdragon-wear-elite-wearables",
-      "description": "AI wearables, all the way down. | Image: Qualcomm\t\n\nLike it or not, more AI wearables may be on the horizon - or at least Qualcomm seems to think so. Today the company announced its new Snapdragon Wear Elite chip. \nAt a press briefing, Qualcomm said it considers the Elite to be a \"wrist plus\" chip. Meaning, it won't replace the previous W5 Plus, but exist alongside it. The company said it expects the Elite will appeal to gadget makers looking to create AI wearables such as pendants, pins, and potentially display-free smart glasses. (More powerful smart glasses will likely use its AR chip.) \nOn top of being upgraded to the 3nm process, the Elite chip will have an eNPU and a Hexagon NPU for A …\nRead the full story at The Verge.",
+      "description": "AI wearables, all the way down. | Image: Qualcomm Like it or not, more AI wearables may be on the horizon - or at least Qualcomm seems to think so. Today the company announced its new Snapdragon Wear Elite chip. At a press briefing, Qualcomm said it considers the Elite to be a \"wrist plus\" chip. Meaning, it won't replace the previous W5 Plus, but exist alongside it. The company said it expects the Elite will appeal to gadget makers looking to create AI wearables such as pendants, pins, and poten",
       "published": "2026-03-02T07:00:00.000Z",
       "source": "The Verge",
       "sourceKey": "theverge",
@@ -54,7 +55,8 @@
         "qualcomm",
         "chip"
       ],
-      "category": "ai"
+      "category": "chips_cloud",
+      "baseScore": 6
     },
     {
       "title": "Amazon Cloud Suffers Outage After ‘Objects’ Hit UAE Data Center",
@@ -70,7 +72,8 @@
         "amazon",
         "data center"
       ],
-      "category": "chips_cloud"
+      "category": "chips_cloud",
+      "baseScore": 6
     },
     {
       "title": "Geely Extends Lead Over BYD With Biggest Sales Gap Since 2022",
@@ -85,12 +88,13 @@
       "matchedKeywords": [
         "byd"
       ],
-      "category": "ev_autonomous"
+      "category": "ev_autonomous",
+      "baseScore": 5
     },
     {
       "title": "Qualcomm announces Snapdragon Wear Elite for next gen of Wear OS, Galaxy Watch",
       "link": "https://9to5google.com/2026/03/01/qualcomm-snapdragon-wear-elite/",
-      "description": "At MWC 2026, Qualcomm announced the premium Snapdragon Wear Elite for Wear OS and other AI form factors.\nmore…",
+      "description": "At MWC 2026, Qualcomm announced the premium Snapdragon Wear Elite for Wear OS and other AI form factors. more…",
       "published": "2026-03-02T07:00:00.000Z",
       "source": "9to5Google",
       "sourceKey": "9to5google",
@@ -100,7 +104,8 @@
       "matchedKeywords": [
         "qualcomm"
       ],
-      "category": "ai"
+      "category": "chips_cloud",
+      "baseScore": 4
     }
   ],
   "byCategory": {
@@ -119,38 +124,8 @@
           "openai",
           "anthropic"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "Qualcomm’s new chip is geared toward wearable AI gadgets",
-        "link": "https://www.theverge.com/tech/886434/qualcomm-snapdragon-wear-elite-wearables",
-        "description": "AI wearables, all the way down. | Image: Qualcomm\t\n\nLike it or not, more AI wearables may be on the horizon - or at least Qualcomm seems to think so. Today the company announced its new Snapdragon Wear Elite chip. \nAt a press briefing, Qualcomm said it considers the Elite to be a \"wrist plus\" chip. Meaning, it won't replace the previous W5 Plus, but exist alongside it. The company said it expects the Elite will appeal to gadget makers looking to create AI wearables such as pendants, pins, and potentially display-free smart glasses. (More powerful smart glasses will likely use its AR chip.) \nOn top of being upgraded to the 3nm process, the Elite chip will have an eNPU and a Hexagon NPU for A …\nRead the full story at The Verge.",
-        "published": "2026-03-02T07:00:00.000Z",
-        "source": "The Verge",
-        "sourceKey": "theverge",
-        "priority": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/assets_2026_02_1772145282_Snapdragon-Wear-Elite-Hero-Image.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "relevanceScore": 6,
-        "matchedKeywords": [
-          "qualcomm",
-          "chip"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Qualcomm announces Snapdragon Wear Elite for next gen of Wear OS, Galaxy Watch",
-        "link": "https://9to5google.com/2026/03/01/qualcomm-snapdragon-wear-elite/",
-        "description": "At MWC 2026, Qualcomm announced the premium Snapdragon Wear Elite for Wear OS and other AI form factors.\nmore…",
-        "published": "2026-03-02T07:00:00.000Z",
-        "source": "9to5Google",
-        "sourceKey": "9to5google",
-        "priority": 2,
-        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Snapdragon-Wear-Elite-cover.jpg?quality=82&#038;strip=all&#038;w=1600",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "qualcomm"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 14
       }
     ],
     "chips_cloud": [
@@ -163,14 +138,31 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 12,
+        "relevanceScore": 9,
         "matchedKeywords": [
           "nvidia",
-          "intel",
           "ipo",
           "data center"
         ],
-        "category": "chips_cloud"
+        "category": "chips_cloud",
+        "baseScore": 9
+      },
+      {
+        "title": "Qualcomm’s new chip is geared toward wearable AI gadgets",
+        "link": "https://www.theverge.com/tech/886434/qualcomm-snapdragon-wear-elite-wearables",
+        "description": "AI wearables, all the way down. | Image: Qualcomm Like it or not, more AI wearables may be on the horizon - or at least Qualcomm seems to think so. Today the company announced its new Snapdragon Wear Elite chip. At a press briefing, Qualcomm said it considers the Elite to be a \"wrist plus\" chip. Meaning, it won't replace the previous W5 Plus, but exist alongside it. The company said it expects the Elite will appeal to gadget makers looking to create AI wearables such as pendants, pins, and poten",
+        "published": "2026-03-02T07:00:00.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/assets_2026_02_1772145282_Snapdragon-Wear-Elite-Hero-Image.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "qualcomm",
+          "chip"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 6
       },
       {
         "title": "Amazon Cloud Suffers Outage After ‘Objects’ Hit UAE Data Center",
@@ -186,7 +178,24 @@
           "amazon",
           "data center"
         ],
-        "category": "chips_cloud"
+        "category": "chips_cloud",
+        "baseScore": 6
+      },
+      {
+        "title": "Qualcomm announces Snapdragon Wear Elite for next gen of Wear OS, Galaxy Watch",
+        "link": "https://9to5google.com/2026/03/01/qualcomm-snapdragon-wear-elite/",
+        "description": "At MWC 2026, Qualcomm announced the premium Snapdragon Wear Elite for Wear OS and other AI form factors. more…",
+        "published": "2026-03-02T07:00:00.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Snapdragon-Wear-Elite-cover.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "qualcomm"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 4
       }
     ],
     "ev_autonomous": [
@@ -203,7 +212,8 @@
         "matchedKeywords": [
           "byd"
         ],
-        "category": "ev_autonomous"
+        "category": "ev_autonomous",
+        "baseScore": 5
       }
     ]
   },

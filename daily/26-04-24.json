@@ -15,47 +15,17 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 17,
+      "relevanceScore": 23,
       "matchedKeywords": [
+        "deepseek",
+        "breakthrough",
+        "ai model",
         "openai",
         "anthropic",
-        "intel",
-        "breakthrough",
         "artificial intelligence"
       ],
-      "category": "ai"
-    },
-    {
-      "title": "China’s Carmakers Grab 30% of Europe’s Plug-In Hybrid Sales",
-      "link": "https://www.bloomberg.com/news/articles/2026-04-24/china-s-carmakers-grab-30-of-europe-s-plug-in-hybrid-sales",
-      "description": "Chinese automakers made strong inroads into Europe last month as consumers rushed to buy more affordable plug-in hybrids from brands led by BYD Co.",
-      "published": "2026-04-24T00:00:00.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 7,
-      "matchedKeywords": [
-        "byd",
-        "arm"
-      ],
-      "category": "chips_cloud"
-    },
-    {
-      "title": "Lightelligence Is Said Set to Price HK IPO at Top of Range",
-      "link": "https://www.bloomberg.com/news/articles/2026-04-24/lightelligence-is-said-set-to-price-hk-ipo-at-top-of-range",
-      "description": "Chinese optical-computing company Lightelligence is poised to price its oversubscribed Hong Kong initial public offering at the top of the marketed range, according to people familiar with the matter, signaling hot demand for components used in the artificial-intelligence buildout.",
-      "published": "2026-04-24T06:11:09.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 7,
-      "matchedKeywords": [
-        "intel",
-        "ipo"
-      ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 23
     },
     {
       "title": "TSMC Shares Surge as Taiwan Lifts Single-Stock Limit for Funds",
@@ -66,30 +36,21 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 7,
+      "relevanceScore": 8,
       "matchedKeywords": [
         "tsmc",
         "semiconductor",
         "billion"
       ],
-      "category": "chips_cloud"
-    },
-    {
-      "title": "Bitcoin-holder Metaplanet raises $50 million to buy more BTC",
-      "link": "https://www.coindesk.com/markets/2026/04/24/bitcoin-holder-metaplanet-raises-usd50-million-in-zero-interest-bonds-to-buy-more-btc",
-      "description": "Metaplanet has issued 8 billion yen, or about $50 million, in zero-interest bonds to fund additional bitcoin purchases.",
-      "published": "2026-04-24T08:02:38.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "priority": 3,
-      "image": null,
-      "relevanceScore": 6,
-      "matchedKeywords": [
-        "meta",
-        "billion",
-        "bitcoin"
-      ],
-      "category": "ai"
+      "category": "business",
+      "baseScore": 7,
+      "alsoIn": [
+        {
+          "source": "CNBC",
+          "title": "TSMC shares jump to record high as Taiwan eases single-stock investment caps for funds",
+          "link": "https://www.cnbc.com/2026/04/24/tsmc-shares-record-high-taiwan-single-stock-investment-cap-for-funds.html"
+        }
+      ]
     },
     {
       "title": "Cohere to acquire German AI company Aleph Alpha as it looks to expand in Europe",
@@ -100,56 +61,13 @@
       "sourceKey": "cnbc_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 5,
+      "relevanceScore": 8,
       "matchedKeywords": [
-        "cohere"
+        "cohere",
+        "acquire"
       ],
-      "category": "ai"
-    },
-    {
-      "title": "TSMC shares jump to record high as Taiwan eases single-stock investment caps for funds",
-      "link": "https://www.cnbc.com/2026/04/24/tsmc-shares-record-high-taiwan-single-stock-investment-cap-for-funds.html",
-      "description": "TSMC, whose shares had a hit a record high on Thursday as well, last week reported a 58% increase in first-quarter profit.",
-      "published": "2026-04-24T06:21:37.000Z",
-      "source": "CNBC",
-      "sourceKey": "cnbc_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 5,
-      "matchedKeywords": [
-        "tsmc"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": "Bob Iger rejoins Thrive Capital as advisor after Disney exit",
-      "link": "https://techcrunch.com/2026/04/23/bob-iger-rejoins-thrive-capital-as-advisor-after-disney-exit/",
-      "description": "The former Disney CEO hold a stake in Thrive, and has previously held the role of the venture partner at the firm.",
-      "published": "2026-04-24T00:11:25.000Z",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "ceo"
-      ],
-      "category": "ev_autonomous"
-    },
-    {
-      "title": "People will be 'living and working' on the moon in the 2030s, says space tech CEO",
-      "link": "https://www.cnbc.com/2026/04/24/when-will-people-live-on-the-moon-in-the-2030s-says-voyager-technologies-ceo.html",
-      "description": "A lunar base will be operating on the moon by the end of the 2020s, according to Dylan Taylor, who said humans will be living there in the next decade.",
-      "published": "2026-04-24T05:30:48.000Z",
-      "source": "CNBC",
-      "sourceKey": "cnbc_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "ceo"
-      ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 8
     },
     {
       "title": "Alibaba’s Qwen AI is coming to cars, allowing drivers to order food and book hotels by voice",
@@ -160,11 +78,108 @@
       "sourceKey": "cnbc_tech",
       "priority": 1,
       "image": null,
+      "relevanceScore": 5,
+      "matchedKeywords": [
+        "alibaba"
+      ],
+      "category": "ai",
+      "baseScore": 5
+    },
+    {
+      "title": "Lightelligence Is Said Set to Price HK IPO at Top of Range",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-24/lightelligence-is-said-set-to-price-hk-ipo-at-top-of-range",
+      "description": "Chinese optical-computing company Lightelligence is poised to price its oversubscribed Hong Kong initial public offering at the top of the marketed range, according to people familiar with the matter, signaling hot demand for components used in the artificial-intelligence buildout.",
+      "published": "2026-04-24T06:11:09.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
       "relevanceScore": 4,
       "matchedKeywords": [
-        "agi"
+        "ipo"
       ],
-      "category": "ai"
+      "category": "business",
+      "baseScore": 4
+    },
+    {
+      "title": "This is the Google Health logo that might replace the Fitbit app",
+      "link": "https://9to5google.com/2026/04/23/google-health-logo/",
+      "description": "Over the weekend, we reported on the Fitbit Air and Google Health. We now have our first look at the Google Health brand. more…",
+      "published": "2026-04-24T00:55:03.000Z",
+      "source": "9to5Google",
+      "sourceKey": "9to5google",
+      "priority": 2,
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/04/Fitbit-Google-Health-icon-cover-a.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "google"
+      ],
+      "category": "other",
+      "baseScore": 4
+    },
+    {
+      "title": "Wisconsin joins prediction market fight, suing Kalshi, Coinbase, Polymarket, Robinhood and Crypto.com",
+      "link": "https://www.coindesk.com/policy/2026/04/24/wisconsin-joins-prediction-market-fight-suing-kalshi-coinbase-polymarket-robinhood-and-crypto-com",
+      "description": "The state's complaint highlights language used by prediction market platforms as language for gambling, not investing.",
+      "published": "2026-04-24T04:47:21.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "priority": 3,
+      "image": null,
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "coinbase"
+      ],
+      "category": "crypto",
+      "baseScore": 4
+    },
+    {
+      "title": "China’s Carmakers Grab 30% of Europe’s Plug-In Hybrid Sales",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-24/china-s-carmakers-grab-30-of-europe-s-plug-in-hybrid-sales",
+      "description": "Chinese automakers made strong inroads into Europe last month as consumers rushed to buy more affordable plug-in hybrids from brands led by BYD Co.",
+      "published": "2026-04-24T00:00:00.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 3,
+      "matchedKeywords": [
+        "byd"
+      ],
+      "category": "ev_autonomous",
+      "baseScore": 3
+    },
+    {
+      "title": "People will be 'living and working' on the moon in the 2030s, says space tech CEO",
+      "link": "https://www.cnbc.com/2026/04/24/when-will-people-live-on-the-moon-in-the-2030s-says-voyager-technologies-ceo.html",
+      "description": "A lunar base will be operating on the moon by the end of the 2020s, according to Dylan Taylor, who said humans will be living there in the next decade.",
+      "published": "2026-04-24T05:30:48.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 2,
+      "matchedKeywords": [
+        "ceo"
+      ],
+      "category": "space",
+      "baseScore": 2
+    },
+    {
+      "title": "Bob Iger rejoins Thrive Capital as advisor after Disney exit",
+      "link": "https://techcrunch.com/2026/04/23/bob-iger-rejoins-thrive-capital-as-advisor-after-disney-exit/",
+      "description": "The former Disney CEO hold a stake in Thrive, and has previously held the role of the venture partner at the firm.",
+      "published": "2026-04-24T00:11:25.000Z",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 2,
+      "matchedKeywords": [
+        "ceo"
+      ],
+      "category": "business",
+      "baseScore": 2
     }
   ],
   "byCategory": {
@@ -178,48 +193,17 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 17,
+        "relevanceScore": 23,
         "matchedKeywords": [
+          "deepseek",
+          "breakthrough",
+          "ai model",
           "openai",
           "anthropic",
-          "intel",
-          "breakthrough",
           "artificial intelligence"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "Lightelligence Is Said Set to Price HK IPO at Top of Range",
-        "link": "https://www.bloomberg.com/news/articles/2026-04-24/lightelligence-is-said-set-to-price-hk-ipo-at-top-of-range",
-        "description": "Chinese optical-computing company Lightelligence is poised to price its oversubscribed Hong Kong initial public offering at the top of the marketed range, according to people familiar with the matter, signaling hot demand for components used in the artificial-intelligence buildout.",
-        "published": "2026-04-24T06:11:09.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "intel",
-          "ipo"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Bitcoin-holder Metaplanet raises $50 million to buy more BTC",
-        "link": "https://www.coindesk.com/markets/2026/04/24/bitcoin-holder-metaplanet-raises-usd50-million-in-zero-interest-bonds-to-buy-more-btc",
-        "description": "Metaplanet has issued 8 billion yen, or about $50 million, in zero-interest bonds to fund additional bitcoin purchases.",
-        "published": "2026-04-24T08:02:38.000Z",
-        "source": "CoinDesk",
-        "sourceKey": "coindesk",
-        "priority": 3,
-        "image": null,
-        "relevanceScore": 6,
-        "matchedKeywords": [
-          "meta",
-          "billion",
-          "bitcoin"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 23
       },
       {
         "title": "Cohere to acquire German AI company Aleph Alpha as it looks to expand in Europe",
@@ -230,41 +214,13 @@
         "sourceKey": "cnbc_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 5,
+        "relevanceScore": 8,
         "matchedKeywords": [
-          "cohere"
+          "cohere",
+          "acquire"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "TSMC shares jump to record high as Taiwan eases single-stock investment caps for funds",
-        "link": "https://www.cnbc.com/2026/04/24/tsmc-shares-record-high-taiwan-single-stock-investment-cap-for-funds.html",
-        "description": "TSMC, whose shares had a hit a record high on Thursday as well, last week reported a 58% increase in first-quarter profit.",
-        "published": "2026-04-24T06:21:37.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "tsmc"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "People will be 'living and working' on the moon in the 2030s, says space tech CEO",
-        "link": "https://www.cnbc.com/2026/04/24/when-will-people-live-on-the-moon-in-the-2030s-says-voyager-technologies-ceo.html",
-        "description": "A lunar base will be operating on the moon by the end of the 2020s, according to Dylan Taylor, who said humans will be living there in the next decade.",
-        "published": "2026-04-24T05:30:48.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "ceo"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 8
       },
       {
         "title": "Alibaba’s Qwen AI is coming to cars, allowing drivers to order food and book hotels by voice",
@@ -275,45 +231,15 @@
         "sourceKey": "cnbc_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 5,
         "matchedKeywords": [
-          "agi"
+          "alibaba"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "This is the Google Health logo that might replace the Fitbit app",
-        "link": "https://9to5google.com/2026/04/23/google-health-logo/",
-        "description": "Over the weekend, we reported on the Fitbit Air and Google Health. We now have our first look at the Google Health brand.\nmore…",
-        "published": "2026-04-24T00:55:03.000Z",
-        "source": "9to5Google",
-        "sourceKey": "9to5google",
-        "priority": 2,
-        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/04/Fitbit-Google-Health-icon-cover-a.jpg?quality=82&#038;strip=all&#038;w=1600",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "google"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 5
       }
     ],
-    "chips_cloud": [
-      {
-        "title": "China’s Carmakers Grab 30% of Europe’s Plug-In Hybrid Sales",
-        "link": "https://www.bloomberg.com/news/articles/2026-04-24/china-s-carmakers-grab-30-of-europe-s-plug-in-hybrid-sales",
-        "description": "Chinese automakers made strong inroads into Europe last month as consumers rushed to buy more affordable plug-in hybrids from brands led by BYD Co.",
-        "published": "2026-04-24T00:00:00.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "byd",
-          "arm"
-        ],
-        "category": "chips_cloud"
-      },
+    "business": [
       {
         "title": "TSMC Shares Surge as Taiwan Lifts Single-Stock Limit for Funds",
         "link": "https://www.bloomberg.com/news/articles/2026-04-24/tsmc-shares-surge-as-taiwan-lifts-single-stock-limit-for-funds",
@@ -323,13 +249,87 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 7,
+        "relevanceScore": 8,
         "matchedKeywords": [
           "tsmc",
           "semiconductor",
           "billion"
         ],
-        "category": "chips_cloud"
+        "category": "business",
+        "baseScore": 7,
+        "alsoIn": [
+          {
+            "source": "CNBC",
+            "title": "TSMC shares jump to record high as Taiwan eases single-stock investment caps for funds",
+            "link": "https://www.cnbc.com/2026/04/24/tsmc-shares-record-high-taiwan-single-stock-investment-cap-for-funds.html"
+          }
+        ]
+      },
+      {
+        "title": "Lightelligence Is Said Set to Price HK IPO at Top of Range",
+        "link": "https://www.bloomberg.com/news/articles/2026-04-24/lightelligence-is-said-set-to-price-hk-ipo-at-top-of-range",
+        "description": "Chinese optical-computing company Lightelligence is poised to price its oversubscribed Hong Kong initial public offering at the top of the marketed range, according to people familiar with the matter, signaling hot demand for components used in the artificial-intelligence buildout.",
+        "published": "2026-04-24T06:11:09.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "ipo"
+        ],
+        "category": "business",
+        "baseScore": 4
+      },
+      {
+        "title": "Bob Iger rejoins Thrive Capital as advisor after Disney exit",
+        "link": "https://techcrunch.com/2026/04/23/bob-iger-rejoins-thrive-capital-as-advisor-after-disney-exit/",
+        "description": "The former Disney CEO hold a stake in Thrive, and has previously held the role of the venture partner at the firm.",
+        "published": "2026-04-24T00:11:25.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 2,
+        "matchedKeywords": [
+          "ceo"
+        ],
+        "category": "business",
+        "baseScore": 2
+      },
+      {
+        "title": "Interview: we talk home batteries with Franklin WH CEO Gary Lam",
+        "link": "https://electrek.co/2026/04/23/interview-we-talk-home-batteries-with-franklin-wh-ceo-gary-lam/",
+        "description": "On today’s charged up episode of Quick Charge, we’ve got Franklin WH co-founder and CEO Gary Lam here to talk us through some of the benefits of a home battery system, and what it takes to make the most of one – with, or even without a home solar panel system. more…",
+        "published": "2026-04-24T01:07:14.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/04/solar_battery.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 1,
+        "matchedKeywords": [
+          "ceo"
+        ],
+        "category": "business",
+        "baseScore": 1
+      }
+    ],
+    "other": [
+      {
+        "title": "This is the Google Health logo that might replace the Fitbit app",
+        "link": "https://9to5google.com/2026/04/23/google-health-logo/",
+        "description": "Over the weekend, we reported on the Fitbit Air and Google Health. We now have our first look at the Google Health brand. more…",
+        "published": "2026-04-24T00:55:03.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/04/Fitbit-Google-Health-icon-cover-a.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "other",
+        "baseScore": 4
       },
       {
         "title": "Norway Set to Become Latest Country to Ban Social Media for Under 16s",
@@ -340,11 +340,10 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "arm"
-        ],
-        "category": "chips_cloud"
+        "relevanceScore": 1,
+        "matchedKeywords": [],
+        "category": "other",
+        "baseScore": 1
       },
       {
         "title": "Philippines Looks to Follow Australia's Social Media Ban",
@@ -355,48 +354,15 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "arm"
-        ],
-        "category": "chips_cloud"
-      }
-    ],
-    "ev_autonomous": [
-      {
-        "title": "Bob Iger rejoins Thrive Capital as advisor after Disney exit",
-        "link": "https://techcrunch.com/2026/04/23/bob-iger-rejoins-thrive-capital-as-advisor-after-disney-exit/",
-        "description": "The former Disney CEO hold a stake in Thrive, and has previously held the role of the venture partner at the firm.",
-        "published": "2026-04-24T00:11:25.000Z",
-        "source": "TechCrunch",
-        "sourceKey": "techcrunch",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "ceo"
-        ],
-        "category": "ev_autonomous"
-      },
-      {
-        "title": "Interview: we talk home batteries with Franklin WH CEO Gary Lam",
-        "link": "https://electrek.co/2026/04/23/interview-we-talk-home-batteries-with-franklin-wh-ceo-gary-lam/",
-        "description": "On today’s charged up episode of Quick Charge, we’ve got Franklin WH co-founder and CEO Gary Lam here to talk us through some of the benefits of a home battery system, and what it takes to make the most of one – with, or even without a home solar panel system.\nmore…",
-        "published": "2026-04-24T01:07:14.000Z",
-        "source": "Electrek",
-        "sourceKey": "electrek",
-        "priority": 2,
-        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/04/solar_battery.jpg?quality=82&#038;strip=all&#038;w=1600",
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "ceo"
-        ],
-        "category": "ev_autonomous"
+        "relevanceScore": 1,
+        "matchedKeywords": [],
+        "category": "other",
+        "baseScore": 1
       }
     ],
     "crypto": [
       {
-        "title": "Wisconsin joins prediction market fight, suing Kalshi, Coinbase, Polymarket, Robinhood and Crypto.com ",
+        "title": "Wisconsin joins prediction market fight, suing Kalshi, Coinbase, Polymarket, Robinhood and Crypto.com",
         "link": "https://www.coindesk.com/policy/2026/04/24/wisconsin-joins-prediction-market-fight-suing-kalshi-coinbase-polymarket-robinhood-and-crypto-com",
         "description": "The state's complaint highlights language used by prediction market platforms as language for gambling, not investing.",
         "published": "2026-04-24T04:47:21.000Z",
@@ -408,9 +374,63 @@
         "matchedKeywords": [
           "coinbase"
         ],
-        "category": "crypto"
+        "category": "crypto",
+        "baseScore": 4
+      },
+      {
+        "title": "Bitcoin-holder Metaplanet raises $50 million to buy more BTC",
+        "link": "https://www.coindesk.com/markets/2026/04/24/bitcoin-holder-metaplanet-raises-usd50-million-in-zero-interest-bonds-to-buy-more-btc",
+        "description": "Metaplanet has issued 8 billion yen, or about $50 million, in zero-interest bonds to fund additional bitcoin purchases.",
+        "published": "2026-04-24T08:02:38.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 2,
+        "matchedKeywords": [
+          "bitcoin",
+          "billion"
+        ],
+        "category": "crypto",
+        "baseScore": 2
+      }
+    ],
+    "ev_autonomous": [
+      {
+        "title": "China’s Carmakers Grab 30% of Europe’s Plug-In Hybrid Sales",
+        "link": "https://www.bloomberg.com/news/articles/2026-04-24/china-s-carmakers-grab-30-of-europe-s-plug-in-hybrid-sales",
+        "description": "Chinese automakers made strong inroads into Europe last month as consumers rushed to buy more affordable plug-in hybrids from brands led by BYD Co.",
+        "published": "2026-04-24T00:00:00.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "byd"
+        ],
+        "category": "ev_autonomous",
+        "baseScore": 3
+      }
+    ],
+    "space": [
+      {
+        "title": "People will be 'living and working' on the moon in the 2030s, says space tech CEO",
+        "link": "https://www.cnbc.com/2026/04/24/when-will-people-live-on-the-moon-in-the-2030s-says-voyager-technologies-ceo.html",
+        "description": "A lunar base will be operating on the moon by the end of the 2020s, according to Dylan Taylor, who said humans will be living there in the next decade.",
+        "published": "2026-04-24T05:30:48.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 2,
+        "matchedKeywords": [
+          "ceo"
+        ],
+        "category": "space",
+        "baseScore": 2
       }
     ]
   },
-  "totalArticles": 16
+  "totalArticles": 14
 }

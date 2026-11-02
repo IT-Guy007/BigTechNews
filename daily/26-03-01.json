@@ -17,16 +17,17 @@
       "image": null,
       "relevanceScore": 15,
       "matchedKeywords": [
+        "anthropic",
         "google",
-        "openai",
-        "anthropic"
+        "openai"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 15
     },
     {
       "title": "Will Apple’s upcoming low-cost MacBook actually be worthwhile?",
       "link": "https://9to5mac.com/2026/02/28/low-cost-macbook-comparison-to-macbook-air-good-value/",
-      "description": "As soon as next week, Apple is set to unveil its cheapest MacBook to date. It’ll be powered by an A18 Pro chip, offer a 12.9-inch display, and come in a plethora of colors. It’ll also have a couple key compromises to bring it down to a lower starting price. That raises the question: will it be worth it compared to the MacBook Air?\nmore…",
+      "description": "As soon as next week, Apple is set to unveil its cheapest MacBook to date. It’ll be powered by an A18 Pro chip, offer a 12.9-inch display, and come in a plethora of colors. It’ll also have a couple key compromises to bring it down to a lower starting price. That raises the question: will it be worth it compared to the MacBook Air? more…",
       "published": "2026-03-01T01:43:37.000Z",
       "source": "9to5Mac",
       "sourceKey": "9to5mac",
@@ -37,7 +38,24 @@
         "apple",
         "chip"
       ],
-      "category": "ai"
+      "category": "devices",
+      "baseScore": 5
+    },
+    {
+      "title": "Security Bite: What Apple does with your spam reports",
+      "link": "https://9to5mac.com/2026/02/28/security-bite-why-apple-still-needs-your-spam-reports/",
+      "description": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform. Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated Hardening & Compliance, Next Generation EDR, AI-powered Zero Trust, and exclusive Privilege Management with the most powerful and modern Apple MDM on the market. The result is a totally automated Appl",
+      "published": "2026-03-01T02:12:44.000Z",
+      "source": "9to5Mac",
+      "sourceKey": "9to5mac",
+      "priority": 2,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/delete-junk-imessage.png?w=1600",
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "apple"
+      ],
+      "category": "regulation",
+      "baseScore": 4
     },
     {
       "title": "China’s Policy Summit Puts Tech, Stimulus in Focus for Investors",
@@ -48,26 +66,10 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "agi"
-      ],
-      "category": "ev_autonomous"
-    },
-    {
-      "title": "Security Bite: What Apple does with your spam reports",
-      "link": "https://9to5mac.com/2026/02/28/security-bite-why-apple-still-needs-your-spam-reports/",
-      "description": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform. Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated Hardening & Compliance, Next Generation EDR, AI-powered Zero Trust, and exclusive Privilege Management with the most powerful and modern Apple MDM on the market. The result is a totally automated Apple Unified Platform currently trusted by over 45,000 organizations to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple.\nMuch like the infamously useless “close door” button in an elevator, reporting spam on an iPhone or Mac often feels like a placebo. This skepticism isn’t exclusive to Apple either. There is widespread distrust of reporting features in general. The issue largely stems from a lack of transparency. Because users rarely see a noticeable decline in junk mail after hitting “report,” many assume the button does nothing and eventually stop using it altogether.\nWhile Apple does provide a great support document for how to make reports, it doesn’t explain exactly what it does with these reports to improve its security prowess. Allow me to shed some light here…\nmore…",
-      "published": "2026-03-01T02:12:44.000Z",
-      "source": "9to5Mac",
-      "sourceKey": "9to5mac",
-      "priority": 2,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/delete-junk-imessage.png?w=1600",
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "apple"
-      ],
-      "category": "ai"
+      "relevanceScore": 1,
+      "matchedKeywords": [],
+      "category": "business",
+      "baseScore": 1
     }
   ],
   "byCategory": {
@@ -83,16 +85,19 @@
         "image": null,
         "relevanceScore": 15,
         "matchedKeywords": [
+          "anthropic",
           "google",
-          "openai",
-          "anthropic"
+          "openai"
         ],
-        "category": "ai"
-      },
+        "category": "ai",
+        "baseScore": 15
+      }
+    ],
+    "devices": [
       {
         "title": "Will Apple’s upcoming low-cost MacBook actually be worthwhile?",
         "link": "https://9to5mac.com/2026/02/28/low-cost-macbook-comparison-to-macbook-air-good-value/",
-        "description": "As soon as next week, Apple is set to unveil its cheapest MacBook to date. It’ll be powered by an A18 Pro chip, offer a 12.9-inch display, and come in a plethora of colors. It’ll also have a couple key compromises to bring it down to a lower starting price. That raises the question: will it be worth it compared to the MacBook Air?\nmore…",
+        "description": "As soon as next week, Apple is set to unveil its cheapest MacBook to date. It’ll be powered by an A18 Pro chip, offer a 12.9-inch display, and come in a plethora of colors. It’ll also have a couple key compromises to bring it down to a lower starting price. That raises the question: will it be worth it compared to the MacBook Air? more…",
         "published": "2026-03-01T01:43:37.000Z",
         "source": "9to5Mac",
         "sourceKey": "9to5mac",
@@ -103,12 +108,15 @@
           "apple",
           "chip"
         ],
-        "category": "ai"
-      },
+        "category": "devices",
+        "baseScore": 5
+      }
+    ],
+    "regulation": [
       {
         "title": "Security Bite: What Apple does with your spam reports",
         "link": "https://9to5mac.com/2026/02/28/security-bite-why-apple-still-needs-your-spam-reports/",
-        "description": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform. Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated Hardening & Compliance, Next Generation EDR, AI-powered Zero Trust, and exclusive Privilege Management with the most powerful and modern Apple MDM on the market. The result is a totally automated Apple Unified Platform currently trusted by over 45,000 organizations to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple.\nMuch like the infamously useless “close door” button in an elevator, reporting spam on an iPhone or Mac often feels like a placebo. This skepticism isn’t exclusive to Apple either. There is widespread distrust of reporting features in general. The issue largely stems from a lack of transparency. Because users rarely see a noticeable decline in junk mail after hitting “report,” many assume the button does nothing and eventually stop using it altogether.\nWhile Apple does provide a great support document for how to make reports, it doesn’t explain exactly what it does with these reports to improve its security prowess. Allow me to shed some light here…\nmore…",
+        "description": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform. Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated Hardening & Compliance, Next Generation EDR, AI-powered Zero Trust, and exclusive Privilege Management with the most powerful and modern Apple MDM on the market. The result is a totally automated Appl",
         "published": "2026-03-01T02:12:44.000Z",
         "source": "9to5Mac",
         "sourceKey": "9to5mac",
@@ -118,10 +126,11 @@
         "matchedKeywords": [
           "apple"
         ],
-        "category": "ai"
+        "category": "regulation",
+        "baseScore": 4
       }
     ],
-    "ev_autonomous": [
+    "business": [
       {
         "title": "China’s Policy Summit Puts Tech, Stimulus in Focus for Investors",
         "link": "https://www.bloomberg.com/news/articles/2026-03-01/china-s-policy-summit-puts-tech-stimulus-in-focus-for-investors",
@@ -131,11 +140,10 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "agi"
-        ],
-        "category": "ev_autonomous"
+        "relevanceScore": 1,
+        "matchedKeywords": [],
+        "category": "business",
+        "baseScore": 1
       }
     ]
   },

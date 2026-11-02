@@ -15,15 +15,16 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 23,
+      "relevanceScore": 20,
       "matchedKeywords": [
-        "openai",
         "anthropic",
-        "intel",
         "claude",
-        "ipo"
+        "ipo",
+        "openai",
+        "artificial intelligence"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 20
     },
     {
       "title": "AI Breakthrough From Google Exposes Divide in Memory Chip Stocks",
@@ -34,31 +35,15 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 12,
+      "relevanceScore": 10,
       "matchedKeywords": [
         "google",
-        "intel",
         "breakthrough",
-        "artificial intelligence",
-        "chip"
+        "chip",
+        "artificial intelligence"
       ],
-      "category": "ai"
-    },
-    {
-      "title": "Judge sides with Anthropic to temporarily block the Pentagon&#8217;s ban",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
-      "description": "After Anthropic's weeks-long standoff with the Pentagon, the company won one milestone: A judge granted Anthropic a preliminary injunction in its lawsuit, which sought to reverse its government blacklisting while the judicial process plays out. \n\"The Department of War's records show that it designated Anthropic as a supply chain risk because of its 'hostile manner through the press,'\" Judge Rita F. Lin, a district judge in the northern district of California, wrote in the order, which will go into effect in seven days. \"Punishing Anthropic for bringing public scrutiny to the government's contracting position is classic illegal First Amendme …\nRead the full story at The Verge.",
-      "published": "2026-03-27T00:33:44.000Z",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "priority": 1,
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268367_dod_and_anthropics_public_fight_over_lethal_autonomous_weapons_a_mass_surveillance_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "anthropic",
-        "lawsuit"
-      ],
-      "category": "ai"
+      "category": "chips_cloud",
+      "baseScore": 10
     },
     {
       "title": "Anthropic wins preliminary injunction in DOD fight as judge cites 'First Amendment retaliation'",
@@ -74,7 +59,25 @@
         "anthropic",
         "lawsuit"
       ],
-      "category": "ai"
+      "category": "regulation",
+      "baseScore": 9
+    },
+    {
+      "title": "Judge sides with Anthropic to temporarily block the Pentagon’s ban",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+      "description": "After Anthropic's weeks-long standoff with the Pentagon, the company won one milestone: A judge granted Anthropic a preliminary injunction in its lawsuit, which sought to reverse its government blacklisting while the judicial process plays out. \"The Department of War's records show that it designated Anthropic as a supply chain risk because of its 'hostile manner through the press,'\" Judge Rita F. Lin, a district judge in the northern district of California, wrote in the order, which will go int",
+      "published": "2026-03-27T00:33:44.000Z",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "priority": 1,
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268367_dod_and_anthropics_public_fight_over_lethal_autonomous_weapons_a_mass_surveillance_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "anthropic",
+        "lawsuit"
+      ],
+      "category": "regulation",
+      "baseScore": 9
     },
     {
       "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
@@ -89,7 +92,8 @@
       "matchedKeywords": [
         "anthropic"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 8
     },
     {
       "title": "Pony AI CEO: Middle East Market Remains a Priority",
@@ -100,27 +104,59 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 8,
+      "relevanceScore": 6,
       "matchedKeywords": [
         "ceo",
         "robotaxi"
       ],
-      "category": "ai"
+      "category": "business",
+      "baseScore": 6
     },
     {
-      "title": "China’s Carmakers Return to Growth in Europe With EV Sales",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-27/china-s-carmakers-return-to-growth-in-europe-with-ev-sales",
-      "description": "Chinese automakers regained momentum in Europe in February, increasing pressure on Western incumbents after a brief sales slowdown at the start of the year.",
-      "published": "2026-03-27T00:01:00.000Z",
+      "title": "For All Mankind season five now streaming on Apple TV",
+      "link": "https://9to5mac.com/2026/03/26/for-all-mankind-apple-tv-season-five/",
+      "description": "The fifth season of For All Mankind starts streaming today on Apple TV. The long-running space drama rolls out weekly, with new episodes dropping every Friday. This marks the start of the penultimate season of the series, with production on the sixth and final season already underway. A spin-off show, called Star City, premieres at the end of May. more…",
+      "published": "2026-03-27T01:00:00.000Z",
+      "source": "9to5Mac",
+      "sourceKey": "9to5mac",
+      "priority": 2,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/apple-tv-for-all-mankind.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "apple"
+      ],
+      "category": "devices",
+      "baseScore": 4
+    },
+    {
+      "title": "Apple TV announces sci-fi thriller starring Vanessa Kirby and Yahya Abdul-Mateen II",
+      "link": "https://9to5mac.com/2026/03/26/apple-tv-announces-sci-fi-thriller-starring-vanessa-kirby-and-yahya-abdul-mateen-ii/",
+      "description": "Apple Original Films’ newest project is based on the award-winning graphic novel Telepaths. Here are the details. more…",
+      "published": "2026-03-27T00:39:14.000Z",
+      "source": "9to5Mac",
+      "sourceKey": "9to5mac",
+      "priority": 2,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-tv-new-logo.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "apple"
+      ],
+      "category": "devices",
+      "baseScore": 4
+    },
+    {
+      "title": "German Engine Maker’s Defense Pivot to Yield Revenue Jump",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-27/german-engine-maker-s-defense-pivot-to-yield-revenue-jump",
+      "description": "Deutz AG sees double-digit revenue growth for 2026 as the agricultural engine maker pushes deeper into defense, positioning itself to benefit from Europe’s rearmament drive.",
+      "published": "2026-03-27T06:18:19.000Z",
       "source": "Bloomberg",
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 5,
-      "matchedKeywords": [
-        "arm"
-      ],
-      "category": "ai"
+      "relevanceScore": 1,
+      "matchedKeywords": [],
+      "category": "business",
+      "baseScore": 1
     },
     {
       "title": "Can Lesotho Solve Johannesburg's Water Crisis?",
@@ -131,41 +167,10 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "agi"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": "For All Mankind season five now streaming on Apple TV",
-      "link": "https://9to5mac.com/2026/03/26/for-all-mankind-apple-tv-season-five/",
-      "description": "The fifth season of For All Mankind starts streaming today on Apple TV. The long-running space drama rolls out weekly, with new episodes dropping every Friday. \nThis marks the start of the penultimate season of the series, with production on the sixth and final season already underway. A spin-off show, called Star City, premieres at the end of May. \nmore…",
-      "published": "2026-03-27T01:00:00.000Z",
-      "source": "9to5Mac",
-      "sourceKey": "9to5mac",
-      "priority": 2,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/apple-tv-for-all-mankind.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "apple"
-      ],
-      "category": "ev_autonomous"
-    },
-    {
-      "title": "Apple TV announces sci-fi thriller starring Vanessa Kirby and Yahya Abdul-Mateen II",
-      "link": "https://9to5mac.com/2026/03/26/apple-tv-announces-sci-fi-thriller-starring-vanessa-kirby-and-yahya-abdul-mateen-ii/",
-      "description": "Apple Original Films’ newest project is based on the award-winning graphic novel Telepaths. Here are the details.\nmore…",
-      "published": "2026-03-27T00:39:14.000Z",
-      "source": "9to5Mac",
-      "sourceKey": "9to5mac",
-      "priority": 2,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-tv-new-logo.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "apple"
-      ],
-      "category": "ai"
+      "relevanceScore": 1,
+      "matchedKeywords": [],
+      "category": "business",
+      "baseScore": 1
     }
   ],
   "byCategory": {
@@ -179,66 +184,16 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 23,
+        "relevanceScore": 20,
         "matchedKeywords": [
-          "openai",
           "anthropic",
-          "intel",
           "claude",
-          "ipo"
+          "ipo",
+          "openai",
+          "artificial intelligence"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "AI Breakthrough From Google Exposes Divide in Memory Chip Stocks",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-27/ai-breakthrough-from-google-exposes-divide-in-memory-stocks",
-        "description": "A two-day selloff in memory-chip stocks is revealing a split in the artificial intelligence trade, as Google touts a breakthrough that analysts say may curb demand for certain types of storage while leaving others largely unscathed.",
-        "published": "2026-03-27T05:59:40.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 12,
-        "matchedKeywords": [
-          "google",
-          "intel",
-          "breakthrough",
-          "artificial intelligence",
-          "chip"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Judge sides with Anthropic to temporarily block the Pentagon&#8217;s ban",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
-        "description": "After Anthropic's weeks-long standoff with the Pentagon, the company won one milestone: A judge granted Anthropic a preliminary injunction in its lawsuit, which sought to reverse its government blacklisting while the judicial process plays out. \n\"The Department of War's records show that it designated Anthropic as a supply chain risk because of its 'hostile manner through the press,'\" Judge Rita F. Lin, a district judge in the northern district of California, wrote in the order, which will go into effect in seven days. \"Punishing Anthropic for bringing public scrutiny to the government's contracting position is classic illegal First Amendme …\nRead the full story at The Verge.",
-        "published": "2026-03-27T00:33:44.000Z",
-        "source": "The Verge",
-        "sourceKey": "theverge",
-        "priority": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268367_dod_and_anthropics_public_fight_over_lethal_autonomous_weapons_a_mass_surveillance_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "relevanceScore": 9,
-        "matchedKeywords": [
-          "anthropic",
-          "lawsuit"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Anthropic wins preliminary injunction in DOD fight as judge cites 'First Amendment retaliation'",
-        "link": "https://www.cnbc.com/2026/03/26/anthropic-pentagon-dod-claude-court-ruling.html",
-        "description": "A federal judge in San Francisco granted Anthropic's request for a preliminary injunction in its lawsuit against the Trump administration.",
-        "published": "2026-03-27T02:20:02.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 9,
-        "matchedKeywords": [
-          "anthropic",
-          "lawsuit"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 20
       },
       {
         "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
@@ -253,68 +208,8 @@
         "matchedKeywords": [
           "anthropic"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "Pony AI CEO: Middle East Market Remains a Priority",
-        "link": "https://www.bloomberg.com/news/videos/2026-03-27/pony-ai-ceo-middle-east-market-remains-a-priority-video",
-        "description": "Pony AI has reported its first profitable quarter. Founder and CEO James Peng says the company plans to expand its robotaxi business both domestically and overseas, citing strong demand. Peng adds that the Middle East remains a key priority market for Pony AI. He spoke exclusively on \"Bloomberg: The China Show.\" (Source: Bloomberg)",
-        "published": "2026-03-27T03:42:24.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 8,
-        "matchedKeywords": [
-          "ceo",
-          "robotaxi"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "China’s Carmakers Return to Growth in Europe With EV Sales",
-        "link": "https://www.bloomberg.com/news/articles/2026-03-27/china-s-carmakers-return-to-growth-in-europe-with-ev-sales",
-        "description": "Chinese automakers regained momentum in Europe in February, increasing pressure on Western incumbents after a brief sales slowdown at the start of the year.",
-        "published": "2026-03-27T00:01:00.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "arm"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Can Lesotho Solve Johannesburg's Water Crisis?",
-        "link": "https://www.bloomberg.com/news/videos/2026-03-27/can-lesotho-solve-johannesburg-s-water-crisis",
-        "description": "Much of Johannesburg’s water comes from Lesotho's highlands, where a major dam project could shape the future of supply as aging infrastructure and climate pressures strain the system. The project is also a major source of revenue for Lesotho, generating hundreds of millions of dollars each year. Bloomberg's Jennifer Zabasajja reports. (Source: Bloomberg)",
-        "published": "2026-03-27T06:00:06.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "agi"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Apple TV announces sci-fi thriller starring Vanessa Kirby and Yahya Abdul-Mateen II",
-        "link": "https://9to5mac.com/2026/03/26/apple-tv-announces-sci-fi-thriller-starring-vanessa-kirby-and-yahya-abdul-mateen-ii/",
-        "description": "Apple Original Films’ newest project is based on the award-winning graphic novel Telepaths. Here are the details.\nmore…",
-        "published": "2026-03-27T00:39:14.000Z",
-        "source": "9to5Mac",
-        "sourceKey": "9to5mac",
-        "priority": 2,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-tv-new-logo.jpg?quality=82&#038;strip=all&#038;w=1600",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 8
       },
       {
         "title": "How AI Is Reshaping The Battlefield | Bloomberg Tech: Asia 3/27/2026",
@@ -325,31 +220,87 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "arm"
-        ],
-        "category": "ai"
-      }
-    ],
-    "ev_autonomous": [
-      {
-        "title": "For All Mankind season five now streaming on Apple TV",
-        "link": "https://9to5mac.com/2026/03/26/for-all-mankind-apple-tv-season-five/",
-        "description": "The fifth season of For All Mankind starts streaming today on Apple TV. The long-running space drama rolls out weekly, with new episodes dropping every Friday. \nThis marks the start of the penultimate season of the series, with production on the sixth and final season already underway. A spin-off show, called Star City, premieres at the end of May. \nmore…",
-        "published": "2026-03-27T01:00:00.000Z",
-        "source": "9to5Mac",
-        "sourceKey": "9to5mac",
-        "priority": 2,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/apple-tv-for-all-mankind.jpg?quality=82&#038;strip=all&#038;w=1600",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "ev_autonomous"
+        "relevanceScore": 1,
+        "matchedKeywords": [],
+        "category": "ai",
+        "baseScore": 1
       }
     ],
     "chips_cloud": [
+      {
+        "title": "AI Breakthrough From Google Exposes Divide in Memory Chip Stocks",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-27/ai-breakthrough-from-google-exposes-divide-in-memory-stocks",
+        "description": "A two-day selloff in memory-chip stocks is revealing a split in the artificial intelligence trade, as Google touts a breakthrough that analysts say may curb demand for certain types of storage while leaving others largely unscathed.",
+        "published": "2026-03-27T05:59:40.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "google",
+          "breakthrough",
+          "chip",
+          "artificial intelligence"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 10
+      }
+    ],
+    "regulation": [
+      {
+        "title": "Anthropic wins preliminary injunction in DOD fight as judge cites 'First Amendment retaliation'",
+        "link": "https://www.cnbc.com/2026/03/26/anthropic-pentagon-dod-claude-court-ruling.html",
+        "description": "A federal judge in San Francisco granted Anthropic's request for a preliminary injunction in its lawsuit against the Trump administration.",
+        "published": "2026-03-27T02:20:02.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "anthropic",
+          "lawsuit"
+        ],
+        "category": "regulation",
+        "baseScore": 9
+      },
+      {
+        "title": "Judge sides with Anthropic to temporarily block the Pentagon’s ban",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+        "description": "After Anthropic's weeks-long standoff with the Pentagon, the company won one milestone: A judge granted Anthropic a preliminary injunction in its lawsuit, which sought to reverse its government blacklisting while the judicial process plays out. \"The Department of War's records show that it designated Anthropic as a supply chain risk because of its 'hostile manner through the press,'\" Judge Rita F. Lin, a district judge in the northern district of California, wrote in the order, which will go int",
+        "published": "2026-03-27T00:33:44.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268367_dod_and_anthropics_public_fight_over_lethal_autonomous_weapons_a_mass_surveillance_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "anthropic",
+          "lawsuit"
+        ],
+        "category": "regulation",
+        "baseScore": 9
+      }
+    ],
+    "business": [
+      {
+        "title": "Pony AI CEO: Middle East Market Remains a Priority",
+        "link": "https://www.bloomberg.com/news/videos/2026-03-27/pony-ai-ceo-middle-east-market-remains-a-priority-video",
+        "description": "Pony AI has reported its first profitable quarter. Founder and CEO James Peng says the company plans to expand its robotaxi business both domestically and overseas, citing strong demand. Peng adds that the Middle East remains a key priority market for Pony AI. He spoke exclusively on \"Bloomberg: The China Show.\" (Source: Bloomberg)",
+        "published": "2026-03-27T03:42:24.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "ceo",
+          "robotaxi"
+        ],
+        "category": "business",
+        "baseScore": 6
+      },
       {
         "title": "German Engine Maker’s Defense Pivot to Yield Revenue Jump",
         "link": "https://www.bloomberg.com/news/articles/2026-03-27/german-engine-maker-s-defense-pivot-to-yield-revenue-jump",
@@ -359,11 +310,74 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 3,
+        "relevanceScore": 1,
+        "matchedKeywords": [],
+        "category": "business",
+        "baseScore": 1
+      },
+      {
+        "title": "Can Lesotho Solve Johannesburg's Water Crisis?",
+        "link": "https://www.bloomberg.com/news/videos/2026-03-27/can-lesotho-solve-johannesburg-s-water-crisis",
+        "description": "Much of Johannesburg’s water comes from Lesotho's highlands, where a major dam project could shape the future of supply as aging infrastructure and climate pressures strain the system. The project is also a major source of revenue for Lesotho, generating hundreds of millions of dollars each year. Bloomberg's Jennifer Zabasajja reports. (Source: Bloomberg)",
+        "published": "2026-03-27T06:00:06.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 1,
+        "matchedKeywords": [],
+        "category": "business",
+        "baseScore": 1
+      }
+    ],
+    "devices": [
+      {
+        "title": "For All Mankind season five now streaming on Apple TV",
+        "link": "https://9to5mac.com/2026/03/26/for-all-mankind-apple-tv-season-five/",
+        "description": "The fifth season of For All Mankind starts streaming today on Apple TV. The long-running space drama rolls out weekly, with new episodes dropping every Friday. This marks the start of the penultimate season of the series, with production on the sixth and final season already underway. A spin-off show, called Star City, premieres at the end of May. more…",
+        "published": "2026-03-27T01:00:00.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/apple-tv-for-all-mankind.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
         "matchedKeywords": [
-          "arm"
+          "apple"
         ],
-        "category": "chips_cloud"
+        "category": "devices",
+        "baseScore": 4
+      },
+      {
+        "title": "Apple TV announces sci-fi thriller starring Vanessa Kirby and Yahya Abdul-Mateen II",
+        "link": "https://9to5mac.com/2026/03/26/apple-tv-announces-sci-fi-thriller-starring-vanessa-kirby-and-yahya-abdul-mateen-ii/",
+        "description": "Apple Original Films’ newest project is based on the award-winning graphic novel Telepaths. Here are the details. more…",
+        "published": "2026-03-27T00:39:14.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-tv-new-logo.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices",
+        "baseScore": 4
+      }
+    ],
+    "ev_autonomous": [
+      {
+        "title": "China’s Carmakers Return to Growth in Europe With EV Sales",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-27/china-s-carmakers-return-to-growth-in-europe-with-ev-sales",
+        "description": "Chinese automakers regained momentum in Europe in February, increasing pressure on Western incumbents after a brief sales slowdown at the start of the year.",
+        "published": "2026-03-27T00:01:00.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 1,
+        "matchedKeywords": [],
+        "category": "ev_autonomous",
+        "baseScore": 1
       }
     ]
   },

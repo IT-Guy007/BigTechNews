@@ -15,15 +15,17 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 22,
+      "relevanceScore": 20,
       "matchedKeywords": [
-        "nvidia",
         "anthropic",
-        "intel",
+        "nvidia",
         "jensen huang",
-        "dario amodei"
+        "dario amodei",
+        "breakthrough",
+        "artificial intelligence"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 20
     },
     {
       "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
@@ -34,13 +36,14 @@
       "sourceKey": "techcrunch",
       "priority": 1,
       "image": null,
-      "relevanceScore": 14,
+      "relevanceScore": 12,
       "matchedKeywords": [
         "anthropic",
-        "ceo",
-        "dario amodei"
+        "dario amodei",
+        "ceo"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 12
     },
     {
       "title": "Lyft and Baidu enter London’s robotaxi battleground as testing begins",
@@ -57,7 +60,8 @@
         "robotaxi",
         "autonomous vehicle"
       ],
-      "category": "ev_autonomous"
+      "category": "ev_autonomous",
+      "baseScore": 10
     },
     {
       "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
@@ -73,7 +77,8 @@
         "spacex",
         "acquisition"
       ],
-      "category": "space"
+      "category": "space",
+      "baseScore": 9
     },
     {
       "title": "Nvidia Staff Detained by Taiwan in China Chip Smuggling Case",
@@ -89,38 +94,8 @@
         "nvidia",
         "chip"
       ],
-      "category": "ai"
-    },
-    {
-      "title": "An Extreme Solar Storm May Be Even More Devastating Than Previously Imagined",
-      "link": "https://www.wired.com/story/an-extreme-solar-storm-may-be-even-more-devastating-than-previously-imagined/",
-      "description": "Scientists have long assumed that there’s an upper limit to the intensity of the solar winds that reach Earth. New research suggests there’s not—and the implications are alarming.",
-      "published": "2026-07-28T09:00:00.000Z",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "priority": 2,
-      "image": null,
-      "relevanceScore": 5,
-      "matchedKeywords": [
-        "arm",
-        "agi"
-      ],
-      "category": "chips_cloud"
-    },
-    {
-      "title": "Uber Eats Promo Codes: $15 Off│July 2026",
-      "link": "https://www.wired.com/story/uber-eats-promo-code/",
-      "description": "Hunger meets savings. Discover verified Uber Eats promo codes, new user offers, and Uber One discounts to slash your delivery fees and meal costs.",
-      "published": "2026-07-28T05:00:00.000Z",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "priority": 2,
-      "image": null,
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "uber"
-      ],
-      "category": null
+      "category": "chips_cloud",
+      "baseScore": 6
     },
     {
       "title": "Forget what you read on Facebook: 94% of EV drivers won’t go back to gas",
@@ -135,22 +110,8 @@
       "matchedKeywords": [
         "facebook"
       ],
-      "category": "ev_autonomous"
-    },
-    {
-      "title": "ChatGPT is now refusing requests to write in famous authors' styles",
-      "link": "https://www.engadget.com/2224867/chatgpt-refusing-to-write-in-famous-authors-styles/",
-      "description": "ChatGPT has been refusing to imitate the writing of famous authors, both living and dead.",
-      "published": "2026-07-28T09:05:25.000Z",
-      "source": "Engadget",
-      "sourceKey": "engadget",
-      "priority": 2,
-      "image": "https://www.engadget.com/img/gallery/chatgpt-is-now-refusing-requests-to-write-in-famous-authors-styles/l-intro-1785229454.jpg",
-      "relevanceScore": 3,
-      "matchedKeywords": [
-        "chatgpt"
-      ],
-      "category": "ai"
+      "category": "ev_autonomous",
+      "baseScore": 4
     },
     {
       "title": "Australia’s ‘World-First’ Data Center Rules Face First Hurdle",
@@ -166,7 +127,54 @@
         "data center",
         "billion"
       ],
-      "category": "ai"
+      "category": "chips_cloud",
+      "baseScore": 3
+    },
+    {
+      "title": "ChatGPT is now refusing requests to write in famous authors' styles",
+      "link": "https://www.engadget.com/2224867/chatgpt-refusing-to-write-in-famous-authors-styles/",
+      "description": "ChatGPT has been refusing to imitate the writing of famous authors, both living and dead.",
+      "published": "2026-07-28T09:05:25.000Z",
+      "source": "Engadget",
+      "sourceKey": "engadget",
+      "priority": 2,
+      "image": "https://www.engadget.com/img/gallery/chatgpt-is-now-refusing-requests-to-write-in-famous-authors-styles/l-intro-1785229454.jpg",
+      "relevanceScore": 3,
+      "matchedKeywords": [
+        "chatgpt"
+      ],
+      "category": "ai",
+      "baseScore": 3
+    },
+    {
+      "title": "An Extreme Solar Storm May Be Even More Devastating Than Previously Imagined",
+      "link": "https://www.wired.com/story/an-extreme-solar-storm-may-be-even-more-devastating-than-previously-imagined/",
+      "description": "Scientists have long assumed that there’s an upper limit to the intensity of the solar winds that reach Earth. New research suggests there’s not—and the implications are alarming.",
+      "published": "2026-07-28T09:00:00.000Z",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "priority": 2,
+      "image": null,
+      "relevanceScore": 0,
+      "matchedKeywords": [],
+      "category": "other",
+      "baseScore": 0
+    },
+    {
+      "title": "Uber Eats Promo Codes: $15 Off│July 2026",
+      "link": "https://www.wired.com/story/uber-eats-promo-code/",
+      "description": "Hunger meets savings. Discover verified Uber Eats promo codes, new user offers, and Uber One discounts to slash your delivery fees and meal costs.",
+      "published": "2026-07-28T05:00:00.000Z",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "priority": 2,
+      "image": null,
+      "relevanceScore": 0,
+      "matchedKeywords": [
+        "excluded"
+      ],
+      "category": "other",
+      "baseScore": 0
     }
   ],
   "byCategory": {
@@ -180,15 +188,17 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 22,
+        "relevanceScore": 20,
         "matchedKeywords": [
-          "nvidia",
           "anthropic",
-          "intel",
+          "nvidia",
           "jensen huang",
-          "dario amodei"
+          "dario amodei",
+          "breakthrough",
+          "artificial intelligence"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 20
       },
       {
         "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
@@ -199,29 +209,14 @@
         "sourceKey": "techcrunch",
         "priority": 1,
         "image": null,
-        "relevanceScore": 14,
+        "relevanceScore": 12,
         "matchedKeywords": [
           "anthropic",
-          "ceo",
-          "dario amodei"
+          "dario amodei",
+          "ceo"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "Nvidia Staff Detained by Taiwan in China Chip Smuggling Case",
-        "link": "https://www.bloomberg.com/news/articles/2026-07-28/taiwan-detains-nvidia-employee-in-china-chip-smuggling-probe",
-        "description": "Taiwanese prosecutors detained an Nvidia Corp. employee as part of a probe into the alleged smuggling of AI chips into China, thrusting the US company into a high-profile case concerning the black market for its products.",
-        "published": "2026-07-28T04:48:29.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 6,
-        "matchedKeywords": [
-          "nvidia",
-          "chip"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 12
       },
       {
         "title": "ChatGPT is now refusing requests to write in famous authors' styles",
@@ -236,38 +231,8 @@
         "matchedKeywords": [
           "chatgpt"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "Australia’s ‘World-First’ Data Center Rules Face First Hurdle",
-        "link": "https://www.bloomberg.com/news/articles/2026-07-28/australia-s-world-first-data-center-rules-face-first-hurdle",
-        "description": "Prime Minister Anthony Albanese’s proposed “world-first” environmental and energy controls for Australia’s A$150 billion ($105 billion) data center pipeline will face their first test Tuesday, when federal, state and territory energy ministers meet to discuss guardrails for the booming sector.",
-        "published": "2026-07-28T00:00:00.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "data center",
-          "billion"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Inside the CME and CFTC’s battle over onchain perpetual futures ",
-        "link": "https://www.coindesk.com/policy/2026/07/28/inside-the-cme-and-cftc-s-battle-over-onchain-perpetual-futures",
-        "description": "Weeks ago, the U.S. CFTC opened the gates for crypto perps with its first listing approval, but major derivatives player CME is fighting back against what it sees as a diversion from the law.",
-        "published": "2026-07-28T08:00:00.000Z",
-        "source": "CoinDesk",
-        "sourceKey": "coindesk",
-        "priority": 3,
-        "image": null,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "ftc"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 3
       }
     ],
     "ev_autonomous": [
@@ -286,7 +251,8 @@
           "robotaxi",
           "autonomous vehicle"
         ],
-        "category": "ev_autonomous"
+        "category": "ev_autonomous",
+        "baseScore": 10
       },
       {
         "title": "Forget what you read on Facebook: 94% of EV drivers won’t go back to gas",
@@ -301,7 +267,8 @@
         "matchedKeywords": [
           "facebook"
         ],
-        "category": "ev_autonomous"
+        "category": "ev_autonomous",
+        "baseScore": 4
       }
     ],
     "space": [
@@ -319,10 +286,47 @@
           "spacex",
           "acquisition"
         ],
-        "category": "space"
+        "category": "space",
+        "baseScore": 9
       }
     ],
     "chips_cloud": [
+      {
+        "title": "Nvidia Staff Detained by Taiwan in China Chip Smuggling Case",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-28/taiwan-detains-nvidia-employee-in-china-chip-smuggling-probe",
+        "description": "Taiwanese prosecutors detained an Nvidia Corp. employee as part of a probe into the alleged smuggling of AI chips into China, thrusting the US company into a high-profile case concerning the black market for its products.",
+        "published": "2026-07-28T04:48:29.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "nvidia",
+          "chip"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 6
+      },
+      {
+        "title": "Australia’s ‘World-First’ Data Center Rules Face First Hurdle",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-28/australia-s-world-first-data-center-rules-face-first-hurdle",
+        "description": "Prime Minister Anthony Albanese’s proposed “world-first” environmental and energy controls for Australia’s A$150 billion ($105 billion) data center pipeline will face their first test Tuesday, when federal, state and territory energy ministers meet to discuss guardrails for the booming sector.",
+        "published": "2026-07-28T00:00:00.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "data center",
+          "billion"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 3
+      }
+    ],
+    "other": [
       {
         "title": "An Extreme Solar Storm May Be Even More Devastating Than Previously Imagined",
         "link": "https://www.wired.com/story/an-extreme-solar-storm-may-be-even-more-devastating-than-previously-imagined/",
@@ -332,14 +336,44 @@
         "sourceKey": "wired",
         "priority": 2,
         "image": null,
-        "relevanceScore": 5,
+        "relevanceScore": 0,
+        "matchedKeywords": [],
+        "category": "other",
+        "baseScore": 0
+      },
+      {
+        "title": "Uber Eats Promo Codes: $15 Off│July 2026",
+        "link": "https://www.wired.com/story/uber-eats-promo-code/",
+        "description": "Hunger meets savings. Discover verified Uber Eats promo codes, new user offers, and Uber One discounts to slash your delivery fees and meal costs.",
+        "published": "2026-07-28T05:00:00.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 0,
         "matchedKeywords": [
-          "arm",
-          "agi"
+          "excluded"
         ],
-        "category": "chips_cloud"
+        "category": "other",
+        "baseScore": 0
+      }
+    ],
+    "crypto": [
+      {
+        "title": "Inside the CME and CFTC’s battle over onchain perpetual futures",
+        "link": "https://www.coindesk.com/policy/2026/07/28/inside-the-cme-and-cftc-s-battle-over-onchain-perpetual-futures",
+        "description": "Weeks ago, the U.S. CFTC opened the gates for crypto perps with its first listing approval, but major derivatives player CME is fighting back against what it sees as a diversion from the law.",
+        "published": "2026-07-28T08:00:00.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 0,
+        "matchedKeywords": [],
+        "category": "crypto",
+        "baseScore": 0
       }
     ]
   },
-  "totalArticles": 12
+  "totalArticles": 11
 }

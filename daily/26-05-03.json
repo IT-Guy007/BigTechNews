@@ -20,11 +20,12 @@
         "nvidia",
         "chip"
       ],
-      "category": "ai"
+      "category": "chips_cloud",
+      "baseScore": 6
     }
   ],
   "byCategory": {
-    "ai": [
+    "chips_cloud": [
       {
         "title": "Nvidia’s Push Into Physical AI Sparks Rally in Asian Partners",
         "link": "https://www.bloomberg.com/news/articles/2026-05-03/asian-stocks-soar-as-nvidia-increases-supply-chain-reliance-to-90-in-asia",
@@ -39,7 +40,8 @@
           "nvidia",
           "chip"
         ],
-        "category": "ai"
+        "category": "chips_cloud",
+        "baseScore": 6
       }
     ]
   },

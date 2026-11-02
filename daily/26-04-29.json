@@ -21,7 +21,8 @@
         "anthropic",
         "gemini"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 13
     },
     {
       "title": "Goldman Staff in Hong Kong Lose Access to Anthropic’s Claude",
@@ -32,12 +33,14 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 11,
+      "relevanceScore": 12,
       "matchedKeywords": [
         "anthropic",
-        "claude"
+        "claude",
+        "ai agent"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 12
     },
     {
       "title": "China’s Meta Backlash Renders Manus Model ‘Officially Dead’",
@@ -54,12 +57,13 @@
         "breakthrough",
         "billion"
       ],
-      "category": "regulation"
+      "category": "ai",
+      "baseScore": 9
     },
     {
       "title": "ChatGPT finally knows how many ‘R’s are in ‘strawberry,’ but confident mistakes remain",
       "link": "https://9to5google.com/2026/04/28/chatgpt-strawberry-logic-fix-problem/",
-      "description": "Confident mistakes – or lies, if you will – are a common problem of large language models used in AI chatbots, with one common shortcoming of ChatGPT being that it would frequently miscount the number of times the letter “R” appeared in the word “strawberry.” As OpenAI tried to take a victory lap around this, though, plenty of other confident mistakes were pointed out in the replies.\nmore…",
+      "description": "Confident mistakes – or lies, if you will – are a common problem of large language models used in AI chatbots, with one common shortcoming of ChatGPT being that it would frequently miscount the number of times the letter “R” appeared in the word “strawberry.” As OpenAI tried to take a victory lap around this, though, plenty of other confident mistakes were pointed out in the replies. more…",
       "published": "2026-04-29T02:45:00.000Z",
       "source": "9to5Google",
       "sourceKey": "9to5google",
@@ -67,11 +71,12 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/04/chatgpt-android-1.jpg?quality=82&#038;strip=all&#038;w=1600",
       "relevanceScore": 9,
       "matchedKeywords": [
-        "openai",
         "chatgpt",
+        "openai",
         "large language model"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 9
     },
     {
       "title": "At his OpenAI trial, Musk relitigates an old friendship",
@@ -86,41 +91,8 @@
       "matchedKeywords": [
         "openai"
       ],
-      "category": "ai"
-    },
-    {
-      "title": "Tensor G6 reportedly bringing latest ARM CPU cores but outdated GPU to Pixel 11",
-      "link": "https://9to5google.com/2026/04/28/google-pixel-11-tensor-g6-cpu-gpu-leak/",
-      "description": "An early, limited leak around Google’s upcoming Pixel 11 series offers some limited details around the Tensor G6 chipset inside, with a mix of good news and bad news.\nmore…",
-      "published": "2026-04-29T01:25:00.000Z",
-      "source": "9to5Google",
-      "sourceKey": "9to5google",
-      "priority": 2,
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/08/pixel-10-repair-tensor-g5-1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "relevanceScore": 8,
-      "matchedKeywords": [
-        "google",
-        "arm",
-        "chip",
-        "gpu"
-      ],
-      "category": "chips_cloud"
-    },
-    {
-      "title": "EU Escalates Meta Probe for Failing to Stop Kids Signing Up",
-      "link": "https://www.bloomberg.com/news/articles/2026-04-29/eu-escalates-probe-into-meta-for-failing-to-stop-kids-signing-up",
-      "description": "The European Union’s executive arm accused Meta Platforms Inc. of failing to keep young children off its services, ramping up a probe that could result in hefty fines.",
-      "published": "2026-04-29T07:00:00.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 7,
-      "matchedKeywords": [
-        "meta",
-        "arm"
-      ],
-      "category": "regulation"
+      "category": "ai",
+      "baseScore": 8
     },
     {
       "title": "The Race to Merge AI With Humanoid Robots",
@@ -134,41 +106,76 @@
       "relevanceScore": 6,
       "matchedKeywords": [
         "humanoid robot",
+        "humanoid",
         "billion"
       ],
-      "category": "robotics"
+      "category": "robotics",
+      "baseScore": 6
     },
     {
-      "title": "Amadeus Buys Idemia Border-Control Arm to Expand in Airports",
-      "link": "https://www.bloomberg.com/news/articles/2026-04-29/amadeus-agrees-to-buy-idemia-unit-for-1-2-billion",
-      "description": "Amadeus IT SA agreed to buy the public security arm of biometrics firm Idemia for €1.2 billion ($1.4 billion), adding border control to the Spanish travel software company’s airport services.",
-      "published": "2026-04-29T06:05:54.000Z",
+      "title": "EU Escalates Meta Probe for Failing to Stop Kids Signing Up",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-29/eu-escalates-probe-into-meta-for-failing-to-stop-kids-signing-up",
+      "description": "The European Union’s executive arm accused Meta Platforms Inc. of failing to keep young children off its services, ramping up a probe that could result in hefty fines.",
+      "published": "2026-04-29T07:00:00.000Z",
       "source": "Bloomberg",
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 6,
-      "matchedKeywords": [
-        "arm",
-        "billion"
-      ],
-      "category": "regulation"
-    },
-    {
-      "title": "Major data center company pauses investment decisions in Middle East amid Iran war, CEO tells CNBC",
-      "link": "https://www.cnbc.com/2026/04/29/oaktree-owned-pure-dc-investment-decisions-gulf-data-centers.html",
-      "description": "Regional uncertainty hangs over the previously booming AI infrastructure and data center sector in the region.",
-      "published": "2026-04-29T07:04:52.000Z",
-      "source": "CNBC",
-      "sourceKey": "cnbc_tech",
-      "priority": 1,
-      "image": null,
       "relevanceScore": 5,
       "matchedKeywords": [
-        "ceo",
-        "data center"
+        "meta"
       ],
-      "category": "ai"
+      "category": "regulation",
+      "baseScore": 5
+    },
+    {
+      "title": "James Murdoch-Backed Allen Career Institute Is Said to Consider India IPO",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-29/james-murdoch-backed-allen-career-institute-is-said-to-consider-india-ipo",
+      "description": "Allen Career Institute, an Indian education services company backed by James Murdoch and ex-Disney executive Uday Shankar, is considering an initial public offering in Mumbai, people familiar with the matter said.",
+      "published": "2026-04-29T05:46:07.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "ipo"
+      ],
+      "category": "business",
+      "baseScore": 4
+    },
+    {
+      "title": "Notepad++ Code Editor Comes to Mac After 20-Year Wait",
+      "link": "https://www.macrumors.com/2026/04/29/notepad-plus-plus-editor-comes-to-mac/",
+      "description": "The popular Notepad++ coding editor is now available as a native macOS app, following a successful open-source community port of the original Windows codebase. The Notepad replacement runs as a universal binary, so it works on both Apple silicon and Intel Macs. Notepad++ has been one of the most popular text editors on Windows for more than 20 years. Until now, Mac users who switched from Windows, or who worked across both platforms, had to choose between giving up the editor and running it thro",
+      "published": "2026-04-29T08:24:47.000Z",
+      "source": "MacRumors",
+      "sourceKey": "macrumors",
+      "priority": 2,
+      "image": "https://images.macrumors.com/article-new/2026/04/notepad-plus-plus-scaled.jpg",
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "apple",
+        "intel"
+      ],
+      "category": "devices",
+      "baseScore": 4
+    },
+    {
+      "title": "Tesla promises FSD V14 Lite for HW3 cars internationally to appease growing tensions",
+      "link": "https://electrek.co/2026/04/28/tesla-promises-fsd-v14-lite-hw3-international-markets/",
+      "description": "Tesla posted on X that it plans to expand FSD V14 Lite to HW3 vehicles in international markets — but only after the US rollout is complete and with no timeline attached. The vague commitment comes as HW3 owners across Europe and other international markets are in open revolt after Tesla launched FSD abroad exclusively for HW4-equipped vehicles. more…",
+      "published": "2026-04-29T03:03:43.000Z",
+      "source": "Electrek",
+      "sourceKey": "electrek",
+      "priority": 2,
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "tesla"
+      ],
+      "category": "ev_autonomous",
+      "baseScore": 4
     }
   ],
   "byCategory": {
@@ -188,7 +195,8 @@
           "anthropic",
           "gemini"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 13
       },
       {
         "title": "Goldman Staff in Hong Kong Lose Access to Anthropic’s Claude",
@@ -199,157 +207,15 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 11,
+        "relevanceScore": 12,
         "matchedKeywords": [
           "anthropic",
-          "claude"
+          "claude",
+          "ai agent"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 12
       },
-      {
-        "title": "ChatGPT finally knows how many ‘R’s are in ‘strawberry,’ but confident mistakes remain",
-        "link": "https://9to5google.com/2026/04/28/chatgpt-strawberry-logic-fix-problem/",
-        "description": "Confident mistakes – or lies, if you will – are a common problem of large language models used in AI chatbots, with one common shortcoming of ChatGPT being that it would frequently miscount the number of times the letter “R” appeared in the word “strawberry.” As OpenAI tried to take a victory lap around this, though, plenty of other confident mistakes were pointed out in the replies.\nmore…",
-        "published": "2026-04-29T02:45:00.000Z",
-        "source": "9to5Google",
-        "sourceKey": "9to5google",
-        "priority": 2,
-        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/04/chatgpt-android-1.jpg?quality=82&#038;strip=all&#038;w=1600",
-        "relevanceScore": 9,
-        "matchedKeywords": [
-          "openai",
-          "chatgpt",
-          "large language model"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "At his OpenAI trial, Musk relitigates an old friendship",
-        "link": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
-        "description": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
-        "published": "2026-04-29T00:40:16.000Z",
-        "source": "TechCrunch",
-        "sourceKey": "techcrunch",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 8,
-        "matchedKeywords": [
-          "openai"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Major data center company pauses investment decisions in Middle East amid Iran war, CEO tells CNBC",
-        "link": "https://www.cnbc.com/2026/04/29/oaktree-owned-pure-dc-investment-decisions-gulf-data-centers.html",
-        "description": "Regional uncertainty hangs over the previously booming AI infrastructure and data center sector in the region.",
-        "published": "2026-04-29T07:04:52.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "ceo",
-          "data center"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "AI Boom Drives 770% Jump in Asia’s Lesser-Known Chip Supplier",
-        "link": "https://www.bloomberg.com/news/articles/2026-04-29/ai-rally-ripples-through-chip-supply-chain-minting-new-winners",
-        "description": "The artificial intelligence rally exploding across Asia is now spreading deeper into the supply chain.",
-        "published": "2026-04-29T02:00:00.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "intel",
-          "artificial intelligence",
-          "chip"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "GoTo CEO on 1st Net Profit Quarter",
-        "link": "https://www.bloomberg.com/news/videos/2026-04-29/goto-ceo-on-1st-net-profit-quarter-video",
-        "description": "Hans Patuwo, CEO of GoTo Group, discusses the Indonesian ride-hailing and food delivery business outlook and growth strategy after it reported its first-ever net income, a major milestone in its turnaround effort. He speaks with Haidi Stroud Watts on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
-        "published": "2026-04-29T05:34:14.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "ceo"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "AI Spots Pancreatic Cancer Years Before It Shows Up, Study Finds",
-        "link": "https://www.bloomberg.com/news/articles/2026-04-29/ai-spots-pancreatic-cancer-years-before-it-shows-up-study-finds",
-        "description": "An artificial intelligence system can spot pancreatic cancer long before it shows up on scans, raising the prospect of catching one of the deadliest tumors early enough to successfully treat, a study found.",
-        "published": "2026-04-29T02:47:06.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "intel",
-          "artificial intelligence"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Court reverses pause on Epic Games ruling ahead of Apple’s Supreme Court bid",
-        "link": "https://9to5mac.com/2026/04/28/court-reverses-pause-on-epic-games-ruling-ahead-of-apples-supreme-court-bid/",
-        "description": "Epic Games just convinced the US Court of Appeals for the Ninth Circuit to reverse a prior decision that temporarily paused enforcement of a ruling requiring Apple to loosen certain App Store rules while it sought Supreme Court review. Here are the details.\nmore…",
-        "published": "2026-04-29T02:14:02.000Z",
-        "source": "9to5Mac",
-        "sourceKey": "9to5mac",
-        "priority": 2,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/epic-games-app-store.jpg?quality=82&#038;strip=all&#038;w=1600",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Notepad++ Code Editor Comes to Mac After 20-Year Wait",
-        "link": "https://www.macrumors.com/2026/04/29/notepad-plus-plus-editor-comes-to-mac/",
-        "description": "The popular Notepad++ coding editor is now available as a native macOS app, following a successful open-source community port of the original Windows codebase. The Notepad replacement runs as a universal binary, so it works on both Apple silicon and Intel Macs.\r\n\r\n\r\nNotepad++ has been one of the most popular text editors on Windows for more than 20 years. Until now, Mac users who switched from Windows, or who worked across both platforms, had to choose between giving up the editor and running it through a Wine or CrossOver compatibility layer. Now those users have no such dilemma.\r\n\r\nThe editing experience is identical to the Windows version, right down to the Scintilla engine, tabbed editing, syntax highlighting for 80+ languages, search and replace, macro recording, and plugin support. The only difference is that the menus, dialogs, file pickers, keyboard shortcuts, and windowing all use native macOS Cocoa APIs.\r\n\r\nNotepad++ website. It's completely free and released under the GNU General Public License, so there are no ads, subs, or hidden costs.\r\n\r\n(Thanks, Mike!)\nThis article, \"Notepad++ Code Editor Comes to Mac After 20-Year Wait\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-        "published": "2026-04-29T08:24:47.000Z",
-        "source": "MacRumors",
-        "sourceKey": "macrumors",
-        "priority": 2,
-        "image": "https://images.macrumors.com/article-new/2026/04/notepad-plus-plus-scaled.jpg",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple",
-          "intel"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "30 ClawHub skills secretly turn AI agents into a crypto swarm",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/30_clawhub_skills_mine_crypto/",
-        "description": "",
-        "published": "2026-04-29T06:32:14.000Z",
-        "source": "The Register",
-        "sourceKey": "theregister",
-        "priority": 2,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "arm"
-        ],
-        "category": "ai"
-      }
-    ],
-    "regulation": [
       {
         "title": "China’s Meta Backlash Renders Manus Model ‘Officially Dead’",
         "link": "https://www.bloomberg.com/news/articles/2026-04-29/china-s-meta-backlash-renders-manus-model-officially-dead",
@@ -365,59 +231,91 @@
           "breakthrough",
           "billion"
         ],
-        "category": "regulation"
+        "category": "ai",
+        "baseScore": 9
       },
       {
-        "title": "EU Escalates Meta Probe for Failing to Stop Kids Signing Up",
-        "link": "https://www.bloomberg.com/news/articles/2026-04-29/eu-escalates-probe-into-meta-for-failing-to-stop-kids-signing-up",
-        "description": "The European Union’s executive arm accused Meta Platforms Inc. of failing to keep young children off its services, ramping up a probe that could result in hefty fines.",
-        "published": "2026-04-29T07:00:00.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "meta",
-          "arm"
-        ],
-        "category": "regulation"
-      },
-      {
-        "title": "Amadeus Buys Idemia Border-Control Arm to Expand in Airports",
-        "link": "https://www.bloomberg.com/news/articles/2026-04-29/amadeus-agrees-to-buy-idemia-unit-for-1-2-billion",
-        "description": "Amadeus IT SA agreed to buy the public security arm of biometrics firm Idemia for €1.2 billion ($1.4 billion), adding border control to the Spanish travel software company’s airport services.",
-        "published": "2026-04-29T06:05:54.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 6,
-        "matchedKeywords": [
-          "arm",
-          "billion"
-        ],
-        "category": "regulation"
-      }
-    ],
-    "chips_cloud": [
-      {
-        "title": "Tensor G6 reportedly bringing latest ARM CPU cores but outdated GPU to Pixel 11",
-        "link": "https://9to5google.com/2026/04/28/google-pixel-11-tensor-g6-cpu-gpu-leak/",
-        "description": "An early, limited leak around Google’s upcoming Pixel 11 series offers some limited details around the Tensor G6 chipset inside, with a mix of good news and bad news.\nmore…",
-        "published": "2026-04-29T01:25:00.000Z",
+        "title": "ChatGPT finally knows how many ‘R’s are in ‘strawberry,’ but confident mistakes remain",
+        "link": "https://9to5google.com/2026/04/28/chatgpt-strawberry-logic-fix-problem/",
+        "description": "Confident mistakes – or lies, if you will – are a common problem of large language models used in AI chatbots, with one common shortcoming of ChatGPT being that it would frequently miscount the number of times the letter “R” appeared in the word “strawberry.” As OpenAI tried to take a victory lap around this, though, plenty of other confident mistakes were pointed out in the replies. more…",
+        "published": "2026-04-29T02:45:00.000Z",
         "source": "9to5Google",
         "sourceKey": "9to5google",
         "priority": 2,
-        "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/08/pixel-10-repair-tensor-g5-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/04/chatgpt-android-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "chatgpt",
+          "openai",
+          "large language model"
+        ],
+        "category": "ai",
+        "baseScore": 9
+      },
+      {
+        "title": "At his OpenAI trial, Musk relitigates an old friendship",
+        "link": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
+        "description": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
+        "published": "2026-04-29T00:40:16.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
         "relevanceScore": 8,
         "matchedKeywords": [
-          "google",
-          "arm",
-          "chip",
-          "gpu"
+          "openai"
         ],
-        "category": "chips_cloud"
+        "category": "ai",
+        "baseScore": 8
+      },
+      {
+        "title": "AI Boom Drives 770% Jump in Asia’s Lesser-Known Chip Supplier",
+        "link": "https://www.bloomberg.com/news/articles/2026-04-29/ai-rally-ripples-through-chip-supply-chain-minting-new-winners",
+        "description": "The artificial intelligence rally exploding across Asia is now spreading deeper into the supply chain.",
+        "published": "2026-04-29T02:00:00.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "chip",
+          "artificial intelligence"
+        ],
+        "category": "ai",
+        "baseScore": 3
+      },
+      {
+        "title": "AI Spots Pancreatic Cancer Years Before It Shows Up, Study Finds",
+        "link": "https://www.bloomberg.com/news/articles/2026-04-29/ai-spots-pancreatic-cancer-years-before-it-shows-up-study-finds",
+        "description": "An artificial intelligence system can spot pancreatic cancer long before it shows up on scans, raising the prospect of catching one of the deadliest tumors early enough to successfully treat, a study found.",
+        "published": "2026-04-29T02:47:06.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 2,
+        "matchedKeywords": [
+          "artificial intelligence"
+        ],
+        "category": "ai",
+        "baseScore": 2
+      },
+      {
+        "title": "30 ClawHub skills secretly turn AI agents into a crypto swarm",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/30_clawhub_skills_mine_crypto/",
+        "description": "",
+        "published": "2026-04-29T06:32:14.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 1,
+        "matchedKeywords": [
+          "ai agent"
+        ],
+        "category": "ai",
+        "baseScore": 1
       }
     ],
     "robotics": [
@@ -433,14 +331,50 @@
         "relevanceScore": 6,
         "matchedKeywords": [
           "humanoid robot",
+          "humanoid",
           "billion"
         ],
-        "category": "robotics"
+        "category": "robotics",
+        "baseScore": 6
+      }
+    ],
+    "regulation": [
+      {
+        "title": "EU Escalates Meta Probe for Failing to Stop Kids Signing Up",
+        "link": "https://www.bloomberg.com/news/articles/2026-04-29/eu-escalates-probe-into-meta-for-failing-to-stop-kids-signing-up",
+        "description": "The European Union’s executive arm accused Meta Platforms Inc. of failing to keep young children off its services, ramping up a probe that could result in hefty fines.",
+        "published": "2026-04-29T07:00:00.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "meta"
+        ],
+        "category": "regulation",
+        "baseScore": 5
+      },
+      {
+        "title": "Court reverses pause on Epic Games ruling ahead of Apple’s Supreme Court bid",
+        "link": "https://9to5mac.com/2026/04/28/court-reverses-pause-on-epic-games-ruling-ahead-of-apples-supreme-court-bid/",
+        "description": "Epic Games just convinced the US Court of Appeals for the Ninth Circuit to reverse a prior decision that temporarily paused enforcement of a ruling requiring Apple to loosen certain App Store rules while it sought Supreme Court review. Here are the details. more…",
+        "published": "2026-04-29T02:14:02.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/epic-games-app-store.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "regulation",
+        "baseScore": 4
       }
     ],
     "business": [
       {
-        "title": "James Murdoch-Backed Allen Career Institute Is Said to Consider India IPO",
+        "title": "James Murdoch-Backed Allen Career Institute Is Said to Consider India IPO",
         "link": "https://www.bloomberg.com/news/articles/2026-04-29/james-murdoch-backed-allen-career-institute-is-said-to-consider-india-ipo",
         "description": "Allen Career Institute, an Indian education services company backed by James Murdoch and ex-Disney executive Uday Shankar, is considering an initial public offering in Mumbai, people familiar with the matter said.",
         "published": "2026-04-29T05:46:07.000Z",
@@ -448,33 +382,71 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 5,
+        "relevanceScore": 4,
         "matchedKeywords": [
           "ipo"
         ],
-        "category": "business"
+        "category": "business",
+        "baseScore": 4
       },
       {
         "title": "TDK CEO on Business Strategy, AI Boom Impact",
         "link": "https://www.bloomberg.com/news/videos/2026-04-29/tdk-ceo-on-business-strategy-ai-boom-impact-video",
-        "description": "Noboru Saito, Director and CEO at Japanese electronic components maker TDK, discusses the company's latest earnings and the business impact from the AI boom. He speaks with Shery Ahn on Bloomberg: The Asia Trade.  (Source: Bloomberg)",
+        "description": "Noboru Saito, Director and CEO at Japanese electronic components maker TDK, discusses the company's latest earnings and the business impact from the AI boom. He speaks with Shery Ahn on Bloomberg: The Asia Trade. (Source: Bloomberg)",
         "published": "2026-04-29T01:13:46.000Z",
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "ceo",
+          "earnings"
+        ],
+        "category": "business",
+        "baseScore": 3
+      },
+      {
+        "title": "GoTo CEO on 1st Net Profit Quarter",
+        "link": "https://www.bloomberg.com/news/videos/2026-04-29/goto-ceo-on-1st-net-profit-quarter-video",
+        "description": "Hans Patuwo, CEO of GoTo Group, discusses the Indonesian ride-hailing and food delivery business outlook and growth strategy after it reported its first-ever net income, a major milestone in its turnaround effort. He speaks with Haidi Stroud Watts on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
+        "published": "2026-04-29T05:34:14.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 2,
         "matchedKeywords": [
           "ceo"
         ],
-        "category": "business"
+        "category": "business",
+        "baseScore": 2
+      }
+    ],
+    "devices": [
+      {
+        "title": "Notepad++ Code Editor Comes to Mac After 20-Year Wait",
+        "link": "https://www.macrumors.com/2026/04/29/notepad-plus-plus-editor-comes-to-mac/",
+        "description": "The popular Notepad++ coding editor is now available as a native macOS app, following a successful open-source community port of the original Windows codebase. The Notepad replacement runs as a universal binary, so it works on both Apple silicon and Intel Macs. Notepad++ has been one of the most popular text editors on Windows for more than 20 years. Until now, Mac users who switched from Windows, or who worked across both platforms, had to choose between giving up the editor and running it thro",
+        "published": "2026-04-29T08:24:47.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/04/notepad-plus-plus-scaled.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple",
+          "intel"
+        ],
+        "category": "devices",
+        "baseScore": 4
       }
     ],
     "ev_autonomous": [
       {
         "title": "Tesla promises FSD V14 Lite for HW3 cars internationally to appease growing tensions",
         "link": "https://electrek.co/2026/04/28/tesla-promises-fsd-v14-lite-hw3-international-markets/",
-        "description": "Tesla posted on X that it plans to expand FSD V14 Lite to HW3 vehicles in international markets — but only after the US rollout is complete and with no timeline attached.\nThe vague commitment comes as HW3 owners across Europe and other international markets are in open revolt after Tesla launched FSD abroad exclusively for HW4-equipped vehicles.\nmore…",
+        "description": "Tesla posted on X that it plans to expand FSD V14 Lite to HW3 vehicles in international markets — but only after the US rollout is complete and with no timeline attached. The vague commitment comes as HW3 owners across Europe and other international markets are in open revolt after Tesla launched FSD abroad exclusively for HW4-equipped vehicles. more…",
         "published": "2026-04-29T03:03:43.000Z",
         "source": "Electrek",
         "sourceKey": "electrek",
@@ -484,7 +456,62 @@
         "matchedKeywords": [
           "tesla"
         ],
-        "category": "ev_autonomous"
+        "category": "ev_autonomous",
+        "baseScore": 4
+      }
+    ],
+    "chips_cloud": [
+      {
+        "title": "Major data center company pauses investment decisions in Middle East amid Iran war, CEO tells CNBC",
+        "link": "https://www.cnbc.com/2026/04/29/oaktree-owned-pure-dc-investment-decisions-gulf-data-centers.html",
+        "description": "Regional uncertainty hangs over the previously booming AI infrastructure and data center sector in the region.",
+        "published": "2026-04-29T07:04:52.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "data center",
+          "ceo"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 3
+      },
+      {
+        "title": "Tensor G6 reportedly bringing latest ARM CPU cores but outdated GPU to Pixel 11",
+        "link": "https://9to5google.com/2026/04/28/google-pixel-11-tensor-g6-cpu-gpu-leak/",
+        "description": "An early, limited leak around Google’s upcoming Pixel 11 series offers some limited details around the Tensor G6 chipset inside, with a mix of good news and bad news. more…",
+        "published": "2026-04-29T01:25:00.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/08/pixel-10-repair-tensor-g5-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "gpu",
+          "google"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 3
+      }
+    ],
+    "other": [
+      {
+        "title": "Amadeus Buys Idemia Border-Control Arm to Expand in Airports",
+        "link": "https://www.bloomberg.com/news/articles/2026-04-29/amadeus-agrees-to-buy-idemia-unit-for-1-2-billion",
+        "description": "Amadeus IT SA agreed to buy the public security arm of biometrics firm Idemia for €1.2 billion ($1.4 billion), adding border control to the Spanish travel software company’s airport services.",
+        "published": "2026-04-29T06:05:54.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 2,
+        "matchedKeywords": [
+          "billion"
+        ],
+        "category": "other",
+        "baseScore": 2
       }
     ]
   },

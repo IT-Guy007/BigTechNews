@@ -15,12 +15,14 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 11,
+      "relevanceScore": 18,
       "matchedKeywords": [
         "anthropic",
+        "deepseek",
         "claude"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 18
     },
     {
       "title": "Why AI is boosting Meta's ad business while hurting Google search",
@@ -36,10 +38,11 @@
         "google",
         "meta"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 9
     },
     {
-      "title": " Elon Musk says Neuralink is ready to cure blindness — says Blindsight will ‘enable even those who are completely blind or have never seen to see’ ",
+      "title": "Elon Musk says Neuralink is ready to cure blindness — says Blindsight will ‘enable even those who are completely blind or have never seen to see’",
       "link": "https://www.tomshardware.com/peripherals/wearable-tech/elon-musk-says-neuralink-is-ready-to-cure-blindness-says-blindsight-will-enable-even-those-who-are-completely-blind-or-have-never-seen-to-see",
       "description": "Neuralink's second product, Blindsight, aims to bring sight back for blind patients, with the company \"just waiting on regulatory approval.\"",
       "published": "2026-11-01T13:30:00.000Z",
@@ -52,7 +55,8 @@
         "neuralink",
         "elon musk"
       ],
-      "category": "ai"
+      "category": "other",
+      "baseScore": 7
     },
     {
       "title": "Tesla is ditching its solar roof tiles for a good reason",
@@ -67,22 +71,8 @@
       "matchedKeywords": [
         "tesla"
       ],
-      "category": "ev_autonomous"
-    },
-    {
-      "title": "Amazon made the AUX input on older Alexa devices less useful",
-      "link": "https://www.engadget.com/2300219/amazon-made-alexa-devices-aux-port-less-useful/",
-      "description": "Amazon has made a quiet change to older Echo speakers that will leave owners rethinking how they use their devices and manage their home audio setups.",
-      "published": "2026-11-01T00:00:00.000Z",
-      "source": "Engadget",
-      "sourceKey": "engadget",
-      "priority": 2,
-      "image": "https://www.engadget.com/img/gallery/amazon-made-the-aux-input-on-older-alexa-devices-less-useful/l-intro-1793052674.jpg",
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "amazon"
-      ],
-      "category": "ev_autonomous"
+      "category": "ev_autonomous",
+      "baseScore": 4
     },
     {
       "title": "There’s a Free Video Editor Inside Google Drive That Anyone Can Use",
@@ -97,27 +87,13 @@
       "matchedKeywords": [
         "google"
       ],
-      "category": "ev_autonomous"
-    },
-    {
-      "title": "Best Chromebooks and Googlebooks (2026): Laptops With a Google Touch",
-      "link": "https://www.wired.com/story/best-chromebooks/",
-      "description": "While Google is heralding a new series of laptops called Googlebooks, Chromebooks are sticking around—for now. These are the ones to consider.",
-      "published": "2026-11-01T10:00:00.000Z",
-      "source": "Wired",
-      "sourceKey": "wired",
-      "priority": 2,
-      "image": null,
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "google"
-      ],
-      "category": null
+      "category": "other",
+      "baseScore": 4
     },
     {
       "title": "Apple Offers Steps to Fix Daylight Saving Time Bug on Apple Watch",
       "link": "https://www.macrumors.com/2026/11/01/apple-offers-steps-to-fix-dst-apple-watch-bug/",
-      "description": "Apple has published a support document describing what to do if your Apple Watch continues to show time that's off by one hour after daylight savings time changes. \"This incorrect time appears only on the Always On display when your wrist is down,\" says Apple. \"When you activate the display by tapping it or raising your wrist, the time changes to the correct hour.\"\r\n\r\nMacRumors previously reported Apple Watch users similarly affected in Europe when clocks went back there the other week. Clocks went back across most of the U.S. on Sunday, November 1.\nRelated Roundups: Apple Watch 12, Apple Watch SE 3, Apple Watch Ultra 4\nBuyer's Guide: Apple Watch (Buy Now), Apple Watch SE (Neutral), Apple Watch Ultra (Buy Now)\nRelated Forum: Apple Watch\nThis article, \"Apple Offers Steps to Fix Daylight Saving Time Bug on Apple Watch\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+      "description": "Apple has published a support document describing what to do if your Apple Watch continues to show time that's off by one hour after daylight savings time changes. \"This incorrect time appears only on the Always On display when your wrist is down,\" says Apple. \"When you activate the display by tapping it or raising your wrist, the time changes to the correct hour.\" MacRumors previously reported Apple Watch users similarly affected in Europe when clocks went back there the other week. Clocks went",
       "published": "2026-11-01T11:34:49.000Z",
       "source": "MacRumors",
       "sourceKey": "macrumors",
@@ -127,25 +103,11 @@
       "matchedKeywords": [
         "apple"
       ],
-      "category": "ai"
+      "category": "devices",
+      "baseScore": 4
     },
     {
-      "title": " AI agent swarms unleashed in Minecraft to ‘build a thriving civilization’ ",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
-      "description": "Researchers recently tested AI agent swarm performance in various Minecraft gaming modes.",
-      "published": "2026-11-01T12:33:52.000Z",
-      "source": "Tom's Hardware",
-      "sourceKey": "tomshardware",
-      "priority": 2,
-      "image": "https://cdn.mos.cms.futurecdn.net/SCYhnjqyKUaWNuCxFpW8m9-1920-80.jpg",
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "arm"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": " USAF successfully tests dropping SpaceX Starfall cargo drop pods from space ",
+      "title": "USAF successfully tests dropping SpaceX Starfall cargo drop pods from space",
       "link": "https://www.tomshardware.com/tech-industry/space/usaf-successfully-tests-dropping-spacex-starfall-cargo-drop-pods-from-space-2-200-pound-capsule-drops-military-supplies-in-the-pacific-to-test-starcraft-like-supply-drops",
       "description": "The Rocket Cargo capability should allow U.S. forces to resupply quickly without risking aircrews and equipment, especially in contested areas.",
       "published": "2026-11-01T11:30:00.000Z",
@@ -157,7 +119,56 @@
       "matchedKeywords": [
         "spacex"
       ],
-      "category": "space"
+      "category": "space",
+      "baseScore": 4
+    },
+    {
+      "title": "Amazon made the AUX input on older Alexa devices less useful",
+      "link": "https://www.engadget.com/2300219/amazon-made-alexa-devices-aux-port-less-useful/",
+      "description": "Amazon has made a quiet change to older Echo speakers that will leave owners rethinking how they use their devices and manage their home audio setups.",
+      "published": "2026-11-01T00:00:00.000Z",
+      "source": "Engadget",
+      "sourceKey": "engadget",
+      "priority": 2,
+      "image": "https://www.engadget.com/img/gallery/amazon-made-the-aux-input-on-older-alexa-devices-less-useful/l-intro-1793052674.jpg",
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "amazon"
+      ],
+      "category": "devices",
+      "baseScore": 4
+    },
+    {
+      "title": "College student unofficially breaks world record for fastest jet-powered drone with 491 mph aircraft built in his dorm",
+      "link": "https://www.tomshardware.com/tech-industry/drones/college-student-unofficially-breaks-world-record-for-fastest-jet-powered-drone-with-491-mph-aircraft-built-in-his-dorm-reaper-aims-to-grab-the-usd800-000-boom-prize",
+      "description": "An undergraduate student from Georgia Tech is trying his hand at an $800k prize for the fastest jet-powered RC aircraft, achieving 790 km/h (491 mph) and breaking the previous world record.",
+      "published": "2026-11-01T11:00:00.000Z",
+      "source": "Tom's Hardware",
+      "sourceKey": "tomshardware",
+      "priority": 2,
+      "image": "https://cdn.mos.cms.futurecdn.net/UQC6eZ62JYDJPkHmTgxcRG-1920-80.jpg",
+      "relevanceScore": 3,
+      "matchedKeywords": [
+        "world record"
+      ],
+      "category": "other",
+      "baseScore": 3
+    },
+    {
+      "title": "AI agent swarms unleashed in Minecraft to ‘build a thriving civilization’",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+      "description": "Researchers recently tested AI agent swarm performance in various Minecraft gaming modes.",
+      "published": "2026-11-01T12:33:52.000Z",
+      "source": "Tom's Hardware",
+      "sourceKey": "tomshardware",
+      "priority": 2,
+      "image": "https://cdn.mos.cms.futurecdn.net/SCYhnjqyKUaWNuCxFpW8m9-1920-80.jpg",
+      "relevanceScore": 1,
+      "matchedKeywords": [
+        "ai agent"
+      ],
+      "category": "ai",
+      "baseScore": 1
     }
   ],
   "byCategory": {
@@ -171,12 +182,14 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 11,
+        "relevanceScore": 18,
         "matchedKeywords": [
           "anthropic",
+          "deepseek",
           "claude"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 18
       },
       {
         "title": "Why AI is boosting Meta's ad business while hurting Google search",
@@ -192,10 +205,29 @@
           "google",
           "meta"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 9
       },
       {
-        "title": " Elon Musk says Neuralink is ready to cure blindness — says Blindsight will ‘enable even those who are completely blind or have never seen to see’ ",
+        "title": "AI agent swarms unleashed in Minecraft to ‘build a thriving civilization’",
+        "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+        "description": "Researchers recently tested AI agent swarm performance in various Minecraft gaming modes.",
+        "published": "2026-11-01T12:33:52.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/SCYhnjqyKUaWNuCxFpW8m9-1920-80.jpg",
+        "relevanceScore": 1,
+        "matchedKeywords": [
+          "ai agent"
+        ],
+        "category": "ai",
+        "baseScore": 1
+      }
+    ],
+    "other": [
+      {
+        "title": "Elon Musk says Neuralink is ready to cure blindness — says Blindsight will ‘enable even those who are completely blind or have never seen to see’",
         "link": "https://www.tomshardware.com/peripherals/wearable-tech/elon-musk-says-neuralink-is-ready-to-cure-blindness-says-blindsight-will-enable-even-those-who-are-completely-blind-or-have-never-seen-to-see",
         "description": "Neuralink's second product, Blindsight, aims to bring sight back for blind patients, with the company \"just waiting on regulatory approval.\"",
         "published": "2026-11-01T13:30:00.000Z",
@@ -208,40 +240,27 @@
           "neuralink",
           "elon musk"
         ],
-        "category": "ai"
+        "category": "other",
+        "baseScore": 7
       },
       {
-        "title": "Apple Offers Steps to Fix Daylight Saving Time Bug on Apple Watch",
-        "link": "https://www.macrumors.com/2026/11/01/apple-offers-steps-to-fix-dst-apple-watch-bug/",
-        "description": "Apple has published a support document describing what to do if your Apple Watch continues to show time that's off by one hour after daylight savings time changes. \"This incorrect time appears only on the Always On display when your wrist is down,\" says Apple. \"When you activate the display by tapping it or raising your wrist, the time changes to the correct hour.\"\r\n\r\nMacRumors previously reported Apple Watch users similarly affected in Europe when clocks went back there the other week. Clocks went back across most of the U.S. on Sunday, November 1.\nRelated Roundups: Apple Watch 12, Apple Watch SE 3, Apple Watch Ultra 4\nBuyer's Guide: Apple Watch (Buy Now), Apple Watch SE (Neutral), Apple Watch Ultra (Buy Now)\nRelated Forum: Apple Watch\nThis article, \"Apple Offers Steps to Fix Daylight Saving Time Bug on Apple Watch\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-        "published": "2026-11-01T11:34:49.000Z",
-        "source": "MacRumors",
-        "sourceKey": "macrumors",
+        "title": "There’s a Free Video Editor Inside Google Drive That Anyone Can Use",
+        "link": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
+        "description": "You may not have noticed everything Google’s free software suite offers—especially a web app called Google Vids.",
+        "published": "2026-11-01T12:00:00.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
         "priority": 2,
-        "image": "https://images.macrumors.com/article-new/2020/09/apple-watch-series-3-design.jpg",
+        "image": null,
         "relevanceScore": 4,
         "matchedKeywords": [
-          "apple"
+          "google"
         ],
-        "category": "ai"
+        "category": "other",
+        "baseScore": 4
       },
       {
-        "title": " AI agent swarms unleashed in Minecraft to ‘build a thriving civilization’ ",
-        "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
-        "description": "Researchers recently tested AI agent swarm performance in various Minecraft gaming modes.",
-        "published": "2026-11-01T12:33:52.000Z",
-        "source": "Tom's Hardware",
-        "sourceKey": "tomshardware",
-        "priority": 2,
-        "image": "https://cdn.mos.cms.futurecdn.net/SCYhnjqyKUaWNuCxFpW8m9-1920-80.jpg",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "arm"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": " College student unofficially breaks world record for fastest jet-powered drone with 491 mph aircraft built in his dorm ",
+        "title": "College student unofficially breaks world record for fastest jet-powered drone with 491 mph aircraft built in his dorm",
         "link": "https://www.tomshardware.com/tech-industry/drones/college-student-unofficially-breaks-world-record-for-fastest-jet-powered-drone-with-491-mph-aircraft-built-in-his-dorm-reaper-aims-to-grab-the-usd800-000-boom-prize",
         "description": "An undergraduate student from Georgia Tech is trying his hand at an $800k prize for the fastest jet-powered RC aircraft, achieving 790 km/h (491 mph) and breaking the previous world record.",
         "published": "2026-11-01T11:00:00.000Z",
@@ -253,7 +272,8 @@
         "matchedKeywords": [
           "world record"
         ],
-        "category": "ai"
+        "category": "other",
+        "baseScore": 3
       }
     ],
     "ev_autonomous": [
@@ -270,7 +290,26 @@
         "matchedKeywords": [
           "tesla"
         ],
-        "category": "ev_autonomous"
+        "category": "ev_autonomous",
+        "baseScore": 4
+      }
+    ],
+    "devices": [
+      {
+        "title": "Apple Offers Steps to Fix Daylight Saving Time Bug on Apple Watch",
+        "link": "https://www.macrumors.com/2026/11/01/apple-offers-steps-to-fix-dst-apple-watch-bug/",
+        "description": "Apple has published a support document describing what to do if your Apple Watch continues to show time that's off by one hour after daylight savings time changes. \"This incorrect time appears only on the Always On display when your wrist is down,\" says Apple. \"When you activate the display by tapping it or raising your wrist, the time changes to the correct hour.\" MacRumors previously reported Apple Watch users similarly affected in Europe when clocks went back there the other week. Clocks went",
+        "published": "2026-11-01T11:34:49.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2020/09/apple-watch-series-3-design.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices",
+        "baseScore": 4
       },
       {
         "title": "Amazon made the AUX input on older Alexa devices less useful",
@@ -285,27 +324,29 @@
         "matchedKeywords": [
           "amazon"
         ],
-        "category": "ev_autonomous"
+        "category": "devices",
+        "baseScore": 4
       },
       {
-        "title": "There’s a Free Video Editor Inside Google Drive That Anyone Can Use",
-        "link": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
-        "description": "You may not have noticed everything Google’s free software suite offers—especially a web app called Google Vids.",
-        "published": "2026-11-01T12:00:00.000Z",
+        "title": "Best Chromebooks and Googlebooks (2026): Laptops With a Google Touch",
+        "link": "https://www.wired.com/story/best-chromebooks/",
+        "description": "While Google is heralding a new series of laptops called Googlebooks, Chromebooks are sticking around—for now. These are the ones to consider.",
+        "published": "2026-11-01T10:00:00.000Z",
         "source": "Wired",
         "sourceKey": "wired",
         "priority": 2,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 0,
         "matchedKeywords": [
-          "google"
+          "excluded"
         ],
-        "category": "ev_autonomous"
+        "category": "devices",
+        "baseScore": 0
       }
     ],
     "space": [
       {
-        "title": " USAF successfully tests dropping SpaceX Starfall cargo drop pods from space ",
+        "title": "USAF successfully tests dropping SpaceX Starfall cargo drop pods from space",
         "link": "https://www.tomshardware.com/tech-industry/space/usaf-successfully-tests-dropping-spacex-starfall-cargo-drop-pods-from-space-2-200-pound-capsule-drops-military-supplies-in-the-pacific-to-test-starcraft-like-supply-drops",
         "description": "The Rocket Cargo capability should allow U.S. forces to resupply quickly without risking aircrews and equipment, especially in contested areas.",
         "published": "2026-11-01T11:30:00.000Z",
@@ -317,7 +358,8 @@
         "matchedKeywords": [
           "spacex"
         ],
-        "category": "space"
+        "category": "space",
+        "baseScore": 4
       }
     ]
   },

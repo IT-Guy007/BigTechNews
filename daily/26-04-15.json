@@ -15,34 +15,16 @@
       "sourceKey": "techcrunch",
       "priority": 1,
       "image": null,
-      "relevanceScore": 21,
+      "relevanceScore": 20,
       "matchedKeywords": [
         "openai",
         "anthropic",
         "ipo",
-        "billion",
-        "valuation"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": "SoftBank Lenders Ask More Banks to Join $40 Billion OpenAI Loan",
-      "link": "https://www.bloomberg.com/news/articles/2026-04-15/softbank-lenders-ask-more-banks-to-join-40-billion-openai-loan",
-      "description": "More banks are being invited to join SoftBank Group Corp.’s $40 billion loan backing its investment in US tech giant OpenAI, in one of the biggest tests yet of creditor sentiment toward the Japanese conglomerate’s debt-fueled push further into artificial intelligence.",
-      "published": "2026-04-15T02:45:04.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 16,
-      "matchedKeywords": [
-        "openai",
-        "intel",
-        "softbank",
-        "artificial intelligence",
+        "valuation",
         "billion"
       ],
-      "category": "ai"
+      "category": "business",
+      "baseScore": 20
     },
     {
       "title": "Agents hooked into GitHub can steal creds – but Anthropic, Google, and Microsoft haven't warned users",
@@ -59,7 +41,55 @@
         "microsoft",
         "anthropic"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 15
+    },
+    {
+      "title": "SoftBank Lenders Ask More Banks to Join $40 Billion OpenAI Loan",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-15/softbank-lenders-ask-more-banks-to-join-40-billion-openai-loan",
+      "description": "More banks are being invited to join SoftBank Group Corp.’s $40 billion loan backing its investment in US tech giant OpenAI, in one of the biggest tests yet of creditor sentiment toward the Japanese conglomerate’s debt-fueled push further into artificial intelligence.",
+      "published": "2026-04-15T02:45:04.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 14,
+      "matchedKeywords": [
+        "openai",
+        "softbank",
+        "billion",
+        "artificial intelligence"
+      ],
+      "category": "ai",
+      "baseScore": 14
+    },
+    {
+      "title": "ASML Raises Sales Forecast as AI Demand Boosts Growth",
+      "link": "https://www.bloomberg.com/news/videos/2026-04-15/asml-raises-sales-forecast-as-ai-demand-boosts-growth-video",
+      "description": "ASML Holding NV raised its full-year sales forecast, with net sales expected to be between €36 billion ($42.4 billion) to €40 billion this year. Europe’s most valuable company’s machinery is crucial for producing the Nvidia Corp. chips that are the backbone for training and running artificial intelligence models in data centers. Bloomberg’s Charlotte Hughes-Morgan reports.",
+      "published": "2026-04-15T06:28:17.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 11,
+      "matchedKeywords": [
+        "asml",
+        "nvidia",
+        "artificial intelligence",
+        "chip",
+        "data center",
+        "billion"
+      ],
+      "category": "chips_cloud",
+      "baseScore": 11,
+      "alsoIn": [
+        {
+          "source": "Bloomberg",
+          "title": "ASML Raises 2026 Sales Forecast as AI Demand Fuels Growth",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-15/asml-raises-2026-sales-forecast-as-ai-investment-fuels-growth"
+        }
+      ]
     },
     {
       "title": "Bessent Calls Anthropic’s Mythos a Breakthrough in China AI Race",
@@ -70,47 +100,13 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 14,
-      "matchedKeywords": [
-        "anthropic",
-        "breakthrough",
-        "revolutionary"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": "Altman arson suspect Moreno-Gama suffered 'acute mental health crisis,' lawyer says",
-      "link": "https://www.cnbc.com/2026/04/14/sam-altman-openai-molotov-attack-arraignment.html",
-      "description": "Daniel Moreno-Gama allegedly threw a lit Molotov cocktail at the driveway gate of OpenAI CEO Sam Altman's home.",
-      "published": "2026-04-15T00:50:58.000Z",
-      "source": "CNBC",
-      "sourceKey": "cnbc_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 12,
-      "matchedKeywords": [
-        "openai",
-        "ceo",
-        "sam altman"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": "Anthropic’s Mythos Is a Wake-up Call For Everyone, Not Just Banks",
-      "link": "https://www.bloomberg.com/opinion/articles/2026-04-15/anthropic-mythos-ai-is-a-wake-up-call-for-everyone-not-just-banks",
-      "description": "Mythos, a new artificial intelligence model that Anthropic PBC has teased as too dangerous to release, looked at first like a problem for banks. Days after the company announced the new technology, US Treasury Secretary Scott Bessent summoned Wall Street leaders to make sure they were taking precautions to defend their systems, creating invaluable publicity for Anthropic and raising questions about who gets an exclusive peek at its threatening progeny.",
-      "published": "2026-04-15T03:00:08.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
       "relevanceScore": 11,
       "matchedKeywords": [
         "anthropic",
-        "intel",
-        "artificial intelligence"
+        "breakthrough"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 11
     },
     {
       "title": "Meta commits to 1 gigawatt of custom chips with Broadcom as Hock Tan decides to leave board",
@@ -127,26 +123,26 @@
         "broadcom",
         "chip"
       ],
-      "category": "chips_cloud"
+      "category": "chips_cloud",
+      "baseScore": 10
     },
     {
-      "title": "ASML Raises Sales Forecast as AI Demand Boosts Growth",
-      "link": "https://www.bloomberg.com/news/videos/2026-04-15/asml-raises-sales-forecast-as-ai-demand-boosts-growth-video",
-      "description": "ASML Holding NV raised its full-year sales forecast, with net sales expected to be between €36 billion ($42.4 billion) to €40 billion this year. Europe’s most valuable company’s machinery is crucial for producing the Nvidia Corp. chips that are the backbone for training and running artificial intelligence models in data centers. Bloomberg’s Charlotte Hughes-Morgan reports.",
-      "published": "2026-04-15T06:28:17.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
+      "title": "Altman arson suspect Moreno-Gama suffered 'acute mental health crisis,' lawyer says",
+      "link": "https://www.cnbc.com/2026/04/14/sam-altman-openai-molotov-attack-arraignment.html",
+      "description": "Daniel Moreno-Gama allegedly threw a lit Molotov cocktail at the driveway gate of OpenAI CEO Sam Altman's home.",
+      "published": "2026-04-15T00:50:58.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 9,
+      "relevanceScore": 10,
       "matchedKeywords": [
-        "nvidia",
-        "intel",
-        "artificial intelligence",
-        "chip",
-        "data center"
+        "openai",
+        "sam altman",
+        "ceo"
       ],
-      "category": "ai"
+      "category": "business",
+      "baseScore": 10
     },
     {
       "title": "Nvidia’s New AI Models Spark Rally in Quantum Computing Stocks",
@@ -157,34 +153,53 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 8,
+      "relevanceScore": 9,
       "matchedKeywords": [
         "nvidia",
-        "quantum"
+        "quantum computing",
+        "ai model"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 9
     },
     {
-      "title": "ASML Raises 2026 Sales Forecast as AI Demand Fuels Growth",
-      "link": "https://www.bloomberg.com/news/articles/2026-04-15/asml-raises-2026-sales-forecast-as-ai-investment-fuels-growth",
-      "description": "ASML Holding NV raised its full-year sales forecast as the surge in global artificial intelligence spending fuels semiconductor production and boosts demand for the company’s advanced chipmaking machines.",
-      "published": "2026-04-15T05:09:46.000Z",
+      "title": "Anthropic’s Mythos Is a Wake-up Call For Everyone, Not Just Banks",
+      "link": "https://www.bloomberg.com/opinion/articles/2026-04-15/anthropic-mythos-ai-is-a-wake-up-call-for-everyone-not-just-banks",
+      "description": "Mythos, a new artificial intelligence model that Anthropic PBC has teased as too dangerous to release, looked at first like a problem for banks. Days after the company announced the new technology, US Treasury Secretary Scott Bessent summoned Wall Street leaders to make sure they were taking precautions to defend their systems, creating invaluable publicity for Anthropic and raising questions about who gets an exclusive peek at its threatening progeny.",
+      "published": "2026-04-15T03:00:08.000Z",
       "source": "Bloomberg",
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 6,
+      "relevanceScore": 9,
       "matchedKeywords": [
-        "intel",
-        "artificial intelligence",
+        "anthropic",
+        "artificial intelligence"
+      ],
+      "category": "ai",
+      "baseScore": 9
+    },
+    {
+      "title": "Chip giant ASML raises 2026 guidance as AI semiconductor demand stays strong",
+      "link": "https://www.cnbc.com/2026/04/15/asml-q1-2026-earnings-report.html",
+      "description": "ASML beat first-quarter revenue and profit expectations and raised its sales guidance for 2026.",
+      "published": "2026-04-15T07:30:25.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 7,
+      "matchedKeywords": [
+        "asml",
         "semiconductor",
         "chip"
       ],
-      "category": "ai"
+      "category": "chips_cloud",
+      "baseScore": 7
     }
   ],
   "byCategory": {
-    "ai": [
+    "business": [
       {
         "title": "Anthropic’s rise is giving some OpenAI investors second thoughts",
         "link": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
@@ -194,35 +209,37 @@
         "sourceKey": "techcrunch",
         "priority": 1,
         "image": null,
-        "relevanceScore": 21,
+        "relevanceScore": 20,
         "matchedKeywords": [
           "openai",
           "anthropic",
           "ipo",
-          "billion",
-          "valuation"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "SoftBank Lenders Ask More Banks to Join $40 Billion OpenAI Loan",
-        "link": "https://www.bloomberg.com/news/articles/2026-04-15/softbank-lenders-ask-more-banks-to-join-40-billion-openai-loan",
-        "description": "More banks are being invited to join SoftBank Group Corp.’s $40 billion loan backing its investment in US tech giant OpenAI, in one of the biggest tests yet of creditor sentiment toward the Japanese conglomerate’s debt-fueled push further into artificial intelligence.",
-        "published": "2026-04-15T02:45:04.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 16,
-        "matchedKeywords": [
-          "openai",
-          "intel",
-          "softbank",
-          "artificial intelligence",
+          "valuation",
           "billion"
         ],
-        "category": "ai"
+        "category": "business",
+        "baseScore": 20
       },
+      {
+        "title": "Altman arson suspect Moreno-Gama suffered 'acute mental health crisis,' lawyer says",
+        "link": "https://www.cnbc.com/2026/04/14/sam-altman-openai-molotov-attack-arraignment.html",
+        "description": "Daniel Moreno-Gama allegedly threw a lit Molotov cocktail at the driveway gate of OpenAI CEO Sam Altman's home.",
+        "published": "2026-04-15T00:50:58.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "openai",
+          "sam altman",
+          "ceo"
+        ],
+        "category": "business",
+        "baseScore": 10
+      }
+    ],
+    "ai": [
       {
         "title": "Agents hooked into GitHub can steal creds – but Anthropic, Google, and Microsoft haven't warned users",
         "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/15/claude_gemini_copilot_agents_hijacked/",
@@ -238,7 +255,27 @@
           "microsoft",
           "anthropic"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 15
+      },
+      {
+        "title": "SoftBank Lenders Ask More Banks to Join $40 Billion OpenAI Loan",
+        "link": "https://www.bloomberg.com/news/articles/2026-04-15/softbank-lenders-ask-more-banks-to-join-40-billion-openai-loan",
+        "description": "More banks are being invited to join SoftBank Group Corp.’s $40 billion loan backing its investment in US tech giant OpenAI, in one of the biggest tests yet of creditor sentiment toward the Japanese conglomerate’s debt-fueled push further into artificial intelligence.",
+        "published": "2026-04-15T02:45:04.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 14,
+        "matchedKeywords": [
+          "openai",
+          "softbank",
+          "billion",
+          "artificial intelligence"
+        ],
+        "category": "ai",
+        "baseScore": 14
       },
       {
         "title": "Bessent Calls Anthropic’s Mythos a Breakthrough in China AI Race",
@@ -249,66 +286,13 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 14,
-        "matchedKeywords": [
-          "anthropic",
-          "breakthrough",
-          "revolutionary"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Altman arson suspect Moreno-Gama suffered 'acute mental health crisis,' lawyer says",
-        "link": "https://www.cnbc.com/2026/04/14/sam-altman-openai-molotov-attack-arraignment.html",
-        "description": "Daniel Moreno-Gama allegedly threw a lit Molotov cocktail at the driveway gate of OpenAI CEO Sam Altman's home.",
-        "published": "2026-04-15T00:50:58.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 12,
-        "matchedKeywords": [
-          "openai",
-          "ceo",
-          "sam altman"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Anthropic’s Mythos Is a Wake-up Call For Everyone, Not Just Banks",
-        "link": "https://www.bloomberg.com/opinion/articles/2026-04-15/anthropic-mythos-ai-is-a-wake-up-call-for-everyone-not-just-banks",
-        "description": "Mythos, a new artificial intelligence model that Anthropic PBC has teased as too dangerous to release, looked at first like a problem for banks. Days after the company announced the new technology, US Treasury Secretary Scott Bessent summoned Wall Street leaders to make sure they were taking precautions to defend their systems, creating invaluable publicity for Anthropic and raising questions about who gets an exclusive peek at its threatening progeny.",
-        "published": "2026-04-15T03:00:08.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
         "relevanceScore": 11,
         "matchedKeywords": [
           "anthropic",
-          "intel",
-          "artificial intelligence"
+          "breakthrough"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "ASML Raises Sales Forecast as AI Demand Boosts Growth",
-        "link": "https://www.bloomberg.com/news/videos/2026-04-15/asml-raises-sales-forecast-as-ai-demand-boosts-growth-video",
-        "description": "ASML Holding NV raised its full-year sales forecast, with net sales expected to be between €36 billion ($42.4 billion) to €40 billion this year. Europe’s most valuable company’s machinery is crucial for producing the Nvidia Corp. chips that are the backbone for training and running artificial intelligence models in data centers. Bloomberg’s Charlotte Hughes-Morgan reports.",
-        "published": "2026-04-15T06:28:17.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 9,
-        "matchedKeywords": [
-          "nvidia",
-          "intel",
-          "artificial intelligence",
-          "chip",
-          "data center"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 11
       },
       {
         "title": "Nvidia’s New AI Models Spark Rally in Quantum Computing Stocks",
@@ -319,30 +303,31 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 8,
+        "relevanceScore": 9,
         "matchedKeywords": [
           "nvidia",
-          "quantum"
+          "quantum computing",
+          "ai model"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 9
       },
       {
-        "title": "ASML Raises 2026 Sales Forecast as AI Demand Fuels Growth",
-        "link": "https://www.bloomberg.com/news/articles/2026-04-15/asml-raises-2026-sales-forecast-as-ai-investment-fuels-growth",
-        "description": "ASML Holding NV raised its full-year sales forecast as the surge in global artificial intelligence spending fuels semiconductor production and boosts demand for the company’s advanced chipmaking machines.",
-        "published": "2026-04-15T05:09:46.000Z",
+        "title": "Anthropic’s Mythos Is a Wake-up Call For Everyone, Not Just Banks",
+        "link": "https://www.bloomberg.com/opinion/articles/2026-04-15/anthropic-mythos-ai-is-a-wake-up-call-for-everyone-not-just-banks",
+        "description": "Mythos, a new artificial intelligence model that Anthropic PBC has teased as too dangerous to release, looked at first like a problem for banks. Days after the company announced the new technology, US Treasury Secretary Scott Bessent summoned Wall Street leaders to make sure they were taking precautions to defend their systems, creating invaluable publicity for Anthropic and raising questions about who gets an exclusive peek at its threatening progeny.",
+        "published": "2026-04-15T03:00:08.000Z",
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 6,
+        "relevanceScore": 9,
         "matchedKeywords": [
-          "intel",
-          "artificial intelligence",
-          "semiconductor",
-          "chip"
+          "anthropic",
+          "artificial intelligence"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 9
       },
       {
         "title": "Perplexity's CBO on products, firm's growth on AI",
@@ -357,42 +342,13 @@
         "matchedKeywords": [
           "perplexity"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "Developers behind vibe coding app Anything detail next steps after months-long fight with Apple",
-        "link": "https://9to5mac.com/2026/04/14/developers-behind-vibe-coding-app-anything-detail-next-steps-after-months-long-fight-with-apple/",
-        "description": "Following a dispute that led to two removals from the App Store, the developers behind the vibe coding platform Anything are publicly accusing Apple of shutting out a new generation of app creators through outdated app review guidelines. Here are the details.\nmore…",
-        "published": "2026-04-15T03:01:51.000Z",
-        "source": "9to5Mac",
-        "sourceKey": "9to5mac",
-        "priority": 2,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/anything-vibe-coding.jpg?quality=82&#038;strip=all&#038;w=1600",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Margo’s Got Money Troubles, starring Elle Fanning, premieres on Apple TV",
-        "link": "https://9to5mac.com/2026/04/14/margos-got-money-troubles-starring-elle-fanning-premieres-on-apple-tv/",
-        "description": "Apple TV subscribers can now watch the first three episodes of comedic drama Margo’s Got Money Troubles, starring Elle Fanning (Predator: Badlands), Michelle Pfeiffer (Scarface), and Nicole Kidman (The Hours). Here are the details.\nmore…",
-        "published": "2026-04-15T01:26:56.000Z",
-        "source": "9to5Mac",
-        "sourceKey": "9to5mac",
-        "priority": 2,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/margos-got-money-troubles-key-art.jpg?quality=82&#038;strip=all&#038;w=1600",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 5
       },
       {
         "title": "Apple reportedly threatened to remove Grok from the App Store over sexualized deepfakes",
         "link": "https://9to5mac.com/2026/04/14/apple-reportedly-threatened-to-remove-grok-from-the-app-store-over-sexualized-deepfakes/",
-        "description": "In a letter obtained exclusively by NBC News, Apple told U.S. senators how it worked behind the scenes to address the viral surge of sexualized deepfakes generated by Grok earlier this year. Here are the details.\nmore…",
+        "description": "In a letter obtained exclusively by NBC News, Apple told U.S. senators how it worked behind the scenes to address the viral surge of sexualized deepfakes generated by Grok earlier this year. Here are the details. more…",
         "published": "2026-04-15T00:40:40.000Z",
         "source": "9to5Mac",
         "sourceKey": "9to5mac",
@@ -402,42 +358,39 @@
         "matchedKeywords": [
           "apple"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "9to5Mac Daily: April 14, 2026 – MacBook Neo competition, more",
-        "link": "https://9to5mac.com/2026/04/14/daily-april-14-2026/",
-        "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by CardPointers: The best way to maximize your credit card rewards. 9to5Mac Daily listeners can exclusively save 30% and get a $100 Savings Card.\n\n\n\n\n more…",
-        "published": "2026-04-15T00:07:17.000Z",
-        "source": "9to5Mac",
-        "sourceKey": "9to5mac",
-        "priority": 2,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "google",
-          "apple"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Chip giant ASML raises 2026 guidance as AI semiconductor demand stays strong",
-        "link": "https://www.cnbc.com/2026/04/15/asml-q1-2026-earnings-report.html",
-        "description": "ASML beat first-quarter revenue and profit expectations and raised its sales guidance for 2026.",
-        "published": "2026-04-15T07:30:25.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "semiconductor",
-          "chip"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 4
       }
     ],
     "chips_cloud": [
+      {
+        "title": "ASML Raises Sales Forecast as AI Demand Boosts Growth",
+        "link": "https://www.bloomberg.com/news/videos/2026-04-15/asml-raises-sales-forecast-as-ai-demand-boosts-growth-video",
+        "description": "ASML Holding NV raised its full-year sales forecast, with net sales expected to be between €36 billion ($42.4 billion) to €40 billion this year. Europe’s most valuable company’s machinery is crucial for producing the Nvidia Corp. chips that are the backbone for training and running artificial intelligence models in data centers. Bloomberg’s Charlotte Hughes-Morgan reports.",
+        "published": "2026-04-15T06:28:17.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "asml",
+          "nvidia",
+          "artificial intelligence",
+          "chip",
+          "data center",
+          "billion"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 11,
+        "alsoIn": [
+          {
+            "source": "Bloomberg",
+            "title": "ASML Raises 2026 Sales Forecast as AI Demand Fuels Growth",
+            "link": "https://www.bloomberg.com/news/articles/2026-04-15/asml-raises-2026-sales-forecast-as-ai-investment-fuels-growth"
+          }
+        ]
+      },
       {
         "title": "Meta commits to 1 gigawatt of custom chips with Broadcom as Hock Tan decides to leave board",
         "link": "https://www.cnbc.com/2026/04/14/meta-commits-to-one-gigawatt-of-custom-chips-with-broadcom-as-hock-tan-agrees-to-leave-board.html",
@@ -453,7 +406,26 @@
           "broadcom",
           "chip"
         ],
-        "category": "chips_cloud"
+        "category": "chips_cloud",
+        "baseScore": 10
+      },
+      {
+        "title": "Chip giant ASML raises 2026 guidance as AI semiconductor demand stays strong",
+        "link": "https://www.cnbc.com/2026/04/15/asml-q1-2026-earnings-report.html",
+        "description": "ASML beat first-quarter revenue and profit expectations and raised its sales guidance for 2026.",
+        "published": "2026-04-15T07:30:25.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "asml",
+          "semiconductor",
+          "chip"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 7
       },
       {
         "title": "Italy Gives €211 Million to Data Center Tech Firm 2D Photonics",
@@ -464,48 +436,66 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "intel",
-          "artificial intelligence",
-          "data center"
-        ],
-        "category": "chips_cloud"
-      }
-    ],
-    "ev_autonomous": [
-      {
-        "title": "Bitcoin developers are trying to build quantum defenses. Your coins could pay the price.",
-        "link": "https://www.coindesk.com/tech/2026/04/15/bitcoin-developers-are-trying-to-build-quantum-defenses-your-coins-could-pay-the-price",
-        "description": "A proposal has been updated on Bitcoin's official repository, calling for freezing of quantum-vulnerable coins.",
-        "published": "2026-04-15T06:05:03.000Z",
-        "source": "CoinDesk",
-        "sourceKey": "coindesk",
-        "priority": 3,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "quantum",
-          "bitcoin"
-        ],
-        "category": "ev_autonomous"
-      }
-    ],
-    "space": [
-      {
-        "title": "Orbital datacenter startup CEO admits launch economics don't fly, presses ahead regardless",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/15/orbital_space_datacenter_startup_economics/",
-        "description": "",
-        "published": "2026-04-15T07:27:12.000Z",
-        "source": "The Register",
-        "sourceKey": "theregister",
-        "priority": 2,
-        "image": null,
         "relevanceScore": 3,
         "matchedKeywords": [
-          "ceo"
+          "data center",
+          "artificial intelligence"
         ],
-        "category": "space"
+        "category": "chips_cloud",
+        "baseScore": 3
+      }
+    ],
+    "other": [
+      {
+        "title": "Developers behind vibe coding app Anything detail next steps after months-long fight with Apple",
+        "link": "https://9to5mac.com/2026/04/14/developers-behind-vibe-coding-app-anything-detail-next-steps-after-months-long-fight-with-apple/",
+        "description": "Following a dispute that led to two removals from the App Store, the developers behind the vibe coding platform Anything are publicly accusing Apple of shutting out a new generation of app creators through outdated app review guidelines. Here are the details. more…",
+        "published": "2026-04-15T03:01:51.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/anything-vibe-coding.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "other",
+        "baseScore": 4
+      }
+    ],
+    "devices": [
+      {
+        "title": "Margo’s Got Money Troubles, starring Elle Fanning, premieres on Apple TV",
+        "link": "https://9to5mac.com/2026/04/14/margos-got-money-troubles-starring-elle-fanning-premieres-on-apple-tv/",
+        "description": "Apple TV subscribers can now watch the first three episodes of comedic drama Margo’s Got Money Troubles, starring Elle Fanning (Predator: Badlands), Michelle Pfeiffer (Scarface), and Nicole Kidman (The Hours). Here are the details. more…",
+        "published": "2026-04-15T01:26:56.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/margos-got-money-troubles-key-art.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices",
+        "baseScore": 4
+      },
+      {
+        "title": "9to5Mac Daily: April 14, 2026 – MacBook Neo competition, more",
+        "link": "https://9to5mac.com/2026/04/14/daily-april-14-2026/",
+        "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by CardPointers: The best way to maximize your credit card rewards. 9to5Mac Daily listeners can exclusively save 30% and get a $100 Savings Card. more…",
+        "published": "2026-04-15T00:07:17.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google",
+          "apple"
+        ],
+        "category": "devices",
+        "baseScore": 4
       }
     ],
     "crypto": [
@@ -520,13 +510,48 @@
         "image": null,
         "relevanceScore": 3,
         "matchedKeywords": [
-          "billion",
           "bitcoin",
+          "billion",
           "stablecoin"
         ],
-        "category": "crypto"
+        "category": "crypto",
+        "baseScore": 3
+      },
+      {
+        "title": "Bitcoin developers are trying to build quantum defenses. Your coins could pay the price.",
+        "link": "https://www.coindesk.com/tech/2026/04/15/bitcoin-developers-are-trying-to-build-quantum-defenses-your-coins-could-pay-the-price",
+        "description": "A proposal has been updated on Bitcoin's official repository, calling for freezing of quantum-vulnerable coins.",
+        "published": "2026-04-15T06:05:03.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 1,
+        "matchedKeywords": [
+          "bitcoin"
+        ],
+        "category": "crypto",
+        "baseScore": 1
+      }
+    ],
+    "space": [
+      {
+        "title": "Orbital datacenter startup CEO admits launch economics don't fly, presses ahead regardless",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/15/orbital_space_datacenter_startup_economics/",
+        "description": "",
+        "published": "2026-04-15T07:27:12.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 1,
+        "matchedKeywords": [
+          "ceo"
+        ],
+        "category": "space",
+        "baseScore": 1
       }
     ]
   },
-  "totalArticles": 21
+  "totalArticles": 19
 }

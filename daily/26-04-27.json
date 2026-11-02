@@ -21,88 +21,8 @@
         "acquisition",
         "billion"
       ],
-      "category": "business"
-    },
-    {
-      "title": "Anthropic's magic code-sniffer: More Swiss cheese than cheddar, for now",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/anthropics_magic_codesniffer_more_swiss/",
-      "description": "",
-      "published": "2026-04-27T08:30:15.000Z",
-      "source": "The Register",
-      "sourceKey": "theregister",
-      "priority": 2,
-      "image": null,
-      "relevanceScore": 10,
-      "matchedKeywords": [
-        "anthropic",
-        "agi"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": "Wall Street Split on Quantum Computing Bet",
-      "link": "https://www.bloomberg.com/news/videos/2026-04-27/wall-street-split-on-quantum-computing-bet-video",
-      "description": "Experts say quantum computing can reshape areas ranging from new drug discovery to machine learning and risk modeling in finance. But it’s also thought to be still years away from offering many practical solutions. As a breakthrough proves elusive in the quest to deploy the nascent technology and boost earnings, global finance is divided on how to proceed. Bloomberg’s William Shaw reports.",
-      "published": "2026-04-27T08:53:43.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 8,
-      "matchedKeywords": [
-        "breakthrough",
-        "quantum",
-        "machine learning"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": "Ex-Tokyo Electron Staff Gets Decade in Jail for TSMC Breach",
-      "link": "https://www.bloomberg.com/news/articles/2026-04-27/ex-tokyo-electron-staffer-handed-10-year-sentence-over-tsmc-leak",
-      "description": "A Taiwanese court sentenced a former Tokyo Electron Ltd. employee to 10 years in prison for stealing Taiwan Semiconductor Manufacturing Co.’s proprietary data, highlighting growing alarm over industrial espionage involving the island’s most strategic sector.",
-      "published": "2026-04-27T03:15:14.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 8,
-      "matchedKeywords": [
-        "tsmc",
-        "arm",
-        "semiconductor"
-      ],
-      "category": "chips_cloud"
-    },
-    {
-      "title": "GA-Backed Acko Is Said to Hire Banks for $350 Million India IPO",
-      "link": "https://www.bloomberg.com/news/articles/2026-04-27/ga-backed-acko-is-said-to-hire-banks-for-350-million-india-ipo",
-      "description": "Acko Technology & Services Pvt., an Indian digital insurer backed by General Atlantic, has hired investment banks for a potential initial public offering that could raise as much as $350 million, according to people familiar with the matter.",
-      "published": "2026-04-27T06:07:15.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 5,
-      "matchedKeywords": [
-        "ipo"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": "Your Next Pair of Good American Jeans Won’t Be Designed by AI",
-      "link": "https://www.bloomberg.com/news/articles/2026-04-27/your-next-pair-of-good-american-jeans-won-t-be-designed-by-ai",
-      "description": "Emma Grede, the co-founder and chief executive officer of Good American jeans, said her businesses are being changed by artificial intelligence, though there are some areas that are off limits.",
-      "published": "2026-04-27T05:00:00.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "intel",
-        "artificial intelligence"
-      ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 10
     },
     {
       "title": "DeepSeek Slashes Fees for New AI Model in Chinese Price War",
@@ -113,28 +33,82 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 4,
+      "relevanceScore": 10,
       "matchedKeywords": [
-        "intel",
+        "deepseek",
+        "ai model",
         "artificial intelligence"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 10
     },
     {
-      "title": "AI Startup Sereact Raises $110 Million for Robots That Predict Consequences",
-      "link": "https://www.bloomberg.com/news/articles/2026-04-27/ai-startup-sereact-raises-110-million-for-robots-that-predict-consequences",
-      "description": "Sereact, a German robotics software company, has raised $110 million in fresh funding to develop its artificial intelligence model that makes robots smarter and more adaptable to different tasks.",
-      "published": "2026-04-27T04:00:00.000Z",
+      "title": "Wall Street Split on Quantum Computing Bet",
+      "link": "https://www.bloomberg.com/news/videos/2026-04-27/wall-street-split-on-quantum-computing-bet-video",
+      "description": "Experts say quantum computing can reshape areas ranging from new drug discovery to machine learning and risk modeling in finance. But it’s also thought to be still years away from offering many practical solutions. As a breakthrough proves elusive in the quest to deploy the nascent technology and boost earnings, global finance is divided on how to proceed. Bloomberg’s William Shaw reports.",
+      "published": "2026-04-27T08:53:43.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "quantum computing",
+        "breakthrough",
+        "machine learning",
+        "earnings"
+      ],
+      "category": "business",
+      "baseScore": 9
+    },
+    {
+      "title": "Anthropic's magic code-sniffer: More Swiss cheese than cheddar, for now",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/anthropics_magic_codesniffer_more_swiss/",
+      "description": "",
+      "published": "2026-04-27T08:30:15.000Z",
+      "source": "The Register",
+      "sourceKey": "theregister",
+      "priority": 2,
+      "image": null,
+      "relevanceScore": 7,
+      "matchedKeywords": [
+        "anthropic"
+      ],
+      "category": "ai",
+      "baseScore": 7
+    },
+    {
+      "title": "Ex-Tokyo Electron Staff Gets Decade in Jail for TSMC Breach",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-27/ex-tokyo-electron-staffer-handed-10-year-sentence-over-tsmc-leak",
+      "description": "A Taiwanese court sentenced a former Tokyo Electron Ltd. employee to 10 years in prison for stealing Taiwan Semiconductor Manufacturing Co.’s proprietary data, highlighting growing alarm over industrial espionage involving the island’s most strategic sector.",
+      "published": "2026-04-27T03:15:14.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 6,
+      "matchedKeywords": [
+        "tsmc",
+        "semiconductor"
+      ],
+      "category": "chips_cloud",
+      "baseScore": 6
+    },
+    {
+      "title": "GA-Backed Acko Is Said to Hire Banks for $350 Million India IPO",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-27/ga-backed-acko-is-said-to-hire-banks-for-350-million-india-ipo",
+      "description": "Acko Technology & Services Pvt., an Indian digital insurer backed by General Atlantic, has hired investment banks for a potential initial public offering that could raise as much as $350 million, according to people familiar with the matter.",
+      "published": "2026-04-27T06:07:15.000Z",
       "source": "Bloomberg",
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
       "relevanceScore": 4,
       "matchedKeywords": [
-        "intel",
-        "artificial intelligence"
+        "ipo"
       ],
-      "category": "ai"
+      "category": "business",
+      "baseScore": 4
     },
     {
       "title": "Google Cloud Next proves what we suspected: Everything is AI now",
@@ -149,11 +123,44 @@
       "matchedKeywords": [
         "google"
       ],
-      "category": "ai"
+      "category": "chips_cloud",
+      "baseScore": 4
+    },
+    {
+      "title": "Your Next Pair of Good American Jeans Won’t Be Designed by AI",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-27/your-next-pair-of-good-american-jeans-won-t-be-designed-by-ai",
+      "description": "Emma Grede, the co-founder and chief executive officer of Good American jeans, said her businesses are being changed by artificial intelligence, though there are some areas that are off limits.",
+      "published": "2026-04-27T05:00:00.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 2,
+      "matchedKeywords": [
+        "artificial intelligence"
+      ],
+      "category": "ai",
+      "baseScore": 2
+    },
+    {
+      "title": "AI Startup Sereact Raises $110 Million for Robots That Predict Consequences",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-27/ai-startup-sereact-raises-110-million-for-robots-that-predict-consequences",
+      "description": "Sereact, a German robotics software company, has raised $110 million in fresh funding to develop its artificial intelligence model that makes robots smarter and more adaptable to different tasks.",
+      "published": "2026-04-27T04:00:00.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 2,
+      "matchedKeywords": [
+        "artificial intelligence"
+      ],
+      "category": "robotics",
+      "baseScore": 2
     }
   ],
   "byCategory": {
-    "business": [
+    "ai": [
       {
         "title": "China Blocks Meta’s $2 Billion Acquisition of AI Firm Manus",
         "link": "https://www.bloomberg.com/news/articles/2026-04-27/china-blocks-meta-s-2-billion-acquisition-of-ai-startup-manus",
@@ -169,73 +176,8 @@
           "acquisition",
           "billion"
         ],
-        "category": "business"
-      }
-    ],
-    "ai": [
-      {
-        "title": "Anthropic's magic code-sniffer: More Swiss cheese than cheddar, for now",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/anthropics_magic_codesniffer_more_swiss/",
-        "description": "",
-        "published": "2026-04-27T08:30:15.000Z",
-        "source": "The Register",
-        "sourceKey": "theregister",
-        "priority": 2,
-        "image": null,
-        "relevanceScore": 10,
-        "matchedKeywords": [
-          "anthropic",
-          "agi"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Wall Street Split on Quantum Computing Bet",
-        "link": "https://www.bloomberg.com/news/videos/2026-04-27/wall-street-split-on-quantum-computing-bet-video",
-        "description": "Experts say quantum computing can reshape areas ranging from new drug discovery to machine learning and risk modeling in finance. But it’s also thought to be still years away from offering many practical solutions. As a breakthrough proves elusive in the quest to deploy the nascent technology and boost earnings, global finance is divided on how to proceed. Bloomberg’s William Shaw reports.",
-        "published": "2026-04-27T08:53:43.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 8,
-        "matchedKeywords": [
-          "breakthrough",
-          "quantum",
-          "machine learning"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "GA-Backed Acko Is Said to Hire Banks for $350 Million India IPO",
-        "link": "https://www.bloomberg.com/news/articles/2026-04-27/ga-backed-acko-is-said-to-hire-banks-for-350-million-india-ipo",
-        "description": "Acko Technology & Services Pvt., an Indian digital insurer backed by General Atlantic, has hired investment banks for a potential initial public offering that could raise as much as $350 million, according to people familiar with the matter.",
-        "published": "2026-04-27T06:07:15.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "ipo"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Your Next Pair of Good American Jeans Won’t Be Designed by AI",
-        "link": "https://www.bloomberg.com/news/articles/2026-04-27/your-next-pair-of-good-american-jeans-won-t-be-designed-by-ai",
-        "description": "Emma Grede, the co-founder and chief executive officer of Good American jeans, said her businesses are being changed by artificial intelligence, though there are some areas that are off limits.",
-        "published": "2026-04-27T05:00:00.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "intel",
-          "artificial intelligence"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 10
       },
       {
         "title": "DeepSeek Slashes Fees for New AI Model in Chinese Price War",
@@ -246,28 +188,102 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 10,
         "matchedKeywords": [
-          "intel",
+          "deepseek",
+          "ai model",
           "artificial intelligence"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 10
       },
       {
-        "title": "AI Startup Sereact Raises $110 Million for Robots That Predict Consequences",
-        "link": "https://www.bloomberg.com/news/articles/2026-04-27/ai-startup-sereact-raises-110-million-for-robots-that-predict-consequences",
-        "description": "Sereact, a German robotics software company, has raised $110 million in fresh funding to develop its artificial intelligence model that makes robots smarter and more adaptable to different tasks.",
-        "published": "2026-04-27T04:00:00.000Z",
+        "title": "Anthropic's magic code-sniffer: More Swiss cheese than cheddar, for now",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/anthropics_magic_codesniffer_more_swiss/",
+        "description": "",
+        "published": "2026-04-27T08:30:15.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "anthropic"
+        ],
+        "category": "ai",
+        "baseScore": 7
+      },
+      {
+        "title": "Your Next Pair of Good American Jeans Won’t Be Designed by AI",
+        "link": "https://www.bloomberg.com/news/articles/2026-04-27/your-next-pair-of-good-american-jeans-won-t-be-designed-by-ai",
+        "description": "Emma Grede, the co-founder and chief executive officer of Good American jeans, said her businesses are being changed by artificial intelligence, though there are some areas that are off limits.",
+        "published": "2026-04-27T05:00:00.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 2,
+        "matchedKeywords": [
+          "artificial intelligence"
+        ],
+        "category": "ai",
+        "baseScore": 2
+      }
+    ],
+    "business": [
+      {
+        "title": "Wall Street Split on Quantum Computing Bet",
+        "link": "https://www.bloomberg.com/news/videos/2026-04-27/wall-street-split-on-quantum-computing-bet-video",
+        "description": "Experts say quantum computing can reshape areas ranging from new drug discovery to machine learning and risk modeling in finance. But it’s also thought to be still years away from offering many practical solutions. As a breakthrough proves elusive in the quest to deploy the nascent technology and boost earnings, global finance is divided on how to proceed. Bloomberg’s William Shaw reports.",
+        "published": "2026-04-27T08:53:43.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "quantum computing",
+          "breakthrough",
+          "machine learning",
+          "earnings"
+        ],
+        "category": "business",
+        "baseScore": 9
+      },
+      {
+        "title": "GA-Backed Acko Is Said to Hire Banks for $350 Million India IPO",
+        "link": "https://www.bloomberg.com/news/articles/2026-04-27/ga-backed-acko-is-said-to-hire-banks-for-350-million-india-ipo",
+        "description": "Acko Technology & Services Pvt., an Indian digital insurer backed by General Atlantic, has hired investment banks for a potential initial public offering that could raise as much as $350 million, according to people familiar with the matter.",
+        "published": "2026-04-27T06:07:15.000Z",
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
         "relevanceScore": 4,
         "matchedKeywords": [
-          "intel",
-          "artificial intelligence"
+          "ipo"
         ],
-        "category": "ai"
+        "category": "business",
+        "baseScore": 4
+      }
+    ],
+    "chips_cloud": [
+      {
+        "title": "Ex-Tokyo Electron Staff Gets Decade in Jail for TSMC Breach",
+        "link": "https://www.bloomberg.com/news/articles/2026-04-27/ex-tokyo-electron-staffer-handed-10-year-sentence-over-tsmc-leak",
+        "description": "A Taiwanese court sentenced a former Tokyo Electron Ltd. employee to 10 years in prison for stealing Taiwan Semiconductor Manufacturing Co.’s proprietary data, highlighting growing alarm over industrial espionage involving the island’s most strategic sector.",
+        "published": "2026-04-27T03:15:14.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "tsmc",
+          "semiconductor"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 6
       },
       {
         "title": "Google Cloud Next proves what we suspected: Everything is AI now",
@@ -282,26 +298,26 @@
         "matchedKeywords": [
           "google"
         ],
-        "category": "ai"
+        "category": "chips_cloud",
+        "baseScore": 4
       }
     ],
-    "chips_cloud": [
+    "robotics": [
       {
-        "title": "Ex-Tokyo Electron Staff Gets Decade in Jail for TSMC Breach",
-        "link": "https://www.bloomberg.com/news/articles/2026-04-27/ex-tokyo-electron-staffer-handed-10-year-sentence-over-tsmc-leak",
-        "description": "A Taiwanese court sentenced a former Tokyo Electron Ltd. employee to 10 years in prison for stealing Taiwan Semiconductor Manufacturing Co.’s proprietary data, highlighting growing alarm over industrial espionage involving the island’s most strategic sector.",
-        "published": "2026-04-27T03:15:14.000Z",
+        "title": "AI Startup Sereact Raises $110 Million for Robots That Predict Consequences",
+        "link": "https://www.bloomberg.com/news/articles/2026-04-27/ai-startup-sereact-raises-110-million-for-robots-that-predict-consequences",
+        "description": "Sereact, a German robotics software company, has raised $110 million in fresh funding to develop its artificial intelligence model that makes robots smarter and more adaptable to different tasks.",
+        "published": "2026-04-27T04:00:00.000Z",
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 8,
+        "relevanceScore": 2,
         "matchedKeywords": [
-          "tsmc",
-          "arm",
-          "semiconductor"
+          "artificial intelligence"
         ],
-        "category": "chips_cloud"
+        "category": "robotics",
+        "baseScore": 2
       }
     ]
   },

@@ -20,38 +20,8 @@
         "nvidia",
         "chip"
       ],
-      "category": "ai"
-    },
-    {
-      "title": "GIC-Backed Envision AESC Is Said to Mull Up to $2 Billion HK IPO",
-      "link": "https://www.bloomberg.com/news/articles/2026-04-17/gic-backed-envision-aesc-is-said-to-mull-up-to-2-billion-hk-ipo",
-      "description": "Envision AESC, a major global manufacturer of lithium-ion batteries for electric vehicles and energy storage systems, is considering an initial public offering in Hong Kong as soon as this year, according to people familiar with the situation.",
-      "published": "2026-04-17T02:37:14.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 6,
-      "matchedKeywords": [
-        "ipo",
-        "billion"
-      ],
-      "category": "business"
-    },
-    {
-      "title": "TSMC first-quarter profit rises 58%, beats estimates as AI demand fuels record run",
-      "link": "https://www.cnbc.com/2026/04/16/tsmc-q1-profit-58-percent-ai-chip-demand-record.html",
-      "description": "TSMC reported another quarter of record profit, with the company expecting AI demand to continue to grow.",
-      "published": "2026-04-17T04:17:57.000Z",
-      "source": "CNBC",
-      "sourceKey": "cnbc_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 5,
-      "matchedKeywords": [
-        "tsmc"
-      ],
-      "category": "ai"
+      "category": "chips_cloud",
+      "baseScore": 6
     },
     {
       "title": "Netflix Shares Fall as Guidance Disappoints Investors",
@@ -66,7 +36,24 @@
       "matchedKeywords": [
         "netflix"
       ],
-      "category": "ai"
+      "category": "business",
+      "baseScore": 5
+    },
+    {
+      "title": "TSMC first-quarter profit rises 58%, beats estimates as AI demand fuels record run",
+      "link": "https://www.cnbc.com/2026/04/16/tsmc-q1-profit-58-percent-ai-chip-demand-record.html",
+      "description": "TSMC reported another quarter of record profit, with the company expecting AI demand to continue to grow.",
+      "published": "2026-04-17T04:17:57.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 5,
+      "matchedKeywords": [
+        "tsmc"
+      ],
+      "category": "chips_cloud",
+      "baseScore": 5
     },
     {
       "title": "Apple Marketing Chief for Watch, AirPods, Home and Health Retires",
@@ -81,22 +68,25 @@
       "matchedKeywords": [
         "apple"
       ],
-      "category": "ai"
+      "category": "devices",
+      "baseScore": 5
     },
     {
-      "title": "Apple announces events and activities ahead of the TCS London Marathon",
-      "link": "https://9to5mac.com/2026/04/16/apple-announces-events-and-activities-ahead-of-the-tcs-london-marathon/",
-      "description": "Last month, Apple was announced as an official partner of this year’s TCS London Marathon. Now, the company has confirmed a series of events and activities ahead of the main race, scheduled for April 26. Here are the details.\nmore…",
-      "published": "2026-04-17T02:01:42.000Z",
-      "source": "9to5Mac",
-      "sourceKey": "9to5mac",
-      "priority": 2,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/08/iphone-fitness-app-ios-17.jpg?quality=82&#038;strip=all&#038;w=1500",
-      "relevanceScore": 4,
+      "title": "GIC-Backed Envision AESC Is Said to Mull Up to $2 Billion HK IPO",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-17/gic-backed-envision-aesc-is-said-to-mull-up-to-2-billion-hk-ipo",
+      "description": "Envision AESC, a major global manufacturer of lithium-ion batteries for electric vehicles and energy storage systems, is considering an initial public offering in Hong Kong as soon as this year, according to people familiar with the situation.",
+      "published": "2026-04-17T02:37:14.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 5,
       "matchedKeywords": [
-        "apple"
+        "ipo",
+        "billion"
       ],
-      "category": "ai"
+      "category": "business",
+      "baseScore": 5
     },
     {
       "title": "IPv6 carried half of internet traffic – for one day, according to Google",
@@ -111,7 +101,24 @@
       "matchedKeywords": [
         "google"
       ],
-      "category": null
+      "category": "other",
+      "baseScore": 4
+    },
+    {
+      "title": "Apple announces events and activities ahead of the TCS London Marathon",
+      "link": "https://9to5mac.com/2026/04/16/apple-announces-events-and-activities-ahead-of-the-tcs-london-marathon/",
+      "description": "Last month, Apple was announced as an official partner of this year’s TCS London Marathon. Now, the company has confirmed a series of events and activities ahead of the main race, scheduled for April 26. Here are the details. more…",
+      "published": "2026-04-17T02:01:42.000Z",
+      "source": "9to5Mac",
+      "sourceKey": "9to5mac",
+      "priority": 2,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/08/iphone-fitness-app-ios-17.jpg?quality=82&#038;strip=all&#038;w=1500",
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "apple"
+      ],
+      "category": "other",
+      "baseScore": 4
     },
     {
       "title": "After a saga of broken promises, a European rover finally has a ride to Mars",
@@ -126,7 +133,8 @@
       "matchedKeywords": [
         "spacex"
       ],
-      "category": "space"
+      "category": "space",
+      "baseScore": 3
     },
     {
       "title": "Claude Opus wrote a Chrome exploit for $2,283",
@@ -141,11 +149,12 @@
       "matchedKeywords": [
         "claude"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 3
     }
   ],
   "byCategory": {
-    "ai": [
+    "chips_cloud": [
       {
         "title": "Nvidia rival tells CNBC it's seeking at least $100 million in funding as European AI chip market booms",
         "link": "https://www.cnbc.com/2026/04/17/nvidia-rivals-chip-market-funding-ai-asml-euclyd.html",
@@ -160,7 +169,8 @@
           "nvidia",
           "chip"
         ],
-        "category": "ai"
+        "category": "chips_cloud",
+        "baseScore": 6
       },
       {
         "title": "TSMC first-quarter profit rises 58%, beats estimates as AI demand fuels record run",
@@ -175,8 +185,11 @@
         "matchedKeywords": [
           "tsmc"
         ],
-        "category": "ai"
-      },
+        "category": "chips_cloud",
+        "baseScore": 5
+      }
+    ],
+    "business": [
       {
         "title": "Netflix Shares Fall as Guidance Disappoints Investors",
         "link": "https://www.bloomberg.com/news/videos/2026-04-17/netflix-shares-fall-as-guidance-disappoints-investors-video",
@@ -190,8 +203,28 @@
         "matchedKeywords": [
           "netflix"
         ],
-        "category": "ai"
+        "category": "business",
+        "baseScore": 5
       },
+      {
+        "title": "GIC-Backed Envision AESC Is Said to Mull Up to $2 Billion HK IPO",
+        "link": "https://www.bloomberg.com/news/articles/2026-04-17/gic-backed-envision-aesc-is-said-to-mull-up-to-2-billion-hk-ipo",
+        "description": "Envision AESC, a major global manufacturer of lithium-ion batteries for electric vehicles and energy storage systems, is considering an initial public offering in Hong Kong as soon as this year, according to people familiar with the situation.",
+        "published": "2026-04-17T02:37:14.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "ipo",
+          "billion"
+        ],
+        "category": "business",
+        "baseScore": 5
+      }
+    ],
+    "devices": [
       {
         "title": "Apple Marketing Chief for Watch, AirPods, Home and Health Retires",
         "link": "https://www.bloomberg.com/news/articles/2026-04-17/apple-watch-airpods-home-and-health-marketing-chief-stan-ng-retires",
@@ -205,12 +238,31 @@
         "matchedKeywords": [
           "apple"
         ],
-        "category": "ai"
+        "category": "devices",
+        "baseScore": 5
+      }
+    ],
+    "other": [
+      {
+        "title": "IPv6 carried half of internet traffic – for one day, according to Google",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/17/ipv6_50_percent_google/",
+        "description": "",
+        "published": "2026-04-17T02:04:50.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "other",
+        "baseScore": 4
       },
       {
         "title": "Apple announces events and activities ahead of the TCS London Marathon",
         "link": "https://9to5mac.com/2026/04/16/apple-announces-events-and-activities-ahead-of-the-tcs-london-marathon/",
-        "description": "Last month, Apple was announced as an official partner of this year’s TCS London Marathon. Now, the company has confirmed a series of events and activities ahead of the main race, scheduled for April 26. Here are the details.\nmore…",
+        "description": "Last month, Apple was announced as an official partner of this year’s TCS London Marathon. Now, the company has confirmed a series of events and activities ahead of the main race, scheduled for April 26. Here are the details. more…",
         "published": "2026-04-17T02:01:42.000Z",
         "source": "9to5Mac",
         "sourceKey": "9to5mac",
@@ -220,40 +272,8 @@
         "matchedKeywords": [
           "apple"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "Claude Opus wrote a Chrome exploit for $2,283",
-        "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/17/claude_opus_wrote_chrome_exploit/",
-        "description": "",
-        "published": "2026-04-17T07:02:09.000Z",
-        "source": "The Register",
-        "sourceKey": "theregister",
-        "priority": 2,
-        "image": null,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "claude"
-        ],
-        "category": "ai"
-      }
-    ],
-    "business": [
-      {
-        "title": "GIC-Backed Envision AESC Is Said to Mull Up to $2 Billion HK IPO",
-        "link": "https://www.bloomberg.com/news/articles/2026-04-17/gic-backed-envision-aesc-is-said-to-mull-up-to-2-billion-hk-ipo",
-        "description": "Envision AESC, a major global manufacturer of lithium-ion batteries for electric vehicles and energy storage systems, is considering an initial public offering in Hong Kong as soon as this year, according to people familiar with the situation.",
-        "published": "2026-04-17T02:37:14.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 6,
-        "matchedKeywords": [
-          "ipo",
-          "billion"
-        ],
-        "category": "business"
+        "category": "other",
+        "baseScore": 4
       }
     ],
     "space": [
@@ -270,7 +290,26 @@
         "matchedKeywords": [
           "spacex"
         ],
-        "category": "space"
+        "category": "space",
+        "baseScore": 3
+      }
+    ],
+    "ai": [
+      {
+        "title": "Claude Opus wrote a Chrome exploit for $2,283",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/17/claude_opus_wrote_chrome_exploit/",
+        "description": "",
+        "published": "2026-04-17T07:02:09.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "claude"
+        ],
+        "category": "ai",
+        "baseScore": 3
       }
     ]
   },

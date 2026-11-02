@@ -19,11 +19,12 @@
       "matchedKeywords": [
         "samsung"
       ],
-      "category": "ev_autonomous"
+      "category": "other",
+      "baseScore": 5
     }
   ],
   "byCategory": {
-    "ev_autonomous": [
+    "other": [
       {
         "title": "Samsung, Labor Union to Meet in ‘Last Chance’ to Avert Strike",
         "link": "https://www.bloomberg.com/news/articles/2026-05-17/samsung-labor-union-to-meet-in-last-chance-to-avert-strike",
@@ -37,7 +38,8 @@
         "matchedKeywords": [
           "samsung"
         ],
-        "category": "ev_autonomous"
+        "category": "other",
+        "baseScore": 5
       }
     ]
   },

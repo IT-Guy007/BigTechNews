@@ -20,12 +20,13 @@
         "openai",
         "spacex"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 12
     },
     {
-      "title": "This Trump-linked startup plans to put humanoid robots in the military ",
+      "title": "This Trump-linked startup plans to put humanoid robots in the military",
       "link": "https://www.cnbc.com/2026/05/30/humanoid-robots-ukraine-war-foundation-military-ai.html",
-      "description": "With ties to the Trump family,  Foundation Robotics Labs is aiming to deploy humanoid robots in the military in the next 12 to 18 months.",
+      "description": "With ties to the Trump family, Foundation Robotics Labs is aiming to deploy humanoid robots in the military in the next 12 to 18 months.",
       "published": "2026-05-31T06:12:28.000Z",
       "source": "CNBC",
       "sourceKey": "cnbc_tech",
@@ -33,39 +34,11 @@
       "image": null,
       "relevanceScore": 5,
       "matchedKeywords": [
-        "humanoid robot"
+        "humanoid robot",
+        "humanoid"
       ],
-      "category": "robotics"
-    },
-    {
-      "title": "Leaked photo compares Samsung’s wider Galaxy Z Fold 8 to the ‘Ultra’ one",
-      "link": "https://9to5google.com/2026/05/30/galaxy-z-fold-8-wide-ultra-leak/",
-      "description": "A new leak shows off the difference, in person, of the Galaxy Z Fold 8’s wider form factor versus the “Ultra” one we’re already used to.\nmore…",
-      "published": "2026-05-31T02:35:00.000Z",
-      "source": "9to5Google",
-      "sourceKey": "9to5google",
-      "priority": 2,
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/galaxy-z-fold-8-photo-leak-1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "samsung"
-      ],
-      "category": null
-    },
-    {
-      "title": "Juiced Bikes now shipping its game-changing electric mopeds in the US",
-      "link": "https://electrek.co/2026/05/30/juiced-bikes-now-shipping-its-game-changing-electric-mopeds-in-the-us/",
-      "description": "Juiced Bikes says its newly launched Scrambler e-bikes are now officially in stock and shipping, marking the next step in the brand’s return after its acquisition and relaunch under the team behind Lectric eBikes.\nmore…",
-      "published": "2026-05-31T05:36:36.000Z",
-      "source": "Electrek",
-      "sourceKey": "electrek",
-      "priority": 2,
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/05/juiced-bikes-header-beach.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "acquisition"
-      ],
-      "category": "space"
+      "category": "robotics",
+      "baseScore": 5
     },
     {
       "title": "Netflix wiz creates app to slash AI bills, then open sources it",
@@ -80,7 +53,40 @@
       "matchedKeywords": [
         "netflix"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 4
+    },
+    {
+      "title": "Juiced Bikes now shipping its game-changing electric mopeds in the US",
+      "link": "https://electrek.co/2026/05/30/juiced-bikes-now-shipping-its-game-changing-electric-mopeds-in-the-us/",
+      "description": "Juiced Bikes says its newly launched Scrambler e-bikes are now officially in stock and shipping, marking the next step in the brand’s return after its acquisition and relaunch under the team behind Lectric eBikes. more…",
+      "published": "2026-05-31T05:36:36.000Z",
+      "source": "Electrek",
+      "sourceKey": "electrek",
+      "priority": 2,
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/05/juiced-bikes-header-beach.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "acquisition"
+      ],
+      "category": "business",
+      "baseScore": 4
+    },
+    {
+      "title": "Leaked photo compares Samsung’s wider Galaxy Z Fold 8 to the ‘Ultra’ one",
+      "link": "https://9to5google.com/2026/05/30/galaxy-z-fold-8-wide-ultra-leak/",
+      "description": "A new leak shows off the difference, in person, of the Galaxy Z Fold 8’s wider form factor versus the “Ultra” one we’re already used to. more…",
+      "published": "2026-05-31T02:35:00.000Z",
+      "source": "9to5Google",
+      "sourceKey": "9to5google",
+      "priority": 2,
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/galaxy-z-fold-8-photo-leak-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "samsung"
+      ],
+      "category": "devices",
+      "baseScore": 4
     }
   ],
   "byCategory": {
@@ -99,7 +105,8 @@
           "openai",
           "spacex"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 12
       },
       {
         "title": "Netflix wiz creates app to slash AI bills, then open sources it",
@@ -114,14 +121,15 @@
         "matchedKeywords": [
           "netflix"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 4
       }
     ],
     "robotics": [
       {
-        "title": "This Trump-linked startup plans to put humanoid robots in the military ",
+        "title": "This Trump-linked startup plans to put humanoid robots in the military",
         "link": "https://www.cnbc.com/2026/05/30/humanoid-robots-ukraine-war-foundation-military-ai.html",
-        "description": "With ties to the Trump family,  Foundation Robotics Labs is aiming to deploy humanoid robots in the military in the next 12 to 18 months.",
+        "description": "With ties to the Trump family, Foundation Robotics Labs is aiming to deploy humanoid robots in the military in the next 12 to 18 months.",
         "published": "2026-05-31T06:12:28.000Z",
         "source": "CNBC",
         "sourceKey": "cnbc_tech",
@@ -129,16 +137,18 @@
         "image": null,
         "relevanceScore": 5,
         "matchedKeywords": [
-          "humanoid robot"
+          "humanoid robot",
+          "humanoid"
         ],
-        "category": "robotics"
+        "category": "robotics",
+        "baseScore": 5
       }
     ],
-    "space": [
+    "business": [
       {
         "title": "Juiced Bikes now shipping its game-changing electric mopeds in the US",
         "link": "https://electrek.co/2026/05/30/juiced-bikes-now-shipping-its-game-changing-electric-mopeds-in-the-us/",
-        "description": "Juiced Bikes says its newly launched Scrambler e-bikes are now officially in stock and shipping, marking the next step in the brand’s return after its acquisition and relaunch under the team behind Lectric eBikes.\nmore…",
+        "description": "Juiced Bikes says its newly launched Scrambler e-bikes are now officially in stock and shipping, marking the next step in the brand’s return after its acquisition and relaunch under the team behind Lectric eBikes. more…",
         "published": "2026-05-31T05:36:36.000Z",
         "source": "Electrek",
         "sourceKey": "electrek",
@@ -148,7 +158,26 @@
         "matchedKeywords": [
           "acquisition"
         ],
-        "category": "space"
+        "category": "business",
+        "baseScore": 4
+      }
+    ],
+    "devices": [
+      {
+        "title": "Leaked photo compares Samsung’s wider Galaxy Z Fold 8 to the ‘Ultra’ one",
+        "link": "https://9to5google.com/2026/05/30/galaxy-z-fold-8-wide-ultra-leak/",
+        "description": "A new leak shows off the difference, in person, of the Galaxy Z Fold 8’s wider form factor versus the “Ultra” one we’re already used to. more…",
+        "published": "2026-05-31T02:35:00.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/galaxy-z-fold-8-photo-leak-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "samsung"
+        ],
+        "category": "devices",
+        "baseScore": 4
       }
     ]
   },

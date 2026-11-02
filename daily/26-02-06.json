@@ -15,12 +15,14 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 12,
+      "relevanceScore": 13,
       "matchedKeywords": [
         "openai",
-        "softbank"
+        "softbank",
+        "earnings"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 13
     },
     {
       "title": "Why Amazon’s CEO is ‘confident’ with $200 billion spending plan",
@@ -31,50 +33,15 @@
       "sourceKey": "cnbc_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 10,
+      "relevanceScore": 8,
       "matchedKeywords": [
         "amazon",
         "ceo",
-        "data center",
-        "billion"
-      ],
-      "category": "business"
-    },
-    {
-      "title": "Big Tech to Spend $650 Billion This Year as AI Race Intensifies",
-      "link": "https://www.bloomberg.com/news/articles/2026-02-06/how-much-is-big-tech-spending-on-ai-computing-a-staggering-650-billion-in-2026",
-      "description": "Four of the biggest US technology companies together have forecast capital expenditures that will reach about $650 billion in 2026 — a mind-boggling tide of cash earmarked for new data centers and the long list of equipment needed to make them tick, including artificial intelligence chips, networking cables and backup generators.",
-      "published": "2026-02-06T01:27:16.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "intel",
-        "arm",
-        "artificial intelligence",
-        "chip",
+        "billion",
         "data center"
       ],
-      "category": "chips_cloud"
-    },
-    {
-      "title": "Bitcoin isn’t losing to gold. It is navigating a liquidity squeeze that the yellow metal never had: Asia Morning Briefing",
-      "link": "https://www.coindesk.com/markets/2026/02/06/bitcoin-isn-t-losing-to-gold-it-is-navigating-a-liquidity-squeeze-that-the-yellow-metal-never-had-asia-morning-briefing",
-      "description": "QCP's Darius Sit says October's deleveraging event exposed the real divide: bitcoin trades like collateral, altcoins trade like a bet on exchange governance",
-      "published": "2026-02-06T02:36:24.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "priority": 3,
-      "image": null,
-      "relevanceScore": 8,
-      "matchedKeywords": [
-        "meta",
-        "agi",
-        "bitcoin"
-      ],
-      "category": "ev_autonomous"
+      "category": "business",
+      "baseScore": 8
     },
     {
       "title": "CNBC Daily Open: Amazon's projected capex dwarfs that of its peers — which have already spooked markets",
@@ -90,7 +57,26 @@
         "amazon",
         "billion"
       ],
-      "category": "ai"
+      "category": "other",
+      "baseScore": 6
+    },
+    {
+      "title": "Designers teach AI models to generate better UI in new Apple study",
+      "link": "https://9to5mac.com/2026/02/05/designers-teach-ai-to-generate-better-ui-in-new-apple-study/",
+      "description": "Apple continues to explore how generative AI can improve app development pipelines. Here’s what they’re looking at. more…",
+      "published": "2026-02-06T02:41:45.000Z",
+      "source": "9to5Mac",
+      "sourceKey": "9to5mac",
+      "priority": 2,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/machine-learning-research.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "relevanceScore": 6,
+      "matchedKeywords": [
+        "apple",
+        "ai model",
+        "generative ai"
+      ],
+      "category": "ai",
+      "baseScore": 6
     },
     {
       "title": "Tesla maintains competitive showing in China-made EV sales despite industry headwinds",
@@ -105,7 +91,43 @@
       "matchedKeywords": [
         "tesla"
       ],
-      "category": "ev_autonomous"
+      "category": "ev_autonomous",
+      "baseScore": 5
+    },
+    {
+      "title": "BYD shares set for six-week slump after posting two-year low in sales amid China EV slowdown",
+      "link": "https://www.cnbc.com/2026/02/05/chinas-ev-slowdown-persists-as-byd-posts-near-two-year-low-in-sales.html",
+      "description": "At least six major Chinese electric car brands reported a sharp sales drop in January from December, according to CNBC's analysis.",
+      "published": "2026-02-06T04:41:29.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 5,
+      "matchedKeywords": [
+        "byd"
+      ],
+      "category": "ev_autonomous",
+      "baseScore": 5
+    },
+    {
+      "title": "Big Tech to Spend $650 Billion This Year as AI Race Intensifies",
+      "link": "https://www.bloomberg.com/news/articles/2026-02-06/how-much-is-big-tech-spending-on-ai-computing-a-staggering-650-billion-in-2026",
+      "description": "Four of the biggest US technology companies together have forecast capital expenditures that will reach about $650 billion in 2026 — a mind-boggling tide of cash earmarked for new data centers and the long list of equipment needed to make them tick, including artificial intelligence chips, networking cables and backup generators.",
+      "published": "2026-02-06T01:27:16.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 5,
+      "matchedKeywords": [
+        "billion",
+        "artificial intelligence",
+        "chip",
+        "data center"
+      ],
+      "category": "ai",
+      "baseScore": 5
     },
     {
       "title": "Amazon learns a tough lesson in a market bailing on tech. Why we must be patient",
@@ -120,22 +142,8 @@
       "matchedKeywords": [
         "amazon"
       ],
-      "category": "ai"
-    },
-    {
-      "title": "BYD shares set for six-week slump after posting two-year low in sales amid China EV slowdown ",
-      "link": "https://www.cnbc.com/2026/02/05/chinas-ev-slowdown-persists-as-byd-posts-near-two-year-low-in-sales.html",
-      "description": "At least six major Chinese electric car brands reported a sharp sales drop in January from December, according to CNBC's analysis.",
-      "published": "2026-02-06T04:41:29.000Z",
-      "source": "CNBC",
-      "sourceKey": "cnbc_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 5,
-      "matchedKeywords": [
-        "byd"
-      ],
-      "category": "ev_autonomous"
+      "category": "other",
+      "baseScore": 5
     },
     {
       "title": "Xero CEO: Our Company Can't Be Easily Cloned With AI",
@@ -146,28 +154,30 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 5,
+      "relevanceScore": 4,
       "matchedKeywords": [
         "ceo",
-        "llm"
+        "llm",
+        "ai model"
       ],
-      "category": "ai"
+      "category": "business",
+      "baseScore": 4
     },
     {
-      "title": "Designers teach AI models to generate better UI in new Apple study",
-      "link": "https://9to5mac.com/2026/02/05/designers-teach-ai-to-generate-better-ui-in-new-apple-study/",
-      "description": "Apple continues to explore how generative AI can improve app development pipelines. Here’s what they’re looking at.\nmore…",
-      "published": "2026-02-06T02:41:45.000Z",
-      "source": "9to5Mac",
-      "sourceKey": "9to5mac",
+      "title": "Amazon can't build AI capacity fast enough, throws another $200B at the problem",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/06/amazon_earnings_q4_2025/",
+      "description": "",
+      "published": "2026-02-06T02:13:16.000Z",
+      "source": "The Register",
+      "sourceKey": "theregister",
       "priority": 2,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/machine-learning-research.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "relevanceScore": 5,
+      "image": null,
+      "relevanceScore": 4,
       "matchedKeywords": [
-        "apple",
-        "generative ai"
+        "amazon"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 4
     }
   ],
   "byCategory": {
@@ -181,90 +191,51 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 12,
+        "relevanceScore": 13,
         "matchedKeywords": [
           "openai",
-          "softbank"
+          "softbank",
+          "earnings"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "CNBC Daily Open: Amazon's projected capex dwarfs that of its peers — which have already spooked markets",
-        "link": "https://www.cnbc.com/2026/02/06/cnbc-daily-open-amazons-projected-capex-dwarfs-that-of-its-peers-which-have-already-spooked-markets.html",
-        "description": "Amazon's capital expenditure projection comes in at $200 billion, above analysts' estimates of $146.6 billion and higher than the roughly $131 billion in 2025.",
-        "published": "2026-02-06T01:07:29.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 6,
-        "matchedKeywords": [
-          "amazon",
-          "billion"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Amazon learns a tough lesson in a market bailing on tech. Why we must be patient",
-        "link": "https://www.cnbc.com/2026/02/05/amazon-learns-a-tough-lesson-in-a-market-bailing-on-tech-why-we-must-be-patient.html",
-        "description": "While reiterating our 1 rating on Amazon, we had no choice but to lower our price target on the selloff over management's massive spending guide.",
-        "published": "2026-02-06T00:42:28.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "amazon"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Xero CEO: Our Company Can't Be Easily Cloned With AI",
-        "link": "https://www.bloomberg.com/news/videos/2026-02-06/xero-ceo-our-company-can-t-be-easily-cloned-with-ai-video",
-        "description": "Sukhinder Singh Cassidy, CEO of Xero, joins Bloomberg Businessweek Daily to discuss how the firm's small business tools won't be overtaken, but rather enhanced by AI. Cassidy mentions that Xero sees AI as a net benefit for its product suite because the firm builds its LLM \"on the back of\" AI models. Her comments come as AI fears consume investors in software stocks. Cassidy speaks with Carol Massar and Tim Stenovec. (Source: Bloomberg)",
-        "published": "2026-02-06T00:02:18.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "ceo",
-          "llm"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 13
       },
       {
         "title": "Designers teach AI models to generate better UI in new Apple study",
         "link": "https://9to5mac.com/2026/02/05/designers-teach-ai-to-generate-better-ui-in-new-apple-study/",
-        "description": "Apple continues to explore how generative AI can improve app development pipelines. Here’s what they’re looking at.\nmore…",
+        "description": "Apple continues to explore how generative AI can improve app development pipelines. Here’s what they’re looking at. more…",
         "published": "2026-02-06T02:41:45.000Z",
         "source": "9to5Mac",
         "sourceKey": "9to5mac",
         "priority": 2,
         "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/machine-learning-research.jpg?quality=82&#038;strip=all&#038;w=1600",
-        "relevanceScore": 5,
+        "relevanceScore": 6,
         "matchedKeywords": [
           "apple",
+          "ai model",
           "generative ai"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 6
       },
       {
-        "title": "Former Tech Mahindra CEO on AI Disruption",
-        "link": "https://www.bloomberg.com/news/videos/2026-02-06/former-tech-mahindra-ceo-on-ai-disruption-video",
-        "description": "C.P. Gurnani, Co‑Founder of AIonOS and former CEO of Tech Mahindra, discusses whether AI could replace long‑standing IT workflows, how enterprise adoption is evolving, and why data security, infrastructure and AI-native platforms may drive future growth. He also explains why Indian I.T. firms could benefit despite short-term disruptions. He speaks on Bloomberg’s Insight with Haslinda Amin. (Source: Bloomberg)",
-        "published": "2026-02-06T06:07:37.000Z",
+        "title": "Big Tech to Spend $650 Billion This Year as AI Race Intensifies",
+        "link": "https://www.bloomberg.com/news/articles/2026-02-06/how-much-is-big-tech-spending-on-ai-computing-a-staggering-650-billion-in-2026",
+        "description": "Four of the biggest US technology companies together have forecast capital expenditures that will reach about $650 billion in 2026 — a mind-boggling tide of cash earmarked for new data centers and the long list of equipment needed to make them tick, including artificial intelligence chips, networking cables and backup generators.",
+        "published": "2026-02-06T01:27:16.000Z",
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 5,
         "matchedKeywords": [
-          "ceo"
+          "billion",
+          "artificial intelligence",
+          "chip",
+          "data center"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 5
       },
       {
         "title": "Amazon can't build AI capacity fast enough, throws another $200B at the problem",
@@ -279,7 +250,131 @@
         "matchedKeywords": [
           "amazon"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 4
+      },
+      {
+        "title": "Blackstone Is Finalizing $3.5 Billion Loan for Australia AI Firm",
+        "link": "https://www.bloomberg.com/news/articles/2026-02-06/blackstone-is-finalizing-3-5-billion-loan-for-australia-ai-firm",
+        "description": "Private credit giant Blackstone Inc. is finalizing a loan of more than A$5 billion ($3.5 billion) to fund the data center expansion of Australian startup Firmus Technologies Pty., people familiar with the matter said, the latest in digital infrastructure funding tied to the AI boom.",
+        "published": "2026-02-06T05:28:04.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "billion",
+          "data center"
+        ],
+        "category": "ai",
+        "baseScore": 3
+      }
+    ],
+    "business": [
+      {
+        "title": "Why Amazon’s CEO is ‘confident’ with $200 billion spending plan",
+        "link": "https://www.cnbc.com/2026/02/05/why-amazons-ceo-is-confident-with-200-billion-spending-plan.html",
+        "description": "The company boosted its 2026 capital expenditures to $200 billion, with most of the spending going to data centers.",
+        "published": "2026-02-06T02:35:29.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "amazon",
+          "ceo",
+          "billion",
+          "data center"
+        ],
+        "category": "business",
+        "baseScore": 8
+      },
+      {
+        "title": "Xero CEO: Our Company Can't Be Easily Cloned With AI",
+        "link": "https://www.bloomberg.com/news/videos/2026-02-06/xero-ceo-our-company-can-t-be-easily-cloned-with-ai-video",
+        "description": "Sukhinder Singh Cassidy, CEO of Xero, joins Bloomberg Businessweek Daily to discuss how the firm's small business tools won't be overtaken, but rather enhanced by AI. Cassidy mentions that Xero sees AI as a net benefit for its product suite because the firm builds its LLM \"on the back of\" AI models. Her comments come as AI fears consume investors in software stocks. Cassidy speaks with Carol Massar and Tim Stenovec. (Source: Bloomberg)",
+        "published": "2026-02-06T00:02:18.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "ceo",
+          "llm",
+          "ai model"
+        ],
+        "category": "business",
+        "baseScore": 4
+      },
+      {
+        "title": "Former Tech Mahindra CEO on AI Disruption",
+        "link": "https://www.bloomberg.com/news/videos/2026-02-06/former-tech-mahindra-ceo-on-ai-disruption-video",
+        "description": "C.P. Gurnani, Co‑Founder of AIonOS and former CEO of Tech Mahindra, discusses whether AI could replace long‑standing IT workflows, how enterprise adoption is evolving, and why data security, infrastructure and AI-native platforms may drive future growth. He also explains why Indian I.T. firms could benefit despite short-term disruptions. He speaks on Bloomberg’s Insight with Haslinda Amin. (Source: Bloomberg)",
+        "published": "2026-02-06T06:07:37.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 2,
+        "matchedKeywords": [
+          "ceo"
+        ],
+        "category": "business",
+        "baseScore": 2
+      },
+      {
+        "title": "Atlassian CEO Says AI Positive for Company as Tech Shares Fall",
+        "link": "https://www.bloomberg.com/news/articles/2026-02-06/atlassian-ceo-says-ai-positive-for-company-as-tech-shares-fall",
+        "description": "AI has been one of the best things to happen to Atlassian Corp., Chief Executive Officer Mike Cannon-Brookes said, as shares fell in the US in late Thursday trading following the company’s second-quarter results, amid a broader AI-driven tech sector slump.",
+        "published": "2026-02-06T05:04:00.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 2,
+        "matchedKeywords": [
+          "ceo"
+        ],
+        "category": "business",
+        "baseScore": 2
+      }
+    ],
+    "other": [
+      {
+        "title": "CNBC Daily Open: Amazon's projected capex dwarfs that of its peers — which have already spooked markets",
+        "link": "https://www.cnbc.com/2026/02/06/cnbc-daily-open-amazons-projected-capex-dwarfs-that-of-its-peers-which-have-already-spooked-markets.html",
+        "description": "Amazon's capital expenditure projection comes in at $200 billion, above analysts' estimates of $146.6 billion and higher than the roughly $131 billion in 2025.",
+        "published": "2026-02-06T01:07:29.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "amazon",
+          "billion"
+        ],
+        "category": "other",
+        "baseScore": 6
+      },
+      {
+        "title": "Amazon learns a tough lesson in a market bailing on tech. Why we must be patient",
+        "link": "https://www.cnbc.com/2026/02/05/amazon-learns-a-tough-lesson-in-a-market-bailing-on-tech-why-we-must-be-patient.html",
+        "description": "While reiterating our 1 rating on Amazon, we had no choice but to lower our price target on the selloff over management's massive spending guide.",
+        "published": "2026-02-06T00:42:28.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "amazon"
+        ],
+        "category": "other",
+        "baseScore": 5
       },
       {
         "title": "Coupang’s Influence Campaign Creates Powerful Washington Allies",
@@ -294,99 +389,11 @@
         "matchedKeywords": [
           "amazon"
         ],
-        "category": "ai"
-      }
-    ],
-    "business": [
-      {
-        "title": "Why Amazon’s CEO is ‘confident’ with $200 billion spending plan",
-        "link": "https://www.cnbc.com/2026/02/05/why-amazons-ceo-is-confident-with-200-billion-spending-plan.html",
-        "description": "The company boosted its 2026 capital expenditures to $200 billion, with most of the spending going to data centers.",
-        "published": "2026-02-06T02:35:29.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 10,
-        "matchedKeywords": [
-          "amazon",
-          "ceo",
-          "data center",
-          "billion"
-        ],
-        "category": "business"
-      },
-      {
-        "title": "Atlassian CEO Says AI Positive for Company as Tech Shares Fall",
-        "link": "https://www.bloomberg.com/news/articles/2026-02-06/atlassian-ceo-says-ai-positive-for-company-as-tech-shares-fall",
-        "description": "AI has been one of the best things to happen to Atlassian Corp., Chief Executive Officer Mike Cannon-Brookes said, as shares fell in the US in late Thursday trading following the company’s second-quarter results, amid a broader AI-driven tech sector slump.",
-        "published": "2026-02-06T05:04:00.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "ceo"
-        ],
-        "category": "business"
-      },
-      {
-        "title": "Blackstone Is Finalizing $3.5 Billion Loan for Australia AI Firm",
-        "link": "https://www.bloomberg.com/news/articles/2026-02-06/blackstone-is-finalizing-3-5-billion-loan-for-australia-ai-firm",
-        "description": "Private credit giant Blackstone Inc. is finalizing a loan of more than A$5 billion ($3.5 billion) to fund the data center expansion of Australian startup Firmus Technologies Pty., people familiar with the matter said, the latest in digital infrastructure funding tied to the AI boom.",
-        "published": "2026-02-06T05:28:04.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "data center",
-          "billion"
-        ],
-        "category": "business"
-      }
-    ],
-    "chips_cloud": [
-      {
-        "title": "Big Tech to Spend $650 Billion This Year as AI Race Intensifies",
-        "link": "https://www.bloomberg.com/news/articles/2026-02-06/how-much-is-big-tech-spending-on-ai-computing-a-staggering-650-billion-in-2026",
-        "description": "Four of the biggest US technology companies together have forecast capital expenditures that will reach about $650 billion in 2026 — a mind-boggling tide of cash earmarked for new data centers and the long list of equipment needed to make them tick, including artificial intelligence chips, networking cables and backup generators.",
-        "published": "2026-02-06T01:27:16.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 9,
-        "matchedKeywords": [
-          "intel",
-          "arm",
-          "artificial intelligence",
-          "chip",
-          "data center"
-        ],
-        "category": "chips_cloud"
+        "category": "other",
+        "baseScore": 3
       }
     ],
     "ev_autonomous": [
-      {
-        "title": "Bitcoin isn’t losing to gold. It is navigating a liquidity squeeze that the yellow metal never had: Asia Morning Briefing",
-        "link": "https://www.coindesk.com/markets/2026/02/06/bitcoin-isn-t-losing-to-gold-it-is-navigating-a-liquidity-squeeze-that-the-yellow-metal-never-had-asia-morning-briefing",
-        "description": "QCP's Darius Sit says October's deleveraging event exposed the real divide: bitcoin trades like collateral, altcoins trade like a bet on exchange governance",
-        "published": "2026-02-06T02:36:24.000Z",
-        "source": "CoinDesk",
-        "sourceKey": "coindesk",
-        "priority": 3,
-        "image": null,
-        "relevanceScore": 8,
-        "matchedKeywords": [
-          "meta",
-          "agi",
-          "bitcoin"
-        ],
-        "category": "ev_autonomous"
-      },
       {
         "title": "Tesla maintains competitive showing in China-made EV sales despite industry headwinds",
         "link": "https://www.cnbc.com/2026/02/06/tesla-maintains-competitive-showing-in-china-made-ev-sales-despite-industry-headwinds.html",
@@ -400,10 +407,11 @@
         "matchedKeywords": [
           "tesla"
         ],
-        "category": "ev_autonomous"
+        "category": "ev_autonomous",
+        "baseScore": 5
       },
       {
-        "title": "BYD shares set for six-week slump after posting two-year low in sales amid China EV slowdown ",
+        "title": "BYD shares set for six-week slump after posting two-year low in sales amid China EV slowdown",
         "link": "https://www.cnbc.com/2026/02/05/chinas-ev-slowdown-persists-as-byd-posts-near-two-year-low-in-sales.html",
         "description": "At least six major Chinese electric car brands reported a sharp sales drop in January from December, according to CNBC's analysis.",
         "published": "2026-02-06T04:41:29.000Z",
@@ -415,8 +423,11 @@
         "matchedKeywords": [
           "byd"
         ],
-        "category": "ev_autonomous"
-      },
+        "category": "ev_autonomous",
+        "baseScore": 5
+      }
+    ],
+    "crypto": [
       {
         "title": "Bitcoin’s crash to $60,000 has traders hunting for a hidden fund blowup",
         "link": "https://www.coindesk.com/markets/2026/02/06/bitcoin-s-crash-to-usd60-000-has-traders-hunting-for-a-hidden-fund-blowup",
@@ -426,12 +437,28 @@
         "sourceKey": "coindesk",
         "priority": 3,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 1,
         "matchedKeywords": [
-          "quantum",
           "bitcoin"
         ],
-        "category": "ev_autonomous"
+        "category": "crypto",
+        "baseScore": 1
+      },
+      {
+        "title": "Bitcoin isn’t losing to gold. It is navigating a liquidity squeeze that the yellow metal never had: Asia Morning Briefing",
+        "link": "https://www.coindesk.com/markets/2026/02/06/bitcoin-isn-t-losing-to-gold-it-is-navigating-a-liquidity-squeeze-that-the-yellow-metal-never-had-asia-morning-briefing",
+        "description": "QCP's Darius Sit says October's deleveraging event exposed the real divide: bitcoin trades like collateral, altcoins trade like a bet on exchange governance",
+        "published": "2026-02-06T02:36:24.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 1,
+        "matchedKeywords": [
+          "bitcoin"
+        ],
+        "category": "crypto",
+        "baseScore": 1
       }
     ]
   },

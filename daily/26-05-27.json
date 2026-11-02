@@ -7,25 +7,6 @@
   "generatedAt": "2026-05-27T10:34:45.329Z",
   "highlights": [
     {
-      "title": "SpaceX Investor Powerlaw to Debut on Nasdaq as IPO Race Heats Up",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-27/spacex-investor-powerlaw-to-debut-on-nasdaq-as-ipo-race-heats-up",
-      "description": "Powerlaw Corp., a closed-end fund that owns stakes in Elon Musk’s SpaceX and artificial intelligence firm OpenAI, is going public without raising any capital in the latest public vehicle to cater to retail investors’ clamor for exposure to the hottest private tech companies.",
-      "published": "2026-05-27T09:00:00.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 20,
-      "matchedKeywords": [
-        "openai",
-        "spacex",
-        "intel",
-        "ipo",
-        "elon musk"
-      ],
-      "category": "ai"
-    },
-    {
       "title": "Why Huawei’s New Chipmaking Plan Has Investors Buzzing",
       "link": "https://www.bloomberg.com/news/articles/2026-05-27/what-to-know-about-huawei-s-new-ai-chipmaking-plan-logicfolding-tech",
       "description": "The artificial intelligence boom has triggered an insatiable demand for computing power, with companies such as Amazon.com Inc., Meta Platforms Inc. and Microsoft Corp. pouring hundreds of billions of dollars into data centers and advanced chips developed by US semiconductor giant Nvidia Corp.",
@@ -34,15 +15,55 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 20,
+      "relevanceScore": 18,
       "matchedKeywords": [
+        "huawei",
         "microsoft",
         "amazon",
         "meta",
         "nvidia",
-        "intel"
+        "artificial intelligence"
       ],
-      "category": "chips_cloud"
+      "category": "chips_cloud",
+      "baseScore": 18
+    },
+    {
+      "title": "SpaceX Investor Powerlaw to Debut on Nasdaq as IPO Race Heats Up",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-27/spacex-investor-powerlaw-to-debut-on-nasdaq-as-ipo-race-heats-up",
+      "description": "Powerlaw Corp., a closed-end fund that owns stakes in Elon Musk’s SpaceX and artificial intelligence firm OpenAI, is going public without raising any capital in the latest public vehicle to cater to retail investors’ clamor for exposure to the hottest private tech companies.",
+      "published": "2026-05-27T09:00:00.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 17,
+      "matchedKeywords": [
+        "spacex",
+        "ipo",
+        "openai",
+        "elon musk",
+        "artificial intelligence"
+      ],
+      "category": "business",
+      "baseScore": 17
+    },
+    {
+      "title": "Memory Chip Frenzy Sends SK Hynix, Micron Into $1 Trillion Club",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-27/sk-hynix-joins-1-trillion-club-on-ai-memory-chip-dominance",
+      "description": "The breakneck surge in memory-chip stocks is intensifying, sending the market capitalizations of SK Hynix Inc. and Micron Technology Inc. above $1 trillion for the first time, as investors bet the AI boom will lead to a sustained revaluation of the industry.",
+      "published": "2026-05-27T00:07:10.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 10,
+      "matchedKeywords": [
+        "sk hynix",
+        "micron",
+        "chip"
+      ],
+      "category": "chips_cloud",
+      "baseScore": 10
     },
     {
       "title": "ByteDance Weighs Capex of as Much as $70 Billion in AI Push",
@@ -53,20 +74,20 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 11,
+      "relevanceScore": 9,
       "matchedKeywords": [
-        "intel",
         "bytedance",
+        "billion",
         "tiktok",
-        "artificial intelligence",
-        "billion"
+        "artificial intelligence"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 9
     },
     {
       "title": "Did the Pope use AI to write about the dangers of AI?",
       "link": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
-      "description": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, according to the popular AI detector Pangram.\nThe document includes known traits that appear in AI-generated writing, such as a higher use of the word \"genuinely\" - which crops up in writing by Anthropic's Claude - than previous encyclicals, Zhang says. Another person ran the text of the document section by section through Pangram, finding that 62 percent of its first cha …\nRead the full story at The Verge.",
+      "description": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, according to the popular AI detector Pangram. The document includes known traits that appear in AI-generated writing, such as a higher use of the word \"genuinely\" - which crops up in writing by Anthropic's Claude - than previo",
       "published": "2026-05-27T00:38:11.000Z",
       "source": "The Verge",
       "sourceKey": "theverge",
@@ -77,75 +98,42 @@
         "anthropic",
         "claude"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 9
     },
     {
-      "title": "Memory Chip Giant CXMT Heads for China’s Biggest IPO Since 2022",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-27/memory-chip-giant-cxmt-heads-for-china-s-biggest-ipo-since-2022",
-      "description": "Memory chip maker ChangXin Memory Technologies Inc. has received approval from the Shanghai Stock Exchange for an initial public offering that’s on track to be the biggest in mainland China since 2022, in a milestone for one of the key technologies of the artificial intelligence buildout.",
-      "published": "2026-05-27T09:06:09.000Z",
+      "title": "Germany, Spain Push Back on European Plan to Ban Huawei Gear",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-27/germany-spain-push-back-on-europe-s-plans-to-ban-huawei-gear",
+      "description": "Germany and Spain are leading opposition to European Commission plans to ban Chinese technology suppliers from telecom networks as part of new cybersecurity rules, according to people familiar with the negotiations.",
+      "published": "2026-05-27T09:12:20.000Z",
       "source": "Bloomberg",
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 9,
+      "relevanceScore": 8,
       "matchedKeywords": [
-        "intel",
-        "ipo",
-        "artificial intelligence",
-        "chip"
+        "huawei",
+        "european commission"
       ],
-      "category": "ai"
+      "category": "regulation",
+      "baseScore": 8
     },
     {
-      "title": "Anthropic co-founder hallucinates ghost in the machine after hearing the Pope speak about AI",
-      "link": "https://www.theregister.com/ai-ml/2026/05/27/anthropic-co-founder-hallucinates-ghost-in-the-machine-after-hearing-the-pope-speak-about-ai/5246671",
-      "description": "The nature of AI is unnatural. It's not intelligent. It's not human",
-      "published": "2026-05-27T00:38:57.000Z",
-      "source": "The Register",
-      "sourceKey": "theregister",
+      "title": "WhatsApp will soon let iPhone users share documents with Meta AI",
+      "link": "https://9to5mac.com/2026/05/26/whatsapp-will-soon-let-iphone-users-share-documents-with-meta-ai/",
+      "description": "Meta is working on a new WhatsApp feature that lets users upload documents directly to Meta AI from the in-chat attachment menu. Here are the details. more…",
+      "published": "2026-05-27T00:40:33.000Z",
+      "source": "9to5Mac",
+      "sourceKey": "9to5mac",
       "priority": 2,
-      "image": "https://image.theregister.com/?imageId=5246691&width=800",
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "anthropic",
-        "intel"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": "Taiwan Suspects Nvidia AI Chip Shipment Smuggled to China",
-      "link": "https://www.bloomberg.com/news/videos/2026-05-27/taiwan-suspects-nvidia-chip-shipment-smuggled-to-china-video",
-      "description": "Taiwan prosecutors suspect three individuals successfully smuggled at least one shipment of Nvidia AI chips to China after first exporting them to Japan, people familiar with the matter said. The trio was detained for allegedly falsifying documents related to exports of Super Micro Computer servers containing advanced Nvidia chips, which the US has barred from sale to China without a license. Bloomberg Intelligence's Matthew Bloxham breaks down the situation. (Source: Bloomberg)",
-      "published": "2026-05-27T10:22:41.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
       "relevanceScore": 8,
       "matchedKeywords": [
-        "nvidia",
-        "intel",
-        "chip"
+        "meta",
+        "whatsapp"
       ],
-      "category": "chips_cloud"
-    },
-    {
-      "title": "Salesforce Earnings Can Put AI Fears to Bed, Give Stock a Lift",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-27/salesforce-earnings-can-put-ai-fears-to-bed-give-stock-a-lift",
-      "description": "While software stocks rebound from the artificial intelligence-driven wipeout earlier this year, Salesforce Inc. hasn’t really benefited. But its earnings after the close Wednesday could pull the company’s shares out of their malaise.",
-      "published": "2026-05-27T09:24:26.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 8,
-      "matchedKeywords": [
-        "intel",
-        "salesforce",
-        "artificial intelligence"
-      ],
-      "category": "ai"
+      "category": "devices",
+      "baseScore": 8
     },
     {
       "title": "Taiwan chip stocks climb after Nvidia announces $150 billion spending plans",
@@ -162,131 +150,86 @@
         "chip",
         "billion"
       ],
-      "category": "ai"
+      "category": "chips_cloud",
+      "baseScore": 7
     },
     {
-      "title": "Apple Publishes Document to Help Users Tell Creator Studio Apps Apart",
-      "link": "https://www.macrumors.com/2026/05/27/apple-document-to-help-tell-studio-apps-apart/",
-      "description": "Apple yesterday published a support document to help users distinguish Apple Creator Studio versions of its professional creative apps from the standalone editions sold as one-time purchases.\r\n\r\n\r\nThe confusion stems from Apple's decision to ship two parallel variants of Final Cut Pro, Logic Pro, MainStage, Motion, Compressor, and Pixelmator Pro, with one available through the Apple Creator Studio subscription and one sold separately. Both editions share the same name and can be installed on the same Mac at the same time, leaving little to tell them apart at a glance.\r\n\r\nApple's solution is to give the Creator Studio versions of the apps redesigned icons with Liquid Glass. The new support document presents side-by-side icon comparisons for each of the six apps so users can identify which edition they are running or troubleshooting from the Dock or the Applications folder.\r\n\r\nApple does not typically publish a dedicated reference document for telling two of its own apps apart, and the move suggests the dual-version setup has produced enough real-world confusion to warrant public guidance.\r\n\r\nlaunched in January for $12.99 per month or $129 per year, bringing the company's pro creative apps under a single subscription. Apple said that some new features in its creative apps would be available only to subscribers going forward. Pixelmator Pro's inclusion was the first significant sign of how Apple is integrating the Pixelmator team, which it acquired in November 2024.\nTag: Apple Creator Studio\nThis article, \"Apple Publishes Document to Help Users Tell Creator Studio Apps Apart\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-      "published": "2026-05-27T10:22:53.000Z",
-      "source": "MacRumors",
-      "sourceKey": "macrumors",
-      "priority": 2,
-      "image": "https://images.macrumors.com/article-new/2026/01/Creator-Studio-Icons.jpg",
+      "title": "Salesforce Earnings Can Put AI Fears to Bed, Give Stock a Lift",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-27/salesforce-earnings-can-put-ai-fears-to-bed-give-stock-a-lift",
+      "description": "While software stocks rebound from the artificial intelligence-driven wipeout earlier this year, Salesforce Inc. hasn’t really benefited. But its earnings after the close Wednesday could pull the company’s shares out of their malaise.",
+      "published": "2026-05-27T09:24:26.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
       "relevanceScore": 7,
       "matchedKeywords": [
-        "apple",
-        "fusion"
+        "salesforce",
+        "earnings",
+        "artificial intelligence"
       ],
-      "category": "ai"
+      "category": "business",
+      "baseScore": 7
+    },
+    {
+      "title": "SK Hynix hits $1 trillion valuation as AI boom lifts South Korean chip stocks",
+      "link": "https://www.cnbc.com/2026/05/27/sk-hynix-shares-ai-chip-rally-1-trillion.html",
+      "description": "Shares of SK Hynix soared over 11% on Wednesday, pushing the South Korean memory-chip maker above the $1 trillion market capitalization mark.",
+      "published": "2026-05-27T07:21:46.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 7,
+      "matchedKeywords": [
+        "sk hynix",
+        "chip",
+        "valuation"
+      ],
+      "category": "business",
+      "baseScore": 7
     }
   ],
   "byCategory": {
-    "ai": [
+    "chips_cloud": [
       {
-        "title": "SpaceX Investor Powerlaw to Debut on Nasdaq as IPO Race Heats Up",
-        "link": "https://www.bloomberg.com/news/articles/2026-05-27/spacex-investor-powerlaw-to-debut-on-nasdaq-as-ipo-race-heats-up",
-        "description": "Powerlaw Corp., a closed-end fund that owns stakes in Elon Musk’s SpaceX and artificial intelligence firm OpenAI, is going public without raising any capital in the latest public vehicle to cater to retail investors’ clamor for exposure to the hottest private tech companies.",
-        "published": "2026-05-27T09:00:00.000Z",
+        "title": "Why Huawei’s New Chipmaking Plan Has Investors Buzzing",
+        "link": "https://www.bloomberg.com/news/articles/2026-05-27/what-to-know-about-huawei-s-new-ai-chipmaking-plan-logicfolding-tech",
+        "description": "The artificial intelligence boom has triggered an insatiable demand for computing power, with companies such as Amazon.com Inc., Meta Platforms Inc. and Microsoft Corp. pouring hundreds of billions of dollars into data centers and advanced chips developed by US semiconductor giant Nvidia Corp.",
+        "published": "2026-05-27T05:48:24.000Z",
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 20,
+        "relevanceScore": 18,
         "matchedKeywords": [
-          "openai",
-          "spacex",
-          "intel",
-          "ipo",
-          "elon musk"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "ByteDance Weighs Capex of as Much as $70 Billion in AI Push",
-        "link": "https://www.bloomberg.com/news/articles/2026-05-27/bytedance-weighs-capex-of-as-much-as-70-billion-in-ai-push",
-        "description": "ByteDance Ltd., the developer of TikTok and a leading force in artificial intelligence, is considering increasing its capital spending to more than double last year’s in a bid to lead the Chinese AI market and challenge the top US players abroad.",
-        "published": "2026-05-27T07:51:09.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 11,
-        "matchedKeywords": [
-          "intel",
-          "bytedance",
-          "tiktok",
-          "artificial intelligence",
-          "billion"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Did the Pope use AI to write about the dangers of AI?",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
-        "description": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, according to the popular AI detector Pangram.\nThe document includes known traits that appear in AI-generated writing, such as a higher use of the word \"genuinely\" - which crops up in writing by Anthropic's Claude - than previous encyclicals, Zhang says. Another person ran the text of the document section by section through Pangram, finding that 62 percent of its first cha …\nRead the full story at The Verge.",
-        "published": "2026-05-27T00:38:11.000Z",
-        "source": "The Verge",
-        "sourceKey": "theverge",
-        "priority": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2278118480.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "relevanceScore": 9,
-        "matchedKeywords": [
-          "anthropic",
-          "claude"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Memory Chip Giant CXMT Heads for China’s Biggest IPO Since 2022",
-        "link": "https://www.bloomberg.com/news/articles/2026-05-27/memory-chip-giant-cxmt-heads-for-china-s-biggest-ipo-since-2022",
-        "description": "Memory chip maker ChangXin Memory Technologies Inc. has received approval from the Shanghai Stock Exchange for an initial public offering that’s on track to be the biggest in mainland China since 2022, in a milestone for one of the key technologies of the artificial intelligence buildout.",
-        "published": "2026-05-27T09:06:09.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 9,
-        "matchedKeywords": [
-          "intel",
-          "ipo",
-          "artificial intelligence",
-          "chip"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Anthropic co-founder hallucinates ghost in the machine after hearing the Pope speak about AI",
-        "link": "https://www.theregister.com/ai-ml/2026/05/27/anthropic-co-founder-hallucinates-ghost-in-the-machine-after-hearing-the-pope-speak-about-ai/5246671",
-        "description": "The nature of AI is unnatural. It's not intelligent. It's not human",
-        "published": "2026-05-27T00:38:57.000Z",
-        "source": "The Register",
-        "sourceKey": "theregister",
-        "priority": 2,
-        "image": "https://image.theregister.com/?imageId=5246691&width=800",
-        "relevanceScore": 9,
-        "matchedKeywords": [
-          "anthropic",
-          "intel"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Salesforce Earnings Can Put AI Fears to Bed, Give Stock a Lift",
-        "link": "https://www.bloomberg.com/news/articles/2026-05-27/salesforce-earnings-can-put-ai-fears-to-bed-give-stock-a-lift",
-        "description": "While software stocks rebound from the artificial intelligence-driven wipeout earlier this year, Salesforce Inc. hasn’t really benefited. But its earnings after the close Wednesday could pull the company’s shares out of their malaise.",
-        "published": "2026-05-27T09:24:26.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 8,
-        "matchedKeywords": [
-          "intel",
-          "salesforce",
+          "huawei",
+          "microsoft",
+          "amazon",
+          "meta",
+          "nvidia",
           "artificial intelligence"
         ],
-        "category": "ai"
+        "category": "chips_cloud",
+        "baseScore": 18
+      },
+      {
+        "title": "Memory Chip Frenzy Sends SK Hynix, Micron Into $1 Trillion Club",
+        "link": "https://www.bloomberg.com/news/articles/2026-05-27/sk-hynix-joins-1-trillion-club-on-ai-memory-chip-dominance",
+        "description": "The breakneck surge in memory-chip stocks is intensifying, sending the market capitalizations of SK Hynix Inc. and Micron Technology Inc. above $1 trillion for the first time, as investors bet the AI boom will lead to a sustained revaluation of the industry.",
+        "published": "2026-05-27T00:07:10.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "sk hynix",
+          "micron",
+          "chip"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 10
       },
       {
         "title": "Taiwan chip stocks climb after Nvidia announces $150 billion spending plans",
@@ -303,38 +246,43 @@
           "chip",
           "billion"
         ],
-        "category": "ai"
+        "category": "chips_cloud",
+        "baseScore": 7
       },
       {
-        "title": "Apple Publishes Document to Help Users Tell Creator Studio Apps Apart",
-        "link": "https://www.macrumors.com/2026/05/27/apple-document-to-help-tell-studio-apps-apart/",
-        "description": "Apple yesterday published a support document to help users distinguish Apple Creator Studio versions of its professional creative apps from the standalone editions sold as one-time purchases.\r\n\r\n\r\nThe confusion stems from Apple's decision to ship two parallel variants of Final Cut Pro, Logic Pro, MainStage, Motion, Compressor, and Pixelmator Pro, with one available through the Apple Creator Studio subscription and one sold separately. Both editions share the same name and can be installed on the same Mac at the same time, leaving little to tell them apart at a glance.\r\n\r\nApple's solution is to give the Creator Studio versions of the apps redesigned icons with Liquid Glass. The new support document presents side-by-side icon comparisons for each of the six apps so users can identify which edition they are running or troubleshooting from the Dock or the Applications folder.\r\n\r\nApple does not typically publish a dedicated reference document for telling two of its own apps apart, and the move suggests the dual-version setup has produced enough real-world confusion to warrant public guidance.\r\n\r\nlaunched in January for $12.99 per month or $129 per year, bringing the company's pro creative apps under a single subscription. Apple said that some new features in its creative apps would be available only to subscribers going forward. Pixelmator Pro's inclusion was the first significant sign of how Apple is integrating the Pixelmator team, which it acquired in November 2024.\nTag: Apple Creator Studio\nThis article, \"Apple Publishes Document to Help Users Tell Creator Studio Apps Apart\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-        "published": "2026-05-27T10:22:53.000Z",
-        "source": "MacRumors",
-        "sourceKey": "macrumors",
-        "priority": 2,
-        "image": "https://images.macrumors.com/article-new/2026/01/Creator-Studio-Icons.jpg",
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "apple",
-          "fusion"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Mythos Risk Prompts India to Test for Financial Software Flaws",
-        "link": "https://www.bloomberg.com/news/articles/2026-05-27/indian-government-tech-firms-running-tests-for-mythos-threat",
-        "description": "India is undertaking tests of some of its most sensitive public-facing financial and government application software to better understand their vulnerabilities to Anthropic PBC’s next-generation Mythos AI model, according to Indian officials familiar with the matter.",
-        "published": "2026-05-27T04:08:59.000Z",
+        "title": "Taiwan Suspects Nvidia AI Chip Shipment Smuggled to China",
+        "link": "https://www.bloomberg.com/news/videos/2026-05-27/taiwan-suspects-nvidia-chip-shipment-smuggled-to-china-video",
+        "description": "Taiwan prosecutors suspect three individuals successfully smuggled at least one shipment of Nvidia AI chips to China after first exporting them to Japan, people familiar with the matter said. The trio was detained for allegedly falsifying documents related to exports of Super Micro Computer servers containing advanced Nvidia chips, which the US has barred from sale to China without a license. Bloomberg Intelligence's Matthew Bloxham breaks down the situation. (Source: Bloomberg)",
+        "published": "2026-05-27T10:22:41.000Z",
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
         "relevanceScore": 6,
         "matchedKeywords": [
-          "anthropic"
+          "nvidia",
+          "chip"
         ],
-        "category": "ai"
+        "category": "chips_cloud",
+        "baseScore": 6
+      },
+      {
+        "title": "Memory Chip Giant CXMT Heads for China’s Biggest IPO Since 2022",
+        "link": "https://www.bloomberg.com/news/articles/2026-05-27/memory-chip-giant-cxmt-heads-for-china-s-biggest-ipo-since-2022",
+        "description": "Memory chip maker ChangXin Memory Technologies Inc. has received approval from the Shanghai Stock Exchange for an initial public offering that’s on track to be the biggest in mainland China since 2022, in a milestone for one of the key technologies of the artificial intelligence buildout.",
+        "published": "2026-05-27T09:06:09.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "ipo",
+          "chip",
+          "artificial intelligence"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 6
       },
       {
         "title": "Taiwan Said to Suspect Nvidia Chips Smuggled to China Via Japan",
@@ -350,55 +298,171 @@
           "nvidia",
           "chip"
         ],
-        "category": "ai"
-      },
+        "category": "chips_cloud",
+        "baseScore": 6
+      }
+    ],
+    "business": [
       {
-        "title": "Germany, Spain Push Back on European Plan to Ban Huawei Gear",
-        "link": "https://www.bloomberg.com/news/articles/2026-05-27/germany-spain-push-back-on-europe-s-plans-to-ban-huawei-gear",
-        "description": "Germany and Spain are leading opposition to European Commission plans to ban Chinese technology suppliers from telecom networks as part of new cybersecurity rules, according to people familiar with the negotiations.",
-        "published": "2026-05-27T09:12:20.000Z",
+        "title": "SpaceX Investor Powerlaw to Debut on Nasdaq as IPO Race Heats Up",
+        "link": "https://www.bloomberg.com/news/articles/2026-05-27/spacex-investor-powerlaw-to-debut-on-nasdaq-as-ipo-race-heats-up",
+        "description": "Powerlaw Corp., a closed-end fund that owns stakes in Elon Musk’s SpaceX and artificial intelligence firm OpenAI, is going public without raising any capital in the latest public vehicle to cater to retail investors’ clamor for exposure to the hottest private tech companies.",
+        "published": "2026-05-27T09:00:00.000Z",
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 5,
+        "relevanceScore": 17,
         "matchedKeywords": [
-          "huawei"
+          "spacex",
+          "ipo",
+          "openai",
+          "elon musk",
+          "artificial intelligence"
         ],
-        "category": "ai"
+        "category": "business",
+        "baseScore": 17
       },
       {
-        "title": "AI Automation, Job Loss Fears and Where New Work Emerges",
-        "link": "https://www.bloomberg.com/news/videos/2026-05-27/ai-automation-job-loss-fears-and-where-new-work-emerges-video",
-        "description": "Concerns are growing that artificial intelligence could accelerate job losses as automation spreads across industries. This segment examines whether AI will ultimately displace workers or create new forms of employment by complementing human expertise. The discussion focuses on corporate decision‑making, productivity limits, and the challenge of ensuring new jobs are widely shared, as the U.S., China, and other economies race to adopt AI technologies. Simon Johnson, MIT Sloan Professor of Entrepreneurship and Nobel Laureate, joined Stephen on the sidelines of the UBS conference on Insight with Haslinda Amin to discuss the economic, social, and geopolitical implications of AI adoption. (Source: Bloomberg)",
-        "published": "2026-05-27T08:30:33.000Z",
+        "title": "Salesforce Earnings Can Put AI Fears to Bed, Give Stock a Lift",
+        "link": "https://www.bloomberg.com/news/articles/2026-05-27/salesforce-earnings-can-put-ai-fears-to-bed-give-stock-a-lift",
+        "description": "While software stocks rebound from the artificial intelligence-driven wipeout earlier this year, Salesforce Inc. hasn’t really benefited. But its earnings after the close Wednesday could pull the company’s shares out of their malaise.",
+        "published": "2026-05-27T09:24:26.000Z",
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 5,
+        "relevanceScore": 7,
         "matchedKeywords": [
-          "intel",
-          "artificial intelligence",
-          "automation"
+          "salesforce",
+          "earnings",
+          "artificial intelligence"
         ],
-        "category": "ai"
+        "category": "business",
+        "baseScore": 7
       },
       {
-        "title": "Singapore Hands Byju's Founder His First Ever Jail Term",
-        "link": "https://www.bloomberg.com/news/articles/2026-05-27/byju-s-founder-sentenced-to-six-months-for-contempt-of-court",
-        "description": "The fallen billionaire was sentenced to six months in jail for contempt of court.",
-        "published": "2026-05-27T02:45:35.000Z",
+        "title": "SK Hynix hits $1 trillion valuation as AI boom lifts South Korean chip stocks",
+        "link": "https://www.cnbc.com/2026/05/27/sk-hynix-shares-ai-chip-rally-1-trillion.html",
+        "description": "Shares of SK Hynix soared over 11% on Wednesday, pushing the South Korean memory-chip maker above the $1 trillion market capitalization mark.",
+        "published": "2026-05-27T07:21:46.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "sk hynix",
+          "chip",
+          "valuation"
+        ],
+        "category": "business",
+        "baseScore": 7
+      },
+      {
+        "title": "Fireworks AI in Talks for Funding at $15 Billion Valuation",
+        "link": "https://www.bloomberg.com/news/articles/2026-05-27/fireworks-ai-in-talks-for-funding-at-15-billion-valuation",
+        "description": "Fireworks AI, a startup that helps companies run artificial intelligence models, is in talks to raise a new round of funding that would value the company at $15 billion, according to people familiar with the matter.",
+        "published": "2026-05-27T00:00:38.000Z",
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 5,
+        "relevanceScore": 4,
         "matchedKeywords": [
-          "first ever",
-          "billion"
+          "valuation",
+          "billion",
+          "artificial intelligence"
         ],
-        "category": "ai"
+        "category": "business",
+        "baseScore": 4
+      },
+      {
+        "title": "Mizuho Financial Group CEO on BOJ Outlook",
+        "link": "https://www.bloomberg.com/news/videos/2026-05-27/mizuho-financial-group-ceo-on-boj-outlook-video",
+        "description": "Masahiro Kihara, President & Group CEO at Mizuho Financial Group, expects the BOJ to raise rates in June or July. He also discusses the outlook for business as the bank forecasts another year of profit growth. He speaks with Shery Ahn on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
+        "published": "2026-05-27T04:10:41.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 2,
+        "matchedKeywords": [
+          "ceo"
+        ],
+        "category": "business",
+        "baseScore": 2
+      }
+    ],
+    "ai": [
+      {
+        "title": "ByteDance Weighs Capex of as Much as $70 Billion in AI Push",
+        "link": "https://www.bloomberg.com/news/articles/2026-05-27/bytedance-weighs-capex-of-as-much-as-70-billion-in-ai-push",
+        "description": "ByteDance Ltd., the developer of TikTok and a leading force in artificial intelligence, is considering increasing its capital spending to more than double last year’s in a bid to lead the Chinese AI market and challenge the top US players abroad.",
+        "published": "2026-05-27T07:51:09.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "bytedance",
+          "billion",
+          "tiktok",
+          "artificial intelligence"
+        ],
+        "category": "ai",
+        "baseScore": 9
+      },
+      {
+        "title": "Did the Pope use AI to write about the dangers of AI?",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+        "description": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, according to the popular AI detector Pangram. The document includes known traits that appear in AI-generated writing, such as a higher use of the word \"genuinely\" - which crops up in writing by Anthropic's Claude - than previo",
+        "published": "2026-05-27T00:38:11.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2278118480.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "anthropic",
+          "claude"
+        ],
+        "category": "ai",
+        "baseScore": 9
+      },
+      {
+        "title": "Mythos Risk Prompts India to Test for Financial Software Flaws",
+        "link": "https://www.bloomberg.com/news/articles/2026-05-27/indian-government-tech-firms-running-tests-for-mythos-threat",
+        "description": "India is undertaking tests of some of its most sensitive public-facing financial and government application software to better understand their vulnerabilities to Anthropic PBC’s next-generation Mythos AI model, according to Indian officials familiar with the matter.",
+        "published": "2026-05-27T04:08:59.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "anthropic",
+          "ai model"
+        ],
+        "category": "ai",
+        "baseScore": 7
+      },
+      {
+        "title": "Anthropic co-founder hallucinates ghost in the machine after hearing the Pope speak about AI",
+        "link": "https://www.theregister.com/ai-ml/2026/05/27/anthropic-co-founder-hallucinates-ghost-in-the-machine-after-hearing-the-pope-speak-about-ai/5246671",
+        "description": "The nature of AI is unnatural. It's not intelligent. It's not human",
+        "published": "2026-05-27T00:38:57.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=5246691&width=800",
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "anthropic"
+        ],
+        "category": "ai",
+        "baseScore": 7
       },
       {
         "title": "DuckDuckGo reports a surge in installs after Google put more AI into Search",
@@ -413,7 +477,41 @@
         "matchedKeywords": [
           "google"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 4
+      },
+      {
+        "title": "Google Health Premium joins AI Pro as weekly email redesigned",
+        "link": "https://9to5google.com/2026/05/26/google-health-premium/",
+        "description": "Besides the new mobile app fully rolling out today, Google Health is joining the Google AI Pro subscription. more…",
+        "published": "2026-05-27T01:04:54.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/google-health-logo-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "ai",
+        "baseScore": 4
+      },
+      {
+        "title": "AI Automation, Job Loss Fears and Where New Work Emerges",
+        "link": "https://www.bloomberg.com/news/videos/2026-05-27/ai-automation-job-loss-fears-and-where-new-work-emerges-video",
+        "description": "Concerns are growing that artificial intelligence could accelerate job losses as automation spreads across industries. This segment examines whether AI will ultimately displace workers or create new forms of employment by complementing human expertise. The discussion focuses on corporate decision‑making, productivity limits, and the challenge of ensuring new jobs are widely shared, as the U.S., China, and other economies race to adopt AI technologies. Simon Johnson, MIT Sloan Professor of Entrep",
+        "published": "2026-05-27T08:30:33.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "automation",
+          "artificial intelligence"
+        ],
+        "category": "ai",
+        "baseScore": 3
       },
       {
         "title": "AI May Impact 120 Million Workers in Advanced Economies",
@@ -424,27 +522,12 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 2,
         "matchedKeywords": [
-          "intel",
           "artificial intelligence"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "Mizuho Financial Group CEO on BOJ Outlook",
-        "link": "https://www.bloomberg.com/news/videos/2026-05-27/mizuho-financial-group-ceo-on-boj-outlook-video",
-        "description": "Masahiro Kihara, President & Group CEO at Mizuho Financial Group, expects the BOJ to raise rates in June or July. He also discusses the outlook for business as the bank forecasts another year of profit growth.\nHe speaks with Shery Ahn on \"Bloomberg: The Asia Trade\".\n (Source: Bloomberg)",
-        "published": "2026-05-27T04:10:41.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "ceo"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 2
       },
       {
         "title": "UBS’ Khan Says AI Will Impact Jobs While Aiding Productivity",
@@ -455,45 +538,103 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 2,
         "matchedKeywords": [
-          "intel",
           "artificial intelligence"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 2
+      }
+    ],
+    "regulation": [
+      {
+        "title": "Germany, Spain Push Back on European Plan to Ban Huawei Gear",
+        "link": "https://www.bloomberg.com/news/articles/2026-05-27/germany-spain-push-back-on-europe-s-plans-to-ban-huawei-gear",
+        "description": "Germany and Spain are leading opposition to European Commission plans to ban Chinese technology suppliers from telecom networks as part of new cybersecurity rules, according to people familiar with the negotiations.",
+        "published": "2026-05-27T09:12:20.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "huawei",
+          "european commission"
+        ],
+        "category": "regulation",
+        "baseScore": 8
       },
+      {
+        "title": "Singapore Hands Byju's Founder His First Ever Jail Term",
+        "link": "https://www.bloomberg.com/news/articles/2026-05-27/byju-s-founder-sentenced-to-six-months-for-contempt-of-court",
+        "description": "The fallen billionaire was sentenced to six months in jail for contempt of court.",
+        "published": "2026-05-27T02:45:35.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "first ever"
+        ],
+        "category": "regulation",
+        "baseScore": 4
+      }
+    ],
+    "devices": [
       {
         "title": "WhatsApp will soon let iPhone users share documents with Meta AI",
         "link": "https://9to5mac.com/2026/05/26/whatsapp-will-soon-let-iphone-users-share-documents-with-meta-ai/",
-        "description": "Meta is working on a new WhatsApp feature that lets users upload documents directly to Meta AI from the in-chat attachment menu. Here are the details.\nmore…",
+        "description": "Meta is working on a new WhatsApp feature that lets users upload documents directly to Meta AI from the in-chat attachment menu. Here are the details. more…",
         "published": "2026-05-27T00:40:33.000Z",
         "source": "9to5Mac",
         "sourceKey": "9to5mac",
         "priority": 2,
         "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?quality=82&#038;strip=all&#038;w=1600",
-        "relevanceScore": 4,
+        "relevanceScore": 8,
         "matchedKeywords": [
-          "meta"
+          "meta",
+          "whatsapp"
         ],
-        "category": "ai"
+        "category": "devices",
+        "baseScore": 8
       },
       {
-        "title": "Google Health Premium joins AI Pro as weekly email redesigned ",
-        "link": "https://9to5google.com/2026/05/26/google-health-premium/",
-        "description": "Besides the new mobile app fully rolling out today, Google Health is joining the Google AI Pro subscription.\nmore…",
-        "published": "2026-05-27T01:04:54.000Z",
-        "source": "9to5Google",
-        "sourceKey": "9to5google",
+        "title": "More All-Black Apple Vision Pro Parts Surface Online",
+        "link": "https://www.macrumors.com/2026/05/27/more-all-black-apple-vision-pro-parts/",
+        "description": "Images of parts designed for an unreleased all-black Apple Vision headset have been leaked online, courtesy of X account @LusiRoy8. The image shows what appear to be power strap and audio pod parts that look identical to Apple's existing Apple Vision Pro hardware, except with a dark finish that is not commercially available. The account that shared the images claims that the parts are for a \"upcoming\" second-generation Apple Vision Pro in black. last year. The leaker of those earlier images clai",
+        "published": "2026-05-27T06:35:19.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
         "priority": 2,
-        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/google-health-logo-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "image": "https://images.macrumors.com/article-new/2026/05/black-vision-pro-parts.jpg",
         "relevanceScore": 4,
         "matchedKeywords": [
-          "google"
+          "apple"
         ],
-        "category": "ai"
+        "category": "devices",
+        "baseScore": 4
+      }
+    ],
+    "other": [
+      {
+        "title": "Apple Publishes Document to Help Users Tell Creator Studio Apps Apart",
+        "link": "https://www.macrumors.com/2026/05/27/apple-document-to-help-tell-studio-apps-apart/",
+        "description": "Apple yesterday published a support document to help users distinguish Apple Creator Studio versions of its professional creative apps from the standalone editions sold as one-time purchases. The confusion stems from Apple's decision to ship two parallel variants of Final Cut Pro, Logic Pro, MainStage, Motion, Compressor, and Pixelmator Pro, with one available through the Apple Creator Studio subscription and one sold separately. Both editions share the same name and can be installed on the same",
+        "published": "2026-05-27T10:22:53.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/01/Creator-Studio-Icons.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "other",
+        "baseScore": 4
       },
       {
-        "title": " Microsoft's GitHub bans security researcher who posted zero-day Windows exploits because company 'ruined their life'  — expert claims action is vindictive and promises further retaliation ",
+        "title": "Microsoft's GitHub bans security researcher who posted zero-day Windows exploits because company 'ruined their life' — expert claims action is vindictive and promises further retaliation",
         "link": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
         "description": "Microsoft's GitHub bans security researcher who posted zero-day Windows exploits",
         "published": "2026-05-27T10:00:00.000Z",
@@ -505,7 +646,24 @@
         "matchedKeywords": [
           "microsoft"
         ],
-        "category": "ai"
+        "category": "other",
+        "baseScore": 4
+      },
+      {
+        "title": "New electric Ferrari proves the Apple Car would have been really, really nice",
+        "link": "https://electrek.co/2026/05/26/new-electric-ferrari-proves-the-apple-car-would-have-been-really-really-nice/",
+        "description": "On today’s prancing episode of Quick Charge, the prancing horse people at Ferrari have released a world of firsts: the first-ever electric Ferrari, the brand’s first 5 passenger sedan, AND the first car designed by legendary Apple designer Jony Ive. more…",
+        "published": "2026-05-27T00:47:45.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/05/FERRARI_LUCE_HIGH_SIDE_16x9_RGB_WEB_SOCIALS_1024x768.jpg?quality=82&#038;strip=all&#038;w=1024",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "other",
+        "baseScore": 4
       },
       {
         "title": "UK spy chief: Time is running out for the West to confront threats from Russia and China",
@@ -516,101 +674,10 @@
         "sourceKey": "cnbc_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "intel"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "SK Hynix hits $1 trillion valuation as AI boom lifts South Korean chip stocks",
-        "link": "https://www.cnbc.com/2026/05/27/sk-hynix-shares-ai-chip-rally-1-trillion.html",
-        "description": "Shares of SK Hynix soared over 11% on Wednesday, pushing the South Korean memory-chip maker above the $1 trillion market capitalization mark.",
-        "published": "2026-05-27T07:21:46.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "chip",
-          "valuation"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Memory Chip Frenzy Sends SK Hynix, Micron Into $1 Trillion Club",
-        "link": "https://www.bloomberg.com/news/articles/2026-05-27/sk-hynix-joins-1-trillion-club-on-ai-memory-chip-dominance",
-        "description": "The breakneck surge in memory-chip stocks is intensifying, sending the market capitalizations of SK Hynix Inc. and Micron Technology Inc. above $1 trillion for the first time, as investors bet the AI boom will lead to a sustained revaluation of the industry.",
-        "published": "2026-05-27T00:07:10.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "chip",
-          "valuation"
-        ],
-        "category": "ai"
-      }
-    ],
-    "chips_cloud": [
-      {
-        "title": "Why Huawei’s New Chipmaking Plan Has Investors Buzzing",
-        "link": "https://www.bloomberg.com/news/articles/2026-05-27/what-to-know-about-huawei-s-new-ai-chipmaking-plan-logicfolding-tech",
-        "description": "The artificial intelligence boom has triggered an insatiable demand for computing power, with companies such as Amazon.com Inc., Meta Platforms Inc. and Microsoft Corp. pouring hundreds of billions of dollars into data centers and advanced chips developed by US semiconductor giant Nvidia Corp.",
-        "published": "2026-05-27T05:48:24.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 20,
-        "matchedKeywords": [
-          "microsoft",
-          "amazon",
-          "meta",
-          "nvidia",
-          "intel"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": "Taiwan Suspects Nvidia AI Chip Shipment Smuggled to China",
-        "link": "https://www.bloomberg.com/news/videos/2026-05-27/taiwan-suspects-nvidia-chip-shipment-smuggled-to-china-video",
-        "description": "Taiwan prosecutors suspect three individuals successfully smuggled at least one shipment of Nvidia AI chips to China after first exporting them to Japan, people familiar with the matter said. The trio was detained for allegedly falsifying documents related to exports of Super Micro Computer servers containing advanced Nvidia chips, which the US has barred from sale to China without a license. Bloomberg Intelligence's Matthew Bloxham breaks down the situation. (Source: Bloomberg)",
-        "published": "2026-05-27T10:22:41.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 8,
-        "matchedKeywords": [
-          "nvidia",
-          "intel",
-          "chip"
-        ],
-        "category": "chips_cloud"
-      }
-    ],
-    "business": [
-      {
-        "title": "Fireworks AI in Talks for Funding at $15 Billion Valuation",
-        "link": "https://www.bloomberg.com/news/articles/2026-05-27/fireworks-ai-in-talks-for-funding-at-15-billion-valuation",
-        "description": "Fireworks AI, a startup that helps companies run artificial intelligence models, is in talks to raise a new round of funding that would value the company at $15 billion, according to people familiar with the matter.",
-        "published": "2026-05-27T00:00:38.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 6,
-        "matchedKeywords": [
-          "intel",
-          "artificial intelligence",
-          "billion",
-          "valuation"
-        ],
-        "category": "business"
+        "relevanceScore": 1,
+        "matchedKeywords": [],
+        "category": "other",
+        "baseScore": 1
       }
     ],
     "crypto": [
@@ -623,45 +690,13 @@
         "sourceKey": "coindesk",
         "priority": 3,
         "image": null,
-        "relevanceScore": 6,
+        "relevanceScore": 2,
         "matchedKeywords": [
-          "meta",
-          "semiconductor",
-          "bitcoin"
+          "bitcoin",
+          "semiconductor"
         ],
-        "category": "crypto"
-      }
-    ],
-    "ev_autonomous": [
-      {
-        "title": "More All-Black Apple Vision Pro Parts Surface Online",
-        "link": "https://www.macrumors.com/2026/05/27/more-all-black-apple-vision-pro-parts/",
-        "description": "Images of parts designed for an unreleased all-black Apple Vision headset have been leaked online, courtesy of X account @LusiRoy8.\r\n\r\n\r\nThe image shows what appear to be power strap and audio pod parts that look identical to Apple's existing Apple Vision Pro hardware, except with a dark finish that is not commercially available. The account that shared the images claims that the parts are for a \"upcoming\" second-generation Apple Vision Pro in black.\r\n\r\nlast year. The leaker of those earlier images claimed that Apple has been testing a thinner and lighter mixed-reality headset referred to internally as \"Vision Air,\" featuring a Midnight-colored exterior and reduced weight achieved by switching several structural components and the battery enclosure to titanium.\r\n\r\nApple vison pro 2 upcoming black color pic.twitter.com/bCxtI7Yq5b\n— pipfix (@LusiRoy8) May 26, 2026\n\r\n\r\n\r\nBloomberg's Mark Gurman reported in October that the company had paused development of all Vision headsets to focus on accelerating work on AI-powered smart glasses.\r\n\r\nresisted reports that Apple has walked away from the headset entirely. The reporter says Apple hasn't fully abandoned the Vision Pro, but anyone hoping for a successor will be waiting at least two more years.\r\n\r\nother AI wearables such as the AirPods with cameras and a planned AI pendant.\r\n\r\nRelated Roundup: Apple Vision Pro\nBuyer's Guide: Vision Pro (Neutral)\nRelated Forum: Apple Vision Pro\nThis article, \"More All-Black Apple Vision Pro Parts Surface Online\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-        "published": "2026-05-27T06:35:19.000Z",
-        "source": "MacRumors",
-        "sourceKey": "macrumors",
-        "priority": 2,
-        "image": "https://images.macrumors.com/article-new/2026/05/black-vision-pro-parts.jpg",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "ev_autonomous"
-      },
-      {
-        "title": "New electric Ferrari proves the Apple Car would have been really, really nice",
-        "link": "https://electrek.co/2026/05/26/new-electric-ferrari-proves-the-apple-car-would-have-been-really-really-nice/",
-        "description": "On today’s prancing episode of Quick Charge, the prancing horse people at Ferrari have released a world of firsts: the first-ever electric Ferrari, the brand’s first 5 passenger sedan, AND the first car designed by legendary Apple designer Jony Ive.\nmore…",
-        "published": "2026-05-27T00:47:45.000Z",
-        "source": "Electrek",
-        "sourceKey": "electrek",
-        "priority": 2,
-        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/05/FERRARI_LUCE_HIGH_SIDE_16x9_RGB_WEB_SOCIALS_1024x768.jpg?quality=82&#038;strip=all&#038;w=1024",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "ev_autonomous"
+        "category": "crypto",
+        "baseScore": 2
       }
     ],
     "space": [
@@ -674,11 +709,10 @@
         "sourceKey": "theregister",
         "priority": 2,
         "image": "https://image.theregister.com/?imageId=5246668&width=800",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "meta"
-        ],
-        "category": "space"
+        "relevanceScore": 0,
+        "matchedKeywords": [],
+        "category": "space",
+        "baseScore": 0
       }
     ]
   },

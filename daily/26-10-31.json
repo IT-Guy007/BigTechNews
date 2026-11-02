@@ -18,11 +18,12 @@
       "relevanceScore": 20,
       "matchedKeywords": [
         "google",
-        "microsoft",
         "openai",
-        "anthropic"
+        "anthropic",
+        "microsoft"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 20
     },
     {
       "title": "OpenAI’s Altman Meets Samsung Executives as Chip Crunch Deepens",
@@ -37,10 +38,11 @@
       "matchedKeywords": [
         "openai",
         "samsung",
-        "sam altman",
-        "chip"
+        "chip",
+        "sam altman"
       ],
-      "category": "ai"
+      "category": "chips_cloud",
+      "baseScore": 16
     },
     {
       "title": "OpenAI Funding Target Cut by $10 Billion as AI Slumps, FT Says",
@@ -54,13 +56,14 @@
       "relevanceScore": 14,
       "matchedKeywords": [
         "openai",
-        "anthropic",
-        "billion"
+        "billion",
+        "anthropic"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 14
     },
     {
-      "title": " Anthropic's Claude AI blocks video game cloning and reverse-engineering  ",
+      "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
       "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
       "description": "Anthropic's Opus 5.5 model blocking attempts at videogame recreation — users also claim their non-malicious generic reverse-engineering tasks are block",
       "published": "2026-10-31T12:20:00.000Z",
@@ -73,7 +76,8 @@
         "anthropic",
         "claude"
       ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 10
     },
     {
       "title": "SoftBank-Backed OPay Halts IPO to Respond to Regulatory Inquiry",
@@ -84,12 +88,49 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 9,
+      "relevanceScore": 8,
       "matchedKeywords": [
         "softbank",
         "ipo"
       ],
-      "category": "business"
+      "category": "business",
+      "baseScore": 8
+    },
+    {
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "description": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+      "published": "2026-10-31T01:20:05.000Z",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "nvidia",
+        "data center",
+        "chip",
+        "chipmaker"
+      ],
+      "category": "chips_cloud",
+      "baseScore": 8
+    },
+    {
+      "title": "AI agent used to perform controversial brain surgery on a mouse, Anthropic Sonnet controlled motorized surgery rig",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/startup-uses-ai-agent-to-perform-controversial-brain-surgery-on-a-mouse-anthropic-sonnet-controlled-motorized-surgery-rig-ai-given-free-reign-to-treat-epilepsy-with-a-range-of-gene-therapy-vectors-after-opus-5-5-refused-to-conduct-biological-experiment",
+      "description": "The team had to use Sonnet after Opus 5.5 outright refused to run the experiment, while Opus 5 warned that it could stop working in the midst of the operation.",
+      "published": "2026-10-31T12:00:00.000Z",
+      "source": "Tom's Hardware",
+      "sourceKey": "tomshardware",
+      "priority": 2,
+      "image": "https://cdn.mos.cms.futurecdn.net/eoGRcXGHJPaiRv8XJmVA96-1920-80.png",
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "anthropic",
+        "ai agent"
+      ],
+      "category": "ai",
+      "baseScore": 8
     },
     {
       "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
@@ -103,11 +144,12 @@
       "relevanceScore": 8,
       "matchedKeywords": [
         "tesla",
+        "bitcoin",
         "spacex",
-        "billion",
-        "bitcoin"
+        "billion"
       ],
-      "category": "crypto"
+      "category": "crypto",
+      "baseScore": 8
     },
     {
       "title": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
@@ -123,39 +165,8 @@
         "openai",
         "valuation"
       ],
-      "category": "ai"
-    },
-    {
-      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-      "description": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-      "published": "2026-10-31T01:20:05.000Z",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "priority": 1,
-      "image": null,
-      "relevanceScore": 7,
-      "matchedKeywords": [
-        "nvidia",
-        "chip",
-        "data center"
-      ],
-      "category": "chips_cloud"
-    },
-    {
-      "title": " AI agent used to perform controversial brain surgery on a mouse, Anthropic Sonnet controlled motorized surgery rig ",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/startup-uses-ai-agent-to-perform-controversial-brain-surgery-on-a-mouse-anthropic-sonnet-controlled-motorized-surgery-rig-ai-given-free-reign-to-treat-epilepsy-with-a-range-of-gene-therapy-vectors-after-opus-5-5-refused-to-conduct-biological-experiment",
-      "description": "The team had to use Sonnet after Opus 5.5 outright refused to run the experiment, while Opus 5 warned that it could stop working in the midst of the operation.",
-      "published": "2026-10-31T12:00:00.000Z",
-      "source": "Tom's Hardware",
-      "sourceKey": "tomshardware",
-      "priority": 2,
-      "image": "https://cdn.mos.cms.futurecdn.net/eoGRcXGHJPaiRv8XJmVA96-1920-80.png",
-      "relevanceScore": 7,
-      "matchedKeywords": [
-        "anthropic"
-      ],
-      "category": "ai"
+      "category": "ai",
+      "baseScore": 8
     },
     {
       "title": "AI Spending Fears Hammer Big Tech Stocks",
@@ -166,13 +177,15 @@
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "relevanceScore": 6,
+      "relevanceScore": 7,
       "matchedKeywords": [
         "alphabet",
         "intel",
+        "earnings",
         "billion"
       ],
-      "category": "business"
+      "category": "business",
+      "baseScore": 7
     }
   ],
   "byCategory": {
@@ -189,29 +202,12 @@
         "relevanceScore": 20,
         "matchedKeywords": [
           "google",
-          "microsoft",
           "openai",
-          "anthropic"
+          "anthropic",
+          "microsoft"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "OpenAI’s Altman Meets Samsung Executives as Chip Crunch Deepens",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-31/openai-sam-altman-samsung-executives-memory-crunch-deepens",
-        "description": "OpenAI Chief Executive Officer Sam Altman met with Samsung Group’s top executives in South Korea on Saturday to deepen cooperation on memory chips and AI infrastructure as global shortages intensify.",
-        "published": "2026-10-31T06:40:29.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 16,
-        "matchedKeywords": [
-          "openai",
-          "samsung",
-          "sam altman",
-          "chip"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 20
       },
       {
         "title": "OpenAI Funding Target Cut by $10 Billion as AI Slumps, FT Says",
@@ -225,13 +221,14 @@
         "relevanceScore": 14,
         "matchedKeywords": [
           "openai",
-          "anthropic",
-          "billion"
+          "billion",
+          "anthropic"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 14
       },
       {
-        "title": " Anthropic's Claude AI blocks video game cloning and reverse-engineering  ",
+        "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
         "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
         "description": "Anthropic's Opus 5.5 model blocking attempts at videogame recreation — users also claim their non-malicious generic reverse-engineering tasks are block",
         "published": "2026-10-31T12:20:00.000Z",
@@ -244,7 +241,25 @@
           "anthropic",
           "claude"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 10
+      },
+      {
+        "title": "AI agent used to perform controversial brain surgery on a mouse, Anthropic Sonnet controlled motorized surgery rig",
+        "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/startup-uses-ai-agent-to-perform-controversial-brain-surgery-on-a-mouse-anthropic-sonnet-controlled-motorized-surgery-rig-ai-given-free-reign-to-treat-epilepsy-with-a-range-of-gene-therapy-vectors-after-opus-5-5-refused-to-conduct-biological-experiment",
+        "description": "The team had to use Sonnet after Opus 5.5 outright refused to run the experiment, while Opus 5 warned that it could stop working in the midst of the operation.",
+        "published": "2026-10-31T12:00:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/eoGRcXGHJPaiRv8XJmVA96-1920-80.png",
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "anthropic",
+          "ai agent"
+        ],
+        "category": "ai",
+        "baseScore": 8
       },
       {
         "title": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
@@ -260,22 +275,8 @@
           "openai",
           "valuation"
         ],
-        "category": "ai"
-      },
-      {
-        "title": " AI agent used to perform controversial brain surgery on a mouse, Anthropic Sonnet controlled motorized surgery rig ",
-        "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/startup-uses-ai-agent-to-perform-controversial-brain-surgery-on-a-mouse-anthropic-sonnet-controlled-motorized-surgery-rig-ai-given-free-reign-to-treat-epilepsy-with-a-range-of-gene-therapy-vectors-after-opus-5-5-refused-to-conduct-biological-experiment",
-        "description": "The team had to use Sonnet after Opus 5.5 outright refused to run the experiment, while Opus 5 warned that it could stop working in the midst of the operation.",
-        "published": "2026-10-31T12:00:00.000Z",
-        "source": "Tom's Hardware",
-        "sourceKey": "tomshardware",
-        "priority": 2,
-        "image": "https://cdn.mos.cms.futurecdn.net/eoGRcXGHJPaiRv8XJmVA96-1920-80.png",
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "anthropic"
-        ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 8
       },
       {
         "title": "What happens when AI starts self-replicating?",
@@ -290,7 +291,8 @@
         "matchedKeywords": [
           "anthropic"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 5
       },
       {
         "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
@@ -301,29 +303,16 @@
         "sourceKey": "wired",
         "priority": 2,
         "image": null,
-        "relevanceScore": 4,
+        "relevanceScore": 5,
         "matchedKeywords": [
-          "meta"
+          "meta",
+          "ai agent"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 5
       },
       {
-        "title": "Download all 20 Apple HomeView wallpapers in light and dark mode here",
-        "link": "https://9to5mac.com/2026/10/30/download-all-20-apple-homeview-wallpapers-in-light-and-dark-mode-here/",
-        "description": "Apple tonight rolled out the HomeView 27.2 system update, ahead of the device’s official launch on November 13. The update includes the device’s default wallpapers, each available in light and dark variations, which you can download below.\nmore…",
-        "published": "2026-10-31T01:03:35.000Z",
-        "source": "9to5Mac",
-        "sourceKey": "9to5mac",
-        "priority": 2,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview.jpg?quality=82&#038;strip=all&#038;w=1600",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": " Veteran Microsoft engineer makes his own RAM from scratch using AI  ",
+        "title": "Veteran Microsoft engineer makes his own RAM from scratch using AI",
         "link": "https://www.tomshardware.com/pc-components/ram/veteran-microsoft-engineer-makes-his-own-ram-from-scratch-using-ai-attempts-to-build-4mb-of-1970s-pdp-11-ram-from-scratch",
         "description": "Expensive memory forces former Microsoft engineer to make his own — Dave Plummer makes PDP-11 RAM from scratch",
         "published": "2026-10-31T11:40:00.000Z",
@@ -335,7 +324,8 @@
         "matchedKeywords": [
           "microsoft"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 4
       },
       {
         "title": "Amazon sends chills through its workforce with mixed message memo about AI use",
@@ -350,7 +340,97 @@
         "matchedKeywords": [
           "amazon"
         ],
-        "category": "ai"
+        "category": "ai",
+        "baseScore": 4
+      }
+    ],
+    "chips_cloud": [
+      {
+        "title": "OpenAI’s Altman Meets Samsung Executives as Chip Crunch Deepens",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-31/openai-sam-altman-samsung-executives-memory-crunch-deepens",
+        "description": "OpenAI Chief Executive Officer Sam Altman met with Samsung Group’s top executives in South Korea on Saturday to deepen cooperation on memory chips and AI infrastructure as global shortages intensify.",
+        "published": "2026-10-31T06:40:29.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 16,
+        "matchedKeywords": [
+          "openai",
+          "samsung",
+          "chip",
+          "sam altman"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 16
+      },
+      {
+        "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+        "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+        "description": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+        "published": "2026-10-31T01:20:05.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "nvidia",
+          "data center",
+          "chip",
+          "chipmaker"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 8
+      },
+      {
+        "title": "Backbone of a beast – charting Nvidia's rise to networking titan",
+        "link": "https://www.theregister.com/networks/2026/10/31/backbone-of-a-beast-charting-nvidias-rise-to-networking-titan/5306499",
+        "description": "How a $6.9B bet on Mellanox made Nvidia bigger than Cisco, and the world's most valuable company to boot",
+        "published": "2026-10-31T08:03:00.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=116063&width=800",
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "nvidia",
+          "cisco"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 6
+      },
+      {
+        "title": "Developer builds a complete Intel 486 PC emulator in a browser — 100% pure-JavaScript Retro486 includes modular tabs for screen, motherboard, storage, expansion cards, and more",
+        "link": "https://www.tomshardware.com/video-games/retro-gaming/developer-builds-a-complete-intel-486-pc-emulator-in-a-browser-100-percent-pure-javascript-retro486-includes-modular-tabs-for-screen-motherboard-storage-expansion-cards-and-more",
+        "description": "A developer has created a full Intel 486 PC system, using 100% pure-JavaScript, in a browser.",
+        "published": "2026-10-31T12:40:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/nWhHVXxy2EeJYkKiEScazN-1920-80.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "intel"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 4
+      },
+      {
+        "title": "This Microsoft 365 Family plan cloud storage change may leave you frustrated",
+        "link": "https://www.engadget.com/2301048/this-microsoft-365-family-plan-cloud-storage-change-may-leave-you-frustrated/",
+        "description": "Your Microsoft 365 Family plan will transition to a new (smaller) shared storage model when you renew it.",
+        "published": "2026-10-31T12:15:00.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/this-microsoft-365-family-plan-cloud-storage-change-may-leave-you-frustrated/l-intro-1793280260.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "microsoft"
+        ],
+        "category": "chips_cloud",
+        "baseScore": 4
       }
     ],
     "business": [
@@ -363,12 +443,13 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 9,
+        "relevanceScore": 8,
         "matchedKeywords": [
           "softbank",
           "ipo"
         ],
-        "category": "business"
+        "category": "business",
+        "baseScore": 8
       },
       {
         "title": "AI Spending Fears Hammer Big Tech Stocks",
@@ -379,13 +460,15 @@
         "sourceKey": "bloomberg_tech",
         "priority": 1,
         "image": null,
-        "relevanceScore": 6,
+        "relevanceScore": 7,
         "matchedKeywords": [
           "alphabet",
           "intel",
+          "earnings",
           "billion"
         ],
-        "category": "business"
+        "category": "business",
+        "baseScore": 7
       }
     ],
     "crypto": [
@@ -401,90 +484,12 @@
         "relevanceScore": 8,
         "matchedKeywords": [
           "tesla",
+          "bitcoin",
           "spacex",
-          "billion",
-          "bitcoin"
+          "billion"
         ],
-        "category": "crypto"
-      }
-    ],
-    "chips_cloud": [
-      {
-        "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-        "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-        "description": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-        "published": "2026-10-31T01:20:05.000Z",
-        "source": "TechCrunch",
-        "sourceKey": "techcrunch",
-        "priority": 1,
-        "image": null,
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "nvidia",
-          "chip",
-          "data center"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": "This Microsoft 365 Family plan cloud storage change may leave you frustrated",
-        "link": "https://www.engadget.com/2301048/this-microsoft-365-family-plan-cloud-storage-change-may-leave-you-frustrated/",
-        "description": "Your Microsoft 365 Family plan will transition to a new (smaller) shared storage model when you renew it.",
-        "published": "2026-10-31T12:15:00.000Z",
-        "source": "Engadget",
-        "sourceKey": "engadget",
-        "priority": 2,
-        "image": "https://www.engadget.com/img/gallery/this-microsoft-365-family-plan-cloud-storage-change-may-leave-you-frustrated/l-intro-1793280260.jpg",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "microsoft"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": "Best Sunrise Alarm Clock (2026): Hatch, Lumie",
-        "link": "https://www.wired.com/story/should-you-get-a-sunrise-alarm-clock/",
-        "description": "I’ve never been a morning person. This bedside gadget is the only thing that’s ever changed that.",
-        "published": "2026-10-31T09:01:00.000Z",
-        "source": "Wired",
-        "sourceKey": "wired",
-        "priority": 2,
-        "image": null,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "arm"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": " Developer builds a complete Intel 486 PC emulator in a browser — 100% pure-JavaScript Retro486 includes modular tabs for screen, motherboard, storage, expansion cards, and more ",
-        "link": "https://www.tomshardware.com/video-games/retro-gaming/developer-builds-a-complete-intel-486-pc-emulator-in-a-browser-100-percent-pure-javascript-retro486-includes-modular-tabs-for-screen-motherboard-storage-expansion-cards-and-more",
-        "description": "A developer has created a full Intel 486 PC system, using 100% pure-JavaScript, in a browser.",
-        "published": "2026-10-31T12:40:00.000Z",
-        "source": "Tom's Hardware",
-        "sourceKey": "tomshardware",
-        "priority": 2,
-        "image": "https://cdn.mos.cms.futurecdn.net/nWhHVXxy2EeJYkKiEScazN-1920-80.jpg",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "intel"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": "Backbone of a beast – charting Nvidia's rise to networking titan",
-        "link": "https://www.theregister.com/networks/2026/10/31/backbone-of-a-beast-charting-nvidias-rise-to-networking-titan/5306499",
-        "description": "How a $6.9B bet on Mellanox made Nvidia bigger than Cisco, and the world's most valuable company to boot",
-        "published": "2026-10-31T08:03:00.000Z",
-        "source": "The Register",
-        "sourceKey": "theregister",
-        "priority": 2,
-        "image": "https://image.theregister.com/?imageId=116063&width=800",
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "nvidia"
-        ],
-        "category": "chips_cloud"
+        "category": "crypto",
+        "baseScore": 8
       }
     ],
     "ev_autonomous": [
@@ -501,9 +506,44 @@
         "matchedKeywords": [
           "rivian"
         ],
-        "category": "ev_autonomous"
+        "category": "ev_autonomous",
+        "baseScore": 5
+      }
+    ],
+    "other": [
+      {
+        "title": "Download all 20 Apple HomeView wallpapers in light and dark mode here",
+        "link": "https://9to5mac.com/2026/10/30/download-all-20-apple-homeview-wallpapers-in-light-and-dark-mode-here/",
+        "description": "Apple tonight rolled out the HomeView 27.2 system update, ahead of the device’s official launch on November 13. The update includes the device’s default wallpapers, each available in light and dark variations, which you can download below. more…",
+        "published": "2026-10-31T01:03:35.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "other",
+        "baseScore": 4
+      },
+      {
+        "title": "Best Sunrise Alarm Clock (2026): Hatch, Lumie",
+        "link": "https://www.wired.com/story/should-you-get-a-sunrise-alarm-clock/",
+        "description": "I’ve never been a morning person. This bedside gadget is the only thing that’s ever changed that.",
+        "published": "2026-10-31T09:01:00.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 0,
+        "matchedKeywords": [
+          "excluded"
+        ],
+        "category": "other",
+        "baseScore": 0
       }
     ]
   },
-  "totalArticles": 21
+  "totalArticles": 20
 }
