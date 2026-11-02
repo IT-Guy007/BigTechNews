@@ -15,6 +15,7 @@
   --accent: #1D3FB3;
   --on-accent: #FFFFFF;
   --mark: #FCE7A0;
+  --paywall-bg: #F6E7D8; --paywall-ink: #7A3E0C;
   --heat-1: #F0F2FA; --heat-2: #D3DBF5; --heat-3: #8FA3E6; --heat-4: #1D3FB3;
   --heat-ink-4: #FFFFFF;
   --serif: 'Newsreader', Georgia, 'Times New Roman', serif;
@@ -39,6 +40,7 @@
     --accent: #8EA6FF;
     --on-accent: #141413;
     --mark: #6B5A12;
+    --paywall-bg: #3A2A1C; --paywall-ink: #F2C79B;
     --heat-1: #1F2230; --heat-2: #27325A; --heat-3: #3B54A8; --heat-4: #8EA6FF;
     --heat-ink-4: #141413;
   }
@@ -235,6 +237,17 @@ a.heat-4:hover { color: var(--heat-ink-4); }
 .result-body { display: flex; flex-direction: column; gap: 6px; min-width: 0; }
 .result-title { font-family: var(--serif); font-weight: 500; font-size: clamp(19px, 1.9vw, 22px); line-height: 1.3; text-wrap: pretty; }
 .result-desc { font-size: 15px; color: var(--ink-2); }
+
+/* ---------- badges & new-since-last-visit ---------- */
+.badges { display: inline-flex; flex-wrap: wrap; align-items: center; gap: 6px; margin-left: 4px; vertical-align: 1px; }
+.badge { display: inline-flex; align-items: center; height: 18px; padding: 0 6px; font-size: 11px; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; line-height: 1; color: var(--ink-2); background: var(--seg); border-radius: 4px; }
+.badge-paywall { color: var(--paywall-ink); background: var(--paywall-bg); }
+.badge-new { color: var(--on-accent); background: var(--accent); margin-right: 2px; }
+.free-alt { font-size: 12px; font-weight: 500; color: var(--accent); text-decoration: underline; text-underline-offset: 2px; }
+.outlets { font-size: 12px; color: var(--muted); }
+.kicker .badges, .meta .badges { text-transform: none; letter-spacing: 0; }
+.new-banner { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px 16px; padding: 10px 10px 10px 16px; font-size: 14px; color: var(--ink); background: var(--surface); border: 1px solid var(--rule); border-radius: 10px; }
+.new-banner[hidden] { display: none; }
 
 /* ---------- footer ---------- */
 .site-footer { border-top: 1px solid var(--rule); background: var(--surface); }

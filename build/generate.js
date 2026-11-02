@@ -11,7 +11,8 @@
 
 const fs = require('fs').promises;
 const path = require('path');
-const { CATEGORIES } = require('../scraper/sources');
+const { CATEGORIES, SOURCES } = require('../scraper/sources');
+const { clusterArticles } = require('../scraper/index.js');
 
 const DATA_DIR = path.join(__dirname, '..', 'data');
 const PUBLIC_DIR = path.join(__dirname, '..', 'public');
@@ -115,7 +116,7 @@ function headerHTML({ root, active = '', placeholder = 'Search by company, topic
   const metaStrip = meta ? `
     <div class="header-meta">
       <span>${meta}</span>
-      <span>New digest daily at 7:30 CET</span>
+      <span>Updated every 2 hours</span>
     </div>` : '';
 
   const cats = showCategories ? `
@@ -165,9 +166,45 @@ async function page({ root, title, description, header, content, scripts = '', b
 
 // ---------- article fragments ----------
 
+// Source flags (paywall / language) by feed key and by display name; a name counts as
+// paywalled when any feed with that name is (e.g. both Bloomberg feeds)
+const SOURCE_BY_NAME = new Map();
+for (const src of Object.values(SOURCES)) {
+  const prev = SOURCE_BY_NAME.get(src.name) || {};
+  SOURCE_BY_NAME.set(src.name, { paywall: prev.paywall || !!src.paywall, lang: prev.lang || src.lang || '' });
+}
+const LANG_NAMES = { de: 'German', nl: 'Dutch', fr: 'French', es: 'Spanish', ja: 'Japanese', zh: 'Chinese' };
+
+function sourceFlags(a) {
+  const byKey = SOURCES[a.sourceKey];
+  if (byKey) return { paywall: !!byKey.paywall, lang: byKey.lang || '' };
+  return SOURCE_BY_NAME.get(a.source) || { paywall: false, lang: '' };
+}
+
+/** A free outlet covering the same story, when the lead article is paywalled */
+function freeAlternative(a) {
+  if (!sourceFlags(a).paywall) return null;
+  return (a.alsoIn || []).find(x => !(SOURCE_BY_NAME.get(x.source) || {}).paywall && /^https?:\/\//.test(x.link || '')) || null;
+}
+
+/** Badges shown after an article's meta line */
+function badges(a) {
+  const f = sourceFlags(a);
+  const out = [];
+  if (f.paywall) out.push('<span class="badge badge-paywall" title="Subscription required">Paywall</span>');
+  if (f.lang) out.push(`<span class="badge" title="In ${esc(LANG_NAMES[f.lang] || f.lang)}">${esc(f.lang.toUpperCase())}</span>`);
+  const free = freeAlternative(a);
+  if (free) out.push(`<a class="free-alt" href="${esc(free.link)}" target="_blank" rel="noopener">Free at ${esc(free.source)}</a>`);
+  const outlets = new Set((a.alsoIn || []).map(x => x.source).filter(s => s !== a.source)).size;
+  if (outlets) out.push(`<span class="outlets">+${outlets} outlet${outlets > 1 ? 's' : ''}</span>`);
+  return out.length ? ` <span class="badges">${out.join('')}</span>` : '';
+}
+
+const pubAttr = (a) => a.published ? ` data-published="${esc(a.published)}"` : '';
+
 function kicker(article, extra = []) {
   const parts = [`<span class="kicker-cat">${esc(catLabel(catKey(article)))}</span>`, esc(article.source), ...extra.filter(Boolean).map(esc)];
-  return `<div class="kicker">${parts.join(' · ')}</div>`;
+  return `<div class="kicker">${parts.join(' · ')}${badges(article)}</div>`;
 }
 
 function storyLink(article, cls = 'hl') {
@@ -176,13 +213,13 @@ function storyLink(article, cls = 'hl') {
 
 function rankedList(articles, { start = 1, withDesc = false, dayLabel = false } = {}) {
   return `<ol class="ranked">${articles.map((a, i) => `
-    <li class="ranked-item">
+    <li class="ranked-item"${pubAttr(a)}>
       <span class="ranked-num">${start + i}</span>
       <div class="ranked-body">
         ${withDesc ? kicker(a, [dayLabel ? shortDay(a.published) : time(a.published)]) : ''}
         <h3 class="ranked-title">${storyLink(a)}</h3>
         ${withDesc && a.description ? `<p class="ranked-desc">${esc(truncate(a.description, 220))}</p>` : ''}
-        ${withDesc ? '' : `<div class="meta">${esc(catLabel(catKey(a)))} · ${esc(a.source)} · ${dayLabel ? shortDay(a.published) : time(a.published)}</div>`}
+        ${withDesc ? '' : `<div class="meta">${esc(catLabel(catKey(a)))} · ${esc(a.source)} · ${dayLabel ? shortDay(a.published) : time(a.published)}${badges(a)}</div>`}
       </div>
     </li>`).join('')}</ol>`;
 }
@@ -240,8 +277,8 @@ async function generateIndexPage(index, latestDaily, weekArticles, weekRange) {
     const tags = articleKeywords(lead).slice(0, 3)
       .map(k => `<a class="tag" href="search.html?q=${encodeURIComponent(k)}">${esc(k)}</a>`).join('');
     leadHTML = `
-      <article class="lead">
-        <div class="kicker"><span class="kicker-cat">Top story · ${esc(catLabel(catKey(lead)))}</span> · ${esc(lead.source)} · ${time(lead.published)}</div>
+      <article class="lead"${pubAttr(lead)}>
+        <div class="kicker"><span class="kicker-cat">Top story · ${esc(catLabel(catKey(lead)))}</span> · ${esc(lead.source)} · ${time(lead.published)}${badges(lead)}</div>
         <h1 class="lead-title">${storyLink(lead)}</h1>
         ${lead.description ? `<p class="lead-desc">${esc(truncate(lead.description, 260))}</p>` : ''}
         ${tags ? `<div class="tags">${tags}</div>` : ''}
@@ -250,7 +287,7 @@ async function generateIndexPage(index, latestDaily, weekArticles, weekRange) {
 
   const secondHTML = second.length ? `
       <div class="second-grid">${second.map(a => `
-        <article class="second">
+        <article class="second"${pubAttr(a)}>
           ${kicker(a, [time(a.published)])}
           <h2 class="second-title">${storyLink(a)}</h2>
           ${a.description ? `<p class="second-desc">${esc(truncate(a.description, 180))}</p>` : ''}
@@ -267,8 +304,8 @@ async function generateIndexPage(index, latestDaily, weekArticles, weekRange) {
       <section aria-labelledby="this-week">
         ${sectionHead('This week', `<span class="section-aside">${esc(weekRange)}</span>`, 'this-week')}
         <ol class="rail-list">${weekArticles.slice(0, 5).map(a => `
-          <li class="rail-item">
-            <span class="meta">${esc(shortDay(a.published))} · ${esc(a.source)}</span>
+          <li class="rail-item"${pubAttr(a)}>
+            <span class="meta">${esc(shortDay(a.published))} · ${esc(a.source)}${badges(a)}</span>
             ${storyLink(a, 'hl rail-title')}
           </li>`).join('')}
         </ol>
@@ -305,6 +342,10 @@ async function generateIndexPage(index, latestDaily, weekArticles, weekRange) {
   const content = `
   <main id="main" class="container layout-split">
     <div class="col-main">
+      <div class="new-banner" id="new-banner" hidden>
+        <span id="new-banner-text"></span>
+        <button type="button" class="link-btn" id="mark-read">Mark all as read</button>
+      </div>
       ${leadHTML}
       ${secondHTML}
       ${moreHTML}
@@ -395,9 +436,9 @@ async function generateDigestPage(digest, type, index) {
       <section id="cat-${k}" class="cat-section">
         ${sectionHead(`${esc(catLabel(k))} <span class="count">${arts.length}</span>`, `<a class="more-link" href="${root}search.html?cat=${k}${rangeQS}">All ${arts.length} in search →</a>`)}
         <ul class="cat-grid">${shown.map(a => `
-          <li class="cat-item">
+          <li class="cat-item"${pubAttr(a)}>
             ${storyLink(a, 'hl cat-title')}
-            <span class="meta">${esc(a.source)}${type !== 'daily' ? ` · ${esc(shortDay(a.published))}` : ''}</span>
+            <span class="meta">${esc(a.source)}${type !== 'daily' ? ` · ${esc(shortDay(a.published))}` : ''}${badges(a)}</span>
           </li>`).join('')}
         </ul>
       </section>`;
@@ -561,6 +602,12 @@ async function buildSearchIndex(index) {
         d: digest.date,
         r: a.relevanceScore || 0
       });
+      const item = items[items.length - 1];
+      const f = sourceFlags(a);
+      if (f.paywall) item.w = 1;
+      if (f.lang) item.l = f.lang;
+      const free = freeAlternative(a);
+      if (free) item.f = { s: free.source, u: free.link };
     }
   }
   return items;
@@ -664,6 +711,8 @@ async function build() {
         }
       } catch {}
     }
+    // the same story often lands on two different days; merge across the week
+    weekArticles = clusterArticles(weekArticles);
     weekArticles.sort((a, b) => (b.relevanceScore || 0) - (a.relevanceScore || 0) || String(b.published).localeCompare(String(a.published)));
     const short = new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric', timeZone: 'UTC' });
     weekRange = `${short.format(dayDate(from))} – ${short.format(dayDate(latestDaily.date))}`;
@@ -696,4 +745,8 @@ async function build() {
   process.exit(0);
 }
 
-build().catch(e => { console.error(e); process.exit(1); });
+if (require.main === module) {
+  build().catch(e => { console.error(e); process.exit(1); });
+}
+
+module.exports = { sourceFlags, freeAlternative, badges, computeTrending, keywordInTitle, catKey };

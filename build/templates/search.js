@@ -271,10 +271,19 @@
 
     els.list.replaceChildren(...results.slice(0, state.limit).map(({ a }) => {
       const dayStr = fmtDay.format(a._date) + (fmtYear.format(a._date) !== thisYear ? `, ${fmtYear.format(a._date)}` : '');
-      return el('li', { class: 'result' }, [
+      const isNew = window.BTN && a.p && window.BTN.isNew(a._date);
+      const badges = [];
+      if (a.w) badges.push(el('span', { class: 'badge badge-paywall', title: 'Subscription required', text: 'Paywall' }));
+      if (a.l) badges.push(el('span', { class: 'badge', title: `Not in English (${a.l})`, text: a.l.toUpperCase() }));
+      if (a.f) badges.push(el('a', { class: 'free-alt', href: a.f.u, target: '_blank', rel: 'noopener', text: `Free at ${a.f.s}` }));
+      return el('li', { class: isNew ? 'result is-new' : 'result' }, [
         el('div', { class: 'result-date' }, [el('strong', { text: dayStr }), el('span', { text: a.p ? fmtTime.format(a._date) : '' })]),
         el('div', { class: 'result-body' }, [
-          el('div', { class: 'kicker' }, [el('span', { class: 'kicker-cat', text: LABELS[a.c] || a.c }), ` · ${a.s}`]),
+          el('div', { class: 'kicker' }, [
+            isNew ? window.BTN.badge() : null, isNew ? ' ' : null,
+            el('span', { class: 'kicker-cat', text: LABELS[a.c] || a.c }), ` · ${a.s}`,
+            badges.length ? el('span', { class: 'badges' }, [' ', ...badges]) : null
+          ]),
           el('h2', { class: 'result-title' }, [el('a', { class: 'hl', href: a.u, target: '_blank', rel: 'noopener' }, [highlighted(a.t, toks)])]),
           a.x ? el('p', { class: 'result-desc' }, [highlighted(a.x, toks)]) : null
         ])

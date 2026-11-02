@@ -19,4 +19,7 @@ npm-debug.log*
 
 # Build outputs (generated on deploy)
 public/
-# Note: We DO commit public/ and data/ for GitHub Pages
+
+# Scraped data lives on the `data` branch (checked out here as a worktree):
+#   git fetch origin data:data && git worktree add data data
+data/

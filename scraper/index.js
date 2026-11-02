@@ -145,7 +145,8 @@ function categorizeArticle(article) {
 }
 
 function enrich(raw) {
-  const article = { ...raw, title: stripHtml(raw.title), description: stripHtml(raw.description).slice(0, MAX_DESCRIPTION) };
+  let article = { ...raw, title: stripHtml(raw.title), description: stripHtml(raw.description).slice(0, MAX_DESCRIPTION) };
+  if (SOURCES[article.sourceKey]?.group === 'aggregator') article = cleanAttribution(article);
   const { score, reasons } = calculateRelevance(article);
   return { ...article, baseScore: score, relevanceScore: score, matchedKeywords: reasons, category: categorizeArticle(article) };
 }
@@ -304,6 +305,21 @@ async function fetchText(url) {
   throw lastError;
 }
 
+/**
+ * Aggregators append the original byline: Techmeme titles end in "(Author/Outlet)"
+ * and descriptions start with "Author / Outlet: ". Strip both.
+ */
+function cleanAttribution(article) {
+  const m = / \(([^()]{2,80})\/([^()]{2,60})\)$/.exec(article.title);
+  if (!m) return article;
+  return {
+    ...article,
+    title: article.title.slice(0, m.index),
+    description: article.description.replace(/^[^:]{2,120}\s\/\s[^:]{2,60}:\s*/, ''),
+    via: m[2].trim()
+  };
+}
+
 async function fetchFeed(sourceKey, source) {
   const started = Date.now();
   const fetchedAt = new Date().toISOString();
@@ -412,8 +428,29 @@ function dailyDigest(ymd, articles) {
   };
 }
 
+/**
+ * Links already stored in the last `days` daily files, mapped to their day.
+ * Feeds without publish dates (e.g. Nikkei Asia) get the fetch time as date, so
+ * without this an item could be re-added on every new day it stays in the feed.
+ */
+async function recentLinks(now, days = 8) {
+  const map = new Map();
+  for (let i = 0; i < days; i++) {
+    const ymd = dayKey(subDays(now, i));
+    const d = await readDaily(ymd);
+    if (!d) continue;
+    for (const a of articlesOf(d)) {
+      for (const x of [a, ...(a.alsoIn || [])]) {
+        const key = normalizeLink(x.link);
+        if (!map.has(key)) map.set(key, ymd);
+      }
+    }
+  }
+  return map;
+}
+
 /** Merge freshly fetched articles into the stored file for one day */
-async function mergeDay(ymd, fetched) {
+async function mergeDay(ymd, fetched, recent = new Map()) {
   const existing = await readDaily(ymd);
   const stored = existing ? articlesOf(existing) : [];
   // Flatten stored stories back to their member articles so clustering can re-run cleanly
@@ -430,6 +467,7 @@ async function mergeDay(ymd, fetched) {
     if (dayKey(new Date(a.published)) !== ymd) continue;
     const key = normalizeLink(a.link);
     if (known.has(key)) continue;
+    if (recent.has(key) && recent.get(key) !== ymd) continue;
     const e = enrich(a);
     if (e.relevanceScore < MIN_RELEVANCE_SCORE) continue;
     known.add(key);
@@ -592,7 +630,8 @@ async function runDaily(now) {
     process.exit(1);
   }
   console.log('\n━━━ Daily (today + yesterday, merged) ━━━');
-  for (const ymd of [dayKey(subDays(now, 1)), dayKey(now)]) await mergeDay(ymd, articles);
+  const recent = await recentLinks(now);
+  for (const ymd of [dayKey(subDays(now, 1)), dayKey(now)]) await mergeDay(ymd, articles, recent);
   console.log('\n━━━ Last week & last month (from daily files) ━━━');
   await buildLastWeek(now);
   await buildLastMonth(now);
@@ -622,4 +661,4 @@ if (require.main === module) {
   main().catch(error => { console.error('Fatal error:', error); process.exit(1); });
 }
 
-module.exports = { calculateRelevance, categorizeArticle, clusterArticles, normalizeLink, wordRegex, isExcluded };
+module.exports = { cleanAttribution, calculateRelevance, categorizeArticle, clusterArticles, normalizeLink, wordRegex, isExcluded, enrich, sanitizeXml, stripHtml, buildDigestBody };

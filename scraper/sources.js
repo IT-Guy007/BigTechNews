@@ -14,6 +14,8 @@
  *             tracked company or a high-impact keyword
  *   company   (official newsrooms) company keyword credited to every item, since
  *             a company rarely names itself in its own post titles
+ *   paywall   true when most articles need a subscription (shown as a badge)
+ *   lang      ISO code when the feed is not in English (shown as a badge)
  */
 
 const SOURCES = {
@@ -30,10 +32,10 @@ const SOURCES = {
   // ---------- Business & finance ----------
   cnbc_tech:    { name: 'CNBC',         rss: 'https://www.cnbc.com/id/19854910/device/rss/rss.html', priority: 1, group: 'business' },
   cnbc_top:     { name: 'CNBC',         rss: 'https://www.cnbc.com/id/100003114/device/rss/rss.html', priority: 1, group: 'business', general: true },
-  bloomberg_tech:    { name: 'Bloomberg', rss: 'https://feeds.bloomberg.com/technology/news.rss', priority: 1, group: 'business' },
-  bloomberg_markets: { name: 'Bloomberg', rss: 'https://feeds.bloomberg.com/markets/news.rss', priority: 1, group: 'business', general: true },
-  wsj_tech:     { name: 'WSJ',          rss: 'https://feeds.content.dowjones.io/public/rss/RSSWSJD', priority: 1, group: 'business' },
-  theinformation: { name: 'The Information', rss: 'https://www.theinformation.com/feed', priority: 1, group: 'business' },
+  bloomberg_tech:    { name: 'Bloomberg', rss: 'https://feeds.bloomberg.com/technology/news.rss', priority: 1, group: 'business', paywall: true },
+  bloomberg_markets: { name: 'Bloomberg', rss: 'https://feeds.bloomberg.com/markets/news.rss', priority: 1, group: 'business', general: true, paywall: true },
+  wsj_tech:     { name: 'WSJ',          rss: 'https://feeds.content.dowjones.io/public/rss/RSSWSJD', priority: 1, group: 'business', paywall: true },
+  theinformation: { name: 'The Information', rss: 'https://www.theinformation.com/feed', priority: 1, group: 'business', paywall: true },
   siliconangle: { name: 'SiliconANGLE', rss: 'https://siliconangle.com/feed/', priority: 2, group: 'business' },
 
   // ---------- Aggregators ----------
@@ -67,6 +69,14 @@ const SOURCES = {
   // ---------- Space ----------
   spacenews:    { name: 'SpaceNews',    rss: 'https://spacenews.com/feed/', priority: 2, group: 'space' },
   spacecom:     { name: 'Space.com',    rss: 'https://www.space.com/feeds/all', priority: 2, group: 'space' },
+
+  // ---------- Asia & Europe ----------
+  nikkei_asia:  { name: 'Nikkei Asia',  rss: 'https://asia.nikkei.com/rss/feed/nar', priority: 1, group: 'asia', paywall: true },
+  scmp_tech:    { name: 'SCMP',         rss: 'https://www.scmp.com/rss/36/feed', priority: 2, group: 'asia' },
+  trendforce:   { name: 'TrendForce',   rss: 'https://www.trendforce.com/news/feed/', priority: 2, group: 'asia' },
+  heise:        { name: 'heise online', rss: 'https://www.heise.de/rss/heise-atom.xml', priority: 2, group: 'europe', lang: 'de' },
+  tweakers:     { name: 'Tweakers',     rss: 'https://tweakers.net/feeds/mixed.xml', priority: 2, group: 'europe', lang: 'nl' },
+  // Not added: DigiTimes (blocks automated requests with HTTP 403/406)
 
   // ---------- Crypto (only major news passes the score threshold) ----------
   coindesk:     { name: 'CoinDesk',     rss: 'https://www.coindesk.com/arc/outboundfeeds/rss/', priority: 3, group: 'crypto' },
@@ -167,12 +177,20 @@ const PENALIZED_PATTERNS = [
   /\bgets a new\b/i, /\badds support\b/i, /\bpre-?orders?\b/i,
   /\byou need to\b/i, /\byou should\b/i, /\bwhy you\b/i, /\bdon'?t miss\b/i, /\bmust[- ]have\b/i,
   /\bwon'?t believe\b/i, /\bthis is why\b/i, /\bthings you\b/i, /\bways to\b/i, /\beverything you need\b/i,
-  /\bpodcast\b/i, /\bnewsletter\b/i, /\bweekly roundup\b/i, /\bvs\.?\s/i
+  /\bpodcast\b/i, /\bnewsletter\b/i, /\bweekly roundup\b/i,
+  // product comparisons ("Ceramic vs Titanium Apple Watch: which is better?"), not court cases ("Apple vs. Epic")
+  /\bvs\.?\s.*(?:\bwhich\b|\?)/i
 ];
 
 // Categories. Title matches count double; the highest total wins (ties go to the
 // first category in this list, so the specific ones come before the broad AI bucket).
 const CATEGORIES = {
+  robotics: {
+    name: 'Robotics',
+    icon: '🦾',
+    keywords: ['robot', 'robotics', 'optimus', 'humanoid', 'boston dynamics', 'figure ai',
+               'agility robotics', 'unitree', 'warehouse robot']
+  },
   ev_autonomous: {
     name: 'EVs & Autonomy',
     icon: '🚗',
@@ -185,12 +203,6 @@ const CATEGORIES = {
     icon: '🚀',
     keywords: ['spacex', 'starlink', 'starship', 'nasa', 'rocket', 'satellite', 'orbit', 'orbital',
                'blue origin', 'kuiper', 'rocket lab', 'launch vehicle', 'falcon 9', 'moon', 'mars']
-  },
-  robotics: {
-    name: 'Robotics',
-    icon: '🦾',
-    keywords: ['robot', 'robotics', 'optimus', 'humanoid', 'boston dynamics', 'figure ai',
-               'agility robotics', 'unitree', 'warehouse robot']
   },
   crypto: {
     name: 'Crypto',

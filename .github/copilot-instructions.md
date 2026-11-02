@@ -8,7 +8,12 @@ A curated big tech news aggregator that scrapes RSS feeds, scores articles by re
 scraper/           → RSS fetching, relevance scoring, digest generation
   ├── index.js     → Main scraper CLI (--daily, --weekly, --monthly, --backfill)
   └── sources.js   → RSS feeds config, keywords, and category definitions
-data/              → JSON digests (daily/, weekly/, monthly/, index.json)
+data/              → JSON digests — a git worktree of the `data` branch, NOT part of main
+                     (daily/, weekly/, monthly/, index.json, feed-health.json)
+scripts/
+  ├── feed-issues.js         → opens/closes GitHub issues for failing feeds
+  └── migrate-data-branch.sh → one-time move of data/ from main to the data branch
+tests/             → node:test regression tests (npm test)
 build/
   ├── generate.js  → Static site generator using custom {{template}} system
   └── templates/   → layout.html (shared page shell), styles.css, site.js, search.js
@@ -35,7 +40,11 @@ CI scrapes every 2 hours via [.github/workflows/daily-digest.yml](.github/workfl
 | Rebuild all weekly/monthly from daily files | `npm run scrape:rebuild` |
 | Re-score + re-categorize all stored daily files (then rebuild) | `npm run scrape:rescore` |
 
-Feed status (items, errors, last success, consecutive failures) is written to `data/feed-health.json` on every run.
+Feed status (items, errors, last success, consecutive failures) is written to `data/feed-health.json` on every run; `scripts/feed-issues.js` opens an issue labelled `feed-health` after 12 consecutive failures and closes it on recovery.
+
+Data lives on the `data` branch. CI checks it out into `./data` and pushes there; locally run `npm run data:checkout` once. Never commit data to main.
+
+**Tests:** `npm test` runs `tests/*.test.js` (also in CI on every push/PR). When you change keywords, patterns or categories in `sources.js`, add the headline that motivated the change as a test case.
 
 ## Relevance Scoring System
 
@@ -66,6 +75,8 @@ SOURCES.newsourcename = {
   group: 'tech',    // for docs / feed health
   // general: true,  // broad feed: require a tracked company
   // company: 'acme' // official newsroom: credit this company
+  // paywall: true,  // show a Paywall badge (and a free alternative when one exists)
+  // lang: 'nl',     // non-English feed: show a language badge
 };
 ```
 
@@ -95,4 +106,5 @@ Digest JSON structure (see [data/daily/](../data/daily/) for examples):
 - **Date IDs**: `YY-MM-DD` for daily, `YY-W` for weekly, `YY-MM` for monthly
 - **All HTML is escaped** via `esc()` helper—always use it for user content
 - **Images extracted** from RSS enclosures, media:content, or parsed from HTML content
-- **Categories** defined in `CATEGORIES` object with icons (🤖, 💾, etc.)
+- **Categories** defined in `CATEGORIES`; site labels in `CATEGORY_LABELS` (build/generate.js) — keep them in sync (a test checks this)
+- **New since last visit**: elements with `data-published` get a "New" badge from `templates/site.js` (localStorage, 30-minute visit window)

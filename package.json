@@ -12,7 +12,10 @@
     "build": "node build/generate.js",
     "dev": "npx serve public -p 3000",
     "scrape:rebuild": "node scraper/index.js --rebuild",
-    "scrape:rescore": "node scraper/index.js --rescore"
+    "scrape:rescore": "node scraper/index.js --rescore",
+    "test": "node --test tests/*.test.js",
+    "data:checkout": "git fetch origin data:data && git worktree add data data",
+    "data:pull": "git -C data pull --ff-only origin data"
   },
   "dependencies": {
     "axios": "^1.6.7",
