@@ -1,0 +1,525 @@
+{
+  "type": "daily",
+  "id": "26-04-01",
+  "title": "Wednesday, Apr 1",
+  "dateRange": "April 1, 2026",
+  "date": "2026-04-01",
+  "generatedAt": "2026-04-01T07:59:46.537Z",
+  "highlights": [
+    {
+      "title": "Perplexity AI Machine Accused of Sharing Data With Meta, Google",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-01/perplexity-ai-machine-accused-of-sharing-data-with-meta-google",
+      "description": "Perplexity AI Inc. was accused in a lawsuit of surreptitiously sharing the personal information of its users with Meta Platforms Inc. and Alphabet Inc.’s Google in violation of California privacy laws.",
+      "published": "2026-04-01T02:10:34.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 16,
+      "matchedKeywords": [
+        "google",
+        "alphabet",
+        "meta",
+        "perplexity",
+        "lawsuit"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Anthropic Accidentally Releases Source Code for Claude AI Agent",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-01/anthropic-accidentally-releases-source-code-for-claude-ai-agent",
+      "description": "Anthropic PBC inadvertently released source code for its popular Claude AI agent, raising questions about its operational security and sending developers on a search for clues about the startup’s plans.",
+      "published": "2026-04-01T02:28:31.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 11,
+      "matchedKeywords": [
+        "anthropic",
+        "claude"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Claude Code source leak reveals how much info Anthropic can hoover up about you and your system",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/01/claude_code_source_leak_privacy_nightmare/",
+      "description": "",
+      "published": "2026-04-01T07:00:12.000Z",
+      "source": "The Register",
+      "sourceKey": "theregister",
+      "priority": 2,
+      "image": null,
+      "relevanceScore": 10,
+      "matchedKeywords": [
+        "anthropic",
+        "claude"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Baidu Robotaxis Freeze in Wuhan, Sparking Flurry of Police Calls",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-01/baidu-robotaxis-freeze-in-wuhan-sparking-flurry-of-police-calls",
+      "description": "A number of Baidu Inc.’s Apollo Go robotaxis suddenly stopped on the streets of China’s Wuhan city on Tuesday, leaving passengers stranded and raising concerns about the safety and reliability of autonomous driving technology.",
+      "published": "2026-04-01T03:52:45.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "baidu",
+        "robotaxi"
+      ],
+      "category": "ev_autonomous"
+    },
+    {
+      "title": "Apple celebrates its 50th anniversary with special animated homepage",
+      "link": "https://9to5mac.com/2026/04/01/apple-50-birthday-homepage-celebration/",
+      "description": "As part of its 50th anniversary celebrations, Apple has updated its website homepage today with a special animation video that features some of the company’s most iconic creations.\nThe sketch art animation depicts the original Mac, the iMac, the iPod, the App Store, the Watch, iPhone 17 Pro, Vision Pro and more in a sketch art illustrative style. \nmore…",
+      "published": "2026-04-01T07:35:42.000Z",
+      "source": "9to5Mac",
+      "sourceKey": "9to5mac",
+      "priority": 2,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-homepage.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "apple",
+        "ipo"
+      ],
+      "category": "business"
+    },
+    {
+      "title": "Some quantum-resistant tokens jump 50% as Google flags risks to Bitcoin security",
+      "link": "https://www.coindesk.com/markets/2026/04/01/the-first-winners-of-the-quantum-crypto-debate-are-already-clear-and-some-of-them-are-up-50",
+      "description": "The so-called quantum-resistant coins rally as traders switch to potential long-term security.",
+      "published": "2026-04-01T05:59:35.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "priority": 3,
+      "image": null,
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "google",
+        "quantum",
+        "bitcoin"
+      ],
+      "category": "crypto"
+    },
+    {
+      "title": "Google Readies Screenless Fitbit Band to Rival Growing Whoop Craze",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-01/google-readies-revamped-screenless-fitbit-to-rival-growing-whoop-craze",
+      "description": "Alphabet Inc.’s Google is developing its own fitness band, aiming to compete with screenless wearable devices from upstarts like Whoop Inc. and Oura Health Oy.",
+      "published": "2026-04-01T00:02:05.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 7,
+      "matchedKeywords": [
+        "google",
+        "alphabet"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Meta's new structured prompting technique makes LLMs significantly better at code review — boosting accuracy to 93% in some cases",
+      "link": "https://venturebeat.com/orchestration/metas-new-structured-prompting-technique-makes-llms-significantly-better-at",
+      "description": "Deploying AI agents for repository-scale tasks like bug detection, patch verification, and code review requires overcoming significant technical hurdles. One major bottleneck: the need to set up dynamic execution sandboxes for every repository, which are expensive and computationally heavy. \nUsing large language model (LLM) reasoning instead of executing the code is rising in popularity to bypass this overhead, yet it frequently leads to unsupported guesses and hallucinations. \nTo improve execution-free reasoning, researchers at Meta introduce \"semi-formal reasoning,\" a structured prompting technique. This method requires the AI agent to fill out a logical certificate by explicitly stating premises, tracing concrete execution paths, and deriving formal conclusions before providing an answer. \nThe structured format forces the agent to systematically gather evidence and follow function calls before drawing conclusions. This increases the accuracy of LLMs in coding tasks and significantly reduces errors in fault localization and codebase question-answering. \nFor developers using LLMs in code review tasks, semi-formal reasoning enables highly reliable, execution-free semantic code analysis while drastically reducing the infrastructure costs of AI coding systems.\nAgentic code reasoning\nAgentic code reasoning is an AI agent's ability to navigate files, trace dependencies, and iteratively gather context to perform deep semantic analysis on a codebase without running the code. In enterprise AI applications, this capability is essential for scaling automated bug detection, comprehensive code reviews, and patch verification across complex repositories where relevant context spans multiple files.\nThe industry currently tackles execution-free code verification through two primary approaches. The first involves unstructured LLM evaluators that try to verify code either directly or by training specialized LLMs as reward models to approximate test outcomes. The major drawback is their reliance on unstructured reasoning, which allows models to make confident claims about code behavior without explicit justification. Without structured constraints, it is difficult to ensure agents reason thoroughly rather than guess based on superficial patterns like function names.\nThe second approach involves formal verification, which translates code or reasoning into formal mathematical languages like Lean, Coq, or Datalog to enable automated proof checking. While rigorous, formal methods require defining the semantics of the programming language. This is entirely impractical for arbitrary enterprise codebases that span multiple frameworks and languages. \nExisting approaches also tend to be highly fragmented and task-specific, often requiring entirely separate architectures or specialized training for each new problem domain. They lack the flexibility needed for broad, multi-purpose enterprise applications.\nHow semi-formal reasoning works\nTo bridge the gap between unstructured guessing and overly rigid mathematical proofs, the Meta researchers propose a structured prompting methodology, which they call “semi-formal reasoning.” This approach equips LLM agents with task-specific, structured reasoning templates.\nThese templates function as mandatory logical certificates. To complete a task, the agent must explicitly state premises, trace execution paths for specific tests, and derive a formal conclusion based solely on verifiable evidence. \nThe template forces the agent to gather proof from the codebase before making a judgment. The agent must actually follow function calls and data flows step-by-step rather than guessing their behavior based on surface-level naming conventions. This systematic evidence gathering helps the agent handle edge cases, such as confusing function names, and avoid making unsupported claims.\nSemi-formal reasoning in action\nThe researchers evaluated semi-formal reasoning across three software engineering tasks: patch equivalence verification to determine if two patches yield identical test outcomes without running them, fault localization to pinpoint the exact lines of code causing a bug, and code question answering to test nuanced semantic understanding of complex codebases. The experiments used the Claude Opus-4.5 and Sonnet-4.5 models acting as autonomous verifier agents.\nThe team compared their structured semi-formal approach against several baselines, including standard reasoning, where an agentic model is given a minimal prompt and allowed to explain its thinking freely in unstructured natural language. They also compared against traditional text-similarity algorithms like difflib.\nIn patch equivalence, semi-formal reasoning improved accuracy on challenging, curated examples from 78% using standard reasoning to 88%. When evaluating real-world, agent-generated patches with test specifications available, the Opus-4.5 model using semi-formal reasoning achieved 93% verification accuracy, outperforming both the unstructured single-shot baseline at 86% and the difflib baseline at 73%. Other tasks showed similar gains across the board.\nThe paper highlights the value of semi-formal reasoning through real-world examples. In one case, the agent evaluates two patches in the Python Django repository that attempt to fix a bug with 2-digit year formatting for years before 1000 CE. One patch uses a custom format() function within the library that overrides the standard function used in Python. \nStandard reasoning models look at these patches, assume format() refers to Python's standard built-in function, calculate that both approaches will yield the same string output, and incorrectly declare the patches equivalent. \nWith semi-formal reasoning, the agent traces the execution path and checks method definitions. Following the structured template, the agent discovers that within one of the library’s files, the format() name is actually shadowed by a custom, module-level function. The agent formally proves that given the attributes of the input passed to the code, this patch will crash the system while the other will succeed.\nBased on their experiments, the researchers suggest that “LLM agents can perform meaningful semantic code analysis without execution, potentially reducing verification costs in RL training pipelines by avoiding expensive sandbox execution.”\nCaveats and tradeoffs\nWhile semi-formal reasoning offers substantial reliability improvements, enterprise developers must consider several practical caveats before adopting it. There is a clear compute and latency tradeoff. Semi-formal reasoning requires more API calls and tokens. In patch equivalence evaluations, semi-formal reasoning required roughly 2.8 times as many execution steps as standard unstructured reasoning.\nThe technique also does not universally improve performance, particularly if a model is already highly proficient at a specific task. When researchers evaluated the Sonnet-4.5 model on a code question-answering benchmark, standard unstructured reasoning already achieved a high accuracy of around 85%. Applying the semi-formal template in this scenario yielded no additional gains.\nFurthermore, structured reasoning can produce highly confident wrong answers. Because the agent is forced to build elaborate, formal proof chains, it can become overly assured if its investigation is deep but incomplete. In one Python evaluation, the agent meticulously traced five different functions to uncover a valid edge case, but completely missed that a downstream piece of code already safely handled that exact scenario. Because it had built a strong evidence chain, it delivered an incorrect conclusion with extremely high confidence.\nThe system's reliance on concrete evidence also breaks down when it hits the boundaries of a codebase. When analyzing third-party libraries where the underlying source code is unavailable, the agent will still resort to guessing behavior based on function names. \nAnd in some cases, despite strict prompt instructions, models will occasionally fail to fully trace concrete execution paths. \nUltimately, while semi-formal reasoning drastically reduces unstructured guessing and hallucinations, it does not completely eliminate them.\nWhat developers should take away \nThis technique can be used out-of-the-box, requiring no model training or special packaging. It is code-execution free, which means you do not need to add additional tools to your LLM environment. You pay more compute at inference time to get higher accuracy at code review tasks. \nThe researchers suggest that structured agentic reasoning may offer “a flexible alternative to classical static analysis tools: rather than encoding analysis logic in specialized algorithms, we can prompt LLM agents with task-specific reasoning templates that generalize across languages and frameworks.\"\nThe researchers have made the prompt templates available, allowing them to be readily implemented into your applications. While there is a lot of conversation about prompt engineering being dead, this technique shows how much performance you can still squeeze out of well-structured prompts.",
+      "published": "2026-04-01T02:13:00.000Z",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "priority": 1,
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/0K2ROWPBO4EuSMhg5LPky/cc517300d97768f9fdbd4130d72f182e/agentic_code_reasoning.jpg?w=300&q=30",
+      "relevanceScore": 7,
+      "matchedKeywords": [
+        "meta",
+        "large language model",
+        "llm"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Robotaxi Outage in China Leaves Passengers Stranded on Highways",
+      "link": "https://www.wired.com/story/robotaxi-outage-in-china-leaves-passengers-stuck-in-cars-on-highways/",
+      "description": "A suspected system failure froze Baidu’s robotaxis across Wuhan, trapping passengers and reportedly causing traffic disruptions and crashes.",
+      "published": "2026-04-01T01:24:55.000Z",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "priority": 2,
+      "image": null,
+      "relevanceScore": 6,
+      "matchedKeywords": [
+        "baidu",
+        "robotaxi"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Samsung’s Best Day Since 2001 Drives Rebound in Korean Stocks",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-01/samsung-sk-hynix-lift-korean-stocks-as-iran-war-end-hopes-grow",
+      "description": "Chipmakers drove a rebound in South Korean stocks, as hopes that the Iran war may be nearing an end revived risk appetite.",
+      "published": "2026-04-01T02:29:29.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 6,
+      "matchedKeywords": [
+        "samsung",
+        "chip"
+      ],
+      "category": "ev_autonomous"
+    }
+  ],
+  "byCategory": {
+    "ai": [
+      {
+        "title": "Perplexity AI Machine Accused of Sharing Data With Meta, Google",
+        "link": "https://www.bloomberg.com/news/articles/2026-04-01/perplexity-ai-machine-accused-of-sharing-data-with-meta-google",
+        "description": "Perplexity AI Inc. was accused in a lawsuit of surreptitiously sharing the personal information of its users with Meta Platforms Inc. and Alphabet Inc.’s Google in violation of California privacy laws.",
+        "published": "2026-04-01T02:10:34.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 16,
+        "matchedKeywords": [
+          "google",
+          "alphabet",
+          "meta",
+          "perplexity",
+          "lawsuit"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Anthropic Accidentally Releases Source Code for Claude AI Agent",
+        "link": "https://www.bloomberg.com/news/articles/2026-04-01/anthropic-accidentally-releases-source-code-for-claude-ai-agent",
+        "description": "Anthropic PBC inadvertently released source code for its popular Claude AI agent, raising questions about its operational security and sending developers on a search for clues about the startup’s plans.",
+        "published": "2026-04-01T02:28:31.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "anthropic",
+          "claude"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Claude Code source leak reveals how much info Anthropic can hoover up about you and your system",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/01/claude_code_source_leak_privacy_nightmare/",
+        "description": "",
+        "published": "2026-04-01T07:00:12.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "anthropic",
+          "claude"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Google Readies Screenless Fitbit Band to Rival Growing Whoop Craze",
+        "link": "https://www.bloomberg.com/news/articles/2026-04-01/google-readies-revamped-screenless-fitbit-to-rival-growing-whoop-craze",
+        "description": "Alphabet Inc.’s Google is developing its own fitness band, aiming to compete with screenless wearable devices from upstarts like Whoop Inc. and Oura Health Oy.",
+        "published": "2026-04-01T00:02:05.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "google",
+          "alphabet"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Meta's new structured prompting technique makes LLMs significantly better at code review — boosting accuracy to 93% in some cases",
+        "link": "https://venturebeat.com/orchestration/metas-new-structured-prompting-technique-makes-llms-significantly-better-at",
+        "description": "Deploying AI agents for repository-scale tasks like bug detection, patch verification, and code review requires overcoming significant technical hurdles. One major bottleneck: the need to set up dynamic execution sandboxes for every repository, which are expensive and computationally heavy. \nUsing large language model (LLM) reasoning instead of executing the code is rising in popularity to bypass this overhead, yet it frequently leads to unsupported guesses and hallucinations. \nTo improve execution-free reasoning, researchers at Meta introduce \"semi-formal reasoning,\" a structured prompting technique. This method requires the AI agent to fill out a logical certificate by explicitly stating premises, tracing concrete execution paths, and deriving formal conclusions before providing an answer. \nThe structured format forces the agent to systematically gather evidence and follow function calls before drawing conclusions. This increases the accuracy of LLMs in coding tasks and significantly reduces errors in fault localization and codebase question-answering. \nFor developers using LLMs in code review tasks, semi-formal reasoning enables highly reliable, execution-free semantic code analysis while drastically reducing the infrastructure costs of AI coding systems.\nAgentic code reasoning\nAgentic code reasoning is an AI agent's ability to navigate files, trace dependencies, and iteratively gather context to perform deep semantic analysis on a codebase without running the code. In enterprise AI applications, this capability is essential for scaling automated bug detection, comprehensive code reviews, and patch verification across complex repositories where relevant context spans multiple files.\nThe industry currently tackles execution-free code verification through two primary approaches. The first involves unstructured LLM evaluators that try to verify code either directly or by training specialized LLMs as reward models to approximate test outcomes. The major drawback is their reliance on unstructured reasoning, which allows models to make confident claims about code behavior without explicit justification. Without structured constraints, it is difficult to ensure agents reason thoroughly rather than guess based on superficial patterns like function names.\nThe second approach involves formal verification, which translates code or reasoning into formal mathematical languages like Lean, Coq, or Datalog to enable automated proof checking. While rigorous, formal methods require defining the semantics of the programming language. This is entirely impractical for arbitrary enterprise codebases that span multiple frameworks and languages. \nExisting approaches also tend to be highly fragmented and task-specific, often requiring entirely separate architectures or specialized training for each new problem domain. They lack the flexibility needed for broad, multi-purpose enterprise applications.\nHow semi-formal reasoning works\nTo bridge the gap between unstructured guessing and overly rigid mathematical proofs, the Meta researchers propose a structured prompting methodology, which they call “semi-formal reasoning.” This approach equips LLM agents with task-specific, structured reasoning templates.\nThese templates function as mandatory logical certificates. To complete a task, the agent must explicitly state premises, trace execution paths for specific tests, and derive a formal conclusion based solely on verifiable evidence. \nThe template forces the agent to gather proof from the codebase before making a judgment. The agent must actually follow function calls and data flows step-by-step rather than guessing their behavior based on surface-level naming conventions. This systematic evidence gathering helps the agent handle edge cases, such as confusing function names, and avoid making unsupported claims.\nSemi-formal reasoning in action\nThe researchers evaluated semi-formal reasoning across three software engineering tasks: patch equivalence verification to determine if two patches yield identical test outcomes without running them, fault localization to pinpoint the exact lines of code causing a bug, and code question answering to test nuanced semantic understanding of complex codebases. The experiments used the Claude Opus-4.5 and Sonnet-4.5 models acting as autonomous verifier agents.\nThe team compared their structured semi-formal approach against several baselines, including standard reasoning, where an agentic model is given a minimal prompt and allowed to explain its thinking freely in unstructured natural language. They also compared against traditional text-similarity algorithms like difflib.\nIn patch equivalence, semi-formal reasoning improved accuracy on challenging, curated examples from 78% using standard reasoning to 88%. When evaluating real-world, agent-generated patches with test specifications available, the Opus-4.5 model using semi-formal reasoning achieved 93% verification accuracy, outperforming both the unstructured single-shot baseline at 86% and the difflib baseline at 73%. Other tasks showed similar gains across the board.\nThe paper highlights the value of semi-formal reasoning through real-world examples. In one case, the agent evaluates two patches in the Python Django repository that attempt to fix a bug with 2-digit year formatting for years before 1000 CE. One patch uses a custom format() function within the library that overrides the standard function used in Python. \nStandard reasoning models look at these patches, assume format() refers to Python's standard built-in function, calculate that both approaches will yield the same string output, and incorrectly declare the patches equivalent. \nWith semi-formal reasoning, the agent traces the execution path and checks method definitions. Following the structured template, the agent discovers that within one of the library’s files, the format() name is actually shadowed by a custom, module-level function. The agent formally proves that given the attributes of the input passed to the code, this patch will crash the system while the other will succeed.\nBased on their experiments, the researchers suggest that “LLM agents can perform meaningful semantic code analysis without execution, potentially reducing verification costs in RL training pipelines by avoiding expensive sandbox execution.”\nCaveats and tradeoffs\nWhile semi-formal reasoning offers substantial reliability improvements, enterprise developers must consider several practical caveats before adopting it. There is a clear compute and latency tradeoff. Semi-formal reasoning requires more API calls and tokens. In patch equivalence evaluations, semi-formal reasoning required roughly 2.8 times as many execution steps as standard unstructured reasoning.\nThe technique also does not universally improve performance, particularly if a model is already highly proficient at a specific task. When researchers evaluated the Sonnet-4.5 model on a code question-answering benchmark, standard unstructured reasoning already achieved a high accuracy of around 85%. Applying the semi-formal template in this scenario yielded no additional gains.\nFurthermore, structured reasoning can produce highly confident wrong answers. Because the agent is forced to build elaborate, formal proof chains, it can become overly assured if its investigation is deep but incomplete. In one Python evaluation, the agent meticulously traced five different functions to uncover a valid edge case, but completely missed that a downstream piece of code already safely handled that exact scenario. Because it had built a strong evidence chain, it delivered an incorrect conclusion with extremely high confidence.\nThe system's reliance on concrete evidence also breaks down when it hits the boundaries of a codebase. When analyzing third-party libraries where the underlying source code is unavailable, the agent will still resort to guessing behavior based on function names. \nAnd in some cases, despite strict prompt instructions, models will occasionally fail to fully trace concrete execution paths. \nUltimately, while semi-formal reasoning drastically reduces unstructured guessing and hallucinations, it does not completely eliminate them.\nWhat developers should take away \nThis technique can be used out-of-the-box, requiring no model training or special packaging. It is code-execution free, which means you do not need to add additional tools to your LLM environment. You pay more compute at inference time to get higher accuracy at code review tasks. \nThe researchers suggest that structured agentic reasoning may offer “a flexible alternative to classical static analysis tools: rather than encoding analysis logic in specialized algorithms, we can prompt LLM agents with task-specific reasoning templates that generalize across languages and frameworks.\"\nThe researchers have made the prompt templates available, allowing them to be readily implemented into your applications. While there is a lot of conversation about prompt engineering being dead, this technique shows how much performance you can still squeeze out of well-structured prompts.",
+        "published": "2026-04-01T02:13:00.000Z",
+        "source": "VentureBeat",
+        "sourceKey": "venturebeat",
+        "priority": 1,
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/0K2ROWPBO4EuSMhg5LPky/cc517300d97768f9fdbd4130d72f182e/agentic_code_reasoning.jpg?w=300&q=30",
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "meta",
+          "large language model",
+          "llm"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Robotaxi Outage in China Leaves Passengers Stranded on Highways",
+        "link": "https://www.wired.com/story/robotaxi-outage-in-china-leaves-passengers-stuck-in-cars-on-highways/",
+        "description": "A suspected system failure froze Baidu’s robotaxis across Wuhan, trapping passengers and reportedly causing traffic disruptions and crashes.",
+        "published": "2026-04-01T01:24:55.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "baidu",
+          "robotaxi"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Former Baidu President on AI Tokenization in China",
+        "link": "https://www.bloomberg.com/news/videos/2026-04-01/former-baidu-president-on-ai-tokenization-in-china-video",
+        "description": "The former President of Baidu says AI tokenization is exploding in China, far beyond what OpenClaw illustrated earlier this year. Zhang Yaqin, who runs China's Institute of AI Industry Research at Beijing's Tsinghua University speaks to Bloomberg's Chief North Asia Correspondent Stephen Engle in Beijing. (Source: Bloomberg)",
+        "published": "2026-04-01T01:02:39.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "baidu"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple Will Push Out Rare ‘Backported’ Patches to Protect iOS 18 Users From DarkSword Hacking Tool",
+        "link": "https://www.wired.com/story/apple-will-push-out-rare-backported-patches-to-protect-ios-18-users-from-darksword-hacking-tool/",
+        "description": "As DarkSword spreads, Apple tells WIRED it will enable iOS 18-specific fixes for millions of iPhone owners who remain on that iOS version rather than force them to update to iOS 26.",
+        "published": "2026-04-01T00:49:08.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "China’s New AI Stocks Drive Volatility in Asia as Hype Grows",
+        "link": "https://www.bloomberg.com/news/articles/2026-04-01/china-s-new-ai-stocks-drive-volatility-in-asia-as-hype-grows",
+        "description": "Chinese artificial‑intelligence firms have emerged as one of the most volatile pockets of Asia’s equity markets, with shares of newly listed model developers and chip designers swinging on retail flows.",
+        "published": "2026-04-01T00:24:07.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "intel",
+          "chip"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple TV: Brandon Sanderson reveals Mistborn pre-production details",
+        "link": "https://9to5mac.com/2026/03/31/apple-tv-brandon-sanderson-reveals-mistborn-pre-production-details/",
+        "description": "In a video released today to his YouTube channel, Brandon Sanderson shared an exciting update on the progress of the Mistborn adaptation for Apple TV. Here are the details.\nmore…",
+        "published": "2026-04-01T03:05:37.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-tv-new-logo-large.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Report: Apple less exposed as Iran war threatens India’s smartphone exports",
+        "link": "https://9to5mac.com/2026/03/31/report-apple-less-exposed-as-iran-war-threatens-indias-smartphone-exports/",
+        "description": "Nikkei Asia reports that while Apple is less exposed to potential export disruptions out of India, shipments that rely on Middle East trade hubs could face significant declines in the coming weeks. Here are the details.\nmore…",
+        "published": "2026-04-01T02:38:48.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/03/apple-india.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      }
+    ],
+    "ev_autonomous": [
+      {
+        "title": "Baidu Robotaxis Freeze in Wuhan, Sparking Flurry of Police Calls",
+        "link": "https://www.bloomberg.com/news/articles/2026-04-01/baidu-robotaxis-freeze-in-wuhan-sparking-flurry-of-police-calls",
+        "description": "A number of Baidu Inc.’s Apollo Go robotaxis suddenly stopped on the streets of China’s Wuhan city on Tuesday, leaving passengers stranded and raising concerns about the safety and reliability of autonomous driving technology.",
+        "published": "2026-04-01T03:52:45.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "baidu",
+          "robotaxi"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Samsung’s Best Day Since 2001 Drives Rebound in Korean Stocks",
+        "link": "https://www.bloomberg.com/news/articles/2026-04-01/samsung-sk-hynix-lift-korean-stocks-as-iran-war-end-hopes-grow",
+        "description": "Chipmakers drove a rebound in South Korean stocks, as hopes that the Iran war may be nearing an end revived risk appetite.",
+        "published": "2026-04-01T02:29:29.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "samsung",
+          "chip"
+        ],
+        "category": "ev_autonomous"
+      }
+    ],
+    "business": [
+      {
+        "title": "Apple celebrates its 50th anniversary with special animated homepage",
+        "link": "https://9to5mac.com/2026/04/01/apple-50-birthday-homepage-celebration/",
+        "description": "As part of its 50th anniversary celebrations, Apple has updated its website homepage today with a special animation video that features some of the company’s most iconic creations.\nThe sketch art animation depicts the original Mac, the iMac, the iPod, the App Store, the Watch, iPhone 17 Pro, Vision Pro and more in a sketch art illustrative style. \nmore…",
+        "published": "2026-04-01T07:35:42.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-homepage.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "apple",
+          "ipo"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Shares of China AI 'tiger' Zhipu surge 35% after revenue doubles in first earnings report",
+        "link": "https://www.cnbc.com/2026/04/01/china-ai-tiger-zhipu-shares-surge-revenue-growth-first-earnings-report.html",
+        "description": "Shares of Chinese AI company Zhipu surged over 30% in trading, after posting strong revenue growth in its first earnings report since its IPO.",
+        "published": "2026-04-01T06:32:41.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "ipo"
+        ],
+        "category": "business"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "Some quantum-resistant tokens jump 50% as Google flags risks to Bitcoin security",
+        "link": "https://www.coindesk.com/markets/2026/04/01/the-first-winners-of-the-quantum-crypto-debate-are-already-clear-and-some-of-them-are-up-50",
+        "description": "The so-called quantum-resistant coins rally as traders switch to potential long-term security.",
+        "published": "2026-04-01T05:59:35.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "google",
+          "quantum",
+          "bitcoin"
+        ],
+        "category": "crypto"
+      },
+      {
+        "title": "Australia passes crypto regulation requiring exchanges to obtain financial services licenses",
+        "link": "https://www.coindesk.com/policy/2026/04/01/australia-passes-crypto-licensing-bill-as-ausd24-billion-opportunity-comes-into-focus",
+        "description": "Exchanges and custody platforms must obtain financial services licenses within six months under the new framework.",
+        "published": "2026-04-01T07:47:52.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "regulation",
+          "crypto regulation"
+        ],
+        "category": "crypto"
+      }
+    ],
+    "robotics": [
+      {
+        "title": "Singapore Gets Robotaxis as Grab, WeRide Launch Driverless Cars",
+        "link": "https://www.bloomberg.com/news/articles/2026-04-01/singapore-gets-robotaxis-as-grab-weride-launch-driverless-cars",
+        "description": "Singapore’s Grab Holdings Ltd. became Southeast Asia’s first ride provider to start a driverless service, betting the technology can help cut costs and prove out robotaxis in dense urban traffic.",
+        "published": "2026-04-01T03:00:00.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "robotaxi"
+        ],
+        "category": "robotics"
+      }
+    ],
+    "space": [
+      {
+        "title": "Chinese startup tests flexible robotic arm in space for on-orbit servicing",
+        "link": "https://spacenews.com/chinese-startup-tests-flexible-robotic-arm-in-space-for-on-orbit-servicing/",
+        "description": "A Chinese commercial company has conducted an on-orbit demonstration of a flexible robotic arm, marking progress toward capabilities for satellite servicing, refueling and debris removal.\nThe post Chinese startup tests flexible robotic arm in space for on-orbit servicing appeared first on SpaceNews.",
+        "published": "2026-04-01T07:50:44.000Z",
+        "source": "SpaceNews",
+        "sourceKey": "spacenews",
+        "priority": 2,
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/Xiyuan0-robotic-arm-test-march2026-SustainSpace.jpg?fit=1024%2C611&amp;ssl=1",
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "arm",
+          "satellite"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "Apple drops price of Studio Display XDR without stand option by $400",
+        "link": "https://9to5mac.com/2026/04/01/apple-studio-display-xdr-price-drop/",
+        "description": "The Studio Display XDR has gotten a rare Apple price drop, if you pick the option without the stand included. The Studio Display XDR launched last month with a starting price of $3299, whether you opted for the model with VESA mount or the model with Apple’s tilt-adjustable stand. \nThe company has quietly updated the pricing to make the VESA mount option $400 cheaper, so the entry price for the display is now $2899. The Studio Display XDR with stand still starts at $3299.\nmore…",
+        "published": "2026-04-01T07:56:06.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-studio-display-xdr.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "space"
+      }
+    ],
+    "chips_cloud": [
+      {
+        "title": "Toyota’s Woven Capital appoints new CIO and COO in push for finding the ‘future of mobility’",
+        "link": "https://techcrunch.com/2026/03/31/toyotas-woven-capital-appoints-new-cio-and-coo-in-push-for-finding-the-future-of-mobility/",
+        "description": "Woven Capital is the growth-stage venture capital arm of Toyota, focused on backing founders building in space, cybersecurity, and autonomous driving.",
+        "published": "2026-04-01T01:00:00.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "arm"
+        ],
+        "category": "chips_cloud"
+      }
+    ]
+  },
+  "totalArticles": 23
+}

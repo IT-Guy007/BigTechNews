@@ -1,0 +1,133 @@
+{
+  "type": "daily",
+  "id": "26-03-23",
+  "title": "Monday, Mar 23",
+  "dateRange": "March 23, 2026",
+  "date": "2026-03-23",
+  "generatedAt": "2026-03-23T07:43:31.805Z",
+  "highlights": [
+    {
+      "title": "The Convergence Trade: Cathie Wood’s Boldest Predictions",
+      "link": "https://www.bloomberg.com/news/videos/2026-03-23/the-convergence-trade-cathie-wood-s-boldest-predictions-video",
+      "description": "Cathie Wood, CEO and CIO of Ark Investment Management, joins Merryn Somerset Webb to make the bullish case for the next era of innovation. From AI, robotaxis and CRISPR to bitcoin, Tesla and SpaceX, she lays out the technologies she believes will drive faster growth, lower costs and major market disruption. (Source: Bloomberg)",
+      "published": "2026-03-23T06:39:48.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 13,
+      "matchedKeywords": [
+        "tesla",
+        "spacex",
+        "ceo",
+        "robotaxi",
+        "bitcoin"
+      ],
+      "category": "ev_autonomous"
+    },
+    {
+      "title": "AI Startup Upstage in Talks to Buy 10,000 AMD Chips in Korea",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-23/ai-startup-upstage-looking-at-buying-10-000-amd-chips-in-korea",
+      "description": "Korean AI startup Upstage is in discussions with Advanced Micro Devices Inc. to buy 10,000 of its latest AI accelerators as part of an effort to bring large-scale compute into the country.",
+      "published": "2026-03-23T03:46:25.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 6,
+      "matchedKeywords": [
+        "amd",
+        "chip"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Elon Musk wants to build 50 times more chips than the world currently produces, using ‘new physics’",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/musk_terafab/",
+      "description": "",
+      "published": "2026-03-23T06:40:41.000Z",
+      "source": "The Register",
+      "sourceKey": "theregister",
+      "priority": 2,
+      "image": null,
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "elon musk",
+        "chip"
+      ],
+      "category": null
+    },
+    {
+      "title": "Microsoft: Removing some Copilots will improve Windows 11",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/windows_quality_commitment/",
+      "description": "",
+      "published": "2026-03-23T02:34:30.000Z",
+      "source": "The Register",
+      "sourceKey": "theregister",
+      "priority": 2,
+      "image": null,
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "microsoft"
+      ],
+      "category": "ai"
+    }
+  ],
+  "byCategory": {
+    "ev_autonomous": [
+      {
+        "title": "The Convergence Trade: Cathie Wood’s Boldest Predictions",
+        "link": "https://www.bloomberg.com/news/videos/2026-03-23/the-convergence-trade-cathie-wood-s-boldest-predictions-video",
+        "description": "Cathie Wood, CEO and CIO of Ark Investment Management, joins Merryn Somerset Webb to make the bullish case for the next era of innovation. From AI, robotaxis and CRISPR to bitcoin, Tesla and SpaceX, she lays out the technologies she believes will drive faster growth, lower costs and major market disruption. (Source: Bloomberg)",
+        "published": "2026-03-23T06:39:48.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 13,
+        "matchedKeywords": [
+          "tesla",
+          "spacex",
+          "ceo",
+          "robotaxi",
+          "bitcoin"
+        ],
+        "category": "ev_autonomous"
+      }
+    ],
+    "ai": [
+      {
+        "title": "AI Startup Upstage in Talks to Buy 10,000 AMD Chips in Korea",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-23/ai-startup-upstage-looking-at-buying-10-000-amd-chips-in-korea",
+        "description": "Korean AI startup Upstage is in discussions with Advanced Micro Devices Inc. to buy 10,000 of its latest AI accelerators as part of an effort to bring large-scale compute into the country.",
+        "published": "2026-03-23T03:46:25.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "amd",
+          "chip"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Microsoft: Removing some Copilots will improve Windows 11",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/windows_quality_commitment/",
+        "description": "",
+        "published": "2026-03-23T02:34:30.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "microsoft"
+        ],
+        "category": "ai"
+      }
+    ]
+  },
+  "totalArticles": 4
+}

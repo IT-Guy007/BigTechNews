@@ -1,0 +1,79 @@
+{
+  "type": "daily",
+  "id": "26-06-20",
+  "title": "Saturday, Jun 20",
+  "dateRange": "June 20, 2026",
+  "date": "2026-06-20",
+  "generatedAt": "2026-06-20T09:47:44.479Z",
+  "highlights": [
+    {
+      "title": "BYD Rejects Claims It Violated Hungary’s Environmental Rules",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-20/byd-rejects-claims-it-violated-hungary-s-environmental-rules",
+      "description": "Chinese electric vehicle maker BYD Co. said it rejected allegations it breached environmental rules in Hungary during the construction of its first plant in the European Union.",
+      "published": "2026-06-20T07:47:33.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 5,
+      "matchedKeywords": [
+        "byd"
+      ],
+      "category": "ev_autonomous"
+    },
+    {
+      "title": "Hackers Claim to Leak Stolen Madison Square Garden Data",
+      "link": "https://www.wired.com/story/security-news-this-week-hackers-claim-to-leak-stolen-madison-square-garden-data/",
+      "description": "Plus: Gay bars in San Francisco using face scanners, France quits Palantir, Apple plans to change its private email and more.",
+      "published": "2026-06-20T09:30:00.000Z",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "priority": 2,
+      "image": null,
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "apple",
+        "palantir"
+      ],
+      "category": "ai"
+    }
+  ],
+  "byCategory": {
+    "ev_autonomous": [
+      {
+        "title": "BYD Rejects Claims It Violated Hungary’s Environmental Rules",
+        "link": "https://www.bloomberg.com/news/articles/2026-06-20/byd-rejects-claims-it-violated-hungary-s-environmental-rules",
+        "description": "Chinese electric vehicle maker BYD Co. said it rejected allegations it breached environmental rules in Hungary during the construction of its first plant in the European Union.",
+        "published": "2026-06-20T07:47:33.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "byd"
+        ],
+        "category": "ev_autonomous"
+      }
+    ],
+    "ai": [
+      {
+        "title": "Hackers Claim to Leak Stolen Madison Square Garden Data",
+        "link": "https://www.wired.com/story/security-news-this-week-hackers-claim-to-leak-stolen-madison-square-garden-data/",
+        "description": "Plus: Gay bars in San Francisco using face scanners, France quits Palantir, Apple plans to change its private email and more.",
+        "published": "2026-06-20T09:30:00.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple",
+          "palantir"
+        ],
+        "category": "ai"
+      }
+    ]
+  },
+  "totalArticles": 2
+}

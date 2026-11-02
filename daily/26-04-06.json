@@ -1,0 +1,108 @@
+{
+  "type": "daily",
+  "id": "26-04-06",
+  "title": "Monday, Apr 6",
+  "dateRange": "April 6, 2026",
+  "date": "2026-04-06",
+  "generatedAt": "2026-04-06T08:08:52.285Z",
+  "highlights": [
+    {
+      "title": "Anthropic sure has a mess on its hands thanks to that Claude Code source leak",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/06/anthropic_code_leak_kettle_podcast/",
+      "description": "",
+      "published": "2026-04-06T00:02:52.000Z",
+      "source": "The Register",
+      "sourceKey": "theregister",
+      "priority": 2,
+      "image": null,
+      "relevanceScore": 10,
+      "matchedKeywords": [
+        "anthropic",
+        "claude"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "China orders Apple to pull Dorsey's Bitchat, the messaging app used during Iran protests",
+      "link": "https://www.coindesk.com/tech/2026/04/06/china-orders-apple-to-pull-dorsey-s-bitchat-the-messaging-app-used-during-iran-protests",
+      "description": "The peer-to-peer app runs entirely over Bluetooth and mesh networks without an internet connection, making it popular with protesters and incompatible with Beijing's censorship regime.",
+      "published": "2026-04-06T07:47:51.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "priority": 3,
+      "image": null,
+      "relevanceScore": 7,
+      "matchedKeywords": [
+        "apple",
+        "agi"
+      ],
+      "category": null
+    },
+    {
+      "title": "The Xiaomi 17 Ultra has some impressive add-ons that make snapping photos really fun",
+      "link": "https://techcrunch.com/2026/04/06/xiaomi-17-ultra-review-camera-leica-specs-photography-kit-pro/",
+      "description": "The Xiaomi 17 Ultra gives you a ton of options to play around with images, including preset filters and hardware add-ons.",
+      "published": "2026-04-06T07:00:00.000Z",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 5,
+      "matchedKeywords": [
+        "xiaomi"
+      ],
+      "category": null
+    },
+    {
+      "title": "Circle future-proofs Arc blockchain against quantum threats",
+      "link": "https://www.coindesk.com/markets/2026/04/06/stablecoin-issuer-circle-s-arc-blockchain-to-debut-with-quantum-era-features",
+      "description": "Circle’s Arc blockchain said users will be able to create wallets that withstand future quantum computer attacks from day one.",
+      "published": "2026-04-06T07:17:26.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "priority": 3,
+      "image": null,
+      "relevanceScore": 3,
+      "matchedKeywords": [
+        "quantum"
+      ],
+      "category": "ai"
+    }
+  ],
+  "byCategory": {
+    "ai": [
+      {
+        "title": "Anthropic sure has a mess on its hands thanks to that Claude Code source leak",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/06/anthropic_code_leak_kettle_podcast/",
+        "description": "",
+        "published": "2026-04-06T00:02:52.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "anthropic",
+          "claude"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Circle future-proofs Arc blockchain against quantum threats",
+        "link": "https://www.coindesk.com/markets/2026/04/06/stablecoin-issuer-circle-s-arc-blockchain-to-debut-with-quantum-era-features",
+        "description": "Circle’s Arc blockchain said users will be able to create wallets that withstand future quantum computer attacks from day one.",
+        "published": "2026-04-06T07:17:26.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "quantum"
+        ],
+        "category": "ai"
+      }
+    ]
+  },
+  "totalArticles": 4
+}

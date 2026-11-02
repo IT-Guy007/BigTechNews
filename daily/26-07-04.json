@@ -1,0 +1,83 @@
+{
+  "type": "daily",
+  "id": "26-07-04",
+  "title": "Saturday, Jul 4",
+  "dateRange": "July 4, 2026",
+  "date": "2026-07-04",
+  "generatedAt": "2026-07-04T09:03:51.422Z",
+  "highlights": [
+    {
+      "title": "Macron and Modi turn on personal charm offensives as France and India race to secure AI investment",
+      "link": "https://www.cnbc.com/2026/07/04/macron-modi-ai-infrastructure-tech-ceos.html",
+      "description": "Macron and Modi are courting tech CEOs as France and India seek AI data center investment and cloud infrastructure.",
+      "published": "2026-07-04T05:00:01.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "arm",
+        "ceo",
+        "data center"
+      ],
+      "category": "chips_cloud"
+    },
+    {
+      "title": "Micron Breaks Ground on $9 Billion Plant Expansion in Japan",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-04/micron-breaks-ground-on-9-billion-western-japan-plant-expansion",
+      "description": "Micron Technology Inc. on Saturday broke ground on the expansion of its factory in western Japan, a ¥1.5 trillion ($9.3 billion) undertaking to produce advanced memory chips.",
+      "published": "2026-07-04T04:16:21.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 3,
+      "matchedKeywords": [
+        "chip",
+        "billion"
+      ],
+      "category": "regulation"
+    }
+  ],
+  "byCategory": {
+    "chips_cloud": [
+      {
+        "title": "Macron and Modi turn on personal charm offensives as France and India race to secure AI investment",
+        "link": "https://www.cnbc.com/2026/07/04/macron-modi-ai-infrastructure-tech-ceos.html",
+        "description": "Macron and Modi are courting tech CEOs as France and India seek AI data center investment and cloud infrastructure.",
+        "published": "2026-07-04T05:00:01.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "arm",
+          "ceo",
+          "data center"
+        ],
+        "category": "chips_cloud"
+      }
+    ],
+    "regulation": [
+      {
+        "title": "Micron Breaks Ground on $9 Billion Plant Expansion in Japan",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-04/micron-breaks-ground-on-9-billion-western-japan-plant-expansion",
+        "description": "Micron Technology Inc. on Saturday broke ground on the expansion of its factory in western Japan, a ¥1.5 trillion ($9.3 billion) undertaking to produce advanced memory chips.",
+        "published": "2026-07-04T04:16:21.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "chip",
+          "billion"
+        ],
+        "category": "regulation"
+      }
+    ]
+  },
+  "totalArticles": 2
+}

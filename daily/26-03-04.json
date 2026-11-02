@@ -1,0 +1,378 @@
+{
+  "type": "daily",
+  "id": "26-03-04",
+  "title": "Wednesday, Mar 4",
+  "dateRange": "March 4, 2026",
+  "date": "2026-03-04",
+  "generatedAt": "2026-03-04T07:10:26.930Z",
+  "highlights": [
+    {
+      "title": "Altman Tells Staff OpenAI Has No Say Over Pentagon Decisions",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-04/altman-tells-staff-openai-has-no-say-over-pentagon-decisions",
+      "description": "OpenAI Chief Executive Officer Sam Altman told employees that the company doesn’t get to make the call about what the Defense Department does with its artificial intelligence software and suggested the desire to do so may have been part of tensions between the Pentagon and rival Anthropic PBC.",
+      "published": "2026-03-04T00:22:50.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 19,
+      "matchedKeywords": [
+        "openai",
+        "anthropic",
+        "intel",
+        "sam altman",
+        "artificial intelligence"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Sam Altman tells OpenAI staffers that military's 'operational decisions' are up to the government",
+      "link": "https://www.cnbc.com/2026/03/03/sam-altman-tells-openai-staff-operational-decisions-up-to-government.html",
+      "description": "In an all-hands meetings with OpenAI employees on Tuesday, CEO Sam Altman said his company doesn't get to choose how the military uses its technology.",
+      "published": "2026-03-04T00:03:59.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 14,
+      "matchedKeywords": [
+        "openai",
+        "ceo",
+        "sam altman"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Nvidia, Amazon temporarily close Dubai offices, Google employees stranded amid U.S.-Iran war",
+      "link": "https://www.cnbc.com/2026/03/03/nvidia-amazon-offices-google-dubai-iran-war.html",
+      "description": "Tech companies with Middle East operations have scrambled to respond as fighting rippled across the region after joint U.S.-Israeli strikes in Iran.",
+      "published": "2026-03-04T00:48:44.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 13,
+      "matchedKeywords": [
+        "google",
+        "amazon",
+        "nvidia"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Did Alibaba just kneecap its powerful Qwen AI team? Key figures depart in wake of latest open source release",
+      "link": "https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in",
+      "description": "Alibaba's Qwen team of AI researchers have been among the most prolific and well-regarded by international machine learning community — shipping dozens of powerful generalized and specialized generative models starting last summer, most of them entirely open source and free.\nBut now, just 24 hours after shipping the open source Qwen3.5 small model series—a release that drew public praise from Elon Musk for its \"impressive intelligence density\"—the project’s technical architect and several other Qwen team members have exited the company under unclear circumstances, raising questions and concerns from around the world about the future direction of the Qwen team and its focus on open source. \nThe departure of Junyang \"Justin\" Lin, the technical lead who steered Qwen from a nascent lab project to a global powerhouse with over 600 million downloads, alongside two fellow colleagues — staff research scientist Binyuan Hui and intern Kaixin Li — marks a volatile inflection point for Alibaba Cloud and its role as an international open source AI leader. \nThese three Qwen Team members announced their departures on X today, though they did not share the reasons or whether or not it they were voluntary. VentureBeat reached out to sources at Alibaba for more information and will update when we obtain it. Lin himself signed off with a simple post: \"me stepping down. bye my beloved qwen.\"\nWhile the company celebrates a technical triumph, the sudden exit of its core leadership suggests a deepening rift between the researchers who built the models and a corporate hierarchy now pivoting toward aggressive monetization.\nThe departing researchers' final gift: pocket-sized intelligence \nThe Qwen3.5 small model series (ranging from 0.8B to 9B parameters) represents a final masterstroke in \"intelligence density\" from the founding team. \nThe models employ a Gated DeltaNet hybrid architecture that allows a 9B-parameter model to rival the reasoning capabilities of much larger systems.\nBy utilizing a 3:1 ratio of linear attention to full attention, the models maintain a massive 262,000-token context window while remaining efficient enough to run natively on standard laptops and smartphones — even in web browsers.\nLin, a PKU humanities graduate and polyglot, has long advocated for this \"algorithm-hardware co-design\" to bypass compute constraints—a philosophy he detailed at the January 2026 Tsinghua AI Summit. \nFor the developer community, Qwen3.5 wasn't just another update; it was a blueprint for the \"Agentic Inflection,\" where models shift from being chatbots to autonomous \"all-in-one AI workers\" capable of navigating UIs and executing complex code.\nThe enterprise dilemma\nFor the 90,000+ enterprises currently deploying Qwen via DingTalk or Alibaba Cloud, the leadership vacuum creates a crisis of confidence. \nMany companies migrated to Qwen because it offered a \"third way\": the performance of a proprietary US model with the transparency of open weights.\nAlibaba has recently consolidated its AI efforts into the \"Qwen C-end Business Group,\" merging its model labs with consumer hardware teams. The goal is clear: transition Qwen from a research project into the operating system for a new era of AI-integrated glasses and rings.\nHowever, the reported appointment of Hao Zhou, a veteran of Google DeepMind’s Gemini team, to lead the Qwen team indicates a shift from \"research-first\" to \"metric-driven\" leadership. \nIndustry analysts, including those cited by InfoWorld, warn that as Alibaba pushes to meet investor demands for revenue growth, the \"open\" in Qwen’s open-weight models may become a secondary priority — similar to what we saw with Meta after the disappointing release of its Llama 4 AI model last spring, and subsequent reorganization of its AI division, seeing the hiring of Scale AI co-founder and CEO Alexandr Wang and following departure of preeminent researcher Yann LeCun. \nEnterprises relying on the Apache 2.0-licensed Qwen models now face the possibility that future flagships —such as the rumored Qwen3.5-Max—will be locked behind paid, proprietary APIs to drive Cloud DAU (Daily Active User) metrics.\nThe takeaway? If you value Qwen's open source efforts, download and preserve the models now, while you still can. \nThe \"Gemini-fication\" of Qwen?\nThe internal friction at Alibaba mirrors the tensions seen at OpenAI and Google: the \"soul\" of the machine is often at odds with the \"scale\" of the business. Xinyu Yang, a researcher at rival Chinese AI lab DeepSeek, captured this sentiment in a stark post on X: \"Replace the excellent leader with a non-core people from Google Gemini, driven by DAU metrics. If you judge foundation model teams like consumer apps, don’t be surprised when the innovation curve flattens.\"\nThis \"Gemini-fication\"—the shift toward a highly regulated, product-centric culture—threatens the very agility that allowed Qwen to surpass Meta’s Llama in derivative model creation. For the global AI community, the loss of Junyang Lin is symbolic. \nHe was the primary bridge between China’s deep engineering talent and the Western open-source ecosystem. Without his advocacy, there are fears that the project will retreat into a \"walled garden\" strategy similar to its Western rivals.\n'Leaving wasn't your choice'\nThe technical brilliance of the Qwen3.5 release has been overshadowed by the heartbreak of its creators. On social media, the sentiment among the team members who built the model is one of mourning rather than celebration:\nChen Cheng, a Qwen contributor, explicitly alluded to a forced departure, writing in a post on X: \"I'm truly heartbroken. I know leaving wasn't your choice... I honestly can't imagine Qwen without you.\"\nLi suggested the exit signaled the end of broader ambitions, such as a planned Singapore-based research hub: \"Qwen could have had a Singapore base, all thanks to Junyang. But now that he's gone, there's no reason left to stay here.\"\nWhat happens to Qwen's open source AI efforts from here on out?\nThe known facts are simple: Qwen has never been technically stronger, yet its founding core has been dismantled. As Alibaba prepares to face investors for its fiscal Q3 earnings report on March 5, the narrative will likely focus on \"efficiency\" and \"commercial scale.\"\nFor the enterprises currently excited about the 60% cost reductions promised by Qwen3.5, the immediate future is bright. \nBut for the larger AI community, the cost of that efficiency may be the loss of the most vibrant open-source lab in the East. \nAs Hao Zhou takes the reins, the world is watching to see if Qwen remains a \"model for the world\" or becomes merely a component in Alibaba’s corporate bottom line.",
+      "published": "2026-03-04T00:25:00.000Z",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "priority": 1,
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3OTF48loVIPOGAJt06bcsV/e894100791caa709c7ddce044246be17/ChatGPT_Image_Mar_3__2026__07_30_07_PM.png?w=300&q=30",
+      "relevanceScore": 7,
+      "matchedKeywords": [
+        "intel",
+        "elon musk",
+        "machine learning"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "OpenAI says its latest model is less likely to beat around the bush",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/openai_dow_reset_gpt53_instant/",
+      "description": "",
+      "published": "2026-03-04T00:17:28.000Z",
+      "source": "The Register",
+      "sourceKey": "theregister",
+      "priority": 2,
+      "image": null,
+      "relevanceScore": 7,
+      "matchedKeywords": [
+        "openai"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Google and iVerify reveal government-grade iPhone exploit kit spreading to hackers",
+      "link": "https://9to5mac.com/2026/03/03/google-and-iverify-reveal-government-grade-iphone-exploit-kit-spreading-to-hackers/",
+      "description": "Google’s Threat Intelligence Group and security company iVerify have shared details about Coruna, an exploit kit that chains multiple vulnerabilities to target iPhones running older iOS versions. Here are the details.\nmore…",
+      "published": "2026-03-04T01:02:09.000Z",
+      "source": "9to5Mac",
+      "sourceKey": "9to5mac",
+      "priority": 2,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/A-million-SMS-two-factor-authentication-codes-were-intercepted-heres-what-to-do.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "relevanceScore": 6,
+      "matchedKeywords": [
+        "google",
+        "intel"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Global Funds Unwind Hottest AI Trades as Oil Supply Fears Mount",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-04/global-funds-unwind-hottest-ai-trades-as-oil-supply-fears-mount",
+      "description": "Foreigners are fleeing from Asia’s hottest markets this year, as exuberance in the artificial-intelligence trade gives way to fears about an oil-driven inflation shock.",
+      "published": "2026-03-04T03:50:07.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 5,
+      "matchedKeywords": [
+        "intel",
+        "uber"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Nvidia Backs Another UK Driverless Startup in $103 Million Round",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-04/nvidia-backs-another-uk-driverless-startup-in-103-million-round",
+      "description": "Nvidia Corp. is investing in Oxa, the latest British autonomous driving startup to receive backing from the world’s most valuable company.",
+      "published": "2026-03-04T00:01:00.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 5,
+      "matchedKeywords": [
+        "nvidia"
+      ],
+      "category": "chips_cloud"
+    },
+    {
+      "title": "Alibaba AI Wizard Who Warned of US-China Tech Gap Steps Down",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-04/alibaba-qwen-head-who-warned-of-openai-gap-steps-down",
+      "description": "The architect of Alibaba Group Holding Ltd.’s chief AI model has quit his post, a surprise departure that’s rattled the developer community and raised questions about the Chinese online leader’s pivot to artificial intelligence.",
+      "published": "2026-03-04T01:25:58.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "intel",
+        "artificial intelligence"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Nidec CEO Mitsuya Kishida on Accounting Scandal Fallout",
+      "link": "https://www.bloomberg.com/news/videos/2026-03-04/nidec-ceo-mitsuya-kishida-on-accounting-scandal-fallout-video",
+      "description": "Nidec CEO Mitsuya Kishida addresses the fallout of an accounting scandal in a press conference in Tokyo on March 3. (Source: Bloomberg)",
+      "published": "2026-03-04T03:46:31.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "ceo"
+      ],
+      "category": "business"
+    }
+  ],
+  "byCategory": {
+    "ai": [
+      {
+        "title": "Altman Tells Staff OpenAI Has No Say Over Pentagon Decisions",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-04/altman-tells-staff-openai-has-no-say-over-pentagon-decisions",
+        "description": "OpenAI Chief Executive Officer Sam Altman told employees that the company doesn’t get to make the call about what the Defense Department does with its artificial intelligence software and suggested the desire to do so may have been part of tensions between the Pentagon and rival Anthropic PBC.",
+        "published": "2026-03-04T00:22:50.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 19,
+        "matchedKeywords": [
+          "openai",
+          "anthropic",
+          "intel",
+          "sam altman",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Sam Altman tells OpenAI staffers that military's 'operational decisions' are up to the government",
+        "link": "https://www.cnbc.com/2026/03/03/sam-altman-tells-openai-staff-operational-decisions-up-to-government.html",
+        "description": "In an all-hands meetings with OpenAI employees on Tuesday, CEO Sam Altman said his company doesn't get to choose how the military uses its technology.",
+        "published": "2026-03-04T00:03:59.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 14,
+        "matchedKeywords": [
+          "openai",
+          "ceo",
+          "sam altman"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Nvidia, Amazon temporarily close Dubai offices, Google employees stranded amid U.S.-Iran war",
+        "link": "https://www.cnbc.com/2026/03/03/nvidia-amazon-offices-google-dubai-iran-war.html",
+        "description": "Tech companies with Middle East operations have scrambled to respond as fighting rippled across the region after joint U.S.-Israeli strikes in Iran.",
+        "published": "2026-03-04T00:48:44.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 13,
+        "matchedKeywords": [
+          "google",
+          "amazon",
+          "nvidia"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Did Alibaba just kneecap its powerful Qwen AI team? Key figures depart in wake of latest open source release",
+        "link": "https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in",
+        "description": "Alibaba's Qwen team of AI researchers have been among the most prolific and well-regarded by international machine learning community — shipping dozens of powerful generalized and specialized generative models starting last summer, most of them entirely open source and free.\nBut now, just 24 hours after shipping the open source Qwen3.5 small model series—a release that drew public praise from Elon Musk for its \"impressive intelligence density\"—the project’s technical architect and several other Qwen team members have exited the company under unclear circumstances, raising questions and concerns from around the world about the future direction of the Qwen team and its focus on open source. \nThe departure of Junyang \"Justin\" Lin, the technical lead who steered Qwen from a nascent lab project to a global powerhouse with over 600 million downloads, alongside two fellow colleagues — staff research scientist Binyuan Hui and intern Kaixin Li — marks a volatile inflection point for Alibaba Cloud and its role as an international open source AI leader. \nThese three Qwen Team members announced their departures on X today, though they did not share the reasons or whether or not it they were voluntary. VentureBeat reached out to sources at Alibaba for more information and will update when we obtain it. Lin himself signed off with a simple post: \"me stepping down. bye my beloved qwen.\"\nWhile the company celebrates a technical triumph, the sudden exit of its core leadership suggests a deepening rift between the researchers who built the models and a corporate hierarchy now pivoting toward aggressive monetization.\nThe departing researchers' final gift: pocket-sized intelligence \nThe Qwen3.5 small model series (ranging from 0.8B to 9B parameters) represents a final masterstroke in \"intelligence density\" from the founding team. \nThe models employ a Gated DeltaNet hybrid architecture that allows a 9B-parameter model to rival the reasoning capabilities of much larger systems.\nBy utilizing a 3:1 ratio of linear attention to full attention, the models maintain a massive 262,000-token context window while remaining efficient enough to run natively on standard laptops and smartphones — even in web browsers.\nLin, a PKU humanities graduate and polyglot, has long advocated for this \"algorithm-hardware co-design\" to bypass compute constraints—a philosophy he detailed at the January 2026 Tsinghua AI Summit. \nFor the developer community, Qwen3.5 wasn't just another update; it was a blueprint for the \"Agentic Inflection,\" where models shift from being chatbots to autonomous \"all-in-one AI workers\" capable of navigating UIs and executing complex code.\nThe enterprise dilemma\nFor the 90,000+ enterprises currently deploying Qwen via DingTalk or Alibaba Cloud, the leadership vacuum creates a crisis of confidence. \nMany companies migrated to Qwen because it offered a \"third way\": the performance of a proprietary US model with the transparency of open weights.\nAlibaba has recently consolidated its AI efforts into the \"Qwen C-end Business Group,\" merging its model labs with consumer hardware teams. The goal is clear: transition Qwen from a research project into the operating system for a new era of AI-integrated glasses and rings.\nHowever, the reported appointment of Hao Zhou, a veteran of Google DeepMind’s Gemini team, to lead the Qwen team indicates a shift from \"research-first\" to \"metric-driven\" leadership. \nIndustry analysts, including those cited by InfoWorld, warn that as Alibaba pushes to meet investor demands for revenue growth, the \"open\" in Qwen’s open-weight models may become a secondary priority — similar to what we saw with Meta after the disappointing release of its Llama 4 AI model last spring, and subsequent reorganization of its AI division, seeing the hiring of Scale AI co-founder and CEO Alexandr Wang and following departure of preeminent researcher Yann LeCun. \nEnterprises relying on the Apache 2.0-licensed Qwen models now face the possibility that future flagships —such as the rumored Qwen3.5-Max—will be locked behind paid, proprietary APIs to drive Cloud DAU (Daily Active User) metrics.\nThe takeaway? If you value Qwen's open source efforts, download and preserve the models now, while you still can. \nThe \"Gemini-fication\" of Qwen?\nThe internal friction at Alibaba mirrors the tensions seen at OpenAI and Google: the \"soul\" of the machine is often at odds with the \"scale\" of the business. Xinyu Yang, a researcher at rival Chinese AI lab DeepSeek, captured this sentiment in a stark post on X: \"Replace the excellent leader with a non-core people from Google Gemini, driven by DAU metrics. If you judge foundation model teams like consumer apps, don’t be surprised when the innovation curve flattens.\"\nThis \"Gemini-fication\"—the shift toward a highly regulated, product-centric culture—threatens the very agility that allowed Qwen to surpass Meta’s Llama in derivative model creation. For the global AI community, the loss of Junyang Lin is symbolic. \nHe was the primary bridge between China’s deep engineering talent and the Western open-source ecosystem. Without his advocacy, there are fears that the project will retreat into a \"walled garden\" strategy similar to its Western rivals.\n'Leaving wasn't your choice'\nThe technical brilliance of the Qwen3.5 release has been overshadowed by the heartbreak of its creators. On social media, the sentiment among the team members who built the model is one of mourning rather than celebration:\nChen Cheng, a Qwen contributor, explicitly alluded to a forced departure, writing in a post on X: \"I'm truly heartbroken. I know leaving wasn't your choice... I honestly can't imagine Qwen without you.\"\nLi suggested the exit signaled the end of broader ambitions, such as a planned Singapore-based research hub: \"Qwen could have had a Singapore base, all thanks to Junyang. But now that he's gone, there's no reason left to stay here.\"\nWhat happens to Qwen's open source AI efforts from here on out?\nThe known facts are simple: Qwen has never been technically stronger, yet its founding core has been dismantled. As Alibaba prepares to face investors for its fiscal Q3 earnings report on March 5, the narrative will likely focus on \"efficiency\" and \"commercial scale.\"\nFor the enterprises currently excited about the 60% cost reductions promised by Qwen3.5, the immediate future is bright. \nBut for the larger AI community, the cost of that efficiency may be the loss of the most vibrant open-source lab in the East. \nAs Hao Zhou takes the reins, the world is watching to see if Qwen remains a \"model for the world\" or becomes merely a component in Alibaba’s corporate bottom line.",
+        "published": "2026-03-04T00:25:00.000Z",
+        "source": "VentureBeat",
+        "sourceKey": "venturebeat",
+        "priority": 1,
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3OTF48loVIPOGAJt06bcsV/e894100791caa709c7ddce044246be17/ChatGPT_Image_Mar_3__2026__07_30_07_PM.png?w=300&q=30",
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "intel",
+          "elon musk",
+          "machine learning"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "OpenAI says its latest model is less likely to beat around the bush",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/openai_dow_reset_gpt53_instant/",
+        "description": "",
+        "published": "2026-03-04T00:17:28.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Google and iVerify reveal government-grade iPhone exploit kit spreading to hackers",
+        "link": "https://9to5mac.com/2026/03/03/google-and-iverify-reveal-government-grade-iphone-exploit-kit-spreading-to-hackers/",
+        "description": "Google’s Threat Intelligence Group and security company iVerify have shared details about Coruna, an exploit kit that chains multiple vulnerabilities to target iPhones running older iOS versions. Here are the details.\nmore…",
+        "published": "2026-03-04T01:02:09.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/A-million-SMS-two-factor-authentication-codes-were-intercepted-heres-what-to-do.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "google",
+          "intel"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Global Funds Unwind Hottest AI Trades as Oil Supply Fears Mount",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-04/global-funds-unwind-hottest-ai-trades-as-oil-supply-fears-mount",
+        "description": "Foreigners are fleeing from Asia’s hottest markets this year, as exuberance in the artificial-intelligence trade gives way to fears about an oil-driven inflation shock.",
+        "published": "2026-03-04T03:50:07.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "intel",
+          "uber"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Alibaba AI Wizard Who Warned of US-China Tech Gap Steps Down",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-04/alibaba-qwen-head-who-warned-of-openai-gap-steps-down",
+        "description": "The architect of Alibaba Group Holding Ltd.’s chief AI model has quit his post, a surprise departure that’s rattled the developer community and raised questions about the Chinese online leader’s pivot to artificial intelligence.",
+        "published": "2026-03-04T01:25:58.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "intel",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Early benchmarks show the likely performance gains of the iPad Air’s new M4 chip",
+        "link": "https://9to5mac.com/2026/03/03/early-benchmarks-show-the-likely-performance-gains-of-the-ipad-airs-new-m4-chip/",
+        "description": "As it usually happens when new Apple products are about to hit the shelves, early Geekbench benchmark results are already making the rounds. Here’s how two results credited to the M4 iPad Air turned out.\nmore…",
+        "published": "2026-03-04T03:29:43.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/m4-chip-official-apple.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "apple",
+          "chip"
+        ],
+        "category": "ai"
+      }
+    ],
+    "chips_cloud": [
+      {
+        "title": "Nvidia Backs Another UK Driverless Startup in $103 Million Round",
+        "link": "https://www.bloomberg.com/news/articles/2026-03-04/nvidia-backs-another-uk-driverless-startup-in-103-million-round",
+        "description": "Nvidia Corp. is investing in Oxa, the latest British autonomous driving startup to receive backing from the world’s most valuable company.",
+        "published": "2026-03-04T00:01:00.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "nvidia"
+        ],
+        "category": "chips_cloud"
+      }
+    ],
+    "business": [
+      {
+        "title": "Nidec CEO Mitsuya Kishida on Accounting Scandal Fallout",
+        "link": "https://www.bloomberg.com/news/videos/2026-03-04/nidec-ceo-mitsuya-kishida-on-accounting-scandal-fallout-video",
+        "description": "Nidec CEO Mitsuya Kishida addresses the fallout of an accounting scandal in a press conference in Tokyo on March 3. (Source: Bloomberg)",
+        "published": "2026-03-04T03:46:31.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "ceo"
+        ],
+        "category": "business"
+      }
+    ],
+    "ev_autonomous": [
+      {
+        "title": "Google feels the need for security speed, so will ship Chrome updates every two weeks",
+        "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/google_speeds_chrome_release_cadence/",
+        "description": "",
+        "published": "2026-03-04T02:01:55.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "ev_autonomous"
+      }
+    ]
+  },
+  "totalArticles": 12
+}

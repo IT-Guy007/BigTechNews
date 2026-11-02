@@ -1,0 +1,511 @@
+{
+  "type": "daily",
+  "id": "26-09-23",
+  "title": "Wednesday, Sep 23",
+  "dateRange": "September 23, 2026",
+  "date": "2026-09-23",
+  "generatedAt": "2026-09-23T11:54:59.133Z",
+  "highlights": [
+    {
+      "title": "Nvidia-Backed AI Startup Seeks $10 Billion Before Australian IPO",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-23/nvidia-backed-ai-startup-seeks-10-billion-before-australian-ipo",
+      "description": "Australian AI startup Firmus Technologies Pty is in talks with lenders for a roughly $10 billion financing deal to buy Nvidia Corp. chips for its Indonesian data center, potentially making it one of Asia’s largest AI infrastructure deals.",
+      "published": "2026-09-23T07:46:12.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 12,
+      "matchedKeywords": [
+        "nvidia",
+        "ipo",
+        "chip",
+        "data center",
+        "billion"
+      ],
+      "category": "chips_cloud"
+    },
+    {
+      "title": "OpenAI’s Sam Altman to Promote AI Standards During UN Speech",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-23/openai-s-sam-altman-to-promote-ai-standards-during-un-speech",
+      "description": "OpenAI’s Sam Altman will pitch the idea of creating global AI standards when he speaks at the United Nations on Wednesday, positioning himself as a centrist on the question of whether to slow down the technology’s progress.",
+      "published": "2026-09-23T10:00:00.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 11,
+      "matchedKeywords": [
+        "openai",
+        "sam altman"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Frontier AI keeps racing despite calls to slow down",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/23/frontier-ai-keeps-racing-despite-calls-to-slow-down/5298448",
+      "description": "Anthropic and OpenAI debut Opus 5.5 and GPT-6 Sol and Luna",
+      "published": "2026-09-23T00:02:47.000Z",
+      "source": "The Register",
+      "sourceKey": "theregister",
+      "priority": 2,
+      "image": "https://image.theregister.com/?imageId=5298454&width=800",
+      "relevanceScore": 10,
+      "matchedKeywords": [
+        "openai",
+        "anthropic"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "SoftBank Offers Record Yields on Jumbo Junk Bonds in AI Push",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-23/softbank-starts-jumbo-high-yield-bond-sale-to-finance-ai-push",
+      "description": "Billionaire Masayoshi Son’s SoftBank Group Corp. kicked off what’s set to be one of the largest corporate junk bond sales ever as the Japanese conglomerate offers record yields to entice investors into helping fund its unprecedented investments in artificial intelligence.",
+      "published": "2026-09-23T02:42:10.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "intel",
+        "softbank",
+        "artificial intelligence",
+        "billion"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Apple Intelligence Taking up 30GB+ on Some Macs Running macOS 27",
+      "link": "https://www.macrumors.com/2026/09/23/apple-intelligence-30gb-some-macs-macos-27/",
+      "description": "After you install macOS 27 Golden Gate, Apple automatically downloads a multi-gigabyte AI model to your Mac the next time it's connected to the internet. Unlike previous versions of macOS, you can't prevent it. Siri AI, and by extension Apple Intelligence, are now a mandatory part of your system.\r\n\r\n\r\nFor macOS 27 Golden Gate, Apple says the latest Apple Intelligence features require up to 14GB of on-device storage on Macs with an M3 chip or later and at least 12GB of unified memory, and up to 8GB of storage for other Apple Intelligence-enabled Macs. But in our experience, AI model storage allocation appears to be considerably higher on some Macs than others.\r\n\r\nMacRumors saw 20.67GB handed over for Apple Intelligence, according to the Storage section in System Settings. ArsTechnica recorded an even higher figure of 22.42GB on an M3 MacBook Air after a fresh installation of macOS 27.0 beta 7. Both of these systems will be using Apple's AFM 3 Core Advanced on-device model, which requires an M3-or-newer Mac with 12GB or more of RAM.\r\n\r\nArsTechnica reported the same screen showed around 14GB on an M1 MacBook Air and a MacBook Neo, and yet both of these models fall into a category for which Apple lists a requirement of up to 8GB.\r\n\r\nshared a screenshot from the macOS 27 Release Candidate showing Apple Intelligence gobbled up 30.16GB on their machine. Another user quoted 24.35GB for Apple Intelligence after installing macOS 27 on a MacBook Pro with M3 Pro chip.\r\n\r\n\r\n  \n\r\n    Device\r\nApple Intelligence storage\r\n\r\n  \n\r\n    iPhone 18 Pro, iPhone 18 Pro Max, iPhone Duo\r\nUp to 14GB \r\n\r\n  \n\r\n    iPhone 17 Pro, iPhone 17 Pro Max, iPhone Air\r\nUp to 14GB\r\n\r\n  \n\r\n    Other compatible iPhones: iPhone 15 Pro and Pro Max, all iPhone 16 models, iPhone 17, and iPhone 17e\r\nUp to 8GB\r\n\r\n  \n\r\n    iPad with M4 or later and at least 12GB of unified memory; Mac with M3 or later and at least 12GB of unified memory; Apple Vision Pro (M5)\r\nUp to 14GB\r\n\r\n  \n\r\n    Other compatible iPad, Mac, and Apple Vision Pro models\r\nUp to 8GB\r\n\r\n  \n\r\n    Compatible Apple Watch models\r\nUp to 1.5GB on the watch\r\n\r\n  \n\r\n    iPhone 15 and 15 Plus, iPhone 14 and earlier, and iPhone SE\r\nNot supported\r\n\r\n\r\n\nFigures taken from Apple's support document\n\r\nApple's support document does not explain whether its \"up to 14GB\" requirement is directly comparable with the Apple Intelligence \"Storage\" category in System Settings, or why some Macs display substantially higher numbers. For what it's worth, we haven't seen the same ballooning figures on iPhones and iPads running iOS 27 and iPadOS 27.\r\n\r\nbecause of AI, the irony of the situation is not lost, but it doesn't make it any less frustrating.\r\n\r\nSystem Settings ➝ General ➝ Storage by clicking the information button beside macOS. Let us know your findings in the comments.\nTag: Apple Intelligence\nThis article, \"Apple Intelligence Taking up 30GB+ on Some Macs Running macOS 27\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+      "published": "2026-09-23T10:30:15.000Z",
+      "source": "MacRumors",
+      "sourceKey": "macrumors",
+      "priority": 2,
+      "image": "https://images.macrumors.com/article-new/2024/09/apple-intelligence-black.jpeg",
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "apple",
+        "intel",
+        "chip"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
+      "description": "Patreon co-founder Sam Yam is joing OpenAI to lead Creator Product. | Image: The Verge\t\n\nOpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the creator subscription platform 13 years ago, co-founder and technology chief Sam Yam announced on X that he's joining OpenAI to lead Creator Product. He's also bringing Patreon's former product head Drew Rowny and engineering head Shannon Ma with him on the new venture, both of whom stepped down in the past few weeks.\n\"We're going to build together with Creators at OpenAI and share early access to a new set of tools that I think will be critically valuable to Creators and their communities,\" Yam said in his announcement. \"Pay attention …\nRead the full story at The Verge.",
+      "published": "2026-09-23T11:02:39.000Z",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "priority": 1,
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK326_PATREON_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "openai"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Airtel Money London IPO Favored Due to Deep Capital: CEO",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-23/airtel-money-london-ipo-favored-due-to-deep-capital-ceo-video",
+      "description": "Airtel Money Commerce NV has filed for an initial public offering in London because it has \"deep capital available,\" according to Chief Executive Officer Ian Ferrao. \"There’s a very, very good understanding of emerging markets,\" he tells Bloomberg Television. \"Our parent company, Airtel Africa, has been listed on the London Stock Exchange since 2019. It’s had a very successful run here, and we’re hoping to to replicate that success,\" Ferrao adds. The IPO could be the largest listing the city has seen in five years. (Source: Bloomberg)",
+      "published": "2026-09-23T08:56:02.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "ipo",
+        "ceo"
+      ],
+      "category": "business"
+    },
+    {
+      "title": "AI Startup Wrtn Picks Banks for Korea IPO After Valuation Boost",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-23/ai-startup-wrtn-picks-banks-for-korea-ipo-after-valuation-boost",
+      "description": "Wrtn Technologies Inc., one of South Korea’s fastest-growing artificial-intelligence startups, selected Mirae Asset Securities Co. as the lead underwirter to arrange a planned initial public offering.",
+      "published": "2026-09-23T07:17:01.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "intel",
+        "ipo",
+        "valuation"
+      ],
+      "category": "business"
+    },
+    {
+      "title": "Meta Muse AI Personal Assistant Gets Off to Fast Start",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-09-23/meta-muse-ai-personal-assistant-gets-off-to-fast-start",
+      "description": "Users and markets have warmly welcomed the introduction",
+      "published": "2026-09-23T11:07:01.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 7,
+      "matchedKeywords": [
+        "meta",
+        "arm"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Coinbase users can now borrow USDC against bitcoin at a fixed rate",
+      "link": "https://www.coindesk.com/markets/2026/09/23/coinbase-users-can-now-borrow-usdc-against-bitcoin-at-a-fixed-rate",
+      "description": "Coinbase now allows users to borrow the USDC stablecoin against their bitcoin at a fixed interest rate and repayment date.",
+      "published": "2026-09-23T07:49:23.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "priority": 3,
+      "image": null,
+      "relevanceScore": 6,
+      "matchedKeywords": [
+        "coinbase",
+        "bitcoin",
+        "stablecoin"
+      ],
+      "category": "crypto"
+    }
+  ],
+  "byCategory": {
+    "chips_cloud": [
+      {
+        "title": "Nvidia-Backed AI Startup Seeks $10 Billion Before Australian IPO",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-23/nvidia-backed-ai-startup-seeks-10-billion-before-australian-ipo",
+        "description": "Australian AI startup Firmus Technologies Pty is in talks with lenders for a roughly $10 billion financing deal to buy Nvidia Corp. chips for its Indonesian data center, potentially making it one of Asia’s largest AI infrastructure deals.",
+        "published": "2026-09-23T07:46:12.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "nvidia",
+          "ipo",
+          "chip",
+          "data center",
+          "billion"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": " AMD begins to add GDDR7 support to its Linux GPU drivers ",
+        "link": "https://www.tomshardware.com/pc-components/gpus/amd-begins-to-add-gddr7-support-to-its-linux-gpu-drivers-changes-could-herald-use-of-advanced-memory-standard-with-next-gen-radeon-gpus",
+        "description": "Recent changes to AMD's Linux drivers to enable GDDR7 memory and other graphics IP blocks could indicate that that enablement work on its RDNA 5 GPUs is under way.",
+        "published": "2026-09-23T11:30:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/scaa6rwixCGmjuHyZndQjS-1920-80.png",
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "amd",
+          "gpu"
+        ],
+        "category": "chips_cloud"
+      }
+    ],
+    "ai": [
+      {
+        "title": "OpenAI’s Sam Altman to Promote AI Standards During UN Speech",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-23/openai-s-sam-altman-to-promote-ai-standards-during-un-speech",
+        "description": "OpenAI’s Sam Altman will pitch the idea of creating global AI standards when he speaks at the United Nations on Wednesday, positioning himself as a centrist on the question of whether to slow down the technology’s progress.",
+        "published": "2026-09-23T10:00:00.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "openai",
+          "sam altman"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Frontier AI keeps racing despite calls to slow down",
+        "link": "https://www.theregister.com/ai-and-ml/2026/09/23/frontier-ai-keeps-racing-despite-calls-to-slow-down/5298448",
+        "description": "Anthropic and OpenAI debut Opus 5.5 and GPT-6 Sol and Luna",
+        "published": "2026-09-23T00:02:47.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=5298454&width=800",
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "openai",
+          "anthropic"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "SoftBank Offers Record Yields on Jumbo Junk Bonds in AI Push",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-23/softbank-starts-jumbo-high-yield-bond-sale-to-finance-ai-push",
+        "description": "Billionaire Masayoshi Son’s SoftBank Group Corp. kicked off what’s set to be one of the largest corporate junk bond sales ever as the Japanese conglomerate offers record yields to entice investors into helping fund its unprecedented investments in artificial intelligence.",
+        "published": "2026-09-23T02:42:10.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "intel",
+          "softbank",
+          "artificial intelligence",
+          "billion"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple Intelligence Taking up 30GB+ on Some Macs Running macOS 27",
+        "link": "https://www.macrumors.com/2026/09/23/apple-intelligence-30gb-some-macs-macos-27/",
+        "description": "After you install macOS 27 Golden Gate, Apple automatically downloads a multi-gigabyte AI model to your Mac the next time it's connected to the internet. Unlike previous versions of macOS, you can't prevent it. Siri AI, and by extension Apple Intelligence, are now a mandatory part of your system.\r\n\r\n\r\nFor macOS 27 Golden Gate, Apple says the latest Apple Intelligence features require up to 14GB of on-device storage on Macs with an M3 chip or later and at least 12GB of unified memory, and up to 8GB of storage for other Apple Intelligence-enabled Macs. But in our experience, AI model storage allocation appears to be considerably higher on some Macs than others.\r\n\r\nMacRumors saw 20.67GB handed over for Apple Intelligence, according to the Storage section in System Settings. ArsTechnica recorded an even higher figure of 22.42GB on an M3 MacBook Air after a fresh installation of macOS 27.0 beta 7. Both of these systems will be using Apple's AFM 3 Core Advanced on-device model, which requires an M3-or-newer Mac with 12GB or more of RAM.\r\n\r\nArsTechnica reported the same screen showed around 14GB on an M1 MacBook Air and a MacBook Neo, and yet both of these models fall into a category for which Apple lists a requirement of up to 8GB.\r\n\r\nshared a screenshot from the macOS 27 Release Candidate showing Apple Intelligence gobbled up 30.16GB on their machine. Another user quoted 24.35GB for Apple Intelligence after installing macOS 27 on a MacBook Pro with M3 Pro chip.\r\n\r\n\r\n  \n\r\n    Device\r\nApple Intelligence storage\r\n\r\n  \n\r\n    iPhone 18 Pro, iPhone 18 Pro Max, iPhone Duo\r\nUp to 14GB \r\n\r\n  \n\r\n    iPhone 17 Pro, iPhone 17 Pro Max, iPhone Air\r\nUp to 14GB\r\n\r\n  \n\r\n    Other compatible iPhones: iPhone 15 Pro and Pro Max, all iPhone 16 models, iPhone 17, and iPhone 17e\r\nUp to 8GB\r\n\r\n  \n\r\n    iPad with M4 or later and at least 12GB of unified memory; Mac with M3 or later and at least 12GB of unified memory; Apple Vision Pro (M5)\r\nUp to 14GB\r\n\r\n  \n\r\n    Other compatible iPad, Mac, and Apple Vision Pro models\r\nUp to 8GB\r\n\r\n  \n\r\n    Compatible Apple Watch models\r\nUp to 1.5GB on the watch\r\n\r\n  \n\r\n    iPhone 15 and 15 Plus, iPhone 14 and earlier, and iPhone SE\r\nNot supported\r\n\r\n\r\n\nFigures taken from Apple's support document\n\r\nApple's support document does not explain whether its \"up to 14GB\" requirement is directly comparable with the Apple Intelligence \"Storage\" category in System Settings, or why some Macs display substantially higher numbers. For what it's worth, we haven't seen the same ballooning figures on iPhones and iPads running iOS 27 and iPadOS 27.\r\n\r\nbecause of AI, the irony of the situation is not lost, but it doesn't make it any less frustrating.\r\n\r\nSystem Settings ➝ General ➝ Storage by clicking the information button beside macOS. Let us know your findings in the comments.\nTag: Apple Intelligence\nThis article, \"Apple Intelligence Taking up 30GB+ on Some Macs Running macOS 27\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-09-23T10:30:15.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2024/09/apple-intelligence-black.jpeg",
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "apple",
+          "intel",
+          "chip"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
+        "description": "Patreon co-founder Sam Yam is joing OpenAI to lead Creator Product. | Image: The Verge\t\n\nOpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the creator subscription platform 13 years ago, co-founder and technology chief Sam Yam announced on X that he's joining OpenAI to lead Creator Product. He's also bringing Patreon's former product head Drew Rowny and engineering head Shannon Ma with him on the new venture, both of whom stepped down in the past few weeks.\n\"We're going to build together with Creators at OpenAI and share early access to a new set of tools that I think will be critically valuable to Creators and their communities,\" Yam said in his announcement. \"Pay attention …\nRead the full story at The Verge.",
+        "published": "2026-09-23T11:02:39.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK326_PATREON_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Meta Muse AI Personal Assistant Gets Off to Fast Start",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-09-23/meta-muse-ai-personal-assistant-gets-off-to-fast-start",
+        "description": "Users and markets have warmly welcomed the introduction",
+        "published": "2026-09-23T11:07:01.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "meta",
+          "arm"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Greece’s Richest Shipping Magnate Rides AI Boom With Nvidia",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-23/greece-s-richest-shipping-magnate-rides-ai-boom-with-nvidia-bet",
+        "description": "Maria Angelicoussis, the magnate behind Greece’s biggest shipping fortune, has scored big gains outside her maritime empire with a bet on technology giant Nvidia Corp. after her family office shifted away from private markets.",
+        "published": "2026-09-23T07:58:30.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "nvidia"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "AI Data Center Debt Offers Investors Huge Yields — and New Risks",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-09-23/ai-data-center-debt-offers-investors-huge-yields-and-new-risks",
+        "description": "SoftBank’s bond sale comes with yields of nearly 10%",
+        "published": "2026-09-23T10:30:01.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "softbank",
+          "data center"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "OECD Says Central Banks Must Be Vigilant to Inflation Risks",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-23/oecd-central-banks-must-be-vigilant-to-inflation-risks-video",
+        "description": "OECD Chief Economist Stefano Scarpetta discusses the outlook for inflation, the impact of artificial intelligence on the global economy and debt markets, and rising bond yields. Speaking on Bloomberg Television, Scarpetta says \"central banks have to remain very vigilant” about the risk of higher prices. “They need to intervene like they have done so far, perhaps more than what they did in 2022,” he adds. (Source: Bloomberg)",
+        "published": "2026-09-23T09:49:20.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "intel",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "‘Brothers,’ starring Matthew McConaughey and Woody Harrelson, premieres on Apple TV",
+        "link": "https://9to5mac.com/2026/09/22/brothers-starring-matthew-mcconaughey-and-woody-harrelson-premieres-on-apple-tv/",
+        "description": "The first two episodes of “Brothers,” Apple TV’s new comedy series starring Woody Harrelson (Natural Born Killers) and Matthew McConaughey (Interstellar), are now available to subscribers. Watch the trailer below.\nmore…",
+        "published": "2026-09-23T01:01:41.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/brothers-matthew-mcconaughey-woody-harrelson-hug.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Eight Sleep’s new cooling hub is small enough to hide under your bed",
+        "link": "https://www.theverge.com/tech/999018/eight-sleep-pod-6-intelligent-sleep-system-sensors-health-tracking",
+        "description": "Eight Sleep announced the next version of its \"intelligent sleep system\" designed to regulate the temperature of your bed in response to tracked health and sleep metrics like breathing and heart rate. The company calls its new Pod 6 system its \"most significant hardware launch to date,\" and it's centered around a redesigned cooling hub that's now small enough to hide beneath most beds. The new system is cheaper than Eight Sleep's Pod 5 that launched in 2025, but is still by no means cheap.\nThe Pod 6 is now available through Eight Sleep's online store. The Standard version ranges in price from $2,699 for a full-size mattress to $2,999 for ki …\nRead the full story at The Verge.",
+        "published": "2026-09-23T11:00:00.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/pod6_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "intel"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Airbus Wins 25-Year Cybersecurity Contract for French Military",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-23/airbus-wins-25-year-cybersecurity-contract-for-french-military",
+        "description": "Airbus SE says it won a 25-year cybersecurity contract from the French Ministry of Armed Forces as the country steps up efforts to defend itself from possible attacks to critical infrastructure.",
+        "published": "2026-09-23T09:35:40.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "arm"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "New Mac Mini Has Two Storage Downsides, Including Unremovable SSD",
+        "link": "https://www.macrumors.com/2026/09/22/new-mac-mini-ssd-cant-be-removed/",
+        "description": "As confirmed by the website \"Expand Mac mini,\" NAND storage in the new Mac mini models with the M6 and M5 Pro chips is soldered to the logic board, whereas the previous models with the M4 and M4 Pro chips have removable storage that can be upgraded.\r\n\r\n\r\nIn other words, the new Mac mini does not support aftermarket storage upgrades.\r\n\r\n\"Expand Mac mini\" offers plug-and-play SSD modules that are functionally equivalent to Apple's proprietary modules, yet hundreds of dollars cheaper. As a result, customers were able to save a significant amount of money by configuring their Mac mini with the minimum 256GB capacity that was available on Apple's online store and later installing a higher-capacity aftermarket module. With the new models, that is no longer possible.\r\n\r\n\"We will keep looking for an opening, but support for the M6 and M5 Pro now looks unlikely,\" the \"Expand Mac mini\" website said, in a blog post.\r\n\r\nMac mini models with the M1 chip and M2/M2 Pro chips also had NAND soldered to the logic board, so the M4/M4 Pro configurations having removable storage has proven to be a one-off exception for now. Apple has not commented on the reversal.\r\n\r\nAAPL Ch.'s testing with Blackmagic's Disk Speed Test benchmark tool.\r\n\r\n\r\n\r\nMac mini Configuration\r\nRead Speed\r\nWrite Speed\r\n\r\n\r\nM6, 512GB\r\n6,371.5 MB/s\r\n6,577.4 MB/s\r\n\r\n\r\nM6, 256GB\r\n3,216.8 MB/s\r\n3,000.2 MB/s\r\n\r\n\r\nM4, 256GB\r\n2,792.5 MB/s\r\n2,014.5 MB/s\r\n\r\n\r\n\r\n\r\nThe new 256GB model's Disk Speed Test scores were roughly half that of models with 512GB of storage or more. The average customer is unlikely to notice the difference, but power users will appreciate knowing that they need to opt for at least 512GB of storage in order to achieve the fastest SSD speeds possible.\r\n\r\nFortunately, even with 256GB of storage, it appears that the new Mac mini has meaningfully faster SSD speeds compared to the previous 256GB model.\r\n\r\nalso had a single NAND chip, so the M4/M4 Pro configurations proved to be a one-off exception for this too.\nRelated Roundup: Mac mini\nBuyer's Guide: Mac Mini (Buy Now)\nRelated Forum: Mac mini\nThis article, \"New Mac Mini Has Two Storage Downsides, Including Unremovable SSD\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-09-23T03:23:19.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/01/mac-mini-blue.jpeg",
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "apple",
+          "chip"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Why security belongs in the network",
+        "link": "https://www.theregister.com/security/2026/09/23/sponsored-why-security-belongs-in-the-network/5296790",
+        "description": "SPONSORED EXPLAINER: Merging security into the network makes enterprise protection more agile",
+        "published": "2026-09-23T08:00:00.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=5296792&width=800",
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "agi"
+        ],
+        "category": "ai"
+      }
+    ],
+    "business": [
+      {
+        "title": "Airtel Money London IPO Favored Due to Deep Capital: CEO",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-23/airtel-money-london-ipo-favored-due-to-deep-capital-ceo-video",
+        "description": "Airtel Money Commerce NV has filed for an initial public offering in London because it has \"deep capital available,\" according to Chief Executive Officer Ian Ferrao. \"There’s a very, very good understanding of emerging markets,\" he tells Bloomberg Television. \"Our parent company, Airtel Africa, has been listed on the London Stock Exchange since 2019. It’s had a very successful run here, and we’re hoping to to replicate that success,\" Ferrao adds. The IPO could be the largest listing the city has seen in five years. (Source: Bloomberg)",
+        "published": "2026-09-23T08:56:02.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "ipo",
+          "ceo"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "AI Startup Wrtn Picks Banks for Korea IPO After Valuation Boost",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-23/ai-startup-wrtn-picks-banks-for-korea-ipo-after-valuation-boost",
+        "description": "Wrtn Technologies Inc., one of South Korea’s fastest-growing artificial-intelligence startups, selected Mirae Asset Securities Co. as the lead underwirter to arrange a planned initial public offering.",
+        "published": "2026-09-23T07:17:01.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "intel",
+          "ipo",
+          "valuation"
+        ],
+        "category": "business"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "Coinbase users can now borrow USDC against bitcoin at a fixed rate",
+        "link": "https://www.coindesk.com/markets/2026/09/23/coinbase-users-can-now-borrow-usdc-against-bitcoin-at-a-fixed-rate",
+        "description": "Coinbase now allows users to borrow the USDC stablecoin against their bitcoin at a fixed interest rate and repayment date.",
+        "published": "2026-09-23T07:49:23.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "coinbase",
+          "bitcoin",
+          "stablecoin"
+        ],
+        "category": "crypto"
+      }
+    ],
+    "ev_autonomous": [
+      {
+        "title": "Soybeans, planes and rare earths: What they say about fragile U.S.-China trade truce",
+        "link": "https://www.cnbc.com/2026/09/23/trump-xi-summit-us-china-trade-rare-earth-soybean-plane.html",
+        "description": "Uneven delivery on soybean, plane and rare earths commitments points to a fragile U.S.-China trade truce, with both sides upholding a careful détente.",
+        "published": "2026-09-23T08:25:41.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "agi"
+        ],
+        "category": "ev_autonomous"
+      }
+    ]
+  },
+  "totalArticles": 25
+}

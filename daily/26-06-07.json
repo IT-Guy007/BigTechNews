@@ -1,0 +1,111 @@
+{
+  "type": "daily",
+  "id": "26-06-07",
+  "title": "Sunday, Jun 7",
+  "dateRange": "June 7, 2026",
+  "date": "2026-06-07",
+  "generatedAt": "2026-06-07T09:44:27.045Z",
+  "highlights": [
+    {
+      "title": "UK to Buy AI Chips From British Tech Firms, Telegraph Reports",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-07/uk-to-buy-ai-chips-from-british-tech-firms-telegraph-reports",
+      "description": "The UK will offer to buy artificial intelligence chips from technology companies in an effort to encourage them to stay in Britain, the Telegraph reported on Sunday.",
+      "published": "2026-06-07T08:58:02.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 5,
+      "matchedKeywords": [
+        "intel",
+        "artificial intelligence",
+        "chip"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "SKorea’s Lee Nominates Tech Guru Han as PM to Lead AI Growth",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-07/lee-nominates-tech-guru-han-as-prime-minister-to-lead-ai-growth",
+      "description": "South Korean President Lee Jae Myung nominated SME and Startup Minister Han Seong-sook as prime minister, betting the tech industry veteran will help the country realize its artificial intelligence ambitions.",
+      "published": "2026-06-07T05:58:50.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "intel",
+        "artificial intelligence"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "UK exam watchdog frets over smart specs turning GCSEs into Google searches",
+      "link": "https://www.theregister.com/personal-tech/2026/06/07/uk-exam-watchdog-frets-over-smart-specs-turning-gcses-into-google-searches/5251365",
+      "description": "Ofqual says smart glasses, hidden earpieces, and AI tools are creating a new generation of cheating headaches",
+      "published": "2026-06-07T08:30:00.000Z",
+      "source": "The Register",
+      "sourceKey": "theregister",
+      "priority": 2,
+      "image": "https://image.theregister.com/?imageId=5251523&width=800",
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "google"
+      ],
+      "category": "ai"
+    }
+  ],
+  "byCategory": {
+    "ai": [
+      {
+        "title": "UK to Buy AI Chips From British Tech Firms, Telegraph Reports",
+        "link": "https://www.bloomberg.com/news/articles/2026-06-07/uk-to-buy-ai-chips-from-british-tech-firms-telegraph-reports",
+        "description": "The UK will offer to buy artificial intelligence chips from technology companies in an effort to encourage them to stay in Britain, the Telegraph reported on Sunday.",
+        "published": "2026-06-07T08:58:02.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "intel",
+          "artificial intelligence",
+          "chip"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "SKorea’s Lee Nominates Tech Guru Han as PM to Lead AI Growth",
+        "link": "https://www.bloomberg.com/news/articles/2026-06-07/lee-nominates-tech-guru-han-as-prime-minister-to-lead-ai-growth",
+        "description": "South Korean President Lee Jae Myung nominated SME and Startup Minister Han Seong-sook as prime minister, betting the tech industry veteran will help the country realize its artificial intelligence ambitions.",
+        "published": "2026-06-07T05:58:50.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "intel",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "UK exam watchdog frets over smart specs turning GCSEs into Google searches",
+        "link": "https://www.theregister.com/personal-tech/2026/06/07/uk-exam-watchdog-frets-over-smart-specs-turning-gcses-into-google-searches/5251365",
+        "description": "Ofqual says smart glasses, hidden earpieces, and AI tools are creating a new generation of cheating headaches",
+        "published": "2026-06-07T08:30:00.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=5251523&width=800",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "ai"
+      }
+    ]
+  },
+  "totalArticles": 3
+}

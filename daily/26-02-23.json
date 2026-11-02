@@ -1,0 +1,83 @@
+{
+  "type": "daily",
+  "id": "26-02-23",
+  "title": "Monday, Feb 23",
+  "dateRange": "February 23, 2026",
+  "date": "2026-02-23",
+  "generatedAt": "2026-02-23T07:36:28.240Z",
+  "highlights": [
+    {
+      "title": "SK Hynix Boss Pledges to Boost Output of AI Memory Chips",
+      "link": "https://www.bloomberg.com/news/articles/2026-02-23/sk-hynix-boss-pledges-to-boost-output-of-ai-memory-chips",
+      "description": "Chairman Chey Tae-won of SK Hynix Inc.’s parent SK Group pledged to grow production of AI memory chips to meet a surge in demand from the global data center buildout.",
+      "published": "2026-02-23T03:40:12.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "chip",
+        "data center",
+        "tpu"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Bitcoin slides 5%,  tumbling below $65,000 as whale selling grows and recent buyers lock in losses",
+      "link": "https://www.coindesk.com/markets/2026/02/23/bitcoin-slides-4-to-usd65-000-as-whale-selling-grows-and-recent-buyers-lock-in-losses",
+      "description": "On-chain data from Glassnode and CryptoQuant shows large holders dominating exchange inflows while short-term investors continue to sell at a loss, pointing to a fragile base-building phase.",
+      "published": "2026-02-23T01:49:11.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "priority": 3,
+      "image": null,
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "agi",
+        "bitcoin"
+      ],
+      "category": "crypto"
+    }
+  ],
+  "byCategory": {
+    "ai": [
+      {
+        "title": "SK Hynix Boss Pledges to Boost Output of AI Memory Chips",
+        "link": "https://www.bloomberg.com/news/articles/2026-02-23/sk-hynix-boss-pledges-to-boost-output-of-ai-memory-chips",
+        "description": "Chairman Chey Tae-won of SK Hynix Inc.’s parent SK Group pledged to grow production of AI memory chips to meet a surge in demand from the global data center buildout.",
+        "published": "2026-02-23T03:40:12.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "chip",
+          "data center",
+          "tpu"
+        ],
+        "category": "ai"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "Bitcoin slides 5%,  tumbling below $65,000 as whale selling grows and recent buyers lock in losses",
+        "link": "https://www.coindesk.com/markets/2026/02/23/bitcoin-slides-4-to-usd65-000-as-whale-selling-grows-and-recent-buyers-lock-in-losses",
+        "description": "On-chain data from Glassnode and CryptoQuant shows large holders dominating exchange inflows while short-term investors continue to sell at a loss, pointing to a fragile base-building phase.",
+        "published": "2026-02-23T01:49:11.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "agi",
+          "bitcoin"
+        ],
+        "category": "crypto"
+      }
+    ]
+  },
+  "totalArticles": 2
+}

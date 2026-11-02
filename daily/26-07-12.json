@@ -1,0 +1,81 @@
+{
+  "type": "daily",
+  "id": "26-07-12",
+  "title": "Sunday, Jul 12",
+  "dateRange": "July 12, 2026",
+  "date": "2026-07-12",
+  "generatedAt": "2026-07-12T08:36:52.070Z",
+  "highlights": [
+    {
+      "title": "Zhipu’s Chinese Founder Says Frontier AI Should Stay Open to All",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-12/zhipu-s-chinese-founder-says-frontier-ai-should-stay-open-to-all",
+      "description": "The founder of Chinese AI lab Zhipu argued that frontier artificial intelligence should remain broadly accessible rather than controlled by select individuals, weighing in on a growing debate about the risks posed by ever more powerful models.",
+      "published": "2026-07-12T06:59:51.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "intel",
+        "artificial intelligence"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Ripple once weighed shutting down and handing XRP to shareholders, CEO says",
+      "link": "https://www.coindesk.com/markets/2026/07/12/ripple-once-weighed-shutting-down-and-handing-xrp-to-shareholders-ceo-says",
+      "description": "Ripple's Brad Garlinghouse says he and co-founder Chris Larsen considered winding the company down and handing its XRP to shareholders before deciding to fight the 2020 lawsuit.",
+      "published": "2026-07-12T06:09:49.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "priority": 3,
+      "image": null,
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "ceo",
+        "lawsuit"
+      ],
+      "category": "chips_cloud"
+    }
+  ],
+  "byCategory": {
+    "ai": [
+      {
+        "title": "Zhipu’s Chinese Founder Says Frontier AI Should Stay Open to All",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-12/zhipu-s-chinese-founder-says-frontier-ai-should-stay-open-to-all",
+        "description": "The founder of Chinese AI lab Zhipu argued that frontier artificial intelligence should remain broadly accessible rather than controlled by select individuals, weighing in on a growing debate about the risks posed by ever more powerful models.",
+        "published": "2026-07-12T06:59:51.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "intel",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      }
+    ],
+    "chips_cloud": [
+      {
+        "title": "Ripple once weighed shutting down and handing XRP to shareholders, CEO says",
+        "link": "https://www.coindesk.com/markets/2026/07/12/ripple-once-weighed-shutting-down-and-handing-xrp-to-shareholders-ceo-says",
+        "description": "Ripple's Brad Garlinghouse says he and co-founder Chris Larsen considered winding the company down and handing its XRP to shareholders before deciding to fight the 2020 lawsuit.",
+        "published": "2026-07-12T06:09:49.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "ceo",
+          "lawsuit"
+        ],
+        "category": "chips_cloud"
+      }
+    ]
+  },
+  "totalArticles": 2
+}

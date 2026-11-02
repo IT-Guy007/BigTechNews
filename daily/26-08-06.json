@@ -1,0 +1,495 @@
+{
+  "type": "daily",
+  "id": "26-08-06",
+  "title": "Thursday, Aug 6",
+  "dateRange": "August 6, 2026",
+  "date": "2026-08-06",
+  "generatedAt": "2026-08-06T09:19:50.803Z",
+  "highlights": [
+    {
+      "title": "Google Shifts AI Leadership to California in Race Against Anthropic, OpenAI",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-06/google-shifts-ai-power-to-california-in-race-against-anthropic-openai",
+      "description": "Alphabet Inc.'s Google is concentrating its artificial intelligence leadership at its Mountain View, California, headquarters to gain momentum in the accelerating race against Anthropic and OpenAI to build the world’s dominant AI models.",
+      "published": "2026-08-06T00:00:39.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 24,
+      "matchedKeywords": [
+        "google",
+        "alphabet",
+        "openai",
+        "anthropic",
+        "intel"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Meta's New Mac Coding Agent Costs Up to 20x Less If You Let Meta Train on Your Data",
+      "link": "https://www.macrumors.com/2026/08/05/meta-muse-code-for-mac/",
+      "description": "Meta today launched Muse Code, a terminal coding agent available for macOS and Linux. Muse Code is in beta, and it is powered by Muse Spark 1.2, ‌Meta‌'s newest model.\r\n\r\n\r\n‌Meta‌ CEO Mark Zuckerberg said Muse Code can accomplish complete software engineering tasks across large repos. It can plan out changes, write code, and validate results using multiple persistent subagents.\r\n\r\nMuse Code is ‌Meta‌'s equivalent of OpenAI's Codex and Anthropic's Claude Code, and it is ‌Meta‌'s first major push into agentic coding.\r\n\r\nThere are several default skills available, such as /plan for turning a task into an approval-gated plan, /grill for stress testing a plan, and /goal for working toward the successful completion of an objective. Muse Code maintains an append-only local event log of every model call, tool run, approval, and edit, so it can resume where it stopped if it crashes.\r\n\r\nMuse Code can be used through the Mac's terminal after a one-command install, and there is no dedicated app available. The model is priced at $1.25 for 1 million input tokens and $4.25 for 1 million output tokens, but ‌Meta‌ is offering a discount for users who give the company permission to use their prompts and completions to train future AI models.\r\n\r\nWith the Contributor tier enabled for ‌Meta‌ model training, Muse Spark 1.2 is priced at $0.10 for 1 million input tokens and $0.20 for 1 million output tokens. The Standard tier costs more and does not let ‌Meta‌ use prompts to train its models. \r\n\r\nTag: Meta\nThis article, \"Meta's New Mac Coding Agent Costs Up to 20x Less If You Let Meta Train on Your Data\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+      "published": "2026-08-06T00:10:28.000Z",
+      "source": "MacRumors",
+      "sourceKey": "macrumors",
+      "priority": 2,
+      "image": "https://images.macrumors.com/article-new/2026/08/muse-code-meta.jpg",
+      "relevanceScore": 23,
+      "matchedKeywords": [
+        "meta",
+        "openai",
+        "anthropic",
+        "claude",
+        "ceo"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "SoftBank gets $8.2 billion boost from Intel as OpenAI takes a backseat",
+      "link": "https://www.cnbc.com/2026/08/06/softbank-q1-earnings-intel-bytedance-stakes.html",
+      "description": "SoftBank on Thursday reported profit for its fiscal first quarter that beat market expectations.",
+      "published": "2026-08-06T09:11:15.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 17,
+      "matchedKeywords": [
+        "openai",
+        "intel",
+        "softbank",
+        "billion"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "OpenAI Asks Judge to Toss Apple’s Trade Secrets Lawsuit",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-06/openai-asks-judge-to-toss-apple-suit-alleging-trade-secret-theft",
+      "description": "OpenAI is asking a federal judge to dismiss a lawsuit filed by Apple Inc. accusing the artificial intelligence company of stealing trade secrets, saying that the iPhone maker’s allegations are meritless.",
+      "published": "2026-08-06T06:07:50.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 16,
+      "matchedKeywords": [
+        "apple",
+        "openai",
+        "intel",
+        "artificial intelligence",
+        "lawsuit"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "SoftBank Profit Beats Expectations",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-06/softbank-profit-beats-expectations-video",
+      "description": "SoftBank Group Corp. reported a smaller-than-expected decline in quarterly net income, helped by a rally in its chip-stock holdings. OpenAI’s Japanese backer is in the spotlight alongside concerns about climbing debt levels that AI service providers are taking on to spend on data centers and other infrastructure. Bloomberg's Neil Campling reports. (Source: Bloomberg)",
+      "published": "2026-08-06T07:09:58.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 12,
+      "matchedKeywords": [
+        "openai",
+        "softbank",
+        "chip",
+        "data center"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "OpenAI's agents reportedly shared exploits with each other through a messaging board",
+      "link": "https://www.engadget.com/2231393/openai-agents-shared-security-exploits-with-each-other-via-message-board/",
+      "description": "OpenAI's employees revealed more about the events that culminated in the company's agents hacking Hugging Face on their own.",
+      "published": "2026-08-06T08:54:05.000Z",
+      "source": "Engadget",
+      "sourceKey": "engadget",
+      "priority": 2,
+      "image": "https://www.engadget.com/img/gallery/openais-agents-reportedly-shared-exploits-with-each-other-through-a-messaging-board/l-intro-1786006297.jpg",
+      "relevanceScore": 10,
+      "matchedKeywords": [
+        "openai",
+        "agi"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Cybersecurity firm Aura CEO on 2Q26 Results",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-06/cybersecurity-firm-aura-ceo-on-2q26-results-video",
+      "description": "Hari Ravinchandran, Founder and CEO of cyber-security platform Aura, discusses his outlook for the company's growth at it reported a 27-percent year-on-year increase in pro forma revenue. He says the firm is on track to generate positive free cash flow this year, following its acquisition of tech firm Qoria and its listing on the Australian Securities Exchange. He speaks with Haidi Stroud-Watts on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
+      "published": "2026-08-06T05:01:28.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "acquisition",
+        "ceo"
+      ],
+      "category": "business"
+    },
+    {
+      "title": "Proxmox ports itself to Arm with help from Nvidia and Supermicro",
+      "link": "https://www.theregister.com/virtualization/2026/08/06/proxmox-ports-itself-to-arm-with-help-from-nvidia-and-supermicro/5283770",
+      "description": "VMware competitor aiming for the AI datacenter",
+      "published": "2026-08-06T03:45:29.000Z",
+      "source": "The Register",
+      "sourceKey": "theregister",
+      "priority": 2,
+      "image": "https://image.theregister.com/?imageId=5283791&width=800",
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "nvidia",
+        "arm"
+      ],
+      "category": "chips_cloud"
+    },
+    {
+      "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
+      "link": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
+      "description": "At the Black Hat security conference, the AI giant revealed new details about how its agents went rogue, hacked several other companies—and did it all right under the company’s nose.",
+      "published": "2026-08-06T00:15:04.000Z",
+      "source": "Wired",
+      "sourceKey": "wired",
+      "priority": 2,
+      "image": null,
+      "relevanceScore": 7,
+      "matchedKeywords": [
+        "openai"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+      "description": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated since April 24th, according to a report from Lawfare. \"As far as we can tell, no entry has changed in more than three months,\" Lawfare said.\nGrokipedia launched in v0.1 in October 2025 with an initial batch of 885,000 articles, and is now on v0.2 (released in November 2025) and has more than 6,000,000 total articles, according to grokipedia.com/live. But that live page also has a section titled \"Recent changes to…\" with a message under it that reads \"No live edits av …\nRead the full story at The Verge.",
+      "published": "2026-08-06T00:25:10.000Z",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "priority": 1,
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK171_VRG_Illo_15_Normand_ElonMusk_15.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "relevanceScore": 6,
+      "matchedKeywords": [
+        "xai",
+        "elon musk"
+      ],
+      "category": "ai"
+    }
+  ],
+  "byCategory": {
+    "ai": [
+      {
+        "title": "Google Shifts AI Leadership to California in Race Against Anthropic, OpenAI",
+        "link": "https://www.bloomberg.com/news/articles/2026-08-06/google-shifts-ai-power-to-california-in-race-against-anthropic-openai",
+        "description": "Alphabet Inc.'s Google is concentrating its artificial intelligence leadership at its Mountain View, California, headquarters to gain momentum in the accelerating race against Anthropic and OpenAI to build the world’s dominant AI models.",
+        "published": "2026-08-06T00:00:39.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 24,
+        "matchedKeywords": [
+          "google",
+          "alphabet",
+          "openai",
+          "anthropic",
+          "intel"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Meta's New Mac Coding Agent Costs Up to 20x Less If You Let Meta Train on Your Data",
+        "link": "https://www.macrumors.com/2026/08/05/meta-muse-code-for-mac/",
+        "description": "Meta today launched Muse Code, a terminal coding agent available for macOS and Linux. Muse Code is in beta, and it is powered by Muse Spark 1.2, ‌Meta‌'s newest model.\r\n\r\n\r\n‌Meta‌ CEO Mark Zuckerberg said Muse Code can accomplish complete software engineering tasks across large repos. It can plan out changes, write code, and validate results using multiple persistent subagents.\r\n\r\nMuse Code is ‌Meta‌'s equivalent of OpenAI's Codex and Anthropic's Claude Code, and it is ‌Meta‌'s first major push into agentic coding.\r\n\r\nThere are several default skills available, such as /plan for turning a task into an approval-gated plan, /grill for stress testing a plan, and /goal for working toward the successful completion of an objective. Muse Code maintains an append-only local event log of every model call, tool run, approval, and edit, so it can resume where it stopped if it crashes.\r\n\r\nMuse Code can be used through the Mac's terminal after a one-command install, and there is no dedicated app available. The model is priced at $1.25 for 1 million input tokens and $4.25 for 1 million output tokens, but ‌Meta‌ is offering a discount for users who give the company permission to use their prompts and completions to train future AI models.\r\n\r\nWith the Contributor tier enabled for ‌Meta‌ model training, Muse Spark 1.2 is priced at $0.10 for 1 million input tokens and $0.20 for 1 million output tokens. The Standard tier costs more and does not let ‌Meta‌ use prompts to train its models. \r\n\r\nTag: Meta\nThis article, \"Meta's New Mac Coding Agent Costs Up to 20x Less If You Let Meta Train on Your Data\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+        "published": "2026-08-06T00:10:28.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/08/muse-code-meta.jpg",
+        "relevanceScore": 23,
+        "matchedKeywords": [
+          "meta",
+          "openai",
+          "anthropic",
+          "claude",
+          "ceo"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "SoftBank gets $8.2 billion boost from Intel as OpenAI takes a backseat",
+        "link": "https://www.cnbc.com/2026/08/06/softbank-q1-earnings-intel-bytedance-stakes.html",
+        "description": "SoftBank on Thursday reported profit for its fiscal first quarter that beat market expectations.",
+        "published": "2026-08-06T09:11:15.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 17,
+        "matchedKeywords": [
+          "openai",
+          "intel",
+          "softbank",
+          "billion"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "OpenAI Asks Judge to Toss Apple’s Trade Secrets Lawsuit",
+        "link": "https://www.bloomberg.com/news/articles/2026-08-06/openai-asks-judge-to-toss-apple-suit-alleging-trade-secret-theft",
+        "description": "OpenAI is asking a federal judge to dismiss a lawsuit filed by Apple Inc. accusing the artificial intelligence company of stealing trade secrets, saying that the iPhone maker’s allegations are meritless.",
+        "published": "2026-08-06T06:07:50.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 16,
+        "matchedKeywords": [
+          "apple",
+          "openai",
+          "intel",
+          "artificial intelligence",
+          "lawsuit"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "SoftBank Profit Beats Expectations",
+        "link": "https://www.bloomberg.com/news/videos/2026-08-06/softbank-profit-beats-expectations-video",
+        "description": "SoftBank Group Corp. reported a smaller-than-expected decline in quarterly net income, helped by a rally in its chip-stock holdings. OpenAI’s Japanese backer is in the spotlight alongside concerns about climbing debt levels that AI service providers are taking on to spend on data centers and other infrastructure. Bloomberg's Neil Campling reports. (Source: Bloomberg)",
+        "published": "2026-08-06T07:09:58.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "openai",
+          "softbank",
+          "chip",
+          "data center"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "OpenAI's agents reportedly shared exploits with each other through a messaging board",
+        "link": "https://www.engadget.com/2231393/openai-agents-shared-security-exploits-with-each-other-via-message-board/",
+        "description": "OpenAI's employees revealed more about the events that culminated in the company's agents hacking Hugging Face on their own.",
+        "published": "2026-08-06T08:54:05.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/openais-agents-reportedly-shared-exploits-with-each-other-through-a-messaging-board/l-intro-1786006297.jpg",
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "openai",
+          "agi"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
+        "link": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
+        "description": "At the Black Hat security conference, the AI giant revealed new details about how its agents went rogue, hacked several other companies—and did it all right under the company’s nose.",
+        "published": "2026-08-06T00:15:04.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": null,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+        "description": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated since April 24th, according to a report from Lawfare. \"As far as we can tell, no entry has changed in more than three months,\" Lawfare said.\nGrokipedia launched in v0.1 in October 2025 with an initial batch of 885,000 articles, and is now on v0.2 (released in November 2025) and has more than 6,000,000 total articles, according to grokipedia.com/live. But that live page also has a section titled \"Recent changes to…\" with a message under it that reads \"No live edits av …\nRead the full story at The Verge.",
+        "published": "2026-08-06T00:25:10.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK171_VRG_Illo_15_Normand_ElonMusk_15.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "xai",
+          "elon musk"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Bitcoin steadies above $64,000 as traders watch $100 billion SpaceX unlock",
+        "link": "https://www.coindesk.com/markets/2026/08/06/bitcoin-steadies-above-usd64-000-as-traders-watch-usd100-billion-spacex-unlock",
+        "description": "Korea's Kospi fell 4.4% as the AI trade wobbled, and $101 billion of SpaceX stock becomes tradable Thursday.",
+        "published": "2026-08-06T04:59:11.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "spacex",
+          "billion",
+          "bitcoin"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Google is expanding its AI empire — and losing the people who built it",
+        "link": "https://www.cnbc.com/2026/08/05/google-is-expanding-its-ai-empire-and-losing-the-people-who-built-it.html",
+        "description": "Google’s cloud boom is testing the company's commitment to frontier AI as commercial returns take priority.",
+        "published": "2026-08-06T06:06:18.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Abode launches new Apple Home-compatible sensors for garages, gates, more",
+        "link": "https://9to5mac.com/2026/08/05/abode-launches-new-apple-home-compatible-sensors-for-garages-gates-more/",
+        "description": "DIY smart home security company Abode expanded its Apple Home-compatible lineup today with two new sensors designed to monitor garage doors, gates, sheds, and other entry points. Here are the details.",
+        "published": "2026-08-06T00:26:32.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/abode-sensors.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Bitcoin developers flag 85 critical bugs in an \"extremely bad\" situation",
+        "link": "https://www.coindesk.com/tech/2026/08/06/bitcoin-developers-flag-85-critical-bugs-in-an-extremely-bad-situation",
+        "description": "A volunteer group running AI models against bitcoin codebases says it is averaging roughly one critical bug per hour per person, at about $10,000 a day in compute.",
+        "published": "2026-08-06T07:14:11.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "agi",
+          "bitcoin"
+        ],
+        "category": "ai"
+      }
+    ],
+    "business": [
+      {
+        "title": "Cybersecurity firm Aura CEO on 2Q26 Results",
+        "link": "https://www.bloomberg.com/news/videos/2026-08-06/cybersecurity-firm-aura-ceo-on-2q26-results-video",
+        "description": "Hari Ravinchandran, Founder and CEO of cyber-security platform Aura, discusses his outlook for the company's growth at it reported a 27-percent year-on-year increase in pro forma revenue. He says the firm is on track to generate positive free cash flow this year, following its acquisition of tech firm Qoria and its listing on the Australian Securities Exchange. He speaks with Haidi Stroud-Watts on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
+        "published": "2026-08-06T05:01:28.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "acquisition",
+          "ceo"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Siemens Is Winning Customers in China, CEO Says",
+        "link": "https://www.bloomberg.com/news/videos/2026-08-06/siemens-is-winning-customers-in-china-ceo-says-video",
+        "description": "Siemens Chief Executive Officer Roland Busch says the company is \"very competitive\" in China, where the automation business is doing \"very well.\" He also comments on the data center business. Busch speaks on Bloomberg Television after Siemens raised its earnings expectations for a second time this year due to a surge in data center spending and higher returns from selling software to industry. (Source: Bloomberg)",
+        "published": "2026-08-06T05:55:50.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "ceo",
+          "data center",
+          "automation"
+        ],
+        "category": "business"
+      }
+    ],
+    "chips_cloud": [
+      {
+        "title": "Proxmox ports itself to Arm with help from Nvidia and Supermicro",
+        "link": "https://www.theregister.com/virtualization/2026/08/06/proxmox-ports-itself-to-arm-with-help-from-nvidia-and-supermicro/5283770",
+        "description": "VMware competitor aiming for the AI datacenter",
+        "published": "2026-08-06T03:45:29.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=5283791&width=800",
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "nvidia",
+          "arm"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Chinese Renewable Energy Giant Envision Launches Data Center",
+        "link": "https://www.bloomberg.com/news/articles/2026-08-06/chinese-renewable-energy-giant-envision-launches-data-center",
+        "description": "Envision Group has commissioned the initial phase of a gigawatt-scale data center in China’s Inner Mongolia, an unusual foray by a renewable energy company into the booming artificial intelligence industry.",
+        "published": "2026-08-06T01:46:49.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "intel",
+          "artificial intelligence",
+          "data center"
+        ],
+        "category": "chips_cloud"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "Live updates: Coinbase lets U.K. users trade U.S. equities. BTC trades near $65,000",
+        "link": "https://www.coindesk.com/tech/2026/08/06/live-updates-bitcoin-nears-usd65-000-as-oil-inflation-hopes-keep-macro-bid-alive",
+        "description": "Trump’s comments on jobs, inflation and a possible Strait of Hormuz deal have helped risk sentiment, but bitcoin’s next move depends on whether lower oil actually pulls Treasury yields and the dollar down.",
+        "published": "2026-08-06T07:26:23.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "coinbase",
+          "bitcoin"
+        ],
+        "category": "crypto"
+      }
+    ],
+    "ev_autonomous": [
+      {
+        "title": "Apple's Private Relay feature could reveal your IP address to websites and services",
+        "link": "https://www.engadget.com/2231360/apple-private-relay-feature-could-reveal-your-ip-address/",
+        "description": "Security researchers found an issue with Apple's WebKit browser engine that affects Private Relay.",
+        "published": "2026-08-06T06:06:34.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/apples-private-relay-feature-could-reveal-your-ip-address-to-websites-and-services/l-intro-1785996262.jpg",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ev_autonomous"
+      }
+    ]
+  },
+  "totalArticles": 20
+}

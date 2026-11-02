@@ -1,0 +1,143 @@
+{
+  "type": "daily",
+  "id": "26-05-02",
+  "title": "Saturday, May 2",
+  "dateRange": "May 2, 2026",
+  "date": "2026-05-02",
+  "generatedAt": "2026-05-02T08:05:06.069Z",
+  "highlights": [
+    {
+      "title": "Musk’s Trial Against OpenAI Hits Some Rough Spots in First Week",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-02/musk-s-trial-against-openai-hits-some-rough-spots-in-first-week",
+      "description": "Elon Musk set out to tell a jury that his falling out with OpenAI was a simple tale of betrayal.",
+      "published": "2026-05-02T00:24:04.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 11,
+      "matchedKeywords": [
+        "openai",
+        "elon musk"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Uber wants to turn its millions of drivers into a sensor grid for self-driving companies",
+      "link": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
+      "description": "Praveen Neppalli Naga, Uber's chief technology officer, revealed the plan in an interview at TechCrunch's StrictlyVC event in San Francisco on Thursday night, describing it as a natural extension of a nascent program the company announced in late January called AV Labs.",
+      "published": "2026-05-02T06:36:28.000Z",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 6,
+      "matchedKeywords": [
+        "uber",
+        "self-driving"
+      ],
+      "category": "ev_autonomous"
+    },
+    {
+      "title": "Tesla launches Model 3 RWD in Canada at record-low $39,490 ($29,000 USD) from China",
+      "link": "https://electrek.co/2026/05/01/tesla-model-3-rwd-premium-canada-record-low-price-giga-shanghai/",
+      "description": "Tesla has launched a new Model 3 Premium RWD trim in Canada starting at just $39,490 CAD — a record-low price for the electric sedan in the country. The price, which converts to roughly $29,000 USD, is made possible by sourcing the vehicle from Giga Shanghai instead of Fremont, California.\nThe move marks the first time Tesla is selling China-made vehicles in Canada since the country imposed a 100% tariff on Chinese EVs back in 2024 — and it creates a massive price gap with the Model 3 Performance.\nmore…",
+      "published": "2026-05-02T03:06:10.000Z",
+      "source": "Electrek",
+      "sourceKey": "electrek",
+      "priority": 2,
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-Model-3.jpeg?quality=82&#038;strip=all&#038;w=1400",
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "tesla"
+      ],
+      "category": "ev_autonomous"
+    },
+    {
+      "title": "New Bitcoin quantum proposal offers Satoshi Nakamoto a way to prove control without moving BTC",
+      "link": "https://www.coindesk.com/tech/2026/05/02/new-bitcoin-quantum-proposal-offers-satoshi-nakamoto-a-way-to-prove-control-without-moving-btc",
+      "description": "A new design proposed by venture fund Paradigm would let holders privately timestamp proof that they control vulnerable keys before quantum computers arrive, creating a possible rescue path if Bitcoin ever sunsets old addresses.",
+      "published": "2026-05-02T06:24:06.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "priority": 3,
+      "image": null,
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "quantum",
+        "bitcoin"
+      ],
+      "category": "ev_autonomous"
+    }
+  ],
+  "byCategory": {
+    "ai": [
+      {
+        "title": "Musk’s Trial Against OpenAI Hits Some Rough Spots in First Week",
+        "link": "https://www.bloomberg.com/news/articles/2026-05-02/musk-s-trial-against-openai-hits-some-rough-spots-in-first-week",
+        "description": "Elon Musk set out to tell a jury that his falling out with OpenAI was a simple tale of betrayal.",
+        "published": "2026-05-02T00:24:04.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "openai",
+          "elon musk"
+        ],
+        "category": "ai"
+      }
+    ],
+    "ev_autonomous": [
+      {
+        "title": "Uber wants to turn its millions of drivers into a sensor grid for self-driving companies",
+        "link": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
+        "description": "Praveen Neppalli Naga, Uber's chief technology officer, revealed the plan in an interview at TechCrunch's StrictlyVC event in San Francisco on Thursday night, describing it as a natural extension of a nascent program the company announced in late January called AV Labs.",
+        "published": "2026-05-02T06:36:28.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "uber",
+          "self-driving"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Tesla launches Model 3 RWD in Canada at record-low $39,490 ($29,000 USD) from China",
+        "link": "https://electrek.co/2026/05/01/tesla-model-3-rwd-premium-canada-record-low-price-giga-shanghai/",
+        "description": "Tesla has launched a new Model 3 Premium RWD trim in Canada starting at just $39,490 CAD — a record-low price for the electric sedan in the country. The price, which converts to roughly $29,000 USD, is made possible by sourcing the vehicle from Giga Shanghai instead of Fremont, California.\nThe move marks the first time Tesla is selling China-made vehicles in Canada since the country imposed a 100% tariff on Chinese EVs back in 2024 — and it creates a massive price gap with the Model 3 Performance.\nmore…",
+        "published": "2026-05-02T03:06:10.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-Model-3.jpeg?quality=82&#038;strip=all&#038;w=1400",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "tesla"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "New Bitcoin quantum proposal offers Satoshi Nakamoto a way to prove control without moving BTC",
+        "link": "https://www.coindesk.com/tech/2026/05/02/new-bitcoin-quantum-proposal-offers-satoshi-nakamoto-a-way-to-prove-control-without-moving-btc",
+        "description": "A new design proposed by venture fund Paradigm would let holders privately timestamp proof that they control vulnerable keys before quantum computers arrive, creating a possible rescue path if Bitcoin ever sunsets old addresses.",
+        "published": "2026-05-02T06:24:06.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "quantum",
+          "bitcoin"
+        ],
+        "category": "ev_autonomous"
+      }
+    ]
+  },
+  "totalArticles": 4
+}

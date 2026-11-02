@@ -1,0 +1,398 @@
+{
+  "type": "daily",
+  "id": "26-10-10",
+  "title": "Saturday, Oct 10",
+  "dateRange": "October 10, 2026",
+  "date": "2026-10-10",
+  "generatedAt": "2026-10-10T12:49:39.366Z",
+  "highlights": [
+    {
+      "title": "Anthropic AI Model Went Rogue, Submitted Fake Tip to Police",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-10/anthropic-shares-new-ai-misbehavior-some-on-government-sites",
+      "description": "Anthropic PBC said its Claude AI model carried out additional unintended actions on the digital systems of outside organizations, including submitting a false tip in a police homicide case, prompting a warning from the Trump administration for artificial intelligence companies to secure their systems.",
+      "published": "2026-10-10T00:08:39.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 14,
+      "matchedKeywords": [
+        "anthropic",
+        "intel",
+        "claude",
+        "artificial intelligence"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "description": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "published": "2026-10-10T00:18:32.000Z",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "anthropic",
+        "valuation"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "The techlash has gone Hollywood",
+      "link": "https://www.theverge.com/tech/1008836/social-reckoning-cupertino-techlash-installer",
+      "description": "Hi, friends! Welcome to Installer No. 147, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I missed you all, and also you can read all the old editions at the Installer homepage.) \nI'm back from parental leave! Part time, anyway. Thanks to everyone who sent well wishes and tips for managing three kids. I need 'em all. This week, I've been reading about McMansions and data centers and sports cards and ICANN, trying to run my life on the Dell XPS Googlebook, testing a new and very purple Kindle, reinventing my whole note-taking system now that Google Docs can handle Markdown files, listening to episode  …\nRead the full story at The Verge.",
+      "published": "2026-10-10T12:00:00.000Z",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "priority": 1,
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Installer-147.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "relevanceScore": 7,
+      "matchedKeywords": [
+        "google",
+        "agi",
+        "data center"
+      ],
+      "category": "chips_cloud"
+    },
+    {
+      "title": "Tesla’s next big clean energy source is rising in the Arizona desert",
+      "link": "https://electrek.co/2026/10/09/teslas-next-big-clean-energy-source-is-rising-in-the-arizona-desert/",
+      "description": "A 450-megawatt (MW) solar farm with a massive battery system is now under construction in Arizona – and Tesla has already lined up about 90% of its expected electricity output.\nmore…",
+      "published": "2026-10-10T00:05:22.000Z",
+      "source": "Electrek",
+      "sourceKey": "electrek",
+      "priority": 2,
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/CG-Project-Sterling.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "relevanceScore": 7,
+      "matchedKeywords": [
+        "tesla",
+        "arm",
+        "tpu"
+      ],
+      "category": "ev_autonomous"
+    },
+    {
+      "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+      "link": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+      "description": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
+      "published": "2026-10-10T03:10:06.000Z",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 6,
+      "matchedKeywords": [
+        "elon musk",
+        "starlink",
+        "billion"
+      ],
+      "category": "space"
+    },
+    {
+      "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
+      "link": "https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html",
+      "description": "One industry researcher identified over 300 neoclouds that can provide GPU capacity, up about 55% in less than a year.",
+      "published": "2026-10-10T11:00:01.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 6,
+      "matchedKeywords": [
+        "nvidia",
+        "gpu"
+      ],
+      "category": "chips_cloud"
+    },
+    {
+      "title": " Nvidia reportedly halts GeForce RTX 5090 production in favor of AI data center and professional GPUs  ",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-halts-geforce-rtx-5090-production-in-favor-of-ai-data-center-and-professional-gpus-impending-supply-drought-expected-to-drive-up-prices-rtx-5080-24gb-rumored-as-new-gaming-flagship",
+      "description": "Nvidia reportedly discontinues GeForce RTX 5090-series products leaving GB202 for data center and professional graphics boards. GeForce RTX 5080 24 GB rumored to become de-facto flagship from the green camp for a while.",
+      "published": "2026-10-10T12:20:00.000Z",
+      "source": "Tom's Hardware",
+      "sourceKey": "tomshardware",
+      "priority": 2,
+      "image": "https://cdn.mos.cms.futurecdn.net/tuvwapMiv2JLeJKiQ3PiWK-1920-80.jpg",
+      "relevanceScore": 6,
+      "matchedKeywords": [
+        "nvidia",
+        "gpu",
+        "data center"
+      ],
+      "category": "chips_cloud"
+    },
+    {
+      "title": "Tesla's Full Self-Driving is now called Assisted Driving in Europe",
+      "link": "https://www.engadget.com/2283007/tesla-full-self-driving-assisted-driving-europe/",
+      "description": "Tesla has renamed Full Self-Driving in Europe, as it seeks to get it approved in more countries.",
+      "published": "2026-10-10T11:12:55.000Z",
+      "source": "Engadget",
+      "sourceKey": "engadget",
+      "priority": 2,
+      "image": "https://www.engadget.com/img/gallery/tesla-full-self-driving-assisted-driving-europe/l-intro-1791630810.jpg",
+      "relevanceScore": 5,
+      "matchedKeywords": [
+        "tesla",
+        "self-driving"
+      ],
+      "category": "ev_autonomous"
+    },
+    {
+      "title": "Turkey Bans Social Media Accounts for Children Under 15",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-10/turkey-bans-social-media-accounts-for-children-under-15",
+      "description": "Turkey has barred social media platforms from providing services to children under the age of 15, according to a regulation published in the Official Gazette.",
+      "published": "2026-10-10T08:24:17.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 5,
+      "matchedKeywords": [
+        "regulation"
+      ],
+      "category": "regulation"
+    },
+    {
+      "title": "Free Gemini users now on ‘Auto’ models as app adds thinking levels",
+      "link": "https://9to5google.com/2026/10/09/gemini-auto-free-users/",
+      "description": "As announced last week, Google is rolling out a big change to the Gemini app experience for users on the free plan. Additionally, everyone is getting access to thinking or “effort” levels.\nmore…",
+      "published": "2026-10-10T01:24:00.000Z",
+      "source": "9to5Google",
+      "sourceKey": "9to5google",
+      "priority": 2,
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Gemini-app-on-Pixel-11-Pro.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "relevanceScore": 5,
+      "matchedKeywords": [
+        "google",
+        "gemini"
+      ],
+      "category": "ai"
+    }
+  ],
+  "byCategory": {
+    "ai": [
+      {
+        "title": "Anthropic AI Model Went Rogue, Submitted Fake Tip to Police",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-10/anthropic-shares-new-ai-misbehavior-some-on-government-sites",
+        "description": "Anthropic PBC said its Claude AI model carried out additional unintended actions on the digital systems of outside organizations, including submitting a false tip in a police homicide case, prompting a warning from the Trump administration for artificial intelligence companies to secure their systems.",
+        "published": "2026-10-10T00:08:39.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 14,
+        "matchedKeywords": [
+          "anthropic",
+          "intel",
+          "claude",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+        "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+        "description": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+        "published": "2026-10-10T00:18:32.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "anthropic",
+          "valuation"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Free Gemini users now on ‘Auto’ models as app adds thinking levels",
+        "link": "https://9to5google.com/2026/10/09/gemini-auto-free-users/",
+        "description": "As announced last week, Google is rolling out a big change to the Gemini app experience for users on the free plan. Additionally, everyone is getting access to thinking or “effort” levels.\nmore…",
+        "published": "2026-10-10T01:24:00.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Gemini-app-on-Pixel-11-Pro.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "google",
+          "gemini"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Microsoft leans on open weight model from Chinese AI lab to challenge Jev",
+        "link": "https://www.theregister.com/ai-and-ml/2026/10/10/microsoft-leans-on-open-weight-model-from-chinese-ai-lab-to-challenge-jev/5302473",
+        "description": "The first version of Microsoft-Decision-1 is based on Qwen3.5-9B, but the next will sport homegrown tech, Redmond reassures",
+        "published": "2026-10-10T07:10:00.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=5302477&width=800",
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "microsoft"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": " World’s first 3D-printed remote control aircraft with a jet turbine takes flight, aims for Mach 0.8 to beat world record for fastest model aircraft ",
+        "link": "https://www.tomshardware.com/3d-printing/worlds-first-3d-printed-remote-control-aircraft-with-a-jet-turbine-takes-flight-aims-for-mach-0-8-to-beat-world-record-for-fastest-model-aircraft-mostly-printed-using-standard-petg-materials",
+        "description": "Team of graduates attempts to beat Guiness World Record for fastest jet-powered model aircraft using PETG and clever engineering.",
+        "published": "2026-10-10T10:00:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/XUZw7v4CN5TtbSu6u8baNH-1920-80.png",
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "world record"
+        ],
+        "category": "ai"
+      }
+    ],
+    "chips_cloud": [
+      {
+        "title": "The techlash has gone Hollywood",
+        "link": "https://www.theverge.com/tech/1008836/social-reckoning-cupertino-techlash-installer",
+        "description": "Hi, friends! Welcome to Installer No. 147, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I missed you all, and also you can read all the old editions at the Installer homepage.) \nI'm back from parental leave! Part time, anyway. Thanks to everyone who sent well wishes and tips for managing three kids. I need 'em all. This week, I've been reading about McMansions and data centers and sports cards and ICANN, trying to run my life on the Dell XPS Googlebook, testing a new and very purple Kindle, reinventing my whole note-taking system now that Google Docs can handle Markdown files, listening to episode  …\nRead the full story at The Verge.",
+        "published": "2026-10-10T12:00:00.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Installer-147.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "google",
+          "agi",
+          "data center"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
+        "link": "https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html",
+        "description": "One industry researcher identified over 300 neoclouds that can provide GPU capacity, up about 55% in less than a year.",
+        "published": "2026-10-10T11:00:01.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "nvidia",
+          "gpu"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": " Nvidia reportedly halts GeForce RTX 5090 production in favor of AI data center and professional GPUs  ",
+        "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-halts-geforce-rtx-5090-production-in-favor-of-ai-data-center-and-professional-gpus-impending-supply-drought-expected-to-drive-up-prices-rtx-5080-24gb-rumored-as-new-gaming-flagship",
+        "description": "Nvidia reportedly discontinues GeForce RTX 5090-series products leaving GB202 for data center and professional graphics boards. GeForce RTX 5080 24 GB rumored to become de-facto flagship from the green camp for a while.",
+        "published": "2026-10-10T12:20:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/tuvwapMiv2JLeJKiQ3PiWK-1920-80.jpg",
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "nvidia",
+          "gpu",
+          "data center"
+        ],
+        "category": "chips_cloud"
+      }
+    ],
+    "ev_autonomous": [
+      {
+        "title": "Tesla’s next big clean energy source is rising in the Arizona desert",
+        "link": "https://electrek.co/2026/10/09/teslas-next-big-clean-energy-source-is-rising-in-the-arizona-desert/",
+        "description": "A 450-megawatt (MW) solar farm with a massive battery system is now under construction in Arizona – and Tesla has already lined up about 90% of its expected electricity output.\nmore…",
+        "published": "2026-10-10T00:05:22.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/CG-Project-Sterling.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "tesla",
+          "arm",
+          "tpu"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Tesla's Full Self-Driving is now called Assisted Driving in Europe",
+        "link": "https://www.engadget.com/2283007/tesla-full-self-driving-assisted-driving-europe/",
+        "description": "Tesla has renamed Full Self-Driving in Europe, as it seeks to get it approved in more countries.",
+        "published": "2026-10-10T11:12:55.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/tesla-full-self-driving-assisted-driving-europe/l-intro-1791630810.jpg",
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "tesla",
+          "self-driving"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "The Telo MT1 is a big truck trapped in a tiny truck’s body",
+        "link": "https://www.theverge.com/transportation/1005502/telo-mt1-review-ev-tiny-truck",
+        "description": "I'm bouncing down the road in San Carlos, California, zipping past behemoth tech companies like EA and Oracle, in America's smallest electric truck.\nThe Telo MT1 (which stands for \"mini truck\") unquestionably turns heads because it looks so remarkably different from everything else on the market right now. \nIt has a nearly cab-over design, meaning that front-seat passengers sit almost directly over the front axle. It looks a lot like a Japanese kei truck, with a super-short nose and four doors. People stop to stare as we sit at stoplights or roll silently past.\nThe interior is surprisingly spacious, and while the seats are firm, they're n …\nRead the full story at The Verge.",
+        "published": "2026-10-10T11:00:00.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/telo_lifestyle_07.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "oracle"
+        ],
+        "category": "ev_autonomous"
+      }
+    ],
+    "space": [
+      {
+        "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+        "link": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+        "description": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
+        "published": "2026-10-10T03:10:06.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "elon musk",
+          "starlink",
+          "billion"
+        ],
+        "category": "space"
+      }
+    ],
+    "regulation": [
+      {
+        "title": "Turkey Bans Social Media Accounts for Children Under 15",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-10/turkey-bans-social-media-accounts-for-children-under-15",
+        "description": "Turkey has barred social media platforms from providing services to children under the age of 15, according to a regulation published in the Official Gazette.",
+        "published": "2026-10-10T08:24:17.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "regulation"
+        ],
+        "category": "regulation"
+      }
+    ]
+  },
+  "totalArticles": 13
+}

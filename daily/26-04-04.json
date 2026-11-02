@@ -1,0 +1,151 @@
+{
+  "type": "daily",
+  "id": "26-04-04",
+  "title": "Saturday, Apr 4",
+  "dateRange": "April 4, 2026",
+  "date": "2026-04-04",
+  "generatedAt": "2026-04-04T07:32:23.633Z",
+  "highlights": [
+    {
+      "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
+      "link": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+      "description": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's looming IPO poised to reshape the landscape for everyone.",
+      "published": "2026-04-04T01:31:00.000Z",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "priority": 1,
+      "image": null,
+      "relevanceScore": 21,
+      "matchedKeywords": [
+        "openai",
+        "anthropic",
+        "spacex",
+        "ipo"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Anthropic cuts off the ability to use Claude subscriptions with OpenClaw and third-party AI agents",
+      "link": "https://venturebeat.com/technology/anthropic-cuts-off-the-ability-to-use-claude-subscriptions-with-openclaw-and",
+      "description": "Are you a subscriber to Anthropic's Claude Pro ($20 monthly) or Max ($100-$200 monthly) plans and use its Claude AI models and products to power third-party AI agents like OpenClaw? If so, you're in for an unpleasant surprise. \nAnthropic announced a few hours ago that starting tomorrow, Saturday, April 4, 2026, at 12 pm PT/3 pm ET, it will no longer be possible for those Claude subscribers to use their subscriptions to hook Anthropic's Claude models up to third-party agentic tools, citing the strain such usage was placing on Anthropic's compute and engineering resources, and desire to serve a wide number of users reliably. \n\"We’ve been working hard to meet the increase in demand for Claude, and our subscriptions weren't built for the usage patterns of these third-party tools,\" wrote Boris Cherny, Head of Claude Code at Anthropic, in a post on X. \"Capacity is a resource we manage thoughtfully and we are prioritizing our customers using our products and API.\"\nThe company also reportedly sent out an email to this effect to some subscribers. However, it's not certain if subscribers to Claude Team and Enterprise will be impacted similarly. We've reached out to Anthropic for further clarification and will update when we hear back.\nTo be clear, it will still be possible to use Claude models like Opus, Sonnet, and Haiku to power OpenClaw and similar external agents, but users will now need to opt into a pay-as-you-go \"extra usage\" billing system or utilize Anthropic's application programming interface (API), which charges for every token of usage rather than allowing for open-ended usage up to certain limits, as the Pro and Max plans have allowed so far. \nThe reason for the change: 'third party services are not optimized' \nThe technical reality, according to Anthropic, is that its first-party tools like Claude Code, its AI vibe coding harness, and Claude Cowork, its business app interfacing and control tool, are built to maximize \"prompt cache hit rates\"—reusing previously processed text to save on compute. \nThird-party harnesses like OpenClaw often bypass these efficiencies. “Third party services are not optimized in this way, so it's really hard for us to do sustainably,” Cherny explained further on X. \nHe even revealed his own hands-on attempts to bridge the gap: “I did put up a few PRs to improve prompt cache hit rate for OpenClaw in particular, which should help for folks using it with Claude via API/overages.”\nPrior to the news, Anthropic had also begun imposing stricter Claude session limits every 5 hours of usage during business hours (5am-11am PT/8am-2pm ET), meaning that the number of tokens you could send during those sessions dropped.\nThis frustrated some power users who suddenly began reaching their limits far faster than they had previously — a change Anthropic said was to help \"manage growing demand for Claude\" and would only affect up to 7% of users at any given time. \nDiscounts and credits to soften the blow\nAnthropic is not banning third-party tools entirely, but it is moving them to a different ledger. The new \"Extra Usage\" bundles represent a middle ground between a flat-rate subscription and a full enterprise API account.\n\nThe Credit: To \"soften the blow,\" Anthropic is offering existing subscribers a one-time credit equal to their monthly plan price, redeemable until April 17.\n\nThe Discount: Users who pre-purchase \"extra usage\" bundles can receive up to a 30% discount, an attempt to retain power users who might otherwise churn.\n\nCapacity Management: Anthropic’s official statement noted that these tools put an \"outsized strain\" on systems, forcing a prioritization of \"customers using our core products and API.\"\n\n'The all you-can-eat buffet just closed'\nThe response from the developer community has been a mixture of analytical acceptance and sharp frustration.\nGrowth marketer Aakash Gupta observed on X that the \"all-you-can-eat buffet just closed,\" noting that a single OpenClaw agent running for one day could burn $1,000 to $5,000 in API costs. “Anthropic was eating that difference on every user who routed through a third-party harness,” Gupta wrote. “That's the pace of a company watching its margin evaporate in real time.”\nHowever, Peter Steinberger, the creator of OpenClaw who was recently hired by OpenAI, took a more skeptical view of the \"capacity\" argument.“Funny how timings match up,” Steinberger posted on X. “First they copy some popular features into their closed harness, then they lock out open source.” \nIndeed, Anthropic recently added some of the same capabilities that helped OpenClaw catch-on — such as the ability to message agents through external services like Discord and Telegram — to Claude Code. \nSteinberger claimed that he and fellow investor Dave Morin attempted to \"talk sense\" into Anthropic, but were only able to delay the enforcement by a single week.\nUser @ashen_one, founder of Telaga Charity, voiced a concern likely shared by other small-scale builders: “If I switch both [OpenClaw instances] to an API key or the extra usage you're recommending here, it's going to be far too expensive to make it worth using. I'll probably have to switch over to a different model at this point.”\n.“I know it sucks,” Cherny replied. “Fundamentally engineering is about tradeoffs, and one of the things we do to serve a lot of customers is optimize the way subscriptions work to serve as many people as possible with the best mode\nLicensing and the OpenAI shadow\nThe timing of the crackdown is particularly notable given the talent migration. When Steinberger joined OpenAI in February 2026, he brought the \"OpenClaw\" ethos with him. \nOpenAI appears to be positioning itself as a more \"harness-friendly\" alternative, potentially using this moment as a customer acquisition channel for disgruntled Claude power users.\nBy restricting subscription limits to their own \"closed harness,\" Anthropic is asserting control over the UI/UX layer. This allows them to collect telemetry and manage rate limits more granularly, but it risks alienating the power-user community that built the \"agentic\" ecosystem in the first place.\nThe Bottom Line\nAnthropic’s decision is a cold calculation of margins versus growth. As Cherny noted, \"Capacity is a resource we manage thoughtfully.\" \nIn the 2026 AI landscape, the era of subsidized, unlimited compute for third-party automation is over. \nFor the average user on Claude.ai, the experience remains unchanged; for the power users running autonomous offices, the bell has tolled.",
+      "published": "2026-04-04T03:55:25.000Z",
+      "source": "VentureBeat",
+      "sourceKey": "venturebeat",
+      "priority": 1,
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/eUkPoLeb8EqcsOWG38sR7/90e6007c5bb7ca3224878c7f0cf77b60/Gemini_Generated_Image_hxdsq2hxdsq2hxds.png?w=300&q=30",
+      "relevanceScore": 11,
+      "matchedKeywords": [
+        "anthropic",
+        "claude"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Here's what 'cracking' bitcoin in 9 minutes by quantum computers actually means",
+      "link": "https://www.coindesk.com/tech/2026/03/31/what-does-cracking-bitcoin-in-9-minutes-by-quantum-computers-actually-mean",
+      "description": "Google's quantum paper made headlines with that number. Here's what it means, what's actually at risk, and why 6.9 million bitcoin are more exposed than the rest.",
+      "published": "2026-04-04T02:30:00.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "priority": 3,
+      "image": null,
+      "relevanceScore": 6,
+      "matchedKeywords": [
+        "google",
+        "quantum",
+        "bitcoin"
+      ],
+      "category": "crypto"
+    },
+    {
+      "title": "Anker’s Nebula P1 projector is the portable sound king",
+      "link": "https://www.theverge.com/reviews/906455/anker-nebula-p1-review-vanlife-sound-champ",
+      "description": "The Nebula P1 goes anywhere you can find a power source.\t\n\nThe Soundcore Nebula P1 from Anker isn't the most portable Google TV projector I've ever reviewed, nor is it the brightest. It doesn't even have a built-in battery. Instead it's a decent video device that focuses on sound.\nThe Nebula P1's standout feature is a pair of speakers that detach to create true left- and right-channel separation. It sounds much better than typical all-in-ones like the supremely portable TCL PlayCube, Xgimi MoGo, or Anker's popular Capsule projectors.\nI've been testing the $799 (currently on sale for $639) Nebula P1 as I travel around the European countryside in my van. It's not my favorite portable projector, but  …\nRead the full story at The Verge.",
+      "published": "2026-04-04T07:00:00.000Z",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "priority": 1,
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/IMG_7755.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "relevanceScore": 3,
+      "matchedKeywords": [
+        "google"
+      ],
+      "category": "ev_autonomous"
+    }
+  ],
+  "byCategory": {
+    "ai": [
+      {
+        "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
+        "link": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+        "description": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's looming IPO poised to reshape the landscape for everyone.",
+        "published": "2026-04-04T01:31:00.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "relevanceScore": 21,
+        "matchedKeywords": [
+          "openai",
+          "anthropic",
+          "spacex",
+          "ipo"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Anthropic cuts off the ability to use Claude subscriptions with OpenClaw and third-party AI agents",
+        "link": "https://venturebeat.com/technology/anthropic-cuts-off-the-ability-to-use-claude-subscriptions-with-openclaw-and",
+        "description": "Are you a subscriber to Anthropic's Claude Pro ($20 monthly) or Max ($100-$200 monthly) plans and use its Claude AI models and products to power third-party AI agents like OpenClaw? If so, you're in for an unpleasant surprise. \nAnthropic announced a few hours ago that starting tomorrow, Saturday, April 4, 2026, at 12 pm PT/3 pm ET, it will no longer be possible for those Claude subscribers to use their subscriptions to hook Anthropic's Claude models up to third-party agentic tools, citing the strain such usage was placing on Anthropic's compute and engineering resources, and desire to serve a wide number of users reliably. \n\"We’ve been working hard to meet the increase in demand for Claude, and our subscriptions weren't built for the usage patterns of these third-party tools,\" wrote Boris Cherny, Head of Claude Code at Anthropic, in a post on X. \"Capacity is a resource we manage thoughtfully and we are prioritizing our customers using our products and API.\"\nThe company also reportedly sent out an email to this effect to some subscribers. However, it's not certain if subscribers to Claude Team and Enterprise will be impacted similarly. We've reached out to Anthropic for further clarification and will update when we hear back.\nTo be clear, it will still be possible to use Claude models like Opus, Sonnet, and Haiku to power OpenClaw and similar external agents, but users will now need to opt into a pay-as-you-go \"extra usage\" billing system or utilize Anthropic's application programming interface (API), which charges for every token of usage rather than allowing for open-ended usage up to certain limits, as the Pro and Max plans have allowed so far. \nThe reason for the change: 'third party services are not optimized' \nThe technical reality, according to Anthropic, is that its first-party tools like Claude Code, its AI vibe coding harness, and Claude Cowork, its business app interfacing and control tool, are built to maximize \"prompt cache hit rates\"—reusing previously processed text to save on compute. \nThird-party harnesses like OpenClaw often bypass these efficiencies. “Third party services are not optimized in this way, so it's really hard for us to do sustainably,” Cherny explained further on X. \nHe even revealed his own hands-on attempts to bridge the gap: “I did put up a few PRs to improve prompt cache hit rate for OpenClaw in particular, which should help for folks using it with Claude via API/overages.”\nPrior to the news, Anthropic had also begun imposing stricter Claude session limits every 5 hours of usage during business hours (5am-11am PT/8am-2pm ET), meaning that the number of tokens you could send during those sessions dropped.\nThis frustrated some power users who suddenly began reaching their limits far faster than they had previously — a change Anthropic said was to help \"manage growing demand for Claude\" and would only affect up to 7% of users at any given time. \nDiscounts and credits to soften the blow\nAnthropic is not banning third-party tools entirely, but it is moving them to a different ledger. The new \"Extra Usage\" bundles represent a middle ground between a flat-rate subscription and a full enterprise API account.\n\nThe Credit: To \"soften the blow,\" Anthropic is offering existing subscribers a one-time credit equal to their monthly plan price, redeemable until April 17.\n\nThe Discount: Users who pre-purchase \"extra usage\" bundles can receive up to a 30% discount, an attempt to retain power users who might otherwise churn.\n\nCapacity Management: Anthropic’s official statement noted that these tools put an \"outsized strain\" on systems, forcing a prioritization of \"customers using our core products and API.\"\n\n'The all you-can-eat buffet just closed'\nThe response from the developer community has been a mixture of analytical acceptance and sharp frustration.\nGrowth marketer Aakash Gupta observed on X that the \"all-you-can-eat buffet just closed,\" noting that a single OpenClaw agent running for one day could burn $1,000 to $5,000 in API costs. “Anthropic was eating that difference on every user who routed through a third-party harness,” Gupta wrote. “That's the pace of a company watching its margin evaporate in real time.”\nHowever, Peter Steinberger, the creator of OpenClaw who was recently hired by OpenAI, took a more skeptical view of the \"capacity\" argument.“Funny how timings match up,” Steinberger posted on X. “First they copy some popular features into their closed harness, then they lock out open source.” \nIndeed, Anthropic recently added some of the same capabilities that helped OpenClaw catch-on — such as the ability to message agents through external services like Discord and Telegram — to Claude Code. \nSteinberger claimed that he and fellow investor Dave Morin attempted to \"talk sense\" into Anthropic, but were only able to delay the enforcement by a single week.\nUser @ashen_one, founder of Telaga Charity, voiced a concern likely shared by other small-scale builders: “If I switch both [OpenClaw instances] to an API key or the extra usage you're recommending here, it's going to be far too expensive to make it worth using. I'll probably have to switch over to a different model at this point.”\n.“I know it sucks,” Cherny replied. “Fundamentally engineering is about tradeoffs, and one of the things we do to serve a lot of customers is optimize the way subscriptions work to serve as many people as possible with the best mode\nLicensing and the OpenAI shadow\nThe timing of the crackdown is particularly notable given the talent migration. When Steinberger joined OpenAI in February 2026, he brought the \"OpenClaw\" ethos with him. \nOpenAI appears to be positioning itself as a more \"harness-friendly\" alternative, potentially using this moment as a customer acquisition channel for disgruntled Claude power users.\nBy restricting subscription limits to their own \"closed harness,\" Anthropic is asserting control over the UI/UX layer. This allows them to collect telemetry and manage rate limits more granularly, but it risks alienating the power-user community that built the \"agentic\" ecosystem in the first place.\nThe Bottom Line\nAnthropic’s decision is a cold calculation of margins versus growth. As Cherny noted, \"Capacity is a resource we manage thoughtfully.\" \nIn the 2026 AI landscape, the era of subsidized, unlimited compute for third-party automation is over. \nFor the average user on Claude.ai, the experience remains unchanged; for the power users running autonomous offices, the bell has tolled.",
+        "published": "2026-04-04T03:55:25.000Z",
+        "source": "VentureBeat",
+        "sourceKey": "venturebeat",
+        "priority": 1,
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/eUkPoLeb8EqcsOWG38sR7/90e6007c5bb7ca3224878c7f0cf77b60/Gemini_Generated_Image_hxdsq2hxdsq2hxds.png?w=300&q=30",
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "anthropic",
+          "claude"
+        ],
+        "category": "ai"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "Here's what 'cracking' bitcoin in 9 minutes by quantum computers actually means",
+        "link": "https://www.coindesk.com/tech/2026/03/31/what-does-cracking-bitcoin-in-9-minutes-by-quantum-computers-actually-mean",
+        "description": "Google's quantum paper made headlines with that number. Here's what it means, what's actually at risk, and why 6.9 million bitcoin are more exposed than the rest.",
+        "published": "2026-04-04T02:30:00.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "google",
+          "quantum",
+          "bitcoin"
+        ],
+        "category": "crypto"
+      }
+    ],
+    "ev_autonomous": [
+      {
+        "title": "Anker’s Nebula P1 projector is the portable sound king",
+        "link": "https://www.theverge.com/reviews/906455/anker-nebula-p1-review-vanlife-sound-champ",
+        "description": "The Nebula P1 goes anywhere you can find a power source.\t\n\nThe Soundcore Nebula P1 from Anker isn't the most portable Google TV projector I've ever reviewed, nor is it the brightest. It doesn't even have a built-in battery. Instead it's a decent video device that focuses on sound.\nThe Nebula P1's standout feature is a pair of speakers that detach to create true left- and right-channel separation. It sounds much better than typical all-in-ones like the supremely portable TCL PlayCube, Xgimi MoGo, or Anker's popular Capsule projectors.\nI've been testing the $799 (currently on sale for $639) Nebula P1 as I travel around the European countryside in my van. It's not my favorite portable projector, but  …\nRead the full story at The Verge.",
+        "published": "2026-04-04T07:00:00.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/IMG_7755.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "ev_autonomous"
+      }
+    ]
+  },
+  "totalArticles": 4
+}
