@@ -4,7 +4,7 @@
   "title": "Monday, Nov 2",
   "dateRange": "November 2, 2026",
   "date": "2026-11-02",
-  "generatedAt": "2026-11-03T06:52:05.617Z",
+  "generatedAt": "2026-11-03T16:16:59.533Z",
   "highlights": [
     {
       "title": "DeepSeek Unveils Autonomous Coding Agent Prototype",
@@ -154,6 +154,25 @@
       "category": "chips_cloud"
     },
     {
+      "title": "Owning Anthropic Before It Goes Public",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-02/owning-anthropic-before-it-goes-public-video",
+      "description": "John Cole Scott, president & CIO of CEF Advisors, joins Scarlet Fu and Eric Balchunas on \"Bloomberg ETF IQ.\" Anthropic filed on Oct. 26 for an IPO that’s set to take place before Thanksgiving. Anthropic is seeking to meet or exceed the amount SpaceX raised in its $86.2 billion debut, people familiar with the matter have said. (Source: Bloomberg)",
+      "published": "2026-11-02T19:06:53.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_markets",
+      "priority": 1,
+      "image": null,
+      "baseScore": 14,
+      "relevanceScore": 14,
+      "matchedKeywords": [
+        "anthropic",
+        "spacex",
+        "ipo",
+        "billion"
+      ],
+      "category": "ai"
+    },
+    {
       "title": "Anthropic swings to third quarter operating loss as compute costs surge ahead of IPO",
       "link": "https://www.coindesk.com/markets/2026/11/02/anthropic-swings-to-third-quarter-operating-loss-as-compute-costs-surge-ahead-of-ipo",
       "description": "The Claude developer generated $17 billion in quarterly revenue, but higher computing costs resulted in a $567 million operating loss.",
@@ -189,30 +208,6 @@
         "anthropic"
       ],
       "category": "ai"
-    },
-    {
-      "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
-      "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-      "description": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
-      "published": "2026-11-02T13:57:53.000Z",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "priority": 1,
-      "image": null,
-      "baseScore": 11,
-      "relevanceScore": 12,
-      "matchedKeywords": [
-        "openai",
-        "chatgpt"
-      ],
-      "category": "ai",
-      "alsoIn": [
-        {
-          "source": "9to5Mac",
-          "title": "OpenAI is retiring ChatGPT Classic app, will soon combine Chat and Work tabs in new app",
-          "link": "https://9to5mac.com/2026/11/02/openai-is-retiring-chatgpt-classic-app-will-soon-combine-chat-and-work-tabs-in-new-app/"
-        }
-      ]
     }
   ],
   "byCategory": {
@@ -252,6 +247,25 @@
           "ipo",
           "openai",
           "sam altman"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Owning Anthropic Before It Goes Public",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-02/owning-anthropic-before-it-goes-public-video",
+        "description": "John Cole Scott, president & CIO of CEF Advisors, joins Scarlet Fu and Eric Balchunas on \"Bloomberg ETF IQ.\" Anthropic filed on Oct. 26 for an IPO that’s set to take place before Thanksgiving. Anthropic is seeking to meet or exceed the amount SpaceX raised in its $86.2 billion debut, people familiar with the matter have said. (Source: Bloomberg)",
+        "published": "2026-11-02T19:06:53.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_markets",
+        "priority": 1,
+        "image": null,
+        "baseScore": 14,
+        "relevanceScore": 14,
+        "matchedKeywords": [
+          "anthropic",
+          "spacex",
+          "ipo",
+          "billion"
         ],
         "category": "ai"
       },
@@ -4142,5 +4156,5 @@
       }
     ]
   },
-  "totalArticles": 224
+  "totalArticles": 225
 }
