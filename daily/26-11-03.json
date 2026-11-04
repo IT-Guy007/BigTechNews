@@ -4,7 +4,7 @@
   "title": "Tuesday, Nov 3",
   "dateRange": "November 3, 2026",
   "date": "2026-11-03",
-  "generatedAt": "2026-11-03T21:51:22.802Z",
+  "generatedAt": "2026-11-04T02:22:24.826Z",
   "highlights": [
     {
       "title": "Uber’s Jill Hazelbaker to Join OpenAI as Chief Corporate Affairs Officer",
@@ -457,6 +457,54 @@
         "category": "ai"
       },
       {
+        "title": "Anthropic's AI Is Getting Cheaper to Use. That's Becoming a Problem for Its Business",
+        "link": "https://decrypt.co/382471/anthropic-ai-cheaper-use-problem-for-business",
+        "description": "Claude's prices are falling, but Anthropic's computing expenses grew faster than sales in the latest quarter—a tricky equation ahead of its IPO.",
+        "published": "2026-11-03T21:50:17.000Z",
+        "source": "Decrypt",
+        "sourceKey": "decrypt",
+        "priority": 3,
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-claude-gID_7.jpg@png",
+        "baseScore": 13,
+        "relevanceScore": 13,
+        "matchedKeywords": [
+          "anthropic",
+          "claude",
+          "ipo"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Google Lets Schools Turn Off Gemini, But Not the AI in Search",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-03/google-lets-schools-turn-off-gemini-but-not-the-ai-in-search",
+        "description": "Schools that want their K-12 students to have access to Google Search will soon have to turn it on themselves, and the AI features built into Search will come with it, under changes the Alphabet Inc. company announced Tuesday.",
+        "published": "2026-11-03T20:22:17.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 10,
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "google",
+          "gemini",
+          "alphabet"
+        ],
+        "category": "ai",
+        "alsoIn": [
+          {
+            "source": "Hacker News",
+            "title": "Google will turn off search for schools that reject AI",
+            "link": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html"
+          },
+          {
+            "source": "AppleInsider",
+            "title": "If schools turn off Google's AI, Search dies with it",
+            "link": "https://appleinsider.com/articles/26/11/03/if-schools-turn-off-googles-ai-search-dies-with-it?utm_source=rss"
+          }
+        ]
+      },
+      {
         "title": "How Cisco defends at machine speed with OpenAI",
         "link": "https://openai.com/index/cisco-cyber",
         "description": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
@@ -549,31 +597,6 @@
         ]
       },
       {
-        "title": "Google Lets Schools Turn Off Gemini, But Not the AI in Search",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-03/google-lets-schools-turn-off-gemini-but-not-the-ai-in-search",
-        "description": "Schools that want their K-12 students to have access to Google Search will soon have to turn it on themselves, and the AI features built into Search will come with it, under changes the Alphabet Inc. company announced Tuesday.",
-        "published": "2026-11-03T20:22:17.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "baseScore": 10,
-        "relevanceScore": 11,
-        "matchedKeywords": [
-          "google",
-          "gemini",
-          "alphabet"
-        ],
-        "category": "ai",
-        "alsoIn": [
-          {
-            "source": "Hacker News",
-            "title": "Google will turn off search for schools that reject AI",
-            "link": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html"
-          }
-        ]
-      },
-      {
         "title": "LinkedIn Swapped Out Some OpenAI Models to Keep Its Server Costs Flat",
         "link": "https://www.theinformation.com/articles/linkedin-swapped-openai-models-keep-server-costs-flat",
         "description": "The more people use AI features in apps, the more the companies selling those apps have to spend on servers to run them, potentially squeezing their profit margins. But some firms have found ways to keep costs in check. For instance, Microsoft-owned LinkedIn says it has flattened the cost of running its AI-powered Hiring Assistant, which uses large language models to automate candidate search and outreach for recruiters, even as usage of the tool has steadily increased in the past year.",
@@ -628,6 +651,24 @@
         "category": "ai"
       },
       {
+        "title": "OpenAI Wants to Rebrand AI Data Centers, Use Them to 'Protect the Grid'",
+        "link": "https://decrypt.co/382476/openai-ai-data-centers-rebrand-protect-power-grid",
+        "description": "The ChatGPT maker says future facilities could ease pressure on power grids by cutting demand during emergencies.",
+        "published": "2026-11-03T23:48:32.000Z",
+        "source": "Decrypt",
+        "sourceKey": "decrypt",
+        "priority": 3,
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png@png",
+        "baseScore": 11,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "openai",
+          "data center",
+          "chatgpt"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "Anthropic cracks down on game cloning in Claude Code after wave of AI-built knockoffs",
         "link": "https://the-decoder.com/anthropic-cracks-down-on-game-cloning-in-claude-code-after-wave-of-ai-built-knockoffs/",
         "description": "Anthropic is blocking its coding assistant Claude Code from recreating existing video games. The article Anthropic cracks down on game cloning in Claude Code after wave of AI-built knockoffs appeared first on The Decoder.",
@@ -667,6 +708,23 @@
             "link": "https://www.datacenterdynamics.com/en/news/openai-launches-grid-protectors-program-to-reduce-data-center-electricity-demand-when-the-us-grid-is-under-strain-openai-has-launched-a-plan-to-reduce-the-impact-of-its-data-centers-on-the-us-grid-the-non-binding-grid-protectors-program-aims-to-re/"
           }
         ]
+      },
+      {
+        "title": "Anthropic is working on a system to prove AI models’ identity",
+        "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+        "description": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+        "published": "2026-11-03T22:41:03.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "anthropic",
+          "ai model"
+        ],
+        "category": "ai"
       },
       {
         "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
@@ -858,6 +916,24 @@
         "category": "ai"
       },
       {
+        "title": "CrowdStrike to acquire cybersecurity startups Fiddler AI, Dreadnode for reported $495M",
+        "link": "https://siliconangle.com/2026/11/03/crowdstrike-to-acquire-cybersecurity-startups-fiddler-ai-dreadnode-for-reported-495m/",
+        "description": "CrowdStrike Holdings Inc. today disclosed plans to buy Fiddler AI Inc. and Dreadnode Inc., two startups that specialize in securing artificial intelligence agents. The company announced the deals alongside an update to its Falcon Guardian product. The Wall Street Journal reported that CrowdStrike will spend $495 million on the acquisitions. Fiddler is believed to account […] The post CrowdStrike to acquire cybersecurity startups Fiddler AI, Dreadnode for reported $495M appeared first on SiliconA",
+        "published": "2026-11-03T23:31:14.000Z",
+        "source": "SiliconANGLE",
+        "sourceKey": "siliconangle",
+        "priority": 2,
+        "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/crowdstrike2023-scaled.jpg",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "acquire",
+          "acquisition",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "heise-Angebot: Claude Code, Copilot und Codex im Entwicklungsalltag",
         "link": "https://www.heise.de/news/KI-gestuetzte-Programmierung-vom-Feature-Auftrag-zum-Pull-Request-11507480.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
         "description": "Claude Code, GitHub Copilot und OpenAI Codex im Xcode-Umfeld: Wie Sie mit den Agenten arbeiten, ihre Ergebnisse und auch die Risiken im Blick behalten.",
@@ -925,6 +1001,32 @@
           "acquisition"
         ],
         "category": "ai"
+      },
+      {
+        "title": "CrowdStrike debuts an AI kill switch in Falcon Guardian to stop internal AI agents that go rogue, and announces a Falcon Guardian integration with Claude Cowork",
+        "link": "https://www.techmeme.com/261103/p28#a261103p28",
+        "description": "CrowdStrike debuts an AI kill switch in Falcon Guardian to stop internal AI agents that go rogue, and announces a Falcon Guardian integration with Claude Cowork — CrowdStrike is betting that it has a solution to rogue artificial intelligence. — The cybersecurity vendor on Tuesday launched …",
+        "published": "2026-11-03T20:30:02.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261103/i28.jpg",
+        "via": "CNBC",
+        "baseScore": 6,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "claude",
+          "ai agent",
+          "artificial intelligence"
+        ],
+        "category": "ai",
+        "alsoIn": [
+          {
+            "source": "CNBC",
+            "title": "CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
+            "link": "https://www.cnbc.com/2026/11/03/crowdstrikes-new-kill-switch-can-stop-rogue-ai-agents-in-their-tracks-ceo-says.html"
+          }
+        ]
       },
       {
         "title": "Meta Seeks $15 Billion From US Dollar Portion of Bond Offering",
@@ -1125,25 +1227,6 @@
             "link": "https://9to5mac.com/2026/11/02/apple-to-require-18-age-ratings-for-dating-apps-and-ai-romantic-companions/"
           }
         ]
-      },
-      {
-        "title": "CrowdStrike debuts an AI kill switch in Falcon Guardian to stop internal AI agents that go rogue, and announces a Falcon Guardian integration with Claude Cowork",
-        "link": "https://www.techmeme.com/261103/p28#a261103p28",
-        "description": "CrowdStrike debuts an AI kill switch in Falcon Guardian to stop internal AI agents that go rogue, and announces a Falcon Guardian integration with Claude Cowork — CrowdStrike is betting that it has a solution to rogue artificial intelligence. — The cybersecurity vendor on Tuesday launched …",
-        "published": "2026-11-03T20:30:02.000Z",
-        "source": "Techmeme",
-        "sourceKey": "techmeme",
-        "priority": 1,
-        "image": "http://www.techmeme.com/261103/i28.jpg",
-        "via": "CNBC",
-        "baseScore": 6,
-        "relevanceScore": 6,
-        "matchedKeywords": [
-          "claude",
-          "ai agent",
-          "artificial intelligence"
-        ],
-        "category": "ai"
       },
       {
         "title": "Apple warns of risks related to AI agents behaving in 'unintended or unpredictable' ways",
@@ -1649,6 +1732,24 @@
         "category": "ai"
       },
       {
+        "title": "Traversal, which provides AI agents for site reliability engineering, raised $120M co-led by Kleiner Perkins, Redpoint, and Khosla at a $1B valuation",
+        "link": "https://www.techmeme.com/261103/p39#a261103p39",
+        "description": "Traversal, which provides AI agents for site reliability engineering, raised $120M co-led by Kleiner Perkins, Redpoint, and Khosla at a $1B valuation — Traversal has raised $120 million in funding to help companies like American Express and Pepsi troubleshoot site outages. — for The Prompt",
+        "published": "2026-11-03T23:05:01.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261103/i39.jpg",
+        "via": "Forbes",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "ai agent",
+          "valuation"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "Runway on Generative AI Worlds",
         "link": "https://www.bloomberg.com/news/videos/2026-11-03/runway-on-generative-ai-worlds-video",
         "description": "Anastasis Germanidis, Co-Founder & Co-CEO, Runway, discusses how generative AI is moving beyond content creation toward interactive worlds people can see, shape and experience with Bloomberg’s Peter Elstrom at Bloomberg Tech 2026 in London. (Source: Bloomberg)",
@@ -1972,6 +2073,42 @@
         "category": "business"
       },
       {
+        "title": "Canva is announcing changes and layoffs affecting 22 percent of its staff",
+        "link": "https://www.theverge.com/tech/1025971/canva-changes-layoffs",
+        "description": "Canva is making significant changes affecting 1,271 people, which is 22 percent of its staff, co-founder and CEO Melanie Perkins announced today. \"For some people, this will mean changes to their roles or being asked to relocate to centralised hubs,\" says Perkins. \"Sadly, it will also mean saying goodbye to teammates and friends who have helped build Canva into what it is today.\" In her note to staff, Perkins says that: After exploring a wide range of alternatives, I've come to the difficult con",
+        "published": "2026-11-03T22:59:36.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK263_CANVA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "layoffs",
+          "layoff",
+          "ceo"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Canva Announces Layoffs, Job Changes for About 22% of Workforce",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-03/canva-announces-layoffs-job-changes-for-about-22-of-workforce",
+        "description": "Canva Inc. announced job cuts and a sweeping overhaul that will impact more than one-fifth of the workforce, as artificial intelligence forces a structural reckoning at one of Australia’s highest-profile technology companies.",
+        "published": "2026-11-03T22:35:12.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "layoffs",
+          "layoff",
+          "artificial intelligence"
+        ],
+        "category": "business"
+      },
+      {
         "title": "John Ternus' first earnings call was a timid, scripted affair, as Apple faces a challenging Christmas quarter and a difficult 2027; AAPL falls 3%+",
         "link": "https://www.techmeme.com/261103/p11#a261103p11",
         "description": "John Ternus' first earnings call was a timid, scripted affair, as Apple faces a challenging Christmas quarter and a difficult 2027; AAPL falls 3%+ — Apple Inc. investors and fans hoping to get an insight into the philosophy of new Chief Executive Officer John Ternus on Monday were left sorely disappointed.",
@@ -2113,6 +2250,23 @@
           "apple",
           "earnings",
           "google"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "AMD Earnings 'Met the Bar,' Wedbush's Bryson Says",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-03/amd-earnings-met-the-bar-wedbush-s-bryson-says-video",
+        "description": "Matt Bryson, managing director of hardware equity research at Wedbush Securities, reacts to Advanced Micro Devices' revenue forecast that exceeded analysts’ estimates. He speaks on \"Bloomberg The Close.\" (Source: Bloomberg)",
+        "published": "2026-11-03T21:50:30.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "amd",
+          "earnings"
         ],
         "category": "business"
       },
@@ -2474,6 +2628,23 @@
         "category": "business"
       },
       {
+        "title": "iPhone Duo shortages will continue for the foreseeable future, Apple CEO says",
+        "link": "https://www.gsmarena.com/iphone_duo_shortages_will_continue_for_the_foreseeable_future_apple_ceo_says-news-75329.php",
+        "description": "Apple's first foldable, the iPhone Duo, sold out within hours of pre-orders opening on October 16, and shipping dates quickly slipped all the way to January. Ahead of launch day, the company also warned of limited walk-in stock in its stores. Now, if you were hoping things would get better soon, Apple's CEO has some bad news for you. [#InlinePriceWidget,13804,1#] Speaking yesterday, after Apple reported record results for its September quarter, John Ternus said the Duo \"is constrained as of toda",
+        "published": "2026-11-03T22:01:02.000Z",
+        "source": "GSMArena",
+        "sourceKey": "gsmarena",
+        "priority": 3,
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/iphone-duo-supply-constraints-ongoing/-184x111/gsmarena_000.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "apple",
+          "ceo"
+        ],
+        "category": "business"
+      },
+      {
         "title": "AI inference startup Fal raised $1.3B led by Bessemer at a $16B valuation, up from $8B in April; source: Fal hit $800M in annualized revenue earlier in 2026",
         "link": "https://www.techmeme.com/261103/p24#a261103p24",
         "description": "AI inference startup Fal raised $1.3B led by Bessemer at a $16B valuation, up from $8B in April; source: Fal hit $800M in annualized revenue earlier in 2026 — Fal, an AI inference startup that hosts image, video and audio models for creators and developers, has doubled its valuation to $16 billion in a new round of funding.",
@@ -2497,6 +2668,22 @@
             "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"
           }
         ]
+      },
+      {
+        "title": "Hong Kong Deal Boom Slows With Most IPOs Abandoned Since 2008",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-03/hong-kong-deal-boom-slows-with-most-ipos-abandoned-since-2008",
+        "description": "Hong Kong’s two-year fundraising boom is slowing, with the rate of abandoned stock listings spiking to the highest since the global financial crisis.",
+        "published": "2026-11-03T23:00:00.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_markets",
+        "priority": 1,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "ipo"
+        ],
+        "category": "business"
       },
       {
         "title": "Weil Gotshal’s 95-Year History Careens To A Close",
@@ -2658,6 +2845,34 @@
         "category": "chips_cloud"
       },
       {
+        "title": "AMD Forecast Exceeds Estimates as AI Chip Demand Soars",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-03/amd-forecast-exceeds-estimates-as-ai-chip-demand-soars-video",
+        "description": "Advanced Micro Devices Inc., a key challenger to Nvidia Corp. in artificial intelligence chips, gave a revenue forecast that exceeded analysts’ estimates, showing that demand for data center processors remains strong. Fourth-quarter revenue will be $17 billion, plus or minus 3%, the chipmaker said in a statement Tuesday. The outlook provided fresh evidence that AI spending is sustainable, soothing jittery investors. We get reaction from Kunjan Sobhani, Senior Semiconductor Analyst for Bloomberg",
+        "published": "2026-11-03T22:29:58.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 13,
+        "relevanceScore": 13,
+        "matchedKeywords": [
+          "amd",
+          "chip",
+          "nvidia",
+          "artificial intelligence",
+          "semiconductor",
+          "chipmaker"
+        ],
+        "category": "chips_cloud",
+        "alsoIn": [
+          {
+            "source": "Bloomberg",
+            "title": "AMD Sales Forecast Tops Estimates on Soaring AI Chip Demand",
+            "link": "https://www.bloomberg.com/news/articles/2026-11-03/amd-sales-forecast-tops-estimates-on-soaring-ai-chip-demand"
+          }
+        ]
+      },
+      {
         "title": "'Samsung Foundry gaat HBM-dies maken voor AMD en Nvidia in tweede fabriek Texas'",
         "link": "https://tweakers.net/nieuws/254106/samsung-foundry-gaat-hbm-dies-maken-voor-amd-en-nvidia-in-tweede-fabriek-texas.html",
         "description": "Samsung Foundry gaat in zijn tweede fabriek in Texas naar verluidt basedies voor High Bandwidth Memory (HBM) maken voor AMD en Nvidia. Daardoor is de fabriek nu al volgeboekt, meldt het Zuid-Koreaanse Maeil Business Newspaper. Samsung zou deze maand beginnen de fabriek te bouwen. De massaproductie moet in 2030 beginnen.",
@@ -2731,26 +2946,6 @@
           "amd",
           "chip",
           "earnings"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": "AMD Sales Forecast Tops Estimates on Soaring AI Chip Demand",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-03/amd-sales-forecast-tops-estimates-on-soaring-ai-chip-demand",
-        "description": "Advanced Micro Devices Inc., a key challenger to Nvidia Corp. in artificial intelligence chips, gave a revenue forecast that exceeded analysts’ estimates, indicating that demand for data center processors remains strong.",
-        "published": "2026-11-03T21:18:31.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "baseScore": 10,
-        "relevanceScore": 10,
-        "matchedKeywords": [
-          "amd",
-          "chip",
-          "nvidia",
-          "artificial intelligence",
-          "data center"
         ],
         "category": "chips_cloud"
       },
@@ -2945,6 +3140,23 @@
         "category": "chips_cloud"
       },
       {
+        "title": "AMD Projects Rapid Revenue Acceleration Over the Next Year",
+        "link": "https://www.theinformation.com/briefings/amd-projects-rapid-revenue-acceleration-fourth-quarter",
+        "description": "AI server chip designer Advanced Micro Devices said Tuesday that revenue in the current quarter would rise about 66% year over year, or 21 percentage points faster than revenue grew in the third quarter. And it said revenue would grow more than 80% next year, or more than twice as fast as ...",
+        "published": "2026-11-03T22:09:57.000Z",
+        "source": "The Information",
+        "sourceKey": "theinformation",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "amd",
+          "chip"
+        ],
+        "category": "chips_cloud"
+      },
+      {
         "title": "AMD Beats Wall Street Expectations as it Pivots to Data-Center First Status",
         "link": "https://www.wsj.com/business/earnings/advancedmicrodevices-amd-thirdquarter-earnings-report-2026-stock-e186e911?mod=rss_Technology",
         "description": "The chip maker’s shares soared.",
@@ -3097,6 +3309,22 @@
         "matchedKeywords": [
           "xai",
           "data center"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "NVIDIA's controversial DLSS 5 is coming to RTX Remix to 'enhance' older games",
+        "link": "https://www.engadget.com/2306095/nvidia-dlss-5-update-rtx-remix-enhance-older-games/",
+        "description": "The NVIDIA modding platform lets you remaster classic games with modern graphics, and now DLSS 5 is included.",
+        "published": "2026-11-03T23:00:21.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/nvidias-controversial-dlss-5-is-coming-to-rtx-remix-to-enhance-older-games/l-intro-1793746309.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "nvidia"
         ],
         "category": "chips_cloud"
       },
@@ -3567,6 +3795,29 @@
         ]
       },
       {
+        "title": "Apple explains the $400 premium for the MacBook Pro with PROLED XDR Display",
+        "link": "https://9to5mac.com/2026/11/03/apple-explains-the-400-premium-for-the-macbook-pro-with-proled-xdr-display/",
+        "description": "Apple argued that the touchscreen isn’t the headline feature of the MacBook Pro with PROLED XDR Display, merely a bonus. The headline should instead be the quality of the display itself – with the company effectively suggesting that the $400 premium is positively cheap for what you’re getting … more…",
+        "published": "2026-11-03T14:14:03.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/You-can-now-spend-between-1999-and-14549-on-a-MacBook-Pro.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices",
+        "alsoIn": [
+          {
+            "source": "AppleInsider",
+            "title": "Apple is advertising PROLED MacBook Pro on Discord",
+            "link": "https://appleinsider.com/articles/26/11/03/apple-is-advertising-proled-macbook-pro-on-discord?utm_source=rss"
+          }
+        ]
+      },
+      {
         "title": "Here’s what it’s like to use Audio Intelligence on the Apple Watch",
         "link": "https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch",
         "description": "Siri can still make mistakes in transcripts. | Photo by Victoria Song / The Verge It's impossible to paint a full picture of what Audio Intelligence on the Apple Watch Series 12 and Ultra 4 will be right now. The watchOS 27.3 developer beta just dropped earlier this afternoon, and these features are meant to be lived with in day-to-day life. We're definitely going to do that over the next few weeks at The Verge. That said, here are some initial impressions. What's newly available today is Live R",
@@ -3727,6 +3978,22 @@
         "matchedKeywords": [
           "apple",
           "chip"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Eney from MacPaw is an AI assistant with deep Apple integrations",
+        "link": "https://9to5mac.com/2026/11/03/eney-from-macpaw-ai-assistant-deep-apple-integrations/",
+        "description": "MacPaw, the makers of CleanMyMac and Setapp, have an AI assistant called Eney that’s designed for Apple users. Eney is available across Mac and iPhone and is built to integrate with core Apple services like Mail, Calendar, and Reminders, plus a lot more. more…",
+        "published": "2026-11-03T23:45:00.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Banners-AI-Assistant-Dark.png?w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
         ],
         "category": "devices"
       },
@@ -4021,22 +4288,6 @@
         "category": "devices"
       },
       {
-        "title": "Apple explains the $400 premium for the MacBook Pro with PROLED XDR Display",
-        "link": "https://9to5mac.com/2026/11/03/apple-explains-the-400-premium-for-the-macbook-pro-with-proled-xdr-display/",
-        "description": "Apple argued that the touchscreen isn’t the headline feature of the MacBook Pro with PROLED XDR Display, merely a bonus. The headline should instead be the quality of the display itself – with the company effectively suggesting that the $400 premium is positively cheap for what you’re getting … more…",
-        "published": "2026-11-03T14:14:03.000Z",
-        "source": "9to5Mac",
-        "sourceKey": "9to5mac",
-        "priority": 2,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/You-can-now-spend-between-1999-and-14549-on-a-MacBook-Pro.jpg?quality=82&#038;strip=all&#038;w=1600",
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "devices"
-      },
-      {
         "title": "Peer-to-Peer-Austausch: Google bringt Quick Share in Apps – für Android und iOS",
         "link": "https://www.heise.de/news/Peer-to-Peer-Austausch-Google-bringt-Quick-Share-in-Apps-fuer-Android-und-iOS-11510041.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
         "description": "Google bohrt Quick Share weiter auf: Ab 2027 soll sich die geräteübergreifende Teilen-Funktion in Apps integrieren lassen. Sowohl unter Android als auch iOS.",
@@ -4288,6 +4539,23 @@
         "baseScore": 4,
         "relevanceScore": 4,
         "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Android and iOS apps will be able to bypass the share sheet next year",
+        "link": "https://www.gsmarena.com/android_and_ios_apps_will_be_able_to_bypass_the_share_sheet_next_year-news-75328.php",
+        "description": "Quick Share has come a long way over the past year. It started working with Apple's AirDrop on Pixels, then that support began spreading to other Android phones, and in August Google launched Tap to Share. Now, the company is going to let developers build Quick Share directly into their own apps - and not just on Android. At its Android Dev Summit, Google announced a Quick Share SDK that will be released in the first half of 2027, along with a Quick Share iOS SDK for iPhone apps. Apps that adopt",
+        "published": "2026-11-03T23:31:02.000Z",
+        "source": "GSMArena",
+        "sourceKey": "gsmarena",
+        "priority": 3,
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/quick-share-sdk/-184x111/gsmarena_000.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google",
           "apple"
         ],
         "category": "devices"
@@ -4630,6 +4898,70 @@
         "matchedKeywords": [
           "tencent",
           "xiaomi"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Watch too much YouTube? Google could be working on a new tool to help",
+        "link": "https://www.androidauthority.com/youtube-time-limit-3731375/",
+        "description": "YouTube could expand time-limit tools beyond just watching Shorts.",
+        "published": "2026-11-03T23:04:29.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2022/04/YouTube-on-smartphone-stock-photo-5.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Meta's Quest 2 and Quest Pro reach 'end of feature development'",
+        "link": "https://www.engadget.com/2306079/meta-quest-2-and-quest-pro-reach-end-of-feature-development/",
+        "description": "The app stores will stay open for both devices after support ends next year.",
+        "published": "2026-11-03T22:43:06.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/metas-quest-2-and-quest-pro-reach-end-of-feature-development/l-intro-1793745475.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "meta"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Apple officially restricts employee participation in prediction markets",
+        "link": "https://appleinsider.com/articles/26/11/03/apple-officially-restricts-employee-participation-in-prediction-markets?utm_source=rss",
+        "description": "If you're an Apple employee or contractor planning to make money using insider information to gamble in legally-gray \"prediction markets,\" don't. Apple has made its stance clear in a new filing. Don't bother using insider information to gamble in prediction markets Prediction markets skirt the legal definition of gambling, which means they have become widely available in the United States in spite of gambling laws. These markets can be used to bet on everything from when a location might see its",
+        "published": "2026-11-03T22:24:36.000Z",
+        "source": "AppleInsider",
+        "sourceKey": "appleinsider",
+        "priority": 2,
+        "image": "https://media.appleinsider.com/gallery/69685-146923-iPhone-18-Pro-Max-and-Apple-Watch-Ultra-4-xl.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Apple now explicitly bans employees from using confidential information in prediction markets",
+        "link": "https://9to5mac.com/2026/11/03/apple-now-explicitly-bans-employees-from-using-confidential-information-in-prediction-markets/",
+        "description": "Apple has updated its insider trading policy to explicitly prohibit employees from using confidential information to bet on prediction markets. Here are the details. more…",
+        "published": "2026-11-03T21:58:58.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/10/apple-park-dusk.jpeg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
         ],
         "category": "other"
       },
@@ -5093,6 +5425,22 @@
         "category": "ev_autonomous"
       },
       {
+        "title": "BYD’s flagship luxury EV with 1,000+ km of range hits 4,000 sales in just 19 days",
+        "link": "https://electrek.co/2026/11/03/byds-flagship-luxury-ev-sedan-hits-4000-sales-in-19-days/",
+        "description": "BYD wasted no time, with sales of its new flagship electric sedan reaching 4,000 in just 19 days since its launch. more…",
+        "published": "2026-11-03T22:14:30.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Great-Han-EV-front.jpeg?quality=82&#038;strip=all&#038;w=1400",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "byd"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
         "title": "Tesla hernoemt FSD naar Assisted Driving en begrenst hardrijden tot 10 procent",
         "link": "https://tweakers.net/nieuws/254112/tesla-hernoemt-fsd-naar-assisted-driving-en-begrenst-hardrijden-tot-10-procent.html",
         "description": "De Nederlandse RDW heeft een nieuwe update voor Tesla FSD Supervised goedgekeurd. Daarmee wordt de rijhulp hernoemd naar Tesla Assisted Driving (TAD). Ook de maximumsnelheid wordt teruggeschroefd: een Tesla met deze rijhulp mag hooguit nog 10 procent te hard rijden.",
@@ -5189,7 +5537,101 @@
         "category": "ev_autonomous"
       }
     ],
+    "crypto": [
+      {
+        "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
+        "link": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
+        "description": "The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance. A postmortem from the company says the process started in June with one developer downloading a tampered installer apparently spread by a malicious Google ad, exposing details about the engineers and how they work. Then, in September, another engineer was targeted by someone pretending to be interested in hiring them; that person set up a series o",
+        "published": "2026-11-03T22:04:02.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23932848/acastro_STK018__02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 4,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "billion",
+          "google"
+        ],
+        "category": "crypto",
+        "alsoIn": [
+          {
+            "source": "CNBC",
+            "title": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto",
+            "link": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html"
+          }
+        ]
+      },
+      {
+        "title": "Bitcoin Miners Pivoted to AI—Only to Find It’s Just as Turbulent as Crypto",
+        "link": "https://www.wsj.com/finance/currencies/bitcoin-miners-pivoted-to-aionly-to-find-its-just-as-turbulent-as-crypto-17485887?mod=rss_Technology",
+        "description": "Operating AI data centers isn’t any easier for companies that swapped out their bitcoin-mining servers for greener pastures.",
+        "published": "2026-11-03T21:23:00.000Z",
+        "source": "WSJ",
+        "sourceKey": "wsj_tech",
+        "priority": 1,
+        "image": "https://images.wsj.net/im-91359896",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "bitcoin",
+          "data center"
+        ],
+        "category": "crypto"
+      },
+      {
+        "title": "Tether holds 150,000 bitcoin worth $11.5 billion, CEO Paolo Ardoino says",
+        "link": "https://www.coindesk.com/business/2026/11/03/tether-holds-150-000-bitcoin-worth-usd11-5-billion-ceo-paolo-ardoino-says",
+        "description": "Ardoino didn’t say where the extra coins sit. Holdings outside USDT reserves, such as Tether’s investments, wouldn’t appear in the report.",
+        "published": "2026-11-03T10:15:53.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/cf77cc4ef13d5a96ead8a667b3bb59bacd91731e-1280x853.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "ceo",
+          "billion",
+          "bitcoin"
+        ],
+        "category": "crypto"
+      },
+      {
+        "title": "Live updates: Bitcoin faces fifth weekly loss as midterm elections weigh on markets",
+        "link": "https://www.coindesk.com/markets/2026/11/03/live-news-bitcoin-faces-fifth-weekly-loss-as-midterm-uncertainty-and-apple-warning-weigh-on-markets",
+        "description": "A fifth straight weekly decline would mark bitcoin’s joint third-longest losing streak, as oil rebounds and Apple’s margin warning adds to investor caution ahead of the U.S. midterms.",
+        "published": "2026-11-03T09:50:16.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": null,
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "bitcoin",
+          "apple"
+        ],
+        "category": "crypto"
+      }
+    ],
     "regulation": [
+      {
+        "title": "Dorsey’s Block Details Bigger DOJ Settlement, Sunnier Guide",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-03/jack-dorsey-s-block-modestly-beats-third-quarter-expectations",
+        "description": "Block Inc. inched past Wall Street’s profit expectations on Tuesday and outlined a bigger potential settlement with the US Department of Justice for alleged customer abuses, as Jack Dorsey revamps his payments empire to make it more profitable and relevant.",
+        "published": "2026-11-03T21:20:03.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_markets",
+        "priority": 1,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "doj"
+        ],
+        "category": "regulation"
+      },
       {
         "title": "Trump DOJ sends target letters to Democrats in Alaska Senate criminal probe: Reports",
         "link": "https://www.cnbc.com/2026/11/03/trump-doj-election-lawsuits-monitors-2026-midterms.html",
@@ -5255,78 +5697,7 @@
         ],
         "category": "regulation"
       }
-    ],
-    "crypto": [
-      {
-        "title": "Bitcoin Miners Pivoted to AI—Only to Find It’s Just as Turbulent as Crypto",
-        "link": "https://www.wsj.com/finance/currencies/bitcoin-miners-pivoted-to-aionly-to-find-its-just-as-turbulent-as-crypto-17485887?mod=rss_Technology",
-        "description": "Operating AI data centers isn’t any easier for companies that swapped out their bitcoin-mining servers for greener pastures.",
-        "published": "2026-11-03T21:23:00.000Z",
-        "source": "WSJ",
-        "sourceKey": "wsj_tech",
-        "priority": 1,
-        "image": "https://images.wsj.net/im-91359896",
-        "baseScore": 3,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "bitcoin",
-          "data center"
-        ],
-        "category": "crypto"
-      },
-      {
-        "title": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto",
-        "link": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
-        "description": "Binance has replenished 98% of $6.34 billion in affected assets, according to a security report the crypto exchange issued Tuesday.",
-        "published": "2026-11-03T18:40:37.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_tech",
-        "priority": 1,
-        "image": null,
-        "baseScore": 3,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "ceo",
-          "billion"
-        ],
-        "category": "crypto"
-      },
-      {
-        "title": "Tether holds 150,000 bitcoin worth $11.5 billion, CEO Paolo Ardoino says",
-        "link": "https://www.coindesk.com/business/2026/11/03/tether-holds-150-000-bitcoin-worth-usd11-5-billion-ceo-paolo-ardoino-says",
-        "description": "Ardoino didn’t say where the extra coins sit. Holdings outside USDT reserves, such as Tether’s investments, wouldn’t appear in the report.",
-        "published": "2026-11-03T10:15:53.000Z",
-        "source": "CoinDesk",
-        "sourceKey": "coindesk",
-        "priority": 3,
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/cf77cc4ef13d5a96ead8a667b3bb59bacd91731e-1280x853.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-        "baseScore": 3,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "ceo",
-          "billion",
-          "bitcoin"
-        ],
-        "category": "crypto"
-      },
-      {
-        "title": "Live updates: Bitcoin faces fifth weekly loss as midterm elections weigh on markets",
-        "link": "https://www.coindesk.com/markets/2026/11/03/live-news-bitcoin-faces-fifth-weekly-loss-as-midterm-uncertainty-and-apple-warning-weigh-on-markets",
-        "description": "A fifth straight weekly decline would mark bitcoin’s joint third-longest losing streak, as oil rebounds and Apple’s margin warning adds to investor caution ahead of the U.S. midterms.",
-        "published": "2026-11-03T09:50:16.000Z",
-        "source": "CoinDesk",
-        "sourceKey": "coindesk",
-        "priority": 3,
-        "image": null,
-        "baseScore": 3,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "bitcoin",
-          "apple"
-        ],
-        "category": "crypto"
-      }
     ]
   },
-  "totalArticles": 286
+  "totalArticles": 306
 }
