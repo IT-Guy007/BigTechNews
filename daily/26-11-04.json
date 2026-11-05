@@ -4,7 +4,7 @@
   "title": "Wednesday, Nov 4",
   "dateRange": "November 4, 2026",
   "date": "2026-11-04",
-  "generatedAt": "2026-11-04T19:48:56.844Z",
+  "generatedAt": "2026-11-05T00:55:27.769Z",
   "highlights": [
     {
       "title": "Legal shifts in Texas and Delaware leave Elon Musk's SpaceX-Tesla merger and Meta's new non-voting share plan better prepared to fend off shareholder lawsuits (Financial Times)",
@@ -47,6 +47,39 @@
         "llm"
       ],
       "category": "ai"
+    },
+    {
+      "title": "Meta acquires Conductor, which lets developers run multiple AI coding agents in parallel; CEO Charlie Holtz says the team will join Meta Superintelligence Labs",
+      "link": "https://www.techmeme.com/261104/p46#a261104p46",
+      "description": "Meta acquires Conductor, which lets developers run multiple AI coding agents in parallel; CEO Charlie Holtz says the team will join Meta Superintelligence Labs — Meta has acquired Conductor, an AI coding startup that lets software engineers manage multiple coding agents simultaneously …",
+      "published": "2026-11-04T18:50:00.000Z",
+      "source": "Techmeme",
+      "sourceKey": "techmeme",
+      "priority": 1,
+      "image": "http://www.techmeme.com/261104/i46.jpg",
+      "via": "Axios",
+      "baseScore": 15,
+      "relevanceScore": 17,
+      "matchedKeywords": [
+        "meta",
+        "superintelligence",
+        "acquires",
+        "acquire",
+        "ceo"
+      ],
+      "category": "business",
+      "alsoIn": [
+        {
+          "source": "TechCrunch",
+          "title": "Meta acquires AI coding startup Conductor",
+          "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"
+        },
+        {
+          "source": "SiliconANGLE",
+          "title": "Meta acquires AI coding startup Conductor, whose app runs several coding agents at once",
+          "link": "https://siliconangle.com/2026/11/04/meta-acquires-ai-coding-startup-conductor-whose-app-runs-several-coding-agents-at-once/"
+        }
+      ]
     },
     {
       "title": "Hyperscalers and Apple surge after election results remove investor uncertainty",
@@ -100,7 +133,7 @@
       "priority": 1,
       "image": null,
       "baseScore": 13,
-      "relevanceScore": 15,
+      "relevanceScore": 16,
       "matchedKeywords": [
         "spacex",
         "qualcomm",
@@ -118,6 +151,11 @@
           "source": "DataCenterDynamics",
           "title": "Qualcomm signs 5G infrastructure agreement with SpaceX for Starlink Mobile's nationwide network in US",
           "link": "https://www.datacenterdynamics.com/en/news/qualcomm-signs-5g-infrastructure-agreement-with-spacex-for-starlink-mobiles-nationwide-network-in-us/"
+        },
+        {
+          "source": "ServeTheHome",
+          "title": "Qualcomm Dragonwing Nabs a Big SpaceX Starlink Mobile Nationwide US 5G Network Win",
+          "link": "https://www.servethehome.com/qualcomm-dragonwing-nabs-a-big-spacex-starlink-mobile-nationwide-us-5g-network-win/"
         }
       ]
     },
@@ -132,7 +170,7 @@
       "image": "http://www.techmeme.com/261104/i21.jpg",
       "via": "Axios",
       "baseScore": 14,
-      "relevanceScore": 15,
+      "relevanceScore": 16,
       "matchedKeywords": [
         "openai",
         "acquires",
@@ -144,6 +182,11 @@
           "source": "WSJ",
           "title": "OpenAI to Bring Pierre Computer’s Code Storage to Codex Through Acquisition",
           "link": "https://www.wsj.com/tech/ai/openai-to-bring-pierre-computers-code-storage-to-codex-through-acquisition-05f53582?mod=rss_Technology"
+        },
+        {
+          "source": "SiliconANGLE",
+          "title": "OpenAI to acquire developer tooling startup Pierre Computer",
+          "link": "https://siliconangle.com/2026/11/04/openai-to-acquire-developer-tooling-startup-pierre-computer/"
         }
       ]
     },
@@ -174,27 +217,6 @@
       ]
     },
     {
-      "title": "Meta acquires Conductor, which lets developers run multiple AI coding agents in parallel; CEO Charlie Holtz says the team will join Meta Superintelligence Labs",
-      "link": "https://www.techmeme.com/261104/p46#a261104p46",
-      "description": "Meta acquires Conductor, which lets developers run multiple AI coding agents in parallel; CEO Charlie Holtz says the team will join Meta Superintelligence Labs — Meta has acquired Conductor, an AI coding startup that lets software engineers manage multiple coding agents simultaneously …",
-      "published": "2026-11-04T18:50:00.000Z",
-      "source": "Techmeme",
-      "sourceKey": "techmeme",
-      "priority": 1,
-      "image": "http://www.techmeme.com/261104/i46.jpg",
-      "via": "Axios",
-      "baseScore": 15,
-      "relevanceScore": 15,
-      "matchedKeywords": [
-        "meta",
-        "superintelligence",
-        "acquires",
-        "acquire",
-        "ceo"
-      ],
-      "category": "business"
-    },
-    {
       "title": "TeraWulf secures a credit backstop agreement with Google to support financing for its data center project with Anthropic in Kentucky, set to come online H2 2027",
       "link": "https://www.techmeme.com/261104/p36#a261104p36",
       "description": "TeraWulf secures a credit backstop agreement with Google to support financing for its data center project with Anthropic in Kentucky, set to come online H2 2027 — Data-center developer TeraWulf (WULF.O) said on Wednesday it has secured a credit backstop agreement with Alphabet's Google …",
@@ -215,23 +237,24 @@
       "category": "chips_cloud"
     },
     {
-      "title": "DeepSeek engineer defends push for open-source AI smarter than humans despite higher risks",
-      "link": "https://www.scmp.com/tech/big-tech/article/3373262/deepseek-engineer-defends-push-open-source-ai-smarter-humans-despite-higher-risks",
-      "description": "DeepSeek is committed to open-source artificial intelligence to accelerate the arrival of artificial general intelligence (AGI), even if it heightens safety risks, a company engineer says, defying growing safety concerns from the US and scrutiny in China over whether the strategy poses national security risks. Speaking on Tuesday on an AI panel at the World Internet Conference (WIC) in Wuzhen, DeepSeek engineer Gao Xi said open-source development promoted shared innovations and technical...",
-      "published": "2026-11-04T12:00:10.000Z",
-      "source": "SCMP",
-      "sourceKey": "scmp_tech",
+      "title": "Amazon, Microsoft and other tech giants close higher after Democrats’ midterm sweep",
+      "link": "https://siliconangle.com/2026/11/04/amazon-microsoft-and-other-tech-giants-close-higher-after-democrats-midterm-sweep/",
+      "description": "Shares of Amazon.com Inc., Microsoft Corp., Alphabet Inc. and Meta Platforms Inc. closed higher today following Democrats’ resounding midterm victory. Amazon jumped 8.3% at one point and ended the trading session 6.1% higher than Tuesday. Microsoft gained nearly 6.7% while Alphabet and Google rose by about 3.1% and 1.4%, respectively. Multiple industry analysts tied the stock […] The post Amazon, Microsoft and other tech giants close higher after Democrats’ midterm sweep appeared first on Silico",
+      "published": "2026-11-04T23:42:04.000Z",
+      "source": "SiliconANGLE",
+      "sourceKey": "siliconangle",
       "priority": 2,
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/04/c2f95054-4ab8-413e-9031-9c2e3ab083c8_11cd33c9.jpg?itok=584jqj4P&v=1793784816",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Meta-1.png",
       "baseScore": 14,
       "relevanceScore": 14,
       "matchedKeywords": [
-        "deepseek",
-        "artificial general intelligence",
-        "agi",
-        "artificial intelligence"
+        "microsoft",
+        "amazon",
+        "google",
+        "alphabet",
+        "meta"
       ],
-      "category": "ai"
+      "category": "business"
     }
   ],
   "byCategory": {
@@ -279,6 +302,51 @@
         "category": "ev_autonomous"
       },
       {
+        "title": "Uber Wants Thousands Of Robotaxis By 2027. Waymo Is Already There",
+        "link": "https://insideevs.com/news/814442/uber-2000-robotaxis-2027/",
+        "description": "In its quarterly earnings call, Uber said its putting $10 billion into driverless cars.",
+        "published": "2026-11-04T21:27:21.000Z",
+        "source": "InsideEVs",
+        "sourceKey": "insideevs",
+        "priority": 2,
+        "image": "https://cdn.motor1.com/images/mgl/E6Xwkz/s3/verne-uber-ponyai.jpg",
+        "baseScore": 14,
+        "relevanceScore": 14,
+        "matchedKeywords": [
+          "uber",
+          "waymo",
+          "robotaxi",
+          "earnings",
+          "billion"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "What does a blue Texas sweep mean for Tesla, SpaceX & Elon Musk?",
+        "link": "https://electrek.co/2026/11/04/what-does-a-blue-texas-sweep-mean-for-tesla-spacex-elon-musk/",
+        "description": "After a historic election defeat in one of the most expensive elections in US election history, the state of Texas has turned blue. Along with this come potential implications for Elon Musk and his companies. more…",
+        "published": "2026-11-04T14:00:00.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2024/05/Elon-Musk-wrecking-ball.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 11,
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "tesla",
+          "spacex",
+          "elon musk"
+        ],
+        "category": "ev_autonomous",
+        "alsoIn": [
+          {
+            "source": "Ars Technica",
+            "title": "After Texas' blue wave, what happens to Elon Musk and SpaceX?",
+            "link": "https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/"
+          }
+        ]
+      },
+      {
         "title": "Musk’s Tesla, SpaceX Slide as Democrats Sweep Congress",
         "link": "https://www.bloomberg.com/news/articles/2026-11-04/tesla-spacex-shares-take-early-hit-as-midterm-blue-wave-unfolds",
         "description": "Shares of Elon Musk’s Tesla Inc. and Space Exploration Technologies Corp. fell ahead of Wednesday’s US stock-market opening as Democrats swept to control of Congress, sharpening investor concern over the future of the Republican megadonor’s key holdings.",
@@ -293,6 +361,24 @@
           "tesla",
           "spacex",
           "elon musk"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Waymo And Uber's Robotaxi Partnership Is Ending",
+        "link": "https://insideevs.com/news/814451/waymo-uber-robotaxi-partnership-is-ending/",
+        "description": "Waymo is planning to serve riders via its own app in Austin and Atlanta.",
+        "published": "2026-11-04T21:59:14.000Z",
+        "source": "InsideEVs",
+        "sourceKey": "insideevs",
+        "priority": 2,
+        "image": "https://cdn.motor1.com/images/mgl/OoMAnl/s3/waymo-driver-highway-hero.jpg",
+        "baseScore": 12,
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "uber",
+          "waymo",
+          "robotaxi"
         ],
         "category": "ev_autonomous"
       },
@@ -316,24 +402,6 @@
         "category": "ev_autonomous"
       },
       {
-        "title": "What does a blue Texas sweep mean for Tesla, SpaceX & Elon Musk?",
-        "link": "https://electrek.co/2026/11/04/what-does-a-blue-texas-sweep-mean-for-tesla-spacex-elon-musk/",
-        "description": "After a historic election defeat in one of the most expensive elections in US election history, the state of Texas has turned blue. Along with this come potential implications for Elon Musk and his companies. more…",
-        "published": "2026-11-04T14:00:00.000Z",
-        "source": "Electrek",
-        "sourceKey": "electrek",
-        "priority": 2,
-        "image": "https://electrek.co/wp-content/uploads/sites/3/2024/05/Elon-Musk-wrecking-ball.jpg?quality=82&#038;strip=all&#038;w=1600",
-        "baseScore": 11,
-        "relevanceScore": 11,
-        "matchedKeywords": [
-          "tesla",
-          "spacex",
-          "elon musk"
-        ],
-        "category": "ev_autonomous"
-      },
-      {
         "title": "Waymo confirms it will start splitting with Uber in January 2028",
         "link": "https://techcrunch.com/2026/11/04/waymo-confirms-it-will-start-splitting-with-uber-in-january-2028/",
         "description": "The split will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.",
@@ -349,7 +417,14 @@
           "waymo",
           "autonomous vehicle"
         ],
-        "category": "ev_autonomous"
+        "category": "ev_autonomous",
+        "alsoIn": [
+          {
+            "source": "TechCrunch",
+            "title": "Waymo confirms it’s shaking up its Uber relationship in January 2028",
+            "link": "https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028/"
+          }
+        ]
       },
       {
         "title": "Baidu’s new AI simulator gives robotaxis a crash course in rare road hazards",
@@ -473,6 +548,23 @@
           "tesla",
           "self-driving",
           "lawsuit"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Tesla Sold FSD To Koreans Who Still Can't Use It. Now It's Facing A Complaint",
+        "link": "https://insideevs.com/news/814404/tesla-fsd-south-korea-claims/",
+        "description": "Data shows that 99% of Teslas imported into Korea last year can't activate Full Self-Driving, even if owners paid for the feature.",
+        "published": "2026-11-04T22:35:46.000Z",
+        "source": "InsideEVs",
+        "sourceKey": "insideevs",
+        "priority": 2,
+        "image": "https://cdn.motor1.com/images/mgl/zxJB6K/s3/tesla-fsd-europe-quiz-netherlands.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "tesla",
+          "self-driving"
         ],
         "category": "ev_autonomous"
       },
@@ -686,6 +778,23 @@
         "category": "ai"
       },
       {
+        "title": "ChatGPT Is Getting a GIF Maker Powered by OpenAI's Unannounced Images 2.6 Model",
+        "link": "https://decrypt.co/382574/chatgpt-gif-maker-openai-unannounced-images-2-6-model",
+        "description": "OpenAI is rolling out animated GIF creation in ChatGPT, with frame-by-frame editing and speed controls.",
+        "published": "2026-11-04T22:16:05.000Z",
+        "source": "Decrypt",
+        "sourceKey": "decrypt",
+        "priority": 3,
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg@png",
+        "baseScore": 10,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "openai",
+          "chatgpt"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "Following backlash against its education updates, Google says schools can choose to enable Gemini, Gemini Notebook, and Search individually",
         "link": "https://www.techmeme.com/261103/p44#a261103p44",
         "description": "Following backlash against its education updates, Google says schools can choose to enable Gemini, Gemini Notebook, and Search individually — Google is playing defense on Tuesday after a political backlash to its new policy surrounding use of artificial intelligence in schools.",
@@ -705,6 +814,46 @@
         "category": "ai"
       },
       {
+        "title": "Google Tells Schools They Can Reject AI—But They'll Lose Search, Too",
+        "link": "https://decrypt.co/382572/google-schools-reject-ai-but-lose-search",
+        "description": "Google is giving schools more control over Gemini, but districts that want Search without AI are out of luck, fueling accusations that the company is pressuring educators into adopting AI.",
+        "published": "2026-11-04T21:16:03.000Z",
+        "source": "Decrypt",
+        "sourceKey": "decrypt",
+        "priority": 3,
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png@png",
+        "baseScore": 7,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "google",
+          "gemini"
+        ],
+        "category": "ai",
+        "alsoIn": [
+          {
+            "source": "The Decoder",
+            "title": "Schools that turn off Google's AI will lose search too starting in 2027",
+            "link": "https://the-decoder.com/schools-that-turn-off-googles-ai-will-lose-search-too-starting-in-2027/"
+          }
+        ]
+      },
+      {
+        "title": "OpenAI is already trying to shape the 2028 election",
+        "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+        "description": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
+        "published": "2026-11-04T21:25:44.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "OpenAI Agrees to Buy Software Startup Pierre to Bolster Codex",
         "link": "https://www.theinformation.com/briefings/openai-agrees-buy-software-startup-pierre-bolster-codex",
         "description": "OpenAI on Wednesday said it was buying Pierre Computer Company, a three-year-old startup that builds software tools to help developers manage and review code. OpenAI’s coding agent Codex is already using Pierre’s open-source developer tools, including Code Storage, a service that allows ...",
@@ -717,6 +866,59 @@
         "relevanceScore": 8,
         "matchedKeywords": [
           "openai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "A thousand fewer paths to root",
+        "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+        "description": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+        "published": "2026-11-04T08:00:00.000Z",
+        "source": "OpenAI",
+        "sourceKey": "openai_news",
+        "priority": 1,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Introducing Images 2.6",
+        "link": "https://openai.com/index/introducing-images-2-6",
+        "description": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+        "published": "2026-11-04T00:00:00.000Z",
+        "source": "OpenAI",
+        "sourceKey": "openai_news",
+        "priority": 1,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "openai",
+          "chatgpt"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Chiplets: Meta-Scale Chiplet Velocity Accelerating AI SoC Development to Match the Rapid Evolution of AI Model",
+        "link": "https://www.eetimes.com/chiplets-meta-scale-chiplet-velocity-accelerating-ai-soc-development-to-match-the-rapid-evolution-of-ai-model/",
+        "description": "This event session is presented by Olivia Wu, Distinguished Engineer at Meta AI model architectures are evolving faster than traditional chip development cycles, and at Meta’s scale—serving billions of users across ranking & recommendation and generative AI workloads—this mismatch is untenable. Meta’s Infra Silicon team has responded with a six-month SoC tape-out cadence, delivering four […] The post Chiplets: Meta-Scale Chiplet Velocity Accelerating AI SoC Development to Match the Rapid Evoluti",
+        "published": "2026-11-04T20:30:12.000Z",
+        "source": "EE Times",
+        "sourceKey": "eetimes",
+        "priority": 2,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "meta",
+          "ai model",
+          "generative ai",
+          "chip",
+          "billion"
         ],
         "category": "ai"
       },
@@ -900,6 +1102,57 @@
         "category": "ai"
       },
       {
+        "title": "Almost no one uses AI agents to book their Uber, company says",
+        "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+        "description": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+        "published": "2026-11-04T21:56:01.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "uber",
+          "ai agent"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+        "link": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+        "description": "AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that can summarize home events, search your video history, and more. With the update, Gemini for Home can provide detailed descriptions about events captured by your security cameras, such as who delivered a package and how many items they dropped off. You can also",
+        "published": "2026-11-04T20:23:24.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "gemini",
+          "google"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple Cuts Internal AI Usage Budgets in Move to Reduce Spending",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending",
+        "description": "Apple Inc. is reducing employee budgets for artificial intelligence usage as part of a cost-cutting effort, even as the company seeks to put AI at the center of its operations.",
+        "published": "2026-11-04T19:45:00.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "apple",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "Meta Starts Debut Euro Bond as AI Funding Race Gets Costlier",
         "link": "https://www.bloomberg.com/news/articles/2026-11-04/meta-starts-debut-euro-bond-sale-after-15-billion-dollar-deal",
         "description": "Meta Platforms Inc. is set to pay generous yields to borrow in euros for the first time, as the biggest technology companies are locked in a race to finance trillions of dollars of investments in artificial intelligence.",
@@ -1018,6 +1271,56 @@
         "category": "ai"
       },
       {
+        "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+        "link": "https://openai.com/index/devrev-enterprise-self-service",
+        "description": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+        "published": "2026-11-04T00:00:00.000Z",
+        "source": "OpenAI",
+        "sourceKey": "openai_news",
+        "priority": 1,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Oracle connects AI-driven testing with a new approach to database security",
+        "link": "https://siliconangle.com/2026/11/04/real-application-testing-keeps-ai-driven-security-patches-safe-oracleaiworld/",
+        "description": "Frontier AI models that uncover software flaws by the hundreds are forcing database providers into larger, faster patch cycles, and real application testing is becoming the safeguard that keeps those fixes from breaking production systems. The same AI wave is also undermining security rules written into applications. Oracle Corp. has responded on two fronts, hardening […] The post Oracle connects AI-driven testing with a new approach to database security appeared first on SiliconANGLE.",
+        "published": "2026-11-04T20:22:54.000Z",
+        "source": "SiliconANGLE",
+        "sourceKey": "siliconangle",
+        "priority": 2,
+        "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/IMG_0524.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "oracle",
+          "ai model"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple employee AI budgets cut to reduce costs",
+        "link": "https://appleinsider.com/articles/26/11/04/apple-employee-ai-budgets-cut-to-reduce-costs?utm_source=rss",
+        "description": "Employees relying on third-party AI use to perform work at Apple will need to cut back as funding has been reduced by as much as a third for some. Apple's AI funding for external bots has been reduced Internal artificial intelligence use has become too expensive for many companies, including Apple, as returns for the expenses continue to wane. Apple uses the features for coding assistance, bug hunting, and more, but reliance on these expensive tools is proving costly. According to a report from",
+        "published": "2026-11-04T20:17:08.000Z",
+        "source": "AppleInsider",
+        "sourceKey": "appleinsider",
+        "priority": 2,
+        "image": "https://media.appleinsider.com/gallery/69706-146948-iPhone-17-Pro-Max-bar-xl.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "apple",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "The results are in: More of you are using premium Gemini than we expected",
         "link": "https://www.androidauthority.com/google-ai-pro-most-popular-gemini-tier-3731774/",
         "description": "Google AI Plus isn't as popular.",
@@ -1086,6 +1389,23 @@
         "category": "ai"
       },
       {
+        "title": "John Chambers Makes the Case for AI, Calling It a Win for Society",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-04/john-chambers-backs-ai-calling-it-a-win-for-society-video",
+        "description": "John Chambers, founder of JC2 Ventures and former CEO of Cisco, says he was not surprised by the pace of AI growth or capital formation, noting that he backed AI startups nine years ago. He speaks on \"Bloomberg The Close.\" (Source: Bloomberg)",
+        "published": "2026-11-04T22:26:59.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "cisco",
+          "ceo"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "We want to clarify what we announced today about our education services. Today's announcements give schools more choice, not less. Here's what we announced: - Gemini, Gemini Notebook, and Search will be OFF 🔴 by default. This is based on K-12 schools asking for more control over student use of AI... (@newsfromgoogle)",
         "link": "https://www.techmeme.com/261103/p41#a261103p41",
         "description": "@newsfromgoogle: We want to clarify what we announced today about our education services. Today's announcements give schools more choice, not less. Here's what we announced: - Gemini, Gemini Notebook, and Search will be OFF 🔴 by default. This is based on K-12 schools asking for more control over student use of AI...",
@@ -1098,6 +1418,87 @@
         "relevanceScore": 4,
         "matchedKeywords": [
           "gemini"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple is Putting Employees on an AI Budget",
+        "link": "https://www.macrumors.com/2026/11/04/apple-reducing-employee-ai-spending/",
+        "description": "Apple is curtailing employee AI use to cut costs, reports Bloomberg. In October, Apple limited some engineers to $200 per day for AI spending, down from $300. More cuts could be coming, with daily allowances for some engineers dropping to $100. Many groups outside engineering already have a $100 daily limit, but some teams could have their spending capped at $25. Apple is asking some teams to use less expensive models or switch to on-device AI. Employees who need a bigger budget will be able to",
+        "published": "2026-11-04T21:46:18.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/01/Apple-Logo-Black.jpeg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Research prediction: Shift from digital banking to AI-driven finance will transform financial services in 2027",
+        "link": "https://siliconangle.com/2026/11/04/financial-services-forrester-research-ai-predictions-thecube/",
+        "description": "The coming year will signal an abrupt transition from digital banking to intelligent finance, as AI agents and operating models reshape the ways that financial firms acquire customers and provide advice. This is the central thesis of a new Forrester Research report, “Predictions 2027: Banking and Investing.” The findings were summarized from data involving 915 […] The post Research prediction: Shift from digital banking to AI-driven finance will transform financial services in 2027 appeared firs",
+        "published": "2026-11-04T20:40:44.000Z",
+        "source": "SiliconANGLE",
+        "sourceKey": "siliconangle",
+        "priority": 2,
+        "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Wizards-AI-Financial-Crystal-Ball.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "acquire",
+          "ai agent"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Report: Apple reduces employees’ AI token allowances as Ternus moves to cut costs",
+        "link": "https://9to5mac.com/2026/11/04/report-apple-reduces-employees-ai-token-allowances-as-ternus-moves-to-cut-costs/",
+        "description": "Bloomberg reports that Apple has begun reducing employees’ daily AI spending limits, with some engineers seeing their allowances cut from $300 to $200, and further reductions planned across multiple teams. Here are the details. more…",
+        "published": "2026-11-04T20:21:29.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/john-ternus-imac-launch.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
+        "link": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
+        "description": "Google is tying up AI Overviews with traditional search, angering parents and educators who worry that easy, machine-generated answers are leaving kids less capable.",
+        "published": "2026-11-04T20:06:21.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": "https://media.wired.com/photos/6aeb7c5b7b2c9d5f35a29177/master/pass/110426-google-search-schools.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "As AI takes over coding, Oracle rethinks how applications are built",
+        "link": "https://siliconangle.com/2026/11/04/vibe-coding-meets-governance-apexlang-abstraction-oracleaiworld/",
+        "description": "As vibe coding moves from novelty to everyday practice, enterprises face a new problem: Machine-generated software still has to be maintained, governed and understood by people. Low-code platforms were built to speed up application development, and AI is now rewriting that mission. Oracle Corp. previewed its answer ahead of its annual conference, and the tipping […] The post As AI takes over coding, Oracle rethinks how applications are built appeared first on SiliconANGLE.",
+        "published": "2026-11-04T19:57:50.000Z",
+        "source": "SiliconANGLE",
+        "sourceKey": "siliconangle",
+        "priority": 2,
+        "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/IMG_0248.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "oracle"
         ],
         "category": "ai"
       },
@@ -1166,22 +1567,6 @@
         "category": "ai"
       },
       {
-        "title": "Schools that turn off Google's AI will lose search too starting in 2027",
-        "link": "https://the-decoder.com/schools-that-turn-off-googles-ai-will-lose-search-too-starting-in-2027/",
-        "description": "Starting in 2027, Google plans to turn off AI features in its school products by default, letting schools decide what to enable. The catch: schools that block AI entirely on their devices will also lose access to Google Search, since the two systems are now too deeply intertwined to separate. Given Google's grip on the US school market, that \"choice\" doesn't leave schools with much room to maneuver. The article Schools that turn off Google's AI will lose search too starting in 2027 appeared firs",
-        "published": "2026-11-04T10:06:23.000Z",
-        "source": "The Decoder",
-        "sourceKey": "thedecoder",
-        "priority": 2,
-        "image": "https://the-decoder.com/wp-content/uploads/2026/11/google_ai_schools.png",
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "google"
-        ],
-        "category": "ai"
-      },
-      {
         "title": "Google schakelt zoekfunctie mogelijk volledig uit op scholen die geen AI willen",
         "link": "https://tweakers.net/nieuws/254116/google-schakelt-zoekfunctie-mogelijk-volledig-uit-op-scholen-die-geen-ai-willen.html",
         "description": "Google schakelt zijn zoekfunctie mogelijk volledig uit op scholen die de AI van het bedrijf afwijzen, meldt The New York Times. Volgens Chris Philips, vicepresident onderwijs bij Google, zijn Google Zoeken en AI 'diep met elkaar verweven' en biedt het bedrijf de functies niet los van elkaar aan.",
@@ -1194,6 +1579,23 @@
         "relevanceScore": 4,
         "matchedKeywords": [
           "google"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Figma sinks after earnings beat as company prioritizes long-term growth with AI changes",
+        "link": "https://www.cnbc.com/2026/11/04/figma-fig-q3-earnings-report-2026.html",
+        "description": "Figma is letting clients use more artificial intelligence features for the same price. The company would like the move to boost results in the long term.",
+        "published": "2026-11-04T23:02:39.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "earnings",
+          "artificial intelligence"
         ],
         "category": "ai"
       },
@@ -1231,6 +1633,22 @@
         "category": "ai"
       },
       {
+        "title": "ChatGPT finally adds the image tool the internet has been waiting for",
+        "link": "https://www.androidauthority.com/chatgpt-animated-gif-generation-3731805/",
+        "description": "Forget finding the perfect GIF, ChatGPT will now let you generate 'em.",
+        "published": "2026-11-04T21:25:00.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/chatgpt-caricature-trend-how-to-hero-3-scaled.jpg",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "chatgpt"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "Smart Reports: Was Vorgesetzte über die Claude-Nutzung von Mitarbeitern erfahren",
         "link": "https://www.heise.de/news/Smart-Reports-Was-Vorgesetzte-ueber-die-Claude-Nutzung-von-Mitarbeitern-erfahren-11511478.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
         "description": "Die neue Claude-Funktion soll Unternehmen helfen, ihre KI-Kosten zu kontrollieren. Gleichzeitig ermöglicht sie, die Leistung ihrer Mitarbeiter zu bewerten.",
@@ -1261,6 +1679,527 @@
           "claude"
         ],
         "category": "ai"
+      }
+    ],
+    "business": [
+      {
+        "title": "Meta acquires Conductor, which lets developers run multiple AI coding agents in parallel; CEO Charlie Holtz says the team will join Meta Superintelligence Labs",
+        "link": "https://www.techmeme.com/261104/p46#a261104p46",
+        "description": "Meta acquires Conductor, which lets developers run multiple AI coding agents in parallel; CEO Charlie Holtz says the team will join Meta Superintelligence Labs — Meta has acquired Conductor, an AI coding startup that lets software engineers manage multiple coding agents simultaneously …",
+        "published": "2026-11-04T18:50:00.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261104/i46.jpg",
+        "via": "Axios",
+        "baseScore": 15,
+        "relevanceScore": 17,
+        "matchedKeywords": [
+          "meta",
+          "superintelligence",
+          "acquires",
+          "acquire",
+          "ceo"
+        ],
+        "category": "business",
+        "alsoIn": [
+          {
+            "source": "TechCrunch",
+            "title": "Meta acquires AI coding startup Conductor",
+            "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"
+          },
+          {
+            "source": "SiliconANGLE",
+            "title": "Meta acquires AI coding startup Conductor, whose app runs several coding agents at once",
+            "link": "https://siliconangle.com/2026/11/04/meta-acquires-ai-coding-startup-conductor-whose-app-runs-several-coding-agents-at-once/"
+          }
+        ]
+      },
+      {
+        "title": "OpenAI acquires developer tools startup Pierre Computer for an undisclosed amount and plans to integrate Pierre's Code Storage feature directly into Codex",
+        "link": "https://www.techmeme.com/261104/p21#a261104p21",
+        "description": "OpenAI acquires developer tools startup Pierre Computer for an undisclosed amount and plans to integrate Pierre's Code Storage feature directly into Codex — OpenAI will acquire Pierre Computer, a developer tools startup whose technology is already embedded in Codex, the company told Axios exclusively.",
+        "published": "2026-11-04T12:10:00.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261104/i21.jpg",
+        "via": "Axios",
+        "baseScore": 14,
+        "relevanceScore": 16,
+        "matchedKeywords": [
+          "openai",
+          "acquires",
+          "acquire"
+        ],
+        "category": "business",
+        "alsoIn": [
+          {
+            "source": "WSJ",
+            "title": "OpenAI to Bring Pierre Computer’s Code Storage to Codex Through Acquisition",
+            "link": "https://www.wsj.com/tech/ai/openai-to-bring-pierre-computers-code-storage-to-codex-through-acquisition-05f53582?mod=rss_Technology"
+          },
+          {
+            "source": "SiliconANGLE",
+            "title": "OpenAI to acquire developer tooling startup Pierre Computer",
+            "link": "https://siliconangle.com/2026/11/04/openai-to-acquire-developer-tooling-startup-pierre-computer/"
+          }
+        ]
+      },
+      {
+        "title": "Amazon, Microsoft and other tech giants close higher after Democrats’ midterm sweep",
+        "link": "https://siliconangle.com/2026/11/04/amazon-microsoft-and-other-tech-giants-close-higher-after-democrats-midterm-sweep/",
+        "description": "Shares of Amazon.com Inc., Microsoft Corp., Alphabet Inc. and Meta Platforms Inc. closed higher today following Democrats’ resounding midterm victory. Amazon jumped 8.3% at one point and ended the trading session 6.1% higher than Tuesday. Microsoft gained nearly 6.7% while Alphabet and Google rose by about 3.1% and 1.4%, respectively. Multiple industry analysts tied the stock […] The post Amazon, Microsoft and other tech giants close higher after Democrats’ midterm sweep appeared first on Silico",
+        "published": "2026-11-04T23:42:04.000Z",
+        "source": "SiliconANGLE",
+        "sourceKey": "siliconangle",
+        "priority": 2,
+        "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Meta-1.png",
+        "baseScore": 14,
+        "relevanceScore": 14,
+        "matchedKeywords": [
+          "microsoft",
+          "amazon",
+          "google",
+          "alphabet",
+          "meta"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Tech, AI Stocks Split After Democratic Sweep: Microsoft Jumps, Tesla and Nvidia Tank",
+        "link": "https://decrypt.co/382528/tech-ai-stocks-split-democratic-microsoft-jumps-tesla-nvidia-tank",
+        "description": "Microsoft and Alphabet surged while Nvidia and Tesla fell, highlighting a divided market as investors reassess Washington's approach to AI and Big Tech.",
+        "published": "2026-11-04T17:06:03.000Z",
+        "source": "Decrypt",
+        "sourceKey": "decrypt",
+        "priority": 3,
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg@png",
+        "baseScore": 14,
+        "relevanceScore": 14,
+        "matchedKeywords": [
+          "microsoft",
+          "nvidia",
+          "tesla",
+          "alphabet"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Sources: Apple cut some engineers' daily AI spending cap to $200 from $300 and plans cuts to as little as $100, as cost cutting stokes staff fears of layoffs",
+        "link": "https://www.techmeme.com/261104/p49#a261104p49",
+        "description": "Sources: Apple cut some engineers' daily AI spending cap to $200 from $300 and plans cuts to as little as $100, as cost cutting stokes staff fears of layoffs — Apple Inc. is reducing employee budgets for artificial intelligence usage as part of a cost-cutting effort, even as the company seeks …",
+        "published": "2026-11-04T20:10:01.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261104/i49.jpg",
+        "via": "Bloomberg",
+        "baseScore": 13,
+        "relevanceScore": 13,
+        "matchedKeywords": [
+          "apple",
+          "layoffs",
+          "layoff",
+          "artificial intelligence"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Cerebras’ Lockups Hold a Lesson for Anthropic Employees",
+        "link": "https://www.theinformation.com/articles/cerebras-lockups-hold-lesson-anthropic-employees",
+        "description": "Even before Wednesday’s election-driven sell-off in tech stocks, Cerebras shares had fallen sharply since its initial public offering six months ago. That’s bad news for investors who bought at the IPO as well as employees who hung on to their newly public shares. But those insiders needn’t have gotten burned. Cerebras offered them the chance to sell much of their stock at various times over the past six months, which is unlike how newly public companies typically operate. The outcome holds a le",
+        "published": "2026-11-04T19:51:17.000Z",
+        "source": "The Information",
+        "sourceKey": "theinformation",
+        "priority": 1,
+        "image": null,
+        "baseScore": 11,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "anthropic",
+          "ipo"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Aussie Adobe assailant Canva announces layoffs in re-org affecting 22% of staff",
+        "link": "https://www.theregister.com/saas/2026/11/04/aussie-adobe-assailant-canva-announces-layoffs-in-re-org-affecting-22-of-staff/5307422",
+        "description": "No mention of AI, but a nod to the pace of technological change",
+        "published": "2026-11-04T00:14:41.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=5307429&width=800",
+        "baseScore": 11,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "adobe",
+          "layoffs",
+          "layoff"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Synopsys, Cadence Shares Drop 4% on The Information Report",
+        "link": "https://www.theinformation.com/briefings/synopsys-cadence-shares-drop-4-information-report",
+        "description": "Shares of Synopsys and Cadence Design Systems dropped as much as 4% on Tuesday after The Information reported that Anthropic has told investors that it is using its own Claude models for engineering and design work on its custom chips. Anthropic’s engineers found that Claude cuts down the time ...",
+        "published": "2026-11-04T00:05:36.000Z",
+        "source": "The Information",
+        "sourceKey": "theinformation",
+        "priority": 1,
+        "image": null,
+        "baseScore": 10,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "anthropic",
+          "claude",
+          "chip"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Quantum Computing on Commercial Scale",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-04/quantum-computing-on-commercial-scale-video",
+        "description": "Ebba Carbonnier, CEO, QuNorth; Jan Goetz, Co-Founder & CEO, IQM Quantum Computers and Carmen Palacios-Berraquero, Founder & CEO, Nu Quantum, discuss the technology, infrastructure, investment and demand shaping quantum computing’s commercial future with Bloomberg’s Mark Bergen at Bloomberg Tech 2026 in London. (Source: Bloomberg)",
+        "published": "2026-11-04T00:01:30.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "quantum computing",
+          "quantum computer",
+          "ceo"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Lumentum Sell-Off After Marvell Offer Raises Chance of Alternate Bid",
+        "link": "https://www.theinformation.com/articles/lumentum-sell-off-marvell-offer-raises-chance-alternate-bid",
+        "description": "Lumentum, the optical networking component maker that Marvell Technology said on Monday it would buy, was swept up by Wednesday’s election-driven sell-off of stocks that have benefited most from the AI data center boom. But investors shouldn’t lose sight of the bigger picture—another bidder for Lumentum could emerge, or Marvell could come back and sweeten its proposal with more cash. Marvell’s proposed all-stock acquisition of Lumentum—which as of Tuesday valued the firm at around $80 billion—sh",
+        "published": "2026-11-04T18:54:45.000Z",
+        "source": "The Information",
+        "sourceKey": "theinformation",
+        "priority": 1,
+        "image": null,
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "acquisition",
+          "data center",
+          "billion"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Qualcomm stock drops 7% on weak earnings forecast as memory shortage weighs on smartphone sales",
+        "link": "https://www.cnbc.com/2026/11/04/qualcomm-qcom-earnings-report-q4-2026.html",
+        "description": "Qualcomm delivered better-than-expected results but issued a weak earnings forecast.",
+        "published": "2026-11-04T23:38:11.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "qualcomm",
+          "earnings"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Host Hotels & Resorts CEO on 3Q Quarterly Results",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-04/host-hotels-resorts-ceo-on-3q-quarterly-results-video",
+        "description": "Host Hotels & Resorts raised its full-year outlook, including adjusted EBITDA and comparable hotel RevPAR growth. CEO and President Jim Risoleo discussed the acquisition of 1 Hotel Brooklyn Bridge, the fourth 1e Hotel in Host’s portfolio. He cited its 2017 opening, lack of deferred capital expenditures, 175 rooms, meeting space, dining options and waterfront location overlooking Manhattan. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
+        "published": "2026-11-04T22:48:47.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_markets",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "ceo",
+          "acquisition"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Uber beats on revenue, CEO tells CNBC the company is 'investing significantly' to add drivers",
+        "link": "https://www.cnbc.com/2026/11/04/uber-stock-q3-2026-earnings.html",
+        "description": "Uber reported better-than-expected revenue but its mobility unit faced higher fuel costs overseas and tighter driver supply.",
+        "published": "2026-11-04T17:04:32.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "uber",
+          "ceo"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "CVS to split off drugstore business in major breakup of healthcare giant",
+        "link": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
+        "description": "The move would reverse the company's $78 billion acquisition of Aetna, and dismantle the vertically integrated healthcare conglomerate it created in 2018.",
+        "published": "2026-11-04T11:46:17.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_top",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "acquisition",
+          "billion"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Isomorphic Labs in Talks for About $5 Billion in Funding",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-04/isomorphic-labs-in-talks-for-about-5-billion-in-funding",
+        "description": "Alphabet Inc.’s Isomorphic Labs is in talks to raise roughly $5 billion in new funds to support its efforts to use artificial intelligence for drug discovery, according to people familiar with the matter.",
+        "published": "2026-11-04T22:51:44.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "billion",
+          "alphabet",
+          "artificial intelligence"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Qualcomm Revenue Will Shift Away From Handsets, CFRA's Zino Says",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-04/qualcomm-will-shift-away-from-handsets-cfra-s-zino-says-video",
+        "description": "CFRA Research Senior VP and Equity Analyst Angelo Zino discusses Qualcomm’s latest quarterly results and outlook. Speaking on \"Bloomberg The Close,\" Zino expects a lower gross margin profile as Qualcomm shifts away from handsets. (Source: Bloomberg)",
+        "published": "2026-11-04T21:54:47.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "qualcomm"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Uber Delivery Accelerates as Rides Growth Slows",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-04/uber-delivery-accelerates-as-rides-growth-slows-video",
+        "description": "Uber’s delivery business saw strong acceleration in the third quarter, giving investors a reason to look past slower growth in its signature ride-hailing business. Ygal Arounian, managing director at Wedbush, discusses why the slowdown in the rides business wasn't too concerning and how Uber can continue to compete in grocery delivery even after a tie-up between rivals DoorDash and Instacart. He speaks with Carol Massar on \"Bloomberg Tech.\" (Source: Bloomberg)",
+        "published": "2026-11-04T19:36:09.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "uber"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Online Supermarket Unicorn Rohlik Weighs Prague IPO, CEO Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-04/online-supermarket-unicorn-rohlik-weighs-prague-ipo-ceo-says",
+        "description": "Rohlik Group is weighing an initial public offering in Prague as one option for taking the Czech online supermarket public.",
+        "published": "2026-11-04T13:48:27.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "ipo",
+          "ceo"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Palantir CEO says it's pioneering an antiwar movement – while happily accepting defense dollars",
+        "link": "https://www.theregister.com/offbeat/2026/11/04/palantir-ceo-says-its-pioneering-an-antiwar-movement-while-happily-accepting-defense-dollars/5307605",
+        "description": "Alex Karp casts military software as a force for peace while declaring a moral imperative to dominate the market",
+        "published": "2026-11-04T19:25:00.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=258394&width=800",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "palantir",
+          "ceo"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "AI cloud startup Applied Compute raises $350M after reaching key revenue milestone",
+        "link": "https://siliconangle.com/2026/11/03/ai-cloud-startup-applied-compute-raises-350m-after-reaching-key-revenue-milestone/",
+        "description": "Applied Compute Inc., a fast-growing provider of artificial intelligence infrastructure, has raised $350 million in funding at a $3.25 billion valuation. The startup announced the deal on Monday. It stated that prominent angel investor Elad Gil led the round with participation from Nvidia Corp., Shopify Ventures, HubSpot Ventures and over a dozen others. Applied Compute […] The post AI cloud startup Applied Compute raises $350M after reaching key revenue milestone appeared first on SiliconANGLE.",
+        "published": "2026-11-04T01:19:08.000Z",
+        "source": "SiliconANGLE",
+        "sourceKey": "siliconangle",
+        "priority": 2,
+        "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Applied-Compute.png",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "nvidia",
+          "artificial intelligence",
+          "valuation",
+          "billion"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Apple expects its highest revenue yet in Q4, but memory prices will hurt profits",
+        "link": "https://www.gsmarena.com/apple_expects_q4_2026_to_be_the_best_revenue_quarter_in_the_history_of_the_company-news-75332.php",
+        "description": "During an earnings call on November 2, the company's CFO Kevan Parekh said that Apple is expecting Q4 this year to be the best quarter in the history of the company in terms of revenue. The fiscal Q4 2026 (ending in September) results point to a very optimistic near future for the company, despite the supply chain constraints, rising component prices and inventory shortages. The forecast comes amid Apple's record-breaking numbers reported in Q3 2026. Apple admitted that the macroeconomic factors",
+        "published": "2026-11-04T01:02:02.000Z",
+        "source": "GSMArena",
+        "sourceKey": "gsmarena",
+        "priority": 3,
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/10/apple-event-october-28/-184x111/gsmarena_00.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "apple",
+          "earnings"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Africa-Focused OPay Is Said to Halt US IPO After China Inquiry",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-04/africa-focused-opay-is-said-to-halt-us-ipo-after-china-inquiry",
+        "description": "Inquiries by a Chinese regulator prompted Nigeria-focused payments company OPay Ltd. to halt its $300 million US initial public offering just hours after setting the price, according to people familiar with the matter.",
+        "published": "2026-11-04T14:07:27.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "ipo"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Quantum Roadmaps Are Finally Meeting Reality",
+        "link": "https://www.eetimes.com/quantum-roadmaps-are-finally-meeting-reality/",
+        "description": "Quantum computing revenue surpassed $1 billion in 2025, but missed forecasts highlight the gap between commercial expectations and delivery. The post Quantum Roadmaps Are Finally Meeting Reality appeared first on EE Times.",
+        "published": "2026-11-04T09:11:15.000Z",
+        "source": "EE Times",
+        "sourceKey": "eetimes",
+        "priority": 2,
+        "image": "https://www.eetimes.com/wp-content/uploads/Feature-Image-source-IBM-e1790652956231.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "quantum computing",
+          "billion"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "ScottsMiracle-Gro CEO on Earnings Beat, Growth Outlook",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-04/scottsmiracle-gro-ceo-on-earnings-beat-growth-outlook-video",
+        "description": "ScottsMiracle-Gro shares rose about 10% after its earnings report, with investors focusing on guidance that exceeded expectations. Nate Baxter, the company’s President and CEO, says fiscal 2026 revenue grew about 1%, partly because the company exited lower-margin commodity products and changed its product mix. He speaks with Romaine Bostick & Vonnie Quinn on \"The Close.\" (Source: Bloomberg)",
+        "published": "2026-11-04T22:33:37.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "ceo",
+          "earnings"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Arm reports Q2 revenue up 27% YoY to $1.44B, vs. $1.38B est., royalty revenue up 8% to $670M, vs. $720.8M est., and licensing revenue up 50% to $773M (Reuters)",
+        "link": "https://www.techmeme.com/261104/p51#a261104p51",
+        "description": "Reuters: Arm reports Q2 revenue up 27% YoY to $1.44B, vs. $1.38B est., royalty revenue up 8% to $670M, vs. $720.8M est., and licensing revenue up 50% to $773M — Arm Holdings (O9Ty.F), beat Wall Street estimates for second-quarter revenue on Wednesday, driven by higher royalty payments and licensing fees …",
+        "published": "2026-11-04T21:31:03.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261104/i51.jpg",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "arm holdings"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Nintendo is losing a Switch cartridge supplier",
+        "link": "https://www.theverge.com/games/1026426/nintendo-switch-cartridges-rom-supplier-data-center",
+        "description": "Nintendo is about to lose a major memory supplier for its Switch cartridges. The supplier, Macronix, announced during a recent quarterly earnings call that it would be gradually phasing out ROM production and is instead focusing on NOR flash memory for data centers, Taipei Times reports. Macronix's ROM revenue fell 39 percent compared with last year in Q3 2026, but its revenue from NOR memory rose 158 percent, and its revenue from NAND memory surged 768 percent year over year. According to Taipe",
+        "published": "2026-11-04T17:03:32.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/jbareham_180301_2346_nintendo_switch_0094.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "data center",
+          "earnings"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Revolut hits a $115B valuation, up from $75B in November 2025, after a secondary share sale led by Glade Brook, Coatue, and others, as it plans a US bank launch",
+        "link": "https://www.techmeme.com/261104/p33#a261104p33",
+        "description": "Revolut hits a $115B valuation, up from $75B in November 2025, after a secondary share sale led by Glade Brook, Coatue, and others, as it plans a US bank launch — Revolut's investors have completed a secondary share sale that values the British fintech at $115 billion …",
+        "published": "2026-11-04T14:30:28.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261104/i33.jpg",
+        "via": "TechCrunch",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "valuation",
+          "billion"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Autonomous site reliability engineering startup Traversal bags $120M in funding at a $1B valuation",
+        "link": "https://siliconangle.com/2026/11/03/autonomous-site-reliability-engineering-startup-traversal-bags-120m-in-funding-at-a-1b-valuation/",
+        "description": "Traversal Inc., a startup that’s trying to automate site reliability engineering tasks with artificial intelligence agents, seems to be closing in on that goal after raising $120 million in fresh funding, bringing its valuation to $1 billion. The newly minted unicorn’s round was led by Kleiner Perkins, Redpoint Ventures and Khosla Ventures, three of Silicon […] The post Autonomous site reliability engineering startup Traversal bags $120M in funding at a $1B valuation appeared first on SiliconANG",
+        "published": "2026-11-04T03:47:11.000Z",
+        "source": "SiliconANGLE",
+        "sourceKey": "siliconangle",
+        "priority": 2,
+        "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Screenshot-from-2026-11-04-10-43-51.png",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "valuation",
+          "artificial intelligence",
+          "billion"
+        ],
+        "category": "business"
       }
     ],
     "chips_cloud": [
@@ -1379,6 +2318,26 @@
         ]
       },
       {
+        "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+        "description": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier this year. The company expects that portion of its business to grow quickly, forecasting around $650 million in data center revenue during the first quarter of 2027. But it an",
+        "published": "2026-11-04T22:42:15.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007992/acastro_STK082_qualcomm_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 11,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "qualcomm",
+          "data center",
+          "amazon",
+          "meta",
+          "earnings"
+        ],
+        "category": "chips_cloud"
+      },
+      {
         "title": "Apollo Is Vastly Outspending the Neoclouds on AI Chips",
         "link": "https://www.theinformation.com/articles/apollo-vastly-outspending-neoclouds-ai-chips",
         "description": "Last week, SpaceX’s announcement that it would lease $40 billion worth of Nvidia Vera Rubin chips was a further signal of Elon Musk’s grand ambitions in the AI race. The deal also underscores the arrival of a new big player in that competition: Apollo Global Management, a 36-year-old private-equity pioneer turned private-lending giant. In the deal with SpaceX, Apollo will purchase the chips through a subsidiary, then lease them to Musk’s company. The arrangement follows a supersized Apollo deal",
@@ -1436,6 +2395,44 @@
           "amazon",
           "coreweave",
           "data center"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Report: Apple and Samsung outperform rivals as smartphone chip shipments tumble 21%",
+        "link": "https://9to5mac.com/2026/11/04/report-apple-and-samsung-outperform-rivals-as-smartphone-chip-shipments-tumble-21/",
+        "description": "According to Counterpoint Research, Apple and Samsung were the only major smartphone chip vendors to gain market share in Q3 2026, as global shipments declined 21% year-over-year. Here are the details. more…",
+        "published": "2026-11-04T23:59:10.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/a19-pro-apple-black.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "apple",
+          "samsung",
+          "chip"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "The chips are down: Qualcomm falls on revenue miss, weak guidance; Arm and GlobalFoundries do little better",
+        "link": "https://siliconangle.com/2026/11/04/qualcomms-stock-falls-on-revenue-miss-and-weak-guidance-arm-and-globalfoundries-do-little-better/",
+        "description": "Chipmakers Qualcomm Inc., Arm Holdings Ltd. and GlobalFoundries Ltd. struggled to move the needle today after reporting financial results that clearly left investors wanting more. After an impressive earnings beat from Advanced Micro Devices Inc. just 24 hours earlier, investors may have had heightened expectations. But if they did, on a day when the market […] The post The chips are down: Qualcomm falls on revenue miss, weak guidance; Arm and GlobalFoundries do little better appeared first on S",
+        "published": "2026-11-04T23:42:09.000Z",
+        "source": "SiliconANGLE",
+        "sourceKey": "siliconangle",
+        "priority": 2,
+        "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Screenshot-from-2025-05-01-08-41-13.png",
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "qualcomm",
+          "chip",
+          "arm holdings",
+          "chipmaker",
+          "earnings"
         ],
         "category": "chips_cloud"
       },
@@ -1574,6 +2571,42 @@
         "category": "chips_cloud"
       },
       {
+        "title": "AMD's record quarter: Data center business doubles, while gaming craters",
+        "link": "https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/",
+        "description": "AMD's gaming revenue fell 40 percent in an otherwise record $13.4 billion quarter.",
+        "published": "2026-11-04T21:29:46.000Z",
+        "source": "Ars Technica",
+        "sourceKey": "arstechnica",
+        "priority": 1,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/AMD_Helios_Rack_Instinct_MI455X-1152x540.webp",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "amd",
+          "data center",
+          "billion"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Exclusive: Microsoft Lowered Data Center Spending Following Delays By Cloud Firm Iren",
+        "link": "https://www.theinformation.com/briefings/exclusive-microsoft-lowered-data-center-spending-following-delays-cloud-firm-iren",
+        "description": "Microsoft said last week that it spent about $5 billion less on capital expenditures in the third quarter than it had previously projected because data center capacity it was planning to rent wasn’t ready on time. Microsoft didn’t name the “third party” behind those delays, but one of them is ...",
+        "published": "2026-11-04T21:05:04.000Z",
+        "source": "The Information",
+        "sourceKey": "theinformation",
+        "priority": 1,
+        "image": null,
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "microsoft",
+          "data center",
+          "billion"
+        ],
+        "category": "chips_cloud"
+      },
+      {
         "title": "Exclusive: Researcher Finds Vulnerability in Software Used for Data Centers",
         "link": "https://www.theinformation.com/briefings/exclusive-researcher-finds-vulnerability-software-used-data-centers",
         "description": "Charge Robotics chief technology officer Max Justicz said he used a specialized OpenAI model to find a vulnerability in a popular open-source software that would allow someone to hack into major datacenters. Justicz said he alerted Canonical, the British company that maintains the software ...",
@@ -1646,6 +2679,25 @@
         "category": "chips_cloud"
       },
       {
+        "title": "Months-Old Chip Startup Tenspresso in Talks for $500 Million Valuation",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-04/months-old-chip-startup-tenspresso-in-talks-for-500-million-valuation",
+        "description": "Tenspresso, a three-month-old artificial intelligence chip startup founded by former Google AI chip engineers, is in talks for financing that would value it at $500 million, according to people familiar with the matter.",
+        "published": "2026-11-04T22:30:48.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "chip",
+          "valuation",
+          "google",
+          "artificial intelligence"
+        ],
+        "category": "chips_cloud"
+      },
+      {
         "title": "CoreWeave's stock and unsecured bonds fall after sweeping Democratic midterm victories, as Texas Governor-elect Gina Hinojosa calls for a data center moratorium",
         "link": "https://www.techmeme.com/261104/p39#a261104p39",
         "description": "CoreWeave's stock and unsecured bonds fall after sweeping Democratic midterm victories, as Texas Governor-elect Gina Hinojosa calls for a data center moratorium — CoreWeave Inc.'s bonds tumbled on Wednesday, in some cases to new lows, after Democratic candidates in favor of slowing …",
@@ -1699,6 +2751,23 @@
         "category": "chips_cloud"
       },
       {
+        "title": "F1 regulator signs cloud agreement with AWS",
+        "link": "https://www.datacenterdynamics.com/en/news/f1-regulator-signs-cloud-agreement-with-aws/",
+        "description": "While Alibaba Cloud teams up with International Olympic Committee on youth games in Senegal",
+        "published": "2026-11-04T20:34:45.000Z",
+        "source": "DataCenterDynamics",
+        "sourceKey": "dcd",
+        "priority": 2,
+        "image": "https://media.datacenterdynamics.com/media/images/Formula-One-F1-car-racing-speed-Th.2e16d0ba.fill-750x500.jpg",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "aws",
+          "alibaba"
+        ],
+        "category": "chips_cloud"
+      },
+      {
         "title": "Nvidia tells data center partners to cut China exposure, limits RTX chip sales to mainland",
         "link": "https://www.datacenterdynamics.com/en/news/nvidia-tells-data-center-partners-to-cut-china-exposure-limits-rtx-chip-sales-to-mainland/",
         "description": "As both the US and China look to decouple",
@@ -1731,6 +2800,57 @@
           "amd",
           "data center",
           "earnings"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Qualcomm reports Q4 revenue down 8% YoY to $10.3B, vs. $10.1B est., and handsets revenue down 26% to $5.14B, vs. $5.25B est.; QCOM drops 5%+ after hours",
+        "link": "https://www.techmeme.com/261104/p52#a261104p52",
+        "description": "Qualcomm reports Q4 revenue down 8% YoY to $10.3B, vs. $10.1B est., and handsets revenue down 26% to $5.14B, vs. $5.25B est.; QCOM drops 5%+ after hours — Qualcomm Revenue Will Shift Away From Handsets, CFRA's Zino Says — Video Player is loading. — Unmute — Current Time 0:00 Loaded: 19.75% Playback Rate",
+        "published": "2026-11-04T21:31:03.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261104/i52.jpg",
+        "via": "Bloomberg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "qualcomm"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Arm Fails to Impress Investors With AI-Fueled Sales Forecast",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-04/arm-forecast-meets-estimates-after-data-center-push-pays-off",
+        "description": "Arm Holdings Plc gave a revenue forecast for the current period that left investors underwhelmed, a sign the chip designer hasn’t yet met the lofty hopes for its push into the AI data center market.",
+        "published": "2026-11-04T21:05:57.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "arm holdings",
+          "chip",
+          "data center"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Qualcomm Slides After Supply Costs Take a Bite Out of Profit",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-04/qualcomm-s-push-into-new-markets-helps-make-up-for-phone-slump",
+        "description": "Qualcomm Inc. tumbled in late trading after giving a lackluster profit forecast, a sign the largest maker of smartphone processors is still grappling with higher component prices.",
+        "published": "2026-11-04T21:01:36.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "qualcomm"
         ],
         "category": "chips_cloud"
       },
@@ -1800,6 +2920,38 @@
         "matchedKeywords": [
           "amd",
           "chip"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Apple turns iCloud into spy cloud, will start looking at public share links",
+        "link": "https://www.theregister.com/security/2026/11/04/apple-turns-icloud-into-spy-cloud-will-start-looking-at-public-share-links/5307681",
+        "description": "Content shared with anyone who has the URL will be scanned for 'harmful content,' though the iMaker hasn't defined that term",
+        "published": "2026-11-04T21:49:38.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=5307696&width=800",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "AWS set to secure £1.05bn contract renewal from UK Home Office",
+        "link": "https://www.datacenterdynamics.com/en/news/aws-set-to-secure-105bn-contract-renewal-from-uk-home-office/",
+        "description": "BidSkim analysis finds £444.6m spent on AWS since 2020",
+        "published": "2026-11-04T21:00:39.000Z",
+        "source": "DataCenterDynamics",
+        "sourceKey": "dcd",
+        "priority": 2,
+        "image": "https://media.datacenterdynamics.com/media/images/GettyImages-2154358325.2e16d0ba.fill-750x500.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "aws"
         ],
         "category": "chips_cloud"
       },
@@ -1963,7 +3115,7 @@
         "priority": 1,
         "image": null,
         "baseScore": 13,
-        "relevanceScore": 15,
+        "relevanceScore": 16,
         "matchedKeywords": [
           "spacex",
           "qualcomm",
@@ -1981,6 +3133,11 @@
             "source": "DataCenterDynamics",
             "title": "Qualcomm signs 5G infrastructure agreement with SpaceX for Starlink Mobile's nationwide network in US",
             "link": "https://www.datacenterdynamics.com/en/news/qualcomm-signs-5g-infrastructure-agreement-with-spacex-for-starlink-mobiles-nationwide-network-in-us/"
+          },
+          {
+            "source": "ServeTheHome",
+            "title": "Qualcomm Dragonwing Nabs a Big SpaceX Starlink Mobile Nationwide US 5G Network Win",
+            "link": "https://www.servethehome.com/qualcomm-dragonwing-nabs-a-big-spacex-starlink-mobile-nationwide-us-5g-network-win/"
           }
         ]
       },
@@ -2038,352 +3195,24 @@
           "starlink"
         ],
         "category": "space"
-      }
-    ],
-    "business": [
-      {
-        "title": "OpenAI acquires developer tools startup Pierre Computer for an undisclosed amount and plans to integrate Pierre's Code Storage feature directly into Codex",
-        "link": "https://www.techmeme.com/261104/p21#a261104p21",
-        "description": "OpenAI acquires developer tools startup Pierre Computer for an undisclosed amount and plans to integrate Pierre's Code Storage feature directly into Codex — OpenAI will acquire Pierre Computer, a developer tools startup whose technology is already embedded in Codex, the company told Axios exclusively.",
-        "published": "2026-11-04T12:10:00.000Z",
-        "source": "Techmeme",
-        "sourceKey": "techmeme",
-        "priority": 1,
-        "image": "http://www.techmeme.com/261104/i21.jpg",
-        "via": "Axios",
-        "baseScore": 14,
-        "relevanceScore": 15,
-        "matchedKeywords": [
-          "openai",
-          "acquires",
-          "acquire"
-        ],
-        "category": "business",
-        "alsoIn": [
-          {
-            "source": "WSJ",
-            "title": "OpenAI to Bring Pierre Computer’s Code Storage to Codex Through Acquisition",
-            "link": "https://www.wsj.com/tech/ai/openai-to-bring-pierre-computers-code-storage-to-codex-through-acquisition-05f53582?mod=rss_Technology"
-          }
-        ]
       },
       {
-        "title": "Meta acquires Conductor, which lets developers run multiple AI coding agents in parallel; CEO Charlie Holtz says the team will join Meta Superintelligence Labs",
-        "link": "https://www.techmeme.com/261104/p46#a261104p46",
-        "description": "Meta acquires Conductor, which lets developers run multiple AI coding agents in parallel; CEO Charlie Holtz says the team will join Meta Superintelligence Labs — Meta has acquired Conductor, an AI coding startup that lets software engineers manage multiple coding agents simultaneously …",
-        "published": "2026-11-04T18:50:00.000Z",
-        "source": "Techmeme",
-        "sourceKey": "techmeme",
-        "priority": 1,
-        "image": "http://www.techmeme.com/261104/i46.jpg",
-        "via": "Axios",
-        "baseScore": 15,
-        "relevanceScore": 15,
-        "matchedKeywords": [
-          "meta",
-          "superintelligence",
-          "acquires",
-          "acquire",
-          "ceo"
-        ],
-        "category": "business"
-      },
-      {
-        "title": "Tech, AI Stocks Split After Democratic Sweep: Microsoft Jumps, Tesla and Nvidia Tank",
-        "link": "https://decrypt.co/382528/tech-ai-stocks-split-democratic-microsoft-jumps-tesla-nvidia-tank",
-        "description": "Microsoft and Alphabet surged while Nvidia and Tesla fell, highlighting a divided market as investors reassess Washington's approach to AI and Big Tech.",
-        "published": "2026-11-04T17:06:03.000Z",
-        "source": "Decrypt",
-        "sourceKey": "decrypt",
-        "priority": 3,
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg@png",
-        "baseScore": 14,
-        "relevanceScore": 14,
-        "matchedKeywords": [
-          "microsoft",
-          "nvidia",
-          "tesla",
-          "alphabet"
-        ],
-        "category": "business"
-      },
-      {
-        "title": "Aussie Adobe assailant Canva announces layoffs in re-org affecting 22% of staff",
-        "link": "https://www.theregister.com/saas/2026/11/04/aussie-adobe-assailant-canva-announces-layoffs-in-re-org-affecting-22-of-staff/5307422",
-        "description": "No mention of AI, but a nod to the pace of technological change",
-        "published": "2026-11-04T00:14:41.000Z",
-        "source": "The Register",
-        "sourceKey": "theregister",
-        "priority": 2,
-        "image": "https://image.theregister.com/?imageId=5307429&width=800",
-        "baseScore": 11,
-        "relevanceScore": 11,
-        "matchedKeywords": [
-          "adobe",
-          "layoffs",
-          "layoff"
-        ],
-        "category": "business"
-      },
-      {
-        "title": "Synopsys, Cadence Shares Drop 4% on The Information Report",
-        "link": "https://www.theinformation.com/briefings/synopsys-cadence-shares-drop-4-information-report",
-        "description": "Shares of Synopsys and Cadence Design Systems dropped as much as 4% on Tuesday after The Information reported that Anthropic has told investors that it is using its own Claude models for engineering and design work on its custom chips. Anthropic’s engineers found that Claude cuts down the time ...",
-        "published": "2026-11-04T00:05:36.000Z",
-        "source": "The Information",
-        "sourceKey": "theinformation",
-        "priority": 1,
-        "image": null,
-        "baseScore": 10,
-        "relevanceScore": 10,
-        "matchedKeywords": [
-          "anthropic",
-          "claude",
-          "chip"
-        ],
-        "category": "business"
-      },
-      {
-        "title": "Quantum Computing on Commercial Scale",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-04/quantum-computing-on-commercial-scale-video",
-        "description": "Ebba Carbonnier, CEO, QuNorth; Jan Goetz, Co-Founder & CEO, IQM Quantum Computers and Carmen Palacios-Berraquero, Founder & CEO, Nu Quantum, discuss the technology, infrastructure, investment and demand shaping quantum computing’s commercial future with Bloomberg’s Mark Bergen at Bloomberg Tech 2026 in London. (Source: Bloomberg)",
-        "published": "2026-11-04T00:01:30.000Z",
+        "title": "Goldman, Apollo in Talks to Sell SpaceX’s $40 Billion AI Deal",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-04/goldman-apollo-in-talks-to-sell-spacex-s-40-billion-ai-deal",
+        "description": "Goldman Sachs Group Inc. and Apollo Global Management Inc. are in talks with Wall Street investors to start selling portions of a roughly $40 billion chip financing deal for SpaceX, just as the AI boom braces for upheaval following a sweeping Democratic victory.",
+        "published": "2026-11-04T21:10:21.000Z",
         "source": "Bloomberg",
         "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "baseScore": 8,
-        "relevanceScore": 8,
-        "matchedKeywords": [
-          "quantum computing",
-          "quantum computer",
-          "ceo"
-        ],
-        "category": "business"
-      },
-      {
-        "title": "Lumentum Sell-Off After Marvell Offer Raises Chance of Alternate Bid",
-        "link": "https://www.theinformation.com/articles/lumentum-sell-off-marvell-offer-raises-chance-alternate-bid",
-        "description": "Lumentum, the optical networking component maker that Marvell Technology said on Monday it would buy, was swept up by Wednesday’s election-driven sell-off of stocks that have benefited most from the AI data center boom. But investors shouldn’t lose sight of the bigger picture—another bidder for Lumentum could emerge, or Marvell could come back and sweeten its proposal with more cash. Marvell’s proposed all-stock acquisition of Lumentum—which as of Tuesday valued the firm at around $80 billion—sh",
-        "published": "2026-11-04T18:54:45.000Z",
-        "source": "The Information",
-        "sourceKey": "theinformation",
         "priority": 1,
         "image": null,
         "baseScore": 7,
         "relevanceScore": 7,
         "matchedKeywords": [
-          "acquisition",
-          "data center",
-          "billion"
+          "spacex",
+          "billion",
+          "chip"
         ],
-        "category": "business"
-      },
-      {
-        "title": "Uber beats on revenue, CEO tells CNBC the company is 'investing significantly' to add drivers",
-        "link": "https://www.cnbc.com/2026/11/04/uber-stock-q3-2026-earnings.html",
-        "description": "Uber reported better-than-expected revenue but its mobility unit faced higher fuel costs overseas and tighter driver supply.",
-        "published": "2026-11-04T17:04:32.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_tech",
-        "priority": 1,
-        "image": null,
-        "baseScore": 6,
-        "relevanceScore": 6,
-        "matchedKeywords": [
-          "uber",
-          "ceo"
-        ],
-        "category": "business"
-      },
-      {
-        "title": "CVS to split off drugstore business in major breakup of healthcare giant",
-        "link": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
-        "description": "The move would reverse the company's $78 billion acquisition of Aetna, and dismantle the vertically integrated healthcare conglomerate it created in 2018.",
-        "published": "2026-11-04T11:46:17.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_top",
-        "priority": 1,
-        "image": null,
-        "baseScore": 6,
-        "relevanceScore": 6,
-        "matchedKeywords": [
-          "acquisition",
-          "billion"
-        ],
-        "category": "business"
-      },
-      {
-        "title": "Uber Delivery Accelerates as Rides Growth Slows",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-04/uber-delivery-accelerates-as-rides-growth-slows-video",
-        "description": "Uber’s delivery business saw strong acceleration in the third quarter, giving investors a reason to look past slower growth in its signature ride-hailing business. Ygal Arounian, managing director at Wedbush, discusses why the slowdown in the rides business wasn't too concerning and how Uber can continue to compete in grocery delivery even after a tie-up between rivals DoorDash and Instacart. He speaks with Carol Massar on \"Bloomberg Tech.\" (Source: Bloomberg)",
-        "published": "2026-11-04T19:36:09.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "baseScore": 5,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "uber"
-        ],
-        "category": "business"
-      },
-      {
-        "title": "Online Supermarket Unicorn Rohlik Weighs Prague IPO, CEO Says",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-04/online-supermarket-unicorn-rohlik-weighs-prague-ipo-ceo-says",
-        "description": "Rohlik Group is weighing an initial public offering in Prague as one option for taking the Czech online supermarket public.",
-        "published": "2026-11-04T13:48:27.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "baseScore": 5,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "ipo",
-          "ceo"
-        ],
-        "category": "business"
-      },
-      {
-        "title": "Palantir CEO says it's pioneering an antiwar movement – while happily accepting defense dollars",
-        "link": "https://www.theregister.com/offbeat/2026/11/04/palantir-ceo-says-its-pioneering-an-antiwar-movement-while-happily-accepting-defense-dollars/5307605",
-        "description": "Alex Karp casts military software as a force for peace while declaring a moral imperative to dominate the market",
-        "published": "2026-11-04T19:25:00.000Z",
-        "source": "The Register",
-        "sourceKey": "theregister",
-        "priority": 2,
-        "image": "https://image.theregister.com/?imageId=258394&width=800",
-        "baseScore": 5,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "palantir",
-          "ceo"
-        ],
-        "category": "business"
-      },
-      {
-        "title": "AI cloud startup Applied Compute raises $350M after reaching key revenue milestone",
-        "link": "https://siliconangle.com/2026/11/03/ai-cloud-startup-applied-compute-raises-350m-after-reaching-key-revenue-milestone/",
-        "description": "Applied Compute Inc., a fast-growing provider of artificial intelligence infrastructure, has raised $350 million in funding at a $3.25 billion valuation. The startup announced the deal on Monday. It stated that prominent angel investor Elad Gil led the round with participation from Nvidia Corp., Shopify Ventures, HubSpot Ventures and over a dozen others. Applied Compute […] The post AI cloud startup Applied Compute raises $350M after reaching key revenue milestone appeared first on SiliconANGLE.",
-        "published": "2026-11-04T01:19:08.000Z",
-        "source": "SiliconANGLE",
-        "sourceKey": "siliconangle",
-        "priority": 2,
-        "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Applied-Compute.png",
-        "baseScore": 5,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "nvidia",
-          "artificial intelligence",
-          "valuation",
-          "billion"
-        ],
-        "category": "business"
-      },
-      {
-        "title": "Apple expects its highest revenue yet in Q4, but memory prices will hurt profits",
-        "link": "https://www.gsmarena.com/apple_expects_q4_2026_to_be_the_best_revenue_quarter_in_the_history_of_the_company-news-75332.php",
-        "description": "During an earnings call on November 2, the company's CFO Kevan Parekh said that Apple is expecting Q4 this year to be the best quarter in the history of the company in terms of revenue. The fiscal Q4 2026 (ending in September) results point to a very optimistic near future for the company, despite the supply chain constraints, rising component prices and inventory shortages. The forecast comes amid Apple's record-breaking numbers reported in Q3 2026. Apple admitted that the macroeconomic factors",
-        "published": "2026-11-04T01:02:02.000Z",
-        "source": "GSMArena",
-        "sourceKey": "gsmarena",
-        "priority": 3,
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/10/apple-event-october-28/-184x111/gsmarena_00.jpg",
-        "baseScore": 5,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "apple",
-          "earnings"
-        ],
-        "category": "business"
-      },
-      {
-        "title": "Africa-Focused OPay Is Said to Halt US IPO After China Inquiry",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-04/africa-focused-opay-is-said-to-halt-us-ipo-after-china-inquiry",
-        "description": "Inquiries by a Chinese regulator prompted Nigeria-focused payments company OPay Ltd. to halt its $300 million US initial public offering just hours after setting the price, according to people familiar with the matter.",
-        "published": "2026-11-04T14:07:27.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "ipo"
-        ],
-        "category": "business"
-      },
-      {
-        "title": "Quantum Roadmaps Are Finally Meeting Reality",
-        "link": "https://www.eetimes.com/quantum-roadmaps-are-finally-meeting-reality/",
-        "description": "Quantum computing revenue surpassed $1 billion in 2025, but missed forecasts highlight the gap between commercial expectations and delivery. The post Quantum Roadmaps Are Finally Meeting Reality appeared first on EE Times.",
-        "published": "2026-11-04T09:11:15.000Z",
-        "source": "EE Times",
-        "sourceKey": "eetimes",
-        "priority": 2,
-        "image": "https://www.eetimes.com/wp-content/uploads/Feature-Image-source-IBM-e1790652956231.jpg",
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "quantum computing",
-          "billion"
-        ],
-        "category": "business"
-      },
-      {
-        "title": "Nintendo is losing a Switch cartridge supplier",
-        "link": "https://www.theverge.com/games/1026426/nintendo-switch-cartridges-rom-supplier-data-center",
-        "description": "Nintendo is about to lose a major memory supplier for its Switch cartridges. The supplier, Macronix, announced during a recent quarterly earnings call that it would be gradually phasing out ROM production and is instead focusing on NOR flash memory for data centers, Taipei Times reports. Macronix's ROM revenue fell 39 percent compared with last year in Q3 2026, but its revenue from NOR memory rose 158 percent, and its revenue from NAND memory surged 768 percent year over year. According to Taipe",
-        "published": "2026-11-04T17:03:32.000Z",
-        "source": "The Verge",
-        "sourceKey": "theverge",
-        "priority": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/jbareham_180301_2346_nintendo_switch_0094.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "baseScore": 3,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "data center",
-          "earnings"
-        ],
-        "category": "business"
-      },
-      {
-        "title": "Revolut hits a $115B valuation, up from $75B in November 2025, after a secondary share sale led by Glade Brook, Coatue, and others, as it plans a US bank launch",
-        "link": "https://www.techmeme.com/261104/p33#a261104p33",
-        "description": "Revolut hits a $115B valuation, up from $75B in November 2025, after a secondary share sale led by Glade Brook, Coatue, and others, as it plans a US bank launch — Revolut's investors have completed a secondary share sale that values the British fintech at $115 billion …",
-        "published": "2026-11-04T14:30:28.000Z",
-        "source": "Techmeme",
-        "sourceKey": "techmeme",
-        "priority": 1,
-        "image": "http://www.techmeme.com/261104/i33.jpg",
-        "via": "TechCrunch",
-        "baseScore": 3,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "valuation",
-          "billion"
-        ],
-        "category": "business"
-      },
-      {
-        "title": "Autonomous site reliability engineering startup Traversal bags $120M in funding at a $1B valuation",
-        "link": "https://siliconangle.com/2026/11/03/autonomous-site-reliability-engineering-startup-traversal-bags-120m-in-funding-at-a-1b-valuation/",
-        "description": "Traversal Inc., a startup that’s trying to automate site reliability engineering tasks with artificial intelligence agents, seems to be closing in on that goal after raising $120 million in fresh funding, bringing its valuation to $1 billion. The newly minted unicorn’s round was led by Kleiner Perkins, Redpoint Ventures and Khosla Ventures, three of Silicon […] The post Autonomous site reliability engineering startup Traversal bags $120M in funding at a $1B valuation appeared first on SiliconANG",
-        "published": "2026-11-04T03:47:11.000Z",
-        "source": "SiliconANGLE",
-        "sourceKey": "siliconangle",
-        "priority": 2,
-        "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Screenshot-from-2026-11-04-10-43-51.png",
-        "baseScore": 3,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "valuation",
-          "artificial intelligence",
-          "billion"
-        ],
-        "category": "business"
+        "category": "space"
       }
     ],
     "regulation": [
@@ -2525,610 +3354,25 @@
         "category": "regulation"
       }
     ],
-    "devices": [
+    "other": [
       {
-        "title": "Apple will check shared iCloud links for ‘harmful content’",
-        "link": "https://www.theverge.com/tech/1026604/apple-icloud-links-harmful-content-27-3",
-        "description": "Apple will start checking iCloud items that are accessible to anyone who has the link for \"harmful content\" starting with iOS 27.3 and other 27.3 updates, the company says. \"When you share an item that can be accessed by Anyone with the Link in version 27.3 or later of iOS, iPadOS, macOS, and visionOS, that content is made accessible to Apple to check for harmful content,\" according to a support document reported on by 9to5Mac. Sharing something over iCloud with the \"Anyone with the Link\" permis",
-        "published": "2026-11-04T18:23:37.000Z",
-        "source": "The Verge",
-        "sourceKey": "theverge",
-        "priority": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK071_APPLE_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "baseScore": 5,
-        "relevanceScore": 8,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "devices",
-        "alsoIn": [
-          {
-            "source": "Techmeme",
-            "title": "Apple says it will check iCloud items shared to \"Anyone with the link\" for \"harmful content\" in 27.3 OS versions, and may delete the content or disable accounts",
-            "link": "https://www.techmeme.com/261104/p47#a261104p47"
-          },
-          {
-            "source": "9to5Mac",
-            "title": "With iOS 27.3, Apple will start checking iCloud public links for ‘harmful content’",
-            "link": "https://9to5mac.com/2026/11/04/with-ios-27-3-apple-will-start-checking-icloud-public-links-for-harmful-content/"
-          },
-          {
-            "source": "AppleInsider",
-            "title": "iCloud's 'Anyone with the Link' option will trigger Apple content checks",
-            "link": "https://appleinsider.com/articles/26/11/04/iclouds-anyone-with-the-link-option-will-trigger-apple-content-checks?utm_source=rss"
-          },
-          {
-            "source": "MacRumors",
-            "title": "Apple Will Check Public iCloud Links for Harmful Content Starting in iOS 27.3",
-            "link": "https://www.macrumors.com/2026/11/04/ios-27-3-icloud-link-check/"
-          }
-        ]
-      },
-      {
-        "title": "Google’s Pixel 11 phones are up to 27 percent off",
-        "link": "https://www.theverge.com/gadgets/1025370/google-pixel-11-pro-phone-deal-sale",
-        "description": "You can save a heck of lot of money on Google’s Pixel 11 phones through November 8th, whether you want the best-for-the-least Pixel 11, or the slightly pricier Pixel 11 Pro that takes better photos. Even the big Pixel 11 Pro XL with a longer-lasting battery is hundreds off its original price. The Pixel 11 Pro deal is the most attractive of the bunch, as the $1,099.99 phone with 256GB storage and 12GB of RAM is down to just $799.99 at Amazon, Best Buy, and at the Google Store, beating its October",
-        "published": "2026-11-04T19:00:00.000Z",
-        "source": "The Verge",
-        "sourceKey": "theverge",
-        "priority": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-review-photos-5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "baseScore": 7,
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "google",
-          "amazon"
-        ],
-        "category": "devices"
-      },
-      {
-        "title": "‘Stick’ season 2 premieres on Apple TV",
-        "link": "https://9to5mac.com/2026/11/03/stick-season-2-premieres-on-apple-tv/",
-        "description": "Apple TV subscribers can now watch the first two episodes of the new season of “Stick,” starring Owen Wilson (Midnight In Paris), Rhea Seehorn (Pluribus), and Timothy Olyphant (Justified), among others. Watch the trailer below. more…",
-        "published": "2026-11-04T02:01:01.000Z",
-        "source": "9to5Mac",
-        "sourceKey": "9to5mac",
-        "priority": 2,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/stick-s2-rhea-seehorn-wilson.jpg?quality=82&#038;strip=all&#038;w=1600",
-        "baseScore": 4,
-        "relevanceScore": 6,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "devices",
-        "alsoIn": [
-          {
-            "source": "AppleInsider",
-            "title": "Golf comedy 'Stick' returns for season 2 on Apple TV",
-            "link": "https://appleinsider.com/articles/26/11/04/golf-comedy-stick-returns-for-season-2-on-apple-tv?utm_source=rss"
-          },
-          {
-            "source": "MacRumors",
-            "title": "'Stick' Season 2 Premieres Today on Apple TV",
-            "link": "https://www.macrumors.com/2026/11/04/stick-season-2-premieres-today/"
-          }
-        ]
-      },
-      {
-        "title": "Brace for more foldable phones with this form factor (if readers get their way)",
-        "link": "https://www.androidauthority.com/foldable-phone-form-factor-aspect-ratio-poll-results-3731476/",
-        "description": "Microsoft called it. Samsung and Apple followed.",
-        "published": "2026-11-04T09:03:16.000Z",
-        "source": "Android Authority",
-        "sourceKey": "androidauthority",
-        "priority": 2,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Samsung-Galaxy-Z-Fold-8-DS-emulation.jpg",
-        "baseScore": 6,
-        "relevanceScore": 6,
-        "matchedKeywords": [
-          "microsoft",
-          "apple",
-          "samsung"
-        ],
-        "category": "devices"
-      },
-      {
-        "title": "Apple TV Reportedly Planning 'Silo' Spinoff",
-        "link": "https://www.macrumors.com/2026/11/04/apple-tv-reportedly-planning-silo-spinoff/",
-        "description": "Apple TV is developing a \"Silo\" spinoff tied to Hugh Howey's upcoming Silo book trilogy, according to Apple TV commentator and podcaster Sigmund Judge. He said pre-production will begin later this year, with the books expected next summer. Hiring has apparently begun and some sets remain standing after season four wrapped in March. The reported project would follow the show's fourth and final season. Related Roundup: Apple TV Tag: Apple TV Shows Buyer's Guide: Apple TV (Buy Now) Related Forum: A",
-        "published": "2026-11-04T16:57:01.000Z",
-        "source": "MacRumors",
-        "sourceKey": "macrumors",
-        "priority": 2,
-        "image": "https://images.macrumors.com/article-new/2026/04/Apple-TV-Silo.jpg",
-        "baseScore": 4,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "devices",
-        "alsoIn": [
-          {
-            "source": "AppleInsider",
-            "title": "Apple TV 'Silo' might get a spinoff",
-            "link": "https://appleinsider.com/articles/26/11/04/apple-tv-silo-might-get-a-spinoff?utm_source=rss"
-          }
-        ]
-      },
-      {
-        "title": "MacBook Neo 2 is coming, and Apple reportedly expects a massive hit",
-        "link": "https://9to5mac.com/2026/11/04/macbook-neo-2-is-coming-and-apple-reportedly-expects-a-massive-hit/",
-        "description": "Apple has a MacBook Neo 2 planned for early 2027, per Mark Gurman, and a new report from Digitimes indicates the company is expecting it to be a massive hit. more…",
-        "published": "2026-11-04T16:33:02.000Z",
-        "source": "9to5Mac",
-        "sourceKey": "9to5mac",
-        "priority": 2,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo_eaaffa.jpg?quality=82&#038;strip=all&#038;w=1600",
-        "baseScore": 4,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "devices",
-        "alsoIn": [
-          {
-            "source": "AppleInsider",
-            "title": "Apple is reportedly doubling orders for a new MacBook Neo",
-            "link": "https://appleinsider.com/articles/26/11/04/apple-is-reportedly-doubling-orders-for-a-new-macbook-neo?utm_source=rss"
-          }
-        ]
-      },
-      {
-        "title": "Google Maps Updated to Fully Support iPhone Duo Displays",
-        "link": "https://www.macrumors.com/2026/11/04/latest-google-maps-update-iphone-duo-support/",
-        "description": "Google Maps has been updated with improved support for the iPhone Duo's displays, so that the app now fills the foldable iPhone's inner and outer screens rather than leaving unused space along the edge. The change comes with version 26.44.4, which is available on the App Store. Google doesn't mention Duo-specific changes in its release notes, but the updated support is plainly visible. The previous version, 26.43.1, was only partially adapted to the device, and there was still a vertical black b",
-        "published": "2026-11-04T12:24:12.000Z",
-        "source": "MacRumors",
-        "sourceKey": "macrumors",
-        "priority": 2,
-        "image": "https://images.macrumors.com/article-new/2026/11/google-maps-iphone-duo.jpeg",
-        "baseScore": 4,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "google"
-        ],
-        "category": "devices",
-        "alsoIn": [
-          {
-            "source": "AppleInsider",
-            "title": "What Google Maps looks like on both iPhone Duo displays, after upgrade",
-            "link": "https://appleinsider.com/articles/26/11/04/what-google-maps-looks-like-on-both-iphone-duo-displays-after-upgrade?utm_source=rss"
-          }
-        ]
-      },
-      {
-        "title": "Apple Music's New Selfie Sing Feature Lets You Record Karaoke Videos",
-        "link": "https://www.macrumors.com/2026/11/03/apple-music-selfie-sing/",
-        "description": "iOS 27.3 adds a new \"Selfie Sing\" feature in Apple Music that lets users record themselves while singing a song. There's a dedicated Selfie Sing playlist and a selfie camera view that shows lyrics on the screen while also recording a video. Apple has a description of the feature: There are some songs everyone knows by heart, the ones that come on and suddenly the whole room's singing along. This playlist is loaded with them, each one ready to become your next Selfie Sing. Pick your favorite, rec",
-        "published": "2026-11-04T00:05:45.000Z",
-        "source": "MacRumors",
-        "sourceKey": "macrumors",
-        "priority": 2,
-        "image": "https://images.macrumors.com/article-new/2026/11/ios-27-3-selfie-sing.jpg",
-        "baseScore": 4,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "devices",
-        "alsoIn": [
-          {
-            "source": "AppleInsider",
-            "title": "Apple Music gaining new Selfie Sing video karaoke mode",
-            "link": "https://appleinsider.com/articles/26/11/04/apple-music-gaining-new-selfie-sing-video-karaoke-mode?utm_source=rss"
-          }
-        ]
-      },
-      {
-        "title": "Watch Henry Cavill build a video game on his Googlebook",
-        "link": "https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-mustache-protocol-video-game/",
-        "description": "Henry Cavill built a video game on his Googlebook to help support men’s health.",
-        "published": "2026-11-04T18:00:00.000Z",
-        "source": "Google",
-        "sourceKey": "google_blog",
-        "priority": 1,
-        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MP_EP1_HORIZONTAL.max-600x600.format-webp.webp",
-        "baseScore": 5,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "google"
-        ],
-        "category": "devices"
-      },
-      {
-        "title": "Apple still charging 300% of costs on iPhone storage upgrades, says WSJ",
-        "link": "https://9to5mac.com/2026/11/04/apple-still-charging-300-of-costs-on-iphone-storage-upgrades-says-wsj/",
-        "description": "Opting for more RAM or storage when buying Apple devices has always been an expensive business, with the company famously charging huge markups. Apple said in its most recent earnings report that even after the price increases, its margins are being squeezed by higher component costs. But an analysis suggests that the company is still charging three times its own costs for higher storage tiers on the iPhone 18 Pro … more…",
-        "published": "2026-11-04T12:45:23.000Z",
-        "source": "9to5Mac",
-        "sourceKey": "9to5mac",
-        "priority": 2,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-still-making-300-profit-on-iPhone-storage-upgrades-says-WSJ.jpg?quality=82&#038;strip=all&#038;w=1600",
-        "baseScore": 5,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "apple",
-          "earnings"
-        ],
-        "category": "devices"
-      },
-      {
-        "title": "New info reveals the Samsung Galaxy S27 Pro won't be powered by the Snapdragon 8 Elite Extreme Gen 6",
-        "link": "https://www.gsmarena.com/samsung_galaxy_s27_pro_processor_revealed-news-75339.php",
-        "description": "There's been a lot of talk lately about the chipset powering the Samsung Galaxy S27 Ultra, with a recent rumor claiming the smartphone would come with the Snapdragon 8 Elite Extreme Gen 6, at least in Europe. Now, the entire S27 lineup has been spotted in the NBD database, with the S27 Ultra listed with the Snapdragon 8 Elite Extreme Gen 6. The Galaxy S27 and Galaxy S27+ are listed with Samsung's Exynos 2700 SoC, while the Galaxy S27 Pro is listed with the Snapdragon 8 Elite Gen 6 chip instead o",
-        "published": "2026-11-04T12:21:02.000Z",
-        "source": "GSMArena",
-        "sourceKey": "gsmarena",
-        "priority": 3,
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-galaxy-s27-pro-leaked-renders/-184x111/gsmarena_000.jpg",
-        "baseScore": 5,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "samsung",
-          "chip"
-        ],
-        "category": "devices"
-      },
-      {
-        "title": "Omstreden Apple Watch-functies verschijnen in bèta van watchOS 27.3",
-        "link": "https://tweakers.net/nieuws/254168/omstreden-apple-watch-functies-verschijnen-in-beta-van-watchos-273.html",
-        "description": "De veelbesproken functies Live Terugspoelen en Siri Samenvatting zitten in de bèta van watchOS 27.3. De functies die leunen op het meeluisteren met gesprekken lijken daardoor binnen afzienbare tijd uit te komen. Dat gebeurt voorlopig niet in de Europese Unie.",
-        "published": "2026-11-04T19:06:12.000Z",
-        "source": "Tweakers",
-        "sourceKey": "tweakers",
-        "priority": 2,
-        "image": null,
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "devices"
-      },
-      {
-        "title": "iOS 27.3 upgrades Apple Music in two ways, here’s what’s new",
-        "link": "https://9to5mac.com/2026/11/04/ios-27-3-upgrades-apple-music-in-two-ways-heres-whats-new/",
-        "description": "Apple Music is getting two upgrades in iOS 27.3, which just debuted in beta this week. Here’s what’s new. more…",
-        "published": "2026-11-04T18:46:02.000Z",
-        "source": "9to5Mac",
-        "sourceKey": "9to5mac",
-        "priority": 2,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-music-rebrand-logo-new.jpg?quality=82&#038;strip=all&#038;w=1600",
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "devices"
-      },
-      {
-        "title": "Google Pixel 11, 11 Pro, and 11 Pro XL Sale: Save Up to $350",
-        "link": "https://www.wired.com/story/google-pixel-11-deal-november-2026/",
-        "description": "Upgrade to the smartest Android smartphones. Google’s latest Pixel 11 phones are all on sale at their lowest prices to date, well ahead of Black Friday.",
-        "published": "2026-11-04T18:27:19.000Z",
-        "source": "Wired",
-        "sourceKey": "wired",
-        "priority": 2,
-        "image": "https://media.wired.com/photos/6aeb74f2291739b7e29cddcb/master/pass/Get-Google%E2%80%99s-Great-Pixel-11-Phones-for-Less.jpg",
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "google"
-        ],
-        "category": "devices"
-      },
-      {
-        "title": "watchOS 27.3 Beta: Apple aktiviert erstmals umstrittene Audio-Intelligence-Tech",
-        "link": "https://www.heise.de/news/watchOS-27-3-Beta-Apple-aktiviert-erstmals-umstrittene-Audio-Intelligence-Tech-11511988.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-        "description": "Die letzten 15 Sekunden als Text wiedergeben, alle Gespräche des Tages zusammenfassen: Das soll die Apple Watch bald können. Nun startete ein Betatest.",
-        "published": "2026-11-04T18:15:00.000Z",
-        "source": "heise online",
-        "sourceKey": "heise",
-        "priority": 2,
-        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/4/9/3/3/audiointelligence-dcc5d54f75f2fa1a.png",
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "devices"
-      },
-      {
-        "title": "Is It Worth Buying a Titanium Apple Watch?",
-        "link": "https://www.macrumors.com/guide/is-it-worth-buying-a-titanium-apple-watch/",
-        "description": "The Apple Watch Series 12's titanium option offers a premium metallic finish and sapphire crystal, sitting between the more affordable aluminum model and the higher-priced ceramic version. Is it worth choosing? The titanium Apple Watch starts at $699, compared to $399 for aluminum. Available in Natural and Radiant Gold with a polished finish, it offers a more traditional watch aesthetic than the matte aluminum models. There are designer Apple Watch Hermès options too. Ceramic Shield 2, replacing",
-        "published": "2026-11-04T16:32:00.000Z",
-        "source": "MacRumors",
-        "sourceKey": "macrumors",
-        "priority": 2,
-        "image": "https://images.macrumors.com/article-new/2026/09/series-12-titanium.jpg",
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "devices"
-      },
-      {
-        "title": "Apple werkt aan Selfie Sing-karaokefunctie voor iPhones",
-        "link": "https://tweakers.net/nieuws/254150/apple-werkt-aan-selfie-sing-karaokefunctie-voor-iphones.html",
-        "description": "Apple werkt aan een functie genaamd Selfie Sing voor iOS 27.3. Daarmee verschijnen liedteksten op het scherm en is via de camera te zien hoe de gebruiker meezingt met de muziek. Gebruikers kunnen alleen met bepaalde liedjes meezingen.",
-        "published": "2026-11-04T16:16:02.000Z",
-        "source": "Tweakers",
-        "sourceKey": "tweakers",
-        "priority": 2,
-        "image": null,
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "devices"
-      },
-      {
-        "title": "Apple May Phase Out Non-Touch High-End MacBook Pros",
-        "link": "https://www.macrumors.com/2026/11/04/apple-may-phase-out-non-touch-macbook-pros/",
-        "description": "Apple will likely consolidate its high-end MacBook Pro lineup around touchscreen models, according to Bloomberg's Mark Gurman. Writing in his latest \"Power On\" newsletter, Gurman questioned whether Apple would keep updating its high-end ‌MacBook Pro‌ models without touchscreens. The company has retained the mini-LED M5 Pro and M5 Max models alongside the new touchscreen versions, which cost $400 more. Gurman cited the resources required to support parallel product lines across development, produ",
-        "published": "2026-11-04T13:35:32.000Z",
-        "source": "MacRumors",
-        "sourceKey": "macrumors",
-        "priority": 2,
-        "image": "https://images.macrumors.com/article-new/2025/10/14-inch-MacBook-Pro-Keyboard.jpg",
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "devices"
-      },
-      {
-        "title": "Apple's Lockdown Mode thwarted by a new persistent iPhone jailbreak",
-        "link": "https://appleinsider.com/articles/26/11/04/apples-lockdown-mode-thwarted-by-a-new-persistent-iphone-jailbreak?utm_source=rss",
-        "description": "A team of hackers has come up with a new jailbreak for the iPhone, demonstrating how it persists with Lockdown Mode on, even after an update to iOS 27.2. Lockdown Mode on iPhone is for users facing grave threats to their digital security Lockdown Mode is Apple's way to harden device security, intended to protect high-profile individuals from sophisticated cyberattacks. While Apple claimed back in March 2026 that it had managed a 100% protection rate since 2022, it seems it's not completely impen",
-        "published": "2026-11-04T13:28:59.000Z",
-        "source": "AppleInsider",
-        "sourceKey": "appleinsider",
-        "priority": 2,
-        "image": "https://media.appleinsider.com/gallery/69690-146930-lockdownmode1-xl.jpg",
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "devices"
-      },
-      {
-        "title": "Samsung’s mysterious Galaxy T1 fitness earbuds are getting ready for a US launch",
-        "link": "https://www.androidauthority.com/samsung-galaxy-t1-earbuds-fcc-certification-3731590/",
-        "description": "New FCC certification documents offer a closer look at what's coming.",
-        "published": "2026-11-04T11:50:13.000Z",
-        "source": "Android Authority",
-        "sourceKey": "androidauthority",
-        "priority": 2,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/Samsung-Galaxy-S26-Ultra-on-table-with-earbuds.jpg",
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "samsung"
-        ],
-        "category": "devices"
-      },
-      {
-        "title": "Apple Music's upcoming feature will let you record yourself doing karaoke",
-        "link": "https://www.engadget.com/2306269/apple-music-selfie-sing-karaoke-video/",
-        "description": "Apple Music will launch 'Selfie Sing' with iOS 27.3.",
-        "published": "2026-11-04T11:02:04.000Z",
-        "source": "Engadget",
-        "sourceKey": "engadget",
-        "priority": 2,
-        "image": "https://www.engadget.com/img/gallery/apple-musics-upcoming-feature-will-let-you-record-yourself-doing-karaoke/l-intro-1793789894.jpg",
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "devices"
-      },
-      {
-        "title": "Certified Android TV manufacturer put unauthorized backdoor in 1.3 million set-top boxes, Google reveals — OEM sold access to criminal affiliates, used massive network as botnet for ad fraud, residential proxy",
-        "link": "https://www.tomshardware.com/tech-industry/cyber-security/certified-android-tv-manufacturer-put-unauthorized-backdoor-in-set-top-boxes-google-reveals-oem-sold-access-to-criminal-affiliates-for-1-3-million-devices-used-massive-network-as-botnet-for-ad-fraud-residential-proxy",
-        "description": "Google discovered and shut down a backdoor built into millions of Google TV and Android TV set-top boxes built by Videostrong Technology Co.",
-        "published": "2026-11-04T11:00:00.000Z",
-        "source": "Tom's Hardware",
-        "sourceKey": "tomshardware",
-        "priority": 2,
-        "image": "https://cdn.mos.cms.futurecdn.net/aEgQcZfJcTXZ8F8rxVWHbV-1920-80.png",
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "google"
-        ],
-        "category": "devices"
-      },
-      {
-        "title": "Samsung UK drops prices of Galaxy S26 phones by £250, Z Fold8 price by £100 for Black Friday",
-        "link": "https://www.gsmarena.com/samsung_uk_drops_prices_of_galaxy_s26_phones_by_250_z_fold8_price_by_100_for_black_friday-news-75344.php",
-        "description": "Samsung UK is running a Black Friday promo campaign that drops the prices of many of its premium Galaxy devices. There is a variety of offers – most are valid until December 1, but the best phone offers expire on November 17. Starting with the Samsung Galaxy Z Fold8, you can get £100 off with PayPal, plus a £30-£713 bonus when trading in an old device (these are the trade-in values of a Galaxy S20 128GB and a Galaxy Z Fold7 1TB, respectively). Samsung is making a “Black Friday Price Promise” – i",
-        "published": "2026-11-04T15:47:02.000Z",
-        "source": "GSMArena",
-        "sourceKey": "gsmarena",
-        "priority": 3,
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/samsung-uk-black-friday-deals/-184x111/gsmarena_000.jpg",
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "samsung"
-        ],
-        "category": "devices"
-      },
-      {
-        "title": "Xiaomi unveils the HyperOS 4 update rollout schedule",
-        "link": "https://www.gsmarena.com/xiaomi_sets_the_hyperos_4_update_rollout_schedule-news-75340.php",
-        "description": "Xiaomi’s HyperOS 4 has a deeper integration with iOS – this includes easier sharing of photos, files, contacts and web pages with iPhone users. There are a lot of visual and performance improvements too. You can read more about HyperOS 4 here. Right now, only the Xiaomi 18 series trio runs v4, but soon older Xiaomi phones will get it too. Here is the detailed HyperOS 4 rollout schedule. The flagship models from 2025 and 2024 will get it soon – “early November” is the official time. They are not",
-        "published": "2026-11-04T11:13:03.000Z",
-        "source": "GSMArena",
-        "sourceKey": "gsmarena",
-        "priority": 3,
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/xiaomi-hyperos-4-rollout-schedule/-184x111/gsmarena_000.jpg",
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "xiaomi"
-        ],
-        "category": "devices"
-      },
-      {
-        "title": "Apple Watch Series 12 and Ultra 4's controversial AI features are going live",
-        "link": "https://www.gsmarena.com/apple_watch_series_12_and_ultra_4s_controversial_ai_features_are_going_live-news-75336.php",
-        "description": "Apple unveiled the Apple Watch Series 12 and Watch Ultra 4 back in September, along with a set of microphone-based features it calls Audio Intelligence. Two of them, Sound Recognition and Music Recognition with Shazam, were available from the start, but the more controversial pair had to wait. Now, Live Rewind and Siri Recap are arriving as part of the first watchOS 27.3 developer beta. [#InlinePriceWidget,14937,1#] [#InlinePriceWidget,14935,1#] Live Rewind shows what was said in the last 15 sec",
-        "published": "2026-11-04T08:04:03.000Z",
-        "source": "GSMArena",
-        "sourceKey": "gsmarena",
-        "priority": 3,
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/watchos-27-3-beta-live-rewind-siri-recap/-184x111/gsmarena_000.jpg",
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "devices"
-      },
-      {
-        "title": "WhatsApp starts suggesting your latest photos and videos right in your chats",
-        "link": "https://www.gsmarena.com/whatsapp_starts_suggesting_your_latest_photos_and_videos_right_in_your_chats-news-75335.php",
-        "description": "WhatsApp already suggests stickers above the keyboard on Android based on the emojis you type, and now it's taking that suggestion system a step further. Media suggestions are rolling out to some users on both Android and iOS with the latest versions of the app. When you open a chat, WhatsApp can now offer to send whatever you most recently added to your gallery. There are two ways this can show up, and you'll only get one of them. In the first, a toast pops up above the chat bar as soon as you",
-        "published": "2026-11-04T06:01:02.000Z",
-        "source": "GSMArena",
-        "sourceKey": "gsmarena",
-        "priority": 3,
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/whatsapp-media-suggestions/-184x111/gsmarena_000.jpg",
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "whatsapp"
-        ],
-        "category": "devices"
-      },
-      {
-        "title": "Samsung Galaxy A38's battery capacity leaks, and it's finally an upgrade",
-        "link": "https://www.gsmarena.com/samsung_galaxy_a38s_battery_capacity_leaks_and_its_finally_an_upgrade-news-75337.php",
-        "description": "Samsung launched the Galaxy A37 back in March, and we've already heard that its successor will keep the same camera setup. Today, a new report from the same source claims the Galaxy A38 will get an upgrade over its predecessor after all, but in a different area: the battery capacity. The Galaxy A38 will allegedly have a battery with a rated capacity of 5,882 mAh, which should mean a typical capacity of 6,000 mAh. That's 20% more than the 5,000 mAh battery in the A37. It would also reportedly be",
-        "published": "2026-11-04T04:31:02.000Z",
-        "source": "GSMArena",
-        "sourceKey": "gsmarena",
-        "priority": 3,
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/samsung-galaxy-a38-battery-capacity/-184x111/gsmarena_000.jpg",
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "samsung"
-        ],
-        "category": "devices"
-      },
-      {
-        "title": "Rian Johnson explains why he had to build his own iPhone camera app",
-        "link": "https://www.theverge.com/tech/1025659/rian-johnson-chromagraph-camera-interview",
-        "description": "Rian Johnson. Rian Johnson is an analog photography devotee. The director of Knives Out and The Last Jedi can often be spotted on set with a Leica M6 at his side, documenting production on film. But sometimes, it's still easier to reach for a phone. So Johnson started wondering if the photos from his iPhone could be made to look more like the grade he applies to his movies. The result is Chromagraph Camera, a $13 iOS app that bypasses elements of Apple's image processing pipeline and applies the",
-        "published": "2026-11-04T16:10:05.000Z",
-        "source": "The Verge",
-        "sourceKey": "theverge",
-        "priority": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Rian-Johnson-Portrait.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "baseScore": 3,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "devices"
-      },
-      {
-        "title": "Thai Spyware Alerts on Opposition Leaders’ Phones Prompt Demands for Probe",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-04/thai-spyware-alerts-on-opposition-leaders-phones-prompt-demands-for-probe",
-        "description": "Two Thai opposition leaders are demanding the government disclose whether state agencies targeted political leaders with spyware ahead of a December no-confidence debate, days after Apple Inc. software flagged attempted attacks on their phones.",
-        "published": "2026-11-04T10:10:43.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "baseScore": 3,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "devices"
-      },
-      {
-        "title": "Elon Musk’s Grok Bot is picking up the phone now, and the first calls are wild",
-        "link": "https://www.teslarati.com/elon-musks-grok-bot-is-picking-up-the-phone-now-and-the-first-calls-are-wild/",
-        "description": "Elon Musk wants Grok Bot users making phone calls, and one Comcast call saved $500. The post Elon Musk’s Grok Bot is picking up the phone now, and the first calls are wild appeared first on TESLARATI.",
-        "published": "2026-11-04T06:09:41.000Z",
-        "source": "Teslarati",
-        "sourceKey": "teslarati",
-        "priority": 3,
-        "image": null,
-        "baseScore": 3,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "elon musk"
-        ],
-        "category": "devices"
-      }
-    ],
-    "robotics": [
-      {
-        "title": "Xiaomi’s humanoid robots work a full 8-hour shift in its EV factory",
-        "link": "https://electrek.co/2026/11/04/xiaomi-humanoid-robot-8-hour-shift-ev-factory/",
-        "description": "Xiaomi has released footage of its humanoid robots working a full 8-hour shift at its EV factory, sorting center console side covers for its cars. The company says the robots did it on their own, catching and fixing their own mistakes along the way. If that’s fully autonomous, it’s truly impressive. But we’ve been disappointed by humanoid robot demos before, and Xiaomi left out the numbers that would let anyone check. more…",
-        "published": "2026-11-04T16:23:06.000Z",
-        "source": "Electrek",
-        "sourceKey": "electrek",
-        "priority": 2,
-        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Xiaomi-humanoid-robot.jpeg?quality=82&#038;strip=all&#038;w=1600",
-        "baseScore": 8,
-        "relevanceScore": 8,
-        "matchedKeywords": [
-          "xiaomi",
-          "humanoid robot",
-          "humanoid"
-        ],
-        "category": "robotics"
-      },
-      {
-        "title": "ITjuzi: Chinese embodied AI companies raised ~$13B across 322 deals in H1 2026, up 5x YoY, as robot makers shift focus from hardware to AI (Reuters)",
-        "link": "https://www.techmeme.com/261104/p7#a261104p7",
-        "description": "Reuters: ITjuzi: Chinese embodied AI companies raised ~$13B across 322 deals in H1 2026, up 5x YoY, as robot makers shift focus from hardware to AI — After years of building humanoid robots capable of running, dancing and performing backflips, Chinese companies are pouring resources into a different challenge …",
-        "published": "2026-11-04T07:20:02.000Z",
+        "title": "Meta raised €9B from its debut euro bond sale that drew a record €53B of orders, paying ~1.4x the risk premium Alphabet offered for similar bonds this week (Bloomberg)",
+        "link": "https://www.techmeme.com/261104/p50#a261104p50",
+        "description": "Bloomberg: Meta raised €9B from its debut euro bond sale that drew a record €53B of orders, paying ~1.4x the risk premium Alphabet offered for similar bonds this week — Meta Platforms Inc. raised €9 billion from a debut euro debt bond sale that drew a record €53 billion of orders …",
+        "published": "2026-11-04T20:50:01.000Z",
         "source": "Techmeme",
         "sourceKey": "techmeme",
         "priority": 1,
-        "image": "http://www.techmeme.com/261104/i7.jpg",
-        "baseScore": 5,
-        "relevanceScore": 5,
+        "image": "http://www.techmeme.com/261104/i50.jpg",
+        "baseScore": 10,
+        "relevanceScore": 10,
         "matchedKeywords": [
-          "humanoid robot",
-          "humanoid"
+          "alphabet",
+          "meta",
+          "billion"
         ],
-        "category": "robotics"
+        "category": "other"
       },
-      {
-        "title": "China Robot Funding Slows to $1.6 Billion as Shakeout Fears Grow",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-04/china-robot-funding-slows-to-1-6-billion-as-shakeout-fears-grow",
-        "description": "Chinese robotics sector fundraising decelerated sharply in past months to about 11 billion yuan ($1.6 billion) in October, suggesting a cooling in the frenzied pace of investment since Unitree wowed the world with its Spring Festival humanoids showcase.",
-        "published": "2026-11-04T06:07:48.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "baseScore": 3,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "billion",
-          "humanoid"
-        ],
-        "category": "robotics"
-      }
-    ],
-    "other": [
       {
         "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
         "link": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
@@ -3158,6 +3402,22 @@
         "relevanceScore": 5,
         "matchedKeywords": [
           "google"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "17 better ways Elon Musk could have wasted $446 million",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
+        "description": "Dream bigger, babe. | Image: Cath Virginia / The Verge, Getty Images One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known as Twitter, and it is your main source of contact with the outside world, you may delusionally throw away nearly $500 million dollars on midterm elections, just like Elon Musk. In particular, $47 million of tha",
+        "published": "2026-11-04T21:45:00.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268859_How_the_tech_right_could_have_spent_all_the_money_they_burned_on_the_midterms_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "elon musk"
         ],
         "category": "other"
       },
@@ -3206,6 +3466,22 @@
         "relevanceScore": 4,
         "matchedKeywords": [
           "elon musk"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "SoftBank to commercialize aerial cell towers with Japanese fleet",
+        "link": "https://www.datacenterdynamics.com/en/news/softbank-to-commercialize-aerial-cell-towers-with-japanese-fleet/",
+        "description": "Sceye deal brings HAPS from prototypes to happening",
+        "published": "2026-11-04T20:55:06.000Z",
+        "source": "DataCenterDynamics",
+        "sourceKey": "dcd",
+        "priority": 2,
+        "image": "https://media.datacenterdynamics.com/media/images/index_pic_01.2e16d0ba.fill-750x500.png",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "softbank"
         ],
         "category": "other"
       },
@@ -3530,6 +3806,45 @@
         "category": "other"
       },
       {
+        "title": "‘Musk’ Director Alex Gibney Wants to Know if Democrats Can Now Hold Elon Musk Accountable",
+        "link": "https://www.wired.com/story/wired-world-fair-2026-alex-gibey-musk/",
+        "description": "Spending hundreds of millions of dollars means nothing to Elon Musk, director Alex Gibney says.",
+        "published": "2026-11-04T14:15:21.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": "https://media.wired.com/photos/6ae8f6f7fdca8a2bb1f7b5e1/master/pass/Alex-Gibney-WWF-Culture-2299894058.jpg",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "elon musk"
+        ],
+        "category": "other",
+        "alsoIn": [
+          {
+            "source": "Wired",
+            "title": "‘Musk’ Director Alex Gibney Wants to Know if Democrats Can Now Hold Elon Musk Accountable",
+            "link": "https://www.wired.com/story/wired-world-fair-2026-alex-gibney-musk/"
+          }
+        ]
+      },
+      {
+        "title": "Bose’s QuietComfort Headphones are more than half off",
+        "link": "https://www.theverge.com/gadgets/1026807/bose-quietcomfort-headphones-wireless-deal-sale",
+        "description": "It’s not often that some of the best noise-canceling headphones you can buy are over half off. But right now, the first-gen Bose QuietComfort Headphones are on sale for $169.99 ($190 off) at Amazon, Best Buy, and Bose, matching its best price to date. The newer, second-generation version that launched in August is also down to $199 ($160 off) in multiple colors at Amazon, Best Buy, and directly from Bose, which is just $20 shy of the all-time low price. Bose QuietComfort Headphones Where to Buy:",
+        "published": "2026-11-04T21:13:11.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Bose-QuietComfort-Headphones-lifestyle.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "amazon"
+        ],
+        "category": "other"
+      },
+      {
         "title": "Elon Musk spent nearly $500 million on the midterms and lost big-time",
         "link": "https://www.engadget.com/2306698/elon-musk-spent-nearly-500-million-on-the-midterms-and-lost-bigtime/",
         "description": "This was the Cybertruck of elections.",
@@ -3560,25 +3875,828 @@
           "elon musk"
         ],
         "category": "other"
+      }
+    ],
+    "devices": [
+      {
+        "title": "Apple will check shared iCloud links for ‘harmful content’",
+        "link": "https://www.theverge.com/tech/1026604/apple-icloud-links-harmful-content-27-3",
+        "description": "Apple will start checking iCloud items that are accessible to anyone who has the link for \"harmful content\" starting with iOS 27.3 and other 27.3 updates, the company says. \"When you share an item that can be accessed by Anyone with the Link in version 27.3 or later of iOS, iPadOS, macOS, and visionOS, that content is made accessible to Apple to check for harmful content,\" according to a support document reported on by 9to5Mac. Sharing something over iCloud with the \"Anyone with the Link\" permis",
+        "published": "2026-11-04T18:23:37.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK071_APPLE_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 5,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices",
+        "alsoIn": [
+          {
+            "source": "Techmeme",
+            "title": "Apple says it will check iCloud items shared to \"Anyone with the link\" for \"harmful content\" in 27.3 OS versions, and may delete the content or disable accounts",
+            "link": "https://www.techmeme.com/261104/p47#a261104p47"
+          },
+          {
+            "source": "9to5Mac",
+            "title": "With iOS 27.3, Apple will start checking iCloud public links for ‘harmful content’",
+            "link": "https://9to5mac.com/2026/11/04/with-ios-27-3-apple-will-start-checking-icloud-public-links-for-harmful-content/"
+          },
+          {
+            "source": "AppleInsider",
+            "title": "iCloud's 'Anyone with the Link' option will trigger Apple content checks",
+            "link": "https://appleinsider.com/articles/26/11/04/iclouds-anyone-with-the-link-option-will-trigger-apple-content-checks?utm_source=rss"
+          },
+          {
+            "source": "MacRumors",
+            "title": "Apple Will Check Public iCloud Links for Harmful Content Starting in iOS 27.3",
+            "link": "https://www.macrumors.com/2026/11/04/ios-27-3-icloud-link-check/"
+          }
+        ]
       },
       {
-        "title": "‘Musk’ Director Alex Gibney Wants to Know if Democrats Can Now Hold Elon Musk Accountable",
-        "link": "https://www.wired.com/story/wired-world-fair-2026-alex-gibey-musk/",
-        "description": "Spending hundreds of millions of dollars means nothing to Elon Musk, director Alex Gibney says.",
-        "published": "2026-11-04T14:15:21.000Z",
+        "title": "Google’s Pixel 11 phones are up to 27 percent off",
+        "link": "https://www.theverge.com/gadgets/1025370/google-pixel-11-pro-phone-deal-sale",
+        "description": "You can save a heck of lot of money on Google’s Pixel 11 phones through November 8th, whether you want the best-for-the-least Pixel 11, or the slightly pricier Pixel 11 Pro that takes better photos. Even the big Pixel 11 Pro XL with a longer-lasting battery is hundreds off its original price. The Pixel 11 Pro deal is the most attractive of the bunch, as the $1,099.99 phone with 256GB storage and 12GB of RAM is down to just $799.99 at Amazon, Best Buy, and at the Google Store, beating its October",
+        "published": "2026-11-04T19:00:00.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-review-photos-5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "google",
+          "amazon"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "'Super Mario Odyssey' Can Now Run on Apple TV Thanks to AI",
+        "link": "https://www.macrumors.com/2026/11/04/nintendo-games-apple-tv/",
+        "description": "A Reddit user was able to get Nintendo's \"Animal Crossing: New Horizons\" and \"Super Mario Odyssey\" to run natively on the Apple TV 4K, continuing a string of ports made possible with the use of AI (via Engadget). TVPort, Reddit user FloatingFalafel's open-source project, is a fork of the nxnative toolkit used to recompile Switch and Switch 2 games for the Apple TV using a Mac. It was built using Claude Opus 5.5. \"Super Mario Odyssey\" runs at 60fps according to FloatingFalafel, and \"Animal Crossi",
+        "published": "2026-11-04T23:20:15.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/11/super-mario-odyssey-apple-tv.jpg",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "apple",
+          "claude"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Google Maps Updated to Fully Support iPhone Duo Displays",
+        "link": "https://www.macrumors.com/2026/11/04/latest-google-maps-update-iphone-duo-support/",
+        "description": "Google Maps has been updated with improved support for the iPhone Duo's displays, so that the app now fills the foldable iPhone's inner and outer screens rather than leaving unused space along the edge. The change comes with version 26.44.4, which is available on the App Store. Google doesn't mention Duo-specific changes in its release notes, but the updated support is plainly visible. The previous version, 26.43.1, was only partially adapted to the device, and there was still a vertical black b",
+        "published": "2026-11-04T12:24:12.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/11/google-maps-iphone-duo.jpeg",
+        "baseScore": 4,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "devices",
+        "alsoIn": [
+          {
+            "source": "AppleInsider",
+            "title": "What Google Maps looks like on both iPhone Duo displays, after upgrade",
+            "link": "https://appleinsider.com/articles/26/11/04/what-google-maps-looks-like-on-both-iphone-duo-displays-after-upgrade?utm_source=rss"
+          },
+          {
+            "source": "GSMArena",
+            "title": "Google Maps update makes the app fully iPhone Duo compatible",
+            "link": "https://www.gsmarena.com/google_maps_update_makes_the_app_fully_iphone_duo_compatible-news-75349.php"
+          }
+        ]
+      },
+      {
+        "title": "‘Stick’ season 2 premieres on Apple TV",
+        "link": "https://9to5mac.com/2026/11/03/stick-season-2-premieres-on-apple-tv/",
+        "description": "Apple TV subscribers can now watch the first two episodes of the new season of “Stick,” starring Owen Wilson (Midnight In Paris), Rhea Seehorn (Pluribus), and Timothy Olyphant (Justified), among others. Watch the trailer below. more…",
+        "published": "2026-11-04T02:01:01.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/stick-s2-rhea-seehorn-wilson.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices",
+        "alsoIn": [
+          {
+            "source": "AppleInsider",
+            "title": "Golf comedy 'Stick' returns for season 2 on Apple TV",
+            "link": "https://appleinsider.com/articles/26/11/04/golf-comedy-stick-returns-for-season-2-on-apple-tv?utm_source=rss"
+          },
+          {
+            "source": "MacRumors",
+            "title": "'Stick' Season 2 Premieres Today on Apple TV",
+            "link": "https://www.macrumors.com/2026/11/04/stick-season-2-premieres-today/"
+          }
+        ]
+      },
+      {
+        "title": "Brace for more foldable phones with this form factor (if readers get their way)",
+        "link": "https://www.androidauthority.com/foldable-phone-form-factor-aspect-ratio-poll-results-3731476/",
+        "description": "Microsoft called it. Samsung and Apple followed.",
+        "published": "2026-11-04T09:03:16.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Samsung-Galaxy-Z-Fold-8-DS-emulation.jpg",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "microsoft",
+          "apple",
+          "samsung"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Xiaomi tipped to be working on a wide-screen candybar smartphone",
+        "link": "https://www.gsmarena.com/xiaomi_tipped_to_be_working_on_a_widescreen_candybar_smartphone-news-75350.php",
+        "description": "Several smartphone brands are reportedly working on wide-screen candybar phones inspired by the Huawei Pura X View. Now, a new rumor suggests that Xiaomi is also planning to enter the segment with its own offering. According to tipster Digital Chat Station, an Android smartphone maker is currently testing a wide-screen candybar phone. While the tipster did not explicitly name the company, the emoji used in the post hints that the device could be from Xiaomi. Xiaomi 18 Fold with a wide aspect-rat",
+        "published": "2026-11-04T22:32:02.000Z",
+        "source": "GSMArena",
+        "sourceKey": "gsmarena",
+        "priority": 3,
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/xiaomi-wide-screen-candybar-phone-rumor/-184x111/gsmarena_00.jpg",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "xiaomi",
+          "huawei"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Apple TV Reportedly Planning 'Silo' Spinoff",
+        "link": "https://www.macrumors.com/2026/11/04/apple-tv-reportedly-planning-silo-spinoff/",
+        "description": "Apple TV is developing a \"Silo\" spinoff tied to Hugh Howey's upcoming Silo book trilogy, according to Apple TV commentator and podcaster Sigmund Judge. He said pre-production will begin later this year, with the books expected next summer. Hiring has apparently begun and some sets remain standing after season four wrapped in March. The reported project would follow the show's fourth and final season. Related Roundup: Apple TV Tag: Apple TV Shows Buyer's Guide: Apple TV (Buy Now) Related Forum: A",
+        "published": "2026-11-04T16:57:01.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/04/Apple-TV-Silo.jpg",
+        "baseScore": 4,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices",
+        "alsoIn": [
+          {
+            "source": "AppleInsider",
+            "title": "Apple TV 'Silo' might get a spinoff",
+            "link": "https://appleinsider.com/articles/26/11/04/apple-tv-silo-might-get-a-spinoff?utm_source=rss"
+          }
+        ]
+      },
+      {
+        "title": "MacBook Neo 2 is coming, and Apple reportedly expects a massive hit",
+        "link": "https://9to5mac.com/2026/11/04/macbook-neo-2-is-coming-and-apple-reportedly-expects-a-massive-hit/",
+        "description": "Apple has a MacBook Neo 2 planned for early 2027, per Mark Gurman, and a new report from Digitimes indicates the company is expecting it to be a massive hit. more…",
+        "published": "2026-11-04T16:33:02.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo_eaaffa.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices",
+        "alsoIn": [
+          {
+            "source": "AppleInsider",
+            "title": "Apple is reportedly doubling orders for a new MacBook Neo",
+            "link": "https://appleinsider.com/articles/26/11/04/apple-is-reportedly-doubling-orders-for-a-new-macbook-neo?utm_source=rss"
+          }
+        ]
+      },
+      {
+        "title": "Apple Music's New Selfie Sing Feature Lets You Record Karaoke Videos",
+        "link": "https://www.macrumors.com/2026/11/03/apple-music-selfie-sing/",
+        "description": "iOS 27.3 adds a new \"Selfie Sing\" feature in Apple Music that lets users record themselves while singing a song. There's a dedicated Selfie Sing playlist and a selfie camera view that shows lyrics on the screen while also recording a video. Apple has a description of the feature: There are some songs everyone knows by heart, the ones that come on and suddenly the whole room's singing along. This playlist is loaded with them, each one ready to become your next Selfie Sing. Pick your favorite, rec",
+        "published": "2026-11-04T00:05:45.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/11/ios-27-3-selfie-sing.jpg",
+        "baseScore": 4,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices",
+        "alsoIn": [
+          {
+            "source": "AppleInsider",
+            "title": "Apple Music gaining new Selfie Sing video karaoke mode",
+            "link": "https://appleinsider.com/articles/26/11/04/apple-music-gaining-new-selfie-sing-video-karaoke-mode?utm_source=rss"
+          }
+        ]
+      },
+      {
+        "title": "Watch Henry Cavill build a video game on his Googlebook",
+        "link": "https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-mustache-protocol-video-game/",
+        "description": "Henry Cavill built a video game on his Googlebook to help support men’s health.",
+        "published": "2026-11-04T18:00:00.000Z",
+        "source": "Google",
+        "sourceKey": "google_blog",
+        "priority": 1,
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MP_EP1_HORIZONTAL.max-600x600.format-webp.webp",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Apple still charging 300% of costs on iPhone storage upgrades, says WSJ",
+        "link": "https://9to5mac.com/2026/11/04/apple-still-charging-300-of-costs-on-iphone-storage-upgrades-says-wsj/",
+        "description": "Opting for more RAM or storage when buying Apple devices has always been an expensive business, with the company famously charging huge markups. Apple said in its most recent earnings report that even after the price increases, its margins are being squeezed by higher component costs. But an analysis suggests that the company is still charging three times its own costs for higher storage tiers on the iPhone 18 Pro … more…",
+        "published": "2026-11-04T12:45:23.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-still-making-300-profit-on-iPhone-storage-upgrades-says-WSJ.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "apple",
+          "earnings"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "New info reveals the Samsung Galaxy S27 Pro won't be powered by the Snapdragon 8 Elite Extreme Gen 6",
+        "link": "https://www.gsmarena.com/samsung_galaxy_s27_pro_processor_revealed-news-75339.php",
+        "description": "There's been a lot of talk lately about the chipset powering the Samsung Galaxy S27 Ultra, with a recent rumor claiming the smartphone would come with the Snapdragon 8 Elite Extreme Gen 6, at least in Europe. Now, the entire S27 lineup has been spotted in the NBD database, with the S27 Ultra listed with the Snapdragon 8 Elite Extreme Gen 6. The Galaxy S27 and Galaxy S27+ are listed with Samsung's Exynos 2700 SoC, while the Galaxy S27 Pro is listed with the Snapdragon 8 Elite Gen 6 chip instead o",
+        "published": "2026-11-04T12:21:02.000Z",
+        "source": "GSMArena",
+        "sourceKey": "gsmarena",
+        "priority": 3,
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-galaxy-s27-pro-leaked-renders/-184x111/gsmarena_000.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "samsung",
+          "chip"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Apple TV reportedly getting Justin Timberlake docuseries, announces new Toni Collette show",
+        "link": "https://9to5mac.com/2026/11/04/apple-tv-reportedly-getting-justin-timberlake-docuseries-announces-new-toni-collette-show/",
+        "description": "With one official announcement and one report, two new Apple TV projects have been revealed this week. Here are the details. more…",
+        "published": "2026-11-04T22:40:45.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-tv-new-logo-large.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Samsung is getting the One UI 9.5 beta ready for the Galaxy S26 series",
+        "link": "https://www.androidauthority.com/galaxy-s26-one-ui-9-5-beta-in-testing-3731840/",
+        "description": "The One UI 9.5 beta program inches a step closer for the Galaxy S26 Ultra.",
+        "published": "2026-11-04T21:58:04.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/Now-Brief-visible-on-Samsung-Galaxy-S26-Ultras-Home-Screen.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "samsung"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Snoopy ends up on Santa's naughty list in '12 Days of Snoopy' on Apple TV",
+        "link": "https://appleinsider.com/articles/26/11/04/snoopy-ends-up-on-santas-naughty-list-in-12-days-of-snoopy-on-apple-tv?utm_source=rss",
+        "description": "The latest \"Snoopy Presents\" arrives on November 13 and involves Snoopy trying to prove he belongs on Santa's nice list. He's joined by the usual Peanuts gang alongside music scored by Emmy Award-nominated Jeff Morrow and the song \"Get Ready\" from John Legend. Continue Reading on AppleInsider | Discuss on our Forums",
+        "published": "2026-11-04T21:33:47.000Z",
+        "source": "AppleInsider",
+        "sourceKey": "appleinsider",
+        "priority": 2,
+        "image": "https://media.appleinsider.com/gallery/69709-146950-snoopy_ends_up_on_santas_naughty_list_in_12_days_of_snoopy_on_apple_tv-xl.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Apple TV's '12 Days of Snoopy' Special Arrives November 13",
+        "link": "https://www.macrumors.com/2026/11/04/apple-12-days-of-snoopy/",
+        "description": "Apple today shared a trailer for a new Snoopy special that's airing on Friday, November 13. \"Snoopy Presents: 12 Days of Snoopy\" features Snoopy working to get off Santa's naughty list ahead of Christmas. In the latest special of the acclaimed \"Snoopy Presents\" banner, the Peanuts kids are on their best behavior — but Snoopy has landed on Santa's naughty list. With just 12 days until Christmas, he sets out to prove he's not such a bad beagle after all, discovering along the way that the season i",
+        "published": "2026-11-04T21:20:28.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/11/apple-tv-snoopy.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Apple Photos keeps getting better, here’s what’s new in iOS 27",
+        "link": "https://9to5mac.com/2026/11/04/heres-everything-new-for-apple-photos-in-ios-27/",
+        "description": "iOS 27’s biggest highlight is Siri AI, but the update also packs new features for apps like Messages, Notes, Wallet, and more. Here’s everything new for Apple’s Photos app in iOS 27. more…",
+        "published": "2026-11-04T20:47:18.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-photos-app-icon-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Apple disables Siri AI waitlist in iOS 27, with one exception",
+        "link": "https://9to5mac.com/2026/11/04/apple-disables-siri-ai-waitlist-in-ios-27-with-one-exception/",
+        "description": "When Siri AI launched in iOS 27 earlier this fall, Apple used a waitlist to gate access. But a newly updated support document says the waitlist is no longer being used, except in “high demand” times. more…",
+        "published": "2026-11-04T20:28:23.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-light.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Android Canary 2611 is out today for Google’s most adventurous testers",
+        "link": "https://www.androidauthority.com/android-canary-2611-3731794/",
+        "description": "If you've got a Pixel 6a or newer, you can try out Google's very latest Android tweaks.",
+        "published": "2026-11-04T20:09:20.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Pixel-11-Pro-XL-with-game-controller-in-background.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Dummy toont camerabalk Samsung Galaxy S27 Ultra",
+        "link": "https://tweakers.net/nieuws/254172/dummy-toont-camerabalk-samsung-galaxy-s27-ultra.html",
+        "description": "Er is een dummy online verschenen op basis van de exacte afmetingen van de Samsung Galaxy S27 Ultra. Die toont een ander ontwerp met een camerabalk en een camera minder. De telefoon zelf is iets groter dan de S26 Ultra.",
+        "published": "2026-11-04T20:04:00.000Z",
+        "source": "Tweakers",
+        "sourceKey": "tweakers",
+        "priority": 2,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "samsung"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Omstreden Apple Watch-functies verschijnen in bèta van watchOS 27.3",
+        "link": "https://tweakers.net/nieuws/254168/omstreden-apple-watch-functies-verschijnen-in-beta-van-watchos-273.html",
+        "description": "De veelbesproken functies Live Terugspoelen en Siri Samenvatting zitten in de bèta van watchOS 27.3. De functies die leunen op het meeluisteren met gesprekken lijken daardoor binnen afzienbare tijd uit te komen. Dat gebeurt voorlopig niet in de Europese Unie.",
+        "published": "2026-11-04T19:06:12.000Z",
+        "source": "Tweakers",
+        "sourceKey": "tweakers",
+        "priority": 2,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "iOS 27.3 upgrades Apple Music in two ways, here’s what’s new",
+        "link": "https://9to5mac.com/2026/11/04/ios-27-3-upgrades-apple-music-in-two-ways-heres-whats-new/",
+        "description": "Apple Music is getting two upgrades in iOS 27.3, which just debuted in beta this week. Here’s what’s new. more…",
+        "published": "2026-11-04T18:46:02.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-music-rebrand-logo-new.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Google Pixel 11, 11 Pro, and 11 Pro XL Sale: Save Up to $350",
+        "link": "https://www.wired.com/story/google-pixel-11-deal-november-2026/",
+        "description": "Upgrade to the smartest Android smartphones. Google’s latest Pixel 11 phones are all on sale at their lowest prices to date, well ahead of Black Friday.",
+        "published": "2026-11-04T18:27:19.000Z",
         "source": "Wired",
         "sourceKey": "wired",
         "priority": 2,
-        "image": "https://media.wired.com/photos/6ae8f6f7fdca8a2bb1f7b5e1/master/pass/Alex-Gibney-WWF-Culture-2299894058.jpg",
+        "image": "https://media.wired.com/photos/6aeb74f2291739b7e29cddcb/master/pass/Get-Google%E2%80%99s-Great-Pixel-11-Phones-for-Less.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "watchOS 27.3 Beta: Apple aktiviert erstmals umstrittene Audio-Intelligence-Tech",
+        "link": "https://www.heise.de/news/watchOS-27-3-Beta-Apple-aktiviert-erstmals-umstrittene-Audio-Intelligence-Tech-11511988.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "Die letzten 15 Sekunden als Text wiedergeben, alle Gespräche des Tages zusammenfassen: Das soll die Apple Watch bald können. Nun startete ein Betatest.",
+        "published": "2026-11-04T18:15:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/4/9/3/3/audiointelligence-dcc5d54f75f2fa1a.png",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Is It Worth Buying a Titanium Apple Watch?",
+        "link": "https://www.macrumors.com/guide/is-it-worth-buying-a-titanium-apple-watch/",
+        "description": "The Apple Watch Series 12's titanium option offers a premium metallic finish and sapphire crystal, sitting between the more affordable aluminum model and the higher-priced ceramic version. Is it worth choosing? The titanium Apple Watch starts at $699, compared to $399 for aluminum. Available in Natural and Radiant Gold with a polished finish, it offers a more traditional watch aesthetic than the matte aluminum models. There are designer Apple Watch Hermès options too. Ceramic Shield 2, replacing",
+        "published": "2026-11-04T16:32:00.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/09/series-12-titanium.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Apple werkt aan Selfie Sing-karaokefunctie voor iPhones",
+        "link": "https://tweakers.net/nieuws/254150/apple-werkt-aan-selfie-sing-karaokefunctie-voor-iphones.html",
+        "description": "Apple werkt aan een functie genaamd Selfie Sing voor iOS 27.3. Daarmee verschijnen liedteksten op het scherm en is via de camera te zien hoe de gebruiker meezingt met de muziek. Gebruikers kunnen alleen met bepaalde liedjes meezingen.",
+        "published": "2026-11-04T16:16:02.000Z",
+        "source": "Tweakers",
+        "sourceKey": "tweakers",
+        "priority": 2,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Apple May Phase Out Non-Touch High-End MacBook Pros",
+        "link": "https://www.macrumors.com/2026/11/04/apple-may-phase-out-non-touch-macbook-pros/",
+        "description": "Apple will likely consolidate its high-end MacBook Pro lineup around touchscreen models, according to Bloomberg's Mark Gurman. Writing in his latest \"Power On\" newsletter, Gurman questioned whether Apple would keep updating its high-end ‌MacBook Pro‌ models without touchscreens. The company has retained the mini-LED M5 Pro and M5 Max models alongside the new touchscreen versions, which cost $400 more. Gurman cited the resources required to support parallel product lines across development, produ",
+        "published": "2026-11-04T13:35:32.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2025/10/14-inch-MacBook-Pro-Keyboard.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Apple's Lockdown Mode thwarted by a new persistent iPhone jailbreak",
+        "link": "https://appleinsider.com/articles/26/11/04/apples-lockdown-mode-thwarted-by-a-new-persistent-iphone-jailbreak?utm_source=rss",
+        "description": "A team of hackers has come up with a new jailbreak for the iPhone, demonstrating how it persists with Lockdown Mode on, even after an update to iOS 27.2. Lockdown Mode on iPhone is for users facing grave threats to their digital security Lockdown Mode is Apple's way to harden device security, intended to protect high-profile individuals from sophisticated cyberattacks. While Apple claimed back in March 2026 that it had managed a 100% protection rate since 2022, it seems it's not completely impen",
+        "published": "2026-11-04T13:28:59.000Z",
+        "source": "AppleInsider",
+        "sourceKey": "appleinsider",
+        "priority": 2,
+        "image": "https://media.appleinsider.com/gallery/69690-146930-lockdownmode1-xl.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Samsung’s mysterious Galaxy T1 fitness earbuds are getting ready for a US launch",
+        "link": "https://www.androidauthority.com/samsung-galaxy-t1-earbuds-fcc-certification-3731590/",
+        "description": "New FCC certification documents offer a closer look at what's coming.",
+        "published": "2026-11-04T11:50:13.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/Samsung-Galaxy-S26-Ultra-on-table-with-earbuds.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "samsung"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Apple Music's upcoming feature will let you record yourself doing karaoke",
+        "link": "https://www.engadget.com/2306269/apple-music-selfie-sing-karaoke-video/",
+        "description": "Apple Music will launch 'Selfie Sing' with iOS 27.3.",
+        "published": "2026-11-04T11:02:04.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/apple-musics-upcoming-feature-will-let-you-record-yourself-doing-karaoke/l-intro-1793789894.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Certified Android TV manufacturer put unauthorized backdoor in 1.3 million set-top boxes, Google reveals — OEM sold access to criminal affiliates, used massive network as botnet for ad fraud, residential proxy",
+        "link": "https://www.tomshardware.com/tech-industry/cyber-security/certified-android-tv-manufacturer-put-unauthorized-backdoor-in-set-top-boxes-google-reveals-oem-sold-access-to-criminal-affiliates-for-1-3-million-devices-used-massive-network-as-botnet-for-ad-fraud-residential-proxy",
+        "description": "Google discovered and shut down a backdoor built into millions of Google TV and Android TV set-top boxes built by Videostrong Technology Co.",
+        "published": "2026-11-04T11:00:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/aEgQcZfJcTXZ8F8rxVWHbV-1920-80.png",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Apple releases first iOS 27.3 developer beta, here's what's new",
+        "link": "https://www.gsmarena.com/apple_releases_first_ios_273_developer_beta_heres_whats_new-news-75342.php",
+        "description": "Apple has released the first iOS 27.3 developer beta to testers, bringing several new features and changes. The company also rolled out the first developer betas of iPadOS 27.3, macOS 27.3, watchOS 27.3, tvOS 27.3, and visionOS 27.3. The iOS 27.3 beta 1 introduces a redesigned Health app alongside several Audio Intelligence features such as Siri Recap and Live Rewind on the Apple Watch. With the latest beta, the company is also bringing Apple Intelligence features to China, as confirmed last wee",
+        "published": "2026-11-04T19:44:01.000Z",
+        "source": "GSMArena",
+        "sourceKey": "gsmarena",
+        "priority": 3,
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/ios-27-3-beta-released/-184x111/gsmarena_00.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Samsung UK drops prices of Galaxy S26 phones by £250, Z Fold8 price by £100 for Black Friday",
+        "link": "https://www.gsmarena.com/samsung_uk_drops_prices_of_galaxy_s26_phones_by_250_z_fold8_price_by_100_for_black_friday-news-75344.php",
+        "description": "Samsung UK is running a Black Friday promo campaign that drops the prices of many of its premium Galaxy devices. There is a variety of offers – most are valid until December 1, but the best phone offers expire on November 17. Starting with the Samsung Galaxy Z Fold8, you can get £100 off with PayPal, plus a £30-£713 bonus when trading in an old device (these are the trade-in values of a Galaxy S20 128GB and a Galaxy Z Fold7 1TB, respectively). Samsung is making a “Black Friday Price Promise” – i",
+        "published": "2026-11-04T15:47:02.000Z",
+        "source": "GSMArena",
+        "sourceKey": "gsmarena",
+        "priority": 3,
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/samsung-uk-black-friday-deals/-184x111/gsmarena_000.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "samsung"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Xiaomi unveils the HyperOS 4 update rollout schedule",
+        "link": "https://www.gsmarena.com/xiaomi_sets_the_hyperos_4_update_rollout_schedule-news-75340.php",
+        "description": "Xiaomi’s HyperOS 4 has a deeper integration with iOS – this includes easier sharing of photos, files, contacts and web pages with iPhone users. There are a lot of visual and performance improvements too. You can read more about HyperOS 4 here. Right now, only the Xiaomi 18 series trio runs v4, but soon older Xiaomi phones will get it too. Here is the detailed HyperOS 4 rollout schedule. The flagship models from 2025 and 2024 will get it soon – “early November” is the official time. They are not",
+        "published": "2026-11-04T11:13:03.000Z",
+        "source": "GSMArena",
+        "sourceKey": "gsmarena",
+        "priority": 3,
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/xiaomi-hyperos-4-rollout-schedule/-184x111/gsmarena_000.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "xiaomi"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Apple Watch Series 12 and Ultra 4's controversial AI features are going live",
+        "link": "https://www.gsmarena.com/apple_watch_series_12_and_ultra_4s_controversial_ai_features_are_going_live-news-75336.php",
+        "description": "Apple unveiled the Apple Watch Series 12 and Watch Ultra 4 back in September, along with a set of microphone-based features it calls Audio Intelligence. Two of them, Sound Recognition and Music Recognition with Shazam, were available from the start, but the more controversial pair had to wait. Now, Live Rewind and Siri Recap are arriving as part of the first watchOS 27.3 developer beta. [#InlinePriceWidget,14937,1#] [#InlinePriceWidget,14935,1#] Live Rewind shows what was said in the last 15 sec",
+        "published": "2026-11-04T08:04:03.000Z",
+        "source": "GSMArena",
+        "sourceKey": "gsmarena",
+        "priority": 3,
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/watchos-27-3-beta-live-rewind-siri-recap/-184x111/gsmarena_000.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "WhatsApp starts suggesting your latest photos and videos right in your chats",
+        "link": "https://www.gsmarena.com/whatsapp_starts_suggesting_your_latest_photos_and_videos_right_in_your_chats-news-75335.php",
+        "description": "WhatsApp already suggests stickers above the keyboard on Android based on the emojis you type, and now it's taking that suggestion system a step further. Media suggestions are rolling out to some users on both Android and iOS with the latest versions of the app. When you open a chat, WhatsApp can now offer to send whatever you most recently added to your gallery. There are two ways this can show up, and you'll only get one of them. In the first, a toast pops up above the chat bar as soon as you",
+        "published": "2026-11-04T06:01:02.000Z",
+        "source": "GSMArena",
+        "sourceKey": "gsmarena",
+        "priority": 3,
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/whatsapp-media-suggestions/-184x111/gsmarena_000.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "whatsapp"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Samsung Galaxy A38's battery capacity leaks, and it's finally an upgrade",
+        "link": "https://www.gsmarena.com/samsung_galaxy_a38s_battery_capacity_leaks_and_its_finally_an_upgrade-news-75337.php",
+        "description": "Samsung launched the Galaxy A37 back in March, and we've already heard that its successor will keep the same camera setup. Today, a new report from the same source claims the Galaxy A38 will get an upgrade over its predecessor after all, but in a different area: the battery capacity. The Galaxy A38 will allegedly have a battery with a rated capacity of 5,882 mAh, which should mean a typical capacity of 6,000 mAh. That's 20% more than the 5,000 mAh battery in the A37. It would also reportedly be",
+        "published": "2026-11-04T04:31:02.000Z",
+        "source": "GSMArena",
+        "sourceKey": "gsmarena",
+        "priority": 3,
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/samsung-galaxy-a38-battery-capacity/-184x111/gsmarena_000.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "samsung"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "How I learned to love an obnoxious phone grip",
+        "link": "https://www.theverge.com/tech/1026743/bright-colorful-phone-grip-case",
+        "description": "Have a little treat. | Photo: Allison Johnson / The Verge Much like a great recipe, it started with a stick of butter. This wasn't real butter; it was a friend's new phone grip, complemented by a phone case with bold stripes. Butter is in vogue now, or at least that's what a 12-year-old told me a few months ago. This stick of butter was labeled \"unsalty\" and committed to the bit by including the appropriate tablespoon markings, just like the real thing. I was enamored. \"Where did you get that?\"",
+        "published": "2026-11-04T21:30:00.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IMG_1326_edit.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "stripe"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Rian Johnson explains why he had to build his own iPhone camera app",
+        "link": "https://www.theverge.com/tech/1025659/rian-johnson-chromagraph-camera-interview",
+        "description": "Rian Johnson. Rian Johnson is an analog photography devotee. The director of Knives Out and The Last Jedi can often be spotted on set with a Leica M6 at his side, documenting production on film. But sometimes, it's still easier to reach for a phone. So Johnson started wondering if the photos from his iPhone could be made to look more like the grade he applies to his movies. The result is Chromagraph Camera, a $13 iOS app that bypasses elements of Apple's image processing pipeline and applies the",
+        "published": "2026-11-04T16:10:05.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Rian-Johnson-Portrait.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Thai Spyware Alerts on Opposition Leaders’ Phones Prompt Demands for Probe",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-04/thai-spyware-alerts-on-opposition-leaders-phones-prompt-demands-for-probe",
+        "description": "Two Thai opposition leaders are demanding the government disclose whether state agencies targeted political leaders with spyware ahead of a December no-confidence debate, days after Apple Inc. software flagged attempted attacks on their phones.",
+        "published": "2026-11-04T10:10:43.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Elon Musk’s Grok Bot is picking up the phone now, and the first calls are wild",
+        "link": "https://www.teslarati.com/elon-musks-grok-bot-is-picking-up-the-phone-now-and-the-first-calls-are-wild/",
+        "description": "Elon Musk wants Grok Bot users making phone calls, and one Comcast call saved $500. The post Elon Musk’s Grok Bot is picking up the phone now, and the first calls are wild appeared first on TESLARATI.",
+        "published": "2026-11-04T06:09:41.000Z",
+        "source": "Teslarati",
+        "sourceKey": "teslarati",
+        "priority": 3,
+        "image": null,
         "baseScore": 3,
         "relevanceScore": 3,
         "matchedKeywords": [
           "elon musk"
         ],
-        "category": "other"
+        "category": "devices"
+      }
+    ],
+    "robotics": [
+      {
+        "title": "Xiaomi’s humanoid robots work a full 8-hour shift in its EV factory",
+        "link": "https://electrek.co/2026/11/04/xiaomi-humanoid-robot-8-hour-shift-ev-factory/",
+        "description": "Xiaomi has released footage of its humanoid robots working a full 8-hour shift at its EV factory, sorting center console side covers for its cars. The company says the robots did it on their own, catching and fixing their own mistakes along the way. If that’s fully autonomous, it’s truly impressive. But we’ve been disappointed by humanoid robot demos before, and Xiaomi left out the numbers that would let anyone check. more…",
+        "published": "2026-11-04T16:23:06.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Xiaomi-humanoid-robot.jpeg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "xiaomi",
+          "humanoid robot",
+          "humanoid"
+        ],
+        "category": "robotics"
+      },
+      {
+        "title": "ITjuzi: Chinese embodied AI companies raised ~$13B across 322 deals in H1 2026, up 5x YoY, as robot makers shift focus from hardware to AI (Reuters)",
+        "link": "https://www.techmeme.com/261104/p7#a261104p7",
+        "description": "Reuters: ITjuzi: Chinese embodied AI companies raised ~$13B across 322 deals in H1 2026, up 5x YoY, as robot makers shift focus from hardware to AI — After years of building humanoid robots capable of running, dancing and performing backflips, Chinese companies are pouring resources into a different challenge …",
+        "published": "2026-11-04T07:20:02.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261104/i7.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "humanoid robot",
+          "humanoid"
+        ],
+        "category": "robotics"
+      },
+      {
+        "title": "China Robot Funding Slows to $1.6 Billion as Shakeout Fears Grow",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-04/china-robot-funding-slows-to-1-6-billion-as-shakeout-fears-grow",
+        "description": "Chinese robotics sector fundraising decelerated sharply in past months to about 11 billion yuan ($1.6 billion) in October, suggesting a cooling in the frenzied pace of investment since Unitree wowed the world with its Spring Festival humanoids showcase.",
+        "published": "2026-11-04T06:07:48.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "billion",
+          "humanoid"
+        ],
+        "category": "robotics"
       }
     ],
     "crypto": [
+      {
+        "title": "Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers’ Reach",
+        "link": "https://decrypt.co/382570/coinbase-99-percent-customer-crypto-offline-binance-hack",
+        "description": "Coinbase told customers it wasn’t affected by the $6.4 billion Binance hack and detailed its security controls, including offline storage for over 99% of assets, split private keys and kill switches.",
+        "published": "2026-11-04T20:46:03.000Z",
+        "source": "Decrypt",
+        "sourceKey": "decrypt",
+        "priority": 3,
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Brian-Armstrong-coinbase-wikimedia-decrypt-style-gID_7.png@png",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "coinbase",
+          "billion"
+        ],
+        "category": "crypto"
+      },
       {
         "title": "Coinbase says 99% of customer assets sit in cold storage after Binance’s $6.3 billion breach",
         "link": "https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880",
@@ -3630,8 +4748,25 @@
           "bitcoin"
         ],
         "category": "crypto"
+      },
+      {
+        "title": "Six Ways the Blue Wave Could Shake Up AI, Crypto and Tech",
+        "link": "https://www.theinformation.com/articles/six-ways-blue-wave-shake-ai-crypto-tech",
+        "description": "Democrats’ stunning victories in Tuesday’s election can at least partly be attributed to the fact that they capitalized on growing voter anxiety about AI and tech. What exactly lawmakers do with their newfound political power to address those anxieties remains to be seen, though. One of their biggest priorities is likely to be more regulation of data centers, since voters overwhelmingly backed state and federal candidates who supported moratoriums on their construction. But data center pauses we",
+        "published": "2026-11-04T21:28:48.000Z",
+        "source": "The Information",
+        "sourceKey": "theinformation",
+        "priority": 1,
+        "image": null,
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "data center",
+          "regulation"
+        ],
+        "category": "crypto"
       }
     ]
   },
-  "totalArticles": 190
+  "totalArticles": 252
 }
