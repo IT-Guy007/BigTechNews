@@ -4,7 +4,7 @@
   "title": "Wednesday, Nov 4",
   "dateRange": "November 4, 2026",
   "date": "2026-11-04",
-  "generatedAt": "2026-11-05T00:55:27.769Z",
+  "generatedAt": "2026-11-05T09:32:14.559Z",
   "highlights": [
     {
       "title": "Legal shifts in Texas and Delaware leave Elon Musk's SpaceX-Tesla merger and Meta's new non-voting share plan better prepared to fend off shareholder lawsuits (Financial Times)",
@@ -941,6 +941,23 @@
         "category": "ai"
       },
       {
+        "title": "Apple begins AI trial in China, powered by Alibaba",
+        "link": "https://www.euronews.com/2026/11/04/apple-begins-ai-trial-in-china-powered-by-alibaba",
+        "description": "Apple has begun testing its AI tools with developers in China, almost two years after launching them in the US. To comply with Beijing’s strict rules, it is relying on Alibaba’s Qwen model.",
+        "published": "2026-11-04T09:48:08.000Z",
+        "source": "Euronews Next",
+        "sourceKey": "euronews_next",
+        "priority": 2,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "apple",
+          "alibaba"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "Tencent releases its Hy4 open-weight foundation model, which it says joins the top tier of Chinese open-weight AI for the first time, and plans a Flash version (Bloomberg)",
         "link": "https://www.techmeme.com/261104/p14#a261104p14",
         "description": "Bloomberg: Tencent releases its Hy4 open-weight foundation model, which it says joins the top tier of Chinese open-weight AI for the first time, and plans a Flash version — Tencent Holdings Ltd. released a foundation model Wednesday that it said joins the top tier of Chinese open-weight AI systems for the first time.",
@@ -1188,6 +1205,23 @@
         "category": "ai"
       },
       {
+        "title": "Progress on provable inference for large language models",
+        "link": "https://www.anthropic.com/research/provable-inference",
+        "description": "Article URL: https://www.anthropic.com/research/provable-inference Comments URL: https://news.ycombinator.com/item?id=50368626 Points: 218 # Comments: 101",
+        "published": "2026-11-04T17:17:46.000Z",
+        "source": "Hacker News",
+        "sourceKey": "hackernews",
+        "priority": 2,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "large language model",
+          "anthropic"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "GPT-6 Astra sees the matrix and reprograms other AI models directly through their weights",
         "link": "https://the-decoder.com/gpt-6-astra-sees-the-matrix-and-reprograms-other-ai-models-directly-through-their-weights/",
         "description": "MIT researchers show that OpenAI's GPT-6 Astra can read and deliberately rewrite the weights of other AI models without traditional training. In one experiment, Astra boosted a Qwen model's math accuracy from 7.9 to 48.1 percent by changing just 0.016 percent of its weights. The approach could fundamentally simplify AI optimization but still hits clear limits. The article GPT-6 Astra sees the matrix and reprograms other AI models directly through their weights appeared first on The Decoder.",
@@ -1201,6 +1235,23 @@
         "matchedKeywords": [
           "ai model",
           "openai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Ask HN: What's your current AI agentic setup?",
+        "link": "https://news.ycombinator.com/item?id=50366117",
+        "description": "I'm curious how people on HN are using AI day to day, and came up with a list of questions I thought could be interesting to know. No need to answer every question of course, just wanted to get a gut feel how people are using AI. 1) What AI subscriptions are you personally paying for? (Claude, ChatGPT/Codex, Cursor, etc) - Which tiers? - Have you purchased multiple subscriptions from the same provider (eg two Claude accounts)? 2) Are you using models outside (or instead) of those subscriptions?",
+        "published": "2026-11-04T14:37:22.000Z",
+        "source": "Hacker News",
+        "sourceKey": "hackernews",
+        "priority": 2,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "chatgpt",
+          "claude"
         ],
         "category": "ai"
       },
@@ -1515,6 +1566,22 @@
         "relevanceScore": 4,
         "matchedKeywords": [
           "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Tencent Hy4",
+        "link": "https://hy.tencent.ai/research/hy4",
+        "description": "Article URL: https://hy.tencent.ai/research/hy4 Comments URL: https://news.ycombinator.com/item?id=50365780 Points: 240 # Comments: 88",
+        "published": "2026-11-04T14:11:26.000Z",
+        "source": "Hacker News",
+        "sourceKey": "hackernews",
+        "priority": 2,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "tencent"
         ],
         "category": "ai"
       },
@@ -3352,6 +3419,23 @@
           "meta"
         ],
         "category": "regulation"
+      },
+      {
+        "title": "US midterms: Data centre backlash helps Democrats win in Texas, Georgia and Ohio. What happens now?",
+        "link": "https://www.euronews.com/2026/11/04/us-midterm-elections-backlash-to-ai-data-centres-reaches-ballot-boxes",
+        "description": "Republican backer Elon Musk posted \"data centers in space looking pretty appealing right now\" as Democrats win control of US Congress.",
+        "published": "2026-11-04T09:54:39.000Z",
+        "source": "Euronews Next",
+        "sourceKey": "euronews_next",
+        "priority": 2,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "elon musk",
+          "data center"
+        ],
+        "category": "regulation"
       }
     ],
     "other": [
@@ -4768,5 +4852,5 @@
       }
     ]
   },
-  "totalArticles": 252
+  "totalArticles": 257
 }
