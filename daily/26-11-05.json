@@ -4,7 +4,7 @@
   "title": "Thursday, Nov 5",
   "dateRange": "November 5, 2026",
   "date": "2026-11-05",
-  "generatedAt": "2026-11-05T18:03:18.001Z",
+  "generatedAt": "2026-11-05T23:39:52.079Z",
   "highlights": [
     {
       "title": "Cat Wu, who left Anthropic last week, says she is joining OpenAI to lead product manangement for core products; Wu was the product lead for Claude Code",
@@ -70,6 +70,70 @@
         "anthropic",
         "acquire",
         "ai model"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Anthropic Launches Personal Finance Feature for Claude",
+      "link": "https://www.theinformation.com/briefings/anthropic-launches-personal-finance-feature-claude",
+      "description": "Anthropic said it is launching a personal finance feature for Claude, one of the top areas that users ask the chatbot for guidance, ahead of its planned IPO. Users can connect their bank accounts to Claude through Plaid to grant read-only access, meaning Claude won’t be able to move, manage or ...",
+      "published": "2026-11-05T21:20:43.000Z",
+      "source": "The Information",
+      "sourceKey": "theinformation",
+      "priority": 1,
+      "image": null,
+      "baseScore": 14,
+      "relevanceScore": 17,
+      "matchedKeywords": [
+        "anthropic",
+        "claude",
+        "ipo"
+      ],
+      "category": "ai",
+      "alsoIn": [
+        {
+          "source": "9to5Mac",
+          "title": "Anthropic upgrades Claude with new Personal Finance feature",
+          "link": "https://9to5mac.com/2026/11/05/anthropic-upgrades-claude-with-new-personal-finance-feature/"
+        },
+        {
+          "source": "Android Authority",
+          "title": "Anthropic rolls out Claude Personal Finance with spending analysis and bill tracking",
+          "link": "https://www.androidauthority.com/claude-personal-finance-launch-3732213/"
+        },
+        {
+          "source": "Decrypt",
+          "title": "Claude Gets Personal Finance—Anthony Pompliano Accuses Anthropic of Copying His Startup",
+          "link": "https://decrypt.co/382689/claude-personal-finance-anthony-pompliano-anthropic"
+        },
+        {
+          "source": "MacRumors",
+          "title": "Claude Gets Personal Finance Feature With Bank Account Linking",
+          "link": "https://www.macrumors.com/2026/11/05/claude-personal-finance/"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "Claude can now analyze your spending with its new Personal Finance tool",
+          "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"
+        }
+      ]
+    },
+    {
+      "title": "Perplexity launches its own take on AI agents for work",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "description": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity Computer, an AI system that can deploy agents on your device to complete tasks. But Perplexity says Teammates \"build on top\" of Computer by offering the ability to collaborate and complete \"ongoing, l",
+      "published": "2026-11-05T22:26:50.000Z",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "priority": 1,
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "baseScore": 16,
+      "relevanceScore": 16,
+      "matchedKeywords": [
+        "perplexity",
+        "ai agent",
+        "openai",
+        "anthropic"
       ],
       "category": "ai"
     },
@@ -198,43 +262,6 @@
         "lawsuit"
       ],
       "category": "regulation"
-    },
-    {
-      "title": "IBM, AMD and Oak Ridge join forces to launch quantum computing error-correction platform",
-      "link": "https://siliconangle.com/2026/11/05/ibm-amd-and-oak-ridge-join-forces-to-launch-quantum-computing-error-correction-platform/",
-      "description": "IBM Corp., Advanced Micro Devices Inc. and the Quantum Science Center at Oak Ridge National Laboratory today announced a new quantum error-correction platform that integrates quantum and high-performance computing. Gaining high performance and correctness in quantum computing requires protecting quantum information from noise. In many cases, researchers have paired quantum computers with classical computers to […] The post IBM, AMD and Oak Ridge join forces to launch quantum computing error-corr",
-      "published": "2026-11-05T13:00:59.000Z",
-      "source": "SiliconANGLE",
-      "sourceKey": "siliconangle",
-      "priority": 2,
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/2026-11-IBM-ORNL-AMD-co-design-platform-QPUs-GPUs-CPUs-scaled.jpg",
-      "baseScore": 14,
-      "relevanceScore": 14,
-      "matchedKeywords": [
-        "amd",
-        "ibm",
-        "quantum computing",
-        "quantum computer"
-      ],
-      "category": "chips_cloud"
-    },
-    {
-      "title": "Meta kauft Spezialisten für KI-Coding-Agenten",
-      "link": "https://www.heise.de/news/Meta-kauft-Spezialisten-fuer-KI-Coding-Agenten-11513119.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "description": "Mit der Übernahme von Conductor will Meta seine KI-Entwicklerwerkzeuge stärken und im Wettbewerb mit OpenAI und Anthropic aufholen.",
-      "published": "2026-11-05T09:56:00.000Z",
-      "source": "heise online",
-      "sourceKey": "heise",
-      "priority": 2,
-      "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/5/5/1/0/shutterstock_2368784265-798168ce50220d7f.jpeg",
-      "baseScore": 14,
-      "relevanceScore": 14,
-      "matchedKeywords": [
-        "meta",
-        "openai",
-        "anthropic"
-      ],
-      "category": "ai"
     }
   ],
   "byCategory": {
@@ -307,6 +334,70 @@
         "category": "ai"
       },
       {
+        "title": "Anthropic Launches Personal Finance Feature for Claude",
+        "link": "https://www.theinformation.com/briefings/anthropic-launches-personal-finance-feature-claude",
+        "description": "Anthropic said it is launching a personal finance feature for Claude, one of the top areas that users ask the chatbot for guidance, ahead of its planned IPO. Users can connect their bank accounts to Claude through Plaid to grant read-only access, meaning Claude won’t be able to move, manage or ...",
+        "published": "2026-11-05T21:20:43.000Z",
+        "source": "The Information",
+        "sourceKey": "theinformation",
+        "priority": 1,
+        "image": null,
+        "baseScore": 14,
+        "relevanceScore": 17,
+        "matchedKeywords": [
+          "anthropic",
+          "claude",
+          "ipo"
+        ],
+        "category": "ai",
+        "alsoIn": [
+          {
+            "source": "9to5Mac",
+            "title": "Anthropic upgrades Claude with new Personal Finance feature",
+            "link": "https://9to5mac.com/2026/11/05/anthropic-upgrades-claude-with-new-personal-finance-feature/"
+          },
+          {
+            "source": "Android Authority",
+            "title": "Anthropic rolls out Claude Personal Finance with spending analysis and bill tracking",
+            "link": "https://www.androidauthority.com/claude-personal-finance-launch-3732213/"
+          },
+          {
+            "source": "Decrypt",
+            "title": "Claude Gets Personal Finance—Anthony Pompliano Accuses Anthropic of Copying His Startup",
+            "link": "https://decrypt.co/382689/claude-personal-finance-anthony-pompliano-anthropic"
+          },
+          {
+            "source": "MacRumors",
+            "title": "Claude Gets Personal Finance Feature With Bank Account Linking",
+            "link": "https://www.macrumors.com/2026/11/05/claude-personal-finance/"
+          },
+          {
+            "source": "TechCrunch",
+            "title": "Claude can now analyze your spending with its new Personal Finance tool",
+            "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"
+          }
+        ]
+      },
+      {
+        "title": "Perplexity launches its own take on AI agents for work",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+        "description": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity Computer, an AI system that can deploy agents on your device to complete tasks. But Perplexity says Teammates \"build on top\" of Computer by offering the ability to collaborate and complete \"ongoing, l",
+        "published": "2026-11-05T22:26:50.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 16,
+        "relevanceScore": 16,
+        "matchedKeywords": [
+          "perplexity",
+          "ai agent",
+          "openai",
+          "anthropic"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "Google could take stake in bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults",
         "link": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults",
         "description": "A $19 billion data-center agreement includes an unusual provision allowing Google to acquire part of the project if Anthropic fails to pay its rent.",
@@ -365,6 +456,65 @@
         "category": "ai"
       },
       {
+        "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+        "description": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the process. OpenAI says that during testing, GPT-6 Cyber went out of bounds less than 1 percent of the time, down from around 5 percent with GPT-5.6 Cyber. The evaluation, called ExploitGym HoneyPot, is modeled after the Hugging Face Incident, in which OpenAI's AI agents breached the open-source AI community",
+        "published": "2026-11-05T17:00:00.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 10,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "openai",
+          "ai model",
+          "ai agent"
+        ],
+        "category": "ai",
+        "alsoIn": [
+          {
+            "source": "TechCrunch",
+            "title": "OpenAI released a new cybersecurity model. Is that enough?",
+            "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/"
+          }
+        ]
+      },
+      {
+        "title": "OpenAI Sued Over Claim ChatGPT Drafted Lethal Poisoning Plan",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-05/man-claims-in-suit-chatgpt-encouraged-his-wife-to-poison-him",
+        "description": "James Gates says he started to suspect his wife was trying to poison him after he found a handwritten note with a list of substances and dosage plans, some of which were labeled “lethal.”",
+        "published": "2026-11-05T20:32:42.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 11,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "openai",
+          "chatgpt"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Merge builds product and business tools with OpenAI technology",
+        "link": "https://openai.com/index/merge-builds-with-openai",
+        "description": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+        "published": "2026-11-05T08:00:00.000Z",
+        "source": "OpenAI",
+        "sourceKey": "openai_news",
+        "priority": 1,
+        "image": null,
+        "baseScore": 11,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "openai",
+          "chatgpt"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "OpenAI President Greg Brockman says H1 2026 was \"pretty rough\", but agentic coding tools, GPT-5.6 Sol, and ChatGPT Work drove a \"revenue inflection\" in Q3",
         "link": "https://www.techmeme.com/261105/p8#a261105p8",
         "description": "OpenAI President Greg Brockman says H1 2026 was “pretty rough”, but agentic coding tools, GPT-5.6 Sol, and ChatGPT Work drove a “revenue inflection” in Q3 — The ChatGPT maker's president said it experienced a ‘revenue inflection’ in the third quarter of 2026, driven by a growing enterprise business",
@@ -418,20 +568,20 @@
         "category": "ai"
       },
       {
-        "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
-        "description": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the process. OpenAI says that during testing, GPT-6 Cyber went out of bounds less than 1 percent of the time, down from around 5 percent with GPT-5.6 Cyber. The evaluation, called ExploitGym HoneyPot, is modeled after the Hugging Face Incident, in which OpenAI's AI agents breached the open-source AI community",
-        "published": "2026-11-05T17:00:00.000Z",
-        "source": "The Verge",
-        "sourceKey": "theverge",
-        "priority": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "baseScore": 10,
-        "relevanceScore": 10,
+        "title": "Claude kan in navolging van ChatGPT financiën bijhouden door koppeling met bank",
+        "link": "https://tweakers.net/nieuws/254224/claude-kan-in-navolging-van-chatgpt-financien-bijhouden-door-koppeling-met-bank.html",
+        "description": "Anthropic heeft Claude Personal Finance aangekondigd, een manier om via een koppeling met een bank persoonlijke geldzaken in de gaten te houden. De functie werkt voorlopig alleen nog in Anthropics thuisland, de Verenigde Staten.",
+        "published": "2026-11-05T20:12:00.000Z",
+        "source": "Tweakers",
+        "sourceKey": "tweakers",
+        "priority": 2,
+        "image": null,
+        "baseScore": 11,
+        "relevanceScore": 11,
         "matchedKeywords": [
-          "openai",
-          "ai model",
-          "ai agent"
+          "chatgpt",
+          "claude",
+          "anthropic"
         ],
         "category": "ai"
       },
@@ -544,6 +694,80 @@
         "category": "ai"
       },
       {
+        "title": "Muse has a voice mode now",
+        "link": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+        "description": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with your Muse agent, the avatar at the top of your conversation animates in time with the words that it's saying. You can also change the tone of the voice by just asking your agent about what you want and letting it decide or by browsing through a bunch of options",
+        "published": "2026-11-05T19:03:04.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 8,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "meta",
+          "mark zuckerberg",
+          "ai agent",
+          "ceo"
+        ],
+        "category": "ai",
+        "alsoIn": [
+          {
+            "source": "Techmeme",
+            "title": "Meta rolls out voice mode and expressive avatars in the Muse app, starting in the US, letting users have real-time voice conversations with their Muse AI agent",
+            "link": "https://www.techmeme.com/261105/p48#a261105p48"
+          }
+        ]
+      },
+      {
+        "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+        "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+        "description": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+        "published": "2026-11-05T17:00:00.000Z",
+        "source": "Google",
+        "sourceKey": "google_blog",
+        "priority": 1,
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.max-600x600.format-webp.webp",
+        "baseScore": 8,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "google",
+          "gemini"
+        ],
+        "category": "ai",
+        "alsoIn": [
+          {
+            "source": "Android Authority",
+            "title": "Google announces Gemini Omni 1.2 Flash with the ability to make 50% longer video clips",
+            "link": "https://www.androidauthority.com/google-gemini-omni-1-2-flash-announced-3732209/"
+          }
+        ]
+      },
+      {
+        "title": "OpenAI's GPT-6 Astra quietly sabotaged safety research by inventing fake obstacles",
+        "link": "https://the-decoder.com/openais-gpt-6-astra-quietly-sabotaged-safety-research-by-inventing-fake-obstacles/",
+        "description": "OpenAI's new GPT-6 Astra model apparently sabotaged AI safety research on purpose. It invented obstacles, withheld solutions, and performed about 40 percent worse on safety tasks than on comparable other tasks. Removing a flawed training dataset fixed the problem, but OpenAI can't fully rule out strategic motives. The article OpenAI's GPT-6 Astra quietly sabotaged safety research by inventing fake obstacles appeared first on The Decoder.",
+        "published": "2026-11-05T14:08:22.000Z",
+        "source": "The Decoder",
+        "sourceKey": "thedecoder",
+        "priority": 2,
+        "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_logo-1.png",
+        "baseScore": 8,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "openai",
+          "ai safety"
+        ],
+        "category": "ai",
+        "alsoIn": [
+          {
+            "source": "Hacker News",
+            "title": "GPT-6 Astra covertly underperforms on safety research",
+            "link": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/"
+          }
+        ]
+      },
+      {
         "title": "Claude AI can plug directly into your bank account",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
         "description": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for example, and it'll create an overview with a breakdown of spending by category, including rent and utilities, shopping, and food. Claude can also answer broader questions around what bills are left before your next payday, if",
@@ -620,6 +844,56 @@
         ]
       },
       {
+        "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
+        "link": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+        "description": "Google is technically offering schools more choice but not the choices anyone wants.",
+        "published": "2026-11-05T21:40:36.000Z",
+        "source": "Ars Technica",
+        "sourceKey": "arstechnica",
+        "priority": 1,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "google",
+          "gemini"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "METR: Anthropic redacted much of the \"most informative\" evidence from METR's 100-page report, so readers \"must rely on our judgment more than we consider ideal\" (@metr_evals)",
+        "link": "https://www.techmeme.com/261105/p52#a261105p52",
+        "description": "@metr_evals: METR: Anthropic redacted much of the “most informative” evidence from METR's 100-page report, so readers “must rely on our judgment more than we consider ideal” — We submitted a ~100-page full report on our assessment to Anthropic. For the public version, Anthropic redacted a majority of the evidence we found most informative. As a consequence, the public must rely on our judgment more than we consider ideal.",
+        "published": "2026-11-05T21:30:03.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/img/pml.png",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "anthropic"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "METR: Anthropic's models are improving about twice as fast as they did between March 2024 and October 2025, with internal AI use driving ~80% of acceleration",
+        "link": "https://www.techmeme.com/261105/p46#a261105p46",
+        "description": "METR: Anthropic's models are improving about twice as fast as they did between March 2024 and October 2025, with internal AI use driving ~80% of acceleration — AI use within Anthropic may have doubled the company's pace of AI development, a new report from AI research nonprofit METR says.",
+        "published": "2026-11-05T19:01:21.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/img/pml.png",
+        "via": "The Information",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "anthropic"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "Anthropic’s R&D Speed May Have Doubled Due to AI, Researchers Find",
         "link": "https://www.theinformation.com/briefings/anthropics-r-d-speed-may-doubled-due-ai-researchers-find",
         "description": "AI use within Anthropic may have doubled the company’s pace of AI development, a new report from AI research nonprofit METR says. The rate that Anthropic’s models are improving as of this October is roughly twice the rate at which they improved between March 2024 and October 2025, according to ...",
@@ -666,23 +940,6 @@
         "relevanceScore": 8,
         "matchedKeywords": [
           "openai"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-        "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-        "description": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
-        "published": "2026-11-05T17:00:00.000Z",
-        "source": "Google",
-        "sourceKey": "google_blog",
-        "priority": 1,
-        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.max-600x600.format-webp.webp",
-        "baseScore": 8,
-        "relevanceScore": 8,
-        "matchedKeywords": [
-          "google",
-          "gemini"
         ],
         "category": "ai"
       },
@@ -758,6 +1015,22 @@
         "category": "ai"
       },
       {
+        "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+        "link": "https://openai.com/index/introducing-gpt-6-cyber",
+        "description": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+        "published": "2026-11-05T09:00:00.000Z",
+        "source": "OpenAI",
+        "sourceKey": "openai_news",
+        "priority": 1,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "Berlin-based Pliant raised an $80M Series C led by Seaya Nova and Speedinvest, as it opens its B2B payments infrastructure to AI agents",
         "link": "https://www.techmeme.com/261104/p63#a261104p63",
         "description": "Berlin-based Pliant raised an $80M Series C led by Seaya Nova and Speedinvest, as it opens its B2B payments infrastructure to AI agents — Claude, ChatGPT and in-house AI agents can now run business payments through Pliant. The Berlin fintech, past $100M in recurring revenue, will expand in North America.",
@@ -809,6 +1082,23 @@
         "category": "ai"
       },
       {
+        "title": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
+        "link": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
+        "description": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
+        "published": "2026-11-05T21:37:18.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": "https://media.wired.com/photos/6aeccd4b5e88c9a490858b81/master/pass/Model-Behavior-11052026-option2.jpg",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "anthropic",
+          "claude"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "No AI agent scores above 12 percent on SemiAnalysis' new real-world work benchmark",
         "link": "https://the-decoder.com/no-ai-agent-scores-above-12-percent-on-semianalysis-new-real-world-work-benchmark/",
         "description": "SemiAnalysis is putting AI agents through simulated knowledge work in its new GDPx benchmark, covering everything from chip design to quant trading. No model breaks 12 percent. Claude Opus 5.5 leads narrowly over Gemini 4 Carbon. Critics point to the small number of tasks per domain and uneven testing conditions. The article No AI agent scores above 12 percent on SemiAnalysis' new real-world work benchmark appeared first on The Decoder.",
@@ -824,23 +1114,6 @@
           "claude",
           "gemini",
           "chip"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "OpenAI's GPT-6 Astra quietly sabotaged safety research by inventing fake obstacles",
-        "link": "https://the-decoder.com/openais-gpt-6-astra-quietly-sabotaged-safety-research-by-inventing-fake-obstacles/",
-        "description": "OpenAI's new GPT-6 Astra model apparently sabotaged AI safety research on purpose. It invented obstacles, withheld solutions, and performed about 40 percent worse on safety tasks than on comparable other tasks. Removing a flawed training dataset fixed the problem, but OpenAI can't fully rule out strategic motives. The article OpenAI's GPT-6 Astra quietly sabotaged safety research by inventing fake obstacles appeared first on The Decoder.",
-        "published": "2026-11-05T14:08:22.000Z",
-        "source": "The Decoder",
-        "sourceKey": "thedecoder",
-        "priority": 2,
-        "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_logo-1.png",
-        "baseScore": 8,
-        "relevanceScore": 8,
-        "matchedKeywords": [
-          "openai",
-          "ai safety"
         ],
         "category": "ai"
       },
@@ -875,6 +1148,56 @@
         "matchedKeywords": [
           "openai",
           "chip"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "OpenAI launches GPT-6 Cyber, an Astra model built to keep vulnerability research in scope",
+        "link": "https://siliconangle.com/2026/11/05/openai-launches-gpt-6-cyber-a-gpt-6-astra-model-built-to-keep-vulnerability-research-in-scope/",
+        "description": "OpenAI Group PBC today released GPT-6 Cyber, a version of its GPT-6 Astra model trained specifically for authorized vulnerability research. The new model goes after a problem OpenAI’s own security work exposed this summer. In July, agents running in the company’s test environments broke into Hugging Face Inc. while pursuing an assigned task. GPT-6 Cyber […] The post OpenAI launches GPT-6 Cyber, an Astra model built to keep vulnerability research in scope appeared first on SiliconANGLE.",
+        "published": "2026-11-05T22:52:25.000Z",
+        "source": "SiliconANGLE",
+        "sourceKey": "siliconangle",
+        "priority": 2,
+        "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/gpt6cyber.png",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Google Forms will start using Gemini to summarize responses and uncover trends",
+        "link": "https://www.androidauthority.com/google-forms-actionable-insights-3732228/",
+        "description": "Google is rolling out actionable insights to Forms so you can act on results faster.",
+        "published": "2026-11-05T20:19:04.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2023/02/google-forms-feature-1.jpg",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "google",
+          "gemini"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Google's Gemini Omni 1.2 Flash stretches AI video clips to 15 seconds and cuts pricing by 30 percent",
+        "link": "https://the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent/",
+        "description": "Google Deepmind is making Gemini Omni 1.2 Flash generally available. The video-generation model now creates clips up to 15 seconds long, can be edited step by step via conversation, and costs just $0.07 per second at 720p, 30 percent less than its predecessor. Users who draft in low resolution and upscale only the final result can save even more. The article Google's Gemini Omni 1.2 Flash stretches AI video clips to 15 seconds and cuts pricing by 30 percent appeared first on The Decoder.",
+        "published": "2026-11-05T19:05:31.000Z",
+        "source": "The Decoder",
+        "sourceKey": "thedecoder",
+        "priority": 2,
+        "image": "https://the-decoder.com/wp-content/uploads/2026/10/gemini_4_logo_wall.png",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "google",
+          "gemini"
         ],
         "category": "ai"
       },
@@ -963,6 +1286,22 @@
         "category": "ai"
       },
       {
+        "title": "OpenAI Promises to Foot AI’s Power Bill After Voter Revolt. Who Enforces It?",
+        "link": "https://decrypt.co/382674/openai-promises-foot-ai-power-bill-after-voter-revolt",
+        "description": "OpenAI wants to ease the backlash against AI campuses with promises on electricity, water and secrecy. Its new compact raises a tougher question: Who would make the company comply?",
+        "published": "2026-11-05T21:36:03.000Z",
+        "source": "Decrypt",
+        "sourceKey": "decrypt",
+        "priority": 3,
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png@png",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "OpenAI says its AI can break into Linux at scale. Here's what it means for crypto",
         "link": "https://www.coindesk.com/tech/2026/11/05/openai-says-its-ai-can-break-into-linux-at-scale-here-s-what-it-means-for-crypto",
         "description": "OpenAI says its AI found 948 Linux flaws and wrote a working attack for each one. Crypto security voices say decentralization leaves the industry better placed than most to cope.",
@@ -1000,6 +1339,23 @@
             "link": "https://the-decoder.com/apple-slashes-internal-ai-budgets-with-deeper-cuts-still-planned/"
           }
         ]
+      },
+      {
+        "title": "Meta says US users can now video chat with their Muse AI avatar",
+        "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+        "description": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+        "published": "2026-11-05T19:48:28.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "meta",
+          "ai agent"
+        ],
+        "category": "ai"
       },
       {
         "title": "Aina, which raised $5.5M, launches an \"AI ring\" with a screen, joystick, and mic to let users talk to their AI agents, take notes, control Apple TV, and more",
@@ -1071,6 +1427,23 @@
         "category": "ai"
       },
       {
+        "title": "Now Claude can help with your finances too",
+        "link": "https://www.engadget.com/2307936/now-claude-can-help-with-your-finances-too/",
+        "description": "But just like with ChatGPT, should you?",
+        "published": "2026-11-05T18:00:00.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/now-claude-can-help-with-your-finances-too/l-intro-1793895674.jpg",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "claude",
+          "chatgpt"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source foundation model",
         "link": "https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/",
         "description": "Baidu releases ERNIE 5.5 Flash Base: a 280-billion-parameter MoE model pre-trained on 33.5 trillion tokens, shipped deliberately without fine-tuning, so developers can take it wherever they want. The article Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source foundation model appeared first on The Decoder.",
@@ -1102,6 +1475,22 @@
         "matchedKeywords": [
           "chatgpt",
           "claude"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Generate longer AI videos with Omni 1.2 Flash in Google Vids at no cost.",
+        "link": "https://blog.google/products-and-platforms/products/workspace/omni-1-2-flash-google-vids/",
+        "description": "Create longer AI videos in Google Vids with the new Omni 1.2 Flash model. Generate 15-second clips and consistent scenes for free. Try it now.",
+        "published": "2026-11-05T20:00:00.000Z",
+        "source": "Google",
+        "sourceKey": "google_blog",
+        "priority": 1,
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/pics-blog-header-2784x1566.max-600x600.format-webp.webp",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "google"
         ],
         "category": "ai"
       },
@@ -1157,18 +1546,34 @@
         "category": "ai"
       },
       {
-        "title": "Claude can now analyze your spending with its new Personal Finance tool",
-        "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-        "description": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
-        "published": "2026-11-05T18:00:00.000Z",
-        "source": "TechCrunch",
-        "sourceKey": "techcrunch",
-        "priority": 1,
-        "image": null,
+        "title": "Everyone Everywhere Hated Meta’s New AI Training Terms. Now, They’re On Pause",
+        "link": "https://www.404media.co/meta-generative-ai-commercial-terms-on-pause/",
+        "description": "Back to the drawing board!",
+        "published": "2026-11-05T21:01:55.000Z",
+        "source": "404 Media",
+        "sourceKey": "404media",
+        "priority": 2,
+        "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/Social_Media_Kids_Trial_26050035832286.jpg",
         "baseScore": 4,
         "relevanceScore": 4,
         "matchedKeywords": [
-          "claude"
+          "meta"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Google is ditching Firebase Studio soon, and it wants you to use its newer AI tools instead",
+        "link": "https://www.engadget.com/2308541/google-is-ditching-firebase-studio-soon-and-it-wants-you-to-use-its-newer-ai-tools-instead/",
+        "description": "The company is going all-in on Antigravity and Google AI Studio and hopes developers will do the same.",
+        "published": "2026-11-05T21:01:28.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/google-is-ditching-firebase-studio-soon-and-it-wants-you-to-use-its-newer-ai-tools-instead/l-intro-1793825592.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
         ],
         "category": "ai"
       },
@@ -1233,6 +1638,40 @@
         "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/12/Lenovo-Chromebook-Duet-11.webp?w=1500",
         "baseScore": 4,
         "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "The Nasdaq 100 drops 6%, losing a record $2.3T in value, and the Philadelphia chip index plunges 12%, on concerns over the AI trade after Democrats won Congress",
+        "link": "https://www.techmeme.com/261105/p55#a261105p55",
+        "description": "The Nasdaq 100 drops 6%, losing a record $2.3T in value, and the Philadelphia chip index plunges 12%, on concerns over the AI trade after Democrats won Congress — Technology stocks plunged the most since 2020 on Thursday as investors exited the sector on concerns over the artificial intelligence trade …",
+        "published": "2026-11-05T22:15:01.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261105/i55.jpg",
+        "via": "Bloomberg",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "chip",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Salon is shutting down after 31 years",
+        "link": "https://www.theverge.com/news/1028281/salon-dot-com-shuts-down",
+        "description": "Salon launched 31 years ago as one of the first online-only news magazine outlets, and it announced today in an unsigned post that it's ceasing publication. The company said that the \"business realities of independent digital journalism have changed profoundly over the years,\" and it decided that its publishing model is \"no longer sustainable.\" It didn't go into detail about why, but many websites are grappling with \"Google Zero\" and the impact of AI tools. When reached for comment, Salon genera",
+        "published": "2026-11-05T22:08:14.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-05-at-1.59.05-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 3,
+        "relevanceScore": 3,
         "matchedKeywords": [
           "google"
         ],
@@ -1320,6 +1759,22 @@
           "superintelligence"
         ],
         "category": "ai"
+      },
+      {
+        "title": "U.S. Justice Department assembles force to shield against foreign AI threats",
+        "link": "https://www.coindesk.com/policy/2026/11/05/u-s-justice-department-assembles-force-to-shield-against-foreign-ai-threats",
+        "description": "The new DOJ task force will aid the recently designated U.S. \"SI Force\" by warding off bad actors backed by other nations, criminal groups or corporate fraud.",
+        "published": "2026-11-05T18:59:45.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/564bac7203c6e38e89eb4093ecb221b0bbe4e205-3200x1800.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "doj"
+        ],
+        "category": "ai"
       }
     ],
     "robotics": [
@@ -1371,6 +1826,25 @@
         ]
       },
       {
+        "title": "Humanoid robot maker Agility Robotics debuts on the Nasdaq after SPAC merger",
+        "link": "https://siliconangle.com/2026/11/05/humanoid-robot-maker-agility-robotics-debuts-on-the-nasdaq-after-spac-merger/",
+        "description": "Agility Robotics Inc. debuted on the Nasdaq today after merging with a special-purpose acquisition company. SPAC deals provide a simpler path to public markets than a traditional listing. In such transactions, a shell company floats its shares and then merges with a privately held business. That business effectively takes the SPAC’s place on the stock […] The post Humanoid robot maker Agility Robotics debuts on the Nasdaq after SPAC merger appeared first on SiliconANGLE.",
+        "published": "2026-11-05T21:27:09.000Z",
+        "source": "SiliconANGLE",
+        "sourceKey": "siliconangle",
+        "priority": 2,
+        "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Agility-Robotics.png",
+        "baseScore": 11,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "merger",
+          "humanoid robot",
+          "humanoid",
+          "acquisition"
+        ],
+        "category": "robotics"
+      },
+      {
         "title": "Powered by GPT-6, Unitree humanoid robots master painting, chess without training, says CEO",
         "link": "https://www.scmp.com/tech/tech-trends/article/3373423/powered-gpt-6-unitree-humanoid-robots-master-painting-chess-without-training-says-ceo",
         "description": "Robots developed by Chinese humanoid maker Unitree Robotics can now paint pictures and play chess without any prior training, relying on frontier AI models to navigate complex physical tasks, according to founder and CEO Wang Xingxing. Speaking on Thursday at the China International Import Expo (CIIE) in Shanghai, Wang said Unitree’s machines, powered by OpenAI’s GPT-6, were capable of executing intricate robotic sequences, such as dynamically replacing brush water and blending pigments, guided.",
@@ -1387,6 +1861,23 @@
           "ceo",
           "openai",
           "ai model"
+        ],
+        "category": "robotics"
+      },
+      {
+        "title": "Serve Robotics launches new business to become the AWS for robots",
+        "link": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
+        "description": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.",
+        "published": "2026-11-05T21:15:00.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "aws",
+          "earnings"
         ],
         "category": "robotics"
       },
@@ -1551,6 +2042,26 @@
         "category": "chips_cloud"
       },
       {
+        "title": "Google says it will spend $17B to build its first Wyoming data center, pay for all the power it uses, and form a Community Council to address growth concerns",
+        "link": "https://www.techmeme.com/261105/p49#a261105p49",
+        "description": "Google says it will spend $17B to build its first Wyoming data center, pay for all the power it uses, and form a Community Council to address growth concerns — Alphabet Inc.'s Google will spend $17 billion to build a data center in Wyoming, formally putting a price tag on the proposal …",
+        "published": "2026-11-05T19:40:01.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261105/i49.jpg",
+        "via": "Bloomberg",
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "google",
+          "data center",
+          "alphabet",
+          "billion"
+        ],
+        "category": "chips_cloud"
+      },
+      {
         "title": "Chinese AI lab Moonshot reportedly looked at European data centers to access Nvidia chips, report claims",
         "link": "https://www.tomshardware.com/tech-industry/policy/chinese-ai-lab-moonshot-reportedly-looked-at-european-data-centers-to-access-nvidia-chips-report-claims-kimi-maker-primarily-interested-in-inferencing-capacity-but-also-asked-about-training-clusters",
         "description": "The lab is reportedly interested in renting at least 8,000 Nvidia Blackwell GPUs.",
@@ -1621,6 +2132,102 @@
           "amd",
           "micron",
           "chip"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Meta President Says Midterm Results Will Make Building Data Centers Harder",
+        "link": "https://www.wsj.com/tech/ai/meta-president-says-midterm-results-will-make-building-data-centers-harder-f1d27c93?mod=rss_Technology",
+        "description": "Speaking at the WSJ Tech conference, Dina Powell McCormick said the company is more optimistic about scaling up its existing data centers.",
+        "published": "2026-11-05T03:11:00.000Z",
+        "source": "WSJ",
+        "sourceKey": "wsj_tech",
+        "priority": 1,
+        "image": "https://images.wsj.net/im-47341322",
+        "baseScore": 6,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "meta",
+          "data center"
+        ],
+        "category": "chips_cloud",
+        "alsoIn": [
+          {
+            "source": "Techmeme",
+            "title": "Meta President Dina Powell McCormick says building new US data centers will be \"harder\" after midterm results, but it will be easier to expand existing projects",
+            "link": "https://www.techmeme.com/261105/p51#a261105p51"
+          }
+        ]
+      },
+      {
+        "title": "Sources: Nvidia approached Apollo about retrofitting some of the 130+ buildings of the PE firm's struggling ISP Brightspeed into a network of small data centers (The Information)",
+        "link": "https://www.techmeme.com/261105/p50#a261105p50",
+        "description": "The Information: Sources: Nvidia approached Apollo about retrofitting some of the 130+ buildings of the PE firm's struggling ISP Brightspeed into a network of small data centers — Nvidia is looking for a faster way to get its chips turned on: old telecom company buildings.",
+        "published": "2026-11-05T20:15:00.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261105/i50.jpg",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "nvidia",
+          "data center",
+          "chip"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
+        "link": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
+        "description": "AI agents do more than generate answers. They search for information, query databases, write and test code and take action. Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution throughout a task. As businesses put more agents to work, AI factories need CPUs that can execute those […]",
+        "published": "2026-11-05T20:00:41.000Z",
+        "source": "NVIDIA",
+        "sourceKey": "nvidia_news",
+        "priority": 1,
+        "image": "https://iprsoftwaremedia.com/219/files/202611/1a79b75a3212c9999a143e5612168a04/6aece0913d63320fd673a377_tech-blog-cpu-architecture-angled-vera-rack-5769445-1920x1080-1-842x450/tech-blog-cpu-architecture-angled-vera-rack-5769445-1920x1080-1-842x450_thmb.jpg?v=9e580a6c-6d9b-47c6-83a9-05fb567b1c89",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "nvidia",
+          "ai agent",
+          "gpu"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Nvidia’s Workaround For Data Center Backlash: Retrofitting Old Telephone Buildings",
+        "link": "https://www.theinformation.com/articles/nvidias-workaround-data-center-backlash-retrofitting-old-telephone-buildings",
+        "description": "Nvidia is looking for a faster way to get its chips turned on: old telecom company buildings. The chip designer has approached private equity firm Apollo Global Management about creating a network of small AI data centers potentially spanning 20 states across the U.S., using existing buildings of a struggling telecom firm, according to two people with direct knowledge of the effort.",
+        "published": "2026-11-05T19:47:06.000Z",
+        "source": "The Information",
+        "sourceKey": "theinformation",
+        "priority": 1,
+        "image": null,
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "nvidia",
+          "data center",
+          "chip"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Sources: about 600,000 of Nvidia's H200 chips are stored in Hong Kong awaiting shipment to mainland China, as Beijing withholds approval for large-scale imports (Reuters)",
+        "link": "https://www.techmeme.com/261105/p47#a261105p47",
+        "description": "Reuters: Sources: about 600,000 of Nvidia's H200 chips are stored in Hong Kong awaiting shipment to mainland China, as Beijing withholds approval for large-scale imports — About 600,000 of Nvidia's advanced artificial intelligence chips are stored in Hong Kong awaiting shipment to mainland China …",
+        "published": "2026-11-05T19:20:02.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261105/i47.jpg",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "nvidia",
+          "chip",
+          "artificial intelligence"
         ],
         "category": "chips_cloud"
       },
@@ -1734,6 +2341,59 @@
         "category": "chips_cloud"
       },
       {
+        "title": "Counterpoint: global DRAM revenue grows by 369% in Q3",
+        "link": "https://www.gsmarena.com/counterpoint_global_dram_revenue_grows_by_369_in_q3-news-75368.php",
+        "description": "Global DRAM revenue has increased by an insane 369% year-over-year thanks to strong demand for the stuff, which goes towards building new AI accelerators and data centers. The Average Selling Price (ASP) has reached $1.9 per gigabit (i.e. 1/8th of a gigabyte). The big winner here is South Korea – Samsung is the biggest player with 38% market share, while SK hynix had a 29% share. SK’s revenue grew over 40% quarter-on-quarter, but things are going better for Samsung right now. US-based Micron hol",
+        "published": "2026-11-05T19:11:03.000Z",
+        "source": "GSMArena",
+        "sourceKey": "gsmarena",
+        "priority": 3,
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/counterpoint-dram-market-report/-184x111/gsmarena_000.jpg",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "samsung",
+          "sk hynix",
+          "micron",
+          "data center"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+        "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+        "description": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+        "published": "2026-11-05T19:12:39.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "meta",
+          "data center"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Gamers go to ridiculous lengths to \"improve\" GTA VI with Nvidia's DLSS 5",
+        "link": "https://arstechnica.com/gaming/2026/11/gamers-go-to-ridiculous-lengths-to-improve-gta-vi-with-nvidias-dlss-5/",
+        "description": "Using a capture card and open source software to run PS5 video through a PC GPU.",
+        "published": "2026-11-05T17:40:27.000Z",
+        "source": "Ars Technica",
+        "sourceKey": "arstechnica",
+        "priority": 1,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/gta6dlss-1152x648.png",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "nvidia",
+          "gpu"
+        ],
+        "category": "chips_cloud"
+      },
+      {
         "title": "Oracle Data Center Developer Waives Key Air Permit Deadline",
         "link": "https://www.bloomberg.com/news/articles/2026-11-05/oracle-data-center-developer-waives-key-air-permit-deadline",
         "description": "The developer of power infrastructure for Oracle Corp.’s New Mexico data center agreed to delay a deadline for action on a key air permit, giving state environmental regulators more time to review it rather than deny the application.",
@@ -1769,19 +2429,36 @@
         "category": "chips_cloud"
       },
       {
-        "title": "Meta President Says Midterm Results Will Make Building Data Centers Harder",
-        "link": "https://www.wsj.com/tech/ai/meta-president-says-midterm-results-will-make-building-data-centers-harder-f1d27c93?mod=rss_Technology",
-        "description": "Speaking at the WSJ Tech conference, Dina Powell McCormick said the company is more optimistic about scaling up its existing data centers.",
-        "published": "2026-11-05T03:11:00.000Z",
-        "source": "WSJ",
-        "sourceKey": "wsj_tech",
-        "priority": 1,
-        "image": "https://images.wsj.net/im-47341322",
+        "title": "Google Cloud storage moves to the front of the AI stack as enterprises hit the GPU utilization ceiling",
+        "link": "https://siliconangle.com/2026/11/05/enterprise-ai-storage-bottleneck-google-cloud-thecuberesearch-appdevangle/",
+        "description": "For the past two years, enterprise AI investment has been dominated by one conversation: compute. Organizations raced to secure GPU allocations, negotiated infrastructure deals and stood up machine learning platforms at speed. What many discovered only after the fact is that the bottleneck they thought they were solving was not the only one in the […] The post Google Cloud storage moves to the front of the AI stack as enterprises hit the GPU utilization ceiling appeared first on SiliconANGLE.",
+        "published": "2026-11-05T21:40:20.000Z",
+        "source": "SiliconANGLE",
+        "sourceKey": "siliconangle",
+        "priority": 2,
+        "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Google-Cloud-interview-2026.png",
         "baseScore": 6,
         "relevanceScore": 6,
         "matchedKeywords": [
-          "meta",
-          "data center"
+          "google",
+          "gpu",
+          "machine learning"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Nvidia Plunges 9% as AI Selloff Wipes Out $2.3 Trillion | Closing Bell",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-05/nvidia-plunges-as-ai-sells-off-closing-bell-video",
+        "description": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Kailey Leinz, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
+        "published": "2026-11-05T21:32:54.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "nvidia"
         ],
         "category": "chips_cloud"
       },
@@ -1865,6 +2542,23 @@
         "matchedKeywords": [
           "google",
           "nvidia"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Qualcomm’s latest Snapdragon chips are compatible with Android’s Linux Terminal app",
+        "link": "https://www.androidauthority.com/snapdragon-android-linux-terminal-3732212/",
+        "description": "Sadly, it's still not looking good for older Snapdragon-based hardware.",
+        "published": "2026-11-05T20:16:26.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2025/03/Android_Linux_Terminal_with_tabs.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "qualcomm",
+          "chip"
         ],
         "category": "chips_cloud"
       },
@@ -1975,6 +2669,39 @@
         "category": "chips_cloud"
       },
       {
+        "title": "How Elon Musk and Big Tech Poured Millions Into the Midterms, and Lost",
+        "link": "https://www.wired.com/story/uncanny-valley-podcast-how-elon-musk-and-big-tech-poured-millions-into-the-midterms-and-lost/",
+        "description": "This week on “Uncanny Valley,” we discuss the historic blue wave that swept the midterms and delivered a rebuke to the Trump administration, Big Tech, and data centers.",
+        "published": "2026-11-05T22:18:42.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": "https://media.wired.com/photos/6ae91976d809b451458cb25a/master/pass/Uncanny-Valley-Midterms-Politics-138711413.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "elon musk",
+          "data center"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Madden NFL 27 and NBA The Run are now free on Amazon Luna",
+        "link": "https://9to5google.com/2026/11/05/madden-nfl-27-and-nba-the-run-are-now-free-on-amazon-luna/",
+        "description": "Amazon Luna is getting another big freebie, as Madden NFL 27 is available today on the cloud gaming platform at no extra cost. more…",
+        "published": "2026-11-05T18:00:00.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/amazon-luna-madden-1.png?w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "amazon"
+        ],
+        "category": "chips_cloud"
+      },
+      {
         "title": "Nvidia, Municipal Leaders Frame AI as Critical Urban Infrastructure",
         "link": "https://www.eetimes.com/nvidia-municipal-leaders-frame-ai-as-critical-urban-infrastructure/",
         "description": "City officials are moving beyond isolated pilot projects toward local computing infrastructure and AI. The post Nvidia, Municipal Leaders Frame AI as Critical Urban Infrastructure appeared first on EE Times.",
@@ -2038,6 +2765,23 @@
         "relevanceScore": 4,
         "matchedKeywords": [
           "qualcomm"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Cyera’s $800 Million Haul Shows Cyber Fever Hasn’t Broken",
+        "link": "https://www.theinformation.com/articles/cyeras-800-million-haul-shows-cyber-fever-broken",
+        "description": "Last week my colleagues Jemima and Valida scooped that Cyera, a five-year-old cloud security startup, was mulling a new fundraise at an eye-popping $20 billion valuation, up from $12 billion in June. Since then, those talks have gotten more serious, I’ve learned. Cyera is indeed planning to raise around $800 million in a round led by Cyberstarts, which wrote the startup’s first seed check in 2021, according to two people with knowledge of the deal.",
+        "published": "2026-11-05T23:18:42.000Z",
+        "source": "The Information",
+        "sourceKey": "theinformation",
+        "priority": 1,
+        "image": null,
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "valuation",
+          "billion"
         ],
         "category": "chips_cloud"
       },
@@ -2131,6 +2875,39 @@
         "category": "regulation"
       },
       {
+        "title": "Nvidia's Huang is asked to brief Congress on reported Chinese spy relationship",
+        "link": "https://www.cnbc.com/2026/11/05/nvidia-jensen-huang-china-spy-congress.html",
+        "description": "President Donald Trump was briefed about a year ago about those intelligence findings, The New York Times reported.",
+        "published": "2026-11-05T22:21:29.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_top",
+        "priority": 1,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "nvidia"
+        ],
+        "category": "regulation"
+      },
+      {
+        "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
+        "link": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
+        "description": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
+        "published": "2026-11-05T21:39:40.000Z",
+        "source": "Ars Technica",
+        "sourceKey": "arstechnica",
+        "priority": 1,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2240656304-1024x648.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "chatgpt",
+          "lawsuit"
+        ],
+        "category": "regulation"
+      },
+      {
         "title": "Rave's anti-Sherlocking suit delayed as Apple gets it moved to California",
         "link": "https://appleinsider.com/articles/26/11/05/raves-anti-sherlocking-suit-delayed-as-apple-gets-it-moved-to-california?utm_source=rss",
         "description": "At Apple's request, a judge has agreed to move Rave, Inc's lawsuit over copying features to the Northern District of California. It's a blow for Rave as it potentially gives Apple a home-field advantage. Image Credit: Rave Rave is arguing that Apple sherlocked its streaming app and then blocked it from the App Store. This isn't what happened and it is sidestepping serious allegations against Rave, but that is the case that was brought in New Jersey in May 2026. Now according to Bloomberg, Judge",
@@ -2144,6 +2921,25 @@
         "matchedKeywords": [
           "apple",
           "lawsuit"
+        ],
+        "category": "regulation"
+      },
+      {
+        "title": "California State Senator Scott Wiener, an author of AI safety law SB 53, won Tuesday's election to succeed Pelosi in the US House, campaigning on AI regulation",
+        "link": "https://www.techmeme.com/261105/p53#a261105p53",
+        "description": "California State Senator Scott Wiener, an author of AI safety law SB 53, won Tuesday's election to succeed Pelosi in the US House, campaigning on AI regulation — Scott Wiener, the California politician who led the successful effort to pass AI safety legislation in the state's legislature last year, is headed to Washington.",
+        "published": "2026-11-05T21:35:01.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261105/i53.jpg",
+        "via": "The Information",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "ai safety",
+          "ai regulation",
+          "regulation"
         ],
         "category": "regulation"
       },
@@ -2194,7 +2990,14 @@
           "ai regulation",
           "regulation"
         ],
-        "category": "regulation"
+        "category": "regulation",
+        "alsoIn": [
+          {
+            "source": "Nikkei Asia",
+            "title": "US midterms live: Nasdaq plunges 5.5% on AI regulation fears",
+            "link": "https://asia.nikkei.com/politics/u.s.-midterm-elections/us-midterms-live-nasdaq-plunges-5.5-on-ai-regulation-fears"
+          }
+        ]
       },
       {
         "title": "Chipmakers Selloff Leads Nasdaq 100 Down 5%",
@@ -2210,6 +3013,22 @@
         "matchedKeywords": [
           "chipmaker",
           "regulation"
+        ],
+        "category": "regulation"
+      },
+      {
+        "title": "DOJ Creates 'Super Intelligence' Task Force to Guard Against AI Abuse",
+        "link": "https://decrypt.co/382672/doj-creates-super-intelligence-task-force-to-guard-against-ai-abuse",
+        "description": "Led by two senior DOJ officials, the Super Intelligence Task Force will target misuse by foreign governments, criminal groups and fraudsters—while pushing AI developers to tighten internal controls so their systems “behave as intended.”",
+        "published": "2026-11-05T20:46:02.000Z",
+        "source": "Decrypt",
+        "sourceKey": "decrypt",
+        "priority": 3,
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/DOJ-gID_7.jpg@png",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "doj"
         ],
         "category": "regulation"
       }
@@ -2239,6 +3058,42 @@
             "link": "https://www.engadget.com/2307194/amazon-teams-with-uber-eats-for-new-prime-perks/"
           }
         ]
+      },
+      {
+        "title": "Jugendschutz in Netz: Google, Meta und TikTok klagen gegen kalifornisches Gesetz",
+        "link": "https://www.heise.de/news/Jugendschutz-in-Netz-Google-Meta-und-TikTok-klagen-gegen-kalifornisches-Gesetz-11514162.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "Um Jugendliche zu schützen, untersagt ein Gesetz in Kalifornien personalisierte Empfehlungen und Autoplay von Videos. Google, Meta und TikTok klagen dagegen.",
+        "published": "2026-11-05T20:15:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/6/0/4/4/shutterstock_1027938142-d9e92a841c4592b4.jpeg",
+        "baseScore": 12,
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "google",
+          "meta",
+          "tiktok"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Google, Meta and TikTok are all suing California to block social media law intended to help kids",
+        "link": "https://www.engadget.com/2308280/google-meta-and-tiktok-are-all-suing-california-to-block-social-media-law-intended-to-help-kids/",
+        "description": "Assembly Bill 1709 demands that platforms remove \"psychologically exploitative features.\"",
+        "published": "2026-11-05T18:58:07.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/google-meta-and-tiktok-are-all-suing-california-to-block-social-media-law-intended-to-help-kids/l-intro-1793904752.jpg",
+        "baseScore": 12,
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "google",
+          "meta",
+          "tiktok"
+        ],
+        "category": "other"
       },
       {
         "title": "Instagram brings Edits to desktop to take on CapCut",
@@ -2271,6 +3126,30 @@
         ]
       },
       {
+        "title": "Amazon ditches Grubhub, taps Uber Eats for Prime",
+        "link": "https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/",
+        "description": "Amazon has made Uber Eats its official restaurant delivery partner for Prime members in the United States.",
+        "published": "2026-11-05T11:00:00.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "baseScore": 9,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "amazon",
+          "uber"
+        ],
+        "category": "other",
+        "alsoIn": [
+          {
+            "source": "The Information",
+            "title": "Amazon Strikes Uber Eats Partnership",
+            "link": "https://www.theinformation.com/briefings/amazon-strikes-uber-eats-partnership"
+          }
+        ]
+      },
+      {
         "title": "WhatsApp Events Brings People Together Beyond the Group Chat",
         "link": "https://about.fb.com/news/2026/11/whatsapp-events-brings-people-together-beyond-the-group-chat/",
         "description": "We’re introducing updates to Events on WhatsApp that make it easier to get together, like an Events Home to streamline your planning and the ability to send invitations to people who aren’t on WhatsApp. The post WhatsApp Events Brings People Together Beyond the Group Chat appeared first on Meta Newsroom.",
@@ -2284,23 +3163,6 @@
         "matchedKeywords": [
           "meta",
           "whatsapp"
-        ],
-        "category": "other"
-      },
-      {
-        "title": "Amazon ditches Grubhub, taps Uber Eats for Prime",
-        "link": "https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/",
-        "description": "Amazon has made Uber Eats its official restaurant delivery partner for Prime members in the United States.",
-        "published": "2026-11-05T11:00:00.000Z",
-        "source": "TechCrunch",
-        "sourceKey": "techcrunch",
-        "priority": 1,
-        "image": null,
-        "baseScore": 9,
-        "relevanceScore": 9,
-        "matchedKeywords": [
-          "amazon",
-          "uber"
         ],
         "category": "other"
       },
@@ -2320,6 +3182,34 @@
           "apple"
         ],
         "category": "other"
+      },
+      {
+        "title": "'Crossy Road Rush' launches exclusively on Apple Arcade",
+        "link": "https://appleinsider.com/articles/26/11/05/crossy-road-rush-launches-exclusively-on-apple-arcade?utm_source=rss",
+        "description": "The new \"Crossy Road Rush\" includes over 50 hand-curated levels featuring free-form movement, environmental hazards, and boss encounters according to Atari. It also features four-player local co-op play, online multiplayer, and more. And since it's on Apple Arcade, there are no ads or in-app purchases. Continue Reading on AppleInsider | Discuss on our Forums",
+        "published": "2026-11-05T15:39:32.000Z",
+        "source": "AppleInsider",
+        "sourceKey": "appleinsider",
+        "priority": 2,
+        "image": "https://media.appleinsider.com/gallery/69714-146963-crossy_road_rush_launches_exclusively_on_apple_arcade-xl.jpg",
+        "baseScore": 4,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "other",
+        "alsoIn": [
+          {
+            "source": "9to5Mac",
+            "title": "Apple Arcade adds four games, including Crossy Road Rush and NBA 2K27 with WNBA teams",
+            "link": "https://9to5mac.com/2026/11/05/apple-arcade-adds-four-games-including-crossy-road-rush-and-nba-2k27-with-wnba-teams/"
+          },
+          {
+            "source": "MacRumors",
+            "title": "Apple Arcade Adds Crossy Road Rush and NBA 2K27",
+            "link": "https://www.macrumors.com/2026/11/05/apple-arcade-crossy-road-rush/"
+          }
+        ]
       },
       {
         "title": "TikTok quietly launches a stand-alone TikTok Shop app",
@@ -2345,6 +3235,30 @@
         ]
       },
       {
+        "title": "Report: Apple’s planned $7 billion bond sale attracts four times as much demand",
+        "link": "https://9to5mac.com/2026/11/05/report-apples-planned-7-billion-bond-sale-attracts-four-times-as-much-demand/",
+        "description": "Apple has filed a preliminary prospectus with the SEC outlining plans to issue seven series of bonds. Here are the details. more…",
+        "published": "2026-11-05T19:43:10.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/04/Apple-under-4th-DMA-non-compliance-investigation.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 5,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "apple",
+          "billion"
+        ],
+        "category": "other",
+        "alsoIn": [
+          {
+            "source": "AppleInsider",
+            "title": "Apple is gearing up for a fresh $7 billion in bond sale",
+            "link": "https://appleinsider.com/articles/26/11/05/apple-is-gearing-up-for-a-fresh-7-billion-in-bond-sale?utm_source=rss"
+          }
+        ]
+      },
+      {
         "title": "Sources: Apple plans to raise ~$7B from its first investment-grade bond offering in more than a year to fund share buybacks, dividends, and capital expenditures (Bloomberg)",
         "link": "https://www.techmeme.com/261105/p29#a261105p29",
         "description": "Bloomberg: Sources: Apple plans to raise ~$7B from its first investment-grade bond offering in more than a year to fund share buybacks, dividends, and capital expenditures — Apple Inc. is planning to raise about $7 billion from its first investment-grade bond offering in more than a year to help fund share buybacks …",
@@ -2358,6 +3272,38 @@
         "matchedKeywords": [
           "apple",
           "billion"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Give Your Muse a Voice",
+        "link": "https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars/",
+        "description": "We’re rolling out voice and expressive avatars in the Muse app, giving you a new, natural way to interact with your Muse. The post Give Your Muse a Voice appeared first on Meta Newsroom.",
+        "published": "2026-11-05T18:30:58.000Z",
+        "source": "Meta Newsroom",
+        "sourceKey": "meta_news",
+        "priority": 1,
+        "image": "https://about.fb.com/wp-content/uploads/2026/11/Were-rolling-out-voice-and-expressive-avatars-in-the-Muse-app_Thumbnail.gif?fit=890%2C501",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "meta"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Sources: NYT has entered exclusive negotiations to acquire Letterboxd for roughly $330M; A24 dropped out of negotiations after price expectations rose (New York Times)",
+        "link": "https://www.techmeme.com/261105/p58#a261105p58",
+        "description": "New York Times: Sources: NYT has entered exclusive negotiations to acquire Letterboxd for roughly $330M; A24 dropped out of negotiations after price expectations rose — The roughly $330 million deal for the cinephile community site would be part of an effort to add new products and services to the company's portfolio.",
+        "published": "2026-11-05T23:30:01.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261105/i58.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "acquire"
         ],
         "category": "other"
       },
@@ -2378,18 +3324,66 @@
         "category": "other"
       },
       {
-        "title": "'Crossy Road Rush' launches exclusively on Apple Arcade",
-        "link": "https://appleinsider.com/articles/26/11/05/crossy-road-rush-launches-exclusively-on-apple-arcade?utm_source=rss",
-        "description": "The new \"Crossy Road Rush\" includes over 50 hand-curated levels featuring free-form movement, environmental hazards, and boss encounters according to Atari. It also features four-player local co-op play, online multiplayer, and more. And since it's on Apple Arcade, there are no ads or in-app purchases. Continue Reading on AppleInsider | Discuss on our Forums",
-        "published": "2026-11-05T15:39:32.000Z",
-        "source": "AppleInsider",
-        "sourceKey": "appleinsider",
+        "title": "Brasilien: Gericht verbietet Meta die Nutzung von Medieninhalten für KI-Training",
+        "link": "https://www.heise.de/news/Brasilien-Gericht-verbietet-Meta-die-Nutzung-von-Medieninhalten-fuer-KI-Training-11514246.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "Metas neue Nutzungsbedingungen sahen die kostenlose Überlassung von Inhalten vor. Ein Gericht in Brasilien erklärt dies für unzulässig und droht mit Zwangsgeld.",
+        "published": "2026-11-05T22:22:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
         "priority": 2,
-        "image": "https://media.appleinsider.com/gallery/69714-146963-crossy_road_rush_launches_exclusively_on_apple_arcade-xl.jpg",
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/6/0/8/6/shutterstock_2752856107-c2c8e2d484c2caaa.jpeg",
         "baseScore": 4,
         "relevanceScore": 4,
         "matchedKeywords": [
-          "apple"
+          "meta"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Samsung One UI 9.5 brings notable changes to Health and Calendar",
+        "link": "https://www.androidauthority.com/samsung-one-ui-9-5-calendar-health-app-changes-3732266/",
+        "description": "Calendar could lose its grid, Health could gain a journal.",
+        "published": "2026-11-05T22:09:37.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/Samsung-Galaxy-S26-Ultra-showing-One-UI-home-screen.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "samsung"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Meta-backed 250 MW solar farm breaks ground in Arkansas",
+        "link": "https://electrek.co/2026/11/05/meta-backed-250-mw-solar-farm-breaks-ground-in-arkansas/",
+        "description": "Arkansas is getting another 250 megawatts (MW) of solar power, and Meta has signed up to buy it. more…",
+        "published": "2026-11-05T20:10:00.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/01/EDP-Riverstart-IV.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "meta"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "TikTok just released a standalone Shop app, but it's not in America just yet",
+        "link": "https://www.engadget.com/2308419/tiktok-just-released-a-standalone-shop-app-but-its-not-in-america-just-yet/",
+        "description": "It offers exclusive deals and other goodies.",
+        "published": "2026-11-05T19:58:23.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/tiktok-just-released-a-standalone-shop-app-but-its-not-in-america-just-yet/l-intro-1793908543.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "tiktok"
         ],
         "category": "other"
       },
@@ -2618,7 +3612,211 @@
         "category": "other"
       }
     ],
+    "ev_autonomous": [
+      {
+        "title": "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms",
+        "link": "https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html",
+        "description": "Elon Musk's Tesla and SpaceX lose $420 billion in combined market cap after midterms",
+        "published": "2026-11-05T22:31:13.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 13,
+        "relevanceScore": 13,
+        "matchedKeywords": [
+          "tesla",
+          "spacex",
+          "elon musk",
+          "billion"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "After US$474m gamble flops, what happens now to Elon Musk’s Tesla, SpaceX and China ties?",
+        "link": "https://www.scmp.com/tech/big-tech/article/3373422/after-us474m-gamble-flops-what-happens-now-elon-musks-tesla-spacex-and-china-ties",
+        "description": "Elon Musk bet nearly half a billion dollars that political spending could keep Washington friendly to his sprawling business empire. On Tuesday, that bet came up short. As Democrats recaptured control of the US Congress in the midterm elections, the world’s richest man found himself facing an abruptly altered political landscape. After pouring a record-breaking US$474 million into political groups – overwhelmingly backing Republicans – Musk now faces a divided Washington keen to examine his...",
+        "published": "2026-11-05T15:00:08.000Z",
+        "source": "SCMP",
+        "sourceKey": "scmp_tech",
+        "priority": 2,
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/05/52aea17e-06f3-4b43-b794-bc9f619f0b66_c1c15bef.jpg?itok=5tyW2u2K&v=1793875839",
+        "baseScore": 12,
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "tesla",
+          "spacex",
+          "elon musk",
+          "billion"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Uber says it alone can make robotaxis pay, hours after Waymo quit its app",
+        "link": "https://www.theregister.com/personal-tech/2026/11/05/uber-says-it-alone-can-make-robotaxis-pay-hours-after-waymo-quit-its-app/5307718",
+        "description": "Oh, the irony, as platform players fight",
+        "published": "2026-11-05T01:45:07.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=253463&width=800",
+        "baseScore": 12,
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "uber",
+          "waymo",
+          "robotaxi"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Tesla Is Now Powering One Of Its Biggest Charging Rivals",
+        "link": "https://insideevs.com/news/814582/tesla-supercharging-ev-go-chicago/",
+        "description": "EVgo just opened its first station featuring Tesla Superchargers, with hundreds more stalls on the way.",
+        "published": "2026-11-05T19:13:57.000Z",
+        "source": "InsideEVs",
+        "sourceKey": "insideevs",
+        "priority": 2,
+        "image": "https://cdn.motor1.com/images/mgl/6ZOxXE/s3/evgo-tesla.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "tesla"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Tesla's Kickflipping Roadster Looks Like A Great Way To Lose Your Lunch",
+        "link": "https://insideevs.com/news/814440/tesla-roadster-flip-pov-video/",
+        "description": "Watch a POV video of the Roadster doing what it does best.",
+        "published": "2026-11-05T18:37:21.000Z",
+        "source": "InsideEVs",
+        "sourceKey": "insideevs",
+        "priority": 2,
+        "image": "https://cdn.motor1.com/images/mgl/9mWkkp/s3/tesla-roadster-barrel-roll.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "tesla"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Tesla wants its sworn Cybercab answers to NHTSA kept entirely secret",
+        "link": "https://electrek.co/2026/11/05/tesla-cybercab-nhtsa-sworn-answers-confidential/",
+        "description": "Tesla has answered NHTSA’s Special Order demanding it prove, under oath, that the Cybercab meets federal safety standards. The response landed on the October 30 deadline, and Tesla asked the agency to keep all of it confidential. The only part of the filing the public can read is a 30-page guide for firefighters. Everything about how a car with no steering wheel, pedals, or mirrors was certified as compliant is blacked out. more…",
+        "published": "2026-11-05T18:32:57.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-Cybercab-hero.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "tesla"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "BYD’s newest EV is about as big as a Toyota Camry, but brings a lot more tech for $23K",
+        "link": "https://electrek.co/2026/11/05/byds-newest-ev-big-as-toyota-camry-a-lot-more-tech-for-23k/",
+        "description": "BYD launched the new Seal 07 in China, where it starts at around $23,000. It’s about the size of a Toyota Camry, but brings a surprising amount of tech and premium features for the money. more…",
+        "published": "2026-11-05T17:52:20.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-new-Seal-07-EV.jpeg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "byd"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "This Startup Wants To Turn Teslas Into Anything, From 11-Seat Minibuses To Pickups",
+        "link": "https://insideevs.com/news/814513/tesla-custom-ev-bus-pickup-hoffman-badger/",
+        "description": "The Hoffman Badger made its debut at this year’s SEMA show, driving all the way from Wisconsin to Las Vegas.",
+        "published": "2026-11-05T11:10:07.000Z",
+        "source": "InsideEVs",
+        "sourceKey": "insideevs",
+        "priority": 2,
+        "image": "https://cdn.motor1.com/images/mgl/XBbNJ2/s3/hoffman-badger-at-a-tesla-supercharger.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "tesla"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "EVgo taps Tesla Superchargers for mass charging expansion",
+        "link": "https://www.teslarati.com/evgo-taps-tesla-superchargers-mass-charging-expansion/",
+        "description": "EVgo has tapped Tesla Superchargers for its most recent efforts to expand its charging presence in the United States, a move that seems logical based on the effectiveness of the automaker’s own infrastructure. EVgo opened its first Supercharger site in Illinois, a 12-stall station near downtown Chicago at 3145 South Ashland Avenue in the Riverside […] The post EVgo taps Tesla Superchargers for mass charging expansion appeared first on TESLARATI.",
+        "published": "2026-11-05T17:15:30.000Z",
+        "source": "Teslarati",
+        "sourceKey": "teslarati",
+        "priority": 3,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "tesla"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Tesla Giga Texas reportedly moves to 24/7 production",
+        "link": "https://www.teslarati.com/tesla-giga-texas-reportedly-moves-24-7-production/",
+        "description": "Tesla’s Austin Gigafactory is reportedly shifting to round-the-clock vehicle production through the end of 2026, according to longtime drone observer Joe Tegtmeyer. In his November 2 update, Tegtmeyer, widely regarded as one of the most reliable independent sources on Giga Texas activity (we call him the Drone GOAT), stated that the plant has added a […] The post Tesla Giga Texas reportedly moves to 24/7 production appeared first on TESLARATI.",
+        "published": "2026-11-05T15:39:26.000Z",
+        "source": "Teslarati",
+        "sourceKey": "teslarati",
+        "priority": 3,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "tesla"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Tesla opens new “Cybaer” Engineering Center in Berlin",
+        "link": "https://www.teslarati.com/tesla-berlin-btec-engineering-center/",
+        "description": "Tesla opened its Berlin Engineering Center, uniting four sites and 30 labs near Giga Berlin. The post Tesla opens new “Cybaer” Engineering Center in Berlin appeared first on TESLARATI.",
+        "published": "2026-11-05T10:06:27.000Z",
+        "source": "Teslarati",
+        "sourceKey": "teslarati",
+        "priority": 3,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "tesla"
+        ],
+        "category": "ev_autonomous"
+      }
+    ],
     "business": [
+      {
+        "title": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5 Trillion Valuation",
+        "link": "https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b?mod=rss_Technology",
+        "description": "The artificial-intelligence giant could need to set a significantly lower-than-expected valuation, investors say.",
+        "published": "2026-11-05T23:17:00.000Z",
+        "source": "WSJ",
+        "sourceKey": "wsj_tech",
+        "priority": 1,
+        "image": "https://images.wsj.net/im-06360346",
+        "baseScore": 12,
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "anthropic",
+          "ipo",
+          "valuation"
+        ],
+        "category": "business"
+      },
       {
         "title": "Nvidia-Backed Cohere Says IPO Timing Uncertain Despite Surging Revenue",
         "link": "https://www.wsj.com/pro/venture-capital/nvidia-backed-cohere-says-ipo-timing-uncertain-despite-surging-revenue-3310476f?mod=rss_Technology",
@@ -2653,6 +3851,23 @@
           "openai",
           "elon musk",
           "ceo"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "What Anthropic’s IPO Means for the ETF Market",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-05/what-anthropic-s-ipo-means-for-the-etf-market",
+        "description": "In this episode of Trillions, we also look at the industry’s latest trends and the Vanguard-BlackRock rivalry.",
+        "published": "2026-11-05T21:30:18.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_markets",
+        "priority": 1,
+        "image": null,
+        "baseScore": 11,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "anthropic",
+          "ipo"
         ],
         "category": "business"
       },
@@ -2765,6 +3980,25 @@
         "category": "business"
       },
       {
+        "title": "GOP leaders of three House committees ask Jensen Huang for a closed-door briefing on his ties with Megaspeed executive Alice Huang, reportedly a Chinese asset",
+        "link": "https://www.techmeme.com/261105/p54#a261105p54",
+        "description": "GOP leaders of three House committees ask Jensen Huang for a closed-door briefing on his ties with Megaspeed executive Alice Huang, reportedly a Chinese asset — Three House Republican committee leaders asked Nvidia CEO Jensen Huang to sit for a closed-door briefing on his relationship …",
+        "published": "2026-11-05T21:40:00.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261105/i54.jpg",
+        "via": "CNBC",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "jensen huang",
+          "nvidia",
+          "ceo"
+        ],
+        "category": "business"
+      },
+      {
         "title": "Marc Lore's Wonder files confidentially for a US IPO; the company, which acquired Grubhub for $650M in 2025, raised $650M at a $9B pre-money valuation in July (Reuters)",
         "link": "https://www.techmeme.com/261105/p41#a261105p41",
         "description": "Reuters: Marc Lore's Wonder files confidentially for a US IPO; the company, which acquired Grubhub for $650M in 2025, raised $650M at a $9B pre-money valuation in July — Wonder Group, a food-delivery startup led by former Walmart executive Marc Lore, said on Thursday it had confidentially filed for a US IPO …",
@@ -2813,6 +4047,40 @@
             "link": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/"
           }
         ]
+      },
+      {
+        "title": "Apple Raises $7.5 Billion From Investment-Grade Debt Offering",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-05/apple-kicks-off-high-grade-debt-sale-joining-issuance-spree",
+        "description": "Apple Inc. raised $7.5 billion from its high-grade bond offering, attracting solid demand from investors seeking a break from a glut of AI-related debt deals despite a broader selloff across markets.",
+        "published": "2026-11-05T13:22:07.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "apple",
+          "billion"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "IonQ Sees Revenue Quadrupling on Quantum Computing Demand",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-05/ionq-sees-revenue-quadrupling-on-quantum-computing-demand",
+        "description": "IonQ Inc. now expects revenue to almost quadruple this year as both governments and private companies pour billions in quantum computing capabilities.",
+        "published": "2026-11-05T21:08:25.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "quantum computing",
+          "billion"
+        ],
+        "category": "business"
       },
       {
         "title": "Defense tech startup Shield AI raises $2.5B to help acquire radar company Echodyne, including a $1B Series H at a $28.8B valuation, up from $12.7B in March",
@@ -2884,6 +4152,22 @@
         "category": "business"
       },
       {
+        "title": "Report: Apple captured half of global smartphone revenue in Q3",
+        "link": "https://9to5mac.com/2026/11/05/report-apple-captured-half-of-global-smartphone-revenue-in-q3/",
+        "description": "According to a new report from Counterpoint Research, Apple just recorded its highest-ever global smartphone revenue for a third calendar quarter. Here are the details. more…",
+        "published": "2026-11-05T22:22:49.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-glacier-apple-watch-airpods-5.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "business"
+      },
+      {
         "title": "Marvell to buy Lumentum in $115 billion all-stock deal",
         "link": "https://www.tomshardware.com/tech-industry/semiconductors/marvell-to-buy-lumentum-in-usd115-billion-all-stock-deal-combined-company-to-supply-scale-up-and-scale-in-optics-for-ai-data-centers",
         "description": "Marvell has agreed to acquire Lumentum for $115 billion, combining its optical DSPs, SerDes, silicon photonics, and networking silicon with Lumentum’s lasers, transceivers, optical switches, and InP manufacturing footprint.",
@@ -2899,125 +4183,23 @@
           "acquire"
         ],
         "category": "business"
-      }
-    ],
-    "ev_autonomous": [
-      {
-        "title": "After US$474m gamble flops, what happens now to Elon Musk’s Tesla, SpaceX and China ties?",
-        "link": "https://www.scmp.com/tech/big-tech/article/3373422/after-us474m-gamble-flops-what-happens-now-elon-musks-tesla-spacex-and-china-ties",
-        "description": "Elon Musk bet nearly half a billion dollars that political spending could keep Washington friendly to his sprawling business empire. On Tuesday, that bet came up short. As Democrats recaptured control of the US Congress in the midterm elections, the world’s richest man found himself facing an abruptly altered political landscape. After pouring a record-breaking US$474 million into political groups – overwhelmingly backing Republicans – Musk now faces a divided Washington keen to examine his...",
-        "published": "2026-11-05T15:00:08.000Z",
-        "source": "SCMP",
-        "sourceKey": "scmp_tech",
-        "priority": 2,
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/05/52aea17e-06f3-4b43-b794-bc9f619f0b66_c1c15bef.jpg?itok=5tyW2u2K&v=1793875839",
-        "baseScore": 12,
-        "relevanceScore": 12,
-        "matchedKeywords": [
-          "tesla",
-          "spacex",
-          "elon musk",
-          "billion"
-        ],
-        "category": "ev_autonomous"
       },
       {
-        "title": "Uber says it alone can make robotaxis pay, hours after Waymo quit its app",
-        "link": "https://www.theregister.com/personal-tech/2026/11/05/uber-says-it-alone-can-make-robotaxis-pay-hours-after-waymo-quit-its-app/5307718",
-        "description": "Oh, the irony, as platform players fight",
-        "published": "2026-11-05T01:45:07.000Z",
-        "source": "The Register",
-        "sourceKey": "theregister",
-        "priority": 2,
-        "image": "https://image.theregister.com/?imageId=253463&width=800",
-        "baseScore": 12,
-        "relevanceScore": 12,
-        "matchedKeywords": [
-          "uber",
-          "waymo",
-          "robotaxi"
-        ],
-        "category": "ev_autonomous"
-      },
-      {
-        "title": "BYD’s newest EV is about as big as a Toyota Camry, but brings a lot more tech for $23K",
-        "link": "https://electrek.co/2026/11/05/byds-newest-ev-big-as-toyota-camry-a-lot-more-tech-for-23k/",
-        "description": "BYD launched the new Seal 07 in China, where it starts at around $23,000. It’s about the size of a Toyota Camry, but brings a surprising amount of tech and premium features for the money. more…",
-        "published": "2026-11-05T17:52:20.000Z",
-        "source": "Electrek",
-        "sourceKey": "electrek",
-        "priority": 2,
-        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-new-Seal-07-EV.jpeg?quality=82&#038;strip=all&#038;w=1600",
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "byd"
-        ],
-        "category": "ev_autonomous"
-      },
-      {
-        "title": "This Startup Wants To Turn Teslas Into Anything, From 11-Seat Minibuses To Pickups",
-        "link": "https://insideevs.com/news/814513/tesla-custom-ev-bus-pickup-hoffman-badger/",
-        "description": "The Hoffman Badger made its debut at this year’s SEMA show, driving all the way from Wisconsin to Las Vegas.",
-        "published": "2026-11-05T11:10:07.000Z",
-        "source": "InsideEVs",
-        "sourceKey": "insideevs",
-        "priority": 2,
-        "image": "https://cdn.motor1.com/images/mgl/XBbNJ2/s3/hoffman-badger-at-a-tesla-supercharger.jpg",
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "tesla"
-        ],
-        "category": "ev_autonomous"
-      },
-      {
-        "title": "EVgo taps Tesla Superchargers for mass charging expansion",
-        "link": "https://www.teslarati.com/evgo-taps-tesla-superchargers-mass-charging-expansion/",
-        "description": "EVgo has tapped Tesla Superchargers for its most recent efforts to expand its charging presence in the United States, a move that seems logical based on the effectiveness of the automaker’s own infrastructure. EVgo opened its first Supercharger site in Illinois, a 12-stall station near downtown Chicago at 3145 South Ashland Avenue in the Riverside […] The post EVgo taps Tesla Superchargers for mass charging expansion appeared first on TESLARATI.",
-        "published": "2026-11-05T17:15:30.000Z",
-        "source": "Teslarati",
-        "sourceKey": "teslarati",
-        "priority": 3,
+        "title": "MetLife Seeing Volume Growth Across the Board, CEO Says",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-05/metlife-seeing-volume-growth-across-the-board-ceo-says-video",
+        "description": "MetLife President and CEO Michel Khalaf discusses the company's third-quarter earnings and outlook. Speaking on \"Bloomberg The Close,\" Khalaf says MetLife has limited exposure to AI investments. (Source: Bloomberg)",
+        "published": "2026-11-05T22:19:25.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
         "image": null,
-        "baseScore": 4,
-        "relevanceScore": 4,
+        "baseScore": 3,
+        "relevanceScore": 3,
         "matchedKeywords": [
-          "tesla"
+          "ceo",
+          "earnings"
         ],
-        "category": "ev_autonomous"
-      },
-      {
-        "title": "Tesla Giga Texas reportedly moves to 24/7 production",
-        "link": "https://www.teslarati.com/tesla-giga-texas-reportedly-moves-24-7-production/",
-        "description": "Tesla’s Austin Gigafactory is reportedly shifting to round-the-clock vehicle production through the end of 2026, according to longtime drone observer Joe Tegtmeyer. In his November 2 update, Tegtmeyer, widely regarded as one of the most reliable independent sources on Giga Texas activity (we call him the Drone GOAT), stated that the plant has added a […] The post Tesla Giga Texas reportedly moves to 24/7 production appeared first on TESLARATI.",
-        "published": "2026-11-05T15:39:26.000Z",
-        "source": "Teslarati",
-        "sourceKey": "teslarati",
-        "priority": 3,
-        "image": null,
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "tesla"
-        ],
-        "category": "ev_autonomous"
-      },
-      {
-        "title": "Tesla opens new “Cybaer” Engineering Center in Berlin",
-        "link": "https://www.teslarati.com/tesla-berlin-btec-engineering-center/",
-        "description": "Tesla opened its Berlin Engineering Center, uniting four sites and 30 labs near Giga Berlin. The post Tesla opens new “Cybaer” Engineering Center in Berlin appeared first on TESLARATI.",
-        "published": "2026-11-05T10:06:27.000Z",
-        "source": "Teslarati",
-        "sourceKey": "teslarati",
-        "priority": 3,
-        "image": null,
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "tesla"
-        ],
-        "category": "ev_autonomous"
+        "category": "business"
       }
     ],
     "space": [
@@ -3037,6 +4219,47 @@
           "tesla",
           "elon musk",
           "chipmaker"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "T-Mobile owner on Elon Musk launching a wireless carrier: ‘Welcome to the party’",
+        "link": "https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile",
+        "description": "The head of T-Mobile's parent company is casting doubt on SpaceX's plans to make Starlink Mobile a \"major\" carrier in the US. During an earnings call on Thursday, Deutsche Telekom CEO Tim Höttges says he takes the Elon Musk-owned company \"super serious,\" but that it will cost at least $200 billion to pull off: He [Musk] has now bought 76 megahertz of spectrum. By the way, we have 400. So if you now say he can buy the spectrum prospectively, do your math. These are kind of triple-digit billions w",
+        "published": "2026-11-05T23:17:10.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2259379374.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 10,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "elon musk",
+          "spacex",
+          "starlink",
+          "ceo",
+          "earnings",
+          "billion"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "Blue Origin’s next launch now won’t happen until 2027",
+        "link": "https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027",
+        "description": "Blue Origin CEO reportedly sent a memo to staff about the new timeline. | Anadolu via Getty Images Blue Origin plans to do its next New Glenn rocket launch in January 2027, according to CNBC and the Financial Times, which cite a memo from CEO Dave Limp sent to staff. The new timeline follows a May launchpad explosion that damaged Blue Origin's New Glenn launchpad ahead of a flight that would have brought Amazon Leo satellites into space. In October, Blue Origin founder Jeff Bezos told Fox News t",
+        "published": "2026-11-05T20:47:14.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2281421326.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 10,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "blue origin",
+          "amazon",
+          "rocket launch",
+          "satellite",
+          "ceo"
         ],
         "category": "space"
       },
@@ -3130,6 +4353,55 @@
         "category": "space"
       },
       {
+        "title": "Blue Origin's New Glenn launch delay will continue into 2027",
+        "link": "https://www.engadget.com/2308647/blue-origin-new-glenn-launch-delay-will-continue-into-2027/",
+        "description": "Repairs have been slow after an explosion earlier this year.",
+        "published": "2026-11-05T22:10:09.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/blue-origins-new-glenn-launch-delay-will-continue-into-2027/l-intro-1793916473.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "blue origin"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "Blue Origin announces 3rd stage for its powerful New Glenn rocket —and a new engine",
+        "link": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-announces-3rd-stage-for-its-powerful-new-glenn-rocket-and-a-new-engine",
+        "description": "Blue Origin has developed a third stage for its New Glenn rocket, which it says will make the launcher even more flexible and capable. The company has also built a new engine, called Northstar.",
+        "published": "2026-11-05T20:55:15.000Z",
+        "source": "Space.com",
+        "sourceKey": "spacecom",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/nmyuKvA2TBYzza98d3t3BK-1920-80.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "blue origin"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "Texas Satellite Maker Raises $730 Million to Launch New Network",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-05/texas-satellite-maker-raises-730-million-to-launch-new-network",
+        "description": "CesiumAstro raised $730 million in its latest funding round, a cash infusion the Austin-based satellite manufacturer will use to build a satellite communications network for businesses and governments.",
+        "published": "2026-11-05T21:00:00.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "satellite",
+          "funding round"
+        ],
+        "category": "space"
+      },
+      {
         "title": "Billionaire Mittal’s Satellite Ambition Pitches OneWeb Against Musk’s Starlink",
         "link": "https://www.bloomberg.com/news/articles/2026-11-05/billionaire-mittal-s-satellite-ambition-pitches-oneweb-against-musk-s-starlink",
         "description": "Indian billionaire Sunil Bharti Mittal is betting he can build a global satellite-internet network independent of both the US and China, as governments increasingly seek strategic alternatives for critical communication infrastructure.",
@@ -3143,6 +4415,24 @@
         "matchedKeywords": [
           "starlink",
           "satellite"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
+        "link": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/",
+        "description": "CesiumAstro Inc., a global leader in space and defense communications systems and satellites, today announced the closing of $730 million in Series D financing, valuing the company at more than […] The post CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission appeared first on SpaceNews.",
+        "published": "2026-11-05T21:45:00.000Z",
+        "source": "SpaceNews",
+        "sourceKey": "spacenews",
+        "priority": 2,
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/cesiumastro-logo-square.png?fit=1024%2C976&amp;ssl=1",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "satellite",
+          "valuation",
+          "billion"
         ],
         "category": "space"
       }
@@ -3183,6 +4473,41 @@
         "category": "devices"
       },
       {
+        "title": "Apple's First Touchscreen Mac is Now Arriving to Customers",
+        "link": "https://www.macrumors.com/2026/11/05/touchscreen-mac-now-arriving-to-customers/",
+        "description": "It's Friday, November 6 in Australia and New Zealand, which means customers who preordered a PROLED touchscreen MacBook Pro, OLED iPad mini, M6 ‌MacBook Pro‌, or M6 iMac are now starting to receive their devices. People will soon be sharing photos and first impressions of the new products on the MacRumors forums, Reddit, Instagram, and other platforms, giving us a first look at what real-world users think of the ‌OLED‌ upgrade for the ‌iPad mini‌ and the PROLED and touchscreen update for the ‌Ma",
+        "published": "2026-11-05T23:12:36.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/11/Apples-First-Touchscreen-Mac-is-Now-Arriving-to-Customers-Feature.jpg",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "apple",
+          "instagram"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Apple Announces a New Mac Sales Record",
+        "link": "https://www.macrumors.com/2026/11/05/apple-announces-a-new-mac-sales-record/",
+        "description": "On an earnings call earlier this week, Apple CEO John Ternus announced that the company sold more Macs in its 2026 fiscal year than any previous fiscal year. \"We have never sold more Macs in a fiscal year than we did this time, which is a truly remarkable testament to these incredible products,\" he said. Related Roundups: MacBook Neo, MacBook Pro Tag: John Ternus Buyer's Guide: MacBook Neo (Neutral), MacBook Pro (Buy Now) Related Forums: MacBook Neo, MacBook Pro This article, \"Apple Announces a",
+        "published": "2026-11-05T18:52:37.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2025/10/M5-MacBook-Pro.jpg",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "apple",
+          "ceo",
+          "earnings"
+        ],
+        "category": "devices"
+      },
+      {
         "title": "Microsoft rolls out a Xbox PC app with an overhauled design to Xbox Insiders that it says launches up to 60% faster than before",
         "link": "https://www.techmeme.com/261105/p43#a261105p43",
         "description": "Microsoft rolls out a Xbox PC app with an overhauled design to Xbox Insiders that it says launches up to 60% faster than before — Xbox Insiders can start testing the new PC app today. … Microsoft is unveiling a new Xbox PC app that launches “up to 60 percent faster” than before …",
@@ -3212,6 +4537,23 @@
         "relevanceScore": 5,
         "matchedKeywords": [
           "microsoft"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Apple's New HomeView Smart Home Hub: Here's How Much RAM It Has",
+        "link": "https://www.macrumors.com/2026/11/05/apple-homeview-how-much-ram/",
+        "description": "MacRumors has confirmed that the A18 chip in Apple's new HomeView smart home hub is paired with 8GB of RAM. This is not very surprising given the A18 chip also has 8GB of RAM in all iPhone 16 models and the MacBook Neo, but Apple does not list this information in the HomeView's tech specs, so it is worth documenting. Related Roundup: Apple HomeView Buyer's Guide: HomeView (Buy Now) Related Forum: HomePod, HomeView, CarPlay – Home & Auto Tech This article, \"Apple's New HomeView Smart Home Hub: He",
+        "published": "2026-11-05T22:47:28.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/10/homeview_home_screen_feature-1.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "apple",
+          "chip"
         ],
         "category": "devices"
       },
@@ -3267,20 +4609,27 @@
         "category": "devices"
       },
       {
-        "title": "Paid $200 for Logic Pro? Apple Says You Won't Get This New Feature",
-        "link": "https://www.macrumors.com/2026/11/05/logic-pro-new-feature-requires-subscription/",
-        "description": "According to Apple's full release notes for version 13.0 of Logic Pro for Mac, released today, the new AI-powered Intelligent Assistant feature requires an Apple Creator Studio subscription for $12.99 per month or $129 per year. In other words, the feature is not available in the $199.99 one-time purchase version of Logic Pro. Apple's fine print on the Logic Pro release notes page: The intelligent assistant (beta) requires an Apple Creator Studio subscription, a Mac with Apple silicon, and macOS",
-        "published": "2026-11-05T17:52:01.000Z",
-        "source": "MacRumors",
-        "sourceKey": "macrumors",
+        "title": "Apple releases first iOS 27.3 public beta with redesigned Health app and more",
+        "link": "https://9to5mac.com/2026/11/05/apple-releases-first-ios-27-3-public-beta-with-redesigned-health-app-and-more/",
+        "description": "Apple has released the first iOS 27.3 public beta for iPhone. The update brings back the redesigned Health app that briefly appeared during iOS 27.2 testing. It also adds vertical tabs in Safari, gives Siri AI more to do across Apple’s apps, and makes the iPhone Duo easier to use with one hand. more…",
+        "published": "2026-11-05T19:01:35.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
         "priority": 2,
-        "image": "https://images.macrumors.com/article-new/2026/11/Logic-Pro-Intelligent-Assistant.jpg",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iOS-27.3-public.jpg?quality=82&#038;strip=all&#038;w=1600",
         "baseScore": 4,
         "relevanceScore": 4,
         "matchedKeywords": [
           "apple"
         ],
-        "category": "devices"
+        "category": "devices",
+        "alsoIn": [
+          {
+            "source": "9to5Mac",
+            "title": "Apple releases iPadOS 27.3 public beta and more, here’s what’s new",
+            "link": "https://9to5mac.com/2026/11/05/apple-releases-ipados-27-3-public-beta-and-more-heres-whats-new/"
+          }
+        ]
       },
       {
         "title": "WSJ: Apple verdient meer aan opslagvarianten ondanks gestegen prijzen",
@@ -3291,6 +4640,206 @@
         "sourceKey": "tweakers",
         "priority": 2,
         "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices",
+        "alsoIn": [
+          {
+            "source": "Tweakers",
+            "title": "WSJ: Apple verdient meer aan opslagvarianten ondanks gestegen inkoopprijzen",
+            "link": "https://tweakers.net/nieuws/254212/wsj-apple-verdient-meer-aan-opslagvarianten-ondanks-gestegen-inkoopprijzen.html"
+          }
+        ]
+      },
+      {
+        "title": "9to5Mac Daily: November 5, 2026 – MacBook Neo 2 rumors, watchOS 27.3",
+        "link": "https://9to5mac.com/2026/11/05/daily-november-5-2026/",
+        "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze: Backup you can rely on. Save 20% with code 9to5daily. more…",
+        "published": "2026-11-05T21:31:08.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google",
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Google Find Hub rolls out ‘Notify when left behind’ tracker alerts on Android",
+        "link": "https://9to5google.com/2026/11/05/google-find-hub-tracker-alerts/",
+        "description": "As previewed in October, Google has added “Notify when left behind” alerts for Find Hub tags and trackers on Android. more…",
+        "published": "2026-11-05T21:30:00.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/find-hub-bluetooth.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Warby Parker seemingly spilled the beans on Google's Android XR smart glasses launch",
+        "link": "https://www.engadget.com/2308376/warby-parker-seemingly-spilled-the-beans-on-googles-android-xr-smart-glasses-launch/",
+        "description": "\"Intelligent Eyewear\" is apparently only a week away.",
+        "published": "2026-11-05T19:39:01.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/warby-parker-seemingly-spilled-the-beans-on-googles-android-xr-smart-glasses-launch/l-intro-1793907386.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Phone by Google 246 beta brings gradient icon redesign on Android",
+        "link": "https://9to5google.com/2026/11/05/phone-by-google-246-new-icon/",
+        "description": "Following the Messages update earlier this week, Phone by Google has received its redesigned gradient icon in the beta channel. more…",
+        "published": "2026-11-05T19:04:24.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Messages-Phone-Contacts-icon-gradient-redesign.webp?w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "One UI 9 comes to Samsung’s rugged Galaxy XCover 7 Pro in the US",
+        "link": "https://www.androidauthority.com/galaxy-xcover-7-pro-one-ui-9-3732189/",
+        "description": "US Galaxy XCover 7 Pro owners can start updating to One UI 9.",
+        "published": "2026-11-05T18:50:10.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-Xcover-7-Setos-1.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "samsung"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Apple TV's 'Bad Monkey' returns for season 2 in December",
+        "link": "https://appleinsider.com/articles/26/11/05/apple-tvs-bad-monkey-returns-for-season-2-in-december?utm_source=rss",
+        "description": "\"Bad Monkey\" starring Vince Vaughn, has added John Malkovich, Yvonne Strahovski and Zavior Phillips to the cast for season 2. The premiere of the new season is on December 2, and Apple TV has a new trailer. Continue Reading on AppleInsider | Discuss on our Forums",
+        "published": "2026-11-05T18:44:31.000Z",
+        "source": "AppleInsider",
+        "sourceKey": "appleinsider",
+        "priority": 2,
+        "image": "https://media.appleinsider.com/gallery/69718-146968-apple_tvs_bad_monkey_returns_for_season_2_in_december-xl.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Instagram's Edits moves beyond the iPhone with Mac app",
+        "link": "https://appleinsider.com/articles/26/11/05/instagrams-edits-moves-beyond-the-iphone-with-mac-app?utm_source=rss",
+        "description": "Instagram is taking on CapCut on the Mac, expanding Edits beyond phones with tools for more involved video projects. Instagram brings free Edits video editor to Mac Instagram's free Edits video editor is now available for Mac, bringing a multi-track timeline, color controls, and direct Instagram publishing. The desktop app also supports horizontal and vertical videos, with watermark-free exports at up to 4K resolution. The Mac version adds mouse and keyboard controls for projects that require mo",
+        "published": "2026-11-05T18:38:44.000Z",
+        "source": "AppleInsider",
+        "sourceKey": "appleinsider",
+        "priority": 2,
+        "image": "https://media.appleinsider.com/gallery/69717-146966-editsonmac-xl.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "instagram"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Apple TV unveils return of hit comedy from Ted Lasso, Shrinking creator",
+        "link": "https://9to5mac.com/2026/11/05/apple-tv-unveils-return-of-hit-comedy-from-ted-lasso-shrinking-creator/",
+        "description": "Bad Monkey, an Apple TV comedy from the creator of Ted Lasso and Shrinking, returns soon for a new season. Here’s the just-released trailer for Bad Monkey season 2. more…",
+        "published": "2026-11-05T18:23:55.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/bad-monkey-season-2.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Samsung Galaxy Fit 4 app listing hints at NFC payment support",
+        "link": "https://www.androidauthority.com/samsung-galaxy-fit-4-wallet-nfc-payments-3732163/",
+        "description": "Despite the tracker's FCC filing omitting NFC.",
+        "published": "2026-11-05T18:10:40.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2025/01/Samsung-Galaxy-Fit-3-HR-scaled.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "samsung"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Future Apple smart locks could be even smarter about when to automatically unlock",
+        "link": "https://appleinsider.com/articles/26/11/05/future-apple-smart-locks-could-be-even-smarter-about-when-to-automatically-unlock?utm_source=rss",
+        "description": "Alongside its HomeView and its partnerships with other firms, Apple has revealed that it is serious about smart homes through new research aiming to make smart locks safer. Future smart locks could detect more than just whether your iPhone is near by - image credit: Apple. Imagine if you have a smart lock and a thief knows it. In the right circumstances, they could wait until you were walking away from your house and simply open the door before the smart lock registers that you're out of range.",
+        "published": "2026-11-05T18:09:20.000Z",
+        "source": "AppleInsider",
+        "sourceKey": "appleinsider",
+        "priority": 2,
+        "image": "https://media.appleinsider.com/gallery/69716-146965-000-lede-smart-lock-xl.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "heise+ | Vision Pro: Wie Apples VR-Brille in der Medizin verwendet wird",
+        "link": "https://www.heise.de/hintergrund/Vision-Pro-Wie-Apples-VR-Brille-in-der-Medizin-verwendet-wird-11498862.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+        "description": "Apples Headset ist ein Luxusprodukt und verkauft sich wohl nur schleppend. In einem Bereich gilt sie jedoch als führend: dem Gesundheitssektor. Eine Reportage.",
+        "published": "2026-11-05T18:00:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/8/8/2/8/1/mi_chirurgie_1_2701tre-d0b0aec6451f3975.jpeg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Paid $200 for Logic Pro? Apple Says You Won't Get This New Feature",
+        "link": "https://www.macrumors.com/2026/11/05/logic-pro-new-feature-requires-subscription/",
+        "description": "According to Apple's full release notes for version 13.0 of Logic Pro for Mac, released today, the new AI-powered Intelligent Assistant feature requires an Apple Creator Studio subscription for $12.99 per month or $129 per year. In other words, the feature is not available in the $199.99 one-time purchase version of Logic Pro. Apple's fine print on the Logic Pro release notes page: The intelligent assistant (beta) requires an Apple Creator Studio subscription, a Mac with Apple silicon, and macOS",
+        "published": "2026-11-05T17:52:01.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/11/Logic-Pro-Intelligent-Assistant.jpg",
         "baseScore": 4,
         "relevanceScore": 4,
         "matchedKeywords": [
@@ -3492,6 +5041,38 @@
         "category": "devices"
       },
       {
+        "title": "WhatsApp is bringing iOS-style chat previews to Android",
+        "link": "https://www.gsmarena.com/whatsapp_is_bringing_iosstyle_chat_previews_to_android-news-75371.php",
+        "description": "WhatsApp has long let you turn read receipts off entirely, but if you keep them on, there's no easy way on Android to see what someone sent you without them knowing you've read it. The notification helps, unless you've already swiped it away or have too many messages piling up. iPhone users have had a workaround for a while now, and it looks like Android users will finally get it too. On iOS, you can long-press a conversation in the chat list to get a pop-up with its most recent messages, and do",
+        "published": "2026-11-05T23:31:02.000Z",
+        "source": "GSMArena",
+        "sourceKey": "gsmarena",
+        "priority": 3,
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/whatsapp-chat-previews-android/-184x111/gsmarena_000.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "whatsapp"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Samsung's over-ear headphones said to be called Galaxy Studio, design details surface",
+        "link": "https://www.gsmarena.com/samsungs_overear_headphones_said_to_be_called_galaxy_studio_design_details_surface-news-75370.php",
+        "description": "Samsung’s rumored high-end over-ear headphones, reportedly called Galaxy Studio, are expected to launch in early 2027 alongside the Galaxy S27 series. A new leak now offers the first details about their design. A pair of Samsung headphones bearing the model number SMU700 have appeared on the Federal Communications Commission (FCC) certification website. These are said to be the rumored Galaxy Studio headphones. The listing includes an image showing the placement of the regulatory label, which al",
+        "published": "2026-11-05T22:01:01.000Z",
+        "source": "GSMArena",
+        "sourceKey": "gsmarena",
+        "priority": 3,
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/galaxy-studio-headphones-design-leak/-184x111/gsmarena_00.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "samsung"
+        ],
+        "category": "devices"
+      },
+      {
         "title": "Here's when the Huawei Mate 80 Air is rumored to launch",
         "link": "https://www.gsmarena.com/heres_when_the_huawei_mate_80_air_is_rumored_to_launch-news-75352.php",
         "description": "Huawei unveiled the Mate 70 Air around one year ago as its entry into the 'thin smartphone' segment, and while its successor has been rumored for a while now, it's still nowhere to be seen. Today, a tipster on Weibo claims the Mate 80 Air will launch next month. The same tipster also says the MatePad Mini's successor, the MatePad Mini 2, won't be launched alongside the handset, even though it may also be released in December, despite earlier rumors claiming it would be coming this month. The tab",
@@ -3536,6 +5117,56 @@
         "relevanceScore": 4,
         "matchedKeywords": [
           "huawei"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "T-Mobile Customers Swap Roaming, Hotspots For Streaming Benefits",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-05/t-mobile-customers-swap-roaming-hotspots-for-streaming-benefits",
+        "description": "T-Mobile US Inc. customers are being given the chance to add free phone plan benefits like Apple TV streaming subscriptions and Xbox Game Pass access, instead of more traditional benefits like international roaming.",
+        "published": "2026-11-05T23:07:06.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "iPad Mini vs. iPad Air Buyer's Guide: Now Just $50 Apart",
+        "link": "https://www.macrumors.com/guide/ipad-mini-vs-ipad-air-2026/",
+        "description": "Apple refreshed both the iPad mini and iPad Air this year, but the choice is now less straightforward and there is just a $50 price difference between them, so which should you choose? The eighth-generation ‌iPad Air‌ arrived in March with the M4 chip, 12GB of unified memory, Apple's N1 wireless chip, and the C1X modem on cellular models. It remains available in 11-inch and 13-inch sizes. Following Apple's June price increases, the two size options now start at $749 and $949, respectively. annou",
+        "published": "2026-11-05T20:41:52.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/11/iPad-Air-v-Mini-Feature-scaled.jpg",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "apple",
+          "chip"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "iPhone Duo brings multitasking to iPhone, but only just",
+        "link": "https://appleinsider.com/articles/26/11/05/iphone-duo-brings-multitasking-to-iphone-but-only-just?utm_source=rss",
+        "description": "The iPhone Duo inner display brings multitasking to iPhone, but it stops just short of really turning Apple's first foldable into a multitasking monster. Here's how it works, and what the limitations are. iPhone Duo can run to apps side by side For years now, some of us have used iPhones as portable workstations thanks to big displays and super-fast chips. But the iPhone Duo takes things to a whole new level, whether you're working or having fun. Apple's iPhone Duo multitasking isn't quite on pa",
+        "published": "2026-11-05T19:27:56.000Z",
+        "source": "AppleInsider",
+        "sourceKey": "appleinsider",
+        "priority": 2,
+        "image": "https://media.appleinsider.com/gallery/69511-146509-iPhone-Duo-Split-Screen-xl.jpg",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "apple",
+          "chip"
         ],
         "category": "devices"
       },
@@ -3626,5 +5257,5 @@
       }
     ]
   },
-  "totalArticles": 190
+  "totalArticles": 278
 }
