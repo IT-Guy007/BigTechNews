@@ -4,7 +4,7 @@
   "title": "Thursday, Nov 5",
   "dateRange": "November 5, 2026",
   "date": "2026-11-05",
-  "generatedAt": "2026-11-05T23:39:52.079Z",
+  "generatedAt": "2026-11-06T06:51:44.516Z",
   "highlights": [
     {
       "title": "Cat Wu, who left Anthropic last week, says she is joining OpenAI to lead product manangement for core products; Wu was the product lead for Claude Code",
@@ -586,6 +586,24 @@
         "category": "ai"
       },
       {
+        "title": "OpenAI to Change How It Handles Data Centers After Outcry",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-05/openai-to-change-how-it-handles-data-center-efforts-after-outcry",
+        "description": "OpenAI said it will avoid nondisclosure agreements when it negotiates data center deals and ensure residents don’t pay for the electricity to power those projects, part of a framework the company believes should be adopted into laws governing the expansion of artificial intelligence.",
+        "published": "2026-11-05T10:00:00.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 10,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "openai",
+          "data center",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "Sources: Google DeepMind spinout Isomorphic Labs is in talks to raise ~$5B at a ~$50B valuation; the AI drug discovery startup last raised $2.1B in May (Bloomberg)",
         "link": "https://www.techmeme.com/261104/p56#a261104p56",
         "description": "Bloomberg: Sources: Google DeepMind spinout Isomorphic Labs is in talks to raise ~$5B at a ~$50B valuation; the AI drug discovery startup last raised $2.1B in May — Alphabet Inc.'s Isomorphic Labs is in talks to raise roughly $5 billion in new funds to support its efforts to use artificial intelligence …",
@@ -802,6 +820,24 @@
         "category": "ai"
       },
       {
+        "title": "OpenAI makes new data center commitments, AI policy recommendations",
+        "link": "https://siliconangle.com/2026/11/05/openai-makes-new-data-center-commitments-ai-policy-recommendations/",
+        "description": "OpenAI Group PBC today made a set of commitments designed to ensure that its data centers benefit the communities where they’re built. It also proposed that lawmakers make some of the commitments mandatory for artificial intelligence companies. The move comes two days after Democrats won both the House and the Senate on a campaign backing data […] The post OpenAI makes new data center commitments, AI policy recommendations appeared first on SiliconANGLE.",
+        "published": "2026-11-05T23:50:52.000Z",
+        "source": "SiliconANGLE",
+        "sourceKey": "siliconangle",
+        "priority": 2,
+        "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/unsplash-1-1.png",
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "openai",
+          "data center",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "OpenAI wird mit Übernahme von Pierre Computer zum GitHub-Konkurrenten",
         "link": "https://www.heise.de/news/OpenAI-wird-mit-Uebernahme-von-Pierre-Computer-zum-GitHub-Konkurrenten-11512804.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
         "description": "Entwicklerwerkzeuge von Pierre sollen in Codex integriert werden. Damit baut OpenAI eine Infrastruktur für KI-Coding auf - Konkurrenz zu GitHub und Microsoft?",
@@ -961,6 +997,23 @@
         "category": "ai"
       },
       {
+        "title": "Australian universities are creating AI-native graduates",
+        "link": "https://openai.com/index/australian-universities-ai-native-graduates",
+        "description": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+        "published": "2026-11-05T17:00:00.000Z",
+        "source": "OpenAI",
+        "sourceKey": "openai_news",
+        "priority": 1,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "openai",
+          "chatgpt"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
         "link": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/",
         "description": "Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior product research engineer in deep learning at NVIDIA who specializes in making open large language models (LLMs) practical for working developers. […]",
@@ -1078,6 +1131,56 @@
         "relevanceScore": 8,
         "matchedKeywords": [
           "openai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Flipsnack grows product signups with conversion optimization",
+        "link": "https://openai.com/ads/customers/flipsnack",
+        "description": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+        "published": "2026-11-05T00:45:15.000Z",
+        "source": "OpenAI",
+        "sourceKey": "openai_news",
+        "priority": 1,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "openai",
+          "chatgpt"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Franklin Templeton uses OpenAI to support investment research",
+        "link": "https://openai.com/index/franklin-templeton",
+        "description": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+        "published": "2026-11-05T00:00:00.000Z",
+        "source": "OpenAI",
+        "sourceKey": "openai_news",
+        "priority": 1,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Claude Code sends your email address to websites",
+        "link": "https://github.com/anthropics/claude-code/issues/107757",
+        "description": "Article URL: https://github.com/anthropics/claude-code/issues/107757 Comments URL: https://news.ycombinator.com/item?id=50385272 Points: 871 # Comments: 288",
+        "published": "2026-11-05T22:17:15.000Z",
+        "source": "Hacker News",
+        "sourceKey": "hackernews",
+        "priority": 2,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "claude",
+          "anthropic"
         ],
         "category": "ai"
       },
@@ -1491,6 +1594,22 @@
         "relevanceScore": 5,
         "matchedKeywords": [
           "google"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Cult.fit builds operational muscle with Codex",
+        "link": "https://openai.com/index/cultfit-builds-with-codex",
+        "description": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+        "published": "2026-11-05T20:00:00.000Z",
+        "source": "OpenAI",
+        "sourceKey": "openai_news",
+        "priority": 1,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "openai"
         ],
         "category": "ai"
       },
@@ -2682,6 +2801,22 @@
         "matchedKeywords": [
           "elon musk",
           "data center"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "AWS Kiro aims to solve identity crisis by adding another identity: bot orchestrator",
+        "link": "https://www.theregister.com/ai-and-ml/2026/11/05/aws-kiro-aims-to-solve-identity-crisis-by-adding-another-identity-bot-orchestrator/5307965",
+        "description": "The cloud giant refits its agentic dev tools for agent orchestration",
+        "published": "2026-11-05T22:09:20.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=5307975&width=800",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "aws"
         ],
         "category": "chips_cloud"
       },
@@ -4118,6 +4253,22 @@
         "category": "business"
       },
       {
+        "title": "The New York Times is in talks to buy Letterboxd for around $330 million",
+        "link": "https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report",
+        "description": "Letterboxd’s homepage. The New York Times Company is in talks\"exclusive negotations\" to acquire Letterboxd, the social network for film lovers, for around $330 million, The New York Times reports. The Times Company, Sony Pictures Entertainment, and A24 were all recently rumored to be among those interested in buying Letterboxd. The negotiations with the Times Company have included the potential for Letterboxd's co-founders to stay in charge but report to a Times Company executive. Letterboxd wou",
+        "published": "2026-11-05T23:45:10.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-05-at-3.41.44-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,92.583676239766",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "acquire"
+        ],
+        "category": "business"
+      },
+      {
         "title": "Chips Selloff Worsens as Fears About AI Trade Grip Stock Market",
         "link": "https://www.bloomberg.com/news/articles/2026-11-05/chips-selloff-worsens-as-fears-about-ai-trade-grip-stock-market",
         "description": "Shares of semiconductor stocks plunged on Thursday, extending a recent selloff as investors turn skeptical on the artificial intelligence trade after the Democrats dominated the midterm elections.",
@@ -4148,6 +4299,22 @@
         "relevanceScore": 4,
         "matchedKeywords": [
           "acquire"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+        "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+        "description": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 254 # Comments: 112",
+        "published": "2026-11-05T23:09:57.000Z",
+        "source": "Hacker News",
+        "sourceKey": "hackernews",
+        "priority": 2,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "facebook"
         ],
         "category": "business"
       },
@@ -5257,5 +5424,5 @@
       }
     ]
   },
-  "totalArticles": 278
+  "totalArticles": 288
 }
