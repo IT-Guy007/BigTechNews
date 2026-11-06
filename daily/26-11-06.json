@@ -4,8 +4,29 @@
   "title": "Friday, Nov 6",
   "dateRange": "November 6, 2026",
   "date": "2026-11-06",
-  "generatedAt": "2026-11-06T06:51:44.587Z",
+  "generatedAt": "2026-11-06T15:57:10.488Z",
   "highlights": [
+    {
+      "title": "Frontier Radar #5: If AGI is so close, why is everyone leaving? The neolabs and their bets",
+      "link": "https://the-decoder.com/frontier-radar-5-if-agi-is-so-close-why-is-everyone-leaving-the-neolabs-and-their-bets/",
+      "description": "OpenAI is talking about the AGI era, and Nvidia CEO Jensen Huang says AGI has arrived. At the same time, co-creators of today's models are leaving OpenAI, Google DeepMind, and Meta to start their own labs, raising billions with no product to show. Why? They're betting that the current recipe alone won't be enough. We've sorted 45 neolabs by their research bets, mapped the limitations of today's AI they're trying to overcome, looked at what's already visible from their work, and explain why Nvidi",
+      "published": "2026-11-06T15:55:23.000Z",
+      "source": "The Decoder",
+      "sourceKey": "thedecoder",
+      "priority": 2,
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/Frontier-Radar-5-Neolabs.png",
+      "baseScore": 19,
+      "relevanceScore": 19,
+      "matchedKeywords": [
+        "agi",
+        "google",
+        "meta",
+        "nvidia",
+        "openai",
+        "jensen huang"
+      ],
+      "category": "ai"
+    },
     {
       "title": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
       "link": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
@@ -25,6 +46,57 @@
         "chip"
       ],
       "category": "chips_cloud"
+    },
+    {
+      "title": "Tesla Is Killing The Cybertruck To Make Room For More Robotaxis",
+      "link": "https://insideevs.com/news/814618/tesla-cybertruck-production-ending-official/",
+      "description": "Tesla CEO Elon Musk said the company will “wind down” production of the controversial pickup in Texas.",
+      "published": "2026-11-06T08:00:25.000Z",
+      "source": "InsideEVs",
+      "sourceKey": "insideevs",
+      "priority": 2,
+      "image": "https://cdn.motor1.com/images/mgl/L3x4qG/s3/2024-breakthrough-award-nominee-the-tesla-cybertruck.jpg",
+      "baseScore": 12,
+      "relevanceScore": 15,
+      "matchedKeywords": [
+        "tesla",
+        "robotaxi",
+        "elon musk",
+        "ceo"
+      ],
+      "category": "ev_autonomous",
+      "alsoIn": [
+        {
+          "source": "Techmeme",
+          "title": "Elon Musk says Tesla plans to wind down production of the Cybertruck at its Texas Gigafactory around mid-2027 \"to make room for increased Cybercab production\"",
+          "link": "https://www.techmeme.com/261106/p7#a261106p7"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "Tesla will stop making the Cybertruck in 2027",
+          "link": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/"
+        },
+        {
+          "source": "Engadget",
+          "title": "Tesla is 'winding down' Cybertruck production at its Texas Gigafactory",
+          "link": "https://www.engadget.com/2308875/tesla-is-winding-down-cybertruck-production-at-its-texas-gigafactory/"
+        },
+        {
+          "source": "Teslarati",
+          "title": "Tesla is ending Cybertruck production",
+          "link": "https://www.teslarati.com/tesla-is-ending-cybertruck-production/"
+        },
+        {
+          "source": "CNBC",
+          "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
+          "link": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html"
+        },
+        {
+          "source": "Electrek",
+          "title": "Tesla hikes Cybertruck prices up to 10% after announcing it will kill production",
+          "link": "https://electrek.co/2026/11/06/tesla-raises-cybertruck-prices-after-ending-production/"
+        }
+      ]
     },
     {
       "title": "Perplexity rolls out Teammates, an always-on AI agent system that integrates with Computer to handle multiple roles and execute large-scale tasks simultaneously",
@@ -47,6 +119,23 @@
       "category": "ai"
     },
     {
+      "title": "OpenAI Bolsters Cyber Defenses",
+      "link": "https://www.wsj.com/cio-journal/openai-bolsters-cyber-defenses-cf7cafb5?mod=rss_Technology",
+      "description": "Plus, Anthropic’s $1.5 trillion question",
+      "published": "2026-11-06T14:16:00.000Z",
+      "source": "WSJ",
+      "sourceKey": "wsj_tech",
+      "priority": 1,
+      "image": "https://images.wsj.net/im-93037341",
+      "baseScore": 13,
+      "relevanceScore": 13,
+      "matchedKeywords": [
+        "openai",
+        "anthropic"
+      ],
+      "category": "ai"
+    },
+    {
       "title": "Meta, Google, and TikTok sue California AG over teen social media law",
       "link": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
       "description": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
@@ -65,14 +154,14 @@
       "category": "other"
     },
     {
-      "title": "Sources: major investors are increasingly skeptical Anthropic's IPO can achieve a $1.5T valuation after a market selloff; one says it could be closer to $1T (Wall Street Journal)",
-      "link": "https://www.techmeme.com/261105/p60#a261105p60",
-      "description": "Wall Street Journal: Sources: major investors are increasingly skeptical Anthropic's IPO can achieve a $1.5T valuation after a market selloff; one says it could be closer to $1T — The AI giant could need to set a significantly lower-than-expected valuation, investors say — Major investors are increasingly …",
-      "published": "2026-11-06T00:10:00.000Z",
-      "source": "Techmeme",
-      "sourceKey": "techmeme",
+      "title": "Anthropic IPO Valuation Under Pressure After Tech Rout",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-06/anthropic-ipo-valuation-under-pressure-after-tech-rout-video",
+      "description": "The selloff in tech stocks could hurt Anthropic. Potential buyers are discussing a valuation range of $1.2 trillion to $1.3 trillion for the company, which could go public before Thanksgiving. Mandeep Singh of Bloomberg Intelligence has more. (Source: Bloomberg)",
+      "published": "2026-11-06T15:40:36.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
       "priority": 1,
-      "image": "http://www.techmeme.com/261105/i60.jpg",
+      "image": null,
       "baseScore": 12,
       "relevanceScore": 12,
       "matchedKeywords": [
@@ -83,189 +172,84 @@
       "category": "business"
     },
     {
-      "title": "Google, Meta en TikTok vechten Californisch verbod op verslavende feeds aan",
-      "link": "https://tweakers.net/nieuws/254228/google-meta-en-tiktok-vechten-californisch-verbod-op-verslavende-feeds-aan.html",
-      "description": "Google, TikTok en Meta verzetten zich in afzonderlijke rechtszaken tegen een Californische wet die verslavende elementen voor tieners tot 16 jaar verbiedt. Volgens de bedrijven achter de grootste sociale media is de wet te breed en maakt die inbreuk op het Eerste Amendement.",
-      "published": "2026-11-06T06:40:49.000Z",
-      "source": "Tweakers",
-      "sourceKey": "tweakers",
-      "priority": 2,
+      "title": "A long-term Elon Musk backer is cashing out of Tesla — and cutting its SpaceX exposure",
+      "link": "https://www.cnbc.com/2026/11/06/scottish-mortgage-tesla-spacex.html",
+      "description": "Scottish Mortgage Investment Trust has cut its SpaceX holding to 11.1% of assets and sold its remaining Tesla stake.",
+      "published": "2026-11-06T13:51:32.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_top",
+      "priority": 1,
       "image": null,
       "baseScore": 12,
       "relevanceScore": 12,
       "matchedKeywords": [
-        "google",
-        "meta",
-        "tiktok"
+        "tesla",
+        "spacex",
+        "elon musk"
       ],
-      "category": "other"
+      "category": "ev_autonomous"
     },
     {
-      "title": "Freitag: OpenAIs folgsame neue Cybersecurity-KI, Trainingsauflagen für Meta-KI",
-      "link": "https://www.heise.de/news/Freitag-OpenAIs-folgsame-neue-Cybersecurity-KI-Trainingsauflagen-fuer-Meta-KI-11514290.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "description": "GPT-6 Cyber im Zaum + KI-Verbot für Medieninhalte + Tech-Konzerne gegen Jugendschutz-Gesetz + Videoüberwachung in Schlachthöfen + Verbraucherschutz-Podcast",
-      "published": "2026-11-06T05:15:00.000Z",
-      "source": "heise online",
-      "sourceKey": "heise",
-      "priority": 2,
-      "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/6/1/0/8/friday-36e2186641e4aec2.jpeg",
-      "baseScore": 11,
-      "relevanceScore": 11,
+      "title": "Anthropic IPO Buyers See Valuation Down as Low as $1.2 Trillion",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+      "description": "Anthropic PBC’s initial public offering plans ran into a punishing post-election selloff, prompting a rethink among prospective investors of the company’s expected valuation.",
+      "published": "2026-11-06T13:12:57.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_markets",
+      "priority": 1,
+      "image": null,
+      "baseScore": 12,
+      "relevanceScore": 12,
       "matchedKeywords": [
-        "meta",
-        "openai"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": "Apple expected to bid for F1 streaming rights in more countries, says Formula 1 CEO",
-      "link": "https://9to5mac.com/2026/11/05/apple-f1-streaming-international-countries/",
-      "description": "Starting this year, Apple has exclusive streaming rights for Formula 1 racing in the United States, which sees every race stream on Apple TV. Both Apple and the league have proudly reported a very positive response in terms of viewership and subscriber acquisition, although they do not publish exact viewing figures. On the latest earnings call for F1’s parent company Liberty Media, the CEO of Formula 1 Stefano Domenicali said that both parties are happy with the US deal, and he expects that Appl",
-      "published": "2026-11-06T00:36:46.000Z",
-      "source": "9to5Mac",
-      "sourceKey": "9to5mac",
-      "priority": 2,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/f1-apple-tv-4k-multiview.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "baseScore": 10,
-      "relevanceScore": 10,
-      "matchedKeywords": [
-        "apple",
-        "ceo",
-        "acquisition",
-        "earnings"
+        "anthropic",
+        "ipo",
+        "valuation"
       ],
       "category": "business"
     },
     {
-      "title": "OpenAI is stepping back from NDAs for data center projects",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-      "description": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials. Many data center projects have come under scrutiny for relying on NDAs to hide discussions between developers and local officials. However, OpenAI says it is now allowing \"only narrow protections covering legit",
-      "published": "2026-11-06T00:37:56.000Z",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "priority": 1,
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "baseScore": 9,
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "openai",
-        "data center"
-      ],
-      "category": "chips_cloud"
-    },
-    {
-      "title": "Google rolls out Gemini Omni 1.2 Flash, which creates clips up to 15 seconds, vs. 10 seconds with Omni 1.1, has better reference adherence, and costs 30% less",
-      "link": "https://www.techmeme.com/261105/p70#a261105p70",
-      "description": "Google rolls out Gemini Omni 1.2 Flash, which creates clips up to 15 seconds, vs. 10 seconds with Omni 1.1, has better reference adherence, and costs 30% less — Ask about this article... Google says Gemini Omni 1.2 Flash is rolling out through the Gemini API, Google AI Studio …",
-      "published": "2026-11-06T04:05:09.000Z",
+      "title": "Sources: Democrats are eyeing Apple, Meta, and Elon Musk-led companies as early congressional investigation targets, after winning House and Senate majorities",
+      "link": "https://www.techmeme.com/261106/p9#a261106p9",
+      "description": "Sources: Democrats are eyeing Apple, Meta, and Elon Musk-led companies as early congressional investigation targets, after winning House and Senate majorities — Democrats are laying the groundwork to investigate some of the country's largest companies, setting off a scramble among executives who courted the president.",
+      "published": "2026-11-06T11:45:06.000Z",
       "source": "Techmeme",
       "sourceKey": "techmeme",
       "priority": 1,
-      "image": "http://www.techmeme.com/261105/i70.jpg",
-      "via": "The Decoder",
-      "baseScore": 8,
-      "relevanceScore": 8,
+      "image": "http://www.techmeme.com/261106/i9.jpg",
+      "via": "Washington Post",
+      "baseScore": 12,
+      "relevanceScore": 12,
       "matchedKeywords": [
-        "google",
-        "gemini"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": "Jensen Huang Asked to Brief Congress Over Alleged Chinese Spy Plot",
-      "link": "https://www.theinformation.com/briefings/jensen-huang-asked-brief-congress-alleged-chinese-spy-plot",
-      "description": "Leaders of three U.S. House committees have summoned Nvidia CEO Jensen Huang to a closed-door briefing later this month over his ties to Alice Huang, a tech executive reportedly identified as a Chinese spy. The New York Times reported last month that U.S. officials had found the Nvidia CEO had a ...",
-      "published": "2026-11-06T06:20:16.000Z",
-      "source": "The Information",
-      "sourceKey": "theinformation",
-      "priority": 1,
-      "image": null,
-      "baseScore": 7,
-      "relevanceScore": 7,
-      "matchedKeywords": [
-        "jensen huang",
-        "nvidia",
-        "ceo"
+        "apple",
+        "meta",
+        "elon musk"
       ],
       "category": "regulation"
     }
   ],
   "byCategory": {
-    "chips_cloud": [
-      {
-        "title": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
-        "link": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
-        "description": "Asian technology stocks tumbled Friday, tracking a sharp sell-off on Wall Street overnight that sent the tech-heavy Nasdaq Composite into correction territory.",
-        "published": "2026-11-06T02:40:15.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_tech",
-        "priority": 1,
-        "image": null,
-        "baseScore": 18,
-        "relevanceScore": 18,
-        "matchedKeywords": [
-          "tsmc",
-          "samsung",
-          "sk hynix",
-          "softbank",
-          "chip"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": "OpenAI is stepping back from NDAs for data center projects",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-        "description": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials. Many data center projects have come under scrutiny for relying on NDAs to hide discussions between developers and local officials. However, OpenAI says it is now allowing \"only narrow protections covering legit",
-        "published": "2026-11-06T00:37:56.000Z",
-        "source": "The Verge",
-        "sourceKey": "theverge",
-        "priority": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "baseScore": 9,
-        "relevanceScore": 9,
-        "matchedKeywords": [
-          "openai",
-          "data center"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": "Sources: China's top memory maker YMTC plans to source up to 70% of equipment for its fourth chip factory locally, up from just over 50% for its third factory (Reuters)",
-        "link": "https://www.techmeme.com/261106/p3#a261106p3",
-        "description": "Reuters: Sources: China's top memory maker YMTC plans to source up to 70% of equipment for its fourth chip factory locally, up from just over 50% for its third factory — China's largest flash memory chipmaker, Yangtze Memory Technologies Co (YMTC), plans to source as much as 70% of the equipment …",
-        "published": "2026-11-06T06:20:13.000Z",
-        "source": "Techmeme",
-        "sourceKey": "techmeme",
-        "priority": 1,
-        "image": "http://www.techmeme.com/261106/i3.jpg",
-        "baseScore": 3,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "chip",
-          "chipmaker"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": "Asian tech stocks plunge amid fears US Democrats may delay data centers; Taiwan's Taiex sees a record intraday point drop, Kospi falls 8.7%, and Nikkei 6.7%",
-        "link": "https://www.techmeme.com/261106/p2#a261106p2",
-        "description": "Asian tech stocks plunge amid fears US Democrats may delay data centers; Taiwan's Taiex sees a record intraday point drop, Kospi falls 8.7%, and Nikkei 6.7% — TOKYO — Asian stock markets tied to the artificial intelligence boom plummeted on Friday morning following a tech sell-off …",
-        "published": "2026-11-06T05:40:00.000Z",
-        "source": "Techmeme",
-        "sourceKey": "techmeme",
-        "priority": 1,
-        "image": "http://www.techmeme.com/261106/i2.jpg",
-        "via": "Nikkei Asia",
-        "baseScore": 3,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "data center",
-          "artificial intelligence"
-        ],
-        "category": "chips_cloud"
-      }
-    ],
     "ai": [
+      {
+        "title": "Frontier Radar #5: If AGI is so close, why is everyone leaving? The neolabs and their bets",
+        "link": "https://the-decoder.com/frontier-radar-5-if-agi-is-so-close-why-is-everyone-leaving-the-neolabs-and-their-bets/",
+        "description": "OpenAI is talking about the AGI era, and Nvidia CEO Jensen Huang says AGI has arrived. At the same time, co-creators of today's models are leaving OpenAI, Google DeepMind, and Meta to start their own labs, raising billions with no product to show. Why? They're betting that the current recipe alone won't be enough. We've sorted 45 neolabs by their research bets, mapped the limitations of today's AI they're trying to overcome, looked at what's already visible from their work, and explain why Nvidi",
+        "published": "2026-11-06T15:55:23.000Z",
+        "source": "The Decoder",
+        "sourceKey": "thedecoder",
+        "priority": 2,
+        "image": "https://the-decoder.com/wp-content/uploads/2026/11/Frontier-Radar-5-Neolabs.png",
+        "baseScore": 19,
+        "relevanceScore": 19,
+        "matchedKeywords": [
+          "agi",
+          "google",
+          "meta",
+          "nvidia",
+          "openai",
+          "jensen huang"
+        ],
+        "category": "ai"
+      },
       {
         "title": "Perplexity rolls out Teammates, an always-on AI agent system that integrates with Computer to handle multiple roles and execute large-scale tasks simultaneously",
         "link": "https://www.techmeme.com/261105/p69#a261105p69",
@@ -287,6 +271,57 @@
         "category": "ai"
       },
       {
+        "title": "OpenAI Bolsters Cyber Defenses",
+        "link": "https://www.wsj.com/cio-journal/openai-bolsters-cyber-defenses-cf7cafb5?mod=rss_Technology",
+        "description": "Plus, Anthropic’s $1.5 trillion question",
+        "published": "2026-11-06T14:16:00.000Z",
+        "source": "WSJ",
+        "sourceKey": "wsj_tech",
+        "priority": 1,
+        "image": "https://images.wsj.net/im-93037341",
+        "baseScore": 13,
+        "relevanceScore": 13,
+        "matchedKeywords": [
+          "openai",
+          "anthropic"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Anthropic IPO announcement odds drop on Kalshi following midterms and AI sell-off",
+        "link": "https://www.cnbc.com/2026/11/06/anthropic-ipo-kalshi-post-midterms-ai-sell-off.html",
+        "description": "Kalshi traders cut the odds of an Anthropic IPO announcement before December as AI stocks sold off after Democrats won control of Congress.",
+        "published": "2026-11-06T15:55:32.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_top",
+        "priority": 1,
+        "image": null,
+        "baseScore": 11,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "anthropic",
+          "ipo"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+        "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+        "description": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+        "published": "2026-11-06T15:54:47.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "baseScore": 11,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "anthropic",
+          "ipo"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "Freitag: OpenAIs folgsame neue Cybersecurity-KI, Trainingsauflagen für Meta-KI",
         "link": "https://www.heise.de/news/Freitag-OpenAIs-folgsame-neue-Cybersecurity-KI-Trainingsauflagen-fuer-Meta-KI-11514290.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
         "description": "GPT-6 Cyber im Zaum + KI-Verbot für Medieninhalte + Tech-Konzerne gegen Jugendschutz-Gesetz + Videoüberwachung in Schlachthöfen + Verbraucherschutz-Podcast",
@@ -304,6 +339,39 @@
         "category": "ai"
       },
       {
+        "title": "Anthropic adds bank account access to Claude so users can track their spending",
+        "link": "https://the-decoder.com/anthropic-adds-bank-account-access-to-claude-so-users-can-track-their-spending/",
+        "description": "Anthropic is introducing a new feature in Claude called Personal Finance, which allows users to connect their bank and card accounts and ask questions about their finances. The article Anthropic adds bank account access to Claude so users can track their spending appeared first on The Decoder.",
+        "published": "2026-11-06T11:33:13.000Z",
+        "source": "The Decoder",
+        "sourceKey": "thedecoder",
+        "priority": 2,
+        "image": "https://the-decoder.com/wp-content/uploads/2026/11/Claude-Finances-title-scaled.png",
+        "baseScore": 10,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "anthropic",
+          "claude"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Strategist Who Warned Before Rout Sees Anthropic as Bigger Risk",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/strategist-who-warned-before-rout-sees-anthropic-as-bigger-risk",
+        "description": "One of the few Wall Street strategists to turn cautious on stocks ahead of Thursday’s selloff warned that a potential Anthropic PBC debut may prove a more decisive event than the US midterms.",
+        "published": "2026-11-06T13:11:30.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "anthropic"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "Google rolls out Gemini Omni 1.2 Flash, which creates clips up to 15 seconds, vs. 10 seconds with Omni 1.1, has better reference adherence, and costs 30% less",
         "link": "https://www.techmeme.com/261105/p70#a261105p70",
         "description": "Google rolls out Gemini Omni 1.2 Flash, which creates clips up to 15 seconds, vs. 10 seconds with Omni 1.1, has better reference adherence, and costs 30% less — Ask about this article... Google says Gemini Omni 1.2 Flash is rolling out through the Gemini API, Google AI Studio …",
@@ -315,6 +383,74 @@
         "via": "The Decoder",
         "baseScore": 8,
         "relevanceScore": 8,
+        "matchedKeywords": [
+          "google",
+          "gemini"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "The Morning Risk Report: Companies Face Cyber Pain as Hackers Press AI Advantage",
+        "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-companies-face-cyber-pain-as-hackers-press-ai-advantage-706c84b7?mod=rss_Technology",
+        "description": "Plus: The FTC claims Amazon tripled ad prices for Black Friday and China is flexing its control over artificial intelligence.",
+        "published": "2026-11-06T11:45:00.000Z",
+        "source": "WSJ",
+        "sourceKey": "wsj_tech",
+        "priority": 1,
+        "image": "https://images.wsj.net/im-09844223",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "amazon",
+          "ftc",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Latest Google app reveals Gemini Live’s offline mode requires an online setup",
+        "link": "https://www.androidauthority.com/gemini-live-offline-mode-caveats-apk-teardown-3732544/",
+        "description": "You should also brace for a limited experience compared to online Gemini Live.",
+        "published": "2026-11-06T14:14:19.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/gemini-live-on-a-smartphone-screen-scaled.jpg",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "google",
+          "gemini"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "METR finds Anthropic may have crossed its own AI acceleration warning threshold back in July",
+        "link": "https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/",
+        "description": "Nonprofit METR spent eleven weeks auditing Anthropic's internal research data and concluded that the pace of model development has roughly doubled, with about 80 percent of the speedup driven by AI-assisted research. Anthropic redacted the most informative evidence, though, which means the public has to rely on METR's judgment \"much more than would be ideal.\" There are also skeptical voices inside the company. The article METR finds Anthropic may have crossed its own AI acceleration warning thre",
+        "published": "2026-11-06T13:40:07.000Z",
+        "source": "The Decoder",
+        "sourceKey": "thedecoder",
+        "priority": 2,
+        "image": "https://the-decoder.com/wp-content/uploads/2026/11/METR-Anthropic-Report.png",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "anthropic"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Google verbessert KI-Videogenerator Gemini Omni auf Version 1.2 Flash",
+        "link": "https://www.heise.de/news/Google-verbessert-KI-Videogenerator-Gemini-Omni-auf-Version-1-2-Flash-11515072.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "Google stellt Gemini Omni 1.2 Flash vor: längere Clips mit Ton, günstigere Preise und verbesserte Audioqualität für Filmemacher und Werbetreibende.",
+        "published": "2026-11-06T10:36:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/6/5/1/3/CleanShot_2026-11-06_at_11.22.56_2x-33605e2494593ff2.png",
+        "baseScore": 7,
+        "relevanceScore": 7,
         "matchedKeywords": [
           "google",
           "gemini"
@@ -356,6 +492,40 @@
         "category": "ai"
       },
       {
+        "title": "Thinking Machines' Inkling 2 Small claims top spot among western open-weight models",
+        "link": "https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/",
+        "description": "Thinking Machines, the startup from former OpenAI CTO Mira Murati, is releasing Inkling 2 Small, a mixture-of-experts model with 594 billion parameters. The company claims it's the strongest western open-weight model. Better agentic performance comes at a price, though, with token usage rising sharply. The article Thinking Machines' Inkling 2 Small claims top spot among western open-weight models appeared first on The Decoder.",
+        "published": "2026-11-06T13:25:09.000Z",
+        "source": "The Decoder",
+        "sourceKey": "thedecoder",
+        "priority": 2,
+        "image": "https://the-decoder.com/wp-content/uploads/2026/07/thinking_machines_inkling_logo.png",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "openai",
+          "billion"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Employees at Microsoft, long known for its stability in the industry, are grappling with its decision to offer buyouts to 60,000 people as AI spending grows",
+        "link": "https://www.techmeme.com/261106/p12#a261106p12",
+        "description": "Employees at Microsoft, long known for its stability in the industry, are grappling with its decision to offer buyouts to 60,000 people as AI spending grows — Within an hour of Microsoft's announcement of buyouts last week, employees rushed to an internal site to see whether they had been offered one.",
+        "published": "2026-11-06T14:25:00.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261106/i12.jpg",
+        "via": "New York Times",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "microsoft"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "SoftBank Leads Asia Bond Losses as AI Rout Spreads to Credit",
         "link": "https://www.bloomberg.com/news/articles/2026-11-06/softbank-leads-asia-bond-losses-ai-rout-spreads-credit",
         "description": "SoftBank Group Corp. led declines in Asian dollar bonds on Friday as a deepening rout in artificial-intelligence stocks extended into credit markets.",
@@ -368,6 +538,56 @@
         "relevanceScore": 5,
         "matchedKeywords": [
           "softbank"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "GPT 6-Cyber vindt 948 kwetsbaarheden in Linux",
+        "link": "https://tweakers.net/nieuws/254240/gpt-6-cyber-vindt-948-kwetsbaarheden-in-linux.html",
+        "description": "OpenAI brengt GPT 6-Cyber uit, een cybersecurityvariant van GPT 6-Astra. Gebruikers kunnen met het nieuwe model kwetsbaarheden in software vinden en patches ontwikkelen. In een test van OpenAI vond GPT 6-Cyber 948 kwetsbaarheden in Linux.",
+        "published": "2026-11-06T12:19:12.000Z",
+        "source": "Tweakers",
+        "sourceKey": "tweakers",
+        "priority": 2,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Perplexity's 'teammates' are the company's AI agents for daily work tasks",
+        "link": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/",
+        "description": "Perplexity launches personal AI agents that can act as your 'teammates.'",
+        "published": "2026-11-06T11:18:59.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/perplexitys-teammates-are-its-ai-agents-for-ongoing-work/l-intro-1793962197.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "perplexity",
+          "ai agent"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Meta’s Muse AI agent gets a voice chat mode with hundreds of voices",
+        "link": "https://www.androidauthority.com/meta-muse-real-time-voice-chat-mode-3732321/",
+        "description": "You can talk to your Muse agent and have it do the work while you sit back and relax.",
+        "published": "2026-11-06T07:20:07.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/meta-muse-ai-voice-conversations-hero-image.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "meta",
+          "ai agent"
         ],
         "category": "ai"
       },
@@ -401,6 +621,55 @@
         "relevanceScore": 4,
         "matchedKeywords": [
           "gemini"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "KI-Update Deep-Dive: Wie Mistral mit ML4 im KI-Rennen aufholen will",
+        "link": "https://www.heise.de/news/KI-Update-Deep-Dive-Wie-Mistral-mit-ML4-im-KI-Rennen-aufholen-will-11513626.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "Mistrals wissenschaftlicher Leiter Pierre Stock erklärt im Podcast, wie das neueste Modell ML4 entstand und warum Offenheit für Europas Souveränität zählt.",
+        "published": "2026-11-06T14:00:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/5/7/6/8/KIupdate_Titel_122023-40c6bd56627dea8a.jpeg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "mistral"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Rogue AI tasked with renumbering pages accidentally deletes law professor's entire syllabus, one year of lecture notes",
+        "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
+        "description": "A University of Chicago lecturer has revealed a rogue Claude AI agent deleted his entire syllabus and year's worth of lecture notes by mistake.",
+        "published": "2026-11-06T12:12:12.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/ee2RHsQxMkag3gfYBWeoA5-1920-80.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "claude",
+          "ai agent"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Achtergrond - Google mogelijk op juridisch glad ijs als het AI-functies aan Zoeken koppelt",
+        "link": "https://tweakers.net/reviews/15576/google-mogelijk-op-juridisch-glad-ijs-als-het-ai-functies-aan-zoeken-koppelt.html",
+        "description": "Scholen die geen AI-diensten van Google willen, krijgen mogelijk ook geen toegang meer tot Google Zoeken. Die koppeling staat op gespannen voet met de mededingingswetgeving.",
+        "published": "2026-11-06T10:00:00.000Z",
+        "source": "Tweakers",
+        "sourceKey": "tweakers",
+        "priority": 2,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
         ],
         "category": "ai"
       },
@@ -439,6 +708,659 @@
         "category": "ai"
       }
     ],
+    "chips_cloud": [
+      {
+        "title": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
+        "link": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
+        "description": "Asian technology stocks tumbled Friday, tracking a sharp sell-off on Wall Street overnight that sent the tech-heavy Nasdaq Composite into correction territory.",
+        "published": "2026-11-06T02:40:15.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 18,
+        "relevanceScore": 18,
+        "matchedKeywords": [
+          "tsmc",
+          "samsung",
+          "sk hynix",
+          "softbank",
+          "chip"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "TSMC Weighs Making Advanced Memory Chips to Capture More AI Spending",
+        "link": "https://www.theinformation.com/articles/tsmc-weighs-making-advanced-memory-chips-capture-ai-spending",
+        "description": "Taiwan Semiconductor Manufacturing Co. is considering expanding into the advanced memory chip manufacturing sector, a move that would give the world’s largest chipmaker an even bigger share of the AI hardware supply chain, according to two people with direct knowledge of the matter. The Taiwanese chipmaking giant recently started drawing up plans for making a specific type of advanced memory chips, 3D DRAM, at the request of Nvidia, its biggest customer, the two people said. An intense shortage",
+        "published": "2026-11-06T14:01:18.000Z",
+        "source": "The Information",
+        "sourceKey": "theinformation",
+        "priority": 1,
+        "image": null,
+        "baseScore": 10,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "tsmc",
+          "chip",
+          "nvidia",
+          "semiconductor",
+          "chipmaker"
+        ],
+        "category": "chips_cloud",
+        "alsoIn": [
+          {
+            "source": "Bloomberg",
+            "title": "TSMC Mulls Making Advanced AI Memory Chips, Information Says",
+            "link": "https://www.bloomberg.com/news/articles/2026-11-06/tsmc-mulls-making-advanced-ai-memory-chips-information-says"
+          }
+        ]
+      },
+      {
+        "title": "Sources: TSMC is considering expanding into manufacturing 3D DRAM at the request of Nvidia, its biggest customer, amid memory chip shortages",
+        "link": "https://www.techmeme.com/261106/p13#a261106p13",
+        "description": "Sources: TSMC is considering expanding into manufacturing 3D DRAM at the request of Nvidia, its biggest customer, amid memory chip shortages — Taiwan Semiconductor Manufacturing Co. is considering expanding into the advanced memory chip manufacturing sector, a move that would give …",
+        "published": "2026-11-06T15:05:48.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261106/i13.jpg",
+        "via": "The Information",
+        "baseScore": 11,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "nvidia",
+          "tsmc",
+          "chip",
+          "semiconductor"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Nvidia’s AI Chip Exports Emerge as Target in Democratic Congress",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/nvidia-s-ai-chip-exports-emerge-as-target-in-democratic-congress",
+        "description": "Nvidia Corp. is in for tougher scrutiny from a new Democratic majority in Congress that’s set to demand answers from Chief Executive Officer Jensen Huang about whether the company is doing enough to keep its coveted artificial intelligence chips out of the hands of China and other US adversaries.",
+        "published": "2026-11-06T14:56:59.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 10,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "nvidia",
+          "chip",
+          "jensen huang",
+          "artificial intelligence"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "OpenAI is stepping back from NDAs for data center projects",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+        "description": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials. Many data center projects have come under scrutiny for relying on NDAs to hide discussions between developers and local officials. However, OpenAI says it is now allowing \"only narrow protections covering legit",
+        "published": "2026-11-06T00:37:56.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "openai",
+          "data center"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Protesters Break Into Microsoft Data Center in Amsterdam",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/protesters-break-into-microsoft-data-center-site-in-amsterdam",
+        "description": "More than 100 protesters broke into a data center construction site for Microsoft Corp. in Amsterdam on Friday, part of wider coordinated action planned across Europe against such facilities through the weekend.",
+        "published": "2026-11-06T13:47:38.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "microsoft",
+          "data center"
+        ],
+        "category": "chips_cloud",
+        "alsoIn": [
+          {
+            "source": "Tom's Hardware",
+            "title": "Protesters storm Microsoft AI data center construction site",
+            "link": "https://www.tomshardware.com/tech-industry/data-centers/protesters-storm-microsoft-ai-data-center-construction-site-amsterdam-reportedly-first-of-85-targeted-actions-across-europe"
+          },
+          {
+            "source": "DataCenterDynamics",
+            "title": "More than 100 protesters break into Microsoft data center construction site in Amsterdam",
+            "link": "https://www.datacenterdynamics.com/en/news/more-than-100-protesters-break-into-microsoft-data-center-construction-site-in-amsterdam/"
+          }
+        ]
+      },
+      {
+        "title": "IBM, AMD Mix Quantum and AI at U.S. National Lab",
+        "link": "https://www.eetimes.com/ibm-amd-mix-quantum-and-ai-at-u-s-national-lab/",
+        "description": "IBM, AMD, and Oak Ridge launch hybrid quantum-classical system to accelerate quantum-error correction research ahead of 2028. The post IBM, AMD Mix Quantum and AI at U.S. National Lab appeared first on EE Times.",
+        "published": "2026-11-06T14:10:57.000Z",
+        "source": "EE Times",
+        "sourceKey": "eetimes",
+        "priority": 2,
+        "image": "https://www.eetimes.com/wp-content/uploads/IBM-ORNL-AMD-co-design-platform-for-quantum-error-correction_Ribbon-Cutting.jpg",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "amd",
+          "ibm"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Sources: Nvidia is requiring Southeast Asian customers seeking Nvidia Cloud Partner status to enroll in a program that tracks the locations of their AI chips",
+        "link": "https://www.techmeme.com/261106/p8#a261106p8",
+        "description": "Sources: Nvidia is requiring Southeast Asian customers seeking Nvidia Cloud Partner status to enroll in a program that tracks the locations of their AI chips — Nvidia Corp. is stepping up monitoring of AI accelerators sold in Southeast Asia, a strategic step to curtail semiconductor smuggling …",
+        "published": "2026-11-06T11:30:01.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261106/i8.jpg",
+        "via": "Bloomberg",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "nvidia",
+          "chip",
+          "semiconductor"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Nvidia tightens tracking of AI GPUs in Southeast Asia as Chinese chip smuggling draws scrutiny, report claims",
+        "link": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-tightens-tracking-of-ai-gpus-in-southeast-asia-as-chinese-chip-smuggling-draws-scrutiny-report-claims-cloud-providers-must-join-monitoring-program-to-qualify-for-official-partner-status",
+        "description": "Nvidia is requiring Southeast Asian cloud providers seeking Nvidia Cloud Partner status to enroll in its Fleet Intelligence tracking program, giving the chipmaker greater visibility into where its AI GPUs are deployed. The move comes as Washington increases pressure over suspected chip smuggling into China, with investigations involving Megaspeed International and Super Micro highlighting the challenges of enforcing U.S. export restrictions",
+        "published": "2026-11-06T13:49:33.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/bBGEYE8htq38xZgt4xCdTQ-1920-80.jpg",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "nvidia",
+          "chip",
+          "gpu",
+          "chipmaker"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Democrats, with Elizabeth Warren a top contender to chair Senate Banking, are poised to step up oversight of Nvidia over chip exports and circular financing",
+        "link": "https://www.techmeme.com/261106/p15#a261106p15",
+        "description": "Democrats, with Elizabeth Warren a top contender to chair Senate Banking, are poised to step up oversight of Nvidia over chip exports and circular financing — Nvidia Corp. is in for tougher scrutiny from a new Democratic majority in Congress that's set to demand answers …",
+        "published": "2026-11-06T15:51:06.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261106/i15.jpg",
+        "via": "Bloomberg",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "nvidia",
+          "chip"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Six pallets of Nvidia GPUs worth $11.4 million stolen in California cargo heist",
+        "link": "https://www.tomshardware.com/pc-components/gpus/six-pallets-of-nvidia-gpus-worth-usd11-4-million-stolen-in-california-cargo-heist-authorities-investigate-after-truck-posing-as-a-food-transport-company-disappears",
+        "description": "The latest incident comes amid growing concerns over GPU theft, with experts warning that advanced Nvidia chips can command significantly higher prices abroad and could end up in black-market channels.",
+        "published": "2026-11-06T13:35:16.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/WJysu4KWtLyywCbvdHhuLF-1920-80.jpg",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "nvidia",
+          "gpu",
+          "chip"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Ongoing labor dispute sees Micron pause construction at its $4.5bn memory fab in Taoyuan, Taiwan – report",
+        "link": "https://www.datacenterdynamics.com/en/news/ongoing-labor-dispute-sees-micron-pause-construction-at-its-45bn-memory-fab-in-taoyuan-taiwan-report/",
+        "description": "Micron is latest memory chip maker to face push back from employees over profit sharing bonuses",
+        "published": "2026-11-06T14:11:31.000Z",
+        "source": "DataCenterDynamics",
+        "sourceKey": "dcd",
+        "priority": 2,
+        "image": "https://media.datacenterdynamics.com/media/images/image-gallery-high-res-inotera.2e16d0ba.fill-750x500.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "micron",
+          "chip"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Almost 600,000 Nvidia H200s stranded in Hong Kong as Chinese gov’t stalls on import approvals – report",
+        "link": "https://www.datacenterdynamics.com/en/news/almost-600000-nvidia-h200s-stranded-in-hong-kong-as-chinese-govt-stalls-on-import-approvals-report/",
+        "description": "Some companies have secured limited amount of chips as large-volume shipments remain stalled",
+        "published": "2026-11-06T14:08:20.000Z",
+        "source": "DataCenterDynamics",
+        "sourceKey": "dcd",
+        "priority": 2,
+        "image": "https://media.datacenterdynamics.com/media/images/GettyImages-1199877228.2e16d0ba.fill-750x500.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "nvidia",
+          "chip"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Nvidia wants to repurpose over 130 old telco buildings as tiny data centers, report claims",
+        "link": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-wants-to-repurpose-over-130-old-telco-buildings-as-tiny-data-centers-report-claims-company-in-talks-with-brightspeed-after-pitching-idea-to-parent-company-apollo-global-management",
+        "description": "Brightspeed has over 130 facilities located across the U.S., with Nvidia estimating that they could produce up to 1GW of compute capacity.",
+        "published": "2026-11-06T12:45:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/sxvDhNiPDVHWxcdqjWitH4-1920-80.png",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "nvidia",
+          "data center"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Google announces $17bn data center campus in Cheyenne, Wyoming",
+        "link": "https://www.datacenterdynamics.com/en/news/google-announces-17bn-data-center-campus-in-cheyenne-wyoming/",
+        "description": "Set to be powered via fuel cells and gas generation, coupled with CCS",
+        "published": "2026-11-06T11:56:37.000Z",
+        "source": "DataCenterDynamics",
+        "sourceKey": "dcd",
+        "priority": 2,
+        "image": "https://media.datacenterdynamics.com/media/images/GettyImages-511298918.2e16d0ba.fill-750x500.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "google",
+          "data center"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Microsoft design change delays Iren's data center delivery in Texas",
+        "link": "https://www.datacenterdynamics.com/en/news/microsoft-design-change-delays-irens-data-center-delivery-in-texas/",
+        "description": "$4bn ARR now targeting online date in January",
+        "published": "2026-11-06T11:31:00.000Z",
+        "source": "DataCenterDynamics",
+        "sourceKey": "dcd",
+        "priority": 2,
+        "image": "https://media.datacenterdynamics.com/media/images/iren_childress.2e16d0ba.fill-750x500.png",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "microsoft",
+          "data center"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "China’s AI chipmakers report first profits, but will the trend continue?",
+        "link": "https://www.scmp.com/tech/big-tech/article/3373532/chinas-ai-chipmakers-report-first-profits-will-trend-continue",
+        "description": "China’s pure-play artificial intelligence chipmakers crossed an important milestone in the third quarter as several firms swung into profit, but severe supply chain hurdles and soaring memory costs cloud their long-term growth prospects. Domestic graphics processing unit (GPU) developers including Moore Threads, MetaX and Iluvatar CoreX are racing to fill the market void left by Nvidia, whose high-end processors face strict US export controls. These home-grown firms are competing fiercely to win",
+        "published": "2026-11-06T10:30:06.000Z",
+        "source": "SCMP",
+        "sourceKey": "scmp_tech",
+        "priority": 2,
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/06/db6e0525-126a-4855-b978-79913acd7c45_f9decc7b.jpg?itok=4bvRHLeX&v=1793951798",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "chipmaker",
+          "nvidia",
+          "artificial intelligence",
+          "gpu"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "GPU Futures Hopes Hit Another Roadblock as CME Delays Launch for Second Time",
+        "link": "https://www.theinformation.com/briefings/gpu-futures-hopes-hit-another-roadblock-cme-delays-launch-second-time",
+        "description": "The launch of futures tied to rental prices on Nvidia GPUs has hit a second snag after the CME agreed to delay its launch for another 60 days, taking any approval into January. The Commodity Futures Trading Commission asked the CME, the exchange behind the likely first product to be brought to ...",
+        "published": "2026-11-06T15:47:23.000Z",
+        "source": "The Information",
+        "sourceKey": "theinformation",
+        "priority": 1,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "gpu",
+          "nvidia"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": ".Geek - Nvidia brengt nostalgische Steam-demo uit voor 20-jarig jubileum van 8800 GTX",
+        "link": "https://tweakers.net/geek/254258/nvidia-brengt-nostalgische-steam-demo-uit-voor-20-jarig-jubileum-van-8800-gtx.html",
+        "description": "Wie met nostalgie terugdenkt aan de videokaarten van weleer, wordt door Nvidia op zijn wenken bediend. Ter viering van het 20-jarige jubileum van de GeForce 8800 GTX, Nvidia's eerste videokaart met CUDA-ondersteuning, brengt het bedrijf een interactieve demo uit die spelers terugbrengt naar 2006.",
+        "published": "2026-11-06T15:27:16.000Z",
+        "source": "Tweakers",
+        "sourceKey": "tweakers",
+        "priority": 2,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "nvidia"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Home Office cloud services contract may net AWS £1B",
+        "link": "https://www.theregister.com/public-sector/2026/11/06/home-office-cloud-services-contract-may-net-aws-1b/5308106",
+        "description": "Planning notice puts renewal at nearly twice the 2023 value, just as Whitehall frets about US tech dependence",
+        "published": "2026-11-06T12:47:00.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=252143&width=800",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "aws"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Intel’s next-gen Nova Lake needs new motherboards — what we expect from Nova Point and Z990, Z970, and B960 chipsets",
+        "link": "https://www.tomshardware.com/pc-components/chipsets/intels-next-gen-nova-lake-needs-new-motherboards-what-we-expect-from-nova-point-and-z990-z970-and-b960-chipsets",
+        "description": "New Intel CPUs mean a new LGA 1954 socket and new motherboards. Here’s what we know about Nova Point’s Z990, Z970, and B960 chipsets, including more PCIe 5.0, Thunderbolt 5, faster base RAM speeds, and active cooling",
+        "published": "2026-11-06T12:00:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/3JguTaB6k8VyZTixTzb5tE-1920-80.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "intel"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "ECB Considers Review of Bank Data Center Lending on AI Risk",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/ecb-considers-review-of-banks-data-center-lending-as-fears-rise",
+        "description": "The euro area’s top banking supervisor is considering a review of lending related to data centers, seeking to gauge potential risks from swings in AI sentiment and valuations.",
+        "published": "2026-11-06T14:13:17.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "data center",
+          "valuation"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Cleanview: ~40% of pending US data center capacity is planned to be built in states where newly elected governors have pledged to stop or pause construction (Bloomberg)",
+        "link": "https://www.techmeme.com/261106/p6#a261106p6",
+        "description": "Bloomberg: Cleanview: ~40% of pending US data center capacity is planned to be built in states where newly elected governors have pledged to stop or pause construction — A new crop of Democratic governors-elect campaigned on putting the brakes on artificial intelligence development.",
+        "published": "2026-11-06T09:25:00.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261106/i6.jpg",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "data center",
+          "artificial intelligence"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Sources: China's top memory maker YMTC plans to source up to 70% of equipment for its fourth chip factory locally, up from just over 50% for its third factory (Reuters)",
+        "link": "https://www.techmeme.com/261106/p3#a261106p3",
+        "description": "Reuters: Sources: China's top memory maker YMTC plans to source up to 70% of equipment for its fourth chip factory locally, up from just over 50% for its third factory — China's largest flash memory chipmaker, Yangtze Memory Technologies Co (YMTC), plans to source as much as 70% of the equipment …",
+        "published": "2026-11-06T06:20:13.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261106/i3.jpg",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "chip",
+          "chipmaker"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Asian tech stocks plunge amid fears US Democrats may delay data centers; Taiwan's Taiex sees a record intraday point drop, Kospi falls 8.7%, and Nikkei 6.7%",
+        "link": "https://www.techmeme.com/261106/p2#a261106p2",
+        "description": "Asian tech stocks plunge amid fears US Democrats may delay data centers; Taiwan's Taiex sees a record intraday point drop, Kospi falls 8.7%, and Nikkei 6.7% — TOKYO — Asian stock markets tied to the artificial intelligence boom plummeted on Friday morning following a tech sell-off …",
+        "published": "2026-11-06T05:40:00.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261106/i2.jpg",
+        "via": "Nikkei Asia",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "data center",
+          "artificial intelligence"
+        ],
+        "category": "chips_cloud"
+      }
+    ],
+    "ev_autonomous": [
+      {
+        "title": "Tesla Is Killing The Cybertruck To Make Room For More Robotaxis",
+        "link": "https://insideevs.com/news/814618/tesla-cybertruck-production-ending-official/",
+        "description": "Tesla CEO Elon Musk said the company will “wind down” production of the controversial pickup in Texas.",
+        "published": "2026-11-06T08:00:25.000Z",
+        "source": "InsideEVs",
+        "sourceKey": "insideevs",
+        "priority": 2,
+        "image": "https://cdn.motor1.com/images/mgl/L3x4qG/s3/2024-breakthrough-award-nominee-the-tesla-cybertruck.jpg",
+        "baseScore": 12,
+        "relevanceScore": 15,
+        "matchedKeywords": [
+          "tesla",
+          "robotaxi",
+          "elon musk",
+          "ceo"
+        ],
+        "category": "ev_autonomous",
+        "alsoIn": [
+          {
+            "source": "Techmeme",
+            "title": "Elon Musk says Tesla plans to wind down production of the Cybertruck at its Texas Gigafactory around mid-2027 \"to make room for increased Cybercab production\"",
+            "link": "https://www.techmeme.com/261106/p7#a261106p7"
+          },
+          {
+            "source": "TechCrunch",
+            "title": "Tesla will stop making the Cybertruck in 2027",
+            "link": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/"
+          },
+          {
+            "source": "Engadget",
+            "title": "Tesla is 'winding down' Cybertruck production at its Texas Gigafactory",
+            "link": "https://www.engadget.com/2308875/tesla-is-winding-down-cybertruck-production-at-its-texas-gigafactory/"
+          },
+          {
+            "source": "Teslarati",
+            "title": "Tesla is ending Cybertruck production",
+            "link": "https://www.teslarati.com/tesla-is-ending-cybertruck-production/"
+          },
+          {
+            "source": "CNBC",
+            "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
+            "link": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html"
+          },
+          {
+            "source": "Electrek",
+            "title": "Tesla hikes Cybertruck prices up to 10% after announcing it will kill production",
+            "link": "https://electrek.co/2026/11/06/tesla-raises-cybertruck-prices-after-ending-production/"
+          }
+        ]
+      },
+      {
+        "title": "A long-term Elon Musk backer is cashing out of Tesla — and cutting its SpaceX exposure",
+        "link": "https://www.cnbc.com/2026/11/06/scottish-mortgage-tesla-spacex.html",
+        "description": "Scottish Mortgage Investment Trust has cut its SpaceX holding to 11.1% of assets and sold its remaining Tesla stake.",
+        "published": "2026-11-06T13:51:32.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_top",
+        "priority": 1,
+        "image": null,
+        "baseScore": 12,
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "tesla",
+          "spacex",
+          "elon musk"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Tesla to Wind Down Cybertruck Production as Elon Musk Pivots to Robotaxis and AI",
+        "link": "https://decrypt.co/382703/tesla-to-wind-down-cybertruck-production-as-elon-musk-pivots-to-robotaxis-and-ai",
+        "description": "The Tesla CEO said the Texas plant will make room for the Cybercab, as sales of the stainless-steel pickup run far below capacity.",
+        "published": "2026-11-06T13:53:04.000Z",
+        "source": "Decrypt",
+        "sourceKey": "decrypt",
+        "priority": 3,
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/tesla-cybertruck-decrypt-style-gID_7.jpg@png",
+        "baseScore": 12,
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "tesla",
+          "elon musk",
+          "robotaxi",
+          "ceo"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Tesla to end Cybertruck production as sales stall at ~10% of plan",
+        "link": "https://electrek.co/2026/11/06/tesla-ending-cybertruck-production-sales-10-percent-plan/",
+        "description": "Tesla is ending Cybertruck production. CEO Elon Musk announced early Friday that the automaker will “wind down” the electric pickup at Gigafactory Texas around the middle of 2027, about three and a half years after the first deliveries. Musk says it’s to make room for more Cybercab production. But Giga Texas isn’t short on space. The Cybertruck is short on buyers, and it sells at roughly a tenth of the 250,000 units a year Tesla built its line for. more…",
+        "published": "2026-11-06T11:33:25.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Cybertruck_34-e1793032990825.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "tesla",
+          "elon musk",
+          "ceo"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "BYD’s electric hypercar hits 312 mph, first production car over 500 km/h",
+        "link": "https://electrek.co/2026/11/06/byd-yangwang-u9-xtreme-first-production-car-500-km-h/",
+        "description": "BYD’s Yangwang U9 Xtreme just reached 503.17 km/h (312.66 mph) on a closed highway in Abu Dhabi, making it the first production car ever to go faster than 500 km/h. The FIA and Guinness World Records both recognized the run. It’s the all-electric hypercar’s second top-speed record in just over a year, and the one it broke was its own. more…",
+        "published": "2026-11-06T11:40:27.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BYDs-Yangwang-U9-Xtreme-just-reached-503.17-kmh-312.66-mph.jpeg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "byd",
+          "world record"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Tesla unveils AI accelerator roadmap, adopts new 'SI' branding in 'Super Intelligence' push",
+        "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/tesla-unveils-ai-accelerator-roadmap-adopts-new-si-branding-in-super-intelligence-push-si6-to-bring-80x-more-compute-performance-dojo-3-headed-to-space",
+        "description": "Tesla is ramping up its custom silicon ambitions with training-oriented Dojo D3 that can eventually go to orbital data centers and massive SI6 inference accelerator.",
+        "published": "2026-11-06T12:00:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/c7SXsstwCWqWGyvTD7KQAA-1920-80.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "tesla",
+          "data center"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Tesla stellt Cybertruck-Produktion in Texas ein",
+        "link": "https://www.heise.de/news/Tesla-stellt-Cybertruck-Produktion-in-Texas-ein-11515652.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "Tesla beendet die Produktion seines erfolglosen Cybertrucks in Texas. Die frei werdenden Kapazitäten sollen zur Produktion des Cybercab genutzt werden.",
+        "published": "2026-11-06T13:43:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/6/8/0/8/shutterstock_1634989399-0de12ba082621afe.jpeg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "tesla"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Lucid teases its cheaper sub-$50,000 Cosmos EV in new video and images",
+        "link": "https://electrek.co/2026/11/06/lucid-cosmos-teaser-cheaper-ev-new-images/",
+        "description": "Lucid has released a new teaser video of what looks like the Cosmos, its upcoming sub-$50,000 midsize electric SUV and the car that’s supposed to turn Lucid into a volume automaker. The clip gives us the clearest look yet at the Cosmos’ lighting, front and rear, after months of camouflaged prototype sightings. But the car itself is still about a year away. more…",
+        "published": "2026-11-06T13:42:07.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/image.png?w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "lucid"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "No more Cybertrucks; Musk moves on from the angular metallic flop",
+        "link": "https://arstechnica.com/cars/2026/11/the-cybertruck-is-dead-makes-way-for-cybercab-says-elon-musk/",
+        "description": "Tesla wanted to unseat the Ford F-150, instead it made the Edsel look successful.",
+        "published": "2026-11-06T13:50:20.000Z",
+        "source": "Ars Technica",
+        "sourceKey": "arstechnica",
+        "priority": 1,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303012424-1152x648.jpg",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "tesla"
+        ],
+        "category": "ev_autonomous"
+      }
+    ],
     "other": [
       {
         "title": "Meta, Google, and TikTok sue California AG over teen social media law",
@@ -475,9 +1397,407 @@
           "tiktok"
         ],
         "category": "other"
+      },
+      {
+        "title": "Google Find Hub is catching up to Apple Find My with left-behind alerts",
+        "link": "https://www.androidauthority.com/google-find-hub-left-behind-reminders-rolling-out-3732383/",
+        "description": "Better late than never.",
+        "published": "2026-11-06T09:25:09.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2024/06/Motorola-Moto-Tag-in-hand.jpg",
+        "baseScore": 8,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "google",
+          "apple"
+        ],
+        "category": "other",
+        "alsoIn": [
+          {
+            "source": "Engadget",
+            "title": "Google's Find Hub can finally notify you if you've left a tracker behind",
+            "link": "https://www.engadget.com/2308903/googles-find-hub-can-finally-notify-you-if-youve-left-a-tracker-behind/"
+          }
+        ]
+      },
+      {
+        "title": "Democrat orders Apple to disclose details of Trump ballroom donation",
+        "link": "https://appleinsider.com/articles/26/11/06/democrat-orders-apple-to-disclose-details-of-trump-ballroom-donation?utm_source=rss",
+        "description": "Tech companies including Apple have been told to turn over documentation regarding donations to the Trump ballroom, and threatened with subpoenas if they do not. Apple's Tim Cook and President Donald Trump It's previously been reported that Apple donated $25 million to Trump's planned ballroom at the White House. Now following the midterms, such donations will be examined by the Permanent Subcommittee on Investigations under its new Democrat leader, Senator Richard Blumenthal. According to Reute",
+        "published": "2026-11-06T12:42:14.000Z",
+        "source": "AppleInsider",
+        "sourceKey": "appleinsider",
+        "priority": 2,
+        "image": "https://photos5.appleinsider.com/gallery/64642-134691-Cook-Trump-shake-xl.jpg",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "apple",
+          "tim cook"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Apple confirms $7.5 billion bond sale following strong investor demand",
+        "link": "https://9to5mac.com/2026/11/06/apple-confirms-7-5-billion-bond-sale-following-strong-investor-demand/",
+        "description": "Following yesterday’s report that Apple was preparing to raise approximately $7 billion through a bond offering, the company has now finalized terms with the SEC, confirming a slightly larger amount. Here are the details. more…",
+        "published": "2026-11-06T12:15:06.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/Apple-generates-2.4-million-per-employee-but-is-only-third-in-the-ranking.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 5,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "apple",
+          "billion"
+        ],
+        "category": "other",
+        "alsoIn": [
+          {
+            "source": "AppleInsider",
+            "title": "Apple's bond sale is now confirmed at $7.5 billion",
+            "link": "https://appleinsider.com/articles/26/11/06/apples-bond-sale-is-now-confirmed-at-75-billion?utm_source=rss"
+          }
+        ]
+      },
+      {
+        "title": "Apple Store holiday return rules are in effect",
+        "link": "https://appleinsider.com/articles/26/11/06/apple-store-holiday-return-rules-are-in-effect?utm_source=rss",
+        "description": "As it always does, in the run up to the holidays Apple has extended its return window. With some exceptions, buyers now have until early January 2027 to change their minds. Apple Fifth Avenue - image credit: Apple Apple does this every year, and each time the broad strokes are the same. From now until Christmas Day, most items can be returned until a date in early January. For this year, Apple has announced that the return date is January 8, 2027. It has also, though, detailed what is excluded f",
+        "published": "2026-11-06T14:03:21.000Z",
+        "source": "AppleInsider",
+        "sourceKey": "appleinsider",
+        "priority": 2,
+        "image": "https://media.appleinsider.com/gallery/69728-146976-000-lead-Apple-Store-xl.jpg",
+        "baseScore": 4,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "other",
+        "alsoIn": [
+          {
+            "source": "MacRumors",
+            "title": "Apple's Extended Return Policy Now in Effect for 2026 Holiday Season",
+            "link": "https://www.macrumors.com/2026/11/06/apple-holiday-return-policy-2026/"
+          }
+        ]
+      },
+      {
+        "title": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
+        "link": "https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale",
+        "description": "Buying the 4K Blu-ray disc version of KPop Demon Hunters was already going to be a wise idea for some people, especially those who primarily keep their $26.99 Netflix Premium subscription just to watch the hit animated flick in 4K. But at just $24.99 from Barnes and Noble instead of its original $49.95 price, it’s easier than ever to recommend. One important thing to note: it’s unavailable to ship from Barnes and Noble, but you can find a discounted copy at most retail stores, and the site makes",
+        "published": "2026-11-06T15:27:09.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/KpopDemonHunters_ProRes422HQ_SDR_2ch_20250424.01_04_39_22.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "netflix"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Software-update - ShareX 22.2.0",
+        "link": "https://tweakers.net/downloads/78944/sharex-2220.html",
+        "description": "Versie 22.2.0 van ShareX is uitgekomen. Met dit opensourceprogramma kunnen zowel statische als bewegende beelden worden afgevangen, waarna er vervolgens verschillende bewerkingen op los kunnen worden gelaten. Wanneer je tevreden bent met het resultaat kan het worden opgeslagen naar zo'n tachtig bestemmingen, zoals Flickr, Pastebin, Dropbox, Google Drive, OneDrive, Amazon S3 en Streamable. Ook kan de functionaliteit verder uitgebreid worden met zelfgeschreven uploadmodules om ook dit onderdeel na",
+        "published": "2026-11-06T15:30:00.000Z",
+        "source": "Tweakers",
+        "sourceKey": "tweakers",
+        "priority": 2,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google",
+          "amazon"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Sony WH-1000XM5 fall back to half-price on Amazon",
+        "link": "https://www.androidauthority.com/amazon-deal-sony-wh-1000xm5-3732610/",
+        "description": "Sony WH-1000XM5 headphones drop to an all-time low of $198 on Amazon, with premium ANC and up to 30 hours of battery life.",
+        "published": "2026-11-06T15:19:02.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2024/10/Sony-WH-1000XM5-headphones-laying-flat-on-wooden-table.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "amazon"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Apple Stores roll out holiday decorations to kick off the season",
+        "link": "https://9to5mac.com/2026/11/06/apple-stores-roll-out-holiday-decorations-to-kick-off-the-season-2/",
+        "description": "The holidays are coming, and Apple Stores around the world are rolling out decorations today to celebrate. Here’s a look at this year’s holiday decor. more…",
+        "published": "2026-11-06T15:10:52.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2022/12/Mac-accessories-holidays.jpg.webp?w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "A Stranger Things prequel series is coming to Netflix in 2028",
+        "link": "https://www.engadget.com/2309062/a-stranger-things-prequel-series-is-coming-to-netflix-in-2028/",
+        "description": "Other Worlds: A Stranger Things Adventure takes place in Nevada in the 1950s.",
+        "published": "2026-11-06T15:09:52.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/a-stranger-things-prequel-series-is-coming-to-netflix-in-2028/l-intro-1793977602.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "netflix"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Big Google Antigravity update brings Remote Agents, Voice Mode, and redesign",
+        "link": "https://9to5google.com/2026/11/06/google-antigravity-remote-agents-voice-mode/",
+        "description": "Google is rolling out a big update to Antigravity this week that features a new design, Voice Mode, and Remote Agents. more…",
+        "published": "2026-11-06T15:01:00.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Antigravity-redesign-cover.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Apple Store now offers extended holiday returns for all products",
+        "link": "https://9to5mac.com/2026/11/06/apple-store-now-offers-extended-holiday-returns-for-all-products-2026/",
+        "description": "Apple has rolled out its holiday theming at the online Apple Store, and with it a new, extended return policy has just been put into place. Here are the details. more…",
+        "published": "2026-11-06T14:38:48.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-store-austin-john-ternus-deidre-duo-launch.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Apple Music Classical Updated With New Icon and Refreshed Design",
+        "link": "https://www.macrumors.com/2026/11/06/apple-music-classical-updated/",
+        "description": "Apple today released Apple Music Classical version 4.1, with a new black-and-white app icon and an updated interface. The redesigned icon retains the app's treble clef, but now rendered in shaded black against a white background. The change brings ‌Apple Music‌ Classical in line with ‌Apple Music‌'s new visual identity, which Apple introduced last month, replacing its familiar red branding with a monochrome appearance. The new version of the app also features blue accents for selected tabs, play",
+        "published": "2026-11-06T13:19:47.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/11/apple-music-classical-hero.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Twelve South’s new Cablesnap charger has a built-in retractable USB-C cable",
+        "link": "https://9to5mac.com/2026/11/06/twelve-south-retractable-usb-c-charger/",
+        "description": "Popular Apple accessory maker Twelve South is launching a new retractable Cablesnap 65W travel charger this week. It has a built-in USB-C cable, alongside an additional USB-C port and USB-A port. You can order the new Cablesnap 65W on Amazon today for $49.99. more…",
+        "published": "2026-11-06T13:10:14.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Twelve-South-Cablesnap-Retractable-USB-C-Travel-Charger-2026.jpg.webp?w=1500",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple",
+          "amazon"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Microsoft ist kein Schicksal: Warum Europa jetzt handeln muss",
+        "link": "https://www.heise.de/meinung/Microsoft-ist-kein-Schicksal-Warum-Europa-jetzt-handeln-muss-11514912.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "Die britische Wettbewerbsbehörde hat Microsofts Ökosystem untersucht und damit einen Maßstab geschaffen, den Europa nicht länger ignorieren darf.",
+        "published": "2026-11-06T12:37:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/6/4/3/2/overlay-mixer-20261106-111318-c4f53233b97e5a49.png",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "microsoft"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "heise+ | iMac M6 im Test: Das kann Apples neuer All-in-One-Rechner",
+        "link": "https://www.heise.de/tests/iMac-M6-im-Test-Das-kann-Apples-neuer-All-in-One-Rechner-11515399.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+        "description": "Apple hat dem iMac einen neuen Prozessor spendiert: Aus M4 wird M6. Unser Test zeigt, was das bringt und was sich sonst noch geändert hat.",
+        "published": "2026-11-06T12:19:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/6/6/7/9/55115acdb238b7f4f126064661d204682866774a65aa4cdde31d4d1fd4491b87-c15eedea8600710a.png",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "How I freed up 4GB of storage to avoid paying for Google One",
+        "link": "https://www.androidauthority.com/free-up-storage-avoid-paying-google-one-how-3731150/",
+        "description": "I cleared enough clutter to avoid paying for another monthly subscription.",
+        "published": "2026-11-06T11:30:50.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/Google-One-Stroage-Full-scaled.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Apple checkt bald iCloud-Links auf „Harmful Content“",
+        "link": "https://www.heise.de/news/Apple-checkt-bald-iCloud-Links-auf-Harmful-Content-11514250.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "Wer Fotos oder Dateien aus seinem privaten iCloud-Konto mit anderen über Apples Publikationsdienst weitergibt, muss ab sofort mit einer Prüfung rechnen.",
+        "published": "2026-11-06T11:16:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/6/0/8/8/icloudplus-fd079e3c56c0815c.jpeg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Attacken auf Cisco UCS Central Software und Unified CM können bevorstehen",
+        "link": "https://www.heise.de/news/Schadcode-Attacken-auf-Cisco-UCS-Central-Software-und-Unified-CM-moeglich-11515138.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "Sicherheitsupdates schließen Lücken in Cisco UCS Central Software und Cisco Unified Communications Manager.",
+        "published": "2026-11-06T11:11:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/6/5/4/6/cisco2-56c9e8a0eac73110.png",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "cisco"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "I still can’t believe how bad the Google Wallet redesign is",
+        "link": "https://www.androidauthority.com/google-wallet-card-redesign-still-bad-3730822/",
+        "description": "There's still time to change this, Google.",
+        "published": "2026-11-06T11:00:06.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/google-wallet-card-redesign-hero-2026-2-scaled.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "NHS wants a second opinion on Palantir's glowing self-assessments",
+        "link": "https://www.theregister.com/public-sector/2026/11/06/nhs-wants-a-second-opinion-on-palantirs-glowing-self-assessments/5307809",
+        "description": "Supplier told to clear benefit claims with health chiefs, though enforcing approval could prove tricky",
+        "published": "2026-11-06T09:30:00.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=5297443&width=800",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "palantir"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Stranger Things is getting a live-action spinoff called Other Worlds",
+        "link": "https://www.theverge.com/entertainment/1028608/other-worlds-a-stranger-things-adventure-netflix-announce-trailer",
+        "description": "Netflix isn't done with Hawkins, Indiana just yet. The streamer just announced a live-action spinoff of Stranger Things which is expected to debut in 2028. It's called Other Worlds: A Stranger Things Adventure. There aren't a lot of details, but the show will be going back in time quite a bit. According to Netflix, Other Worlds is \"a prequel set in the 1950s, before Stranger Things and before the stage play Stranger Things: The First Shadow.\" Franchise creators the Duffer brothers are back on bo",
+        "published": "2026-11-06T14:25:48.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Other_Worlds_Logo_v37_16x9.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "netflix"
+        ],
+        "category": "other"
       }
     ],
     "business": [
+      {
+        "title": "Anthropic IPO Valuation Under Pressure After Tech Rout",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-06/anthropic-ipo-valuation-under-pressure-after-tech-rout-video",
+        "description": "The selloff in tech stocks could hurt Anthropic. Potential buyers are discussing a valuation range of $1.2 trillion to $1.3 trillion for the company, which could go public before Thanksgiving. Mandeep Singh of Bloomberg Intelligence has more. (Source: Bloomberg)",
+        "published": "2026-11-06T15:40:36.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 12,
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "anthropic",
+          "ipo",
+          "valuation"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Anthropic IPO Buyers See Valuation Down as Low as $1.2 Trillion",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+        "description": "Anthropic PBC’s initial public offering plans ran into a punishing post-election selloff, prompting a rethink among prospective investors of the company’s expected valuation.",
+        "published": "2026-11-06T13:12:57.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_markets",
+        "priority": 1,
+        "image": null,
+        "baseScore": 12,
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "anthropic",
+          "ipo",
+          "valuation"
+        ],
+        "category": "business"
+      },
       {
         "title": "Sources: major investors are increasingly skeptical Anthropic's IPO can achieve a $1.5T valuation after a market selloff; one says it could be closer to $1T (Wall Street Journal)",
         "link": "https://www.techmeme.com/261105/p60#a261105p60",
@@ -489,6 +1809,24 @@
         "image": "http://www.techmeme.com/261105/i60.jpg",
         "baseScore": 12,
         "relevanceScore": 12,
+        "matchedKeywords": [
+          "anthropic",
+          "ipo",
+          "valuation"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Anthropic's $1.5 trillion IPO hits resistance as investors balk at valuation",
+        "link": "https://the-decoder.com/anthropics-1-5-trillion-ipo-hits-resistance-as-investors-balk-at-valuation/",
+        "description": "Anthropic's IPO is in trouble as investors push back on the $1.5 trillion valuation and the tech market sells off. The article Anthropic's $1.5 trillion IPO hits resistance as investors balk at valuation appeared first on The Decoder.",
+        "published": "2026-11-06T11:38:17.000Z",
+        "source": "The Decoder",
+        "sourceKey": "thedecoder",
+        "priority": 2,
+        "image": "https://the-decoder.com/wp-content/uploads/2026/10/claude_hiking.png",
+        "baseScore": 11,
+        "relevanceScore": 11,
         "matchedKeywords": [
           "anthropic",
           "ipo",
@@ -511,6 +1849,94 @@
           "apple",
           "ceo",
           "acquisition",
+          "earnings"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Hypercall to launch first Anthropic-linked pre-IPO options market",
+        "link": "https://www.theblock.co/news/markets/2026-11-06-hypercall-anthropic-linked-pre-ipo-options-market-435453",
+        "description": "Trading is expected to begin Monday, with calls, puts and more complex strategies available in select non-US jurisdictions.",
+        "published": "2026-11-06T13:00:00.000Z",
+        "source": "The Block",
+        "sourceKey": "theblock",
+        "priority": 3,
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/07/20210712_Finance_Crypto_Move.jpg",
+        "baseScore": 10,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "anthropic",
+          "ipo"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "TeraWulf’s bitcoin mining revenue falls 69% as HPC leasing surges amid Anthropic buildout",
+        "link": "https://www.theblock.co/news/business/2026-11-06-terawulfs-bitcoin-mining-revenue-falls-69-as-hpc-leasing-surges-amid-anthropic-buildout-435885",
+        "description": "TeraWulf reported $63 million in artificial intelligence-related quarterly HPC lease revenue, up 774% year over year.",
+        "published": "2026-11-06T13:40:22.000Z",
+        "source": "The Block",
+        "sourceKey": "theblock",
+        "priority": 3,
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-06-at-12.44.27.png",
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "anthropic",
+          "bitcoin",
+          "artificial intelligence"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Fox closes its $22B Roku acquisition well ahead of the expected 2027 date; Anthony Wood joins Fox's board and co-chairs a new unit with Tubi, Fox One, and Roku",
+        "link": "https://www.techmeme.com/261106/p14#a261106p14",
+        "description": "Fox closes its $22B Roku acquisition well ahead of the expected 2027 date; Anthony Wood joins Fox's board and co-chairs a new unit with Tubi, Fox One, and Roku — Surprise! Fox Corp. has closed its acquisition of streaming platform Roku, a deal valued at $22 billion, well ahead of the expected 2027 date.",
+        "published": "2026-11-06T15:30:01.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261106/i14.jpg",
+        "via": "Variety",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "acquisition",
+          "billion"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Fox bought Roku",
+        "link": "https://www.theverge.com/streaming/1028629/fox-roku-acquisition-close",
+        "description": "Fox has officially closed its $22 billion acquisition of Roku, the companies announced on Friday. With Roku under its umbrella, Fox now controls a major streaming platform that reaches more than 100 million households in the US. First announced in June, the deal will allow Fox to bring Fox Sports, news content, and local stations to Roku. \"I would expect that we can grow our viewership in the US with a combination of Roku technology, Roku's platform, the tremendous content that's on The Roku Cha",
+        "published": "2026-11-06T15:00:56.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STK284_AParkin_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "acquisition",
+          "billion"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Bitcoin Selloff Eases as Investors Explore Cautious Recovery",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/bitcoin-selloff-eases-as-investors-explore-cautious-recovery",
+        "description": "Bitcoin edged back into the green after a bruising selloff on Thursday swept through cryptocurrencies and other risky assets, pressured by lackluster chipmaker earnings and a Democratic sweep of Congress.",
+        "published": "2026-11-06T12:07:44.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "bitcoin",
+          "chipmaker",
           "earnings"
         ],
         "category": "business"
@@ -548,6 +1974,23 @@
         "category": "business"
       },
       {
+        "title": "Tech Stocks Rebound as Investors Weigh Valuations After Rout",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/ai-stocks-rebound-as-investors-weigh-whether-selloff-is-over",
+        "description": "US stocks showed signs of stabilizing Friday as dip buyers stepped in to support the battered artificial intelligence trade, though the severity of this week’s rout has left investors questioning whether the worst is over.",
+        "published": "2026-11-06T12:59:46.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "valuation",
+          "artificial intelligence"
+        ],
+        "category": "business"
+      },
+      {
         "title": "Tech Investor Dan Niles: AI Revenue Slowdown Demands Stock Picking",
         "link": "https://www.bloomberg.com/news/videos/2026-11-06/niles-ai-revenue-slowdown-demands-stock-picking-video",
         "description": "Niles Investment Management Founder and veteran tech investor Dan Niles says competition from open-source models is weighing on token prices and slowing revenue growth at leading artificial intelligence companies. He argues that steeper financing costs and postponed public listings mean valuations must adjust, requiring investors to be more selective rather than looking at all AI-linked assets as possible investment opportunities. (Source: Bloomberg)",
@@ -580,9 +2023,98 @@
           "earnings"
         ],
         "category": "business"
+      },
+      {
+        "title": "GlobalFoundries VP details FDX Fusion technology, sporting 7nm-class performance without the need for EUV tools — company targets 2030 for high-volume manufacturing, with planar transistors in tow",
+        "link": "https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-vp-details-fdx-fusion-technology-sporting-7nm-class-performance-without-the-need-for-euv-tools-company-targets-2030-for-high-volume-manufacturing-with-planar-transistors-in-tow",
+        "description": "GlobalFoundries reveals new details about its FDX Fusion technology, which promises 7nm-class performance and 8nm-class logic density using planar FD-SOI transistors without EUV lithography, shares what is next for FDX Fusion node, and the FDX program in general.",
+        "published": "2026-11-06T14:00:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/D9nDwQshY7nGhWkCejQmk5-1920-80.jpg",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "fusion"
+        ],
+        "category": "business"
       }
     ],
     "regulation": [
+      {
+        "title": "Sources: Democrats are eyeing Apple, Meta, and Elon Musk-led companies as early congressional investigation targets, after winning House and Senate majorities",
+        "link": "https://www.techmeme.com/261106/p9#a261106p9",
+        "description": "Sources: Democrats are eyeing Apple, Meta, and Elon Musk-led companies as early congressional investigation targets, after winning House and Senate majorities — Democrats are laying the groundwork to investigate some of the country's largest companies, setting off a scramble among executives who courted the president.",
+        "published": "2026-11-06T11:45:06.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261106/i9.jpg",
+        "via": "Washington Post",
+        "baseScore": 12,
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "apple",
+          "meta",
+          "elon musk"
+        ],
+        "category": "regulation"
+      },
+      {
+        "title": "TikTok’s For You page needs to change, says the EU",
+        "link": "https://www.theverge.com/tech/1028597/tiktok-eu-for-you-algorithm-rabbit-hole-effect",
+        "description": "The European Commission claims TikTok broke its online platform rules by offering a recommendation algorithm that creates a \"rabbit hole effect\" on users. In an announcement on Friday, the regulators allege TikTok's algorithm can harm users with \"endless and repeated exposure\" to content related to sadness, isolation, or body image. The findings come months after the EU Commission declared that TikTok's design is too \"addictive.\" While TikTok has implemented controls to mitigate the algorithm's",
+        "published": "2026-11-06T14:00:49.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK051_VRG_Illo_N_Barclay_9_tiktok.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 11,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "tiktok",
+          "european commission",
+          "eu commission"
+        ],
+        "category": "regulation"
+      },
+      {
+        "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+        "link": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+        "description": "Lawmakers want answers about Jensen Huang’s ties to an alleged Chinese intelligence asset.",
+        "published": "2026-11-06T14:13:32.000Z",
+        "source": "Ars Technica",
+        "sourceKey": "arstechnica",
+        "priority": 1,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg",
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang",
+          "ceo"
+        ],
+        "category": "regulation"
+      },
+      {
+        "title": "Preliminary findings: the EU says TikTok violated the DSA by not preventing its recommendation algorithm from trapping users in harmful content \"rabbit holes\"",
+        "link": "https://www.techmeme.com/261106/p10#a261106p10",
+        "description": "Preliminary findings: the EU says TikTok violated the DSA by not preventing its recommendation algorithm from trapping users in harmful content “rabbit holes” — The European Commission accused TikTok on Friday of failing to prevent its recommendation algorithm from drawing users into …",
+        "published": "2026-11-06T12:10:07.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261106/i10.jpg",
+        "via": "The Record",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "tiktok",
+          "european commission"
+        ],
+        "category": "regulation"
+      },
       {
         "title": "Jensen Huang Asked to Brief Congress Over Alleged Chinese Spy Plot",
         "link": "https://www.theinformation.com/briefings/jensen-huang-asked-brief-congress-alleged-chinese-spy-plot",
@@ -598,6 +2130,39 @@
           "jensen huang",
           "nvidia",
           "ceo"
+        ],
+        "category": "regulation"
+      },
+      {
+        "title": "EU-Kommission fordert Kaninchenbauverbot auf TikTok",
+        "link": "https://www.heise.de/news/DSA-Verfahren-EU-Kommission-droht-TikTok-mit-Strafe-11515238.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "Im Streit mit TikTok-Betreiber Bytedance verschärft die EU-Kommission die Gangart und verlangt massive Änderungen an den algorithmischen Empfehlungssystemen.",
+        "published": "2026-11-06T11:34:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/6/5/9/6/P-066743_00-04_01-ORIGINAL-957716-00615e80b132b74a.jpeg",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "tiktok",
+          "bytedance"
+        ],
+        "category": "regulation"
+      },
+      {
+        "title": "EU Escalates TikTok Probe Over Algorithmic ‘Rabbit Holes’",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/eu-escalates-tiktok-probe-over-algorithmic-rabbit-holes",
+        "description": "TikTok moved one step closer to a new European Union fine after regulators found its video-recommendation algorithm pushes users down “rabbit holes” of potentially harmful content, escalating an almost three-year probe into the video-sharing app.",
+        "published": "2026-11-06T11:00:04.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "tiktok"
         ],
         "category": "regulation"
       },
@@ -634,43 +2199,416 @@
           "regulation"
         ],
         "category": "regulation"
-      }
-    ],
-    "space": [
-      {
-        "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
-        "link": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
-        "description": "\"This is going to be a game-changer.\"",
-        "published": "2026-11-06T00:17:06.000Z",
-        "source": "Ars Technica",
-        "sourceKey": "arstechnica",
-        "priority": 1,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/News_BlueOrigin-Northstar-Engine-1152x648.webp",
-        "baseScore": 5,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "blue origin"
-        ],
-        "category": "space"
       },
       {
-        "title": "Blue Origins Rakete New Glenn soll Anfang 2027 wieder starten",
-        "link": "https://www.heise.de/news/Blue-Origins-Rakete-New-Glenn-soll-Anfang-2027-wieder-starten-11514122.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-        "description": "Blue Origin hat die Reparatur der bei der Explosion im Mai beschädigten Startrampe fast abgeschlossen. Die Rakete New Glenn kann aber erst Anfang 2027 starten.",
-        "published": "2026-11-06T04:58:00.000Z",
-        "source": "heise online",
-        "sourceKey": "heise",
+        "title": "EU: TikTok schendt DSA met schadelijke 'rabbit holes'",
+        "link": "https://tweakers.net/nieuws/254248/eu-tiktok-schendt-dsa-met-schadelijke-rabbit-holes.html",
+        "description": "TikTok schendt volgens onderzoek van de Europese Commissie de Digital Services Act (DSA). Het sociale medium zou met de For You-feed het rabbithole-effect versterken. Hierbij krijgen gebruikers steeds vaker content te zien waarin zij geïnteresseerd zijn, ook als die schadelijk is. TikTok kan nog in beroep gaan en riskeert een miljardenboete.",
+        "published": "2026-11-06T13:39:50.000Z",
+        "source": "Tweakers",
+        "sourceKey": "tweakers",
         "priority": 2,
-        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/6/0/2/3/hp-e81abdf4348b0bc7.jpeg",
+        "image": null,
         "baseScore": 4,
         "relevanceScore": 4,
         "matchedKeywords": [
-          "blue origin"
+          "tiktok"
         ],
-        "category": "space"
+        "category": "regulation"
+      },
+      {
+        "title": "DoJ's 'Super Intelligence Task Force' up and running",
+        "link": "https://www.theregister.com/ai-and-ml/2026/11/06/dojs-super-intelligence-task-force-up-and-running/5308074",
+        "description": "Organization responsible for countering anyone who wishes to scupper the US's ambition for AI supremacy",
+        "published": "2026-11-06T15:15:00.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=5308118&width=800",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "doj"
+        ],
+        "category": "regulation"
+      }
+    ],
+    "robotics": [
+      {
+        "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+        "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+        "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot cleaning service in…",
+        "published": "2026-11-06T13:10:00.000Z",
+        "source": "MIT Technology Review",
+        "sourceKey": "techreview",
+        "priority": 1,
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/2026_BA_Reno_15.jpg?w=840",
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "samsung",
+          "humanoid",
+          "humanoid robot"
+        ],
+        "category": "robotics"
+      },
+      {
+        "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+        "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+        "description": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…",
+        "published": "2026-11-06T10:00:00.000Z",
+        "source": "MIT Technology Review",
+        "sourceKey": "techreview",
+        "priority": 1,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "humanoid robot",
+          "humanoid"
+        ],
+        "category": "robotics"
       }
     ],
     "devices": [
+      {
+        "title": "Amazon Says Shoppers Can Now Text With AI Shopping Assistant Alexa For Shopping",
+        "link": "https://www.theinformation.com/briefings/amazon-says-shoppers-can-now-text-ai-shopping-assistant-alexa-shopping",
+        "description": "Amazon has introduced a feature to its Alexa for Shopping service where users can text the AI shopping assistant directly. The move signals how text messaging is becoming a standard communication tool for agents. Meta’s Muse and Instinct both let users interact with them via text messages, while ...",
+        "published": "2026-11-06T15:31:38.000Z",
+        "source": "The Information",
+        "sourceKey": "theinformation",
+        "priority": 1,
+        "image": null,
+        "baseScore": 7,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "amazon",
+          "meta"
+        ],
+        "category": "devices",
+        "alsoIn": [
+          {
+            "source": "The Verge",
+            "title": "Amazon will let you text Alexa your shopping list",
+            "link": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders"
+          }
+        ]
+      },
+      {
+        "title": "Apple Watch Ultra 3 Milanese Loop plunges to $649 at Amazon",
+        "link": "https://appleinsider.com/articles/26/11/06/apple-watch-ultra-3-milanese-loop-plunges-to-649-at-amazon?utm_source=rss",
+        "description": "Grab the Apple Watch Ultra 3 with a Milanese Loop band for $649, the lowest price on record at Amazon. Save $250 with Amazon's blowout Apple Watch Ultra 3 deal - Image credit: Apple Amazon has dropped the price of the Apple Watch Ultra 3 to $649, delivering a $250 early Black Friday discount off the $899 MSRP on Apple's premium smartwatch. This is the lowest price on record for the last-gen Milanese Loop style in size Medium. Buy Apple Watch Ultra 3 for $649 Continue Reading on AppleInsider | Di",
+        "published": "2026-11-06T14:54:14.000Z",
+        "source": "AppleInsider",
+        "sourceKey": "appleinsider",
+        "priority": 2,
+        "image": "https://media.appleinsider.com/gallery/69729-146977-blowout-apple-watch-ultra-deal-xl.jpg",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "apple",
+          "amazon"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Google Find Hub kan melding geven bij buitenshuis achterlaten tracker",
+        "link": "https://tweakers.net/nieuws/254254/google-find-hub-kan-melding-geven-bij-buitenshuis-achterlaten-tracker.html",
+        "description": "Google Find Hub krijgt een nieuwe functie waarmee gebruikers een melding kunnen ontvangen als een tracker zich te ver van hun smartphone bevindt. Dit kan voorkomen dat gebruikers een object kwijtraken. De concurrerende diensten van Apple en Samsung hebben deze functie al langer.",
+        "published": "2026-11-06T14:32:43.000Z",
+        "source": "Tweakers",
+        "sourceKey": "tweakers",
+        "priority": 2,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "google",
+          "apple",
+          "samsung"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "The Apple Watch Series 12 is still superb, but Google has caught up",
+        "link": "https://www.androidauthority.com/apple-watch-series-12-review-3729599/",
+        "description": "Has Apple done enough to make the Apple Watch Series 12 a great smartwatch that's worth buying?",
+        "published": "2026-11-06T10:45:41.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/apple-watch-series-12-pocket-scaled.jpg",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "google",
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Apple's incredible Q4, iOS 27.3 features, & more iPhone Duo on the AppleInsider Podcast",
+        "link": "https://appleinsider.com/articles/26/11/06/apples-incredible-q4-ios-273-features-more-iphone-duo-on-the-appleinsider-podcast?utm_source=rss",
+        "description": "Apple may never earn enough money to satisfy investors, regulations force more rules for iOS developers, and Audio Intelligence is a very controversial feature on the AppleInsider Podcast. Apple's earnings and more on the AppleInsider Podcast Another earnings call has come and gone, but this time it was CEO John Ternus at the helm. Sure, he read off prepared statements, but so has Tim Cook for every previous earnings call. Your hosts discuss just how much money Apple made, where it stands compar",
+        "published": "2026-11-06T14:26:21.000Z",
+        "source": "AppleInsider",
+        "sourceKey": "appleinsider",
+        "priority": 2,
+        "image": "https://media.appleinsider.com/gallery/69721-146970-IMG_5430-xl.jpg",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "apple",
+          "tim cook",
+          "ceo",
+          "regulation",
+          "earnings"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Apple has a secret list of banned autocomplete phrases including ‘dictator Trump’ and ‘covid is a hoax’",
+        "link": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
+        "description": "A researcher found over 100,000 words and phrases in \"every major language\" that are blocked from autocomplete and swipe-type in iOS, Reuters reports. The researcher, Derik Kauffman, says you can still type the words on the blocklist one letter at a time. But they won't pop up as predictive text suggestions and iOS's keyboard may automatically alter them when swipe-typing, like changing \"left wing conspiracy\" to \"left wrong conspiracy.\" Kauffman posted the full list online, including the individ",
+        "published": "2026-11-06T15:10:28.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/DSC_2327.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+        "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+        "description": "Amazon said that the feature will roll out to millions of users in coming weeks.",
+        "published": "2026-11-06T14:10:00.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "amazon"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "I’ve reviewed almost every Android foldable this year — here’s how the iPhone Duo compares",
+        "link": "https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor",
+        "description": "These aren’t even all the foldables in my house right now. When I first read Allison and Nilay's Verge review of the iPhone Duo, I was immediately struck by one of their complaints: that the cover display is too small. That's not how the Samsung Galaxy Z Fold 8 feels, I thought. Had they got it wrong? After a week and a half using the Duo, I know exactly what they mean - and it's not the screen's fault at all. Apps that feel comfortable on Samsung's short foldable and the similarly sized Xiaomi",
+        "published": "2026-11-06T12:30:00.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/iphone-duo-android-foldables-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "samsung",
+          "xiaomi"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "13-inch MacBook Air with M5 and 1TB SSD falls $250",
+        "link": "https://www.androidauthority.com/13-inch-macbook-air-deal-3732616/",
+        "description": "Apple’s 13-inch MacBook Air with M5, 16GB RAM, and 1TB SSD is down to $1,349 on Amazon, its lowest price since June.",
+        "published": "2026-11-06T15:51:24.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/Apple-Macbook-Air-M5-Chip-Press-Image.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple",
+          "amazon"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "iOS 27.2 adds Apple Photos invisible watermark feature, here’s how it works",
+        "link": "https://9to5mac.com/2026/11/06/ios-27-2-adds-apple-photos-invisible-watermark-feature-heres-how-it-works/",
+        "description": "iOS 27.2 arrived last week, and among its changes for Apple Photos, the update adds an invisible watermarking feature when you use certain editing tools. Here’s how it works. more…",
+        "published": "2026-11-06T15:39:08.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ios-27-photos-app-icon-fi-purple.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Galaxy SmartTag 3 hits Samsung online store as single tracker or four-pack",
+        "link": "https://9to5google.com/2026/11/06/galaxy-smarttag-3-available-from-samsung/",
+        "description": "Samsung’s latest generation of item trackers for Galaxy devices is available online in two colors, starting at $29. more…",
+        "published": "2026-11-06T15:38:29.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Smarttag-3-2.jpg?quality=82&#038;strip=all&#038;w=1400",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "samsung"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Apple Releasing Yet Another Two New Products Next Week",
+        "link": "https://www.macrumors.com/2026/11/06/two-more-apple-products-next-week/",
+        "description": "Apple's massive wave of product launches will finally end next week, with its all-new HomeView smart home hub and the fourth-generation Apple TV 4K set to be released on Friday, November 13 and no other major hardware releases expected for the remainder of the year. Since late August, Apple has announced more than 25 new devices and accessories in one of its busiest stretches ever. Related Roundups: Apple TV, Apple HomeView Buyer's Guide: Apple TV (Buy Now), HomeView (Buy Now) Related Forums: Ap",
+        "published": "2026-11-06T15:37:01.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/01/Apple-Event-Logo.jpeg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Apple says there are already over 100,000 apps built for iPhone Duo",
+        "link": "https://9to5mac.com/2026/11/06/apple-says-there-are-already-over-100000-apps-built-for-iphone-duo/",
+        "description": "Apple released the iPhone Duo two weeks ago, and the app story is quickly taking shape. In a new statement to 9to5Mac, Apple has revealed that there are already “well over 100,000 apps” on the App Store designed for iPhone Duo, and thousands are being added each day. more…",
+        "published": "2026-11-06T15:23:49.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-round-2-01.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Google’s November Pixel update is missing, and Android 17 QPR2 may explain why",
+        "link": "https://www.androidauthority.com/google-pixel-android-17-qpr2-november-release-leak-3732519/",
+        "description": "November's missing update has sparked an intriguing theory.",
+        "published": "2026-11-06T14:19:03.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-review-hero-photo-1-scaled.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Apple Rumored to Drop the iPhone's Action Button Next Year",
+        "link": "https://www.macrumors.com/2026/11/06/apple-rumored-to-drop-the-action-button/",
+        "description": "Apple plans to merge the iPhone's Action button with the Camera Control starting next year, according to the leaker known as \"Instant Digital.\" In a new post on Weibo, the leaker claimed that a single press of the combined button would open the camera, while a long press would trigger the function assigned to the Action button. They explicitly clarified that the dedicated Action button would disappear, while the Camera Control button would remain. requires a long press to activate its assigned f",
+        "published": "2026-11-06T14:07:52.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/09/silver-iphone-18-pro.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "New Apple Music Classical update matches wider Music rebrand",
+        "link": "https://appleinsider.com/articles/26/11/06/new-apple-music-classical-update-matches-wider-music-rebrand?utm_source=rss",
+        "description": "Apple has continued its Apple Music rebrand, bringing a new black-and-white icon and revamped user interface to its Apple Music Classical app for iPhone and iPad. The Apple Music Classical app now matches the wider Music rebrand The new update follows a larger rebrand that has removed the familiar red coloring from Apple Music's icon and marketing materials. It also used the new design identity when unveiling Apple Music Hall in Battersea, London. Alongside the removal of red as a base color, th",
+        "published": "2026-11-06T13:35:54.000Z",
+        "source": "AppleInsider",
+        "sourceKey": "appleinsider",
+        "priority": 2,
+        "image": "https://media.appleinsider.com/gallery/69727-146973-music-classical-icon-xl.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Apple's first deliveries offer a closer look at new iPad mini, MacBook Pros, and iMac",
+        "link": "https://appleinsider.com/articles/26/11/06/apples-first-deliveries-offer-a-closer-look-at-new-ipad-mini-macbook-pros-and-imac?utm_source=rss",
+        "description": "Apple announced several new products in late October, and now they're finally showing up at customers' doorsteps worldwide. The MacBook Pro is arriving with users - Image Credit: Apple On October 26, Apple announced the all-new iPad mini. Now, it comes equipped with the A20 Pro and an OLED display. One day later, Apple announced the upgraded M6 iMac, which served as the lineup's first update since 2024. Continue Reading on AppleInsider | Discuss on our Forums",
+        "published": "2026-11-06T11:43:21.000Z",
+        "source": "AppleInsider",
+        "sourceKey": "appleinsider",
+        "priority": 2,
+        "image": "https://media.appleinsider.com/gallery/69585-146660-mbpproledcompare-5-xl.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+        "link": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+        "description": "Article URL: https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105 Comments URL: https://news.ycombinator.com/item?id=50390124 Points: 447 # Comments: 266",
+        "published": "2026-11-06T09:27:12.000Z",
+        "source": "Hacker News",
+        "sourceKey": "hackernews",
+        "priority": 2,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Google fixes daylight saving time bug affecting Nest and Lenovo smart home devices",
+        "link": "https://www.androidauthority.com/google-smart-home-daylight-saving-time-bug-fix-3732351/",
+        "description": "Nest and Lenovo devices are getting back on schedule.",
+        "published": "2026-11-06T08:40:57.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Google-Nest-Hub-vs-Home-Speaker-1-scaled.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Microsoft test snellere en simpelere XBOX-app voor pc",
+        "link": "https://tweakers.net/nieuws/254236/microsoft-test-snellere-en-simpelere-xbox-app-voor-pc.html",
+        "description": "Microsoft brengt voor Insiders een versimpelde versie van de XBOX-app voor pc uit. De app heeft minder kopjes op de landingspagina en haalt ook verschillende opties uit de keuzebalk. Daarnaast moet de app tot 60 procent sneller opstarten, maar dit hangt af van verschillende factoren.",
+        "published": "2026-11-06T08:06:36.000Z",
+        "source": "Tweakers",
+        "sourceKey": "tweakers",
+        "priority": 2,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "microsoft"
+        ],
+        "category": "devices"
+      },
       {
         "title": "‘Awkwafina: The Unlikely Cook’ premieres on Apple TV",
         "link": "https://9to5mac.com/2026/11/05/awkwafina-the-unlikely-cook-premieres-on-apple-tv/",
@@ -704,6 +2642,55 @@
         "category": "devices"
       },
       {
+        "title": "WhatsApp announces Events Home and shareable event invites",
+        "link": "https://www.gsmarena.com/whatsapp_events_home-news-75382.php",
+        "description": "WhatsApp users can already create events in a 1:1 conversation and group chats. Now they can also create events that they can share with people who don't have a WhatsApp account. \"Create an event, add a cover photo, share the link, and they can see details and RSVP without downloading the app,\" said WhatsApp in a blog post. The company also said your phone number won't be shown to event guests you don't know, and guests without a WhatsApp account will only see the event address after they RSVP.",
+        "published": "2026-11-06T15:29:02.000Z",
+        "source": "GSMArena",
+        "sourceKey": "gsmarena",
+        "priority": 3,
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/whatsapp-events-home/-184x111/gsmarena_001.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "whatsapp"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "vivo also reportedly developing a wide-screen phone for 2027 launch",
+        "link": "https://www.gsmarena.com/vivo_also_reportedly_developing_a_widescreen_phone_for_2027_launch-news-75381.php",
+        "description": "Since Huawei unveiled the Pura X View earlier this year, several Chinese smartphone brands, including Oppo, Honor, and most recently Xiaomi, have been rumored to be developing their own wide-screen phones. Now, a new leak suggests that vivo is also joining the race. According to tipster Digital Chat Station, vivo is targeting a 2027 launch for its first wide-screen candybar-style smartphone. Huawei Pura X View The tipster also claimed that vivo’s wide-screen phone will likely feature a display u",
+        "published": "2026-11-06T13:23:01.000Z",
+        "source": "GSMArena",
+        "sourceKey": "gsmarena",
+        "priority": 3,
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/vivo-wide-screen-phone-rumor/-184x111/gsmarena_00.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "xiaomi",
+          "huawei"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Samsung Galaxy Fit4 might have NFC for payments",
+        "link": "https://www.gsmarena.com/samsung_galaxy_fit4_nfc_support-news-75377.php",
+        "description": "The Samsung Galaxy Fit3, launched in February 2024, is due for a successor. Rumors claim the Galaxy Fit4 will arrive this year, with recent leaks revealing its design and key features. There's no word from Samsung about the Galaxy Fit4's launch; however, it has published the Galaxy Fit4 Manager app on the Galaxy Store, and the screenshots in the listing hint at NFC support. One screenshot in the listing, attached below, shows a \"Wallet\" option in the app's menu. It's obscure and behind the botto",
+        "published": "2026-11-06T10:43:02.000Z",
+        "source": "GSMArena",
+        "sourceKey": "gsmarena",
+        "priority": 3,
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/samsung-galaxy-fit4-nfc-support/-184x111/gsmarena_001.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "samsung"
+        ],
+        "category": "devices"
+      },
+      {
         "title": "Samsung Galaxy S27 is headed to India, new certification reveals",
         "link": "https://www.gsmarena.com/samsung_galaxy_s27_is_headed_to_india_new_certification_reveals-news-75375.php",
         "description": "The Samsung Galaxy S27 has already made the rounds through several certification databases, and today it has passed through another one. The handset, bearing the model number SM-S952B/DS, has just been approved by India's Bureau of Indian Standards (BIS), and it's the first member of the S27 family to get there. Unfortunately, the BIS listing doesn't reveal any specs, but we already know a fair bit from the phone's earlier appearances. The same model number recently showed up in the NBD database",
@@ -716,6 +2703,23 @@
         "relevanceScore": 4,
         "matchedKeywords": [
           "samsung"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "From Mac Portable to PROLED MacBook Pro: 35 years of mobile Macs",
+        "link": "https://appleinsider.com/articles/26/11/06/from-mac-portable-to-proled-macbook-pro-35-years-of-mobile-macs?utm_source=rss",
+        "description": "Apple's road to its iconic MacBook was bumpy, and saw oversized portables, colorful clamshells, keyboard issues, and spanned three entirely different chip architectures. Here's a snapshot of 35 years of true Apple portables. MacBook History Apple's no slouch when it comes to giving its customers choices. Currently, Apple sells the Mac mini, Mac Studio, iMac, MacBook Neo, MacBook Air, and MacBook Pro. Depending on when you got into Macs, your iconic machine is either Jobs' original vision, the iM",
+        "published": "2026-11-06T11:51:31.000Z",
+        "source": "AppleInsider",
+        "sourceKey": "appleinsider",
+        "priority": 2,
+        "image": "https://media.appleinsider.com/gallery/68255-146823-macbookhistoryhead-xl.jpg",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "apple",
+          "chip"
         ],
         "category": "devices"
       },
@@ -737,7 +2741,142 @@
         ],
         "category": "devices"
       }
+    ],
+    "space": [
+      {
+        "title": "AST SpaceMobile to Build Own Rocket to Compete with SpaceX",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/ast-spacemobile-to-build-own-rocket-to-compete-with-spacex",
+        "description": "AST SpaceMobile Inc., a satellite company that competes against SpaceX, announced that it is building its own rocket that will be powered by engines from Firefly Aerospace Inc.",
+        "published": "2026-11-06T13:59:34.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "spacex",
+          "satellite"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
+        "link": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
+        "description": "\"This is going to be a game-changer.\"",
+        "published": "2026-11-06T00:17:06.000Z",
+        "source": "Ars Technica",
+        "sourceKey": "arstechnica",
+        "priority": 1,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/News_BlueOrigin-Northstar-Engine-1152x648.webp",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "blue origin"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "Deutsche Telekom CEO welcomes SpaceX terrestrial challenge, warns it will cost Musk at least $200bn",
+        "link": "https://www.datacenterdynamics.com/en/news/deutsche-telekom-ceo-welcomes-spacex-terrestrial-challenge-warns-it-will-cost-musk-at-least-200bn/",
+        "description": "Tim Höttges says \"welcome to the party\"",
+        "published": "2026-11-06T14:55:11.000Z",
+        "source": "DataCenterDynamics",
+        "sourceKey": "dcd",
+        "priority": 2,
+        "image": "https://media.datacenterdynamics.com/media/images/Tim_Hottges.original.d1fc80f2.fill-750x500.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "spacex",
+          "ceo"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "SpaceX’s next Starship flight set to make history on Friday the 13th",
+        "link": "https://www.teslarati.com/spacex-starship-catch-nov-13/",
+        "description": "SpaceX is targeting Friday, November 13 for Starship Flight 15 and its first ship catch. The post SpaceX’s next Starship flight set to make history on Friday the 13th appeared first on TESLARATI.",
+        "published": "2026-11-06T06:59:50.000Z",
+        "source": "Teslarati",
+        "sourceKey": "teslarati",
+        "priority": 3,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "spacex",
+          "starship"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "Blue Origin unveils more thrust, less haste as New Glenn slips to 2027",
+        "link": "https://www.theregister.com/offbeat/2026/11/06/blue-origin-unveils-more-thrust-less-haste-as-new-glenn-slips-to-2027/5308138",
+        "description": "Staff memo pushes return to flight into January, overshadowing third-stage and engine announcements",
+        "published": "2026-11-06T14:01:00.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=236527&width=800",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "blue origin"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "Blue Origins Rakete New Glenn soll Anfang 2027 wieder starten",
+        "link": "https://www.heise.de/news/Blue-Origins-Rakete-New-Glenn-soll-Anfang-2027-wieder-starten-11514122.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "Blue Origin hat die Reparatur der bei der Explosion im Mai beschädigten Startrampe fast abgeschlossen. Die Rakete New Glenn kann aber erst Anfang 2027 starten.",
+        "published": "2026-11-06T04:58:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/6/0/2/3/hp-e81abdf4348b0bc7.jpeg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "blue origin"
+        ],
+        "category": "space"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
+        "link": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty",
+        "description": "Thailand’s SEC filed a criminal complaint against Bitget’s operator, alleging it ran an unlicensed crypto exchange for Thai users from 2022 to 2025.",
+        "published": "2026-11-06T14:33:49.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/bff54bee9f087950dfc85d403528a02d341fae1b-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "acquisition"
+        ],
+        "category": "crypto"
+      },
+      {
+        "title": "Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations",
+        "link": "https://decrypt.co/382695/former-fbi-agent-pleads-guilty-to-stealing-2-5m-in-crypto-from-35-investigations",
+        "description": "Patrick Yaroch drained wallets using credentials the FBI had collected, then asked ChatGPT for advice on starting a new life in Europe.",
+        "published": "2026-11-06T10:57:06.000Z",
+        "source": "Decrypt",
+        "sourceKey": "decrypt",
+        "priority": 3,
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-crime-decrypt-style-1-gID_7.png@png",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "chatgpt"
+        ],
+        "category": "crypto"
+      }
     ]
   },
-  "totalArticles": 31
+  "totalArticles": 150
 }
