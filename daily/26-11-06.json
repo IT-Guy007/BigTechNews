@@ -4,7 +4,7 @@
   "title": "Friday, Nov 6",
   "dateRange": "November 6, 2026",
   "date": "2026-11-06",
-  "generatedAt": "2026-11-07T01:57:54.045Z",
+  "generatedAt": "2026-11-07T08:50:52.338Z",
   "highlights": [
     {
       "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
@@ -204,6 +204,31 @@
       "category": "regulation"
     },
     {
+      "title": "Meta, Google, and TikTok sue California AG over teen social media law",
+      "link": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+      "description": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
+      "published": "2026-11-06T00:01:38.000Z",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "priority": 1,
+      "image": null,
+      "baseScore": 13,
+      "relevanceScore": 14,
+      "matchedKeywords": [
+        "google",
+        "meta",
+        "tiktok"
+      ],
+      "category": "other",
+      "alsoIn": [
+        {
+          "source": "Euronews Next",
+          "title": "Google, Meta and TikTok sue California to block law protecting kids from social media harms",
+          "link": "https://www.euronews.com/2026/11/06/google-meta-and-tiktok-sue-california-to-block-law-protecting-kids-from-social-media-harms"
+        }
+      ]
+    },
+    {
       "title": "Anthropic IPO Buyers See Valuation Down as Low as $1.2 Trillion",
       "link": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
       "description": "Anthropic PBC’s initial public offering plans ran into a punishing post-election selloff, prompting a rethink among prospective investors of the company’s expected valuation.",
@@ -235,33 +260,6 @@
           "source": "The Decoder",
           "title": "Anthropic's $1.5 trillion IPO hits resistance as investors balk at valuation",
           "link": "https://the-decoder.com/anthropics-1-5-trillion-ipo-hits-resistance-as-investors-balk-at-valuation/"
-        }
-      ]
-    },
-    {
-      "title": "OpenAI reportedly raises $11B in new funding at $1.25T valuation",
-      "link": "https://siliconangle.com/2026/11/06/openai-reportedly-raises-11b-in-new-funding-at-1-25t-valuation/",
-      "description": "OpenAI Group PBC has reportedly raised $11 billion as part of a funding round that could nearly double in size over the coming weeks, as sources told Bloomberg that investors wired the funds to the company today. The tipsters didn’t name the backers. The list of possible participants includes Microsoft Corp., which contributed to at […] The post OpenAI reportedly raises $11B in new funding at $1.25T valuation appeared first on SiliconANGLE.",
-      "published": "2026-11-06T23:43:40.000Z",
-      "source": "SiliconANGLE",
-      "sourceKey": "siliconangle",
-      "priority": 2,
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/OpenAI-2.png",
-      "baseScore": 12,
-      "relevanceScore": 13,
-      "matchedKeywords": [
-        "openai",
-        "valuation",
-        "microsoft",
-        "funding round",
-        "billion"
-      ],
-      "category": "business",
-      "alsoIn": [
-        {
-          "source": "Techmeme",
-          "title": "Sources: OpenAI has closed on new funding of roughly $11B at a $1.25T valuation; the round could increase to as much as $20B in total (Bloomberg)",
-          "link": "https://www.techmeme.com/261106/p22#a261106p22"
         }
       ]
     }
@@ -1418,6 +1416,23 @@
         "category": "ai"
       },
       {
+        "title": "Data centre backlash: Which AI companies have been affected by US midterm results?",
+        "link": "https://www.euronews.com/2026/11/06/data-centre-backlash-which-ai-companies-have-been-affected-by-us-midterm-results",
+        "description": "OpenAI has gone on a charm offensive, while semiconductor companies worldwide have seen their stocks plunge.",
+        "published": "2026-11-06T14:43:36.000Z",
+        "source": "Euronews Next",
+        "sourceKey": "euronews_next",
+        "priority": 2,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "openai",
+          "semiconductor"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "Thinking Machines' Inkling 2 Small claims top spot among western open-weight models",
         "link": "https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/",
         "description": "Thinking Machines, the startup from former OpenAI CTO Mira Murati, is releasing Inkling 2 Small, a mixture-of-experts model with 594 billion parameters. The company claims it's the strongest western open-weight model. Better agentic performance comes at a price, though, with token usage rising sharply. The article Thinking Machines' Inkling 2 Small claims top spot among western open-weight models appeared first on The Decoder.",
@@ -1431,6 +1446,24 @@
         "matchedKeywords": [
           "openai",
           "billion"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Parents sue Google after 13-year-old allegedly used AI to plan suicide",
+        "link": "https://www.euronews.com/2026/11/06/parents-sue-google-after-13-year-old-allegedly-used-ai-to-plan-suicide",
+        "description": "The case raises further concerns about AI safety for children as tech companies face more lawsuits over their technology.",
+        "published": "2026-11-06T11:19:26.000Z",
+        "source": "Euronews Next",
+        "sourceKey": "euronews_next",
+        "priority": 2,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "google",
+          "ai safety",
+          "lawsuit"
         ],
         "category": "ai"
       },
@@ -2951,6 +2984,22 @@
         "category": "regulation"
       },
       {
+        "title": "EU tells TikTok to change 'harmful' For You feed over 'rabbit hole effect'",
+        "link": "https://www.euronews.com/2026/11/06/eu-tells-tiktok-to-change-harmful-for-you-feed-over-rabbit-hole-effect",
+        "description": "Brussels says TikTok's recommendation algorithm risks exposing children and vulnerable users to harmful content. The platform has rejected the findings as \"fundamentally inaccurate\".",
+        "published": "2026-11-06T13:48:53.000Z",
+        "source": "Euronews Next",
+        "sourceKey": "euronews_next",
+        "priority": 2,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "tiktok"
+        ],
+        "category": "regulation"
+      },
+      {
         "title": "EU: TikTok schendt DSA met schadelijke 'rabbit holes'",
         "link": "https://tweakers.net/nieuws/254248/eu-tiktok-schendt-dsa-met-schadelijke-rabbit-holes.html",
         "description": "TikTok schendt volgens onderzoek van de Europese Commissie de Digital Services Act (DSA). Het sociale medium zou met de For You-feed het rabbithole-effect versterken. Hierbij krijgen gebruikers steeds vaker content te zien waarin zij geïnteresseerd zijn, ook als die schadelijk is. TikTok kan nog in beroep gaan en riskeert een miljardenboete.",
@@ -2984,198 +3033,6 @@
         "category": "regulation"
       }
     ],
-    "space": [
-      {
-        "title": "Longtime SpaceX Board Member Resigns",
-        "link": "https://www.theinformation.com/briefings/longtime-spacex-board-member-resigns",
-        "description": "Longtime SpaceX board member Donald Harrison has resigned as a director, the company disclosed in a filing Friday. He is stepping down from the role at a time when CEO Elon Musk is advocating that the company merge with Tesla. Harrison, a president of corporate development at Google, had served ...",
-        "published": "2026-11-06T22:51:43.000Z",
-        "source": "The Information",
-        "sourceKey": "theinformation",
-        "priority": 1,
-        "image": null,
-        "baseScore": 13,
-        "relevanceScore": 13,
-        "matchedKeywords": [
-          "spacex",
-          "google",
-          "tesla",
-          "elon musk",
-          "ceo"
-        ],
-        "category": "space"
-      },
-      {
-        "title": "Starlink Mobile: All the news on SpaceX’s major mobile carrier ambitions",
-        "link": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
-        "description": "SpaceX has declared that it’s going to make Starlink Mobile a “major” mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challenge is building out its 5G network here on Earth. As part of its plans to rival AT&T, Verizon, and T-Mobile, SpaceX has inked a deal with Qualcomm, which will deploy its cellular technology across tens of thousands of 5G cell sites starting in 2027. SpaceX is also reportedly in talks to buy Boost Mobi",
-        "published": "2026-11-06T22:45:43.000Z",
-        "source": "The Verge",
-        "sourceKey": "theverge",
-        "priority": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "baseScore": 12,
-        "relevanceScore": 12,
-        "matchedKeywords": [
-          "spacex",
-          "starlink",
-          "qualcomm",
-          "elon musk",
-          "satellite"
-        ],
-        "category": "space"
-      },
-      {
-        "title": "SpaceX says Google exec Don Harrison has resigned from its board",
-        "link": "https://www.cnbc.com/2026/11/06/tesdonald-harrison.html",
-        "description": "SpaceX announced that Don Harrison, a Google executive, has resigned from the company's board of directors.",
-        "published": "2026-11-06T22:30:22.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_tech",
-        "priority": 1,
-        "image": null,
-        "baseScore": 9,
-        "relevanceScore": 9,
-        "matchedKeywords": [
-          "google",
-          "spacex"
-        ],
-        "category": "space"
-      },
-      {
-        "title": "Elon Musk says US government contracts will account for under 10% of SpaceX's revenue this quarter, down from 16.6% last quarter and around 20% in 2025 (Bloomberg)",
-        "link": "https://www.techmeme.com/261106/p19#a261106p19",
-        "description": "Bloomberg: Elon Musk says US government contracts will account for under 10% of SpaceX's revenue this quarter, down from 16.6% last quarter and around 20% in 2025 — SpaceX's reliance on US government-funded contracts will continue to shrink, Elon Musk said, signaling a shift in focus away …",
-        "published": "2026-11-06T18:50:01.000Z",
-        "source": "Techmeme",
-        "sourceKey": "techmeme",
-        "priority": 1,
-        "image": "http://www.techmeme.com/261106/i19.jpg",
-        "baseScore": 8,
-        "relevanceScore": 8,
-        "matchedKeywords": [
-          "spacex",
-          "elon musk"
-        ],
-        "category": "space"
-      },
-      {
-        "title": "SpaceX Embrace of Compute Deals Eases Reliance on US Contracts",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-06/spacex-to-get-under-10-of-revenue-from-us-government-musk-says",
-        "description": "SpaceX’s reliance on US government-funded contracts will continue to shrink, Elon Musk said, signaling a shift in focus away from what was previously his rocket-launch company’s most important partnership.",
-        "published": "2026-11-06T17:34:03.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "baseScore": 8,
-        "relevanceScore": 8,
-        "matchedKeywords": [
-          "spacex",
-          "elon musk"
-        ],
-        "category": "space"
-      },
-      {
-        "title": "AST SpaceMobile to Build Own Rocket to Compete with SpaceX",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-06/ast-spacemobile-to-build-own-rocket-to-compete-with-spacex",
-        "description": "AST SpaceMobile Inc., a satellite company that competes against SpaceX, announced that it is building its own rocket that will be powered by engines from Firefly Aerospace Inc.",
-        "published": "2026-11-06T13:59:34.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "baseScore": 6,
-        "relevanceScore": 6,
-        "matchedKeywords": [
-          "spacex",
-          "satellite"
-        ],
-        "category": "space"
-      },
-      {
-        "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
-        "link": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
-        "description": "\"This is going to be a game-changer.\"",
-        "published": "2026-11-06T00:17:06.000Z",
-        "source": "Ars Technica",
-        "sourceKey": "arstechnica",
-        "priority": 1,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/News_BlueOrigin-Northstar-Engine-1152x648.webp",
-        "baseScore": 5,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "blue origin"
-        ],
-        "category": "space"
-      },
-      {
-        "title": "Deutsche Telekom CEO welcomes SpaceX terrestrial challenge, warns it will cost Musk at least $200bn",
-        "link": "https://www.datacenterdynamics.com/en/news/deutsche-telekom-ceo-welcomes-spacex-terrestrial-challenge-warns-it-will-cost-musk-at-least-200bn/",
-        "description": "Tim Höttges says \"welcome to the party\"",
-        "published": "2026-11-06T14:55:11.000Z",
-        "source": "DataCenterDynamics",
-        "sourceKey": "dcd",
-        "priority": 2,
-        "image": "https://media.datacenterdynamics.com/media/images/Tim_Hottges.original.d1fc80f2.fill-750x500.jpg",
-        "baseScore": 5,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "spacex",
-          "ceo"
-        ],
-        "category": "space"
-      },
-      {
-        "title": "SpaceX’s next Starship flight set to make history on Friday the 13th",
-        "link": "https://www.teslarati.com/spacex-starship-catch-nov-13/",
-        "description": "SpaceX is targeting Friday, November 13 for Starship Flight 15 and its first ship catch. The post SpaceX’s next Starship flight set to make history on Friday the 13th appeared first on TESLARATI.",
-        "published": "2026-11-06T06:59:50.000Z",
-        "source": "Teslarati",
-        "sourceKey": "teslarati",
-        "priority": 3,
-        "image": null,
-        "baseScore": 5,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "spacex",
-          "starship"
-        ],
-        "category": "space"
-      },
-      {
-        "title": "Blue Origin unveils more thrust, less haste as New Glenn slips to 2027",
-        "link": "https://www.theregister.com/offbeat/2026/11/06/blue-origin-unveils-more-thrust-less-haste-as-new-glenn-slips-to-2027/5308138",
-        "description": "Staff memo pushes return to flight into January, overshadowing third-stage and engine announcements",
-        "published": "2026-11-06T14:01:00.000Z",
-        "source": "The Register",
-        "sourceKey": "theregister",
-        "priority": 2,
-        "image": "https://image.theregister.com/?imageId=236527&width=800",
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "blue origin"
-        ],
-        "category": "space"
-      },
-      {
-        "title": "Blue Origins Rakete New Glenn soll Anfang 2027 wieder starten",
-        "link": "https://www.heise.de/news/Blue-Origins-Rakete-New-Glenn-soll-Anfang-2027-wieder-starten-11514122.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-        "description": "Blue Origin hat die Reparatur der bei der Explosion im Mai beschädigten Startrampe fast abgeschlossen. Die Rakete New Glenn kann aber erst Anfang 2027 starten.",
-        "published": "2026-11-06T04:58:00.000Z",
-        "source": "heise online",
-        "sourceKey": "heise",
-        "priority": 2,
-        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/6/0/2/3/hp-e81abdf4348b0bc7.jpeg",
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "blue origin"
-        ],
-        "category": "space"
-      }
-    ],
     "other": [
       {
         "title": "Meta, Google, and TikTok sue California AG over teen social media law",
@@ -3187,13 +3044,20 @@
         "priority": 1,
         "image": null,
         "baseScore": 13,
-        "relevanceScore": 13,
+        "relevanceScore": 14,
         "matchedKeywords": [
           "google",
           "meta",
           "tiktok"
         ],
-        "category": "other"
+        "category": "other",
+        "alsoIn": [
+          {
+            "source": "Euronews Next",
+            "title": "Google, Meta and TikTok sue California to block law protecting kids from social media harms",
+            "link": "https://www.euronews.com/2026/11/06/google-meta-and-tiktok-sue-california-to-block-law-protecting-kids-from-social-media-harms"
+          }
+        ]
       },
       {
         "title": "Google, Meta en TikTok vechten Californisch verbod op verslavende feeds aan",
@@ -3560,6 +3424,23 @@
         "category": "other"
       },
       {
+        "title": "Software-update - ShareX 22.3.0",
+        "link": "https://tweakers.net/downloads/78944/sharex-2230.html",
+        "description": "Versies 22.2.0 en 22.3.0 van ShareX zijn kort achterelkaar uitgekomen. Met dit opensourceprogramma kunnen zowel statische als bewegende beelden worden afgevangen, waarna er vervolgens verschillende bewerkingen op los kunnen worden gelaten. Wanneer je tevreden bent met het resultaat kan het worden opgeslagen naar zo'n tachtig bestemmingen, zoals Flickr, Pastebin, Dropbox, Google Drive, OneDrive, Amazon S3 en Streamable. Ook kan de functionaliteit verder uitgebreid worden met zelfgeschreven upload",
+        "published": "2026-11-06T15:30:00.000Z",
+        "source": "Tweakers",
+        "sourceKey": "tweakers",
+        "priority": 2,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google",
+          "amazon"
+        ],
+        "category": "other"
+      },
+      {
         "title": "Sony WH-1000XM5 fall back to half-price on Amazon",
         "link": "https://www.androidauthority.com/amazon-deal-sony-wh-1000xm5-3732610/",
         "description": "Sony WH-1000XM5 headphones drop to an all-time low of $198 on Amazon, with premium ANC and up to 30 hours of battery life.",
@@ -3831,6 +3712,198 @@
           "netflix"
         ],
         "category": "other"
+      }
+    ],
+    "space": [
+      {
+        "title": "Longtime SpaceX Board Member Resigns",
+        "link": "https://www.theinformation.com/briefings/longtime-spacex-board-member-resigns",
+        "description": "Longtime SpaceX board member Donald Harrison has resigned as a director, the company disclosed in a filing Friday. He is stepping down from the role at a time when CEO Elon Musk is advocating that the company merge with Tesla. Harrison, a president of corporate development at Google, had served ...",
+        "published": "2026-11-06T22:51:43.000Z",
+        "source": "The Information",
+        "sourceKey": "theinformation",
+        "priority": 1,
+        "image": null,
+        "baseScore": 13,
+        "relevanceScore": 13,
+        "matchedKeywords": [
+          "spacex",
+          "google",
+          "tesla",
+          "elon musk",
+          "ceo"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "Starlink Mobile: All the news on SpaceX’s major mobile carrier ambitions",
+        "link": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
+        "description": "SpaceX has declared that it’s going to make Starlink Mobile a “major” mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challenge is building out its 5G network here on Earth. As part of its plans to rival AT&T, Verizon, and T-Mobile, SpaceX has inked a deal with Qualcomm, which will deploy its cellular technology across tens of thousands of 5G cell sites starting in 2027. SpaceX is also reportedly in talks to buy Boost Mobi",
+        "published": "2026-11-06T22:45:43.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 12,
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "spacex",
+          "starlink",
+          "qualcomm",
+          "elon musk",
+          "satellite"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "SpaceX says Google exec Don Harrison has resigned from its board",
+        "link": "https://www.cnbc.com/2026/11/06/tesdonald-harrison.html",
+        "description": "SpaceX announced that Don Harrison, a Google executive, has resigned from the company's board of directors.",
+        "published": "2026-11-06T22:30:22.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "google",
+          "spacex"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "Elon Musk says US government contracts will account for under 10% of SpaceX's revenue this quarter, down from 16.6% last quarter and around 20% in 2025 (Bloomberg)",
+        "link": "https://www.techmeme.com/261106/p19#a261106p19",
+        "description": "Bloomberg: Elon Musk says US government contracts will account for under 10% of SpaceX's revenue this quarter, down from 16.6% last quarter and around 20% in 2025 — SpaceX's reliance on US government-funded contracts will continue to shrink, Elon Musk said, signaling a shift in focus away …",
+        "published": "2026-11-06T18:50:01.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261106/i19.jpg",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "spacex",
+          "elon musk"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "SpaceX Embrace of Compute Deals Eases Reliance on US Contracts",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/spacex-to-get-under-10-of-revenue-from-us-government-musk-says",
+        "description": "SpaceX’s reliance on US government-funded contracts will continue to shrink, Elon Musk said, signaling a shift in focus away from what was previously his rocket-launch company’s most important partnership.",
+        "published": "2026-11-06T17:34:03.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "spacex",
+          "elon musk"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "AST SpaceMobile to Build Own Rocket to Compete with SpaceX",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-06/ast-spacemobile-to-build-own-rocket-to-compete-with-spacex",
+        "description": "AST SpaceMobile Inc., a satellite company that competes against SpaceX, announced that it is building its own rocket that will be powered by engines from Firefly Aerospace Inc.",
+        "published": "2026-11-06T13:59:34.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "spacex",
+          "satellite"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
+        "link": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
+        "description": "\"This is going to be a game-changer.\"",
+        "published": "2026-11-06T00:17:06.000Z",
+        "source": "Ars Technica",
+        "sourceKey": "arstechnica",
+        "priority": 1,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/News_BlueOrigin-Northstar-Engine-1152x648.webp",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "blue origin"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "Deutsche Telekom CEO welcomes SpaceX terrestrial challenge, warns it will cost Musk at least $200bn",
+        "link": "https://www.datacenterdynamics.com/en/news/deutsche-telekom-ceo-welcomes-spacex-terrestrial-challenge-warns-it-will-cost-musk-at-least-200bn/",
+        "description": "Tim Höttges says \"welcome to the party\"",
+        "published": "2026-11-06T14:55:11.000Z",
+        "source": "DataCenterDynamics",
+        "sourceKey": "dcd",
+        "priority": 2,
+        "image": "https://media.datacenterdynamics.com/media/images/Tim_Hottges.original.d1fc80f2.fill-750x500.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "spacex",
+          "ceo"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "SpaceX’s next Starship flight set to make history on Friday the 13th",
+        "link": "https://www.teslarati.com/spacex-starship-catch-nov-13/",
+        "description": "SpaceX is targeting Friday, November 13 for Starship Flight 15 and its first ship catch. The post SpaceX’s next Starship flight set to make history on Friday the 13th appeared first on TESLARATI.",
+        "published": "2026-11-06T06:59:50.000Z",
+        "source": "Teslarati",
+        "sourceKey": "teslarati",
+        "priority": 3,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "spacex",
+          "starship"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "Blue Origin unveils more thrust, less haste as New Glenn slips to 2027",
+        "link": "https://www.theregister.com/offbeat/2026/11/06/blue-origin-unveils-more-thrust-less-haste-as-new-glenn-slips-to-2027/5308138",
+        "description": "Staff memo pushes return to flight into January, overshadowing third-stage and engine announcements",
+        "published": "2026-11-06T14:01:00.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=236527&width=800",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "blue origin"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "Blue Origins Rakete New Glenn soll Anfang 2027 wieder starten",
+        "link": "https://www.heise.de/news/Blue-Origins-Rakete-New-Glenn-soll-Anfang-2027-wieder-starten-11514122.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "Blue Origin hat die Reparatur der bei der Explosion im Mai beschädigten Startrampe fast abgeschlossen. Die Rakete New Glenn kann aber erst Anfang 2027 starten.",
+        "published": "2026-11-06T04:58:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/6/0/2/3/hp-e81abdf4348b0bc7.jpeg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "blue origin"
+        ],
+        "category": "space"
       }
     ],
     "crypto": [
@@ -4656,5 +4729,5 @@
       }
     ]
   },
-  "totalArticles": 245
+  "totalArticles": 249
 }
