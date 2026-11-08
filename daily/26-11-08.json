@@ -4,7 +4,7 @@
   "title": "Sunday, Nov 8",
   "dateRange": "November 8, 2026",
   "date": "2026-11-08",
-  "generatedAt": "2026-11-08T09:02:39.906Z",
+  "generatedAt": "2026-11-08T16:42:33.177Z",
   "highlights": [
     {
       "title": "China’s Pudu Robotics, which makes 80% of its sales abroad, takes on Tesla in humanoids",
@@ -27,6 +27,61 @@
       "category": "robotics"
     },
     {
+      "title": "From Silicon Valley to the Pentagon, Here’s the 2026 WSJ Tech: California Recap",
+      "link": "https://www.wsj.com/tech/ai/from-silicon-valley-to-the-pentagon-heres-the-2026-wsj-tech-california-recap-351cb31d?mod=rss_Technology",
+      "description": "Plus, Apple’s beach-friendly iPad Mini and Amazon’s upscale Alexa tablet, the data-center revolt continues, investors question Anthropic’s valuation and more.",
+      "published": "2026-11-08T15:55:00.000Z",
+      "source": "WSJ",
+      "sourceKey": "wsj_tech",
+      "priority": 1,
+      "image": "https://images.wsj.net/im-65551994",
+      "baseScore": 11,
+      "relevanceScore": 11,
+      "matchedKeywords": [
+        "apple",
+        "amazon",
+        "anthropic",
+        "valuation"
+      ],
+      "category": "devices"
+    },
+    {
+      "title": "Chatbots might be coming to Apple’s HomeView",
+      "link": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+      "description": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like ChatGPT and Claude could be added to HomeView. According to pdfu on X, that new beta also adds support for bidirectional audio routing and session management, but says it's \"still not fully wired up.\" Apple has also added an",
+      "published": "2026-11-08T15:00:30.000Z",
+      "source": "The Verge",
+      "sourceKey": "theverge",
+      "priority": 1,
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0250-1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "baseScore": 11,
+      "relevanceScore": 11,
+      "matchedKeywords": [
+        "apple",
+        "chatgpt",
+        "claude"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Anthropic Buys Power for AI Data Centers in $3.4B Deal, FT Says",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-08/anthropic-buys-power-for-ai-data-centres-in-3-4b-deal-ft-says",
+      "description": "Anthropic PBC has agreed to pay $3.4 billion for gas-fired generators for data centers, the FT reported, in what it described as the largest known single purchase of power-generation equipment by an AI lab.",
+      "published": "2026-11-08T11:48:21.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "baseScore": 10,
+      "relevanceScore": 10,
+      "matchedKeywords": [
+        "anthropic",
+        "data center",
+        "billion"
+      ],
+      "category": "ai"
+    },
+    {
       "title": "Anthropic-backed AI safety super PAC Public First spent $63M+ in the 2026 midterms, and 10 of the 17 congressional candidates it backed won their elections",
       "link": "https://www.techmeme.com/261107/p17#a261107p17",
       "description": "Anthropic-backed AI safety super PAC Public First spent $63M+ in the 2026 midterms, and 10 of the 17 congressional candidates it backed won their elections — Candidates who favor stricter oversight of artificial intelligence racked up wins in key congressional races, aided …",
@@ -46,117 +101,98 @@
       "category": "ai"
     },
     {
-      "title": "Internal documents leaked by Cisco workers angry over the company's ties to Israel's military show how it expanded its business as the war in Gaza dragged on",
-      "link": "https://www.techmeme.com/261108/p5#a261108p5",
-      "description": "Internal documents leaked by Cisco workers angry over the company's ties to Israel's military show how it expanded its business as the war in Gaza dragged on — Tech giant leaped to shore up relationship even as company was roiled by worker protest over its role in the war",
-      "published": "2026-11-08T06:50:00.000Z",
-      "source": "Techmeme",
-      "sourceKey": "techmeme",
-      "priority": 1,
-      "image": "http://www.techmeme.com/261108/i5.jpg",
-      "via": "The Guardian",
-      "baseScore": 5,
-      "relevanceScore": 5,
-      "matchedKeywords": [
-        "cisco"
-      ],
-      "category": "other"
-    },
-    {
-      "title": "Filings: Apple saved $2.7B in taxes this year by routing up to $50B in profits through Singapore, exceeding the $2.6B in tax savings it achieved via Ireland (Financial Times)",
-      "link": "https://www.techmeme.com/261108/p1#a261108p1",
-      "description": "Financial Times: Filings: Apple saved $2.7B in taxes this year by routing up to $50B in profits through Singapore, exceeding the $2.6B in tax savings it achieved via Ireland — City-state overtakes Ireland as iPhone maker's biggest tax shelter according to new disclosures — Apple shaved $2.7bn off …",
-      "published": "2026-11-08T05:55:01.000Z",
-      "source": "Techmeme",
-      "sourceKey": "techmeme",
-      "priority": 1,
-      "image": "http://www.techmeme.com/261108/i1.jpg",
-      "baseScore": 5,
-      "relevanceScore": 5,
-      "matchedKeywords": [
-        "apple"
-      ],
-      "category": "devices"
-    },
-    {
-      "title": "Syncing Apple Music across your devices is easier than you think",
-      "link": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
-      "description": "One perk of subscribing to Apple Music is having your collection synced across all your devices - and all it takes is a simple toggle. Here's how.",
-      "published": "2026-11-08T01:30:00.000Z",
-      "source": "Engadget",
-      "sourceKey": "engadget",
+      "title": "AI will soon master biology, unleashing new safety risks, Tencent AI chief warns",
+      "link": "https://www.scmp.com/tech/big-tech/article/3373697/ai-will-soon-master-biology-unleashing-new-safety-risks-tencent-ai-chief-warns",
+      "description": "Artificial intelligence models will soon be powerful enough to master biology, presenting both benefits and serious risks, Tencent Holdings’ chief AI scientist and former OpenAI star researcher Vinces Yao Shunyu said during a rare public appearance on Saturday. The assessment comes as frontier AI systems are increasingly being applied to medicine and biology, which could accelerate discovery of new drugs and other treatments. However, experts also warn that malicious actors could use AI to...",
+      "published": "2026-11-08T10:22:27.000Z",
+      "source": "SCMP",
+      "sourceKey": "scmp_tech",
       "priority": 2,
-      "image": "https://www.engadget.com/img/gallery/syncing-apple-music-across-your-devices-is-easier-than-you-think/l-intro-1793849755.jpg",
-      "baseScore": 4,
-      "relevanceScore": 4,
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/08/8f760c2a-88c1-4ad0-9cdf-be180c9c883d_5601e499.jpg?itok=HQK8cw_H&v=1794133346",
+      "baseScore": 10,
+      "relevanceScore": 10,
       "matchedKeywords": [
-        "apple"
-      ],
-      "category": "other"
-    },
-    {
-      "title": "What does Apple One Family come with and which subscription is best for you?",
-      "link": "https://www.engadget.com/2307150/apple-one-family-plan-what-comes-with-which-subscription-best/",
-      "description": "Apple One offers strong value if you're using a lot of Apple services anyway, but make sure you do the math before signing up.",
-      "published": "2026-11-08T00:30:00.000Z",
-      "source": "Engadget",
-      "sourceKey": "engadget",
-      "priority": 2,
-      "image": "https://www.engadget.com/img/gallery/what-does-apple-one-family-come-with-and-which-subscription-is-best-for-you/l-intro-1793824864.jpg",
-      "baseScore": 4,
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "apple"
-      ],
-      "category": "other"
-    },
-    {
-      "title": "Major environmental groups are embracing AI to analyze climate data, track forest fires, and more, even as they warn of the environmental impact of data centers",
-      "link": "https://www.techmeme.com/261108/p6#a261108p6",
-      "description": "Major environmental groups are embracing AI to analyze climate data, track forest fires, and more, even as they warn of the environmental impact of data centers — Environmental groups worldwide are using artificial intelligence to analyze climate data, track forest fires and count endangered wildlife …",
-      "published": "2026-11-08T07:01:10.000Z",
-      "source": "Techmeme",
-      "sourceKey": "techmeme",
-      "priority": 1,
-      "image": "http://www.techmeme.com/261108/i6.jpg",
-      "via": "Reuters",
-      "baseScore": 3,
-      "relevanceScore": 3,
-      "matchedKeywords": [
-        "data center",
+        "tencent",
+        "openai",
         "artificial intelligence"
       ],
       "category": "ai"
     },
     {
-      "title": "Nous Research unveils Arete-27B, a post-trained Qwen3.8-27B model that reinforces Western values, saying the underlying Chinese model's bias layer is shallow (Nous Research)",
-      "link": "https://www.techmeme.com/261108/p3#a261108p3",
-      "description": "Nous Research: Nous Research unveils Arete-27B, a post-trained Qwen3.8-27B model that reinforces Western values, saying the underlying Chinese model's bias layer is shallow — We post-trained over Alibaba's Qwen3.8-27B to reinforce Western values on a Chinese-trained model. We call this new model Arete-27B.",
-      "published": "2026-11-08T06:20:00.000Z",
+      "title": "Apple Explores Turning Siri AI Into ChatGPT Dots-Like Agent; iOS 28 Shake-Up",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
+      "description": "The company wants to turn Siri into a true AI agent.",
+      "published": "2026-11-08T15:00:01.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "baseScore": 9,
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "apple",
+        "chatgpt",
+        "ai agent"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "My Week With Apple’s Beach-Friendly iPad Mini and Amazon’s Upscale Alexa Tablet",
+      "link": "https://www.wsj.com/tech/personal-tech/apple-ipad-mini-amazon-alexa-tablet-best-in-years-c5004bac?mod=rss_Technology",
+      "description": "Phones got bigger, laptops got lighter, but tablets still make sense for a lot of people—especially those who love their couch.",
+      "published": "2026-11-08T12:00:00.000Z",
+      "source": "WSJ",
+      "sourceKey": "wsj_tech",
+      "priority": 1,
+      "image": "https://images.wsj.net/im-42006939",
+      "baseScore": 9,
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "apple",
+        "amazon"
+      ],
+      "category": "devices"
+    },
+    {
+      "title": "Sources: John Ternus wants more urgency in Apple's AI efforts, pushing Craig Federighi to move beyond Siri AI tweaks to agentic and other advanced capabilities",
+      "link": "https://www.techmeme.com/261108/p9#a261108p9",
+      "description": "Sources: John Ternus wants more urgency in Apple's AI efforts, pushing Craig Federighi to move beyond Siri AI tweaks to agentic and other advanced capabilities — The company wants to turn Siri into a true AI agent. … Apple's new CEO is pressing software chief Craig Federighi …",
+      "published": "2026-11-08T16:20:06.000Z",
       "source": "Techmeme",
       "sourceKey": "techmeme",
       "priority": 1,
-      "image": "http://www.techmeme.com/261108/i3.jpg",
-      "baseScore": 3,
-      "relevanceScore": 3,
+      "image": "http://www.techmeme.com/261108/i9.jpg",
+      "via": "Bloomberg",
+      "baseScore": 7,
+      "relevanceScore": 8,
       "matchedKeywords": [
-        "alibaba"
+        "apple",
+        "ai agent",
+        "ceo"
       ],
-      "category": "other"
+      "category": "ai",
+      "alsoIn": [
+        {
+          "source": "9to5Mac",
+          "title": "Report: John Ternus pushing Craig Federighi to speed up Apple software engineering",
+          "link": "https://9to5mac.com/2026/11/08/john-ternus-pushing-craig-federighi-to-move-faster-software-engineering/"
+        }
+      ]
     },
     {
-      "title": "Goodbye Claude, Hello Pi",
-      "link": "https://caleb.software/posts/claude-to-pi.html",
-      "description": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 249 # Comments: 143",
-      "published": "2026-11-08T03:11:48.000Z",
-      "source": "Hacker News",
-      "sourceKey": "hackernews",
-      "priority": 2,
-      "image": null,
-      "baseScore": 3,
-      "relevanceScore": 3,
+      "title": "Sources: Anthropic bought commitments for 1.7GW of gas-fired generators from equipment supplier OnePWR for $3.4B, the largest known such purchase by an AI lab",
+      "link": "https://www.techmeme.com/261108/p8#a261108p8",
+      "description": "Sources: Anthropic bought commitments for 1.7GW of gas-fired generators from equipment supplier OnePWR for $3.4B, the largest known such purchase by an AI lab — AI lab bypasses traditional suppliers to secure scarce equipment as demand for energy surges — Anthropic has struck a massive deal …",
+      "published": "2026-11-08T15:05:01.000Z",
+      "source": "Techmeme",
+      "sourceKey": "techmeme",
+      "priority": 1,
+      "image": "http://www.techmeme.com/261108/i8.jpg",
+      "via": "Financial Times",
+      "baseScore": 8,
+      "relevanceScore": 8,
       "matchedKeywords": [
-        "claude"
+        "anthropic"
       ],
       "category": "ai"
     }
@@ -182,9 +218,228 @@
           "ceo"
         ],
         "category": "robotics"
+      },
+      {
+        "title": "Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again",
+        "link": "https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html",
+        "description": "Amazon has formed a new home robotics team and is hiring for a “new-to-world robot product,” according to CNBC’s analysis of job posts.",
+        "published": "2026-11-08T13:00:01.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "amazon"
+        ],
+        "category": "robotics"
+      }
+    ],
+    "devices": [
+      {
+        "title": "From Silicon Valley to the Pentagon, Here’s the 2026 WSJ Tech: California Recap",
+        "link": "https://www.wsj.com/tech/ai/from-silicon-valley-to-the-pentagon-heres-the-2026-wsj-tech-california-recap-351cb31d?mod=rss_Technology",
+        "description": "Plus, Apple’s beach-friendly iPad Mini and Amazon’s upscale Alexa tablet, the data-center revolt continues, investors question Anthropic’s valuation and more.",
+        "published": "2026-11-08T15:55:00.000Z",
+        "source": "WSJ",
+        "sourceKey": "wsj_tech",
+        "priority": 1,
+        "image": "https://images.wsj.net/im-65551994",
+        "baseScore": 11,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "apple",
+          "amazon",
+          "anthropic",
+          "valuation"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "My Week With Apple’s Beach-Friendly iPad Mini and Amazon’s Upscale Alexa Tablet",
+        "link": "https://www.wsj.com/tech/personal-tech/apple-ipad-mini-amazon-alexa-tablet-best-in-years-c5004bac?mod=rss_Technology",
+        "description": "Phones got bigger, laptops got lighter, but tablets still make sense for a lot of people—especially those who love their couch.",
+        "published": "2026-11-08T12:00:00.000Z",
+        "source": "WSJ",
+        "sourceKey": "wsj_tech",
+        "priority": 1,
+        "image": "https://images.wsj.net/im-42006939",
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "apple",
+          "amazon"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Google Pixel 11 Pro XL vs Samsung Galaxy S26 Ultra",
+        "link": "https://www.gsmarena.com/pixel_11_pro_xl_vs_galaxy_s26_ultra_battery_camera_price_compared-news-75303.php",
+        "description": "Looking for a premium Android flagship? The Google Pixel 11 Pro XL and Samsung Galaxy S26 Ultra are two compelling options, but they take rather different approaches. Google's latest Pixel emphasizes its camera experience and tightly integrated Google software, while Samsung offers more powerful hardware, a broader feature set, and extras like Privacy Display and the S Pen. And due to the fact that the Galaxy is now the older model, it can now be found at a lower price. But does Samsung's hardwa",
+        "published": "2026-11-08T12:31:02.000Z",
+        "source": "GSMArena",
+        "sourceKey": "gsmarena",
+        "priority": 3,
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/10/vs-vs-vs-vs-vs/-184x111/gsmarena_002.jpg",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "google",
+          "samsung"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Filings: Apple saved $2.7B in taxes this year by routing up to $50B in profits through Singapore, exceeding the $2.6B in tax savings it achieved via Ireland (Financial Times)",
+        "link": "https://www.techmeme.com/261108/p1#a261108p1",
+        "description": "Financial Times: Filings: Apple saved $2.7B in taxes this year by routing up to $50B in profits through Singapore, exceeding the $2.6B in tax savings it achieved via Ireland — City-state overtakes Ireland as iPhone maker's biggest tax shelter according to new disclosures — Apple shaved $2.7bn off …",
+        "published": "2026-11-08T05:55:01.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261108/i1.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "How long can you expect your Apple AirPods to last?",
+        "link": "https://www.engadget.com/2307837/how-long-expect-apple-airpods-last/",
+        "description": "Here's how to get the most out of your AirPods.",
+        "published": "2026-11-08T16:30:00.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/how-long-can-you-expect-your-apple-airpods-to-last/l-intro-1793612865.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Apple's iOS 28 schedule shift helps engineers get more creative",
+        "link": "https://appleinsider.com/articles/26/11/08/apples-ios-28-schedule-shift-helps-engineers-get-more-creative?utm_source=rss",
+        "description": "Apple has experimented with how it develops its operating system updates, with early schedule changes in making the 28-gen updates, letting engineers become more creative earlier in the process. Apple Park Like any major project, Apple's annual operating system updates like iOS 27 require some intense scheduling. However, the way you schedule work can have a big impact on the final result. According to Mark Gurman in Sunday's \"Power On\" newsletter for Bloomberg on Sunday, Apple has made a tweak",
+        "published": "2026-11-08T16:00:34.000Z",
+        "source": "AppleInsider",
+        "sourceKey": "appleinsider",
+        "priority": 2,
+        "image": "https://media.appleinsider.com/gallery/69750-146999-68730-144772-62250-129028-46178-89892-apple-park-french-media-xl-xl-xl-xl.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Apple Taking New Approach to Developing iOS 28 and macOS 28",
+        "link": "https://www.macrumors.com/2026/11/08/apple-tweaks-ios-28-development-process/",
+        "description": "Apple has made a change to its development process for iOS 28, macOS 28, and corresponding software updates, according to Bloomberg's Mark Gurman. In his Power On newsletter today, he said Apple separates development of each year's new operating systems into three major stages. Typically, he said each stage consists of four weeks of coding followed by a four-week \"convergence\" period where new features are integrated into the operating systems. This time around, Apple has made a change. The firs",
+        "published": "2026-11-08T15:42:38.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/11/iOS-28-AI.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Apple aiming to make Siri ‘more like an agent’ as soon as next year: report",
+        "link": "https://9to5mac.com/2026/11/08/apple-working-on-agentic-siri-ai-next-year-report/",
+        "description": "Apple finally shipped its long awaited personalized Siri with iOS 27. The company lived up to its promises, and delivered on its hefty goals that it set out back in 2024. That said, Siri still lacks in terms of proactively taking actions for you, a feature that many AI companies are actively working towards. Apple might come around on that next year, per Bloomberg’s Mark Gurman. The company is also experimenting with a new engineering pipeline that might make faster development possible. more…",
+        "published": "2026-11-08T15:30:36.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-ai-app-ios-27-new.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "How Apple's Personal Knowledge Graph learns about your life on Mac",
+        "link": "https://appleinsider.com/articles/26/11/08/how-apples-personal-knowledge-graph-learns-about-your-life-on-mac?utm_source=rss",
+        "description": "A breakdown of Apple's Personal Knowledge Graph shows what your Mac and Apple Intelligence know about you and your life. An example of contextual Siri on Mac The upgrade to Siri AI added the understanding of personal context to Apple Intelligence. By pulling information from messages, emails, and photos, Siri can come up with answers to queries with contextual elements, such as knowing the name of your mother from a travel itinerary. However, Apple has been compiling data on its users for a lot",
+        "published": "2026-11-08T14:21:59.000Z",
+        "source": "AppleInsider",
+        "sourceKey": "appleinsider",
+        "priority": 2,
+        "image": "https://media.appleinsider.com/gallery/69745-146995-sirionmac-xl.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "7 apps that still look terrible on foldables, and Google should call them out first",
+        "link": "https://www.androidauthority.com/worst-android-apps-foldables-3729614/",
+        "description": "Developers are gradually adapting to the iPhone Duo, but these app makers still haven't adapted to Android foldables.",
+        "published": "2026-11-08T10:30:58.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/Uber-Eats-on-Galaxy-Z-Fold-8-scaled.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "devices"
       }
     ],
     "ai": [
+      {
+        "title": "Chatbots might be coming to Apple’s HomeView",
+        "link": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+        "description": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like ChatGPT and Claude could be added to HomeView. According to pdfu on X, that new beta also adds support for bidirectional audio routing and session management, but says it's \"still not fully wired up.\" Apple has also added an",
+        "published": "2026-11-08T15:00:30.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0250-1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 11,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "apple",
+          "chatgpt",
+          "claude"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Anthropic Buys Power for AI Data Centers in $3.4B Deal, FT Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-08/anthropic-buys-power-for-ai-data-centres-in-3-4b-deal-ft-says",
+        "description": "Anthropic PBC has agreed to pay $3.4 billion for gas-fired generators for data centers, the FT reported, in what it described as the largest known single purchase of power-generation equipment by an AI lab.",
+        "published": "2026-11-08T11:48:21.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 10,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "anthropic",
+          "data center",
+          "billion"
+        ],
+        "category": "ai"
+      },
       {
         "title": "Anthropic-backed AI safety super PAC Public First spent $63M+ in the 2026 midterms, and 10 of the 17 congressional candidates it backed won their elections",
         "link": "https://www.techmeme.com/261107/p17#a261107p17",
@@ -201,6 +456,167 @@
           "anthropic",
           "ai safety",
           "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "AI will soon master biology, unleashing new safety risks, Tencent AI chief warns",
+        "link": "https://www.scmp.com/tech/big-tech/article/3373697/ai-will-soon-master-biology-unleashing-new-safety-risks-tencent-ai-chief-warns",
+        "description": "Artificial intelligence models will soon be powerful enough to master biology, presenting both benefits and serious risks, Tencent Holdings’ chief AI scientist and former OpenAI star researcher Vinces Yao Shunyu said during a rare public appearance on Saturday. The assessment comes as frontier AI systems are increasingly being applied to medicine and biology, which could accelerate discovery of new drugs and other treatments. However, experts also warn that malicious actors could use AI to...",
+        "published": "2026-11-08T10:22:27.000Z",
+        "source": "SCMP",
+        "sourceKey": "scmp_tech",
+        "priority": 2,
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/08/8f760c2a-88c1-4ad0-9cdf-be180c9c883d_5601e499.jpg?itok=HQK8cw_H&v=1794133346",
+        "baseScore": 10,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "tencent",
+          "openai",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple Explores Turning Siri AI Into ChatGPT Dots-Like Agent; iOS 28 Shake-Up",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
+        "description": "The company wants to turn Siri into a true AI agent.",
+        "published": "2026-11-08T15:00:01.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "apple",
+          "chatgpt",
+          "ai agent"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Sources: John Ternus wants more urgency in Apple's AI efforts, pushing Craig Federighi to move beyond Siri AI tweaks to agentic and other advanced capabilities",
+        "link": "https://www.techmeme.com/261108/p9#a261108p9",
+        "description": "Sources: John Ternus wants more urgency in Apple's AI efforts, pushing Craig Federighi to move beyond Siri AI tweaks to agentic and other advanced capabilities — The company wants to turn Siri into a true AI agent. … Apple's new CEO is pressing software chief Craig Federighi …",
+        "published": "2026-11-08T16:20:06.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261108/i9.jpg",
+        "via": "Bloomberg",
+        "baseScore": 7,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "apple",
+          "ai agent",
+          "ceo"
+        ],
+        "category": "ai",
+        "alsoIn": [
+          {
+            "source": "9to5Mac",
+            "title": "Report: John Ternus pushing Craig Federighi to speed up Apple software engineering",
+            "link": "https://9to5mac.com/2026/11/08/john-ternus-pushing-craig-federighi-to-move-faster-software-engineering/"
+          }
+        ]
+      },
+      {
+        "title": "Sources: Anthropic bought commitments for 1.7GW of gas-fired generators from equipment supplier OnePWR for $3.4B, the largest known such purchase by an AI lab",
+        "link": "https://www.techmeme.com/261108/p8#a261108p8",
+        "description": "Sources: Anthropic bought commitments for 1.7GW of gas-fired generators from equipment supplier OnePWR for $3.4B, the largest known such purchase by an AI lab — AI lab bypasses traditional suppliers to secure scarce equipment as demand for energy surges — Anthropic has struck a massive deal …",
+        "published": "2026-11-08T15:05:01.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261108/i8.jpg",
+        "via": "Financial Times",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "anthropic"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News",
+        "link": "https://the-decoder.com/andrej-karpathy-built-a-curated-video-platform-in-a-weekend-using-claude-and-20-years-of-hacker-news/",
+        "description": "OpenAI co-founder Andrej Karpathy used Claude's Opus 5.5 to filter 43 million Hacker News comments into 6,454 curated videos. The result beats YouTube's own recommendations, he says. The article Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News appeared first on The Decoder.",
+        "published": "2026-11-08T14:23:00.000Z",
+        "source": "The Decoder",
+        "sourceKey": "thedecoder",
+        "priority": 2,
+        "image": "https://the-decoder.com/wp-content/uploads/2026/11/comments_to_youtube.png",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "claude",
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "The inventor of the bitter lesson has a bitter lesson for LLM scaling enthusiasts",
+        "link": "https://the-decoder.com/the-inventor-of-the-bitter-lesson-has-a-bitter-lesson-for-llm-scaling-enthusiasts/",
+        "description": "Turing Award winner Richard Sutton reaffirms that raw compute alone isn't enough for intelligence and that fundamentally new learning methods are needed. Ex-OpenAI researcher Tworek agrees, saying blind transformer scaling \"has reward hacked brains of a whole generation of scientists.\" A growing wave of startups is already betting on exactly this gap. The article The inventor of the bitter lesson has a bitter lesson for LLM scaling enthusiasts appeared first on The Decoder.",
+        "published": "2026-11-08T11:44:41.000Z",
+        "source": "The Decoder",
+        "sourceKey": "thedecoder",
+        "priority": 2,
+        "image": "https://the-decoder.com/wp-content/uploads/2026/11/ai_scaling_bitter_lesson-2.png",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "llm",
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Siri AI won't get more control of Apple apps until Spring 2027",
+        "link": "https://appleinsider.com/articles/26/11/08/siri-ai-wont-get-more-control-of-apple-apps-until-spring-2027?utm_source=rss",
+        "description": "Siri is already capable of handling some tasks for iOS 27.3 developer beta users. Apple is exploring making it even more useful to keep up with rival AI apps. Siri AI Developers in iOS 27.3 are discovering that Siri AI can do a lot more for users. For first-party apps, users can ask Siri what it can do, and then ask for it to carry out those same tasks. However, this is only one step for Apple. It wants to do a lot more, both in terms of task complexity and for third-party apps too. Rumor Score:",
+        "published": "2026-11-08T15:30:10.000Z",
+        "source": "AppleInsider",
+        "sourceKey": "appleinsider",
+        "priority": 2,
+        "image": "https://media.appleinsider.com/gallery/69748-146997-69655-146876-Siri-AI-xl-xl.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple leadership may have differing views on AI strategy",
+        "link": "https://appleinsider.com/articles/26/11/08/apple-leadership-may-have-differing-views-on-ai-strategy?utm_source=rss",
+        "description": "A new report suggests Apple still faces internal battles around AI strategy even though it has seemingly held to the same strategy set by John Giannandrea nearly a decade prior. Apple Intelligence development continues The usual chatter and rumors that make it out of containment to reporters' ears suggest catastrophe and confusion within Apple even as evidence suggests otherwise. In a world where the AI bubble is bursting, if not at least deflating faster by the day, it's odd to see reports cont",
+        "published": "2026-11-08T15:26:08.000Z",
+        "source": "AppleInsider",
+        "sourceKey": "appleinsider",
+        "priority": 2,
+        "image": "https://media.appleinsider.com/gallery/69749-146998-Apple-Intelligence-neon-xl.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Siri AI chief may step down as more Apple departures are rumored",
+        "link": "https://appleinsider.com/articles/26/11/08/siri-ai-chief-may-step-down-as-more-apple-departures-are-rumored?utm_source=rss",
+        "description": "Apple's Mike Rockwell is reportedly considering leaving at least his current role as head of Siri AI, perhaps prompting a shakeup of executive roles at the company. Apple Park Rockwell was behind the development of the Apple Vision Pro and subsequently became head of Siri AI as Apple worked to revamp Siri into the version released in 2026. According to Bloomberg's \"Power On\" newsletter, though, he is seriously contemplating his future. Reportedly, this could comprise his stepping down as lead of",
+        "published": "2026-11-08T15:25:28.000Z",
+        "source": "AppleInsider",
+        "sourceKey": "appleinsider",
+        "priority": 2,
+        "image": "https://photos5.appleinsider.com/gallery/68351-144058-Apple-Park-miniature-xl.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
         ],
         "category": "ai"
       },
@@ -223,6 +639,39 @@
         "category": "ai"
       },
       {
+        "title": "AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test",
+        "link": "https://the-decoder.com/ai-coding-agents-still-need-human-cleanup-on-nearly-three-out-of-four-tasks-in-a-real-world-test/",
+        "description": "Alibaba's new coding-agent benchmark, Co-Design Bench, tests AI agents on real user requests that already tripped them up in practice. Even GPT-6 Astra, the top performer, fully solves only 26.4 percent of tasks. On older benchmarks, the same models score above 99 percent. The article AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test appeared first on The Decoder.",
+        "published": "2026-11-08T09:50:59.000Z",
+        "source": "The Decoder",
+        "sourceKey": "thedecoder",
+        "priority": 2,
+        "image": "https://the-decoder.com/wp-content/uploads/2026/11/co-design-bench-nano-banana-pro.jpg",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "alibaba",
+          "ai agent"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "heise-Angebot: iX-Workshop: Weniger Zeit, mehr Code – schneller programmieren mit Claude Code",
+        "link": "https://www.heise.de/news/iX-Workshop-Claude-Code-in-der-Praxis-effizienter-entwickeln-mit-KI-Agenten-11503304.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "Erfahren Sie, wie Sie Ihre Entwicklungsaufgaben mit Claude Code autonom bearbeiten lassen und Ihre Workflows mit KI-Agenten spürbar beschleunigen können.",
+        "published": "2026-11-08T09:00:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/0/5/3/0/Hands-on-Claude-Code_ticker_1920x1080-61c759c53ec186c9.png",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "claude"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "Goodbye Claude, Hello Pi",
         "link": "https://caleb.software/posts/claude-to-pi.html",
         "description": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 249 # Comments: 143",
@@ -237,6 +686,203 @@
           "claude"
         ],
         "category": "ai"
+      }
+    ],
+    "business": [
+      {
+        "title": "Wall Street Races for Megadeals as Countdown Begins on Trump Era",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-08/wall-street-races-for-megadeals-as-countdown-begins-on-trump-era",
+        "description": "President Donald Trump’s return to the White House changed the political calculus around mergers and acquisitions, reviving companies’ desire for dream deals that had become difficult to pull off. Now, corporate America is on the clock.",
+        "published": "2026-11-08T14:00:00.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_markets",
+        "priority": 1,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "acquisition",
+          "merger"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "How Much More AI Stock Can the Market Absorb?",
+        "link": "https://www.theinformation.com/articles/ai-stock-can-market-absorb",
+        "description": "Volatile trading in AI-related stocks this past week has put a spotlight on investors’ appetite for additional share offerings—and the prices companies could get if they opt to sell. While tech giants, chip companies and AI cloud providers have sold or priced more than $300 billion of new stock and mandatory convertible securities so far this year, another roughly $100 billion in potential share sales remains on tap. Most would come through at-the-market programs, which give companies the option",
+        "published": "2026-11-08T16:00:51.000Z",
+        "source": "The Information",
+        "sourceKey": "theinformation",
+        "priority": 1,
+        "image": null,
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "chip",
+          "billion"
+        ],
+        "category": "business"
+      }
+    ],
+    "chips_cloud": [
+      {
+        "title": "'TSMC overweegt productie van geavanceerde geheugenchips op verzoek van Nvidia'",
+        "link": "https://tweakers.net/nieuws/254288/tsmc-overweegt-productie-van-geavanceerde-geheugenchips-op-verzoek-van-nvidia.html",
+        "description": "TSMC overweegt om zelf geheugenchips te fabriceren, meldt The Information. Nvidia zou de chipfabrikant gevraagd hebben om 3d-dramgeheugen te maken.",
+        "published": "2026-11-08T11:08:41.000Z",
+        "source": "Tweakers",
+        "sourceKey": "tweakers",
+        "priority": 2,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "nvidia",
+          "tsmc"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Nvidia-ceo moet zich verantwoorden voor 'liefdesrelatie' met Chinese spion",
+        "link": "https://tweakers.net/nieuws/254284/nvidia-ceo-moet-zich-verantwoorden-voor-liefdesrelatie-met-chinese-spion.html",
+        "description": "Nvidia-ceo Jensen Huang moet zich verantwoorden tegenover het Amerikaanse Congres over zijn vermeende band met Alice Huang. Volgens de Financial Times had de directeur van Nvidia een liefdesrelatie met haar. Alice zou informatie hebben doorgespeeld aan de Chinese overheid.",
+        "published": "2026-11-08T09:10:20.000Z",
+        "source": "Tweakers",
+        "sourceKey": "tweakers",
+        "priority": 2,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "nvidia",
+          "ceo",
+          "jensen huang"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Nvidia released its 8800 GTX GPU 20 years ago today, celebrates with Steam game homage",
+        "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-released-its-8800-gtx-gpu-20-years-ago-today-celebrates-with-steam-game-homage-interactive-demos-eye-watering-minimum-requirements-include-rtx-4070-32gb-ram-and-30gb-storage",
+        "description": "On this day in 2006, Nvidia released the legendary GeForce 8800 GTX graphics card and it is celebrating the event with a very demanding (but free) interactive Steam demo.",
+        "published": "2026-11-08T14:20:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/TmUVtxVZfu7Yc9Rnd5tCtA-1920-80.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "nvidia",
+          "gpu"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Hundreds arrested after Microsoft data center protest turns violent",
+        "link": "https://www.tomshardware.com/tech-industry/data-centers/hundreds-arrested-after-microsoft-data-center-protest-turns-violent-stop-dirty-data-centers-coalition-demands-halt-to-ai-data-center-expansion-dutch-police-seize-break-in-tools-suspected-stolen-items-from-construction-site",
+        "description": "It's unclear which group entered the construction site first, but the action led to the arrest of 150 to 200 protesters.",
+        "published": "2026-11-08T13:20:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/TwLpg3gN7h8B8fkmMySvu4-1920-80.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "microsoft",
+          "data center"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Two Chinese companies cleared to buy banned Nvidia AI chips have empty offices and unknown addresses",
+        "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/two-chinese-companies-cleared-to-buy-banned-nvidia-ai-chips-have-empty-offices-and-unknown-addresses-investigation-reveals-businesses-have-ties-to-sanctioned-chinese-military-suppliers",
+        "description": "The offices for New Matrix and Maginfra, both approved to receive H200 chips, appear abandoned, and people in the buildings say they're unfamiliar with the companies or have never seen anyone working there.",
+        "published": "2026-11-08T13:00:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/RAnrUYUPEDMbGSwoqAPETM-1920-80.png",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "nvidia",
+          "chip"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "The end of an era as Linux 7.5 purges the last 30-year-old Intel MMX optimizations from Pentium age",
+        "link": "https://www.tomshardware.com/software/linux/the-end-of-an-era-as-linux-7-5-purges-the-last-30-year-old-intel-mmx-optimizations-from-pentium-age-open-source-os-retires-ancient-1997-pentium-instructions-to-streamline-code",
+        "description": "Linux developers are preparing to make Intel’s ancient MultiMedia eXtensions irrelevant, with the last MMX code now set to be removed from the kernel.",
+        "published": "2026-11-08T14:40:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/rXG5LfQBM4KrVowgfX4A3g-1920-80.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "intel"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Open-source GPU task manager reveals exactly what's eating your VRAM",
+        "link": "https://www.tomshardware.com/pc-components/gpus/open-source-gpu-task-manager-reveals-exactly-whats-eating-your-vram-microsoft-vps-new-gpu-taskman-tool-reveals-every-process-using-your-gpu-how-much-memory-each-uses-and-breaks-down-ai-and-llm-workloads",
+        "description": "A new open-source GitHub project called gputaskman has been released by Microsoft VP Scott Hanselman.",
+        "published": "2026-11-08T13:40:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/j6M4fBvsjExPSFtuP5xYyG-1920-80.jpg",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "gpu",
+          "microsoft"
+        ],
+        "category": "chips_cloud"
+      }
+    ],
+    "space": [
+      {
+        "title": "SpaceX will perform Starship double catch attempt with Flight 15",
+        "link": "https://www.teslarati.com/spacex-perform-starship-double-catch-attempt-flight-15/",
+        "description": "SpaceX plans to attempt what will be a defining moment in rocket reusability on Starship Flight 15. As Elon Musk announced in a recent X post, SpaceX will attempt to catch both the Super Heavy Booster and the Starship upper stage during the upcoming orbital flight. If successful, it will mark the first time that […] The post SpaceX will perform Starship double catch attempt with Flight 15 appeared first on TESLARATI.",
+        "published": "2026-11-08T15:26:05.000Z",
+        "source": "Teslarati",
+        "sourceKey": "teslarati",
+        "priority": 3,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "spacex",
+          "starship",
+          "elon musk"
+        ],
+        "category": "space"
+      }
+    ],
+    "ev_autonomous": [
+      {
+        "title": "Tesla Cybercab is set to get some massive improvements",
+        "link": "https://www.teslarati.com/tesla-cybercab-set-some-massive-improvements/",
+        "description": "Tesla Cybercab is going to get some pretty substantial updates, including improvements to efficiency and a new color. CEO Elon Musk said in a post on X on Saturday that Tesla would be working to refine the Cybercab even more, following the announcement during the week that the company would eliminate the Cybertruck lines within […] The post Tesla Cybercab is set to get some massive improvements appeared first on TESLARATI.",
+        "published": "2026-11-08T14:45:16.000Z",
+        "source": "Teslarati",
+        "sourceKey": "teslarati",
+        "priority": 3,
+        "image": "https://www.teslarati.com/wp-content/uploads/2026/07/tesla-cybercab-employee-rides-texas.jpg",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "tesla",
+          "elon musk",
+          "ceo"
+        ],
+        "category": "ev_autonomous"
       }
     ],
     "other": [
@@ -254,6 +900,38 @@
         "relevanceScore": 5,
         "matchedKeywords": [
           "cisco"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Doom delivers five minutes of terminal violence on an IBM mainframe",
+        "link": "https://www.theregister.com/offbeat/2026/11/08/doom-delivers-five-minutes-of-terminal-violence-on-an-ibm-mainframe/5308092",
+        "description": "Browser demo renders the classic shooter in ASCII, with no login required and considerable squinting encouraged",
+        "published": "2026-11-08T11:19:00.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=5308119&width=800",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "ibm"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Microsoft brengt patch uit voor rce-lek in Paint na eerdere mislukte uitrol",
+        "link": "https://tweakers.net/nieuws/254286/microsoft-brengt-patch-uit-voor-rce-lek-in-paint-na-eerdere-mislukte-uitrol.html",
+        "description": "Microsoft heeft nu wél de nieuwe versie van Paint uitgebracht, die een remote-code-executionbug verhelpt. Het bedrijf zei dat het de update vorige maand al had uitgebracht, maar veel gebruikers kregen deze niet binnen.",
+        "published": "2026-11-08T10:00:07.000Z",
+        "source": "Tweakers",
+        "sourceKey": "tweakers",
+        "priority": 2,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "microsoft"
         ],
         "category": "other"
       },
@@ -290,6 +968,22 @@
         "category": "other"
       },
       {
+        "title": "Poppi founders are going after PepsiCo's Gatorade with new beverage startup Jetty",
+        "link": "https://www.cnbc.com/2026/11/08/poppi-founders-jetty-hydration-gatorade.html",
+        "description": "Poppi founders Allison and Stephen Ellsworth are launching Jetty, a hydration brand selling bottled drinks and powders at Whole Foods, Target and Amazon.",
+        "published": "2026-11-08T14:00:01.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_top",
+        "priority": 1,
+        "image": null,
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "amazon"
+        ],
+        "category": "other"
+      },
+      {
         "title": "Nous Research unveils Arete-27B, a post-trained Qwen3.8-27B model that reinforces Western values, saying the underlying Chinese model's bias layer is shallow (Nous Research)",
         "link": "https://www.techmeme.com/261108/p3#a261108p3",
         "description": "Nous Research: Nous Research unveils Arete-27B, a post-trained Qwen3.8-27B model that reinforces Western values, saying the underlying Chinese model's bias layer is shallow — We post-trained over Alibaba's Qwen3.8-27B to reinforce Western values on a Chinese-trained model. We call this new model Arete-27B.",
@@ -304,26 +998,24 @@
           "alibaba"
         ],
         "category": "other"
-      }
-    ],
-    "devices": [
+      },
       {
-        "title": "Filings: Apple saved $2.7B in taxes this year by routing up to $50B in profits through Singapore, exceeding the $2.6B in tax savings it achieved via Ireland (Financial Times)",
-        "link": "https://www.techmeme.com/261108/p1#a261108p1",
-        "description": "Financial Times: Filings: Apple saved $2.7B in taxes this year by routing up to $50B in profits through Singapore, exceeding the $2.6B in tax savings it achieved via Ireland — City-state overtakes Ireland as iPhone maker's biggest tax shelter according to new disclosures — Apple shaved $2.7bn off …",
-        "published": "2026-11-08T05:55:01.000Z",
-        "source": "Techmeme",
-        "sourceKey": "techmeme",
-        "priority": 1,
-        "image": "http://www.techmeme.com/261108/i1.jpg",
-        "baseScore": 5,
-        "relevanceScore": 5,
+        "title": "Jensen Huang soll Beziehung zu chinesischer Spionin gehabt haben",
+        "link": "https://www.heise.de/news/Jensen-Huang-soll-Beziehung-zu-chinesischer-Spionin-gehabt-haben-11516677.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "US-Berichte legen nahe, dass Jensen Huang einer Spionin nahestand, deren Arbeitgeber Exportbeschränkungen unterlaufen haben soll.",
+        "published": "2026-11-08T15:40:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/7/3/2/6/Huang-Trump-eb2222563a7488b4.png",
+        "baseScore": 3,
+        "relevanceScore": 3,
         "matchedKeywords": [
-          "apple"
+          "jensen huang"
         ],
-        "category": "devices"
+        "category": "other"
       }
     ]
   },
-  "totalArticles": 9
+  "totalArticles": 47
 }
