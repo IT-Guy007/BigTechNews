@@ -4,7 +4,7 @@
   "title": "Saturday, Nov 7",
   "dateRange": "November 7, 2026",
   "date": "2026-11-07",
-  "generatedAt": "2026-11-07T21:54:01.626Z",
+  "generatedAt": "2026-11-08T01:28:12.045Z",
   "highlights": [
     {
       "title": "Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation",
@@ -463,6 +463,23 @@
         "category": "ai"
       },
       {
+        "title": "Google Messages homepage redesign: Pinned chat avatars, bottom search, corner Gemini",
+        "link": "https://9to5google.com/2026/11/07/google-messages-pinned-chats-redesign/",
+        "description": "In addition to the new app icon, Google Messages for Android is testing a big homepage redesign that has three core components. more…",
+        "published": "2026-11-07T23:08:00.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/google-messages-thread-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "google",
+          "gemini"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds",
         "link": "https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/",
         "description": "AI models can often spot problematic behavior by other AI agents in logs, according to a study by Anthropic researcher Andy Hall. GPT-5 found about 98 percent of reward-hacking cases, but the more exhaustively the search is tuned, the more false alarms pile up. That's not yet enough for reliable safety checks. The article AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds appeared first on The Decoder.",
@@ -703,6 +720,23 @@
         "relevanceScore": 6,
         "matchedKeywords": [
           "google",
+          "data center"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+        "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+        "description": "On Equity, we unpacked what the midterms mean for the tech industry.",
+        "published": "2026-11-07T22:07:22.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "elon musk",
           "data center"
         ],
         "category": "chips_cloud"
@@ -1335,5 +1369,5 @@
       }
     ]
   },
-  "totalArticles": 65
+  "totalArticles": 67
 }
