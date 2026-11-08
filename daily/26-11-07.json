@@ -4,7 +4,7 @@
   "title": "Saturday, Nov 7",
   "dateRange": "November 7, 2026",
   "date": "2026-11-07",
-  "generatedAt": "2026-11-08T01:28:12.045Z",
+  "generatedAt": "2026-11-08T09:02:39.874Z",
   "highlights": [
     {
       "title": "Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation",
@@ -544,6 +544,22 @@
         "relevanceScore": 4,
         "matchedKeywords": [
           "microsoft"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+        "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+        "description": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 369 # Comments: 257",
+        "published": "2026-11-07T20:45:32.000Z",
+        "source": "Hacker News",
+        "sourceKey": "hackernews",
+        "priority": 2,
+        "image": null,
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "claude"
         ],
         "category": "ai"
       },
@@ -1369,5 +1385,5 @@
       }
     ]
   },
-  "totalArticles": 67
+  "totalArticles": 68
 }
