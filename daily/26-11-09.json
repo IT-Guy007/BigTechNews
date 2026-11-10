@@ -4,7 +4,7 @@
   "title": "Monday, Nov 9",
   "dateRange": "November 9, 2026",
   "date": "2026-11-09",
-  "generatedAt": "2026-11-09T20:46:34.055Z",
+  "generatedAt": "2026-11-10T04:08:46.703Z",
   "highlights": [
     {
       "title": "Can DeepSeek challenge OpenAI, Anthropic in AI agents as Harness adoption takes off?",
@@ -47,6 +47,26 @@
         "ceo"
       ],
       "category": "chips_cloud"
+    },
+    {
+      "title": "Anthropic Prepares to Push Ahead With IPO Despite Market Jitters",
+      "link": "https://www.wsj.com/finance/stocks/anthropic-prepares-to-push-ahead-with-ipo-despite-market-jitters-843dd16c?mod=rss_Technology",
+      "description": "The Claude maker is braving investor nerves around artificial intelligence and an Nvidia investigation.",
+      "published": "2026-11-09T21:12:00.000Z",
+      "source": "WSJ",
+      "sourceKey": "wsj_tech",
+      "priority": 1,
+      "image": "https://images.wsj.net/im-22954716",
+      "baseScore": 17,
+      "relevanceScore": 17,
+      "matchedKeywords": [
+        "anthropic",
+        "ipo",
+        "nvidia",
+        "claude",
+        "artificial intelligence"
+      ],
+      "category": "ai"
     },
     {
       "title": "Anthropic Unveils New Fable, Mythos AI Models Ahead of IPO",
@@ -183,41 +203,29 @@
       ]
     },
     {
-      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-      "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-      "description": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
-      "published": "2026-11-09T20:09:06.000Z",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
+      "title": "Anthropic Releases New Frontier Models as IPO Nears",
+      "link": "https://www.theinformation.com/briefings/anthropic-releases-new-frontier-models-ipo-nears",
+      "description": "Anthropic released Claude Fable 5.2 and Claude Mythos 5.2, the latest updates in its most advanced model lines, on Monday as the company prepares for its historic IPO. The two models rely on the same underlying technology but Fable has stronger safeguards around cybersecurity and biological ...",
+      "published": "2026-11-09T21:22:50.000Z",
+      "source": "The Information",
+      "sourceKey": "theinformation",
       "priority": 1,
       "image": null,
       "baseScore": 14,
-      "relevanceScore": 14,
-      "matchedKeywords": [
-        "nvidia",
-        "jensen huang",
-        "anthropic",
-        "ceo"
-      ],
-      "category": "chips_cloud"
-    },
-    {
-      "title": "SpaceX’s Anthropic deal has a catch, and Elon Musk just addressed it",
-      "link": "https://www.teslarati.com/spacexs-anthropic-deal-has-a-catch-and-elon-musk-just-addressed-it/",
-      "description": "Elon Musk says SpaceX's Anthropic compute deal cuts both ways after Chamath floats higher prices. The post SpaceX’s Anthropic deal has a catch, and Elon Musk just addressed it appeared first on TESLARATI.",
-      "published": "2026-11-09T07:22:16.000Z",
-      "source": "Teslarati",
-      "sourceKey": "teslarati",
-      "priority": 3,
-      "image": null,
-      "baseScore": 14,
-      "relevanceScore": 14,
+      "relevanceScore": 15,
       "matchedKeywords": [
         "anthropic",
-        "spacex",
-        "elon musk"
+        "ipo",
+        "claude"
       ],
-      "category": "space"
+      "category": "ai",
+      "alsoIn": [
+        {
+          "source": "CNBC",
+          "title": "Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds",
+          "link": "https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html"
+        }
+      ]
     },
     {
       "title": "What to Know About Nvidia CEO Jensen Huang’s Affair With Suspected Chinese Spy",
@@ -229,7 +237,7 @@
       "priority": 1,
       "image": null,
       "baseScore": 11,
-      "relevanceScore": 13,
+      "relevanceScore": 14,
       "matchedKeywords": [
         "nvidia",
         "jensen huang",
@@ -253,64 +261,124 @@
           "source": "The Block",
           "title": "Nvidia perps slide as market reacts to CEO Jensen Huang’s Chinese spy scandal",
           "link": "https://www.theblock.co/news/defi/2026-11-08-nvidia-perps-slide-jensen-huang-436047"
+        },
+        {
+          "source": "The Verge",
+          "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
+        },
+        {
+          "source": "Techmeme",
+          "title": "Trump says the FBI is \"looking into\" Jensen Huang's affair, and the Nvidia CEO told him he \"had absolutely no idea that the person in question was a spy\" (Associated Press)",
+          "link": "https://www.techmeme.com/261109/p44#a261109p44"
+        },
+        {
+          "source": "Bloomberg",
+          "title": "Nvidia CEO Jensen Huang's Affair With Alleged Spy Raises Succession Concerns",
+          "link": "https://www.bloomberg.com/news/features/2026-11-09/nvidia-ceo-jensen-huang-s-affair-with-alleged-spy-raises-succession-concerns"
+        },
+        {
+          "source": "The Register",
+          "title": "Nvidia CEO Jensen Huang admits affair with possible Chinese asset",
+          "link": "https://www.theregister.com/legal/2026/11/09/nvidia-ceo-jensen-huang-admits-affair-with-possible-chinese-asset/5308327"
+        },
+        {
+          "source": "The Verge",
+          "title": "Here’s what Trump said he knew about Jensen Huang",
+          "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference"
+        },
+        {
+          "source": "SiliconANGLE",
+          "title": "Trump stands by Nvidia boss Jensen Huang despite spy scandal, but FBI is investigating",
+          "link": "https://siliconangle.com/2026/11/09/trump-stands-by-nvidia-boss-jensen-huang-despite-spy-scandal-says-fbi-investigating/"
         }
       ]
     },
     {
-      "title": "Menlo: Agents Now Drive 80% of Enterprise AI Usage",
-      "link": "https://www.bloomberg.com/news/videos/2026-11-09/menlo-agents-now-drive-80-of-enterprise-ai-usage-video",
-      "description": "Enterprise AI spending has surged to $177 billion, up from $33 billion in 2025, according to Menlo Ventures’ latest State of Enterprise AI report. Partner Deedy Das says AI agents now account for 80% of usage, as businesses move beyond chatbots toward systems capable of completing complex tasks autonomously. He also discusses the dominance of Anthropic and OpenAI in enterprise API spending. He joins Carol Massar on \"Bloomberg Tech.\" (Source: Bloomberg)",
-      "published": "2026-11-09T18:54:42.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
+      "title": "Nvidia Shares Slump on Spy Probe",
+      "link": "https://www.wsj.com/business/nvidia-shares-slump-on-spy-probe-1d59bde7?mod=rss_Technology",
+      "description": "Plus, Rep. Thomas Massie introduced articles of impeachment against Pete Hegseth and Anthropic is forging ahead with its IPO later this month.",
+      "published": "2026-11-09T22:35:00.000Z",
+      "source": "WSJ",
+      "sourceKey": "wsj_tech",
       "priority": 1,
-      "image": null,
+      "image": "https://images.wsj.net/im-18001315",
       "baseScore": 13,
-      "relevanceScore": 13,
+      "relevanceScore": 14,
       "matchedKeywords": [
-        "openai",
+        "nvidia",
         "anthropic",
-        "ai agent",
-        "billion"
+        "ipo"
       ],
-      "category": "ai"
+      "category": "business",
+      "alsoIn": [
+        {
+          "source": "Bloomberg",
+          "title": "How Nvidia CEO’s Affair Engulfed AI Giant in Spy Probe",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-09/how-nvidia-ceo-s-affair-engulfed-ai-giant-in-spy-probe-video"
+        },
+        {
+          "source": "Bloomberg",
+          "title": "Nvidia CEO’s Affair Engulfs AI Giant in Spying Probe",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-ceo-s-affair-engulfs-ai-giant-in-spying-probe-video"
+        },
+        {
+          "source": "Bloomberg",
+          "title": "Huang's Affair Engulfs Nvidia in Chinese Spying Probe",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-09/the-china-show-11-09-2026-video"
+        },
+        {
+          "source": "Bloomberg",
+          "title": "Nvidia Shares Drop After CEO Huang’s Affair Triggers Board Probe",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-shares-dip-on-robinhood-as-huang-affair-spurs-board-probe"
+        }
+      ]
     },
     {
-      "title": "Uber launches Uber Parking, an in-app parking reservation tool powered by its SpotHero acquisition, in 15 US cities, including Chicago, NYC, and San Francisco",
-      "link": "https://www.techmeme.com/261109/p34#a261109p34",
-      "description": "Uber launches Uber Parking, an in-app parking reservation tool powered by its SpotHero acquisition, in 15 US cities, including Chicago, NYC, and San Francisco — Powered by its SpotHero acquisition, Uber's new parking reservation tool is a play for commuter loyalty — and a staging ground for its robotaxi future.",
-      "published": "2026-11-09T17:15:14.000Z",
-      "source": "Techmeme",
-      "sourceKey": "techmeme",
-      "priority": 1,
-      "image": "http://www.techmeme.com/261109/i34.jpg",
-      "via": "The Verge",
+      "title": "Meta's Muse AI Agent Comes to Apple Watch",
+      "link": "https://www.macrumors.com/2026/11/09/meta-muse-apple-watch/",
+      "description": "Meta today updated the Muse app for iOS to add Apple Watch support, which means Muse users can access the proactive AI agent from the watch. The app adds the Muse character to the watch with an option to text it, dictate text to it, or call it. There's also a Muse complication for quick access. Muse is Meta's personal AI agent that can complete tasks for users. It is available as a standalone app and is also built into Instagram, Facebook, and other Meta apps. The yeti-like character Meta design",
+      "published": "2026-11-09T21:55:26.000Z",
+      "source": "MacRumors",
+      "sourceKey": "macrumors",
+      "priority": 2,
+      "image": "https://images.macrumors.com/article-new/2026/11/muse-apple-watch-app.jpg",
       "baseScore": 13,
-      "relevanceScore": 13,
+      "relevanceScore": 14,
       "matchedKeywords": [
-        "uber",
-        "acquisition",
-        "robotaxi"
+        "apple",
+        "meta",
+        "ai agent",
+        "facebook",
+        "instagram"
       ],
-      "category": "business"
+      "category": "ai",
+      "alsoIn": [
+        {
+          "source": "AppleInsider",
+          "title": "Meta's Muse AI now has an Apple Watch app, which you shouldn't install",
+          "link": "https://appleinsider.com/articles/26/11/09/metas-muse-ai-now-has-an-apple-watch-app-which-you-shouldnt-install?utm_source=rss"
+        }
+      ]
     },
     {
-      "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
-      "link": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/",
-      "description": "Uber Parking is the latest example of the company offering products beyond its core ride-hailing service.",
-      "published": "2026-11-09T17:00:00.000Z",
+      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "description": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+      "published": "2026-11-09T20:09:06.000Z",
       "source": "TechCrunch",
       "sourceKey": "techcrunch",
       "priority": 1,
       "image": null,
-      "baseScore": 13,
-      "relevanceScore": 13,
+      "baseScore": 14,
+      "relevanceScore": 14,
       "matchedKeywords": [
-        "uber",
-        "acquisition",
-        "robotaxi"
+        "nvidia",
+        "jensen huang",
+        "anthropic",
+        "ceo"
       ],
-      "category": "ev_autonomous"
+      "category": "chips_cloud"
     }
   ],
   "byCategory": {
@@ -333,6 +401,26 @@
           "ai agent",
           "artificial intelligence",
           "billion"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Anthropic Prepares to Push Ahead With IPO Despite Market Jitters",
+        "link": "https://www.wsj.com/finance/stocks/anthropic-prepares-to-push-ahead-with-ipo-despite-market-jitters-843dd16c?mod=rss_Technology",
+        "description": "The Claude maker is braving investor nerves around artificial intelligence and an Nvidia investigation.",
+        "published": "2026-11-09T21:12:00.000Z",
+        "source": "WSJ",
+        "sourceKey": "wsj_tech",
+        "priority": 1,
+        "image": "https://images.wsj.net/im-22954716",
+        "baseScore": 17,
+        "relevanceScore": 17,
+        "matchedKeywords": [
+          "anthropic",
+          "ipo",
+          "nvidia",
+          "claude",
+          "artificial intelligence"
         ],
         "category": "ai"
       },
@@ -378,6 +466,58 @@
         ]
       },
       {
+        "title": "Anthropic Releases New Frontier Models as IPO Nears",
+        "link": "https://www.theinformation.com/briefings/anthropic-releases-new-frontier-models-ipo-nears",
+        "description": "Anthropic released Claude Fable 5.2 and Claude Mythos 5.2, the latest updates in its most advanced model lines, on Monday as the company prepares for its historic IPO. The two models rely on the same underlying technology but Fable has stronger safeguards around cybersecurity and biological ...",
+        "published": "2026-11-09T21:22:50.000Z",
+        "source": "The Information",
+        "sourceKey": "theinformation",
+        "priority": 1,
+        "image": null,
+        "baseScore": 14,
+        "relevanceScore": 15,
+        "matchedKeywords": [
+          "anthropic",
+          "ipo",
+          "claude"
+        ],
+        "category": "ai",
+        "alsoIn": [
+          {
+            "source": "CNBC",
+            "title": "Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds",
+            "link": "https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html"
+          }
+        ]
+      },
+      {
+        "title": "Meta's Muse AI Agent Comes to Apple Watch",
+        "link": "https://www.macrumors.com/2026/11/09/meta-muse-apple-watch/",
+        "description": "Meta today updated the Muse app for iOS to add Apple Watch support, which means Muse users can access the proactive AI agent from the watch. The app adds the Muse character to the watch with an option to text it, dictate text to it, or call it. There's also a Muse complication for quick access. Muse is Meta's personal AI agent that can complete tasks for users. It is available as a standalone app and is also built into Instagram, Facebook, and other Meta apps. The yeti-like character Meta design",
+        "published": "2026-11-09T21:55:26.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/11/muse-apple-watch-app.jpg",
+        "baseScore": 13,
+        "relevanceScore": 14,
+        "matchedKeywords": [
+          "apple",
+          "meta",
+          "ai agent",
+          "facebook",
+          "instagram"
+        ],
+        "category": "ai",
+        "alsoIn": [
+          {
+            "source": "AppleInsider",
+            "title": "Meta's Muse AI now has an Apple Watch app, which you shouldn't install",
+            "link": "https://appleinsider.com/articles/26/11/09/metas-muse-ai-now-has-an-apple-watch-app-which-you-shouldnt-install?utm_source=rss"
+          }
+        ]
+      },
+      {
         "title": "Menlo: Agents Now Drive 80% of Enterprise AI Usage",
         "link": "https://www.bloomberg.com/news/videos/2026-11-09/menlo-agents-now-drive-80-of-enterprise-ai-usage-video",
         "description": "Enterprise AI spending has surged to $177 billion, up from $33 billion in 2025, according to Menlo Ventures’ latest State of Enterprise AI report. Partner Deedy Das says AI agents now account for 80% of usage, as businesses move beyond chatbots toward systems capable of completing complex tasks autonomously. He also discusses the dominance of Anthropic and OpenAI in enterprise API spending. He joins Carol Massar on \"Bloomberg Tech.\" (Source: Bloomberg)",
@@ -416,6 +556,24 @@
         "category": "ai"
       },
       {
+        "title": "Claude Fable 5.2 and Mythos 5.2 cement Anthropic's AI lead just before its IPO",
+        "link": "https://the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo/",
+        "description": "Anthropic is releasing Claude Fable 5.2 and Mythos 5.2, its most powerful models to date, in two versions: one freely available and one reserved for verified organizations. The models solve open physics problems, show stronger cybersecurity capabilities, design functioning operating systems, and write more than 90 percent of the changes merged into Anthropic's core code, according to the company. Anthropic says it has deliberately curbed any capabilities that would let the AI accelerate its own",
+        "published": "2026-11-09T21:15:23.000Z",
+        "source": "The Decoder",
+        "sourceKey": "thedecoder",
+        "priority": 2,
+        "image": "https://the-decoder.com/wp-content/uploads/2026/11/fable_52_sand.png",
+        "baseScore": 13,
+        "relevanceScore": 13,
+        "matchedKeywords": [
+          "anthropic",
+          "claude",
+          "ipo"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "Tencent's AI chief says AI bioweapons are coming, but closing off models isn't the answer",
         "link": "https://the-decoder.com/tencents-ai-chief-says-ai-bioweapons-are-coming-but-closing-off-models-isnt-the-answer/",
         "description": "Tencent chief AI scientist Vinces Yao Shunyu warns that AI will soon be able to develop bioweapons and argues for a middle ground between open and closed models. While safety filters on open-source systems can be easily stripped through abliteration, closed models like Anthropic's Claude often block too aggressively. For its upcoming open-weight model Hy4, Tencent is filtering dangerous hacking knowledge directly from the training data. The article Tencent's AI chief says AI bioweapons are comin",
@@ -430,6 +588,23 @@
           "tencent",
           "anthropic",
           "claude"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Jim Cramer says Anthropic's IPO could make or break the AI trade. Here's why",
+        "link": "https://www.cnbc.com/2026/11/09/anthropic-ipo-ai-trade-jim-cramer.html",
+        "description": "Anthropic's initial public offering could be a crucial test of investor confidence in the AI trade, CNBC's Jim Cramer said.",
+        "published": "2026-11-09T23:30:15.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 11,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "anthropic",
+          "ipo"
         ],
         "category": "ai"
       },
@@ -505,6 +680,40 @@
           "ceo"
         ],
         "category": "ai"
+      },
+      {
+        "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+        "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+        "description": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"start a new song, set up a vocal track from a single prompt, or refine an active project.\" These Intelligence Usage Packs, as Apple calls them, will allow users to continue accessing certain Apple Intel",
+        "published": "2026-11-09T19:09:58.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/logicpro.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 7,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "apple",
+          "intel"
+        ],
+        "category": "ai",
+        "alsoIn": [
+          {
+            "source": "9to5Mac",
+            "title": "Apple launches $50 ‘intelligence usage packs’ for select AI features",
+            "link": "https://9to5mac.com/2026/11/09/apple-launches-50-intelligence-usage-packs-for-select-ai-features/"
+          },
+          {
+            "source": "Techmeme",
+            "title": "Apple is now offering additional AI access via one-time $50 \"intelligence usage packs\" when monthly usage caps are met, starting in its Creator Studio apps",
+            "link": "https://www.techmeme.com/261109/p45#a261109p45"
+          },
+          {
+            "source": "Engadget",
+            "title": "Apple starts offering $50 extended usage packs for AI features in Creator Studio",
+            "link": "https://www.engadget.com/2311500/apple-starts-offering-50-dollar-extended-usage-packs-for-ai-features-in-creator-studio/"
+          }
+        ]
       },
       {
         "title": "Meta releases Muse Ember, its smallest and most cost-efficient AI model yet, saying it delivers more intelligence per dollar than Haiku 5.5 and GPT-6 Luna",
@@ -585,6 +794,40 @@
         "category": "ai"
       },
       {
+        "title": "Anthropic's Claude Fable 5.2 and Mythos 5.0 Are Impressive, But Be Prepared to Sell a Kidney to Afford Them",
+        "link": "https://decrypt.co/382897/anthropic-claude-fable-5-2-and-mythos-5-2-impressive-and-expensive",
+        "description": "Anthropic's latest AI can build complex software and even design physical objects. Users are producing impressive results, and estimated bills large enough to make developers wince.",
+        "published": "2026-11-09T22:36:02.000Z",
+        "source": "Decrypt",
+        "sourceKey": "decrypt",
+        "priority": 3,
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/anthropic-claude-ai-decrypt-style-gID_7.png@png",
+        "baseScore": 10,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "anthropic",
+          "claude"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "A Sam Altman parody offers an amusing lesson in memory management",
+        "link": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
+        "description": "We verified the RAM numbers are real without sending any emails to OpenAI.",
+        "published": "2026-11-09T20:49:09.000Z",
+        "source": "Ars Technica",
+        "sourceKey": "arstechnica",
+        "priority": 1,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1723107474-1024x648.jpg",
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "sam altman",
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
         "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
         "description": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
@@ -619,30 +862,6 @@
         "category": "ai"
       },
       {
-        "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-        "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
-        "description": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"start a new song, set up a vocal track from a single prompt, or refine an active project.\" These Intelligence Usage Packs, as Apple calls them, will allow users to continue accessing certain Apple Intel",
-        "published": "2026-11-09T19:09:58.000Z",
-        "source": "The Verge",
-        "sourceKey": "theverge",
-        "priority": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/logicpro.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "baseScore": 7,
-        "relevanceScore": 8,
-        "matchedKeywords": [
-          "apple",
-          "intel"
-        ],
-        "category": "ai",
-        "alsoIn": [
-          {
-            "source": "9to5Mac",
-            "title": "Apple launches $50 ‘intelligence usage packs’ for select AI features",
-            "link": "https://9to5mac.com/2026/11/09/apple-launches-50-intelligence-usage-packs-for-select-ai-features/"
-          }
-        ]
-      },
-      {
         "title": "ChatGPT Enterprise now available in AWS Marketplace",
         "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
         "description": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
@@ -661,9 +880,41 @@
         "category": "ai"
       },
       {
+        "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+        "link": "https://openai.com/index/control-room",
+        "description": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+        "published": "2026-11-09T13:00:00.000Z",
+        "source": "OpenAI",
+        "sourceKey": "openai_news",
+        "priority": 1,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "Kuken Industries searches 70 years of drawings in minutes",
         "link": "https://openai.com/index/kuken",
         "description": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+        "published": "2026-11-09T08:00:00.000Z",
+        "source": "OpenAI",
+        "sourceKey": "openai_news",
+        "priority": 1,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "CodeRabbit scales agentic software development and ships 20x more",
+        "link": "https://openai.com/index/coderabbit-codex-daybreak",
+        "description": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
         "published": "2026-11-09T08:00:00.000Z",
         "source": "OpenAI",
         "sourceKey": "openai_news",
@@ -796,6 +1047,23 @@
         "matchedKeywords": [
           "meta",
           "instagram"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Google Gemini routes personal Drive files and emails to human annotators",
+        "link": "https://github.com/thisisme6598/gemini_files/",
+        "description": "Article URL: https://github.com/thisisme6598/gemini_files/ Comments URL: https://news.ycombinator.com/item?id=50429426 Points: 469 # Comments: 113",
+        "published": "2026-11-09T18:24:38.000Z",
+        "source": "Hacker News",
+        "sourceKey": "hackernews",
+        "priority": 2,
+        "image": null,
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "google",
+          "gemini"
         ],
         "category": "ai"
       },
@@ -1189,6 +1457,22 @@
         "category": "ai"
       },
       {
+        "title": "How agentic AI raises the bar for law firms",
+        "link": "https://www.theinformation.com/articles/agentic-ai-raises-bar-law-firms",
+        "description": "The legal world is looking to scale AI beyond chatbots, bringing in agents to automate parts of lawyers’ workflows. While adoption is growing rapidly, some firms are moving slower than others. Laura Mandaro, managing editor at The Information, talked to three legal experts about how firms can overcome pushback, encourage adoption and measure AI’s returns. Isabel Parker, Chief Innovation Officer, White & Case Jillian Burnett, VP Engagement, Legora Sunita Verma, CTO, Ironclad The agent advantage A",
+        "published": "2026-11-09T21:55:16.000Z",
+        "source": "The Information",
+        "sourceKey": "theinformation",
+        "priority": 1,
+        "image": null,
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "scale ai"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "Futurum's Newman Believes AI Trade Isn't Over",
         "link": "https://www.bloomberg.com/news/videos/2026-11-09/futurum-s-newman-believes-ai-trade-isn-t-over-video",
         "description": "The Futurum Group CEO Daniel Newman says the market is trading artificial intelligence, or AI, like it’s over, but he doesn't think it is. He speaks with Haslinda Amin on \"Insight with Haslinda Amin.\" (Source: Bloomberg)",
@@ -1202,6 +1486,22 @@
         "matchedKeywords": [
           "artificial intelligence",
           "ceo"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+        "link": "https://artificialanalysis.ai/models/claude-fable-5-2",
+        "description": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 306 # Comments: 229",
+        "published": "2026-11-09T20:04:55.000Z",
+        "source": "Hacker News",
+        "sourceKey": "hackernews",
+        "priority": 2,
+        "image": null,
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "claude"
         ],
         "category": "ai"
       },
@@ -1373,25 +1673,6 @@
         ]
       },
       {
-        "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-        "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-        "description": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
-        "published": "2026-11-09T20:09:06.000Z",
-        "source": "TechCrunch",
-        "sourceKey": "techcrunch",
-        "priority": 1,
-        "image": null,
-        "baseScore": 14,
-        "relevanceScore": 14,
-        "matchedKeywords": [
-          "nvidia",
-          "jensen huang",
-          "anthropic",
-          "ceo"
-        ],
-        "category": "chips_cloud"
-      },
-      {
         "title": "What to Know About Nvidia CEO Jensen Huang’s Affair With Suspected Chinese Spy",
         "link": "https://www.bloomberg.com/news/articles/2026-11-09/what-to-know-about-nvidia-ceo-jensen-huang-s-affair-with-suspected-chinese-spy",
         "description": "Nvidia Corp., the world’s second-most valuable company and the US chipmaker at the heart of the global AI industry, is facing a crisis like none other in its three-decade history. On Nov. 8, Chief Executive Officer Jensen Huang admitted he had been unfaithful in his marriage, effectively confirming a series of reports linking him romantically with a woman who has been identified as a suspected Chinese spy and whose company bought chips from Nvidia.",
@@ -1401,7 +1682,7 @@
         "priority": 1,
         "image": null,
         "baseScore": 11,
-        "relevanceScore": 13,
+        "relevanceScore": 14,
         "matchedKeywords": [
           "nvidia",
           "jensen huang",
@@ -1425,8 +1706,57 @@
             "source": "The Block",
             "title": "Nvidia perps slide as market reacts to CEO Jensen Huang’s Chinese spy scandal",
             "link": "https://www.theblock.co/news/defi/2026-11-08-nvidia-perps-slide-jensen-huang-436047"
+          },
+          {
+            "source": "The Verge",
+            "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
+          },
+          {
+            "source": "Techmeme",
+            "title": "Trump says the FBI is \"looking into\" Jensen Huang's affair, and the Nvidia CEO told him he \"had absolutely no idea that the person in question was a spy\" (Associated Press)",
+            "link": "https://www.techmeme.com/261109/p44#a261109p44"
+          },
+          {
+            "source": "Bloomberg",
+            "title": "Nvidia CEO Jensen Huang's Affair With Alleged Spy Raises Succession Concerns",
+            "link": "https://www.bloomberg.com/news/features/2026-11-09/nvidia-ceo-jensen-huang-s-affair-with-alleged-spy-raises-succession-concerns"
+          },
+          {
+            "source": "The Register",
+            "title": "Nvidia CEO Jensen Huang admits affair with possible Chinese asset",
+            "link": "https://www.theregister.com/legal/2026/11/09/nvidia-ceo-jensen-huang-admits-affair-with-possible-chinese-asset/5308327"
+          },
+          {
+            "source": "The Verge",
+            "title": "Here’s what Trump said he knew about Jensen Huang",
+            "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference"
+          },
+          {
+            "source": "SiliconANGLE",
+            "title": "Trump stands by Nvidia boss Jensen Huang despite spy scandal, but FBI is investigating",
+            "link": "https://siliconangle.com/2026/11/09/trump-stands-by-nvidia-boss-jensen-huang-despite-spy-scandal-says-fbi-investigating/"
           }
         ]
+      },
+      {
+        "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+        "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+        "description": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+        "published": "2026-11-09T20:09:06.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "baseScore": 14,
+        "relevanceScore": 14,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang",
+          "anthropic",
+          "ceo"
+        ],
+        "category": "chips_cloud"
       },
       {
         "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
@@ -1489,33 +1819,57 @@
         "category": "chips_cloud"
       },
       {
-        "title": "How Nvidia CEO’s Affair Engulfed AI Giant in Spy Probe",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-09/how-nvidia-ceo-s-affair-engulfed-ai-giant-in-spy-probe-video",
-        "description": "Nvidia Chief Executive Officer Jensen Huang has admitted he had an affair. The woman was identified in a series of reports as a suspected Chinese spy, plunging the chip colossus into a crisis like none before in its three-decade history. (Source: Bloomberg)",
-        "published": "2026-11-09T05:20:27.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
+        "title": "Sources: a Commerce Department investigation into Megaspeed for allegedly smuggling Nvidia chips to China was transferred to the DOJ after Nvidia intervened (New York Times)",
+        "link": "https://www.techmeme.com/261109/p32#a261109p32",
+        "description": "New York Times: Sources: a Commerce Department investigation into Megaspeed for allegedly smuggling Nvidia chips to China was transferred to the DOJ after Nvidia intervened — An investigation into Megaspeed, a Singapore company that was buying advanced Nvidia A.I. chips, was transferred to the Justice Department …",
+        "published": "2026-11-09T16:20:00.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
         "priority": 1,
-        "image": null,
-        "baseScore": 10,
+        "image": "http://www.techmeme.com/261109/i32.jpg",
+        "baseScore": 9,
         "relevanceScore": 10,
         "matchedKeywords": [
           "nvidia",
-          "ceo",
-          "jensen huang",
+          "doj",
           "chip"
         ],
         "category": "chips_cloud",
         "alsoIn": [
           {
             "source": "Bloomberg",
-            "title": "Nvidia CEO’s Affair Engulfs AI Giant in Spying Probe",
-            "link": "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-ceo-s-affair-engulfs-ai-giant-in-spying-probe-video"
+            "title": "Nvidia Intervened in US Probe of Megaspeed Chip Smuggling",
+            "link": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-intervened-in-us-probe-of-megaspeed-chip-smuggling"
           },
           {
             "source": "Bloomberg",
-            "title": "Huang's Affair Engulfs Nvidia in Chinese Spying Probe",
-            "link": "https://www.bloomberg.com/news/videos/2026-11-09/the-china-show-11-09-2026-video"
+            "title": "Nvidia Intervened in US Megaspeed Chip Smuggling Probe",
+            "link": "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-intervened-in-us-megaspeed-chip-smuggling-probe-video"
+          }
+        ]
+      },
+      {
+        "title": "What is Megaspeed? The Nvidia chip buyer in the spotlight after Jensen Huang’s affair",
+        "link": "https://www.cnbc.com/2026/11/09/megaspeed-nvidia-jensen-huang-alice-huang.html",
+        "description": "The Singapore-based company has previously been probed for allegedly supplying China with Nvidia chips.",
+        "published": "2026-11-09T15:57:38.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 9,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang",
+          "chip"
+        ],
+        "category": "chips_cloud",
+        "alsoIn": [
+          {
+            "source": "Techmeme",
+            "title": "Jensen Huang's affair shines a spotlight on Nvidia's weak board and opaque succession planning at what has become the world's most important company (Semafor)",
+            "link": "https://www.techmeme.com/261109/p43#a261109p43"
           }
         ]
       },
@@ -1591,6 +1945,42 @@
           "nvidia",
           "gpu",
           "deepseek"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Nvidia’s Trump ties draw scrutiny after reports Huang was targeted by Chinese intelligence",
+        "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-china-spy-trump-lobbying.html",
+        "description": "Nvidia CEO Jensen Huang's extramarital affair with an alleged Chinese spy comes as the company is already about to face heightened scrutiny.",
+        "published": "2026-11-09T23:54:21.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang",
+          "ceo"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Ross Gerber Sees 75% Chance Huang Remains Nvidia CEO",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-09/ross-gerber-sees-75-chance-huang-remains-nvidia-ceo-video",
+        "description": "Ross Gerber, co-founder, president and CEO of Gerber Kawasaki Wealth and Investment Management, reacts to the investigation into Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. He speaks on \"Bloomberg The Close.\" (Source: Bloomberg)",
+        "published": "2026-11-09T22:07:56.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "nvidia",
+          "ceo",
+          "jensen huang"
         ],
         "category": "chips_cloud"
       },
@@ -1681,42 +2071,6 @@
           "nvidia",
           "ceo",
           "jensen huang"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": "Sources: a Commerce Department investigation into Megaspeed for allegedly smuggling Nvidia chips to China was transferred to the DOJ after Nvidia intervened (New York Times)",
-        "link": "https://www.techmeme.com/261109/p32#a261109p32",
-        "description": "New York Times: Sources: a Commerce Department investigation into Megaspeed for allegedly smuggling Nvidia chips to China was transferred to the DOJ after Nvidia intervened — An investigation into Megaspeed, a Singapore company that was buying advanced Nvidia A.I. chips, was transferred to the Justice Department …",
-        "published": "2026-11-09T16:20:00.000Z",
-        "source": "Techmeme",
-        "sourceKey": "techmeme",
-        "priority": 1,
-        "image": "http://www.techmeme.com/261109/i32.jpg",
-        "baseScore": 9,
-        "relevanceScore": 9,
-        "matchedKeywords": [
-          "nvidia",
-          "doj",
-          "chip"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": "What is Megaspeed? The Nvidia chip buyer in the spotlight after Jensen Huang’s affair",
-        "link": "https://www.cnbc.com/2026/11/09/megaspeed-nvidia-jensen-huang-alice-huang.html",
-        "description": "The Singapore-based company has previously been probed for allegedly supplying China with Nvidia chips.",
-        "published": "2026-11-09T15:57:38.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_tech",
-        "priority": 1,
-        "image": null,
-        "baseScore": 9,
-        "relevanceScore": 9,
-        "matchedKeywords": [
-          "nvidia",
-          "jensen huang",
-          "chip"
         ],
         "category": "chips_cloud"
       },
@@ -1850,6 +2204,24 @@
         "category": "chips_cloud"
       },
       {
+        "title": "Google TPU 8tx Pairs AMD EPYC Turin Hosts with Confidential Computing while TPU 8i Max Doubles Memory Bandwidth",
+        "link": "https://www.servethehome.com/google-tpu-8tx-8i-max-amd-epyc-turin/",
+        "description": "The new Google TPU 8tx pairs AMD EPYC Turin hosts with confidential computing while TPU 8i Max doubles memory bandwidth for inference The post Google TPU 8tx Pairs AMD EPYC Turin Hosts with Confidential Computing while TPU 8i Max Doubles Memory Bandwidth appeared first on ServeTheHome.",
+        "published": "2026-11-09T21:37:58.000Z",
+        "source": "ServeTheHome",
+        "sourceKey": "servethehome",
+        "priority": 3,
+        "image": null,
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "google",
+          "amd",
+          "tpu"
+        ],
+        "category": "chips_cloud"
+      },
+      {
         "title": "Google’s AI chip push adds more pressure on Nvidia",
         "link": "https://www.coindesk.com/markets/2026/11/09/google-s-ai-chip-push-adds-more-pressure-on-nvidia",
         "description": "Google’s specialised AI chips threaten greater competition as Nvidia faces a leadership investigation.",
@@ -1864,6 +2236,95 @@
           "google",
           "nvidia",
           "chip"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "What could China get from Jensen Huang?",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+        "description": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about $99 billion worth of equity investments in frontier AI labs, neoclouds, infrastructure companies, and more. Its chief executive has even become close with Preside",
+        "published": "2026-11-09T23:51:58.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "jensen huang",
+          "nvidia",
+          "chip",
+          "billion"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Opinion | Nvidia Gets a Chinese Honeypot Lesson",
+        "link": "https://www.wsj.com/opinion/nvidia-gets-a-chinese-honeypot-lesson-25b45560?mod=rss_Technology",
+        "description": "Jensen Huang’s affair with an alleged spy has national-security stakes.",
+        "published": "2026-11-09T22:56:00.000Z",
+        "source": "WSJ",
+        "sourceKey": "wsj_tech",
+        "priority": 1,
+        "image": "https://opinion-images.wsj.net/im-43801519",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Big Take: The Markets Fallout From the Huang Scandal",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-09/big-take-the-markets-fallout-from-the-huang-scandal-video",
+        "description": "The AI economy runs on Nvidia GPUs. Can it survive the explosive revelation of an affair between CEO Jensen Huang and an alleged Chinese spy? Bloomberg’s Sarah Frier joins Sarah Holder on the Big Take podcast to explain. (Source: Bloomberg)",
+        "published": "2026-11-09T22:45:43.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang",
+          "gpu",
+          "ceo"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "The race is on to sue Nvidia",
+        "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+        "description": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
+        "published": "2026-11-09T22:23:42.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "US Lawmakers Demand Details on Nvidia Amid Jensen Huang Scandal",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-09/us-lawmakers-demand-details-on-nvidia-amid-jensen-huang-scandal",
+        "description": "Nvidia Corp. Chief Executive Officer Jensen Huang’s affair with an alleged Chinese spy prompted bipartisan demands on Capitol Hill for more information as lawmakers rushed to assess the potential national security fallout from the scandal.",
+        "published": "2026-11-09T21:57:43.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang"
         ],
         "category": "chips_cloud"
       },
@@ -1992,6 +2453,31 @@
         "category": "chips_cloud"
       },
       {
+        "title": "Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year",
+        "link": "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/",
+        "description": "The Nvidia CEO began working with consultants from Heller as early as October 2025, around the same time he was first linked to a suspected Chinese spy.",
+        "published": "2026-11-09T14:30:56.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": "https://media.wired.com/photos/6af1d38e0949f43953b8f9d7/master/pass/Jensen%20Huang.jpg",
+        "baseScore": 6,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "jensen huang",
+          "nvidia",
+          "ceo"
+        ],
+        "category": "chips_cloud",
+        "alsoIn": [
+          {
+            "source": "TechCrunch",
+            "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+            "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/"
+          }
+        ]
+      },
+      {
         "title": "Sources: Jensen Huang hired crisis communications firm Heller as early as October 2025; an NYT report in October 2025 on his Megaspeed ties caused tensions",
         "link": "https://www.techmeme.com/261109/p26#a261109p26",
         "description": "Sources: Jensen Huang hired crisis communications firm Heller as early as October 2025; an NYT report in October 2025 on his Megaspeed ties caused tensions — The Nvidia CEO began working with consultants from Heller as early as October 2025, around the same time he was first linked to a suspected Chinese spy.",
@@ -2065,6 +2551,58 @@
         "category": "chips_cloud"
       },
       {
+        "title": "A report by short seller Culper Research from May is resurfacing because it had flagged Jensen Huang's relationship with Alice Huang as \"uncomfortably close\"",
+        "link": "https://www.techmeme.com/261109/p46#a261109p46",
+        "description": "A report by short seller Culper Research from May is resurfacing because it had flagged Jensen Huang's relationship with Alice Huang as “uncomfortably close” — Six months before the Nvidia spy scandal emerged, the New York-based short seller firm Culper Research …",
+        "published": "2026-11-09T23:35:01.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261109/i46.jpg",
+        "via": "TechCrunch",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "jensen huang",
+          "nvidia"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "AMD Surges 13% as Wall Street Revives AI Chip Trade | Closing Bell",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-09/amd-surges-as-ai-chip-trade-returns-closing-bell-video",
+        "description": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Vonnie Quinn, Scarlet Fu, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
+        "published": "2026-11-09T21:20:45.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "amd",
+          "chip"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Why Jim Cramer believes Nvidia is still valuable despite the CEO affair controversy",
+        "link": "https://www.cnbc.com/investingclub/2026/11/09/why-jim-cramer-believes-nvidia-is-still-valuable-despite-the-ceo-affair-controversy.html",
+        "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+        "published": "2026-11-09T17:09:44.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_top",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "nvidia",
+          "ceo"
+        ],
+        "category": "chips_cloud"
+      },
+      {
         "title": "CoreWeave confronts 'doom cycle' narrative as neocloud credit risk overshadows growth",
         "link": "https://www.cnbc.com/2026/11/09/coreweave-debt-credit-risk-neoclouds.html",
         "description": "Leading neoclouds CoreWeave and Nebius have both lost about half their value in the past month as they get set for earnings reports this week.",
@@ -2095,24 +2633,6 @@
         "matchedKeywords": [
           "ibm",
           "amd"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": "Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year",
-        "link": "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/",
-        "description": "The Nvidia CEO began working with consultants from Heller as early as October 2025, around the same time he was first linked to a suspected Chinese spy.",
-        "published": "2026-11-09T14:30:56.000Z",
-        "source": "Wired",
-        "sourceKey": "wired",
-        "priority": 2,
-        "image": "https://media.wired.com/photos/6af1d38e0949f43953b8f9d7/master/pass/Jensen%20Huang.jpg",
-        "baseScore": 6,
-        "relevanceScore": 6,
-        "matchedKeywords": [
-          "jensen huang",
-          "nvidia",
-          "ceo"
         ],
         "category": "chips_cloud"
       },
@@ -2407,6 +2927,38 @@
         "category": "chips_cloud"
       },
       {
+        "title": "IBM builds on hybrid cloud and governance to advance its enterprise AI operating model",
+        "link": "https://siliconangle.com/2026/11/09/ibm-builds-hybrid-cloud-governance-advance-enterprise-ai-operating-model-ibmthink/",
+        "description": "Enterprises are moving beyond AI pilots, putting greater emphasis on governance, production readiness and measurable business outcomes. Research from Deloitte highlights a significant gap between enterprise AI ambition and execution: 54% of organizations plan to move at least 40% of their AI initiatives into production within six months. Yet only 25% have done so today. IBM […] The post IBM builds on hybrid cloud and governance to advance its enterprise AI operating model appeared first on Silic",
+        "published": "2026-11-09T23:20:44.000Z",
+        "source": "SiliconANGLE",
+        "sourceKey": "siliconangle",
+        "priority": 2,
+        "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Enterprise-AI-Operating-Model-2.png",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "ibm"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Attackers backdoor trusted AWS integrations to steal secrets",
+        "link": "https://www.theregister.com/security/2026/11/09/attackers-backdoor-trusted-aws-integrations-to-steal-secrets/5308553",
+        "description": "Wiz researchers uncovered the secret-stealing supply-chain attack",
+        "published": "2026-11-09T19:59:50.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=1681829&width=800",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "aws"
+        ],
+        "category": "chips_cloud"
+      },
+      {
         "title": "AMD erkent dat driverbug veel onnodige ssd-schrijfacties oplevert",
         "link": "https://tweakers.net/nieuws/254324/amd-erkent-dat-driverbug-veel-onnodige-ssd-schrijfacties-oplevert.html",
         "description": "AMD bevestigt dat een bug in zijn drivers ervoor kan zorgen dat er veel onnodige schrijfacties op de ssd plaatsvinden. Dit kan de levensduur van de ssd verkorten. De bug zit al zeker een jaar in de driver en wordt deze maand opgelost.",
@@ -2536,6 +3088,23 @@
         "category": "chips_cloud"
       },
       {
+        "title": "China Chip Supplier Xinde Jumps in HK Debut as Denglin Slumps",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-09/china-chipmakers-to-debut-in-hk-in-test-of-tech-stock-demand",
+        "description": "Jiangsu Xinde Semiconductor Technology Co.’s shares surged in their Hong Kong debut, while Suzhou Denglin Technology Co.’s stock slumped on their first day after the Chinese chip suppliers raised a combined $301 million in their initial public offerings, entering the market at a time of extreme volatility especially for technology stocks.",
+        "published": "2026-11-09T23:25:31.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "chip",
+          "semiconductor"
+        ],
+        "category": "chips_cloud"
+      },
+      {
         "title": "Taiwan chipmaker CEO warns memory price rises are unsustainable",
         "link": "https://asia.nikkei.com/editor-s-picks/interview/taiwan-chipmaker-ceo-warns-memory-price-rises-are-unsustainable",
         "description": "",
@@ -2570,95 +3139,47 @@
         "category": "chips_cloud"
       }
     ],
-    "space": [
+    "business": [
       {
-        "title": "SpaceX’s Anthropic deal has a catch, and Elon Musk just addressed it",
-        "link": "https://www.teslarati.com/spacexs-anthropic-deal-has-a-catch-and-elon-musk-just-addressed-it/",
-        "description": "Elon Musk says SpaceX's Anthropic compute deal cuts both ways after Chamath floats higher prices. The post SpaceX’s Anthropic deal has a catch, and Elon Musk just addressed it appeared first on TESLARATI.",
-        "published": "2026-11-09T07:22:16.000Z",
-        "source": "Teslarati",
-        "sourceKey": "teslarati",
-        "priority": 3,
-        "image": null,
-        "baseScore": 14,
+        "title": "Nvidia Shares Slump on Spy Probe",
+        "link": "https://www.wsj.com/business/nvidia-shares-slump-on-spy-probe-1d59bde7?mod=rss_Technology",
+        "description": "Plus, Rep. Thomas Massie introduced articles of impeachment against Pete Hegseth and Anthropic is forging ahead with its IPO later this month.",
+        "published": "2026-11-09T22:35:00.000Z",
+        "source": "WSJ",
+        "sourceKey": "wsj_tech",
+        "priority": 1,
+        "image": "https://images.wsj.net/im-18001315",
+        "baseScore": 13,
         "relevanceScore": 14,
         "matchedKeywords": [
+          "nvidia",
           "anthropic",
-          "spacex",
-          "elon musk"
+          "ipo"
         ],
-        "category": "space"
+        "category": "business",
+        "alsoIn": [
+          {
+            "source": "Bloomberg",
+            "title": "How Nvidia CEO’s Affair Engulfed AI Giant in Spy Probe",
+            "link": "https://www.bloomberg.com/news/videos/2026-11-09/how-nvidia-ceo-s-affair-engulfed-ai-giant-in-spy-probe-video"
+          },
+          {
+            "source": "Bloomberg",
+            "title": "Nvidia CEO’s Affair Engulfs AI Giant in Spying Probe",
+            "link": "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-ceo-s-affair-engulfs-ai-giant-in-spying-probe-video"
+          },
+          {
+            "source": "Bloomberg",
+            "title": "Huang's Affair Engulfs Nvidia in Chinese Spying Probe",
+            "link": "https://www.bloomberg.com/news/videos/2026-11-09/the-china-show-11-09-2026-video"
+          },
+          {
+            "source": "Bloomberg",
+            "title": "Nvidia Shares Drop After CEO Huang’s Affair Triggers Board Probe",
+            "link": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-shares-dip-on-robinhood-as-huang-affair-spurs-board-probe"
+          }
+        ]
       },
-      {
-        "title": "SpaceX proposes a $24 billion Texas supercomputer worth 17 times its bitcoin pile",
-        "link": "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
-        "description": "The $24 billion project, which includes an AI supercomputer in Texas with its own gas-fired power plant, is about 17 times the value of SpaceX's bitcoin holdings.",
-        "published": "2026-11-09T06:54:41.000Z",
-        "source": "CoinDesk",
-        "sourceKey": "coindesk",
-        "priority": 3,
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/83d0912d3450cbd9352755a8558ea6c425c541a8-3000x2000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-        "baseScore": 7,
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "spacex",
-          "supercomputer",
-          "billion",
-          "bitcoin"
-        ],
-        "category": "space"
-      },
-      {
-        "title": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
-        "link": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
-        "description": "\"Grok analyzing the same video is 99.9 percent perfect.\"",
-        "published": "2026-11-09T15:39:21.000Z",
-        "source": "Ars Technica",
-        "sourceKey": "arstechnica",
-        "priority": 1,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Flight_15_Website_Desktop_1_7111645b6d-1152x648.png",
-        "baseScore": 5,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "spacex"
-        ],
-        "category": "space"
-      },
-      {
-        "title": "How Sequoia's Alfred Lin and Pat Grady erased Roelof Botha's legacy, halving GPs and unwinding his fund; sources say he joined SpaceX's board behind their backs (Financial Times)",
-        "link": "https://www.techmeme.com/261108/p18#a261108p18",
-        "description": "Financial Times: How Sequoia's Alfred Lin and Pat Grady erased Roelof Botha's legacy, halving GPs and unwinding his fund; sources say he joined SpaceX's board behind their backs — Closures of London office and permanent capital fund mark latest efforts to streamline Silicon Valley VC firm",
-        "published": "2026-11-09T01:05:00.000Z",
-        "source": "Techmeme",
-        "sourceKey": "techmeme",
-        "priority": 1,
-        "image": "http://www.techmeme.com/261108/i18.jpg",
-        "baseScore": 5,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "spacex"
-        ],
-        "category": "space"
-      },
-      {
-        "title": "SpaceX will launch epic double-catch Starship Flight 15 test mission on Nov. 13",
-        "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-launch-epic-double-catch-starship-flight-15-test-mission-on-nov-13",
-        "description": "SpaceX's next Starship test flight will take place on Friday (Nov. 13), and it will be epic: The company will try to catch both of the vehicle's stages when they return to Earth.",
-        "published": "2026-11-09T14:30:00.000Z",
-        "source": "Space.com",
-        "sourceKey": "spacecom",
-        "priority": 2,
-        "image": "https://cdn.mos.cms.futurecdn.net/sffkFhsSvZteVyVhHrKG77-1920-80.jpg",
-        "baseScore": 5,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "spacex",
-          "starship"
-        ],
-        "category": "space"
-      }
-    ],
-    "business": [
       {
         "title": "Uber launches Uber Parking, an in-app parking reservation tool powered by its SpotHero acquisition, in 15 US cities, including Chicago, NYC, and San Francisco",
         "link": "https://www.techmeme.com/261109/p34#a261109p34",
@@ -2748,23 +3269,6 @@
         ]
       },
       {
-        "title": "Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds",
-        "link": "https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html",
-        "description": "The launch comes as Anthropic is gearing up for what is widely expected to be a blockbuster IPO",
-        "published": "2026-11-09T19:00:01.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_tech",
-        "priority": 1,
-        "image": null,
-        "baseScore": 11,
-        "relevanceScore": 11,
-        "matchedKeywords": [
-          "anthropic",
-          "ipo"
-        ],
-        "category": "business"
-      },
-      {
         "title": "Nvidia Investor: Governance Now Part of the Valuation",
         "link": "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-investor-governance-now-part-of-the-valuation-video",
         "description": "Wealth Enhancement CIO Doug Huber says the fundamental investment case for Nvidia hasn’t changed, but the investigation surrounding CEO Jensen Huang is putting leadership, succession and corporate governance more firmly into the valuation debate. He joins Carol Massar on \"Bloomberg Tech.\" (Source: Bloomberg)",
@@ -2780,6 +3284,42 @@
           "valuation",
           "jensen huang",
           "ceo"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "President Trump Says FBI is Probing Nvidia CEO’s Relationship with Chinese National",
+        "link": "https://www.theinformation.com/briefings/president-trump-says-fbi-probing-nvidia-ceos-relationship-chinese-national",
+        "description": "President Donald Trump said in an impromptu press briefing Monday that the Federal Bureau of Investigation is looking into Nvidia CEO Jensen Huang’s romantic affair with Alice Huang, a Chinese business executive whom other U.S. officials suspected of providing information to Chinese intelligence ...",
+        "published": "2026-11-09T23:02:13.000Z",
+        "source": "The Information",
+        "sourceKey": "theinformation",
+        "priority": 1,
+        "image": null,
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "nvidia",
+          "ceo",
+          "jensen huang"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+        "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+        "description": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+        "published": "2026-11-09T22:46:09.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "nvidia",
+          "ceo",
+          "jensen huang"
         ],
         "category": "business"
       },
@@ -2837,24 +3377,6 @@
         "category": "business"
       },
       {
-        "title": "Nvidia Shares Drop After CEO Huang’s Affair Triggers Board Probe",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-shares-dip-on-robinhood-as-huang-affair-spurs-board-probe",
-        "description": "Nvidia Corp. shares fell in premarket trading after the company’s board launched an investigation into Chief Executive Officer Jensen Huang, following his admission of an affair with a woman identified in a series of reports as a suspected Chinese spy.",
-        "published": "2026-11-09T03:48:09.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "baseScore": 9,
-        "relevanceScore": 9,
-        "matchedKeywords": [
-          "nvidia",
-          "ceo",
-          "jensen huang"
-        ],
-        "category": "business"
-      },
-      {
         "title": "Uber is launching its own parking reservation service",
         "link": "https://www.engadget.com/2308678/uber-is-launching-its-own-parking-reservation-service/",
         "description": "Uber Parking is built on the company's acquisition of SpotHero.",
@@ -2886,6 +3408,24 @@
           "nvidia",
           "jensen huang",
           "billion"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Lucid misses Wall Street’s earnings expectations, expands loan from Saudi Arabia fund",
+        "link": "https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html",
+        "description": "The quarterly results are the first since Lucid CEO Silvio Napoli, who started leading the company in June, announced a restructuring plan.",
+        "published": "2026-11-09T23:05:53.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_top",
+        "priority": 1,
+        "image": null,
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "lucid",
+          "earnings",
+          "ceo"
         ],
         "category": "business"
       },
@@ -2943,6 +3483,22 @@
         "category": "business"
       },
       {
+        "title": "Tokenization platform Securitize gains 10% postmarket on Q3 results, move into asset-backed finance",
+        "link": "https://www.cnbc.com/2026/11/09/tokenization-platform-securitize-reports-gains-expands-into-asset-backed-finance.html",
+        "description": "Securitize saw growth in tokenization last quarter and announced its expansion into asset-backed finance through the acquisition of River One.",
+        "published": "2026-11-09T21:24:13.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "acquisition"
+        ],
+        "category": "business"
+      },
+      {
         "title": "An interview with ex-Shein Executive Chair Donald Tang who insists it was his decision to step down ahead of the troubled IPO, Shein's valuation rout, and more",
         "link": "https://www.techmeme.com/261109/p30#a261109p30",
         "description": "An interview with ex-Shein Executive Chair Donald Tang who insists it was his decision to step down ahead of the troubled IPO, Shein's valuation rout, and more — Former chair of fast-fashion retailer on the ‘tough decision’ to step back weeks before its disappointing IPO",
@@ -2990,6 +3546,22 @@
         "matchedKeywords": [
           "merger",
           "earnings"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
+        "link": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
+        "description": "Producer and former Kevin Feige protege Jeremy Latcham will replace Gunn and Safran.",
+        "published": "2026-11-09T21:55:35.000Z",
+        "source": "Ars Technica",
+        "sourceKey": "arstechnica",
+        "priority": 1,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/lanterns3-1152x648.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "merger"
         ],
         "category": "business"
       },
@@ -3045,6 +3617,22 @@
         "category": "business"
       },
       {
+        "title": "Skydance confirms HBO Max and Paramount+ ‘value’ bundle plan",
+        "link": "https://9to5mac.com/2026/11/09/skydance-confirms-hbo-max-and-paramount-value-bundle-plan/",
+        "description": "HBO Max and Paramount+ customers will soon be able to pay for one subscription that unlocks both services. That’s according to Skydance, the company that came out of Paramount’s Warner Bros. Discovery acquisition. more…",
+        "published": "2026-11-09T21:46:15.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/hbo-max-paramount-plus-apps.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "acquisition"
+        ],
+        "category": "business"
+      },
+      {
         "title": "Hardware-testing and engineering startup Nominal raises $240M at $3B valuation",
         "link": "https://siliconangle.com/2026/11/09/ai-powered-hardware-testing-and-engineering-startup-nominal-raises-240m-at-3b-valuation/",
         "description": "Artificial intelligence-powered hardware-testing and engineering software startup Nominal Inc. today announced it has raised $240 million in new funding led by Lightspeed Venture Partners and Insight Partners. The investment triples the company’s valuation to $3 billion, up from $1 billion cemented in March after it raised $80 million in a Series B-2 funding round. Additional major investors […] The post Hardware-testing and engineering startup Nominal raises $240M at $3B valuation appeared firs",
@@ -3060,6 +3648,22 @@
           "artificial intelligence",
           "funding round",
           "billion"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
+        "link": "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition",
+        "description": "The tokenization firm unveiled an acquisition and a $50 million stock buyback as quarterly revenue rose 13%. SECZ shares jumped 10% after hours.",
+        "published": "2026-11-09T22:56:27.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/0df058fe321b648948d8a5b690588aaafbb157fe-2048x1152.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "acquisition"
         ],
         "category": "business"
       },
@@ -3131,6 +3735,110 @@
         "category": "business"
       }
     ],
+    "space": [
+      {
+        "title": "SpaceX’s Anthropic deal has a catch, and Elon Musk just addressed it",
+        "link": "https://www.teslarati.com/spacexs-anthropic-deal-has-a-catch-and-elon-musk-just-addressed-it/",
+        "description": "Elon Musk says SpaceX's Anthropic compute deal cuts both ways after Chamath floats higher prices. The post SpaceX’s Anthropic deal has a catch, and Elon Musk just addressed it appeared first on TESLARATI.",
+        "published": "2026-11-09T07:22:16.000Z",
+        "source": "Teslarati",
+        "sourceKey": "teslarati",
+        "priority": 3,
+        "image": null,
+        "baseScore": 14,
+        "relevanceScore": 14,
+        "matchedKeywords": [
+          "anthropic",
+          "spacex",
+          "elon musk"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "SpaceX proposes a $24 billion Texas supercomputer worth 17 times its bitcoin pile",
+        "link": "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
+        "description": "The $24 billion project, which includes an AI supercomputer in Texas with its own gas-fired power plant, is about 17 times the value of SpaceX's bitcoin holdings.",
+        "published": "2026-11-09T06:54:41.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/83d0912d3450cbd9352755a8558ea6c425c541a8-3000x2000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "spacex",
+          "supercomputer",
+          "billion",
+          "bitcoin"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "SpaceX plans a gas-fired power plant and super-compute facility in Starbase, TX, with ~$24B of investment for initial phases, per a public hearing notice (Bloomberg)",
+        "link": "https://www.techmeme.com/261109/p41#a261109p41",
+        "description": "Bloomberg: SpaceX plans a gas-fired power plant and super-compute facility in Starbase, TX, with ~$24B of investment for initial phases, per a public hearing notice — SpaceX plans to construct, own and operate a gas-fired power plant and super-compute facility at its company town in Starbase, Texas …",
+        "published": "2026-11-09T21:00:48.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261109/i41.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "spacex"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
+        "link": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
+        "description": "\"Grok analyzing the same video is 99.9 percent perfect.\"",
+        "published": "2026-11-09T15:39:21.000Z",
+        "source": "Ars Technica",
+        "sourceKey": "arstechnica",
+        "priority": 1,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Flight_15_Website_Desktop_1_7111645b6d-1152x648.png",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "spacex"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "How Sequoia's Alfred Lin and Pat Grady erased Roelof Botha's legacy, halving GPs and unwinding his fund; sources say he joined SpaceX's board behind their backs (Financial Times)",
+        "link": "https://www.techmeme.com/261108/p18#a261108p18",
+        "description": "Financial Times: How Sequoia's Alfred Lin and Pat Grady erased Roelof Botha's legacy, halving GPs and unwinding his fund; sources say he joined SpaceX's board behind their backs — Closures of London office and permanent capital fund mark latest efforts to streamline Silicon Valley VC firm",
+        "published": "2026-11-09T01:05:00.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261108/i18.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "spacex"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "SpaceX will launch epic double-catch Starship Flight 15 test mission on Nov. 13",
+        "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-launch-epic-double-catch-starship-flight-15-test-mission-on-nov-13",
+        "description": "SpaceX's next Starship test flight will take place on Friday (Nov. 13), and it will be epic: The company will try to catch both of the vehicle's stages when they return to Earth.",
+        "published": "2026-11-09T14:30:00.000Z",
+        "source": "Space.com",
+        "sourceKey": "spacecom",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/sffkFhsSvZteVyVhHrKG77-1920-80.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "spacex",
+          "starship"
+        ],
+        "category": "space"
+      }
+    ],
     "ev_autonomous": [
       {
         "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
@@ -3195,6 +3903,23 @@
           "waymo",
           "robotaxi",
           "self-driving"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Uber Engineering Leader for Robotaxis, Delivery Network to Exit",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-09/uber-engineering-leader-for-robotaxis-delivery-network-to-exit",
+        "description": "A longtime Uber Technologies Inc. executive leading engineering efforts for robotaxi partnerships and core services for maps and memberships is leaving, adding to a string of recent executive departures at the ride-hailing giant.",
+        "published": "2026-11-09T21:40:41.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "uber",
+          "robotaxi"
         ],
         "category": "ev_autonomous"
       },
@@ -3301,6 +4026,38 @@
         "category": "ev_autonomous"
       },
       {
+        "title": "Waymo Said It Fixed Its School Bus Problem. The US Government Says It Didn’t Work",
+        "link": "https://www.wired.com/story/waymo-school-bus-problem-the-us-government-says-it-didnt-work/",
+        "description": "Last year, Waymo recalled its software after several of its autonomous cars drove around stopped buses. But the problems remained. Now the feds want to know more.",
+        "published": "2026-11-09T22:40:10.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": "https://media.wired.com/photos/6af23b015b42cb1a21fe56e5/master/pass/Waymo-Said-It-Fixed-School-Bus-Problem-Gear-2220531171.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "waymo"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Land Rover Is Going After BYD Over This Alleged Defender Lookalike: Report",
+        "link": "https://insideevs.com/news/814898/byd-raided-jlr-netherlands-legal/",
+        "description": "Jaguar Land Rover is challenging BYD over its Defender-like SUV. The dispute has already prompted raids on BYD's Dutch offices.",
+        "published": "2026-11-09T21:37:03.000Z",
+        "source": "InsideEVs",
+        "sourceKey": "insideevs",
+        "priority": 2,
+        "image": "https://cdn.motor1.com/images/mgl/P3Vw34/s3/jlr-defender-110-byd-ti7-hero.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "byd"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
         "title": "BYD is going all out on its ultra-luxury EV with coach doors and 1,000+ km of range [Images]",
         "link": "https://electrek.co/2026/11/09/byds-ultra-luxury-ev-coach-doors-1000-km-range/",
         "description": "BYD unveiled the Yangwang Altior, its new ultra-luxury EV with coach doors, over 1,000 km of CTLC range, a 1,000V fast-charging platform, and plenty of premium extras. more…",
@@ -3402,6 +4159,30 @@
         "category": "other"
       },
       {
+        "title": "Singapore Saved Apple $2.7 Billion in Taxes This Year",
+        "link": "https://www.macrumors.com/2026/11/09/singapore-saved-apple-2-7-billion-in-tax/",
+        "description": "Apple paid more income tax in Ireland than in Singapore in fiscal 2026, but it saved more in Singapore. annual report shows that the company paid $4.96 billion in cash income taxes in Ireland and $3.25 billion in Singapore. Against the 21% U.S. federal corporate tax rate, Singapore lowered Apple's tax expense by $2.67 billion, about $100 million more than Ireland did. top-up tax erased nearly half of that initial saving. Singapore introduced the tax to bring the effective tax rate for qualifying",
+        "published": "2026-11-09T16:27:30.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2024/04/singapore-campus.jpg",
+        "baseScore": 5,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "apple",
+          "billion"
+        ],
+        "category": "other",
+        "alsoIn": [
+          {
+            "source": "9to5Mac",
+            "title": "Report: Apple saved over $5 billion in taxes through Singapore and Ireland in 2026",
+            "link": "https://9to5mac.com/2026/11/09/report-apple-saved-over-5-billion-in-taxes-through-singapore-and-ireland-in-2026/"
+          }
+        ]
+      },
+      {
         "title": "Microsoft prüft Rechenzentrumsverträge und lehnt ab",
         "link": "https://www.heise.de/news/Microsoft-laesst-Rechenzentrumsvertrag-mit-Oracle-auslaufen-11517608.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
         "description": "Microsoft lässt Insiderinformationen zufolge einige Rechenzentrumsverträge auslaufen, darunter einen Mietvertrag mit Oracle.",
@@ -3417,6 +4198,29 @@
           "oracle"
         ],
         "category": "other"
+      },
+      {
+        "title": "Edgar Wright directs Apple’s hilarious new Apple Pay action ad",
+        "link": "https://9to5mac.com/2026/11/09/edgar-wright-directs-apples-hilarious-new-apple-pay-action-ad/",
+        "description": "Apple has once again turned to cinematic action to promote Apple Pay, in a new ad directed by Edgar Wright (Baby Driver, Shaun of the Dead). Watch the new ad below. more…",
+        "published": "2026-11-09T21:30:57.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-pay-mayhem.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "other",
+        "alsoIn": [
+          {
+            "source": "AppleInsider",
+            "title": "Action-packed Apple Pay ad drops, directed by Edgar Wright",
+            "link": "https://appleinsider.com/articles/26/11/09/an-action-packed-apple-pay-ad-has-dropped-it-is-directed-by-edgar-wright?utm_source=rss"
+          }
+        ]
       },
       {
         "title": "Apple Releases macOS Golden Gate 27.2.1",
@@ -3474,23 +4278,6 @@
         "category": "other"
       },
       {
-        "title": "Singapore Saved Apple $2.7 Billion in Taxes This Year",
-        "link": "https://www.macrumors.com/2026/11/09/singapore-saved-apple-2-7-billion-in-tax/",
-        "description": "Apple paid more income tax in Ireland than in Singapore in fiscal 2026, but it saved more in Singapore. annual report shows that the company paid $4.96 billion in cash income taxes in Ireland and $3.25 billion in Singapore. Against the 21% U.S. federal corporate tax rate, Singapore lowered Apple's tax expense by $2.67 billion, about $100 million more than Ireland did. top-up tax erased nearly half of that initial saving. Singapore introduced the tax to bring the effective tax rate for qualifying",
-        "published": "2026-11-09T16:27:30.000Z",
-        "source": "MacRumors",
-        "sourceKey": "macrumors",
-        "priority": 2,
-        "image": "https://images.macrumors.com/article-new/2024/04/singapore-campus.jpg",
-        "baseScore": 5,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "apple",
-          "billion"
-        ],
-        "category": "other"
-      },
-      {
         "title": "Rubio sees little hope of diplomatic breakthrough to Mideast deadlock amid 'outrageous' Iranian demands",
         "link": "https://www.cnbc.com/2026/11/09/us-iran-war-trump-hormuz.html",
         "description": "U.S. Secretary of State Marco Rubio told reporters that Iran negotiations remain unproductive.",
@@ -3519,6 +4306,38 @@
         "relevanceScore": 4,
         "matchedKeywords": [
           "jensen huang"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Google Wallet gets Alipay Plus support with Traveler QR",
+        "link": "https://www.androidauthority.com/google-wallet-alipay-plus-2-3733150/",
+        "description": "The system extends payment support across merchants in Southeast Asia.",
+        "published": "2026-11-09T22:56:21.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2023/04/Google-Wallet-logo-on-smartphone-next-to-credit-cards-and-cash-Stock-photo-11.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Alphabet’s Wing to invest $125M in new delivery drone factory",
+        "link": "https://siliconangle.com/2026/11/09/alphabets-wing-to-invest-125m-in-new-delivery-drone-factory/",
+        "description": "Wing Aviation LLC today announced plans to spend $125 million on the construction of a new delivery drone factory. The initiative is part of a broader investment that also encompasses the Alphabet Inc. unit’s research and development teams in California. Additionally, Wing stated that it plans to invest in the communities where it operates. It […] The post Alphabet’s Wing to invest $125M in new delivery drone factory appeared first on SiliconANGLE.",
+        "published": "2026-11-09T21:12:24.000Z",
+        "source": "SiliconANGLE",
+        "sourceKey": "siliconangle",
+        "priority": 2,
+        "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Wing.png",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "alphabet"
         ],
         "category": "other"
       },
@@ -3691,6 +4510,22 @@
         "sourceKey": "heise",
         "priority": 2,
         "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/7/8/9/7/hp-d6b2b3145abc38da.jpeg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Walmart raises prices on its entire Google TV streamer lineup",
+        "link": "https://9to5google.com/2026/11/09/walmart-google-tv-streamer-lineup-price-hike/",
+        "description": "Walmart’s ultra-cheap Google TV streamers were never going to remain cheap in the age of RAMageddon, and now we’re seeing the second big price hike of the year with the whole Onn Google TV lineup seeing higher prices today. more…",
+        "published": "2026-11-09T15:25:00.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/walmart-onn-4k-pro-google-tv-1.jpg?quality=82&#038;strip=all&#038;w=1600",
         "baseScore": 4,
         "relevanceScore": 4,
         "matchedKeywords": [
@@ -3948,6 +4783,23 @@
         "category": "devices"
       },
       {
+        "title": "Samsung Galaxy Watch8 is now receiving the update to One UI 9 Watch based on Wear OS 7",
+        "link": "https://www.gsmarena.com/samsung_galaxy_watch8_is_now_receiving_the_update_to_one_ui_9_watch_based_on_wear_os_7-news-75410.php",
+        "description": "Google unveiled Wear OS 7 in May, and then proceeded to roll it out to its Pixel Watches in June. Meanwhile, Samsung has been working on its own One UI 9 Watch, which is based on Wear OS 7, commencing a beta program for the Galaxy Watch8 in late August. [#InlinePriceWidget,13997,1#] Today, the Korean company has finally started rolling out the final update to One UI 9 Watch based on Wear OS 7 to the Galaxy Watch8. As has been the case with all new Samsung updates in the past few months, it's goi",
+        "published": "2026-11-09T23:01:02.000Z",
+        "source": "GSMArena",
+        "sourceKey": "gsmarena",
+        "priority": 3,
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/samsung-galaxy-watch8-one-ui-9-watch-wear-os-7-update/-184x111/gsmarena_000.jpg",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "samsung",
+          "google"
+        ],
+        "category": "devices"
+      },
+      {
         "title": "Samsung made limited edition Galaxy Buds4 Pro with Nina Chuba",
         "link": "https://www.gsmarena.com/samsung_made_limited_edition_galaxy_buds4_pro_with_nina_chuba-news-75409.php",
         "description": "Samsung launched the Galaxy Buds4 Pro back in February alongside the Galaxy S26 series smartphones, and now the company is coming out with a new special edition made in collaboration with pop star Nina Chuba. This version will be limited to just 2,000 units. The price is the same €249, so you don't have to pay more than the recommended retail price for the regular model. The special edition is already up for pre-order at Amazon Germany, and it will be released on November 10. If you're wondering",
@@ -3993,6 +4845,29 @@
         ]
       },
       {
+        "title": "Apple releases iOS 27.2.1 for iPhone, here’s what’s new",
+        "link": "https://9to5mac.com/2026/11/09/apple-releases-ios-27-2-1-for-iphone-heres-whats-new/",
+        "description": "Apple has released a minor new software update for iPhone users today: iOS 27.2.1. Here’s what’s new. more…",
+        "published": "2026-11-09T18:09:45.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ios-27-2-iphone-18-pro-burgundy.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices",
+        "alsoIn": [
+          {
+            "source": "MacRumors",
+            "title": "Here's What Apple Fixed in iOS 27.2.1 and macOS 27.2.1",
+            "link": "https://www.macrumors.com/2026/11/09/ios-27-2-1-security-fixes/"
+          }
+        ]
+      },
+      {
         "title": "Samsung bets that you’ll either buy a Galaxy S27 Pro or Ultra next year",
         "link": "https://9to5google.com/2026/11/09/samsung-bets-that-youll-either-buy-a-galaxy-s27-pro-or-ultra-next-year/",
         "description": "Samsung is teeing up to kick off 2027 with an all-new lineup of flagship smartphones, and despite rising prices at your local Best Buy, the brand is still hedging that you’re going to pony up for the most premium model available. more…",
@@ -4012,6 +4887,29 @@
             "source": "Android Authority",
             "title": "Samsung is focusing 70% of its Galaxy S27 production on the Ultra and Pro",
             "link": "https://www.androidauthority.com/galaxy-s27-ultra-pro-production-volume-3733071/"
+          }
+        ]
+      },
+      {
+        "title": "Apple Intelligence registered for iPad, Mac use in China",
+        "link": "https://appleinsider.com/articles/26/11/09/apple-intelligence-registered-for-ipad-mac-use-in-china?utm_source=rss",
+        "description": "Apple Intelligence won't just be available on the iPhone in China, as Apple has registered with regulators to bring it to iPad and Mac as well. M5 MacBook Pro After a two-year wait behind the rest of the world, the iOS 27.3 developer beta brought Apple Intelligence to China. However, while the initial introduction is on the iPhone, it won't be that way for very long. According to the Chinese cyberspace regulator speaking to Reuters on November 9, Apple has registered for Apple Intelligence to be",
+        "published": "2026-11-09T15:31:31.000Z",
+        "source": "AppleInsider",
+        "sourceKey": "appleinsider",
+        "priority": 2,
+        "image": "https://media.appleinsider.com/gallery/69760-147026-68999-145448-M5-MacBook-Pro-back-xl-xl.jpg",
+        "baseScore": 4,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices",
+        "alsoIn": [
+          {
+            "source": "9to5Mac",
+            "title": "Apple Intelligence completes regulatory registration for iPad and Mac in China",
+            "link": "https://9to5mac.com/2026/11/09/apple-intelligence-completes-regulatory-registration-for-ipad-and-mac-in-china/"
           }
         ]
       },
@@ -4056,6 +4954,38 @@
         "category": "devices"
       },
       {
+        "title": "Samsung Galaxy S27 series camera specs leak, and they’re disappointing",
+        "link": "https://9to5google.com/2026/11/09/samsung-galaxy-s27-series-camera-specs-leak-and-theyre-disappointing/",
+        "description": "New leaks reveal the camera specs for Samsung’s upcoming Galaxy S27 series which includes three lenses across the lineup, but not the upgrades you want, nor what Ultra owners might expect. more…",
+        "published": "2026-11-09T23:20:00.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Galaxy-S26-camera-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "samsung"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "What’s new in Android’s November 2026 Google System Updates [U]",
+        "link": "https://9to5google.com/2026/11/09/november-2026-google-system-updates/",
+        "description": "The monthly “Google System Release Notes” primarily detail what’s new in Play services, Play Store, and Play system update across Android phones/tablets, Wear OS, Google/Android TV, Auto, and PC. Some features apply to end users, while others are aimed at developers. more…",
+        "published": "2026-11-09T22:08:00.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/01/google-play-services-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "devices"
+      },
+      {
         "title": "Monday’s Android app deals and freebies: Absolum, Death Worm, Minabo, more",
         "link": "https://9to5toys.com/2026/11/09/todays-highlight-google-play-deals-45/",
         "description": "The new Samsung Galaxy SmartTag 3 tracker is now available for purchase alongside the ongoing all-time low on Google Home Speaker, but today’s best Google Play app and game deals are ready as well: Absolum, Death Worm Deluxe, Pixel Knight, Minabo: A walk through life, Sword of Palmira, Endurance: dead space Premium, Path to Mnemosyne, and more. Just be sure to dive into Galaxy Z Fold 8 at $300 off with a FREE set of new Galaxy Buds On ($530 off) and some of the first deals yet on the new Google",
@@ -4085,22 +5015,6 @@
         "relevanceScore": 4,
         "matchedKeywords": [
           "bytedance"
-        ],
-        "category": "devices"
-      },
-      {
-        "title": "Apple releases iOS 27.2.1 for iPhone, here’s what’s new",
-        "link": "https://9to5mac.com/2026/11/09/apple-releases-ios-27-2-1-for-iphone-heres-whats-new/",
-        "description": "Apple has released a minor new software update for iPhone users today: iOS 27.2.1. Here’s what’s new. more…",
-        "published": "2026-11-09T18:09:45.000Z",
-        "source": "9to5Mac",
-        "sourceKey": "9to5mac",
-        "priority": 2,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ios-27-2-iphone-18-pro-burgundy.jpg?quality=82&#038;strip=all&#038;w=1600",
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
         ],
         "category": "devices"
       },
@@ -4162,22 +5076,6 @@
         "sourceKey": "9to5mac",
         "priority": 2,
         "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-store.webp?w=1600",
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "devices"
-      },
-      {
-        "title": "Apple Intelligence registered for iPad, Mac use in China",
-        "link": "https://appleinsider.com/articles/26/11/09/apple-intelligence-registered-for-ipad-mac-use-in-china?utm_source=rss",
-        "description": "Apple Intelligence won't just be available on the iPhone in China, as Apple has registered with regulators to bring it to iPad and Mac as well. M5 MacBook Pro After a two-year wait behind the rest of the world, the iOS 27.3 developer beta brought Apple Intelligence to China. However, while the initial introduction is on the iPhone, it won't be that way for very long. According to the Chinese cyberspace regulator speaking to Reuters on November 9, Apple has registered for Apple Intelligence to be",
-        "published": "2026-11-09T15:31:31.000Z",
-        "source": "AppleInsider",
-        "sourceKey": "appleinsider",
-        "priority": 2,
-        "image": "https://media.appleinsider.com/gallery/69760-147026-68999-145448-M5-MacBook-Pro-back-xl-xl.jpg",
         "baseScore": 4,
         "relevanceScore": 4,
         "matchedKeywords": [
@@ -4431,6 +5329,22 @@
         "category": "regulation"
       },
       {
+        "title": "Grenzkontrollsystem: EU verklagt Konsortium um IBM",
+        "link": "https://www.heise.de/news/Grenzkontrollsystem-EU-verklagt-Konsortium-um-IBM-11518072.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "Wegen wiederholter Verzögerungen bei der Entwicklung des europäischen Ein- und Ausreisesystems (EES) reicht die EU in Estland Klage gegen IBM und Partner ein.",
+        "published": "2026-11-09T21:35:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/8/0/3/1/shutterstock_119583280-44ab74d54bae07d7.jpeg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "ibm"
+        ],
+        "category": "regulation"
+      },
+      {
         "title": "EU klaagt IBM, Atos en Leonardo aan om vertraagd grenssysteem",
         "link": "https://tweakers.net/nieuws/254336/eu-klaagt-ibm-atos-en-leonardo-aan-om-vertraagd-grenssysteem.html",
         "description": "De Europese Unie heeft IBM en de twee Europese bedrijven Atos en Leonardo aangeklaagd. De drie bedrijven moesten in 2022 een nieuw grenssysteem invoeren om de vingerafdrukken en gezichtsscans van reizigers van buiten het Schengengebied te kunnen bewaren. Uiteindelijk werd het systeem pas dit jaar ingevoerd.",
@@ -4673,5 +5587,5 @@
       }
     ]
   },
-  "totalArticles": 240
+  "totalArticles": 283
 }
