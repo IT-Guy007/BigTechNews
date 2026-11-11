@@ -4,7 +4,7 @@
   "title": "Tuesday, Nov 10",
   "dateRange": "November 10, 2026",
   "date": "2026-11-10",
-  "generatedAt": "2026-11-11T01:57:10.121Z",
+  "generatedAt": "2026-11-11T09:29:00.664Z",
   "highlights": [
     {
       "title": "Anthropic’s $1.4 Trillion IPO Bet Tests AI Appetite",
@@ -2243,10 +2243,42 @@
         "category": "ai"
       },
       {
+        "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+        "link": "https://openai.com/index/singapore-airlines-travel-work",
+        "description": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+        "published": "2026-11-10T08:00:00.000Z",
+        "source": "OpenAI",
+        "sourceKey": "openai_news",
+        "priority": 1,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "Work at the Frontier: AI’s effect on freelance work",
         "link": "https://openai.com/index/ai-effect-on-freelance-work",
         "description": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
         "published": "2026-11-10T07:00:00.000Z",
+        "source": "OpenAI",
+        "sourceKey": "openai_news",
+        "priority": 1,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+        "link": "https://openai.com/index/cogent-security",
+        "description": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+        "published": "2026-11-10T00:00:00.000Z",
         "source": "OpenAI",
         "sourceKey": "openai_news",
         "priority": 1,
@@ -2856,6 +2888,22 @@
           "stablecoin"
         ],
         "category": "ai"
+      },
+      {
+        "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+        "link": "https://claude.com/resources/articles/sheets-whiteboards-data",
+        "description": "Article URL: https://claude.com/resources/articles/sheets-whiteboards-data Comments URL: https://news.ycombinator.com/item?id=50443716 Points: 217 # Comments: 151",
+        "published": "2026-11-10T17:55:07.000Z",
+        "source": "Hacker News",
+        "sourceKey": "hackernews",
+        "priority": 2,
+        "image": null,
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "claude"
+        ],
+        "category": "ai"
       }
     ],
     "chips_cloud": [
@@ -2998,6 +3046,25 @@
           "jensen huang",
           "chip",
           "ceo"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Alibaba Chip Design Unit T-Head Files for Hong Kong IPO",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-10/alibaba-s-chip-design-unit-t-head-files-for-hong-kong-listing",
+        "description": "Alibaba Group Holding Ltd.’s chip design unit T-Head has filed for a Hong Kong initial public offering, moving ahead with a proposed spinoff of a business that supplies data center processors in China.",
+        "published": "2026-11-10T12:51:26.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 10,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "alibaba",
+          "ipo",
+          "chip",
+          "data center"
         ],
         "category": "chips_cloud"
       },
@@ -3641,6 +3708,22 @@
         "relevanceScore": 4,
         "matchedKeywords": [
           "cisco"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "AMD's Zen 6 Family: Feeding the Beast",
+        "link": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+        "description": "Article URL: https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast Comments URL: https://news.ycombinator.com/item?id=50443090 Points: 229 # Comments: 90",
+        "published": "2026-11-10T17:02:32.000Z",
+        "source": "Hacker News",
+        "sourceKey": "hackernews",
+        "priority": 2,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "amd"
         ],
         "category": "chips_cloud"
       },
@@ -6217,5 +6300,5 @@
       }
     ]
   },
-  "totalArticles": 313
+  "totalArticles": 318
 }
