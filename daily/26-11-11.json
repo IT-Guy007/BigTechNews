@@ -4,7 +4,7 @@
   "title": "Wednesday, Nov 11",
   "dateRange": "November 11, 2026",
   "date": "2026-11-11",
-  "generatedAt": "2026-11-12T09:52:57.670Z",
+  "generatedAt": "2026-11-12T18:21:39.899Z",
   "highlights": [
     {
       "title": "What Taiwanese chip giant TSMC gains from taking stakes in OpenAI and Anthropic’s AI race",
@@ -909,6 +909,25 @@
         "matchedKeywords": [
           "coreweave",
           "earnings"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "GPU Financing Filters Further Into ABS With Planned Newton Deal",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-11/newton-eyes-equipment-loan-abs-bond-sale-including-ai-chip-debt",
+        "description": "Newton Commercial Finance, a joint venture between Apple Bank and Eagle Point Credit Management, is in early talks with investors about a potential $180 million bond offering partly backed by artificial intelligence chip loans.",
+        "published": "2026-11-11T19:03:02.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_markets",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "gpu",
+          "apple",
+          "artificial intelligence",
+          "chip"
         ],
         "category": "chips_cloud"
       },
@@ -2087,6 +2106,23 @@
           "softbank",
           "billion",
           "valuation"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Marvell-Lumentum Deal Odds Near Coin Flip",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-11/marvell-lumentum-deal-odds-near-coin-flip-video",
+        "description": "Bloomberg’s Yiqin Shen joins Dani Burger on “Bloomberg Deals.” Marvell Technology’s plan to double down on AI through a blockbuster $115 billion acquisition of Lumentum Holdings is getting a lukewarm early verdict from investment experts who bet on deals. (Source: Bloomberg)",
+        "published": "2026-11-11T19:05:10.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_markets",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "acquisition",
+          "billion"
         ],
         "category": "business"
       },
@@ -3760,6 +3796,22 @@
         "category": "ev_autonomous"
       },
       {
+        "title": "Finland approves Tesla assisted driving cars ahead of EU vote",
+        "link": "https://www.euronews.com/2026/11/11/finland-approves-tesla-assisted-driving-cars-ahead-of-eu-vote",
+        "description": "Finland has given Tesla the green light to use its assisted driving technology on its vehicles, but the system still needs EU-wide approval before it can be rolled out across the bloc.",
+        "published": "2026-11-11T15:27:52.000Z",
+        "source": "Euronews Next",
+        "sourceKey": "euronews_next",
+        "priority": 2,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "tesla"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
         "title": "QuantumScape unveils Osprey all-solid-state cell: 1,000 cycles at 1 atm",
         "link": "https://electrek.co/2026/11/11/quantumscape-osprey-all-solid-state-sulfide-battery/",
         "description": "QuantumScape (QS) is finally going all-solid-state. Its new Osprey platform swaps the liquid in its cathode for a sulfide solid electrolyte, and the company says the cells have hit 1,000 full cycles to 80% capacity at just one atmosphere of pressure. That’s a big deal for the sulfide camp, which includes Toyota, Samsung SDI, BYD, and Factorial. Their cells typically need heavy clamping to work. But the white paper behind the announcement shows these are small, early lab cells, and some headline",
@@ -5213,6 +5265,22 @@
           "eu commission"
         ],
         "category": "regulation"
+      },
+      {
+        "title": "EU targets subscription traps, addictive design and hidden fees with new digital rules",
+        "link": "https://www.euronews.com/2026/11/11/eu-targets-subscription-traps-addictive-design-and-hidden-fees-with-new-digital-rules",
+        "description": "The European Commission's proposed Digital Fairness Act would introduce new protections against unfair online commercial practices, alongside a separate enforcement reform that could see companies fined up to 6% of their annual global turnover.",
+        "published": "2026-11-11T15:22:49.000Z",
+        "source": "Euronews Next",
+        "sourceKey": "euronews_next",
+        "priority": 2,
+        "image": null,
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "european commission"
+        ],
+        "category": "regulation"
       }
     ],
     "space": [
@@ -5405,5 +5473,5 @@
       }
     ]
   },
-  "totalArticles": 285
+  "totalArticles": 289
 }
