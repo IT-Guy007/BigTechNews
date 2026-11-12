@@ -4,7 +4,7 @@
   "title": "Wednesday, Nov 11",
   "dateRange": "November 11, 2026",
   "date": "2026-11-11",
-  "generatedAt": "2026-11-11T17:55:00.935Z",
+  "generatedAt": "2026-11-12T00:46:27.452Z",
   "highlights": [
     {
       "title": "What Taiwanese chip giant TSMC gains from taking stakes in OpenAI and Anthropic’s AI race",
@@ -89,6 +89,27 @@
       "category": "chips_cloud"
     },
     {
+      "title": "Rubenstein on the Anthropic IPO, Nvidia CEO Scandal",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-11/rubenstein-on-the-anthropic-ipo-nvidia-ceo-scandal-video",
+      "description": "Carlyle Group co-Chairman and Bloomberg Host David Rubenstein talks about the anticipated initial public offering of Anthropic and the scandal involving Nvidia CEO Jensen Huang. He expects the Anthropic valuation to reach $1.3 trillion and he thinks Huang will stay on as leader of Nvidia. Rubenstein also talks about the upcoming release of Grand Theft Auto VI. (Source: Bloomberg)",
+      "published": "2026-11-11T19:53:18.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "baseScore": 20,
+      "relevanceScore": 20,
+      "matchedKeywords": [
+        "nvidia",
+        "anthropic",
+        "ipo",
+        "ceo",
+        "jensen huang",
+        "valuation"
+      ],
+      "category": "business"
+    },
+    {
       "title": "Anthropic says AI is eroding Nvidia's CUDA lead, cutting an AMD chip switch from months to three days",
       "link": "https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/",
       "description": "Anthropic claims it used AI itself to breach Nvidia's CUDA moat. The company's in-house model Mythos reportedly ported Claude to AMD GPUs in just three days, with almost no human intervention. Anthropic now runs Claude on four chip families and aims to cut costs and reduce vendor dependencies. The article Anthropic says AI is eroding Nvidia's CUDA lead, cutting an AMD chip switch from months to three days appeared first on The Decoder.",
@@ -108,6 +129,44 @@
         "gpu"
       ],
       "category": "chips_cloud"
+    },
+    {
+      "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+      "link": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+      "description": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
+      "published": "2026-11-11T18:16:40.000Z",
+      "source": "Ars Technica",
+      "sourceKey": "arstechnica",
+      "priority": 1,
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/TSMC-Fab-18-1152x648.jpg",
+      "baseScore": 19,
+      "relevanceScore": 19,
+      "matchedKeywords": [
+        "openai",
+        "anthropic",
+        "tsmc"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "OpenAI, Anthropic Valuations Fuel VC Fears of Startup Correction",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-11/openai-anthropic-valuations-fuel-vc-fears-of-startup-correction",
+      "description": "In late September, OpenAI entered discussions for its latest funding round with confidence. After having early discussions with prospective backers who had expressed interest, the company presented its terms: at least $30 billion in new capital at a $1.4 trillion valuation.Few startups have been as successful at fundraising as OpenAI, which was last valued at $852 billion. This time, however, some investors felt the terms were too lofty, according to people familiar with the matter, who spoke on",
+      "published": "2026-11-11T21:39:14.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "baseScore": 18,
+      "relevanceScore": 18,
+      "matchedKeywords": [
+        "openai",
+        "anthropic",
+        "valuation",
+        "funding round",
+        "billion"
+      ],
+      "category": "business"
     },
     {
       "title": "Bitcoin stuck under $74,000 as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
@@ -160,70 +219,6 @@
           "link": "https://www.bloomberg.com/news/videos/2026-11-11/anthropic-s-ipo-said-to-be-multiple-times-oversubscribed-video"
         }
       ]
-    },
-    {
-      "title": "The Anthropic-OpenAI Valuation Gap",
-      "link": "https://www.theinformation.com/articles/anthropic-openai-valuation-gap",
-      "description": "If you want proof of the widening gap in sentiment between public and private investors, take a look at the valuations of Anthropic and OpenAI. On Tuesday, Anthropic disclosed it was targeting a valuation of between $1.26 trillion and $1.4 trillion in its upcoming initial public offering. The prospectus update comes on the heels of OpenAI’s most recent fundraising, which valued the company at $1.25 trillion. That means Anthropic expects public investors to value it at only 12% more than OpenAI,",
-      "published": "2026-11-11T00:11:28.000Z",
-      "source": "The Information",
-      "sourceKey": "theinformation",
-      "priority": 1,
-      "image": null,
-      "baseScore": 16,
-      "relevanceScore": 16,
-      "matchedKeywords": [
-        "openai",
-        "anthropic",
-        "valuation"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": "Anthropic opens its Australian retail IPO, giving individual investors access to Class A shares ahead of the company's planned Nasdaq listing",
-      "link": "https://www.techmeme.com/261110/p63#a261110p63",
-      "description": "Anthropic opens its Australian retail IPO, giving individual investors access to Class A shares ahead of the company's planned Nasdaq listing — Anthropic, the maker of AI chatbot Claude, opened its Australian retail initial public offering on Wednesday, giving individual investors access …",
-      "published": "2026-11-11T02:30:01.000Z",
-      "source": "Techmeme",
-      "sourceKey": "techmeme",
-      "priority": 1,
-      "image": "http://www.techmeme.com/261110/i63.jpg",
-      "via": "CNBC",
-      "baseScore": 14,
-      "relevanceScore": 15,
-      "matchedKeywords": [
-        "anthropic",
-        "ipo",
-        "claude"
-      ],
-      "category": "business",
-      "alsoIn": [
-        {
-          "source": "CNBC",
-          "title": "Anthropic opens Australian retail IPO offering as AI scrutiny intensifies",
-          "link": "https://www.cnbc.com/2026/11/11/anthopic-australian-retail-ipo-offering-.html"
-        }
-      ]
-    },
-    {
-      "title": "What’s Next for Anthropic’s Mega-IPO: Five Things to Watch",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-11/what-s-next-for-anthropic-s-mega-ipo-five-things-to-watch",
-      "description": "Anthropic PBC is in the home stretch for its initial public offering, which including the $26 billion private placement is poised to top SpaceX’s record. The deal could raise up to $90.4 billion for the company and its co-founders when it prices on Nov. 18, cementing the first listing for a frontier AI model maker.",
-      "published": "2026-11-11T17:08:18.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "baseScore": 15,
-      "relevanceScore": 15,
-      "matchedKeywords": [
-        "anthropic",
-        "ipo",
-        "spacex",
-        "ai model",
-        "billion"
-      ],
-      "category": "ai"
     }
   ],
   "byCategory": {
@@ -311,6 +306,32 @@
         "category": "chips_cloud"
       },
       {
+        "title": "Nvidia Board Reportedly Preparing To Oust Nvidia CEO",
+        "link": "https://www.theinformation.com/briefings/report-nvidia-board-reportedly-preparing-oust-nvidia-ceo",
+        "description": "Nvidia’s board is preparing to oust Nvidia CEO Jensen Huang, the Wall Street Journal reported Wednesday. The board has been investigating Huang’s romantic relationship with a woman whose Chinese firm that obtained banned Nvidia chips, and which the U.S. suspected was providing information to ...",
+        "published": "2026-11-11T22:47:48.000Z",
+        "source": "The Information",
+        "sourceKey": "theinformation",
+        "priority": 1,
+        "image": null,
+        "baseScore": 10,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "nvidia",
+          "ceo",
+          "jensen huang",
+          "chip"
+        ],
+        "category": "chips_cloud",
+        "alsoIn": [
+          {
+            "source": "Techmeme",
+            "title": "Sources: Nvidia's board is preparing to oust Jensen Huang; it plans to meet as soon as Wednesday to determine his future; NVDA drops 7%+ after hours (Wall Street Journal)",
+            "link": "https://www.techmeme.com/261111/p44#a261111p44"
+          }
+        ]
+      },
+      {
         "title": "Nvidia Gets Rare Downgrade as Baird Raises CEO Uncertainities",
         "link": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-gets-rare-downgrade-as-baird-raises-ceo-uncertainities",
         "description": "Wall Street sentiment toward Nvidia Corp. is starting to crack, as an investigation into Chief Executive Officer Jensen Huang’s affair with an alleged Chinese spy is sowing doubt over the artificial intelligence chipmaker’s prospects.",
@@ -351,6 +372,48 @@
         "category": "chips_cloud"
       },
       {
+        "title": "Meta head of infrastructure will leave and be succeeded by former AWS cloud exec",
+        "link": "https://www.cnbc.com/2026/11/11/meta-infrastructure-departure-aws-cloud.html",
+        "description": "Meta's head of infrastructure and co-head of engineering Santosh Janardhan will leave in 2027, with former AWS senior vice president David Brown taking over.",
+        "published": "2026-11-11T18:57:38.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 9,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "aws",
+          "meta"
+        ],
+        "category": "chips_cloud",
+        "alsoIn": [
+          {
+            "source": "TechCrunch",
+            "title": "Meta is losing its longtime head of infrastructure",
+            "link": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/"
+          }
+        ]
+      },
+      {
+        "title": "We Are Probably Overbuilding Data Centers: Gary Marcus",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-11/we-are-probably-overbuilding-data-centers-gary-marcus-video",
+        "description": "Gary Marcus argues that investors should avoid Anthropic’s IPO because its financial outlook depends on rapid, sustained growth. He speaks with Romaine Bostick and Vonnie Quinn on The Close. (Source: Bloomberg)",
+        "published": "2026-11-11T23:05:40.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 10,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "data center",
+          "anthropic",
+          "ipo"
+        ],
+        "category": "chips_cloud"
+      },
+      {
         "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
         "link": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
         "description": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
@@ -365,6 +428,25 @@
           "nvidia",
           "alibaba",
           "chip"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Nvidia CEO Jensen Huang expected to be ousted",
+        "link": "https://appleinsider.com/articles/26/11/11/nvidia-ceo-jensen-huang-expected-to-be-ousted?utm_source=rss",
+        "description": "After a second extramarital affair was uncovered, Nvidia's board is reportedly preparing to oust CEO Jensen Huang. Details of when and who might replace him aren't available. Nvidia's CEO could be ousted Even as Apple faces increased scrutiny around its approach to AI, there are real problems brewing in the outer AI industry. Nvidia CEO Jensen Huang admitted to an affair with someone accused of being a Chinese spy. According to a report from the Wall Street Journal, a second extramarital affair",
+        "published": "2026-11-11T22:52:29.000Z",
+        "source": "AppleInsider",
+        "sourceKey": "appleinsider",
+        "priority": 2,
+        "image": "https://media.appleinsider.com/gallery/69807-147143-IMG_5489-xl.jpg",
+        "baseScore": 10,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang",
+          "ceo",
+          "apple"
         ],
         "category": "chips_cloud"
       },
@@ -574,23 +656,6 @@
         "category": "chips_cloud"
       },
       {
-        "title": "Nvidia Gets Rare Downgrade as Jensen Huang Scandal Weighs on Outlook",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-11/bloomberg-surveillance-11-11-2026-video",
-        "description": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day than \"Bloomberg Surveillance.\" (Source: Bloomberg)",
-        "published": "2026-11-11T16:49:45.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_markets",
-        "priority": 1,
-        "image": null,
-        "baseScore": 8,
-        "relevanceScore": 8,
-        "matchedKeywords": [
-          "nvidia",
-          "jensen huang"
-        ],
-        "category": "chips_cloud"
-      },
-      {
         "title": "Nvidia Scandal Tests the Resilience of the Global AI Boom",
         "link": "https://www.wsj.com/tech/ai/jensen-huang-nvidia-ceo-ai-bubble-93097556?mod=rss_Technology",
         "description": "Jensen Huang is the biggest cheerleader of the ‘next industrial revolution.’ Could it carry on without him?",
@@ -679,39 +744,45 @@
         "category": "chips_cloud"
       },
       {
-        "title": "Nvidia Sheds $430B in Two Days as Jensen Huang Faces Calls to Resign",
-        "link": "https://decrypt.co/382991/nvidia-sheds-430b-in-two-days-as-jensen-huang-faces-calls-to-resign",
-        "description": "Nvidia's independent directors have hired Wachtell Lipton to investigate its CEO's ties to an alleged Chinese spy, as pressure mounts.",
-        "published": "2026-11-11T12:15:46.000Z",
+        "title": "Nvidia-Backed CoreWeave Is Surging: Here’s What It Means for the AI Boom",
+        "link": "https://decrypt.co/383099/nvidia-backed-coreweave-surging-what-means-for-ai-boom",
+        "description": "CoreWeave's 168% revenue jump sent its shares soaring and lifted Nvidia and other AI stocks. Strong demand is reassuring investors, but the cost of building it remains enormous.",
+        "published": "2026-11-11T22:36:03.000Z",
         "source": "Decrypt",
         "sourceKey": "decrypt",
         "priority": 3,
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-03-e1794217137922-gID_7.jpg@png",
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/CoreWeave-logo-gID_7.jpg@png",
         "baseScore": 8,
         "relevanceScore": 8,
         "matchedKeywords": [
           "nvidia",
-          "jensen huang",
-          "ceo"
+          "coreweave"
         ],
         "category": "chips_cloud"
       },
       {
-        "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
-        "link": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
-        "description": "China’s use of sexpionage is a well-established intelligence tactic with recent, high-profile examples. So how did the world’s most powerful AI executive fall for it?",
-        "published": "2026-11-11T15:30:00.000Z",
-        "source": "Wired",
-        "sourceKey": "wired",
-        "priority": 2,
-        "image": "https://media.wired.com/photos/6af3b2cb420c0dad2c15cd3b/master/pass/Jensen-Honeypot-Big-Story-2.jpg",
-        "baseScore": 7,
+        "title": "CoreWeave Plans to Raise at Least $4 Billion in High-Grade Loan",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-11/coreweave-plans-to-raise-at-least-4-billion-in-high-grade-loan",
+        "description": "CoreWeave Inc. plans to raise at least $4 billion through an investment-grade loan offering after the AI computing supplier boosted its annual sales forecast, easing investor concerns about its debt-laden business.",
+        "published": "2026-11-11T22:42:47.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
         "relevanceScore": 7,
         "matchedKeywords": [
-          "nvidia",
-          "jensen huang"
+          "coreweave",
+          "billion"
         ],
-        "category": "chips_cloud"
+        "category": "chips_cloud",
+        "alsoIn": [
+          {
+            "source": "Techmeme",
+            "title": "Sources: CoreWeave plans to raise $4B+ via an investment-grade loan as soon as next week; CoreWeave says it may yield 7%-7.5%, about half its junk bonds' yield",
+            "link": "https://www.techmeme.com/261111/p47#a261111p47"
+          }
+        ]
       },
       {
         "title": "KI-Update kompakt: Nvidia-Affäre, Coding-Agenten, Gemini 4 Carbon, Muse Ember",
@@ -789,6 +860,57 @@
             "link": "https://siliconangle.com/2026/11/11/ibm-quantum-announces-upcoming-nighthawk-r3-processor-designed-to-execute-10000-operations/"
           }
         ]
+      },
+      {
+        "title": "Sources: Howard Lutnick has stalled curbs on companies suspected of diverting Nvidia chips to China; Trump approved them for the third time this year on Nov. 5 (Axios)",
+        "link": "https://www.techmeme.com/261111/p46#a261111p46",
+        "description": "Axios: Sources: Howard Lutnick has stalled curbs on companies suspected of diverting Nvidia chips to China; Trump approved them for the third time this year on Nov. 5 — President Trump on Thursday authorized a crack down on companies suspected of diverting Nvidia's advanced AI chips to China …",
+        "published": "2026-11-11T23:20:05.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261111/i46.jpg",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "nvidia",
+          "chip"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Microsoft Vows to Pay Its Own Way to Power Data Centers",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-11/microsoft-vows-to-pay-its-own-way-to-power-data-centers",
+        "description": "Microsoft Corp. aims to find ways to power its data centers without relying on government subsidies or driving up costs for other electricity consumers.",
+        "published": "2026-11-11T20:33:16.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "microsoft",
+          "data center"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+        "link": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+        "description": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+        "published": "2026-11-11T19:54:00.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "coreweave",
+          "earnings"
+        ],
+        "category": "chips_cloud"
       },
       {
         "title": "IBM to offer access to a dual-processor quantum system in 2027",
@@ -908,6 +1030,24 @@
         "matchedKeywords": [
           "nvidia",
           "chip"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "As Kubernetes inference faces launch-day deadlines, CoreWeave deepens its open-source involvement",
+        "link": "https://siliconangle.com/2026/11/11/kubernetes-inference-takes-more-than-downloading-model-weights-kubeconna/",
+        "description": "Cloud providers are scaling Kubernetes inference to serve frontier AI models, and the problems they encounter in production are helping shape the open-source projects they rely on. CoreWeave Inc. sits near the center of that shift as AI agents reshape enterprise infrastructure. The company describes itself as a cloud built from the ground up for […] The post As Kubernetes inference faces launch-day deadlines, CoreWeave deepens its open-source involvement appeared first on SiliconANGLE.",
+        "published": "2026-11-11T18:11:46.000Z",
+        "source": "SiliconANGLE",
+        "sourceKey": "siliconangle",
+        "priority": 2,
+        "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Rita-Zhang-Yoshi-Tamura-Clean.jpg",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "coreweave",
+          "ai model",
+          "ai agent"
         ],
         "category": "chips_cloud"
       },
@@ -1060,6 +1200,23 @@
         "category": "chips_cloud"
       },
       {
+        "title": "AMD’s Venice-X maxes out family at 5.3 GHz, returning 3D V-Cache to data center after four years",
+        "link": "https://www.tomshardware.com/pc-components/cpus/amds-venice-x-maxes-out-family-at-5-3-ghz-returning-3d-v-cache-to-data-center-after-four-years-chips-target-hpc-workloads-with-pcie-6-0-and-1-6-tb-s-memory-bandwidth",
+        "description": "AMD's Venice-X CPUs launch in the second half of 2027, bringing 3D V-Cache back to the data center after four years on the sidelines.",
+        "published": "2026-11-11T21:30:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/aLSGanWgBzwJhr9LcYMiwb-1920-80.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "amd",
+          "data center"
+        ],
+        "category": "chips_cloud"
+      },
+      {
         "title": "Gerucht: Nvidia stelt 24GB-variant van RTX 5080 voor onbepaalde tijd uit",
         "link": "https://tweakers.net/nieuws/254418/gerucht-nvidia-stelt-24gb-variant-van-rtx-5080-voor-onbepaalde-tijd-uit.html",
         "description": "Nvidia zou de release van een 24GB-uitvoering van zijn RTX 5080-videokaart alsnog schrappen. Dat zou komen door de hoge kosten van 3GB-GDDR7-chips, waardoor een 24GB-model te duur zou zijn. De 16GB-uitvoering die Nvidia zou uitfaseren, lijkt toch te blijven.",
@@ -1113,6 +1270,40 @@
         "category": "chips_cloud"
       },
       {
+        "title": "British inference chip developer Fractile raises $720M in funding",
+        "link": "https://siliconangle.com/2026/11/11/inference-chip-developer-fractile-raises-720m-in-funding/",
+        "description": "Fractile Ltd., a British startup that develops artificial intelligence inference chips, has raised $720 million in funding. Reuters reported today that the Series C round was led by Thrive Capital, Founders Fund, Lightspeed and Redpoint. They were joined by about a dozen others including the U.K. Sovereign AI Fund, the British Business Bank and Alphabet […] The post British inference chip developer Fractile raises $720M in funding appeared first on SiliconANGLE.",
+        "published": "2026-11-11T21:12:49.000Z",
+        "source": "SiliconANGLE",
+        "sourceKey": "siliconangle",
+        "priority": 2,
+        "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Photo.png",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "chip",
+          "alphabet",
+          "artificial intelligence"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "AWS emulator",
+        "link": "https://github.com/aws/aws-emulator",
+        "description": "https://www.aboutamazon.com/news/aws/how-autonomous-ai-agent... https://www.allthingsdistributed.com/2026/11/aws-emulator-an... Comments URL: https://news.ycombinator.com/item?id=50456631 Points: 623 # Comments: 208",
+        "published": "2026-11-11T18:21:38.000Z",
+        "source": "Hacker News",
+        "sourceKey": "hackernews",
+        "priority": 2,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "aws"
+        ],
+        "category": "chips_cloud"
+      },
+      {
         "title": "Ohio State University to migrate infrastructure to Microsoft Azure",
         "link": "https://www.datacenterdynamics.com/en/news/ohio-state-university-to-migrate-infrastructure-to-microsoft-azure/",
         "description": "Two sign a five-year partnership",
@@ -1161,20 +1352,35 @@
         "category": "chips_cloud"
       },
       {
-        "title": "Nvidia CEO Jensen Huang’s affair: everything you need to know",
-        "link": "https://www.scmp.com/news/article/3374047/nvidia-ceo-jensen-huangs-affair-everything-you-need-know",
-        "description": "We have put together stories from our coverage of Jensen Huang’s affair and its potential repercussions. If you would like to see more of our reporting, please consider subscribing. 1. Could Jensen Huang’s affair become another ‘spy balloon’ saga for US-China ties? China hawks in Washington could weaponise allegations that Nvidia CEO Jensen Huang was targeted by Chinese intelligence, despite denials from Beijing, Chinese experts warn. 2. ‘Adding fuel to fire’: how Nvidia CEO’s troubles could...",
-        "published": "2026-11-11T08:20:27.000Z",
-        "source": "SCMP",
-        "sourceKey": "scmp_tech",
-        "priority": 2,
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/11/b99db741-da18-4b90-8581-37c87fec3d6d_ff4acf89.jpg?itok=yalVKGA5&v=1794383346",
-        "baseScore": 4,
-        "relevanceScore": 4,
+        "title": "Sources: Scott Bessent confronted Howard Lutnick last week over the Commerce Dept. not adding Megaspeed to the Entity List; Commerce denies the confrontation (Axios)",
+        "link": "https://www.techmeme.com/261111/p45#a261111p45",
+        "description": "Axios: Sources: Scott Bessent confronted Howard Lutnick last week over the Commerce Dept. not adding Megaspeed to the Entity List; Commerce denies the confrontation — Treasury Secretary Scott Bessent confronted Commerce Secretary Howard Lutnick over a failure to place Nvidia customer Megaspeed …",
+        "published": "2026-11-11T22:45:00.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261111/i45.jpg",
+        "baseScore": 3,
+        "relevanceScore": 3,
         "matchedKeywords": [
-          "nvidia",
-          "jensen huang",
-          "ceo"
+          "nvidia"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Why the data center you dread might never even be built",
+        "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+        "description": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place. With billions of dollars in AI infrastructure […]",
+        "published": "2026-11-11T20:15:15.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "data center",
+          "billion"
         ],
         "category": "chips_cloud"
       },
@@ -1231,6 +1437,47 @@
           "anthropic",
           "ipo",
           "antitrust"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Rubenstein on the Anthropic IPO, Nvidia CEO Scandal",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-11/rubenstein-on-the-anthropic-ipo-nvidia-ceo-scandal-video",
+        "description": "Carlyle Group co-Chairman and Bloomberg Host David Rubenstein talks about the anticipated initial public offering of Anthropic and the scandal involving Nvidia CEO Jensen Huang. He expects the Anthropic valuation to reach $1.3 trillion and he thinks Huang will stay on as leader of Nvidia. Rubenstein also talks about the upcoming release of Grand Theft Auto VI. (Source: Bloomberg)",
+        "published": "2026-11-11T19:53:18.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 20,
+        "relevanceScore": 20,
+        "matchedKeywords": [
+          "nvidia",
+          "anthropic",
+          "ipo",
+          "ceo",
+          "jensen huang",
+          "valuation"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "OpenAI, Anthropic Valuations Fuel VC Fears of Startup Correction",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-11/openai-anthropic-valuations-fuel-vc-fears-of-startup-correction",
+        "description": "In late September, OpenAI entered discussions for its latest funding round with confidence. After having early discussions with prospective backers who had expressed interest, the company presented its terms: at least $30 billion in new capital at a $1.4 trillion valuation.Few startups have been as successful at fundraising as OpenAI, which was last valued at $852 billion. This time, however, some investors felt the terms were too lofty, according to people familiar with the matter, who spoke on",
+        "published": "2026-11-11T21:39:14.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 18,
+        "relevanceScore": 18,
+        "matchedKeywords": [
+          "openai",
+          "anthropic",
+          "valuation",
+          "funding round",
+          "billion"
         ],
         "category": "business"
       },
@@ -1389,6 +1636,112 @@
         "category": "business"
       },
       {
+        "title": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
+        "link": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
+        "description": "Investors are assessing whether CEO Jensen Huang's affair will have spillover effects on Nvidia's business.",
+        "published": "2026-11-11T17:39:26.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 10,
+        "relevanceScore": 13,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang",
+          "earnings",
+          "ceo"
+        ],
+        "category": "business",
+        "alsoIn": [
+          {
+            "source": "The Verge",
+            "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+            "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor"
+          },
+          {
+            "source": "CNBC",
+            "title": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports",
+            "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html"
+          },
+          {
+            "source": "Ars Technica",
+            "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
+            "link": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/"
+          },
+          {
+            "source": "TechCrunch",
+            "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+            "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"
+          },
+          {
+            "source": "Bloomberg",
+            "title": "Nvidia Gets Rare Downgrade as Jensen Huang Scandal Weighs on Outlook",
+            "link": "https://www.bloomberg.com/news/videos/2026-11-11/bloomberg-surveillance-11-11-2026-video"
+          },
+          {
+            "source": "Techmeme",
+            "title": "Sources: Jensen Huang had an extramarital relationship with Nvidia's VP of healthcare, Kimberly Powell, who reports to him; it was discussed inside the company (New York Times)",
+            "link": "https://www.techmeme.com/261111/p43#a261111p43"
+          },
+          {
+            "source": "Bloomberg",
+            "title": "Nvidia Preparing to Oust Jensen Huang After Affairs, WSJ Says",
+            "link": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-ceo-had-an-affair-with-health-executive-at-firm-nyt-says"
+          },
+          {
+            "source": "TechCrunch",
+            "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+            "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/"
+          },
+          {
+            "source": "Tom's Hardware",
+            "title": "Congress could issue subpoena to Nvidia CEO Jensen Huang if he doesn’t respond by today to request for a ‘joint, closed-door briefing’",
+            "link": "https://www.tomshardware.com/tech-industry/policy/congress-could-issue-subpoena-to-nvidia-ceo-jensen-huang-if-he-doesnt-respond-by-today-to-request-for-a-joint-closed-door-briefing-us-representatives-want-to-discuss-companys-security-protocols-against-foreign-adversary-espionage"
+          },
+          {
+            "source": "Hacker News",
+            "title": "Nvidia is preparing to oust Jensen Huang",
+            "link": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad"
+          },
+          {
+            "source": "Tom's Hardware",
+            "title": "Jensen Huang now accused of affair with Nvidia executive who reported to him, alleged cover-up attempt",
+            "link": "https://www.tomshardware.com/tech-industry/jensen-huang-now-accused-of-affair-with-nvidia-executive-who-reported-to-him-alleged-cover-up-attempt-new-indiscretion-comes-in-wake-of-admitted-affair-with-alleged-chinese-spy"
+          },
+          {
+            "source": "Tom's Hardware",
+            "title": "Nvidia’s Board reportedly preparing to oust CEO Jensen Huang as second extra-marital affair emerges",
+            "link": "https://www.tomshardware.com/pc-components/gpus/nvidias-board-reportedly-preparing-to-oust-ceo-jensen-huang-as-second-extra-marital-affair-emerges-stock-has-plunged-20-percent-since-scandals-began-huang-has-been-first-and-only-ceo-for-33-years"
+          },
+          {
+            "source": "Decrypt",
+            "title": "Nvidia Sheds $430B in Two Days as Jensen Huang Faces Calls to Resign",
+            "link": "https://decrypt.co/382991/nvidia-sheds-430b-in-two-days-as-jensen-huang-faces-calls-to-resign"
+          },
+          {
+            "source": "Wired",
+            "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
+            "link": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/"
+          },
+          {
+            "source": "DataCenterDynamics",
+            "title": "Nvidia's Jensen Huang accused of second affair with staffer, board considers ouster",
+            "link": "https://www.datacenterdynamics.com/en/news/nvidias-jensen-huang-accused-of-second-affair-with-staffer-board-considers-ouster/"
+          },
+          {
+            "source": "TechCrunch",
+            "title": "The unfolding Jensen Huang scandal: a timeline",
+            "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+          },
+          {
+            "source": "SCMP",
+            "title": "Nvidia CEO Jensen Huang’s affair: everything you need to know",
+            "link": "https://www.scmp.com/news/article/3374047/nvidia-ceo-jensen-huangs-affair-everything-you-need-know"
+          }
+        ]
+      },
+      {
         "title": "Investor Selby on Why Anthropic's IPO Puzzles Him",
         "link": "https://www.bloomberg.com/news/videos/2026-11-11/investor-selby-on-why-anthropic-ipo-puzzles-him-video",
         "description": "Copper Sky Capital Managing Director Jack Selby questions why Anthropic is rushing into the public markets when, in his words, the company has 'so much cash on their balance sheet, almost as much as Google'. He speaks on \"Insight with Haslinda Amin.\" (Corrects the company name and Jack Selby's job title across the headline, description and throughout the video.)",
@@ -1407,21 +1760,55 @@
         "category": "business"
       },
       {
-        "title": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
-        "link": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
-        "description": "Investors are assessing whether CEO Jensen Huang's affair will have spillover effects on Nvidia's business.",
-        "published": "2026-11-11T17:39:26.000Z",
+        "title": "Nvidia's stock fell 5.47% on Tuesday, following a 4%+ drop on Monday, after Jensen Huang admitted to an affair with Alice Huang, an alleged Chinese spy",
+        "link": "https://www.techmeme.com/261110/p66#a261110p66",
+        "description": "Nvidia's stock fell 5.47% on Tuesday, following a 4%+ drop on Monday, after Jensen Huang admitted to an affair with Alice Huang, an alleged Chinese spy — Nvidia shares sank 5.47% on Tuesday as investors continued to weigh the potential fallout from CEO Jensen Huang's affair with an alleged Chinese spy.",
+        "published": "2026-11-11T04:45:01.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261110/i66.jpg",
+        "via": "CNBC",
+        "baseScore": 9,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang",
+          "ceo"
+        ],
+        "category": "business",
+        "alsoIn": [
+          {
+            "source": "Bloomberg",
+            "title": "Huang Said to Have Had Affair With Nvidia Executive: NYT",
+            "link": "https://www.bloomberg.com/news/videos/2026-11-11/huang-said-to-have-had-affair-with-nvidia-executive-nyt-video"
+          },
+          {
+            "source": "Bloomberg",
+            "title": "Nvidia Board Meets on Huang’s Fate After Affair With Alleged Spy",
+            "link": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-board-meets-on-huang-s-fate-after-affair-with-alleged-spy"
+          },
+          {
+            "source": "TechCrunch",
+            "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+            "link": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/"
+          }
+        ]
+      },
+      {
+        "title": "Jim Cramer: This is the bet you're making if you buy the Anthropic IPO",
+        "link": "https://www.cnbc.com/2026/11/11/anthropic-ipo-profit-computing-commitments.html",
+        "description": "CNBC's Jim Cramer said that Anthropic must sustain extraordinary growth to cover its mounting infrastructure costs.",
+        "published": "2026-11-11T23:30:48.000Z",
         "source": "CNBC",
         "sourceKey": "cnbc_tech",
         "priority": 1,
         "image": null,
-        "baseScore": 10,
-        "relevanceScore": 10,
+        "baseScore": 11,
+        "relevanceScore": 11,
         "matchedKeywords": [
-          "nvidia",
-          "jensen huang",
-          "earnings",
-          "ceo"
+          "anthropic",
+          "ipo"
         ],
         "category": "business"
       },
@@ -1443,6 +1830,66 @@
           "microsoft",
           "amazon",
           "artificial intelligence"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Nvidia Working With Outside Firm to Identify CEO Candidates",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-working-with-outside-firm-to-identify-ceo-candidates",
+        "description": "Nvidia Corp.’s board has been working with an outside firm to identify potential replacements for Chief Executive Officer Jensen Huang following reports of multiple extramarital affairs, including one with a woman who is reportedly suspected of spying for China, a person familiar with the situation said.",
+        "published": "2026-11-11T23:46:39.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "nvidia",
+          "ceo",
+          "jensen huang"
+        ],
+        "category": "business",
+        "alsoIn": [
+          {
+            "source": "Bloomberg",
+            "title": "Nvidia Working With Outside Firm to Identify CEO Candidates",
+            "link": "https://www.bloomberg.com/news/live-blog/2026-11-11/nvidia-turmoil-board-to-weigh-ceo-jensen-huang-future-over-alleged-affairs"
+          }
+        ]
+      },
+      {
+        "title": "Hosin, Amicro Set to Trade in Hong Kong as IPOs Gather Pace",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-11/hosin-amicro-set-to-trade-in-hong-kong-as-ipos-gather-pace",
+        "description": "Chinese memory product maker Hosin Electronics Co. and robotics technology platform Amicro Technology Co. are set to begin trading on Thursday in Hong Kong in a test of investor appetite for technology stocks in the region ahead of Anthropic PBC’s blockbuster US listing.",
+        "published": "2026-11-11T23:00:00.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "ipo",
+          "anthropic"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Nvidia Falls as Investors Consider Future Without CEO Huang",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-tumbles-as-investors-consider-future-without-ceo-huang",
+        "description": "Nvidia Corp. stock sank in extended trading Wednesday as investors grappled with the possibility of the company without Chief Executive Officer Jensen Huang at the helm.",
+        "published": "2026-11-11T22:48:40.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_markets",
+        "priority": 1,
+        "image": null,
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "nvidia",
+          "ceo",
+          "jensen huang"
         ],
         "category": "business"
       },
@@ -1478,25 +1925,6 @@
         "matchedKeywords": [
           "openai",
           "billion"
-        ],
-        "category": "business"
-      },
-      {
-        "title": "Nvidia's stock fell 5.47% on Tuesday, following a 4%+ drop on Monday, after Jensen Huang admitted to an affair with Alice Huang, an alleged Chinese spy",
-        "link": "https://www.techmeme.com/261110/p66#a261110p66",
-        "description": "Nvidia's stock fell 5.47% on Tuesday, following a 4%+ drop on Monday, after Jensen Huang admitted to an affair with Alice Huang, an alleged Chinese spy — Nvidia shares sank 5.47% on Tuesday as investors continued to weigh the potential fallout from CEO Jensen Huang's affair with an alleged Chinese spy.",
-        "published": "2026-11-11T04:45:01.000Z",
-        "source": "Techmeme",
-        "sourceKey": "techmeme",
-        "priority": 1,
-        "image": "http://www.techmeme.com/261110/i66.jpg",
-        "via": "CNBC",
-        "baseScore": 9,
-        "relevanceScore": 9,
-        "matchedKeywords": [
-          "nvidia",
-          "jensen huang",
-          "ceo"
         ],
         "category": "business"
       },
@@ -1557,6 +1985,23 @@
         "category": "business"
       },
       {
+        "title": "US Stock Futures Fall as Nvidia Turmoil Deepens: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-11/stock-market-today-dow-s-p-live-updates",
+        "description": "US stock index futures fell after a report that Nvidia Corp.’s board was considering the removal of Chief Executive Officer Jensen Huang, tempering an earlier rally in technology shares.",
+        "published": "2026-11-11T22:08:05.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_markets",
+        "priority": 1,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang"
+        ],
+        "category": "business"
+      },
+      {
         "title": "AMD shares how it can retain 95% of server performance with just half the DRAM, sidestepping memory shortages with MEXT",
         "link": "https://www.tomshardware.com/pc-components/cpus/amd-shares-how-it-can-retain-95-percent-of-server-performance-with-just-half-the-dram-sidestepping-memory-shortages-with-mext-tech-powers-over-100-servers-already-running-with-plans-to-expand-to-2-000-servers-in-2027",
         "description": "Following AMD’s acquisition of MEXT earlier this year, the company has revealed its own IT infrastructure is using the technology to run servers at 50% DRAM capacity while achieving 95% of the performance of a full-DRAM system in certain applications.",
@@ -1570,6 +2015,42 @@
         "matchedKeywords": [
           "amd",
           "acquisition"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Pivotal Advisors CEO: Investors Should See AI as Part of Portfolio",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-11/mcghee-investors-should-see-ai-as-part-of-portfolio-video",
+        "description": "Tiffany McGhee, CEO and CIO of Pivotal Advisors, discusses last week’s sharp stock selloff and says AI demand remains strong, with hyperscalers reporting demand above supply and cloud growth accelerating. She speaks with Romaine Bostick and Vonnie Quinn on The Close before the news of Nvidia potentially ousting CEO Jensen Huang. (Source: Bloomberg)",
+        "published": "2026-11-11T23:48:05.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_markets",
+        "priority": 1,
+        "image": null,
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "ceo",
+          "nvidia",
+          "jensen huang"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Jim Cramer says investors need to pay attention to CoreWeave. Here's why",
+        "link": "https://www.cnbc.com/2026/11/11/jim-cramer-coreweave-earnings-ceo-interview.html",
+        "description": "Cramer said he's becoming less skeptical of CoreWeave after strong earnings and reassuring comments from its CEO.",
+        "published": "2026-11-11T23:41:46.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "coreweave",
+          "ceo",
+          "earnings"
         ],
         "category": "business"
       },
@@ -1801,6 +2282,24 @@
         "category": "ai"
       },
       {
+        "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+        "link": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+        "description": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
+        "published": "2026-11-11T18:16:40.000Z",
+        "source": "Ars Technica",
+        "sourceKey": "arstechnica",
+        "priority": 1,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/TSMC-Fab-18-1152x648.jpg",
+        "baseScore": 19,
+        "relevanceScore": 19,
+        "matchedKeywords": [
+          "openai",
+          "anthropic",
+          "tsmc"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "The Anthropic-OpenAI Valuation Gap",
         "link": "https://www.theinformation.com/articles/anthropic-openai-valuation-gap",
         "description": "If you want proof of the widening gap in sentiment between public and private investors, take a look at the valuations of Anthropic and OpenAI. On Tuesday, Anthropic disclosed it was targeting a valuation of between $1.26 trillion and $1.4 trillion in its upcoming initial public offering. The prospectus update comes on the heels of OpenAI’s most recent fundraising, which valued the company at $1.25 trillion. That means Anthropic expects public investors to value it at only 12% more than OpenAI,",
@@ -1817,6 +2316,56 @@
           "valuation"
         ],
         "category": "ai"
+      },
+      {
+        "title": "Talk it through with Gemini, now on Apple CarPlay",
+        "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+        "description": "Gemini is now available on Apple CarPlay.",
+        "published": "2026-11-11T17:00:00.000Z",
+        "source": "Google",
+        "sourceKey": "google_blog",
+        "priority": 1,
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Carplay_hero_image.max-600x600.format-webp.webp",
+        "baseScore": 12,
+        "relevanceScore": 15,
+        "matchedKeywords": [
+          "google",
+          "apple",
+          "gemini"
+        ],
+        "category": "ai",
+        "alsoIn": [
+          {
+            "source": "Android Authority",
+            "title": "Google brings the standalone Gemini app and Gemini Live to Apple CarPlay",
+            "link": "https://www.androidauthority.com/google-gemini-live-apple-carplay-launch-3734084/"
+          },
+          {
+            "source": "Engadget",
+            "title": "Google brings the Gemini app to Apple CarPlay",
+            "link": "https://www.engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay/"
+          },
+          {
+            "source": "9to5Mac",
+            "title": "Google Gemini coming to CarPlay",
+            "link": "https://9to5mac.com/2026/11/11/google-confirms-gemini-app-coming-to-apple-carplay/"
+          },
+          {
+            "source": "9to5Google",
+            "title": "Google rolling out Gemini app for CarPlay",
+            "link": "https://9to5google.com/2026/11/11/gemini-app-carplay/"
+          },
+          {
+            "source": "AppleInsider",
+            "title": "You can now talk to Gemini right from Apple CarPlay",
+            "link": "https://appleinsider.com/articles/26/11/11/you-can-now-talk-to-gemini-right-from-apple-carplay?utm_source=rss"
+          },
+          {
+            "source": "MacRumors",
+            "title": "Google Says Gemini App Rolling Out on Apple CarPlay Starting Today",
+            "link": "https://www.macrumors.com/2026/11/11/google-gemini-apple-carplay/"
+          }
+        ]
       },
       {
         "title": "What’s Next for Anthropic’s Mega-IPO: Five Things to Watch",
@@ -1875,24 +2424,6 @@
           "billion",
           "ipo",
           "artificial intelligence"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Talk it through with Gemini, now on Apple CarPlay",
-        "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
-        "description": "Gemini is now available on Apple CarPlay.",
-        "published": "2026-11-11T17:00:00.000Z",
-        "source": "Google",
-        "sourceKey": "google_blog",
-        "priority": 1,
-        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Carplay_hero_image.max-600x600.format-webp.webp",
-        "baseScore": 12,
-        "relevanceScore": 12,
-        "matchedKeywords": [
-          "google",
-          "apple",
-          "gemini"
         ],
         "category": "ai"
       },
@@ -1988,31 +2519,6 @@
         "category": "ai"
       },
       {
-        "title": "Google Gemini coming to CarPlay",
-        "link": "https://9to5mac.com/2026/11/11/google-confirms-gemini-app-coming-to-apple-carplay/",
-        "description": "Google’s Gemini AI chatbot app is coming to Apple CarPlay. The company confirmed that it is. bringing the full Gemini Live conversation experience to CarPlay starting today. more…",
-        "published": "2026-11-11T17:29:13.000Z",
-        "source": "9to5Mac",
-        "sourceKey": "9to5mac",
-        "priority": 2,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/gemini-mac.jpg?quality=82&#038;strip=all&#038;w=1600",
-        "baseScore": 9,
-        "relevanceScore": 10,
-        "matchedKeywords": [
-          "google",
-          "gemini",
-          "apple"
-        ],
-        "category": "ai",
-        "alsoIn": [
-          {
-            "source": "9to5Google",
-            "title": "Google rolling out Gemini app for CarPlay",
-            "link": "https://9to5google.com/2026/11/11/gemini-app-carplay/"
-          }
-        ]
-      },
-      {
         "title": "Anthropic, Others Warn of AI Acceleration",
         "link": "https://www.theinformation.com/articles/anthropic-others-warn-ai-acceleration",
         "description": "In recent weeks, my colleagues and I have been trying our hand at being venture capitalists: today, the end result of that process is our annual list of the 50 most promising startups of this year, published today. We’ve had a pretty good track record in past years: AI startups we’ve previously highlighted include OpenRouter, when the model-routing startup was valued at $500 million; Cursor, when the coding agent was valued at $400 million; and Perplexity, when the AI-powered search engine was v",
@@ -2026,6 +2532,40 @@
         "matchedKeywords": [
           "anthropic",
           "perplexity"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "OpenAI’s personal finance features for ChatGPT expands to Mac app",
+        "link": "https://9to5mac.com/2026/11/11/openais-personal-finance-features-for-chatgpt-expands-to-mac-app/",
+        "description": "Earlier this year, OpenAI introduced ChatGPT Finances. The feature started on the mobile app and website, but it’s been missing from ChatGPT’s desktop app. Starting today. ChatGPT Finances is now available on the Mac as well. more…",
+        "published": "2026-11-11T19:58:26.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/chatgpt-green.webp?w=1600",
+        "baseScore": 10,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "openai",
+          "chatgpt"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "US corporate AI spending hits a new high in October, but growth slows to 1.65 percent",
+        "link": "https://the-decoder.com/us-corporate-ai-spending-hits-a-new-high-in-october-but-growth-slows-to-1-65-percent/",
+        "description": "According to the Ramp AI Index, US corporate AI spending rose just 1.65 percent in October 2026. One percent of companies still drive 80 percent of revenue for OpenAI and Anthropic. Customer support is emerging as a new growth driver, but it may bring lower margins than the coding business that has fueled spending so far. The article US corporate AI spending hits a new high in October, but growth slows to 1.65 percent appeared first on The Decoder.",
+        "published": "2026-11-11T19:35:11.000Z",
+        "source": "The Decoder",
+        "sourceKey": "thedecoder",
+        "priority": 2,
+        "image": "https://the-decoder.com/wp-content/uploads/2026/02/openai_anthropic_logos-1.jpeg",
+        "baseScore": 10,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "openai",
+          "anthropic"
         ],
         "category": "ai"
       },
@@ -2168,6 +2708,30 @@
         ]
       },
       {
+        "title": "Google launches Gemini Decisions API, powered by its new Gemini Decision 1 model, to return predefined answers with confidence scores, at $0.10/1M input tokens (Google)",
+        "link": "https://www.techmeme.com/261111/p40#a261111p40",
+        "description": "Google: Google launches Gemini Decisions API, powered by its new Gemini Decision 1 model, to return predefined answers with confidence scores, at $0.10/1M input tokens — Introducing the Gemini Decisions API, powered by our new Gemini Decision 1 model. Evaluate up to 1,000 yes/no, choice …",
+        "published": "2026-11-11T19:05:00.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261111/i40.jpg",
+        "baseScore": 8,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "google",
+          "gemini"
+        ],
+        "category": "ai",
+        "alsoIn": [
+          {
+            "source": "Hacker News",
+            "title": "Gemini Decisions API",
+            "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+          }
+        ]
+      },
+      {
         "title": "Anthropic’s PE-Backed Venture, Ode, Pushes to Get Paid for AI Results",
         "link": "https://www.theinformation.com/articles/anthropics-pe-backed-venture-ode-pushes-get-paid-ai-results",
         "description": "Private equity firms and AI labs are sorting out how to charge clients and hire enough engineers for joint ventures they’ve launched to build custom AI tools for businesses. That comes as private equity firms are looking to the technology to boost profits, including at companies they’ve struggled to sell. One such team-up is Ode with Anthropic, which launched in July with $1.5 billion in capital commitments from investors including Blackstone and Hellman & Friedman. Ode currently charges most of",
@@ -2185,6 +2749,41 @@
         "category": "ai"
       },
       {
+        "title": "Sequoia Capital to Invest in AI Holding Co. Sequence",
+        "link": "https://www.theinformation.com/articles/sequoia-capital-invest-ai-holding-co-sequence",
+        "description": "Sequoia Capital is investing hundreds of millions of dollars into Sequence Holding, a one-year-old business that just announced a $7.7 billion insurance acquisition co-led by Michael Dell’s family office, say people familiar with the matter. This will be Sequoia’s second known investment in a new category of holding companies. These aim to buy businesses in established industries such as accounting, insurance and HOA management and then replace or complement some human work with AI. The new mone",
+        "published": "2026-11-11T21:27:56.000Z",
+        "source": "The Information",
+        "sourceKey": "theinformation",
+        "priority": 1,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "dell",
+          "acquisition",
+          "billion"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Oura to Buy AI Doctor Startup",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-11/oura-to-buy-ai-doctor-startup-video",
+        "description": "Oura agreed to acquire AI and on-demand doctor service Counsel Health for $625 million, expanding its business following a scrapped attempt to go public. Scarlet Fu and Dani Burger discuss the acquisition on this week’s edition of “Bloomberg Deals.” (Source: Bloomberg)",
+        "published": "2026-11-11T19:23:00.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "acquisition",
+          "acquire"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "ChatGPT Plus for veterans and servicemembers",
         "link": "https://openai.com/index/chatgpt-plus-for-veterans",
         "description": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
@@ -2198,6 +2797,24 @@
         "matchedKeywords": [
           "openai",
           "chatgpt"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Google Deepmind's AlphaProof Code verified Signal's cryptographic core in four weeks instead of years",
+        "link": "https://the-decoder.com/google-deepminds-alphaproof-code-verified-signals-cryptographic-core-in-four-weeks-instead-of-years/",
+        "description": "Google Deepmind's AlphaProof Code mathematically verified Signal's cryptographic core code in four weeks, a process that typically takes years. AI agents powered by Gemini Carbon wrote more than six million lines of proof code and flagged only about one percent for human review. Deepmind plans to extend the method to critical infrastructure like power grids and medical devices. The article Google Deepmind's AlphaProof Code verified Signal's cryptographic core in four weeks instead of years appea",
+        "published": "2026-11-11T18:18:25.000Z",
+        "source": "The Decoder",
+        "sourceKey": "thedecoder",
+        "priority": 2,
+        "image": "https://the-decoder.com/wp-content/uploads/2026/11/deepmind_alphaproof.png",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "google",
+          "gemini",
+          "ai agent"
         ],
         "category": "ai"
       },
@@ -2240,6 +2857,23 @@
         "category": "ai"
       },
       {
+        "title": "Meta’s Infrastructure Chief Is Leaving Amid Massive AI Buildout",
+        "link": "https://www.theinformation.com/briefings/metas-infrastructure-chief-leaving-amid-massive-ai-buildout",
+        "description": "Meta Platforms is changing the leadership of its massive data-center operation, with longtime executive Santosh Janardhan telling employees that he is stepping down as head of global infrastructure and will leave the company early next year. Dave Brown, a veteran of Amazon Web Services whom ...",
+        "published": "2026-11-11T20:40:37.000Z",
+        "source": "The Information",
+        "sourceKey": "theinformation",
+        "priority": 1,
+        "image": null,
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "meta",
+          "amazon"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
         "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
         "description": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
@@ -2254,6 +2888,75 @@
           "databricks",
           "ai agent",
           "ceo"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass",
+        "link": "https://the-decoder.com/google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1000-questions-in-a-single-pass/",
+        "description": "Google Deepmind's new Gemini Decisions API evaluates up to 1,000 closed-ended questions in a single pass across text, images, audio, and video. Gemini Decision 1 returns results in 150 to 250 milliseconds at roughly five times lower cost than Gemini 3.5 Flash-Lite, according to Google. The article Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass appeared first on The Decoder.",
+        "published": "2026-11-11T20:12:46.000Z",
+        "source": "The Decoder",
+        "sourceKey": "thedecoder",
+        "priority": 2,
+        "image": "https://the-decoder.com/wp-content/uploads/2026/10/gemini_4_logo_wall.png",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "google",
+          "gemini"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "ByteDance is reportedly working on its own AI agent",
+        "link": "https://www.engadget.com/2314064/bytedance-is-reportedly-working-on-its-own-ai-agent/",
+        "description": "The Chinese company wants to compete with Meta's Muse.",
+        "published": "2026-11-11T19:42:19.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/bytedance-is-reportedly-working-on-its-own-ai-agent/l-intro-1794426101.jpg",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "bytedance",
+          "ai agent",
+          "meta"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Google Home update fixes Nest ‘Live View’ issues, improves Nest Hub and Gemini for speakers",
+        "link": "https://9to5google.com/2026/11/11/google-home-update-nest-hub-gemini-cameras/",
+        "description": "A new Google Home update is rolling out with a fix for “Live View” issues affecting Nest Cam devices, improvements for the Nest Hub, upgrades for Gemini, and more. more…",
+        "published": "2026-11-11T19:30:00.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/04/Voice-controls-from-Nest-Hub-Photo-frame-view.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "google",
+          "gemini"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Google Home brings back sounds for Gemini, and I’m both elated and irritated [Video]",
+        "link": "https://9to5google.com/2026/11/11/google-home-brings-back-sounds-for-gemini-and-im-both-elated-and-irritated-video/",
+        "description": "Classic Google Assistant sounds for special timers are back, but the “confirm” sound for smart home commands is unexpectedly different. more…",
+        "published": "2026-11-11T18:35:00.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-home-speaker-green.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "google",
+          "gemini"
         ],
         "category": "ai"
       },
@@ -2287,6 +2990,41 @@
         "relevanceScore": 7,
         "matchedKeywords": [
           "openai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "AWS releases AWS Emulator, a free tool that simulates 200+ of its services locally, saying AI agents wrote it and its team hasn't written or reviewed any code",
+        "link": "https://www.techmeme.com/261111/p41#a261111p41",
+        "description": "AWS releases AWS Emulator, a free tool that simulates 200+ of its services locally, saying AI agents wrote it and its team hasn't written or reviewed any code — AWS says its engineers didn't write or review a single line of code in its newest developer tool, and the company is touting that as a selling point.",
+        "published": "2026-11-11T20:25:00.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261111/i41.jpg",
+        "via": "GeekWire",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "aws",
+          "ai agent"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "How Adobe Is Helping Disney with Custom AI Tools",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-11/how-adobe-is-helping-disney-with-custom-ai-tools-video",
+        "description": "Adobe and Disney have entered a multi-year partnership to help develop custom AI models and tools that the entertainment giant can use across its theme parks, studio and sports ‌media businesses. Deepa Subramaniam, Vice President of Product Marketing for Creative Professionals at Adobe, explains how it all works with Riley Griffin on \"Bloomberg Tech.\" (Source: Bloomberg)",
+        "published": "2026-11-11T19:14:15.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "adobe",
+          "ai model"
         ],
         "category": "ai"
       },
@@ -2338,6 +3076,59 @@
         "matchedKeywords": [
           "elon musk",
           "xai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Nasdaq 100 Rallies as CoreWeave Quells AI Fears, Draws Buyers In",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-11/us-equity-futures-rise-as-ai-enthusiasm-counters-hot-inflation",
+        "description": "US technology stocks rallied Wednesday, with the technology-heavy Nasdaq 100 index nearly erasing losses since the US midterm election, as renewed excitement over the artificial intelligence trade lured dip buyers in.",
+        "published": "2026-11-11T13:28:45.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_markets",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "coreweave",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Google tests Tabletop, letting groups build planning tools with an AI agent",
+        "link": "https://siliconangle.com/2026/11/11/google-tests-tabletop-letting-groups-build-planning-tools-with-an-ai-agent/",
+        "description": "Google LLC today began testing Tabletop, a Google Labs experiment in which groups share an online space and ask an artificial intelligence agent to build the planning tools they need. In a blog post, Roman Nurik, design and engineering lead at Google Labs, wrote that coordinating a family trip or a potluck goes more smoothly […] The post Google tests Tabletop, letting groups build planning tools with an AI agent appeared first on SiliconANGLE.",
+        "published": "2026-11-11T22:37:09.000Z",
+        "source": "SiliconANGLE",
+        "sourceKey": "siliconangle",
+        "priority": 2,
+        "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/googletabletop.png",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "google",
+          "ai agent",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Red Hat and Nvidia’s OpenShell puts AI agents on a deny-by-default leash",
+        "link": "https://siliconangle.com/2026/11/11/prompt-injection-attacks-drive-red-hat-nvidia-s-openshell-kubeconna/",
+        "description": "Prompt injection attacks and silent data exfiltration have turned AI agent security from a theoretical worry into an urgent enterprise concern. As agents move from developer laptops into data centers, companies need guardrails that don’t strip away what makes agents useful. Red Hat Inc. and Nvidia Corp. have expanded their partnership to tackle that problem […] The post Red Hat and Nvidia’s OpenShell puts AI agents on a deny-by-default leash appeared first on SiliconANGLE.",
+        "published": "2026-11-11T18:55:13.000Z",
+        "source": "SiliconANGLE",
+        "sourceKey": "siliconangle",
+        "priority": 2,
+        "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Derek-Carr-Mrunal-Patel-Clean.jpg",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "nvidia",
+          "ai agent",
+          "data center"
         ],
         "category": "ai"
       },
@@ -2458,6 +3249,22 @@
         "category": "ai"
       },
       {
+        "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+        "link": "https://openai.com/index/jiostar-vijay-seshadri",
+        "description": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+        "published": "2026-11-11T00:00:00.000Z",
+        "source": "OpenAI",
+        "sourceKey": "openai_news",
+        "priority": 1,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
         "link": "https://pietromiotti.com/latest/maya-site/?maya",
         "description": "Article URL: https://pietromiotti.com/latest/maya-site/?maya Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 745 # Comments: 281",
@@ -2521,6 +3328,23 @@
         "relevanceScore": 4,
         "matchedKeywords": [
           "google"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Zocdoc Brings AI to Healthcare",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-11/zocdoc-brings-ai-to-healthcare-video",
+        "description": "AI agents are moving into health care, taking on tasks from finding an in-network doctor to booking appointments around a patient's schedule. Zocdoc CEO Oliver Kharraz says traffic to the platform from AI agents has grown nearly 30-fold since July and has been doubling roughly every 10 days since early September. He joins Bloomberg Businessweek Daily to discuss how the company is openings its doors to AI while keeping patient privacy intact. (Source: Bloomberg)",
+        "published": "2026-11-11T22:54:40.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "ai agent",
+          "ceo"
         ],
         "category": "ai"
       },
@@ -2678,6 +3502,24 @@
           "coinbase"
         ],
         "category": "crypto"
+      },
+      {
+        "title": "Stablecoin Drain, ETF Outflows Leave Bitcoin 'Running on Empty'",
+        "link": "https://decrypt.co/383094/stablecoin-drain-etf-outflows-bitcoin-running-empty",
+        "description": "Stablecoin supply fell $14.2 billion in 30 days, the fastest contraction since June 2022, amid weak ETF demand.",
+        "published": "2026-11-11T21:46:03.000Z",
+        "source": "Decrypt",
+        "sourceKey": "decrypt",
+        "priority": 3,
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/stablecoins-decrypt-style-01-scaled-gID_7.jpg@png",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "bitcoin",
+          "stablecoin",
+          "billion"
+        ],
+        "category": "crypto"
       }
     ],
     "ev_autonomous": [
@@ -2700,6 +3542,31 @@
         "category": "ev_autonomous"
       },
       {
+        "title": "Tesla extends Cybertruck production slightly to handle order log",
+        "link": "https://www.teslarati.com/tesla-extends-cybertruck-production-slightly-handle-order-log/",
+        "description": "Tesla CEO Elon Musk announced that the company will extend Cybertruck production slightly to handle its extensive order backlog. On Wednesday, Musk announced that “In order to work through more of the Cybertruck order backlog, production will be extended through the end of summer 2027.” In order to work through more of the Cybertruck order […] The post Tesla extends Cybertruck production slightly to handle order log appeared first on TESLARATI.",
+        "published": "2026-11-11T17:52:53.000Z",
+        "source": "Teslarati",
+        "sourceKey": "teslarati",
+        "priority": 3,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "tesla",
+          "elon musk",
+          "ceo"
+        ],
+        "category": "ev_autonomous",
+        "alsoIn": [
+          {
+            "source": "InsideEVs",
+            "title": "Tesla Extends Cybertruck Production Run To Work Through Order Backlog",
+            "link": "https://insideevs.com/news/815183/tesla-extends-cybertruck-production-summer-2027/"
+          }
+        ]
+      },
+      {
         "title": "Lucid CEO says the company didn't know where its own cars were",
         "link": "https://www.engadget.com/2313113/lucid-q3-2026-losing-cars/",
         "description": "Tesla rival Lucid has an interesting excuse for its third quarter earnings underperformance.",
@@ -2719,20 +3586,19 @@
         "category": "ev_autonomous"
       },
       {
-        "title": "Tesla extends Cybertruck production slightly to handle order log",
-        "link": "https://www.teslarati.com/tesla-extends-cybertruck-production-slightly-handle-order-log/",
-        "description": "Tesla CEO Elon Musk announced that the company will extend Cybertruck production slightly to handle its extensive order backlog. On Wednesday, Musk announced that “In order to work through more of the Cybertruck order backlog, production will be extended through the end of summer 2027.” In order to work through more of the Cybertruck order […] The post Tesla extends Cybertruck production slightly to handle order log appeared first on TESLARATI.",
-        "published": "2026-11-11T17:52:53.000Z",
-        "source": "Teslarati",
-        "sourceKey": "teslarati",
-        "priority": 3,
-        "image": null,
-        "baseScore": 8,
-        "relevanceScore": 8,
+        "title": "Tesla extends Cybertruck production to late summer 2027 amid fan backlash",
+        "link": "https://electrek.co/2026/11/11/tesla-extends-cybertruck-production-summer-2027-fan-backlash/",
+        "description": "Elon Musk now says Tesla will keep building the Cybertruck “through the end of summer 2027” to “work through more of the Cybertruck order backlog.” That buys the electric pickup roughly two to three more months, five days after Tesla first announced it was killing it. The reprieve lands as a growing number of Tesla’s own fans push back on the decision, and on what it says about Tesla’s future as a company that sells cars to people. more…",
+        "published": "2026-11-11T18:24:50.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Cybertruck_34-e1793032990825.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 7,
+        "relevanceScore": 7,
         "matchedKeywords": [
           "tesla",
-          "elon musk",
-          "ceo"
+          "elon musk"
         ],
         "category": "ev_autonomous"
       },
@@ -2796,6 +3662,23 @@
         "category": "ev_autonomous"
       },
       {
+        "title": "The AI Boom Is Making Ordinary Car Parts Harder To Get, Rivian Says",
+        "link": "https://insideevs.com/news/815180/rivian-chips-memory-rj-scaringe-interview/",
+        "description": "Rivian CEO RJ Scaringe said the EV maker now spends an \"enormous amount of time\" on memory.",
+        "published": "2026-11-11T18:44:28.000Z",
+        "source": "InsideEVs",
+        "sourceKey": "insideevs",
+        "priority": 2,
+        "image": "https://cdn.motor1.com/images/mgl/JO699E/s3/rivian-r2-coastal-cloud-signature-interior.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "rivian",
+          "ceo"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
         "title": "Porsche CEO takes a shot at Tesla’s ‘flying’ Roadster stunt show",
         "link": "https://electrek.co/2026/11/11/porsche-ceo-tesla-flying-roadster-stunt/",
         "description": "Tesla’s “flying” Roadster just took a hit from Porsche. Speaking at a conference in Berlin today, CEO Michael Leiters said Porsche wants “to completely steer clear from any kind of effects and shows,” according to Bloomberg. Both automakers revealed their next halo cars on the same day, October 15. Tesla made a Roadster flip in mid-air. Porsche showed the Mission S, and Leiters says the two cars aren’t even chasing the same customers. more…",
@@ -2809,6 +3692,54 @@
         "matchedKeywords": [
           "tesla",
           "ceo"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "BYD shows what its new ‘Cloud Carriage’ intelligent body control system can really do",
+        "link": "https://electrek.co/2026/11/11/byd-shows-new-cloud-carriage-body-control-system-video/",
+        "description": "BYD’s new EV may be about the size of a Toyota Camry, but it’s playing in a whole different league when it comes to technology. more…",
+        "published": "2026-11-11T22:13:48.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Cloud-Carriage-body-system.jpeg?quality=82&#038;strip=all&#038;w=1400",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "byd"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "BYD’s full-size luxury SUV has a wheel problem, and it’s fixing it for free",
+        "link": "https://electrek.co/2026/11/11/byds-flagship-suv-wheel-problem-fixing-for-free/",
+        "description": "BYD is apologizing after a supplier error left some owners of its new full-size flagship SUV with the wrong wheels. more…",
+        "published": "2026-11-11T18:58:08.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-flagship-SUV-wheel.jpeg?quality=82&#038;strip=all&#038;w=1400",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "byd"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Tesla confirms rare new delivery of 50 Semi electric trucks in Chicago",
+        "link": "https://electrek.co/2026/11/11/tesla-semi-delivery-50-trucks-chicago-hmd/",
+        "description": "Tesla has confirmed a new batch of Tesla Semi deliveries, with its official Semi account saying today that “Chicago’s first 50 Semis” are on their way to the city. It’s a rare data point. Tesla doesn’t disclose Semi deliveries, and it claims its new Nevada factory can build 50,000 of them a year. more…",
+        "published": "2026-11-11T18:03:12.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Semi-deliveries-Chicago.jpeg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "tesla"
         ],
         "category": "ev_autonomous"
       },
@@ -2897,6 +3828,23 @@
         "category": "devices"
       },
       {
+        "title": "Samsung and Apple are both working on bigger wide foldables, new rumor claims",
+        "link": "https://www.gsmarena.com/samsung_and_apple_are_both_working_on_bigger_wide_foldables_new_rumor_claims-news-75446.php",
+        "description": "Samsung and Apple both already have wide foldables on the market in the Galaxy Z Fold8 and the iPhone Duo. However, a new rumor today claims that both companies are actively working on developing bigger versions of these devices for next year. [#InlinePriceWidget,14673,1#] [#InlinePriceWidget,13804,1#] So, at some point in 2027, the Galaxy Z Fold9 Plus might compete head-on with the iPhone Duo 2 Plus (which will hopefully not be its actual name, but we'll see). This makes sense on one level - if",
+        "published": "2026-11-11T21:33:02.000Z",
+        "source": "GSMArena",
+        "sourceKey": "gsmarena",
+        "priority": 3,
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/samsung-apple-developing-bigger-wide-foldables-rumor/-184x111/gsmarena_000.jpg",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "apple",
+          "samsung"
+        ],
+        "category": "devices"
+      },
+      {
         "title": "Samsung could allow One UI 9.5 users to record WhatsApp and Telegram voice calls",
         "link": "https://www.gsmarena.com/samsung_one_ui_9_5_voip_voice_call_recording-news-75433.php",
         "description": "Samsung is currently rolling out the stable One UI 9 update to eligible Galaxy devices, and before releasing One UI 10, it will release One UI 9.5. The Korean brand hasn't announced One UI 9.5's release date yet, but when it arrives, it may include a rumored feature many of its rivals don't have. We are talking about the rumored ability to record voice calls made through third-party VoIP apps such as WhatsApp and Telegram. Samsung smartphones already let you record cellular calls made through it",
@@ -2931,6 +3879,23 @@
         "category": "devices"
       },
       {
+        "title": "Blue Phone gives Google’s Pixel 10 Pro an AI assistant that goes beyond Gemini",
+        "link": "https://www.androidauthority.com/blue-os-google-pixel-10-pro-3733835/",
+        "description": "Why juggle apps when your Pixel can do the juggling?",
+        "published": "2026-11-11T18:00:13.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-10-pro-screen-on-home-screen-scaled.jpg",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "google",
+          "gemini"
+        ],
+        "category": "devices"
+      },
+      {
         "title": "Google's November Pixel Drop brings Gemini Intelligence to the Pixel 10",
         "link": "https://www.gsmarena.com/googles_november_pixel_drop_brings_gemini_intelligence_to_the_pixel_10-news-75430.php",
         "description": "Google's November Pixel Drop is starting to roll out, and it makes Gemini Intelligence available on the Pixel 10 family (except for the Pixel 10a), bringing features like Rambler, proactive suggestions, and multi-step tasks to last year's phones. Rambler is a voice typing upgrade in Gboard that removes filler words like \"um\", tidies up the parts where you correct yourself mid-sentence, and keeps up with you when you switch languages. Gemini can also take care of multi-step tasks such as ordering",
@@ -2946,6 +3911,46 @@
           "gemini"
         ],
         "category": "devices"
+      },
+      {
+        "title": "Samsung takes a jab at iPhone Duo's sidebar",
+        "link": "https://www.gsmarena.com/samsung_takes_a_jab_at_iphone_duos_sidebar-news-75444.php",
+        "description": "Samsung’s latest ad takes a literal punch at Apple’s iPhone Duo and more specifically, its sidebar. That’s the new adaptive navigation system implemented on the Duo, where UI elements are pushed to a vertical column on the side. It’s been a major talking point for the Duo and a cause for plenty of criticism as it eats up a significant portion of the device’s screen real estate. And Samsung naturally decided to make a short ad that mocks the Duo, simulating the sidebar with a piece of black tape",
+        "published": "2026-11-11T20:01:02.000Z",
+        "source": "GSMArena",
+        "sourceKey": "gsmarena",
+        "priority": 3,
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/samsung-takes-punch-at-iphone-duo/-184x111/gsmarena_00.jpg",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "samsung",
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Thai politicians question Apple over iPhone spyware alerts",
+        "link": "https://appleinsider.com/articles/26/11/11/thai-politicians-question-apple-over-iphone-spyware-alerts?utm_source=rss",
+        "description": "Following Apple's issuing of spyware alerts to politicians' iPhones in the country, officials in Thailand have met with the company as they aim to strengthen security. Malware illustration — image credit: AppleInsider These spyware alerts were sent on October 29, 2026, at around the same time the same warnings were sent to officials in Germany. Those warnings also followed a wave of spyware activity in August 2026, that saw Apple alerting people in 110 countries. Now according to Bloomberg, Appl",
+        "published": "2026-11-11T12:24:09.000Z",
+        "source": "AppleInsider",
+        "sourceKey": "appleinsider",
+        "priority": 2,
+        "image": "https://photos5.appleinsider.com/gallery/66514-139518-000-lead-Malware-xl.jpg",
+        "baseScore": 4,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices",
+        "alsoIn": [
+          {
+            "source": "9to5Mac",
+            "title": "Apple reportedly met with Thai officials over spyware alerts sent to politicians",
+            "link": "https://9to5mac.com/2026/11/11/apple-reportedly-met-with-thai-officials-over-spyware-alerts-sent-to-politicians/"
+          }
+        ]
       },
       {
         "title": "iFixit teardown shows how Apple's glowing PROLED MacBook logo works",
@@ -2969,6 +3974,22 @@
             "link": "https://www.gsmarena.com/ifixit_reveals_the_tech_behind_the_macbook_proleds_light_up_apple_logo-news-75434.php"
           }
         ]
+      },
+      {
+        "title": "Built on Googlebook: Play Henry Cavill’s video game to support Movember",
+        "link": "https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-googlebook-mustache-protocol/",
+        "description": "Henry Cavill’s “Mustache Protocol” is live. See how the game came together on Googlebook, and help us raise $500,000 for men’s health.",
+        "published": "2026-11-11T18:00:00.000Z",
+        "source": "Google",
+        "sourceKey": "google_blog",
+        "priority": 1,
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Henry_Cavill_thumbnail_v2.max-600x600.format-webp.webp",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "devices"
       },
       {
         "title": "Android Auto is getting a Gemini upgrade, but only if you use a Pixel",
@@ -3001,6 +4022,55 @@
         "matchedKeywords": [
           "google",
           "gemini"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Apple Invites App Updated With Two New Features",
+        "link": "https://www.macrumors.com/2026/11/11/apple-invites-gets-two-new-features/",
+        "description": "The free Apple Invites app for the iPhone was updated today with two new features: hosts can now add polls to invitations so guests can vote on details such as a party's theme and food, and hosts can now add an \"emoji effect\" that floats across invitations. Tag: Apple Invites This article, \"Apple Invites App Updated With Two New Features\" first appeared on MacRumors.com Discuss this article in our forums",
+        "published": "2026-11-11T21:01:05.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/09/General-Invites-App-Feature.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Mid-week Android app deals and freebies: Wind Peaks, Box Head, 9th Dawn, more",
+        "link": "https://9to5toys.com/2026/11/11/todays-highlight-google-play-deals-47/",
+        "description": "Alongside Amazon’s early Black Friday sale, we still have an all-time low on the Google Home Speaker, the official launch of Google Pixel Tag Find Hub tracker (now available for purchase), and a fresh batch of the best Google Play app and game deals. Highlights include WINCH IT OUT, 9th Dawn Remake RPG, 9th Dawn III RPG, Box Head: Roguelike Premium, Wind Peaks, and more. Be sure to check out these new Googlebook models for as low as $680 and the Pixel Watch 5 Black Friday price now live at $100",
+        "published": "2026-11-11T18:55:25.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Play-collage-fd7ec6.webp?w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google",
+          "amazon"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Google Pixel Tag is only available in 8 countries, and excludes Europe",
+        "link": "https://9to5google.com/2026/11/11/google-pixel-tag-launch-countries/",
+        "description": "With Google’s Pixel Tag now offiically available, Google has also confirmed where the Android Find Hub tracker will be on sale, and it’s a limited list. more…",
+        "published": "2026-11-11T18:00:00.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-pixel-tag-1_232188.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
         ],
         "category": "devices"
       },
@@ -3130,22 +4200,6 @@
         "relevanceScore": 4,
         "matchedKeywords": [
           "huawei"
-        ],
-        "category": "devices"
-      },
-      {
-        "title": "Thai politicians question Apple over iPhone spyware alerts",
-        "link": "https://appleinsider.com/articles/26/11/11/thai-politicians-question-apple-over-iphone-spyware-alerts?utm_source=rss",
-        "description": "Following Apple's issuing of spyware alerts to politicians' iPhones in the country, officials in Thailand have met with the company as they aim to strengthen security. Malware illustration — image credit: AppleInsider These spyware alerts were sent on October 29, 2026, at around the same time the same warnings were sent to officials in Germany. Those warnings also followed a wave of spyware activity in August 2026, that saw Apple alerting people in 110 countries. Now according to Bloomberg, Appl",
-        "published": "2026-11-11T12:24:09.000Z",
-        "source": "AppleInsider",
-        "sourceKey": "appleinsider",
-        "priority": 2,
-        "image": "https://photos5.appleinsider.com/gallery/66514-139518-000-lead-Malware-xl.jpg",
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
         ],
         "category": "devices"
       },
@@ -3312,6 +4366,22 @@
         "category": "devices"
       },
       {
+        "title": "Xiaomi Watch S5 41mm, Xiaomi Smart Band 11, Xiaomi Clip earbuds will be at next week's event",
+        "link": "https://www.gsmarena.com/xiaomi_watch_s5_41mm_xiaomi_smart_band_11_xiaomi_clip_earbuds_will_be_at_next_weeks_event_too-news-75442.php",
+        "description": "A couple of days ago, Xiaomi officially confirmed that it will be launching the 18 Pro and 18 Pro Max globally at an event taking place in Paris on November 17. Today, it's back with a new revelation - the event won't just be about the phones. The company will also show the Xiaomi Watch S5 41mm, the Xiaomi Smart Band 11, the Xiaomi Clip, as well as some new Mijia \"Smart Tech Appliances\" on the same day. Not just phones. Xiaomi Watch S5 41mm, Xiaomi Smart Band 11, Xiaomi Clip and Mijia Smart Tech",
+        "published": "2026-11-11T18:19:02.000Z",
+        "source": "GSMArena",
+        "sourceKey": "gsmarena",
+        "priority": 3,
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/xiaomi-watch-band-clip-november-17/-184x111/gsmarena_000.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "xiaomi"
+        ],
+        "category": "devices"
+      },
+      {
         "title": "WhatsApp is bringing a transparent nav bar to its Android app",
         "link": "https://www.gsmarena.com/whatsapp_is_bringing_a_transparent_nav_bar_to_its_android_app-news-75436.php",
         "description": "The latest WhatsApp beta (build 2.26.45.5) reveals a new look for the navigation bar. Thanks to the team over at WABetaInfo, we have our first look at the floating nav bar and its transparent design. The bar shrinks in width and height to a smaller pill shape when you scroll down through your chats, complete with rounded corners and no text labels. It returns back to its full size when you swipe up. WhatsApp floating nav bar (Source: WABetaInfo) The new floating bar is visible across the Chats,",
@@ -3393,60 +4463,6 @@
         "category": "devices"
       }
     ],
-    "regulation": [
-      {
-        "title": "Congress could issue subpoena to Nvidia CEO Jensen Huang if he doesn’t respond by today to request for a ‘joint, closed-door briefing’",
-        "link": "https://www.tomshardware.com/tech-industry/policy/congress-could-issue-subpoena-to-nvidia-ceo-jensen-huang-if-he-doesnt-respond-by-today-to-request-for-a-joint-closed-door-briefing-us-representatives-want-to-discuss-companys-security-protocols-against-foreign-adversary-espionage",
-        "description": "Three committee chairpersons want to grill Jensen Huang about his company's 'security protocols against foreign adversary espionage,' as a former CIA agent says that he had a target on his back as the leader of a trillion-dollar company.",
-        "published": "2026-11-11T13:04:44.000Z",
-        "source": "Tom's Hardware",
-        "sourceKey": "tomshardware",
-        "priority": 2,
-        "image": "https://cdn.mos.cms.futurecdn.net/xRiMrDdQU2QcoBsh5XsQ53-1920-80.png",
-        "baseScore": 8,
-        "relevanceScore": 8,
-        "matchedKeywords": [
-          "nvidia",
-          "jensen huang",
-          "ceo"
-        ],
-        "category": "regulation"
-      },
-      {
-        "title": "Unilever-McCormick Deal Faces Deeper UK Antitrust Probe",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-11/unilever-mccormick-deal-facing-in-depth-review-from-uk-watchdog",
-        "description": "Unilever Plc and spice maker McCormick & Co.’s $44.8 billion deal faces an in depth investigation unless the firms offer remedies to allay the watchdog’s competition concerns.",
-        "published": "2026-11-11T07:25:44.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_markets",
-        "priority": 1,
-        "image": null,
-        "baseScore": 6,
-        "relevanceScore": 6,
-        "matchedKeywords": [
-          "antitrust",
-          "billion"
-        ],
-        "category": "regulation"
-      },
-      {
-        "title": "Korea Fines Bond Dealers Record $1.2 Billion Over Collusion",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-11/korea-fines-bond-dealers-record-1-2-billion-over-collusion",
-        "description": "South Korea’s antitrust regulator imposed a record 1.63 trillion won ($1.2 billion) fine on more than a dozen domestic banks and brokerages for colluding in sovereign bond auctions, exposing a yearslong practice that undermined competition and raised the government’s borrowing costs.",
-        "published": "2026-11-11T03:00:00.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_markets",
-        "priority": 1,
-        "image": null,
-        "baseScore": 6,
-        "relevanceScore": 6,
-        "matchedKeywords": [
-          "billion",
-          "antitrust"
-        ],
-        "category": "regulation"
-      }
-    ],
     "other": [
       {
         "title": "Samsung Gallery now syncs with Google to back up your photos",
@@ -3462,6 +4478,23 @@
         "matchedKeywords": [
           "google",
           "samsung"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Bericht: ByteDance plant eigenen KI-Agenten",
+        "link": "https://www.heise.de/news/Bericht-ByteDance-plant-eigenen-KI-Agenten-11521573.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "ByteDance bereitet einen KI-Agenten nach dem Vorbild von Metas Muse vor und will so den Rückstand im KI-Wettrennen gegenüber US-Unternehmen aufholen.",
+        "published": "2026-11-11T20:20:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/8/0/0/shutterstock_1338154397-695aa05903a2315f.jpeg",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "bytedance",
+          "meta"
         ],
         "category": "other"
       },
@@ -3594,6 +4627,166 @@
         "matchedKeywords": [
           "softbank",
           "billion"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Apple employee charged with murder following fatal accident near Apple Park",
+        "link": "https://appleinsider.com/articles/26/11/11/apple-employee-charged-with-murder-following-fatal-accident-near-apple-park?utm_source=rss",
+        "description": "After an accident near the Apple Park Visitor Center, which resulted in the death of a toddler, an Apple employee was arrested and subsequently charged with murder. An accident occurred near the Apple Park Visitor Center on Friday. On Friday, Apple employee Eric Chen Su reportedly drove at around 100 miles per hour as he crashed into a vehicle stopped in front of him. While Su sustained light injuries, the occupants of the vehicle he struck, a two-year-old and her babysitter, were rushed to a ne",
+        "published": "2026-11-11T22:23:19.000Z",
+        "source": "AppleInsider",
+        "sourceKey": "appleinsider",
+        "priority": 2,
+        "image": "https://media.appleinsider.com/gallery/69806-147142-22764-27921-visitorcenter001-xl-Cropped-xl.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Apple on Fatal Vehicle Crash Near Apple Park: 'Our Hearts Are Broken'",
+        "link": "https://www.macrumors.com/2026/11/11/apple-statement-on-fatal-crash/",
+        "description": "Apple employee Eric Chen Su was arrested and charged with suspicion of gross vehicular manslaughter last week following a fatal collision near the intersection of North Tantau Avenue and Pruneridge Avenue, right next to the Apple Park Visitor Center, according to the Santa Clara County Sheriff's Office and the San Francisco Chronicle. Shortly after noon on Friday, Su was reportedly traveling between 90 and 100 miles per hour when he struck the back of a stopped vehicle occupied by a two-year-old",
+        "published": "2026-11-11T21:37:39.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/07/Apple-Park-Visitor-Center.jpeg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Set polls & emoji effects with the latest Apple Invites update",
+        "link": "https://appleinsider.com/articles/26/11/11/set-polls-emoji-effects-with-the-latest-apple-invites-update?utm_source=rss",
+        "description": "Apple Invites users now have the ability to poll guests on potential activities, food options, or whatever is needed. Plus, there's a new emoji effect that causes the icons to float across an invite to match an event theme. The latest update is out now in the App Store. https://apps.apple.com/us/app/apple-invites/id6472498645 Continue Reading on AppleInsider | Discuss on our Forums",
+        "published": "2026-11-11T21:17:52.000Z",
+        "source": "AppleInsider",
+        "sourceKey": "appleinsider",
+        "priority": 2,
+        "image": "https://media.appleinsider.com/gallery/69805-147141-set_polls_emoji_effects_with_the_latest_apple_invites_update-xl.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Google Wallet adds digital home keys to open your front door smart lock with a tap",
+        "link": "https://www.androidauthority.com/google-wallet-digital-home-keys-nfc-uwb-unlocking-3734133/",
+        "description": "There's hands-free unlocking too!",
+        "published": "2026-11-11T21:17:25.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2025/06/nuki-smart-lock-ultra-1.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Apple Invites app now lets hosts poll guests, plus new emoji effect added",
+        "link": "https://9to5mac.com/2026/11/11/apple-invites-app-now-lets-hosts-poll-guests-plus-new-emoji-effect-added/",
+        "description": "Apple Invites, an iCloud+ feature, just added two new features in this month’s update. more…",
+        "published": "2026-11-11T21:08:46.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-invites-app.webp?w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Missachtung von Anordnungen im Wahlkampf: Geldstrafe gegen Meta in Brasilien",
+        "link": "https://www.heise.de/news/Missachtung-von-Anordnungen-im-Wahlkampf-Geldstrafe-gegen-Meta-in-Brasilien-11521585.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "Die brasilianische Wahlbehörde bestraft Meta wegen Missachtung von Gerichtsentscheidungen im Wahlkampf, erkennt jedoch keine gezielte Beeinflussung der Wahlen.",
+        "published": "2026-11-11T20:52:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/8/0/6/shutterstock_2065638467-9030dd752ecf13f8.jpeg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "meta"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "YouTube TV channels are missing from Google TV live tab for some users (Updated)",
+        "link": "https://www.androidauthority.com/google-tv-live-youtube-tv-glitch-3734124/",
+        "description": "This is not the first time the problem has cropped up.",
+        "published": "2026-11-11T20:25:00.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2025/03/youtube-tv-app-logo-google-tv-2-scaled.jpeg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Google Voice web app overhaul introduces new look, grouped chats, and more",
+        "link": "https://www.androidauthority.com/google-voice-web-3734099/",
+        "description": "Here's hoping that RCS support will be the next big change to drop!",
+        "published": "2026-11-11T19:28:57.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/google-voice-icon-android.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Google Voice appears to finally be working on RCS support",
+        "link": "https://9to5google.com/2026/11/11/google-voice-rcs-support-teardown/",
+        "description": "It might finally be happening. A new Google Voice update plants seeds of RCS support, though the exact details remain unclear. more…",
+        "published": "2026-11-11T18:30:00.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/google-voice-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Google updates 8 Translate widgets with a clean, refined new design",
+        "link": "https://www.androidauthority.com/google-translate-widgets-2-3733994/",
+        "description": "Google's sprucing things up with cleaner borders and labels.",
+        "published": "2026-11-11T18:26:06.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/google-translate-icon-home-screen.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
         ],
         "category": "other"
       },
@@ -3952,43 +5145,112 @@
         "category": "other"
       }
     ],
-    "robotics": [
+    "regulation": [
       {
-        "title": "Rivian's New Robots Will Initially Handle 20% Of Factory Tasks. The Goal Is 80%, CEO Says",
-        "link": "https://insideevs.com/news/815147/rivian-robots-80-percent-factory-tasks-ceo/",
-        "description": "The automaker’s Mind Robotics spinoff is working on replacing boring, repetitive jobs with some sort of industrial robots.",
-        "published": "2026-11-11T12:49:26.000Z",
-        "source": "InsideEVs",
-        "sourceKey": "insideevs",
-        "priority": 2,
-        "image": "https://cdn.motor1.com/images/mgl/W8762j/s3/rivian-factory-in-normal-illinois.jpg",
-        "baseScore": 5,
-        "relevanceScore": 5,
+        "title": "Huang's Ties to Trump Under Scrutiny After Spy Claim",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-11/huang-s-ties-to-trump-under-scrutiny-after-spy-claim-video",
+        "description": "Bloomberg's Mike Shepard said that actions taken by the Trump administration and by Nvidia CEO Jensen Huang are coming under sharper scrutiny by Congress amid investigations into the affair Huang had with a women alleged to be a Chinese spy. Trump had denied that he knew anything about the national security risks posed by Huang's affair, but recent New York Times reporting reveals that Trump had been briefed about the risk before his trip to China earlier this year. (Source: Bloomberg)",
+        "published": "2026-11-11T20:12:39.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 7,
+        "relevanceScore": 7,
         "matchedKeywords": [
-          "rivian",
+          "nvidia",
+          "jensen huang",
           "ceo"
         ],
-        "category": "robotics"
+        "category": "regulation"
       },
       {
-        "title": "Gemini Robotics 2.5 sortiert Metallteile bei Mercedes-Benz mit 96 Prozent Erfolg",
-        "link": "https://www.heise.de/news/Gemini-Robotics-2-5-sortiert-Metallteile-bei-Mercedes-Benz-mit-96-Prozent-Erfolg-11520722.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-        "description": "Google zeigt Gemini Robotics 2.5 – ein KI-Modell, das Roboter geschickter machen soll. Ein Experiment bei Mercedes-Benz erreichte 96 Prozent Erfolgsrate.",
-        "published": "2026-11-11T12:42:00.000Z",
-        "source": "heise online",
-        "sourceKey": "heise",
-        "priority": 2,
-        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/3/6/7/Gemini_Robotics_2.5-a577836c73ba68e3.jpeg",
-        "baseScore": 5,
-        "relevanceScore": 5,
+        "title": "Unilever-McCormick Deal Faces Deeper UK Antitrust Probe",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-11/unilever-mccormick-deal-facing-in-depth-review-from-uk-watchdog",
+        "description": "Unilever Plc and spice maker McCormick & Co.’s $44.8 billion deal faces an in depth investigation unless the firms offer remedies to allay the watchdog’s competition concerns.",
+        "published": "2026-11-11T07:25:44.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_markets",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
         "matchedKeywords": [
-          "gemini",
-          "google"
+          "antitrust",
+          "billion"
         ],
-        "category": "robotics"
+        "category": "regulation"
+      },
+      {
+        "title": "Korea Fines Bond Dealers Record $1.2 Billion Over Collusion",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-11/korea-fines-bond-dealers-record-1-2-billion-over-collusion",
+        "description": "South Korea’s antitrust regulator imposed a record 1.63 trillion won ($1.2 billion) fine on more than a dozen domestic banks and brokerages for colluding in sovereign bond auctions, exposing a yearslong practice that undermined competition and raised the government’s borrowing costs.",
+        "published": "2026-11-11T03:00:00.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_markets",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "billion",
+          "antitrust"
+        ],
+        "category": "regulation"
+      },
+      {
+        "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
+        "link": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
+        "description": "Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make \"your online experience fairer.\" The newly proposed Digital Fairness Act (DFA) published by the EU Commission on Wednesday is designed to tackle practices that exploit consumers into spending more of their time and money online, including misleading prices or availability, addictive design features like gaming loot boxes, undisclosed influencer marketing, and more. \"The Act wi",
+        "published": "2026-11-11T18:13:52.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319789/STK450_EU_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "eu commission"
+        ],
+        "category": "regulation"
       }
     ],
     "space": [
+      {
+        "title": "SpaceX’s $24B Starbase supercomputer plan slipped past a key roadblock",
+        "link": "https://www.teslarati.com/spacexs-24b-starbase-supercomputer-plan-slipped-past-a-key-roadblock/",
+        "description": "SpaceX wants a Starbase tax break for a $24 billion gas plant and supercomputer campus. The post SpaceX’s $24B Starbase supercomputer plan slipped past a key roadblock appeared first on TESLARATI.",
+        "published": "2026-11-11T20:05:47.000Z",
+        "source": "Teslarati",
+        "sourceKey": "teslarati",
+        "priority": 3,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "spacex",
+          "supercomputer",
+          "billion"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "How many SpaceX Starship rocket tests have failed?",
+        "link": "https://www.engadget.com/2314045/how-many-spacex-starship-rocket-tests-failed/",
+        "description": "Thanks to SpaceX's unique approach to testing, the answer isn't so clear-cut.",
+        "published": "2026-11-11T19:27:00.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/how-many-spacex-starship-rocket-tests-have-failed/l-intro-1794424186.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "spacex",
+          "starship"
+        ],
+        "category": "space"
+      },
       {
         "title": "What time will SpaceX launch Starship Flight 15, its 1st double landing test, on Nov. 13? (Full mission timeline)",
         "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-1st-booster-ship-double-catch-full-recovery-what-time",
@@ -4040,6 +5302,22 @@
         "category": "space"
       },
       {
+        "title": "On this day in space! Nov. 11, 1966: NASA launches Gemini 12 mission with astronaut icons Buzz Aldrin and Jim Lovell aboard",
+        "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-11-2026",
+        "description": "On Nov. 11, 1966, the Gemini 12 mission launched an astronaut crew into orbit and set the stage for NASA's Apollo program. Here's why it mattered.",
+        "published": "2026-11-11T20:50:18.000Z",
+        "source": "Space.com",
+        "sourceKey": "spacecom",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/ELZcUxeke9UwBTiGobNNym-1920-80.jpg",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "gemini"
+        ],
+        "category": "space"
+      },
+      {
         "title": "Satelliteninternet zum Mitnehmen: Starlink Mini 2 mit austauschbarem Akku",
         "link": "https://www.heise.de/news/Satelliteninternet-zum-Mitnehmen-Starlink-Mini-2-mit-austauschbarem-Akku-11520446.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
         "description": "SpaceX hat eine neue Version seines mobilen Satellitenmodems angekündigt. Starlink Mini 2 benötigt dank eines integrierten Akkus keine externe Stromzufuhr mehr.",
@@ -4055,8 +5333,77 @@
           "spacex"
         ],
         "category": "space"
+      },
+      {
+        "title": "Starlink Mini 2 arrives with one feature for true off-grid connectivity",
+        "link": "https://www.teslarati.com/starlink-mini-2-arrives-one-feature-true-off-grid-connectivity/",
+        "description": "SpaceX officially launched the Starlink Mini 2 on November 10, delivering the first portable Starlink terminal designed around independent power. Invitation-only preorders for select U.S. customers are priced at $999 plus tax, a figure that includes a full year of Roam Unlimited service valued at roughly $2,100. A refundable $100 deposit reserves the kit, with […] The post Starlink Mini 2 arrives with one feature for true off-grid connectivity appeared first on TESLARATI.",
+        "published": "2026-11-11T21:13:18.000Z",
+        "source": "Teslarati",
+        "sourceKey": "teslarati",
+        "priority": 3,
+        "image": null,
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "starlink",
+          "spacex"
+        ],
+        "category": "space"
+      }
+    ],
+    "robotics": [
+      {
+        "title": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+        "link": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+        "description": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.",
+        "published": "2026-11-11T19:55:54.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": "https://media.wired.com/photos/6af37240c46e83fb6f2598a7/master/pass/AI-Lab-I-Trained-Simulated-Microduck-to-Dance-and-Do-Other-Fun-Things-Business.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "openai"
+        ],
+        "category": "robotics"
+      },
+      {
+        "title": "Rivian's New Robots Will Initially Handle 20% Of Factory Tasks. The Goal Is 80%, CEO Says",
+        "link": "https://insideevs.com/news/815147/rivian-robots-80-percent-factory-tasks-ceo/",
+        "description": "The automaker’s Mind Robotics spinoff is working on replacing boring, repetitive jobs with some sort of industrial robots.",
+        "published": "2026-11-11T12:49:26.000Z",
+        "source": "InsideEVs",
+        "sourceKey": "insideevs",
+        "priority": 2,
+        "image": "https://cdn.motor1.com/images/mgl/W8762j/s3/rivian-factory-in-normal-illinois.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "rivian",
+          "ceo"
+        ],
+        "category": "robotics"
+      },
+      {
+        "title": "Gemini Robotics 2.5 sortiert Metallteile bei Mercedes-Benz mit 96 Prozent Erfolg",
+        "link": "https://www.heise.de/news/Gemini-Robotics-2-5-sortiert-Metallteile-bei-Mercedes-Benz-mit-96-Prozent-Erfolg-11520722.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "Google zeigt Gemini Robotics 2.5 – ein KI-Modell, das Roboter geschickter machen soll. Ein Experiment bei Mercedes-Benz erreichte 96 Prozent Erfolgsrate.",
+        "published": "2026-11-11T12:42:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/1/9/9/3/6/7/Gemini_Robotics_2.5-a577836c73ba68e3.jpeg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "gemini",
+          "google"
+        ],
+        "category": "robotics"
       }
     ]
   },
-  "totalArticles": 216
+  "totalArticles": 285
 }
