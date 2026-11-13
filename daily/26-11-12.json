@@ -4,7 +4,7 @@
   "title": "Thursday, Nov 12",
   "dateRange": "November 12, 2026",
   "date": "2026-11-12",
-  "generatedAt": "2026-11-13T01:07:17.039Z",
+  "generatedAt": "2026-11-13T09:35:20.613Z",
   "highlights": [
     {
       "title": "SpaceX and Tesla Could Announce Merger as Soon as December",
@@ -628,6 +628,11 @@
           "source": "Tom's Hardware",
           "title": "Elon Musk says it ‘would be an honor’ to hire ousted Nvidia CEO Jensen Huang",
           "link": "https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-says-it-would-be-an-honor-to-hire-ousted-nvidia-ceo-jensen-huang-possible-projects-could-include-terafab-spacexs-planned-gpu-manufacturing-or-teslas-ai-accelerators"
+        },
+        {
+          "source": "Gizmodo",
+          "title": "Elon Musk Says It ‘Would Be an Honor’ to Hire Jensen Huang, a Fellow Sower of Wild Oats",
+          "link": "https://gizmodo.com/elon-musk-says-it-would-be-an-honor-to-hire-jensen-huang-a-fellow-sower-of-wild-oats-2000839041"
         }
       ]
     },
@@ -1359,6 +1364,11 @@
             "source": "Tom's Hardware",
             "title": "Elon Musk says it ‘would be an honor’ to hire ousted Nvidia CEO Jensen Huang",
             "link": "https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-says-it-would-be-an-honor-to-hire-ousted-nvidia-ceo-jensen-huang-possible-projects-could-include-terafab-spacexs-planned-gpu-manufacturing-or-teslas-ai-accelerators"
+          },
+          {
+            "source": "Gizmodo",
+            "title": "Elon Musk Says It ‘Would Be an Honor’ to Hire Jensen Huang, a Fellow Sower of Wild Oats",
+            "link": "https://gizmodo.com/elon-musk-says-it-would-be-an-honor-to-hire-jensen-huang-a-fellow-sower-of-wild-oats-2000839041"
           }
         ]
       },
@@ -2106,6 +2116,24 @@
         "category": "chips_cloud"
       },
       {
+        "title": "Nvidia’s New CEO Gets to Clean Up Jensen Huang’s Mess",
+        "link": "https://gizmodo.com/nvidias-new-ceo-gets-to-clean-up-jensen-huangs-mess-2000839178",
+        "description": "Colette Kress spent years delivering good news. Those days are over.",
+        "published": "2026-11-12T22:25:45.000Z",
+        "source": "Gizmodo",
+        "sourceKey": "gizmodo",
+        "priority": 2,
+        "image": "https://gizmodo.com/app/uploads/2026/11/Nvidia-1280x853.jpg",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang",
+          "ceo"
+        ],
+        "category": "chips_cloud"
+      },
+      {
         "title": "OpenAI faces civil racketeering charges over $30bn data center planned in Effingham County, Georgia",
         "link": "https://www.datacenterdynamics.com/en/news/openai-faces-civil-racketeering-charges-over-30bn-data-center-planned-in-effingham-county-georgia/",
         "description": "Residents unhappy about being kept in the dark",
@@ -2674,6 +2702,23 @@
         "category": "chips_cloud"
       },
       {
+        "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+        "link": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+        "description": "https://www.forbes.com/sites/alisondurkee/2026/11/12/jensen-... Comments URL: https://news.ycombinator.com/item?id=50473190 Points: 264 # Comments: 272",
+        "published": "2026-11-12T19:51:33.000Z",
+        "source": "Hacker News",
+        "sourceKey": "hackernews",
+        "priority": 2,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "nvidia",
+          "ceo"
+        ],
+        "category": "chips_cloud"
+      },
+      {
         "title": "AMD lost gpu-driverbug op die veel onnodige ssd-schrijfacties opleverde",
         "link": "https://tweakers.net/nieuws/254480/amd-lost-gpu-driverbug-op-die-veel-onnodige-ssd-schrijfacties-opleverde.html",
         "description": "AMD heeft een bug in zijn gpu-drivers opgelost die ervoor zorgde dat continu data naar ssd's werd geschreven. De oplossing zit in de Adrenalin 26.11.1-driver, die per direct beschikbaar is. Het gaat om een 'optionele' update.",
@@ -2872,6 +2917,22 @@
         "relevanceScore": 4,
         "matchedKeywords": [
           "microsoft"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+        "link": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+        "description": "Article URL: https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at Comments URL: https://news.ycombinator.com/item?id=50467460 Points: 216 # Comments: 5",
+        "published": "2026-11-12T14:12:37.000Z",
+        "source": "Hacker News",
+        "sourceKey": "hackernews",
+        "priority": 2,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "amd"
         ],
         "category": "chips_cloud"
       },
@@ -3418,7 +3479,14 @@
           "artificial intelligence",
           "chipmaker"
         ],
-        "category": "business"
+        "category": "business",
+        "alsoIn": [
+          {
+            "source": "SiliconANGLE",
+            "title": "Surging AI chip revenue and Microsoft deal boost Cerebras Systems stock by 17%",
+            "link": "https://siliconangle.com/2026/11/12/surging-ai-chip-revenue-and-microsoft-deal-boost-cerebras-systems-stock-by-17/"
+          }
+        ]
       },
       {
         "title": "AI Startup LangChain More Than Doubles Its Valuation to $3 Billion",
@@ -3682,6 +3750,22 @@
         "published": "2026-11-12T22:17:13.000Z",
         "source": "Bloomberg",
         "sourceKey": "bloomberg_markets",
+        "priority": 1,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "nvidia"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Why Nvidia stock drop isn't a big deal for many ETF, mutual fund investors",
+        "link": "https://www.cnbc.com/2026/11/12/nvidia-stock-drop-etf-mutual-fund-investors.html",
+        "description": "Nvidia stock accounts for a fairly large share of many mutual funds and ETFs. But losses in the stock don't necessarily mean big losses for the overall fund.",
+        "published": "2026-11-12T21:16:37.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_top",
         "priority": 1,
         "image": null,
         "baseScore": 5,
@@ -4458,6 +4542,22 @@
         "category": "ai"
       },
       {
+        "title": "OpenAI Board Member Tells Audience an AI Accident Is the Most Likely Thing to Kill Them",
+        "link": "https://gizmodo.com/openai-board-member-tells-audience-an-ai-accident-is-the-most-likely-thing-to-kill-them-2000838491",
+        "description": "An OpenAI board member thinks AI could kill us all pretty soon. Other researchers agree. Anyway, back to building it, apparently.",
+        "published": "2026-11-12T21:24:42.000Z",
+        "source": "Gizmodo",
+        "sourceKey": "gizmodo",
+        "priority": 2,
+        "image": "https://gizmodo.com/app/uploads/2026/11/openAI-risk-factor-1280x853.jpg",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "OpenAI launches security products, tells orgs they’re doomed if they don’t use them",
         "link": "https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500",
         "description": "Meanwhile, a group of nonprofits sue AI giants and cite AI-driven cyberattacks",
@@ -4976,6 +5076,23 @@
         "category": "ai"
       },
       {
+        "title": "Foundation Models framework",
+        "link": "https://developer.apple.com/foundation-models-framework/",
+        "description": "Article URL: https://developer.apple.com/foundation-models-framework/ Comments URL: https://news.ycombinator.com/item?id=50474361 Points: 207 # Comments: 27",
+        "published": "2026-11-12T21:13:26.000Z",
+        "source": "Hacker News",
+        "sourceKey": "hackernews",
+        "priority": 2,
+        "image": null,
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "foundation model",
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "Google announces Gemini 4 Hydrogen, rolling out to Gemini app",
         "link": "https://9to5google.com/2026/11/12/gemini-4-hydrogen-launch/",
         "description": "After this week’s Carbon availability, Google today unveiled Gemini 4 Hydrogen instead of keeping the “Flash” branding.",
@@ -5458,6 +5575,23 @@
             "link": "https://www.macrumors.com/2026/11/12/apple-adds-samsung-foldables-to-trade-in-program/"
           }
         ]
+      },
+      {
+        "title": "Your Pixel Watch or Galaxy Watch Can Control Samsung and Google’s New Smart Glasses",
+        "link": "https://gizmodo.com/pixel-watch-galaxy-watch-samsung-smart-glasses-2000839184",
+        "description": "Gesture controls will allow existing wearable owners to manipulate the company's 'intelligent eyewear' without touching them or using their voice.",
+        "published": "2026-11-12T20:45:33.000Z",
+        "source": "Gizmodo",
+        "sourceKey": "gizmodo",
+        "priority": 2,
+        "image": "https://gizmodo.com/app/uploads/2026/11/intelligent-eyewear-3-1280x853.jpg",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "google",
+          "samsung"
+        ],
+        "category": "devices"
       },
       {
         "title": "Save $299 on Apple’s 1TB M5 iPad Pro 11-inch on Amazon",
@@ -6895,6 +7029,22 @@
         "category": "other"
       },
       {
+        "title": "Ok, Raise Your Hand If You Have Also Had Sex With Jensen Huang",
+        "link": "https://gizmodo.com/third-intimate-relationship-alleged-jensen-huang-2000839168",
+        "description": "Lawyers are sharpening their knives.",
+        "published": "2026-11-12T21:05:43.000Z",
+        "source": "Gizmodo",
+        "sourceKey": "gizmodo",
+        "priority": 2,
+        "image": "https://gizmodo.com/app/uploads/2026/11/jensen-huang-nvidia-scandal-1280x853.jpg",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "jensen huang"
+        ],
+        "category": "other"
+      },
+      {
         "title": "Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women",
         "link": "https://www.wired.com/story/jensen-huang-colette-kress-replacement-powerful-women-in-tech/",
         "description": "A recent WIRED investigation explored the complicated definition of “power” for women in the industry. Jensen Huang’s answers now appear to show his blind spots.",
@@ -7049,5 +7199,5 @@
       }
     ]
   },
-  "totalArticles": 333
+  "totalArticles": 341
 }
