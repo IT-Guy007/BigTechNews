@@ -4,7 +4,7 @@
   "title": "Friday, Nov 13",
   "dateRange": "November 13, 2026",
   "date": "2026-11-13",
-  "generatedAt": "2026-11-13T17:45:56.727Z",
+  "generatedAt": "2026-11-13T23:37:03.423Z",
   "highlights": [
     {
       "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
@@ -26,6 +26,38 @@
         "sam altman"
       ],
       "category": "business"
+    },
+    {
+      "title": "OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet",
+      "link": "https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/",
+      "description": "OpenAI is taking a second shot at AI-powered shopping with ChatGPT Wallet after scrapping its first approach, Instant Checkout. Users register a card once and confirm each purchase through Face ID or a fingerprint, while actual card details stay hidden behind payment tokens. Rivals such as Anthropic, Meta, and xAI already have their agents making purchases. The article OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet appeared first on The Decoder.",
+      "published": "2026-11-13T18:55:21.000Z",
+      "source": "The Decoder",
+      "sourceKey": "thedecoder",
+      "priority": 2,
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/ChatGPT-Wallet-title-scaled.png",
+      "baseScore": 19,
+      "relevanceScore": 21,
+      "matchedKeywords": [
+        "openai",
+        "chatgpt",
+        "meta",
+        "anthropic",
+        "xai"
+      ],
+      "category": "ai",
+      "alsoIn": [
+        {
+          "source": "The Information",
+          "title": "OpenAI Launches ChatGPT Wallet",
+          "link": "https://www.theinformation.com/briefings/openai-launches-chatgpt-wallet"
+        },
+        {
+          "source": "Android Authority",
+          "title": "OpenAI rolls out ChatGPT Wallet to let Dots AI agents make purchases",
+          "link": "https://www.androidauthority.com/chatgpt-wallet-3735154/"
+        }
+      ]
     },
     {
       "title": "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models",
@@ -82,6 +114,27 @@
       ]
     },
     {
+      "title": "Ackman on Huang's Exit, Anthropic IPO Roadshow",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-13/ackman-on-huang-s-exit-anthropic-ipo-roadshow-video",
+      "description": "Bill Ackman, Pershing Square founder and CEO, says it's sad to see Jensen Huang leave Nvidia and he'll go on to do something great. Ackman also says he was impressed with the presentation given by Anthropic CEO Dario Amodei at the company's IPO roadshow event in New York. He speaks to Bloomberg's Isabelle Lee. (Source: Bloomberg)",
+      "published": "2026-11-13T19:42:57.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "baseScore": 20,
+      "relevanceScore": 20,
+      "matchedKeywords": [
+        "anthropic",
+        "ipo",
+        "nvidia",
+        "jensen huang",
+        "dario amodei",
+        "ceo"
+      ],
+      "category": "business"
+    },
+    {
       "title": "Apple, Alphabet and Uber survived major founder transitions. Nvidia will be a harder test",
       "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-founder-ceo-transition.html",
       "description": "Like Apple, Nvidia now faces its own transition away from a founder-led company. But experts say Jensen Huang’s central role could make replacing him difficult.",
@@ -98,6 +151,26 @@
         "nvidia",
         "uber",
         "jensen huang"
+      ],
+      "category": "chips_cloud"
+    },
+    {
+      "title": "Some investors and founders say they lost an ally in Jensen Huang; Nvidia held $48B in 229 private companies as of July and offered $165B in cloud backstops (New York Times)",
+      "link": "https://www.techmeme.com/261113/p24#a261113p24",
+      "description": "New York Times: Some investors and founders say they lost an ally in Jensen Huang; Nvidia held $48B in 229 private companies as of July and offered $165B in cloud backstops — Mr. Huang championed start-ups, with Nvidia holding $48 billion worth of stakes in 229 private companies, including OpenAI and Anthropic, at the end of July.",
+      "published": "2026-11-13T19:10:01.000Z",
+      "source": "Techmeme",
+      "sourceKey": "techmeme",
+      "priority": 1,
+      "image": "http://www.techmeme.com/261113/i24.jpg",
+      "baseScore": 19,
+      "relevanceScore": 19,
+      "matchedKeywords": [
+        "nvidia",
+        "jensen huang",
+        "openai",
+        "anthropic",
+        "billion"
       ],
       "category": "chips_cloud"
     },
@@ -133,6 +206,27 @@
       ]
     },
     {
+      "title": "Anthropic’s Amodei Doesn’t Want AI Agents to ‘Run Wild’",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-13/anthropic-s-amodei-doesn-t-want-ai-agents-to-run-wild-video",
+      "description": "Anthropic CEO and co-founder Dario Amodei said that the company is continuously putting efforts into “safety and security and alignment” and doesn't want AI agents to \"run wild.\" Amodei spoke Friday during a live-streamed conversation with JPMorgan Chase Chairman & CEO Jamie Dimon as part of Anthropic's IPO roadshow. (Source: Bloomberg)",
+      "published": "2026-11-13T18:55:54.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "baseScore": 17,
+      "relevanceScore": 17,
+      "matchedKeywords": [
+        "anthropic",
+        "ai agent",
+        "ipo",
+        "dario amodei",
+        "alignment",
+        "ceo"
+      ],
+      "category": "ai"
+    },
+    {
       "title": "Hidary: Investors See Anthropic IPO as Key Bellwether",
       "link": "https://www.bloomberg.com/news/videos/2026-11-13/hidary-investors-see-anthropic-ipo-as-key-bellwether-video",
       "description": "Anthropic’s IPO is said to be about 6 times oversubscribed. The Claude AI Model firm and its co-founders are seeking to raise $64.4 billion in the public listing as well as $26 billion in private placement, making it bigger than Space X’s IPO. Jack Hidary, CEO of SandboxAQ spoke to Bloomberg’s Abeer Abu Omar on Horizons Middle East & Africa about the listing as well as his deals in the UAE on the sidelines of ADIPEC. (Source: Bloomberg)",
@@ -150,112 +244,6 @@
         "ai model",
         "ceo",
         "billion"
-      ],
-      "category": "business"
-    },
-    {
-      "title": "OpenAI announces ChatGPT Wallet, which lets its dots AI agents make purchases on behalf of users, available to ChatGPT Pro subscribers in the US who are over 18",
-      "link": "https://www.techmeme.com/261113/p15#a261113p15",
-      "description": "OpenAI announces ChatGPT Wallet, which lets its dots AI agents make purchases on behalf of users, available to ChatGPT Pro subscribers in the US who are over 18 — OpenAI on Friday announced ChatGPT Wallet, a new payment feature that enables its “dots” artificial intelligence agents to make purchases on behalf of users.",
-      "published": "2026-11-13T15:35:05.000Z",
-      "source": "Techmeme",
-      "sourceKey": "techmeme",
-      "priority": 1,
-      "image": "http://www.techmeme.com/261113/i15.jpg",
-      "via": "CNBC",
-      "baseScore": 13,
-      "relevanceScore": 16,
-      "matchedKeywords": [
-        "openai",
-        "chatgpt",
-        "ai agent",
-        "artificial intelligence"
-      ],
-      "category": "ai",
-      "alsoIn": [
-        {
-          "source": "CNBC",
-          "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
-          "link": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html"
-        },
-        {
-          "source": "9to5Mac",
-          "title": "OpenAI launches ChatGPT Wallet, enabling ‘dot’ agents to make purchases",
-          "link": "https://9to5mac.com/2026/11/13/openai-launches-chatgpt-wallet-enabling-dot-agents-to-make-purchases/"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-          "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
-        },
-        {
-          "source": "WSJ",
-          "title": "ChatGPT Launches Wallet Feature Allowing Users to Pay With Agents",
-          "link": "https://www.wsj.com/tech/ai/chatgpt-launches-wallet-feature-allowing-users-to-pay-with-agents-2abcded2?mod=rss_Technology"
-        }
-      ]
-    },
-    {
-      "title": "Nvidia Crisis Fuels US and China Chip Showdown",
-      "link": "https://www.bloomberg.com/news/videos/2026-11-13/open-interest-11-13-2026-video",
-      "description": "Get a jump start on the US trading day on \"Bloomberg Open Interest.\"Microsoft races to recover from a global outage disrupting users worldwide. Plus, Nvidia’s crisis turns into a US, China chip showdown ahead of a Trump-Xi meeting. Plus, Anthropic’s blockbuster IPO demand, what lingering Iran risks could mean for markets and Boston Fed President Susan Collins join us for an exclusive interview on why more rate tightening is needed. (Source: Bloomberg)",
-      "published": "2026-11-13T17:09:57.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "baseScore": 16,
-      "relevanceScore": 16,
-      "matchedKeywords": [
-        "nvidia",
-        "chip",
-        "microsoft",
-        "anthropic",
-        "ipo"
-      ],
-      "category": "chips_cloud"
-    },
-    {
-      "title": "Companies Linked to Alice Huang Invested in DeepSeek",
-      "link": "https://www.theinformation.com/briefings/companies-linked-alice-huang-invested-deepseek",
-      "description": "A network of companies tied to Alice Huang, the alleged Chinese spy romantically involved with Nvidia’s former CEO Jensen Huang, recently invested in Chinese AI startup DeepSeek, The Information reported. The companies, Century Litong and its parent, Shanghai-listed Jiangsu Lettall Electronics, ...",
-      "published": "2026-11-13T09:49:51.000Z",
-      "source": "The Information",
-      "sourceKey": "theinformation",
-      "priority": 1,
-      "image": null,
-      "baseScore": 14,
-      "relevanceScore": 15,
-      "matchedKeywords": [
-        "deepseek",
-        "nvidia",
-        "jensen huang",
-        "ceo"
-      ],
-      "category": "ai",
-      "alsoIn": [
-        {
-          "source": "Engadget",
-          "title": "Bloomberg details web of Chinese AI companies with smuggled NVIDIA chips linked to Alice Huang",
-          "link": "https://www.engadget.com/2315710/bloomberg-details-web-of-chinese-ai-companies-with-smuggled-nvidia-chips-linked-to-alice-huang/"
-        }
-      ]
-    },
-    {
-      "title": "Sources: Anthropic's IPO, like SpaceX's, is closed to institutional investors in mainland China and Hong Kong, partly due to US arms export rules (Bloomberg)",
-      "link": "https://www.techmeme.com/261113/p18#a261113p18",
-      "description": "Bloomberg: Sources: Anthropic's IPO, like SpaceX's, is closed to institutional investors in mainland China and Hong Kong, partly due to US arms export rules — Institutional investors based in mainland China and Hong Kong have been excluded from placing orders in Anthropic PBC's initial public offering …",
-      "published": "2026-11-13T17:10:03.000Z",
-      "source": "Techmeme",
-      "sourceKey": "techmeme",
-      "priority": 1,
-      "image": "http://www.techmeme.com/261113/i18.jpg",
-      "baseScore": 15,
-      "relevanceScore": 15,
-      "matchedKeywords": [
-        "anthropic",
-        "spacex",
-        "ipo"
       ],
       "category": "business"
     }
@@ -280,6 +268,27 @@
           "openai",
           "spacex",
           "sam altman"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Ackman on Huang's Exit, Anthropic IPO Roadshow",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-13/ackman-on-huang-s-exit-anthropic-ipo-roadshow-video",
+        "description": "Bill Ackman, Pershing Square founder and CEO, says it's sad to see Jensen Huang leave Nvidia and he'll go on to do something great. Ackman also says he was impressed with the presentation given by Anthropic CEO Dario Amodei at the company's IPO roadshow event in New York. He speaks to Bloomberg's Isabelle Lee. (Source: Bloomberg)",
+        "published": "2026-11-13T19:42:57.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 20,
+        "relevanceScore": 20,
+        "matchedKeywords": [
+          "anthropic",
+          "ipo",
+          "nvidia",
+          "jensen huang",
+          "dario amodei",
+          "ceo"
         ],
         "category": "business"
       },
@@ -314,13 +323,20 @@
         "priority": 1,
         "image": "http://www.techmeme.com/261113/i18.jpg",
         "baseScore": 15,
-        "relevanceScore": 15,
+        "relevanceScore": 16,
         "matchedKeywords": [
           "anthropic",
           "spacex",
           "ipo"
         ],
-        "category": "business"
+        "category": "business",
+        "alsoIn": [
+          {
+            "source": "The Decoder",
+            "title": "Banks bar Chinese and Hong Kong investors from Anthropic IPO over US export controls",
+            "link": "https://the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls/"
+          }
+        ]
       },
       {
         "title": "Cerebras Soars on Sales; Cisco Down on Expectations Miss | Stock Movers",
@@ -343,6 +359,32 @@
         "category": "business"
       },
       {
+        "title": "Anthropic CEO Calls Computing Power Deepest Business Dilemma",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ceo-calls-computing-power-deepest-business-dilemma",
+        "description": "Anthropic PBC Chief Executive Officer Dario Amodei named sourcing computing power as one of the artificial intelligence company’s biggest challenges, in a briefing ahead of its hotly anticipated initial public offering.",
+        "published": "2026-11-13T18:46:29.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 13,
+        "relevanceScore": 14,
+        "matchedKeywords": [
+          "anthropic",
+          "ceo",
+          "dario amodei",
+          "artificial intelligence"
+        ],
+        "category": "business",
+        "alsoIn": [
+          {
+            "source": "Techmeme",
+            "title": "Dario Amodei says figuring out how much computing is needed in a year or two is Anthropic's \"deepest business dilemma\" due to the unpredictability of revenue (Bloomberg)",
+            "link": "https://www.techmeme.com/261113/p25#a261113p25"
+          }
+        ]
+      },
+      {
         "title": "Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms",
         "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms",
         "description": "Bitcoin is down 21% this year as investors weigh Anthropic’s anticipated listing, Nvidia’s leadership upheaval and rising Fed rate hike expectations.",
@@ -358,6 +400,42 @@
           "ipo",
           "bitcoin",
           "nvidia"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Goldman Sachs looks to cash in on big IPOs twice. Anthropic’s historic deal is its next chance",
+        "link": "https://www.cnbc.com/investingclub/2026/11/13/goldman-sachs-looks-to-cash-in-on-anthropics-ipo-twice-heres-how-and-who-else-wants-to.html",
+        "description": "While co-leading the offering, Goldman also wants a shot at managing the billions of dollars in new wealth that the deal creates. It's not the only one.",
+        "published": "2026-11-13T21:44:07.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_top",
+        "priority": 1,
+        "image": null,
+        "baseScore": 12,
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "anthropic",
+          "ipo",
+          "billion"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Inside Anthropic’s Lavish Roadshow Event at J.P. Morgan’s Headquarters",
+        "link": "https://www.theinformation.com/briefings/inside-anthropics-lavish-roadshow-event-j-p-morgans-headquarters",
+        "description": "Wall Street’s largest investors attended JP Morgan CEO Jamie Dimon’s conversation with Anthropic CEO Dario Amodei Friday, at a lavish fireside chat featuring Anthropic swag, custom laptop cases and Anthropic cookies. The attendees included Tiger Global Management founder Chase Coleman, Creative ...",
+        "published": "2026-11-13T20:21:23.000Z",
+        "source": "The Information",
+        "sourceKey": "theinformation",
+        "priority": 1,
+        "image": null,
+        "baseScore": 12,
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "anthropic",
+          "dario amodei",
+          "ceo"
         ],
         "category": "business"
       },
@@ -483,6 +561,25 @@
         "category": "business"
       },
       {
+        "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+        "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+        "description": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+        "published": "2026-11-13T22:43:00.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "jensen huang",
+          "nvidia",
+          "valuation",
+          "billion"
+        ],
+        "category": "business"
+      },
+      {
         "title": "Nvidia CEO Jensen Huang’s abrupt departure shakes AI industry’s foundations",
         "link": "https://siliconangle.com/2026/11/13/nvidia-ceo-jensen-huangs-abrupt-departure-shakes-ai-industrys-foundations/",
         "description": "Oh, Jensen… really? Honeypot or not, the Chinese executive/accused spy with whom Nvidia CEO Jensen Huang admitted an affair this week should have been a flashing red light to him. So should fraternizing with one of your own VPs — and reportedly another employee too! In the end, all that, and maybe more to come, was […] The post Nvidia CEO Jensen Huang’s abrupt departure shakes AI industry’s foundations appeared first on SiliconANGLE.",
@@ -515,6 +612,74 @@
           "ceo",
           "nvidia",
           "jensen huang"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Modine Shares Gain Most in Six Years After Samsung Buyout Talks",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-13/modine-shares-gain-most-in-six-years-after-samsung-buyout-talks",
+        "description": "Modine Manufacturing Co. logged its biggest single-day gain since 2020 after Bloomberg News reported the maker of cooling systems for data centers was in talks to be acquired by Samsung Electronics Co.",
+        "published": "2026-11-13T23:03:51.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "samsung",
+          "data center"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Investing in Financial Security: Masters in Business with Salim Ramji",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-13/masters-in-business-with-salim-ramji-video",
+        "description": "Barry speaks with Vanguard CEO Salim Ramji. They discuss his early career journey in law before transitioning to BlackRock as Head of Corporate Strategy and later taking over as the first \"outsider\" CEO of Vanguard. They also discuss Vanguard's recent acquisition of Altruist and what it means for the future of financial advice. (Source: Bloomberg)",
+        "published": "2026-11-13T22:11:02.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_markets",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "acquisition",
+          "ceo"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Salim Ramji on the Vanguard Effect",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-13/salim-ramji-on-the-vanguard-effect-video",
+        "description": "Barry speaks with Vanguard CEO Salim Ramji. They discuss his early career journey in law before transitioning to BlackRock as Head of Corporate Strategy and later taking over as the first \"outsider\" CEO of Vanguard. They also discuss Vanguard's recent acquisition of Altruist and what it means for the future of financial advice. (Source: Bloomberg)",
+        "published": "2026-11-13T22:01:57.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_markets",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "acquisition",
+          "ceo"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "US Stocks Close Lower After Nvidia Spurs Volatility in AI Trade",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-13/us-futures-gain-with-microsoft-outage-producer-prices-in-focus",
+        "description": "US equities fell on Friday at the end of a volatile week as investors reassessed the artificial intelligence trade in the wake of turmoil at Nvidia Corp. and the outlook of Federal Reserve interest rates.",
+        "published": "2026-11-13T13:19:12.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_markets",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "nvidia",
+          "artificial intelligence"
         ],
         "category": "business"
       },
@@ -659,6 +824,38 @@
         "category": "business"
       },
       {
+        "title": "Bain- and GIC-backed WHI on track for Japan's largest IPO in 2026",
+        "link": "https://asia.nikkei.com/business/markets/ipo/bain-and-gic-backed-whi-on-track-for-japan-s-largest-ipo-in-2026",
+        "description": "",
+        "published": "2026-11-13T23:37:01.039Z",
+        "source": "Nikkei Asia",
+        "sourceKey": "nikkei_asia",
+        "priority": 1,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "ipo"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Sources: Moonshot AI is deactivating its Cayman holding company and moving investors' stakes to its primary operating entity in China to pave the way for an IPO (Wall Street Journal)",
+        "link": "https://www.techmeme.com/261113/p31#a261113p31",
+        "description": "Wall Street Journal: Sources: Moonshot AI is deactivating its Cayman holding company and moving investors' stakes to its primary operating entity in China to pave the way for an IPO — Chinese artificial-intelligence startup Moonshot AI is wrapping up a corporate restructuring that would pave the way for an initial public offering.",
+        "published": "2026-11-13T22:01:42.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261113/i31.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "ipo"
+        ],
+        "category": "business"
+      },
+      {
         "title": "Singtel CFO on 1H Earnings",
         "link": "https://www.bloomberg.com/news/videos/2026-11-13/singtel-cfo-on-1h-earnings-video",
         "description": "Arthur Lang, Singtel Group CFO, discusses the outlook and growth strategy for the business after the company's first half earnings, and on potential business impact from Nvidia leadership changes. He speaks with Haidi Stroud-Watts and Paul Allen on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
@@ -760,9 +957,58 @@
           "billion"
         ],
         "category": "business"
+      },
+      {
+        "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
+        "link": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
+        "description": "Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits.",
+        "published": "2026-11-13T19:49:16.000Z",
+        "source": "Ars Technica",
+        "sourceKey": "arstechnica",
+        "priority": 1,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/donald-trump-jr-1152x648.jpg",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "ceo",
+          "lawsuit"
+        ],
+        "category": "business"
       }
     ],
     "ai": [
+      {
+        "title": "OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet",
+        "link": "https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/",
+        "description": "OpenAI is taking a second shot at AI-powered shopping with ChatGPT Wallet after scrapping its first approach, Instant Checkout. Users register a card once and confirm each purchase through Face ID or a fingerprint, while actual card details stay hidden behind payment tokens. Rivals such as Anthropic, Meta, and xAI already have their agents making purchases. The article OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet appeared first on The Decoder.",
+        "published": "2026-11-13T18:55:21.000Z",
+        "source": "The Decoder",
+        "sourceKey": "thedecoder",
+        "priority": 2,
+        "image": "https://the-decoder.com/wp-content/uploads/2026/11/ChatGPT-Wallet-title-scaled.png",
+        "baseScore": 19,
+        "relevanceScore": 21,
+        "matchedKeywords": [
+          "openai",
+          "chatgpt",
+          "meta",
+          "anthropic",
+          "xai"
+        ],
+        "category": "ai",
+        "alsoIn": [
+          {
+            "source": "The Information",
+            "title": "OpenAI Launches ChatGPT Wallet",
+            "link": "https://www.theinformation.com/briefings/openai-launches-chatgpt-wallet"
+          },
+          {
+            "source": "Android Authority",
+            "title": "OpenAI rolls out ChatGPT Wallet to let Dots AI agents make purchases",
+            "link": "https://www.androidauthority.com/chatgpt-wallet-3735154/"
+          }
+        ]
+      },
       {
         "title": "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models",
         "link": "https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models/",
@@ -818,6 +1064,46 @@
         ]
       },
       {
+        "title": "Anthropic’s Amodei Doesn’t Want AI Agents to ‘Run Wild’",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-13/anthropic-s-amodei-doesn-t-want-ai-agents-to-run-wild-video",
+        "description": "Anthropic CEO and co-founder Dario Amodei said that the company is continuously putting efforts into “safety and security and alignment” and doesn't want AI agents to \"run wild.\" Amodei spoke Friday during a live-streamed conversation with JPMorgan Chase Chairman & CEO Jamie Dimon as part of Anthropic's IPO roadshow. (Source: Bloomberg)",
+        "published": "2026-11-13T18:55:54.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 17,
+        "relevanceScore": 17,
+        "matchedKeywords": [
+          "anthropic",
+          "ai agent",
+          "ipo",
+          "dario amodei",
+          "alignment",
+          "ceo"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Chinese AI labs are training models on Nvidia's Blackwell despite export controls, says ex-OpenAI engineer",
+        "link": "https://www.theregister.com/ai-and-ml/2026/11/13/chinese-ai-labs-are-training-models-on-nvidias-blackwell-despite-export-controls-says-ex-openai-engineer/5309891",
+        "description": "Forensic report finds Blackwell's fingerprint in DeepSeek, Moonshot AI, MiniMax and Ant Group models",
+        "published": "2026-11-13T21:16:22.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=5309895&width=800",
+        "baseScore": 17,
+        "relevanceScore": 17,
+        "matchedKeywords": [
+          "nvidia",
+          "openai",
+          "blackwell",
+          "deepseek"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "OpenAI announces ChatGPT Wallet, which lets its dots AI agents make purchases on behalf of users, available to ChatGPT Pro subscribers in the US who are over 18",
         "link": "https://www.techmeme.com/261113/p15#a261113p15",
         "description": "OpenAI announces ChatGPT Wallet, which lets its dots AI agents make purchases on behalf of users, available to ChatGPT Pro subscribers in the US who are over 18 — OpenAI on Friday announced ChatGPT Wallet, a new payment feature that enables its “dots” artificial intelligence agents to make purchases on behalf of users.",
@@ -856,6 +1142,11 @@
             "source": "WSJ",
             "title": "ChatGPT Launches Wallet Feature Allowing Users to Pay With Agents",
             "link": "https://www.wsj.com/tech/ai/chatgpt-launches-wallet-feature-allowing-users-to-pay-with-agents-2abcded2?mod=rss_Technology"
+          },
+          {
+            "source": "The Verge",
+            "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
           }
         ]
       },
@@ -1055,6 +1346,30 @@
         "category": "ai"
       },
       {
+        "title": "Connect Google Wallet to Gemini for personal finance insights",
+        "link": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
+        "description": "All Gemini app users in the U.S. can connect Google Wallet to get responses informed by their spending habits.",
+        "published": "2026-11-13T17:00:00.000Z",
+        "source": "Google",
+        "sourceKey": "google_blog",
+        "priority": 1,
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Personal_Intelligence_Wallet_27.max-600x600.format-webp.webp",
+        "baseScore": 8,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "google",
+          "gemini"
+        ],
+        "category": "ai",
+        "alsoIn": [
+          {
+            "source": "9to5Google",
+            "title": "You can now set up Gemini’s Google Wallet integration for ‘personal finance insights’",
+            "link": "https://9to5google.com/2026/11/13/gemini-google-wallet/"
+          }
+        ]
+      },
+      {
         "title": "Meta launches an outbound calling feature for Muse, such as to businesses, available for paid US subscribers; Gemini and startup Instinct offer a similar option",
         "link": "https://www.techmeme.com/261113/p1#a261113p1",
         "description": "Meta launches an outbound calling feature for Muse, such as to businesses, available for paid US subscribers; Gemini and startup Instinct offer a similar option — After initially testing the feature in September, Meta's consumer AI agent Muse is now able to place calls to U.S. businesses on behalf of its users.",
@@ -1126,23 +1441,6 @@
         "category": "ai"
       },
       {
-        "title": "Connect Google Wallet to Gemini for personal finance insights",
-        "link": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
-        "description": "All Gemini app users in the U.S. can connect Google Wallet to get responses informed by their spending habits.",
-        "published": "2026-11-13T17:00:00.000Z",
-        "source": "Google",
-        "sourceKey": "google_blog",
-        "priority": 1,
-        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Personal_Intelligence_Wallet_27.max-600x600.format-webp.webp",
-        "baseScore": 8,
-        "relevanceScore": 8,
-        "matchedKeywords": [
-          "google",
-          "gemini"
-        ],
-        "category": "ai"
-      },
-      {
         "title": "Jensen Didn’t Create the AI Boom. It Created Him.",
         "link": "https://www.theinformation.com/articles/jensen-create-ai-boom-created-him",
         "description": "If you follow investors and reporters on X, you would get the sense that the resignation of Jensen Huang amounts to the end of the AI boom. A summary of my X feed Wednesday morning would go something like “I hope the Nvidia board knew what they were doing before ending the world as we know it.” But if you believe that to be true, you haven’t been paying attention. Because as much as Jensen created the AI boom (and clearly Nvidia’s GPU—the brains that trains AI models—did), the AI boom created Je",
@@ -1210,6 +1508,23 @@
           "elon musk",
           "spacex",
           "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Google now lets people connect Gemini to their bank accounts",
+        "link": "https://www.engadget.com/2316384/google-now-lets-people-connect-gemini-to-their-bank-accounts/",
+        "description": "This is for spending analysis and not for making purchases.",
+        "published": "2026-11-13T19:15:32.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/google-now-lets-people-connect-gemini-to-their-bank-accounts/l-intro-1794596813.jpg",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "google",
+          "gemini"
         ],
         "category": "ai"
       },
@@ -1300,6 +1615,39 @@
         "category": "ai"
       },
       {
+        "title": "Microsoft 365 Outage Resolving After Nearly 24 Hours",
+        "link": "https://www.macrumors.com/2026/11/13/microsoft-365-outage-resolving/",
+        "description": "The ongoing Microsoft 365 outage is resolving after nearly 24 hours. The company said the underlying issue has been fixed and it is seeing \"broad recovery and stability\" across its services as it works to restore access to customers. The Microsoft 365 downtime started at approximately 1 p.m. Eastern Time on Thursday. Customers could not access their Outlook email or use some features in Teams and Copilot. Exchange accounts in Apple Mail were also affected. Most calling, meeting, and messaging fu",
+        "published": "2026-11-13T19:00:35.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/11/microsoft-365-icons.jpg",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "microsoft",
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Microsoft apologizes for the outage, calling it a \"technical issue\" from a \"network capacity upgrade\", and says it was \"not related to cyber or AI/agents\" (@microsoft)",
+        "link": "https://www.techmeme.com/261113/p28#a261113p28",
+        "description": "@microsoft: Microsoft apologizes for the outage, calling it a “technical issue” from a “network capacity upgrade”, and says it was “not related to cyber or AI/agents” — We are deeply sorry for the disruption this incident has caused our customers and partners. We know the trust they place in our services and take that responsibility extremely seriously. We are seeing broad recovery and stability across our services. This was a technical issue not related to cyber...",
+        "published": "2026-11-13T20:40:02.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/img/pml.png",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "microsoft"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
         "link": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
         "description": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians stay at the center, reviewing AI […]",
@@ -1332,6 +1680,59 @@
         "category": "ai"
       },
       {
+        "title": "Mirendil raises $1B in funding to speed up AI model development",
+        "link": "https://siliconangle.com/2026/11/13/mirendil-raises-1b-in-funding-to-speed-up-ai-model-development/",
+        "description": "Mirendil Inc., a provider of software that speeds up artificial intelligence development, has raised $1 billion in early-stage funding. The startup stated on Thursday that Kleiner Perkins and Clearlake Capital jointly led the Series A investment. They were joined by more than a half-dozen others including Google LLC. Mirendil was launched last year by two […] The post Mirendil raises $1B in funding to speed up AI model development appeared first on SiliconANGLE.",
+        "published": "2026-11-13T21:22:49.000Z",
+        "source": "SiliconANGLE",
+        "sourceKey": "siliconangle",
+        "priority": 2,
+        "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/AI-1.png",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "ai model",
+          "google",
+          "artificial intelligence",
+          "billion"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Perplexity brings AI agents feature called Teammates to the Mac",
+        "link": "https://9to5mac.com/2026/11/13/perplexity-brings-ai-agents-feature-called-teammates-to-the-mac/",
+        "description": "This week, Perplexity has deployed its new proactive agentic AI feature called Teammates to the Mac. Perplexity Teammates were previously limited to iOS and the web. more…",
+        "published": "2026-11-13T19:31:05.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/perplexity-mac-app.webp?w=1600",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "perplexity",
+          "ai agent"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Google geeft bedrijven korter de tijd om bugs te fixen vanwege AI",
+        "link": "https://tweakers.net/nieuws/254520/google-geeft-bedrijven-korter-de-tijd-om-bugs-te-fixen-vanwege-ai.html",
+        "description": "Google gaat de termijn verkorten waarbinnen bedrijven aangedragen bugs mogen repareren. Googles responsibledisclosurebeleid gaat nu uit van maximaal 120 dagen, maar dat gaat in stappen naar 30 dagen. Het gaat dan om bugs die Google vindt in diensten van andere bedrijven en via responsible disclosure bij hen onder de aandacht brengt. Google noemt AI en llm's als belangrijkste reden om de termijn te verkleinen.",
+        "published": "2026-11-13T17:45:41.000Z",
+        "source": "Tweakers",
+        "sourceKey": "tweakers",
+        "priority": 2,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "google",
+          "llm"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "KI-App Gemini fährt nun im CarPlay-Auto mit",
         "link": "https://www.heise.de/news/Google-KI-Gemini-kommt-in-CarPlay-Autos-11522718.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
         "description": "Bereits jetzt ist es möglich, Googles KI-System über die Maps-App im CarPlay-Fahrzeug aufzurufen. Nun wurde auch die Gemini-App selbst angepasst.",
@@ -1349,6 +1750,41 @@
         "category": "ai"
       },
       {
+        "title": "Morgan Stanley’s Shalett ‘Incredibly’ Bullish Despite AI Turmoil",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-13/morgan-stanley-s-shalett-incredibly-bullish-despite-ai-turmoil",
+        "description": "Nvidia Corp.’s leadership turmoil and the Democrats’ midterm election victories have added to concerns about the artificial intelligence boom, but those won’t derail the main driver of the bull market: capital spending on AI infrastructure, says Morgan Stanley Wealth Management’s Lisa Shalett.",
+        "published": "2026-11-13T22:22:59.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "nvidia",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Match Group Keeping AI Out of Dating",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-13/match-group-keeping-ai-out-of-dating-video",
+        "description": "Match Group is embracing artificial intelligence across its business, but CEO Spencer Rascoff says AI agents won't be allowed to date for users on Tinder, Hinge and its other apps. Rascoff says Match wants its platforms to remain a “human-only zone,” even as the company uses AI to verify identities, improve safety and block harmful messages. He joins Bloomberg Businessweek Daily to discuss where companies should draw the line on AI and how the technology is transforming Match Group. He also weig",
+        "published": "2026-11-13T22:20:58.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "artificial intelligence",
+          "ai agent",
+          "ceo"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "OpenAI launches Daybreak Red Team in early access to test web apps for flaws and Daybreak Defense Factory to automate finding, validating, and fixing them",
         "link": "https://www.techmeme.com/261113/p5#a261113p5",
         "description": "OpenAI launches Daybreak Red Team in early access to test web apps for flaws and Daybreak Defense Factory to automate finding, validating, and fixing them — OpenAI has launched two new security products, one for penetration testing and another for defense, and warned organizations …",
@@ -1362,6 +1798,22 @@
         "relevanceScore": 4,
         "matchedKeywords": [
           "openai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+        "link": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
+        "description": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
+        "published": "2026-11-13T19:08:57.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": "https://media.wired.com/photos/6af75c7bac6958eb8481a5e6/master/pass/Security_MicrosoftBackOnline_v1.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "microsoft"
         ],
         "category": "ai"
       },
@@ -1416,6 +1868,56 @@
         "category": "ai"
       },
       {
+        "title": "Fed Sees Risks Tied to Elevated Asset Prices Partly Driven by AI",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-13/fed-sees-risks-tied-to-elevated-asset-prices-partly-driven-by-ai",
+        "description": "The Federal Reserve on Friday flagged potential vulnerabilities stemming from artificial intelligence and elevated asset valuations in a semi-annual report on financial stability.",
+        "published": "2026-11-13T21:00:00.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "artificial intelligence",
+          "valuation"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Huang’s Exit Leaves Silicon Valley Unsure About AI Boom’s Future",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-11-13/huang-s-exit-leaves-silicon-valley-unsure-about-ai-boom-s-future",
+        "description": "The Nvidia chief’s ouster raises new questions about a key piece of the money machine supporting AI.",
+        "published": "2026-11-13T20:18:02.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "nvidia"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "AI agent startup LangChain hits $3B valuation",
+        "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+        "description": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+        "published": "2026-11-13T19:37:57.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "ai agent",
+          "valuation"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "South Korea-based DeepX tapes out DX-M2, an edge AI chip to run inference of 100B-parameter LLMs on robots and drones, targeting fall 2027 for mass production",
         "link": "https://www.techmeme.com/261113/p8#a261113p8",
         "description": "South Korea-based DeepX tapes out DX-M2, an edge AI chip to run inference of 100B-parameter LLMs on robots and drones, targeting fall 2027 for mass production — DeepX is targeting edge markets including robotics with its second-generation AI accelerator, which can run large LLMs on device in under 5 W.",
@@ -1446,6 +1948,23 @@
         "relevanceScore": 3,
         "matchedKeywords": [
           "stripe"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Google Wallet now lets Gemini analyze your spending and suggest ways to save",
+        "link": "https://www.androidauthority.com/google-wallet-gemini-integration-us-3735150/",
+        "description": "Gemini now knows where your money goes, even when you don't.",
+        "published": "2026-11-13T18:42:12.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/google-wallet-2026-redesign-new-passes-hero-2-scaled.jpg",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "google",
+          "gemini"
         ],
         "category": "ai"
       },
@@ -1536,6 +2055,26 @@
         "category": "chips_cloud"
       },
       {
+        "title": "Some investors and founders say they lost an ally in Jensen Huang; Nvidia held $48B in 229 private companies as of July and offered $165B in cloud backstops (New York Times)",
+        "link": "https://www.techmeme.com/261113/p24#a261113p24",
+        "description": "New York Times: Some investors and founders say they lost an ally in Jensen Huang; Nvidia held $48B in 229 private companies as of July and offered $165B in cloud backstops — Mr. Huang championed start-ups, with Nvidia holding $48 billion worth of stakes in 229 private companies, including OpenAI and Anthropic, at the end of July.",
+        "published": "2026-11-13T19:10:01.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261113/i24.jpg",
+        "baseScore": 19,
+        "relevanceScore": 19,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang",
+          "openai",
+          "anthropic",
+          "billion"
+        ],
+        "category": "chips_cloud"
+      },
+      {
         "title": "Nvidia Crisis Fuels US and China Chip Showdown",
         "link": "https://www.bloomberg.com/news/videos/2026-11-13/open-interest-11-13-2026-video",
         "description": "Get a jump start on the US trading day on \"Bloomberg Open Interest.\"Microsoft races to recover from a global outage disrupting users worldwide. Plus, Nvidia’s crisis turns into a US, China chip showdown ahead of a Trump-Xi meeting. Plus, Anthropic’s blockbuster IPO demand, what lingering Iran risks could mean for markets and Boston Fed President Susan Collins join us for an exclusive interview on why more rate tightening is needed. (Source: Bloomberg)",
@@ -1552,6 +2091,27 @@
           "microsoft",
           "anthropic",
           "ipo"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Jensen Huang's ouster likely traces back to Nvidia's risky business practices more than his personal life",
+        "link": "https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/",
+        "description": "Jensen Huang likely left Nvidia more because of risky business practices than anything else, a Wall Street Journal report suggests. At the very least, those practices made him enemies internally. The company offered cloud providers billions in financial guarantees for chip purchases, including a planned $250 billion deal with OpenAI. Interim CEO and then-CFO Colette Kress tried to contain the risk, and Huang reportedly didn't like that. The article Jensen Huang's ouster likely traces back to Nvi",
+        "published": "2026-11-13T20:07:34.000Z",
+        "source": "The Decoder",
+        "sourceKey": "thedecoder",
+        "priority": 2,
+        "image": "https://the-decoder.com/wp-content/uploads/2026/11/nvidia_logo_glitch.png",
+        "baseScore": 15,
+        "relevanceScore": 15,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang",
+          "openai",
+          "chip",
+          "ceo",
+          "billion"
         ],
         "category": "chips_cloud"
       },
@@ -1586,7 +2146,7 @@
         "image": "http://www.techmeme.com/261113/i17.jpg",
         "via": "Financial Times",
         "baseScore": 12,
-        "relevanceScore": 12,
+        "relevanceScore": 13,
         "matchedKeywords": [
           "nvidia",
           "jensen huang",
@@ -1594,7 +2154,97 @@
           "softbank",
           "semiconductor"
         ],
-        "category": "chips_cloud"
+        "category": "chips_cloud",
+        "alsoIn": [
+          {
+            "source": "Tom's Hardware",
+            "title": "Nvidia board reportedly approached Arm CEO Rene Haas during replacement search",
+            "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-board-reportedly-approached-arm-ceo-rene-haas-during-replacement-search-jensen-huangs-transgressions-leave-nvidia-scrambling-to-fill-a-massive-void"
+          }
+        ]
+      },
+      {
+        "title": "Nvidia CEO Search: Who Are the Candidates for Permanent Role?",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-13/nvidia-ceo-who-are-the-candidates-for-permanent-role-video",
+        "description": "Nvidia is searching for a permanent replacement for larger-than-life Chief Executive Officer Jensen Huang, a daunting challenge at the world’s most valuable chipmaker. The company has tapped an outside firm to identify potential candidates following revelations of multiple extramarital affairs by Huang. Longtime Chief Financial Officer Colette Kress is serving as interim CEO. Bloomberg's Tom Mackenzie has more details. (Source: Bloomberg)",
+        "published": "2026-11-13T06:49:28.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 10,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "nvidia",
+          "ceo",
+          "jensen huang",
+          "chipmaker"
+        ],
+        "category": "chips_cloud",
+        "alsoIn": [
+          {
+            "source": "Techmeme",
+            "title": "Nvidia board says it is \"in the process of selecting a search firm\" for the CEO role and it has \"not formally engaged any potential candidates\" (CNBC)",
+            "link": "https://www.techmeme.com/261113/p27#a261113p27"
+          },
+          {
+            "source": "Bloomberg",
+            "title": "Nvidia Says Speculation on New CEO Candidates Is ‘Premature’",
+            "link": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-says-speculation-on-new-ceo-candidates-is-premature"
+          }
+        ]
+      },
+      {
+        "title": "Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
+        "link": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
+        "description": "Jensen Huang resigned as Nvidia CEO days after admitting to an affair following scrutiny of his relationship with a woman reportedly deemed a Chinese spy.",
+        "published": "2026-11-13T17:06:57.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_top",
+        "priority": 1,
+        "image": null,
+        "baseScore": 10,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "nvidia",
+          "chip",
+          "jensen huang",
+          "ceo"
+        ],
+        "category": "chips_cloud",
+        "alsoIn": [
+          {
+            "source": "Bloomberg",
+            "title": "Lutnick Under Fire as Bessent Blames Commerce for Nvidia Crisis",
+            "link": "https://www.bloomberg.com/news/videos/2026-11-13/bessent-blames-commerce-for-nvidia-crisis-video"
+          }
+        ]
+      },
+      {
+        "title": "Sex, Lies and AI Chips: Jensen Huang’s Last Days as Nvidia CEO",
+        "link": "https://www.theinformation.com/articles/sex-lies-ai-chips-jensen-huangs-last-days-nvidia-ceo",
+        "description": "Last weekend, all hell broke loose around Nvidia CEO Jensen Huang. On Friday, his intimate relationship with a suspected Chinese spy was made public. Then Nvidia’s general counsel, Tim Teter, came to Huang’s home and asked him whether a news report about the relationship was true, according to a person briefed on the interaction. Huang told him it was. By Sunday evening, Huang had publicly apologized for the affair, and Nvidia’s board had said it would investigate his conduct. Teter had to urge",
+        "published": "2026-11-13T05:24:11.000Z",
+        "source": "The Information",
+        "sourceKey": "theinformation",
+        "priority": 1,
+        "image": null,
+        "baseScore": 10,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang",
+          "chip",
+          "ceo"
+        ],
+        "category": "chips_cloud",
+        "alsoIn": [
+          {
+            "source": "Bloomberg",
+            "title": "Inside Jensen Huang’s Last Hours as Nvidia CEO",
+            "link": "https://www.bloomberg.com/news/videos/2026-11-13/inside-jensen-huang-s-last-hours-as-nvidia-ceo-video"
+          }
+        ]
       },
       {
         "title": "China’s SMIC sees AI computing crunch until 2028 as Nvidia heat risks tighter chip curbs",
@@ -1695,6 +2345,25 @@
         ]
       },
       {
+        "title": "Lutnick faces questions over Nvidia spy scandal. His sons’ firm has deep ties to the chipmaker",
+        "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+        "description": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family’s financial ties to the chipmaker.",
+        "published": "2026-11-13T19:11:13.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 10,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "nvidia",
+          "chipmaker",
+          "jensen huang",
+          "ceo"
+        ],
+        "category": "chips_cloud"
+      },
+      {
         "title": "Lutnick Under Pressure as Nvidia Crisis Unfolds",
         "link": "https://www.bloomberg.com/news/videos/2026-11-13/lutnick-under-pressure-as-nvidia-crisis-unfolds-video",
         "description": "US Commerce Secretary Howard Lutnick is confronting accusations that his department didn’t do enough to keep Nvidia’s prized artificial intelligence chips out of China’s hands following Jensen Huang’s ouster as the company’s chief executive officer. Treasury Secretary Scott Bessent blamed Lutnick Friday for failing to blacklist a Singapore-based company, Megaspeed, over possible violations. Mike Shepard reports on Bloomberg Television. (Source: Bloomberg)",
@@ -1714,25 +2383,6 @@
         "category": "chips_cloud"
       },
       {
-        "title": "Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
-        "link": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
-        "description": "Jensen Huang resigned as Nvidia CEO days after admitting to an affair following scrutiny of his relationship with a woman reportedly deemed a Chinese spy.",
-        "published": "2026-11-13T17:06:57.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_top",
-        "priority": 1,
-        "image": null,
-        "baseScore": 10,
-        "relevanceScore": 10,
-        "matchedKeywords": [
-          "nvidia",
-          "chip",
-          "jensen huang",
-          "ceo"
-        ],
-        "category": "chips_cloud"
-      },
-      {
         "title": "Neocloud Nscale Reveals $5.5 Billion Debt and Closer Nvidia Ties Ahead of IPO",
         "link": "https://www.bloomberg.com/news/articles/2026-11-13/neocloud-nscale-reveals-5-5-billion-debt-and-closer-nvidia-ties-ahead-of-ipo",
         "description": "Data center developer Nscale needs more cash, has significantly increased its debt and is more reliant on Nvidia Corp. than previously disclosed, it said in a regulatory filing ahead of its planned initial public offering.",
@@ -1748,44 +2398,6 @@
           "ipo",
           "billion",
           "data center"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": "Nvidia CEO Search: Who Are the Candidates for Permanent Role?",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-13/nvidia-ceo-who-are-the-candidates-for-permanent-role-video",
-        "description": "Nvidia is searching for a permanent replacement for larger-than-life Chief Executive Officer Jensen Huang, a daunting challenge at the world’s most valuable chipmaker. The company has tapped an outside firm to identify potential candidates following revelations of multiple extramarital affairs by Huang. Longtime Chief Financial Officer Colette Kress is serving as interim CEO. Bloomberg's Tom Mackenzie has more details. (Source: Bloomberg)",
-        "published": "2026-11-13T06:49:28.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "baseScore": 10,
-        "relevanceScore": 10,
-        "matchedKeywords": [
-          "nvidia",
-          "ceo",
-          "jensen huang",
-          "chipmaker"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": "Sex, Lies and AI Chips: Jensen Huang’s Last Days as Nvidia CEO",
-        "link": "https://www.theinformation.com/articles/sex-lies-ai-chips-jensen-huangs-last-days-nvidia-ceo",
-        "description": "Last weekend, all hell broke loose around Nvidia CEO Jensen Huang. On Friday, his intimate relationship with a suspected Chinese spy was made public. Then Nvidia’s general counsel, Tim Teter, came to Huang’s home and asked him whether a news report about the relationship was true, according to a person briefed on the interaction. Huang told him it was. By Sunday evening, Huang had publicly apologized for the affair, and Nvidia’s board had said it would investigate his conduct. Teter had to urge",
-        "published": "2026-11-13T05:24:11.000Z",
-        "source": "The Information",
-        "sourceKey": "theinformation",
-        "priority": 1,
-        "image": null,
-        "baseScore": 10,
-        "relevanceScore": 10,
-        "matchedKeywords": [
-          "nvidia",
-          "jensen huang",
-          "chip",
-          "ceo"
         ],
         "category": "chips_cloud"
       },
@@ -1833,6 +2445,96 @@
             "link": "https://decrypt.co/383217/nvidia-employees-push-board-to-bring-back-jensen-huang-report"
           }
         ]
+      },
+      {
+        "title": "Colette Kress Will Face Scrutiny at Nvidia",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-13/colette-kress-will-face-scrutiny-at-nvidia-video",
+        "description": "Nina Trentmann, senior editor at Bloomberg News, says Colette Kress is likely to become more visible as Nvidia’s interim CEO, speaking more about the company’s finances, performance and plans after Jensen Huang’s departure. She speaks with Vonnie Quinn on “The Close”. (Source: Bloomberg)",
+        "published": "2026-11-13T23:23:54.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang",
+          "ceo"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Nvidia Crisis Spurs Scrutiny of Agency That Oversees Chip Curbs",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-crisis-spurs-scrutiny-of-agency-that-oversees-chip-curbs",
+        "description": "The Trump administration official who runs US export control programs was looking for marquee names for his agency’s upcoming annual conference and threw an unusual option into the mix: Nvidia Corp. Chief Executive Officer Jensen Huang.",
+        "published": "2026-11-13T21:45:38.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "nvidia",
+          "chip",
+          "jensen huang"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Nvidia hasn’t selected search firm for permanent Huang replacement, board tells CNBC",
+        "link": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html",
+        "description": "Speculation has swirled around who Nvidia's board will select to permanently succeed CEO Jensen Huang.",
+        "published": "2026-11-13T20:21:46.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang",
+          "ceo"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "People Have 'No Idea' How Much Nvidia Impacts Daily Life, Says Aaron Brown",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-13/people-have-no-idea-how-much-nvidia-impacts-life-brown-video",
+        "description": "Aaron Brown, founder and CEO of Lumbra, said that the average person has 'no idea' how much Nvidia impacts their lives and that it remains a messaging issue the AI industry at large needs to solve. Brown, who is a former CIA officer, said that it is hard to know exactly how the woman accused of spying on Jensen Huang came to be involved, as China is good at identifying potential resources who may have inroads with business. (Source: Bloomberg)",
+        "published": "2026-11-13T20:13:13.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang",
+          "ceo"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Nvidia Has Worst Week Since Trump Tariff Selloff as Huang Exits",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-eyes-worst-week-since-trump-tariff-selloff-as-huang-exits",
+        "description": "Nvidia Corp. stock notched its worst week in more than 18 months, as its share price continued to reel after Jensen Huang’s ouster from the top chipmaker.",
+        "published": "2026-11-13T18:24:41.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_markets",
+        "priority": 1,
+        "image": null,
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang",
+          "chipmaker"
+        ],
+        "category": "chips_cloud"
       },
       {
         "title": "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales",
@@ -1983,6 +2685,25 @@
         "category": "chips_cloud"
       },
       {
+        "title": "Could a Former Nvidia Executive Replace Jensen Huang? Arm’s Rene Haas Emerges as Candidate",
+        "link": "https://decrypt.co/383276/nvidia-arm-ceo-rene-haas-replace-jensen-huang",
+        "description": "Nvidia's board has reportedly approached Arm's chief executive as it searches for a replacement for Jensen Huang, while some employees are pushing to bring the chipmaker's founder back as CEO.",
+        "published": "2026-11-13T22:16:03.000Z",
+        "source": "Decrypt",
+        "sourceKey": "decrypt",
+        "priority": 3,
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/nvidia-logo-decrypt-style-1-gID_7.png@png",
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang",
+          "chipmaker",
+          "ceo"
+        ],
+        "category": "chips_cloud"
+      },
+      {
         "title": "Congress Summons Ex-Nvidia CEO Jensen Huang, Lutnick Over Chip Exports to China",
         "link": "https://decrypt.co/383211/congress-summons-ex-nvidia-ceo-jensen-huang-lutnick-over-chip-exports-to-china",
         "description": "House panels requested December interviews with Huang and Nvidia's top lawyer as scrutiny shifts to Commerce's oversight of chip exports.",
@@ -1998,6 +2719,40 @@
           "jensen huang",
           "chip",
           "ceo"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Nvidia’s Board Failed Jensen Huang: Randall Peterson",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-13/nvidia-s-board-failed-jensen-huang-randall-peterson-video",
+        "description": "Randall Peterson, founding director of the London Business School Leadership Institute, believes the board of Nvidia failed both the company and Huang. He speaks with Vonnie Quinn and Bailey Lipschultz on “The Close”. (Source: Bloomberg)",
+        "published": "2026-11-13T23:20:08.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_markets",
+        "priority": 1,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
+        "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
+        "description": "The Republican-led Congress wants to see Jensen Huang in Washington before Democrats take control in January.",
+        "published": "2026-11-13T22:28:19.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang"
         ],
         "category": "chips_cloud"
       },
@@ -2249,6 +3004,24 @@
         "category": "chips_cloud"
       },
       {
+        "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+        "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+        "description": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+        "published": "2026-11-13T18:40:30.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "nvidia",
+          "ai model",
+          "chip"
+        ],
+        "category": "chips_cloud"
+      },
+      {
         "title": "Banned Nvidia Chips Installed at China Data Center Linked to Alice Huang",
         "link": "https://www.bloomberg.com/news/articles/2026-11-13/banned-nvidia-chips-installed-at-china-data-center-linked-to-alice-huang",
         "description": "A Chinese company founded by Alice Huang, the woman at the center of a controversy dogging Nvidia Corp., procured smuggled AI chips that were installed at a Shanghai data center with links to Megaspeed International Pte, according to documents reviewed by Bloomberg News.",
@@ -2333,6 +3106,61 @@
           "gpu",
           "data center",
           "anthropic"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "China’s $3.2 Billion AI Pipeline Still Calls for Nvidia Chips Washington Restricts",
+        "link": "https://decrypt.co/383266/china-ai-pipeline-nvidia-chips-washington-restricts",
+        "description": "Chinese data center projects are still being designed around restricted Nvidia processors, even as Beijing pushes domestic alternatives.",
+        "published": "2026-11-13T20:45:03.000Z",
+        "source": "Decrypt",
+        "sourceKey": "decrypt",
+        "priority": 3,
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/China-USA-gID_7.jpg@png",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "nvidia",
+          "chip",
+          "billion",
+          "data center"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Nvidia scandal sparks Washington blame game over China chip exports",
+        "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-scandal-sparks-washington-blame-game-over-china-chip-exports",
+        "description": "",
+        "published": "2026-11-13T23:37:01.039Z",
+        "source": "Nikkei Asia",
+        "sourceKey": "nikkei_asia",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "nvidia",
+          "chip"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Some in China question the timing of reports on the relationship between Jensen Huang and Alice Huang; Trump is set to meet Xi Jinping in Shenzhen next week",
+        "link": "https://www.techmeme.com/261113/p22#a261113p22",
+        "description": "Some in China question the timing of reports on the relationship between Jensen Huang and Alice Huang; Trump is set to meet Xi Jinping in Shenzhen next week — Reports of resigned CEO Jensen Huang's relationship with an alleged Chinese spy may lead to tighter restrictions on U.S. chip sales …",
+        "published": "2026-11-13T18:15:06.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261113/i22.jpg",
+        "via": "NBC News",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "jensen huang",
+          "chip",
+          "ceo"
         ],
         "category": "chips_cloud"
       },
@@ -2540,6 +3368,38 @@
           "jensen huang",
           "nvidia",
           "chipmaker"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Claim your Google Cloud Credits in Google AI Studio",
+        "link": "https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/",
+        "description": "Claim your Google Cloud Credits in Google AI Studio",
+        "published": "2026-11-13T20:30:00.000Z",
+        "source": "Google",
+        "sourceKey": "google_blog",
+        "priority": 1,
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Studio_BlogBanner_990x556.max-600x600.format-webp.webp",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "A trading strategy to ride out the Nvidia uncertainty and generate income in the process",
+        "link": "https://www.cnbc.com/2026/11/13/a-trading-strategy-to-ride-out-the-nvidia-uncertainty-and-generate-income-in-the-process.html",
+        "description": "By deploying a persistent covered call strategy, investors can leverage the exact fear driving the stock down to generate robust, risk-reducing income.",
+        "published": "2026-11-13T19:30:36.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_top",
+        "priority": 1,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "nvidia"
         ],
         "category": "chips_cloud"
       },
@@ -2871,6 +3731,22 @@
         "category": "chips_cloud"
       },
       {
+        "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+        "link": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+        "description": "Article URL: https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas Comments URL: https://news.ycombinator.com/item?id=50487864 Points: 260 # Comments: 141",
+        "published": "2026-11-13T18:40:44.000Z",
+        "source": "Hacker News",
+        "sourceKey": "hackernews",
+        "priority": 2,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "nvidia"
+        ],
+        "category": "chips_cloud"
+      },
+      {
         "title": "Driver-update - AMD Radeon Software Adrenalin Edition 26.11.1 Optional",
         "link": "https://tweakers.net/downloads/79058/amd-radeon-software-adrenalin-edition-26111-optional.html",
         "description": "AMD heeft een nieuwe versie van zijn Radeon Software Adrenalin Edition-drivers uitgebracht. De drivers zijn geschikt voor de RX 5000-, RX 6000, RX 7000 en RX9000-serie. In versie 26.11.1 is een optionele update en moet een fout verhelpen die heel erg veel data naar de systeemschijf deed schrijven op systemen met een RX 7000, wat mogelijk to slijtage van de SSD kon leiden. De complete changelog voor deze uitgave kan hieronder worden gevonden. Fixed Issues",
@@ -2949,6 +3825,24 @@
         "matchedKeywords": [
           "chipmaker",
           "artificial intelligence"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Axelera's Titania-chip werkt met Lpddr-geheugen en past in bestaande datacenters",
+        "link": "https://tweakers.net/nieuws/254518/axeleras-titania-chip-werkt-met-lpddr-geheugen-en-past-in-bestaande-datacenters.html",
+        "description": "De Nederlandse AI-start-up Axelera heeft de specificaties bekendgemaakt van zijn AI-chiplet Titania. Die chip is gemaakt zodat gpu's in bestaande datacenterracks met luchtkoeling kunnen worden gezet, zonder dat speciale vloeistofkoeling nodig is. De chip gebruikt verder Lpddr6-geheugen in plaats van HBM, terwijl dat laatste juist gangbaarder is voor AI-systemen.",
+        "published": "2026-11-13T18:37:49.000Z",
+        "source": "Tweakers",
+        "sourceKey": "tweakers",
+        "priority": 2,
+        "image": null,
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "chip",
+          "gpu",
+          "hbm"
         ],
         "category": "chips_cloud"
       },
@@ -3083,6 +3977,55 @@
         "category": "ev_autonomous"
       },
       {
+        "title": "BYD’s new flagship Tang SUV starts at about $34,000 with two enormous screens",
+        "link": "https://electrek.co/2026/11/13/byd-opens-tang-ev-orders-two-enormous-screens-for-34000/",
+        "description": "BYD opened pre-orders for the third-generation Tang starting at about $34,000 in China. This five-seat flagship SUV packs more than you’d expect for the money, with two massive 30-inch-plus screens inside and up to 850 km (528 miles) of CLTC range. more…",
+        "published": "2026-11-13T21:38:04.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/BYD-Tang-EV.jpeg?quality=82&#038;strip=all&#038;w=1400",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "byd"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Podcast: Tesla trims are falling like flies, Hyundai 2027 lineup, and BYD’s Rolls-Royce",
+        "link": "https://electrek.co/2026/11/13/podcast-tesla-trims-are-falling-like-flies-hyundai-2027-lineup-and-byds-rolls-royce/",
+        "description": "In the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we’ll discuss Tesla trims falling like flies, Hyundai’s 2027 lineup, and BYD’s Rolls-Royce. more…",
+        "published": "2026-11-13T20:49:15.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "tesla",
+          "byd"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Tesla stops selling every Cybertruck except the $109,990 Cyberbeast",
+        "link": "https://electrek.co/2026/11/13/tesla-only-sells-cybertruck-cyberbeast-109990/",
+        "description": "Tesla is now only selling one version of the Cybertruck in the US: the tri-motor Cyberbeast, which just got another $7,500 price hike to $109,990. The Dual Motor and Premium AWD trims are still listed on Tesla’s configurator, but both are greyed out and can’t be selected. So the cheapest Cybertruck you can order today costs $109,990, up 57% from $69,990 in early August. more…",
+        "published": "2026-11-13T18:13:44.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/image_7594a0.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "tesla"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
         "title": "The VW ID. Buzz Is Getting A New Job As A Robotaxi",
         "link": "https://insideevs.com/news/815293/vw-volkswagen-id-buzz-robotaxi/",
         "description": "May Mobility plans to bring 10,000 driverless ID. Buzzes to a road near you.",
@@ -3129,6 +4072,115 @@
           "byd"
         ],
         "category": "ev_autonomous"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
+        "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
+        "description": "Analysts see no direct link between Nvidia and bitcoin's decline, pointing instead to investor capital headed into Anthropic as well as a broader risk-off move.",
+        "published": "2026-11-13T18:39:58.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/8d2811403b51a25a1655a9792efd3652f2a4b825-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+        "baseScore": 13,
+        "relevanceScore": 13,
+        "matchedKeywords": [
+          "anthropic",
+          "ipo",
+          "bitcoin",
+          "nvidia"
+        ],
+        "category": "crypto"
+      },
+      {
+        "title": "Morning Minute: Crypto Plummets as Jensen Huang Exits Nvidia",
+        "link": "https://decrypt.co/383222/morning-minute-crypto-plummets-as-jensen-huang-exits-nvidia",
+        "description": "Bitcoin fell all the way to $68,000 overnight and hit a new three-month low. But are there reasons for hope?",
+        "published": "2026-11-13T13:03:40.000Z",
+        "source": "Decrypt",
+        "sourceKey": "decrypt",
+        "priority": 3,
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-down-decrypt-style-gID_7.png@png",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang",
+          "bitcoin"
+        ],
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin falls to 12-week low, Strategy and Metaplanet to lose MSCI index membership, and more",
+        "link": "https://www.theblock.co/newsletters/the-daily/2026-11-12-bitcoin-12-week-low-strategy-metaplanet-msci-more-crypto-news-439049",
+        "description": "In today's newsletter, bitcoin falls to 12-week low as Jensen Huang's exit from Nvidia rattles markets; Strategy, Metaplanet to lose MSCI index membership on Nov. 30; and more.",
+        "published": "2026-11-13T04:20:00.000Z",
+        "source": "The Block",
+        "sourceKey": "theblock",
+        "priority": 3,
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/bitcoin-market.png",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "bitcoin",
+          "nvidia",
+          "jensen huang"
+        ],
+        "category": "crypto"
+      },
+      {
+        "title": "U.S. seizes $1.2 billion in cryptocurrency stolen from Binance",
+        "link": "https://www.cnbc.com/2026/11/13/us-seizes-binance-hack-crypto.html",
+        "description": "The DOJ said it was taking action against the North Korean government's \"schemes to fund its regime through the massive theft of cryptocurrency.\"",
+        "published": "2026-11-13T12:03:24.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "billion",
+          "doj"
+        ],
+        "category": "crypto"
+      },
+      {
+        "title": "Bitcoin tumbles below $69,000 as Nvidia turmoil adds to Fed-driven market jitters",
+        "link": "https://www.theblock.co/news/markets/2026-11-13-bitcoin-tumbles-below-69000-439643",
+        "description": "A total of $798 million in crypto positions has been liquidated over the past four hours, including $718.5 million in long positions.",
+        "published": "2026-11-13T06:23:43.000Z",
+        "source": "The Block",
+        "sourceKey": "theblock",
+        "priority": 3,
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/bitcoin_nvidia_fed_1920x1080.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "nvidia",
+          "bitcoin"
+        ],
+        "category": "crypto"
+      },
+      {
+        "title": "JPMorgan’s Bitcoin and Crypto-Linked Holdings Approach $1 Billion",
+        "link": "https://decrypt.co/383267/jpmorgan-bitcoin-crypto-linked-holdings-approach-1-billion",
+        "description": "The bank’s Q3 13F shows roughly $981 million across Bitcoin ETFs, Strategy and Coinbase—likely over $1 billion counting Robinhood and miners.",
+        "published": "2026-11-13T20:16:03.000Z",
+        "source": "Decrypt",
+        "sourceKey": "decrypt",
+        "priority": 3,
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/jp-morgan-jamie-dimon-decrypt-style-01-gID_7.png@png",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "billion",
+          "bitcoin",
+          "coinbase"
+        ],
+        "category": "crypto"
       }
     ],
     "regulation": [
@@ -3193,6 +4245,23 @@
         "category": "regulation"
       },
       {
+        "title": "Pixelated 125: Google’s glasses, Meta’s baggage",
+        "link": "https://9to5google.com/2026/11/13/pixelated-125-googles-glasses-metas-baggage/",
+        "description": "Welcome to Pixelated episode 125. This week, Abner has tried out Google’s new lineup of “Intelligent Eyewear,” and he’s got plenty to share with Damien and Will. Can Google nail the smart glasses experience while digging itself out of a privacy hole Meta first dug? For as much work as the company’s doing, only time might tell. Enjoy the show? You can listen to our weekly members-only Pixelated Pro bonus episode by signing up for 9to5Google Pro for just $5 per month, or about $1 per episode. Spon",
+        "published": "2026-11-13T22:00:00.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/03/Pixelated-cover.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "google",
+          "meta"
+        ],
+        "category": "regulation"
+      },
+      {
         "title": "Sources: social media companies' payouts in teen addiction suits mostly ranged from $2M-$2.5M; Meta agreed to pay two teens a combined $7M in the past two weeks",
         "link": "https://www.techmeme.com/261112/p73#a261112p73",
         "description": "Sources: social media companies' payouts in teen addiction suits mostly ranged from $2M-$2.5M; Meta agreed to pay two teens a combined $7M in the past two weeks — Seven confidential deals with young plaintiffs ranged from $2 million to $2.5 million. And the remaining personal injury lawsuits …",
@@ -3206,6 +4275,39 @@
         "relevanceScore": 6,
         "matchedKeywords": [
           "meta",
+          "lawsuit"
+        ],
+        "category": "regulation"
+      },
+      {
+        "title": "How Nvidia used a \"scorched earth, adversarial attitude\" targeting proponents of export controls in DC, invoking Trump's name to get license approvals expedited (Semafor)",
+        "link": "https://www.techmeme.com/261113/p29#a261113p29",
+        "description": "Semafor: How Nvidia used a “scorched earth, adversarial attitude” targeting proponents of export controls in DC, invoking Trump's name to get license approvals expedited — THE SCOOP — In January, the general counsel for what was then the world's most valuable company delivered …",
+        "published": "2026-11-13T21:01:40.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261113/i29.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "nvidia"
+        ],
+        "category": "regulation"
+      },
+      {
+        "title": "Supreme Court agrees to hear Robinhood challenge to IPO information omission lawsuit",
+        "link": "https://www.cnbc.com/2026/11/13/robinhood-supreme-court-ipo-lawsuit.html",
+        "description": "The Trump administration had urged the Supreme Court to hear an appeal by Robinhood of a lower-court's decision to revive an investors' lawsuit over the IPO.",
+        "published": "2026-11-13T20:48:13.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_top",
+        "priority": 1,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "ipo",
           "lawsuit"
         ],
         "category": "regulation"
@@ -3239,6 +4341,38 @@
         "relevanceScore": 5,
         "matchedKeywords": [
           "nvidia"
+        ],
+        "category": "regulation"
+      },
+      {
+        "title": "Epic wants Apple punished for following letter but not spirit of the ruling",
+        "link": "https://appleinsider.com/articles/26/11/13/epic-wants-apple-punished-for-following-letter-but-not-spirit-of-the-ruling?utm_source=rss",
+        "description": "By any measure, Apple is precisely complying with the ruling that the Epic vs. Apple judge put down about App Store steering and fees. In a filing to the US Supreme Court, Epic wants Apple punished for not following the spirit of the ruling, though. The next chapter of the saga begins on January 11, 2027 with oral arguments. Continue Reading on AppleInsider | Discuss on our Forums",
+        "published": "2026-11-13T20:34:19.000Z",
+        "source": "AppleInsider",
+        "sourceKey": "appleinsider",
+        "priority": 2,
+        "image": "https://photos5.appleinsider.com/gallery/38439-73056-37289-69971-37214-69760-200817-FortniteAd-xl-xl-xl.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "regulation"
+      },
+      {
+        "title": "Epic formally asks SCOTUS to uphold contempt ruling against Apple",
+        "link": "https://9to5mac.com/2026/11/13/epic-formally-asks-scotus-to-uphold-contempt-ruling-against-apple/",
+        "description": "Epic Games has submitted its official response to Apple’s Supreme Court appeal, urging the justices to uphold the contempt ruling over App Store payment restrictions. Here are the details. more…",
+        "published": "2026-11-13T20:00:50.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/03/epic-app-store.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
         ],
         "category": "regulation"
       },
@@ -3291,135 +4425,6 @@
         "category": "regulation"
       }
     ],
-    "space": [
-      {
-        "title": "Elon Musk’s SpaceX Starship: Why the Rocket Is Critical to Its Future",
-        "link": "https://www.bloomberg.com/graphics/2026-spacex-starship-rocket-future/",
-        "description": "For the full experience visit: SpaceX’s Future Hinges on Starship. Can It Deliver?",
-        "published": "2026-11-13T13:30:23.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "baseScore": 9,
-        "relevanceScore": 9,
-        "matchedKeywords": [
-          "spacex",
-          "elon musk",
-          "starship"
-        ],
-        "category": "space"
-      },
-      {
-        "title": "Freitag: Störungen bei Microsoft-Diensten, Ukraine-Abwehr von Starlink gebremst",
-        "link": "https://www.heise.de/news/Freitag-Stoerungen-bei-Microsoft-Diensten-Ukraine-Abwehr-von-Starlink-gebremst-11523646.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-        "description": "Serverausfälle bei Outlook & Co + Vorwürfe der Ukraine wegen Starlink + Nvidia-Ermittlungen & Jensen-Affären + Angriffe auf Webhoster + Datenschutz-Geschichte",
-        "published": "2026-11-13T05:15:00.000Z",
-        "source": "heise online",
-        "sourceKey": "heise",
-        "priority": 2,
-        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/8/4/9/friday-4dda6506d10d0f16.jpeg",
-        "baseScore": 7,
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "microsoft",
-          "starlink",
-          "nvidia"
-        ],
-        "category": "space"
-      },
-      {
-        "title": "'Don't panic': SpaceX pens familiar message on Starship ahead of historic double-catch test flight",
-        "link": "https://www.space.com/space-exploration/launches-spacecraft/dont-panic-spacex-pens-familiar-message-on-starship-ahead-of-historic-double-catch-test-flight",
-        "description": "SpaceX has inked a familiar phrase on the Starship rocket that will fly a historic mission today (Nov. 13) — \"Don't panic.\" And the company has invoked those words before.",
-        "published": "2026-11-13T08:03:59.000Z",
-        "source": "Space.com",
-        "sourceKey": "spacecom",
-        "priority": 2,
-        "image": "https://cdn.mos.cms.futurecdn.net/wPeeKCdF2RvbiNJiDsUjER-1920-80.jpg",
-        "baseScore": 5,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "spacex",
-          "starship"
-        ],
-        "category": "space",
-        "alsoIn": [
-          {
-            "source": "Space.com",
-            "title": "Double-catch drama: Why Starship's Flight 15 is so important to SpaceX",
-            "link": "https://www.space.com/space-exploration/launches-spacecraft/double-catch-drama-why-starships-flight-15-is-so-important-to-spacex"
-          }
-        ]
-      },
-      {
-        "title": "Watch SpaceX attempt a historic Starship launch and double-catch landing today (Nov. 13)",
-        "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-historic-double-catch-starship-test-flight-today-watch-it-live",
-        "description": "SpaceX plans to launch its Starship megarocket on an unprecedented double-catch mission today (Nov. 13), and you can watch the action live.",
-        "published": "2026-11-13T05:05:00.000Z",
-        "source": "Space.com",
-        "sourceKey": "spacecom",
-        "priority": 2,
-        "image": "https://cdn.mos.cms.futurecdn.net/2Bd2iSfNPm9ugmCJu55V3P-1920-80.jpg",
-        "baseScore": 5,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "spacex",
-          "starship"
-        ],
-        "category": "space"
-      },
-      {
-        "title": "SpaceX Starship is going for a catch that could change spaceflight forever",
-        "link": "https://www.teslarati.com/spacex-starship-flight-15-double-catch/",
-        "description": "SpaceX will try to catch both Starship stages today, a first for any orbital rocket. The post SpaceX Starship is going for a catch that could change spaceflight forever appeared first on TESLARATI.",
-        "published": "2026-11-13T15:13:56.000Z",
-        "source": "Teslarati",
-        "sourceKey": "teslarati",
-        "priority": 3,
-        "image": null,
-        "baseScore": 5,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "spacex",
-          "starship"
-        ],
-        "category": "space"
-      },
-      {
-        "title": "King Charles to Join Elton John's Apple Music Radio Show",
-        "link": "https://www.macrumors.com/2026/11/13/king-charles-to-join-apple-music-radio-show/",
-        "description": "King Charles III will join Elton John on Apple Music 1 this Saturday for a special episode of \"Rocket Hour\" marking 50 years of The King's Trust. The episode premieres at 9 a.m. GMT on November 14, the King's 78th birthday. Recorded during his October visit to ‌Apple Music‌'s London studios, the conversation covers the musicians and fundraising concerts associated with the charity throughout its history. Charles and John discuss performances at venues including Wembley Arena and the Royal Albert",
-        "published": "2026-11-13T14:28:41.000Z",
-        "source": "MacRumors",
-        "sourceKey": "macrumors",
-        "priority": 2,
-        "image": "https://images.macrumors.com/article-new/2026/11/rocket-hour-elton-john-king-charles.jpeg",
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "space"
-      },
-      {
-        "title": "Powerful Vulcan Centaur rocket launching for 1st time in 9 months Nov. 14: Watch it live",
-        "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
-        "description": "United Launch Alliance's Vulcan Centaur rocket will launch 40 Amazon internet satellites to orbit on Nov. 14. You can watch the liftoff — Vulcan's first since February —live here at Space.com.",
-        "published": "2026-11-13T11:00:00.000Z",
-        "source": "Space.com",
-        "sourceKey": "spacecom",
-        "priority": 2,
-        "image": "https://cdn.mos.cms.futurecdn.net/vhvNRBhtiDYC4TYL6m5zpf-1920-80.jpg",
-        "baseScore": 3,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "amazon",
-          "satellite"
-        ],
-        "category": "space"
-      }
-    ],
     "other": [
       {
         "title": "The Xiaomi 18 Pro’s rear displays support Google apps, Spotify, and custom GenAI apps",
@@ -3431,12 +4436,47 @@
         "priority": 2,
         "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/xiaomi-18-pro-2.jpg?quality=82&#038;strip=all&#038;w=1400",
         "baseScore": 8,
-        "relevanceScore": 8,
+        "relevanceScore": 9,
         "matchedKeywords": [
           "google",
           "xiaomi"
         ],
-        "category": "other"
+        "category": "other",
+        "alsoIn": [
+          {
+            "source": "Android Authority",
+            "title": "Google Maps, Spotify, and more are coming to Xiaomi 18 Pro’s rear display",
+            "link": "https://www.androidauthority.com/xiaomi-18-pro-rear-display-features-3735180/"
+          }
+        ]
+      },
+      {
+        "title": "Meta Testing New Prediction-Market App With Employees",
+        "link": "https://www.wsj.com/tech/meta-testing-new-prediction-market-app-with-employees-bf7bacb2?mod=rss_Technology",
+        "description": "Employees can wager on the outcome of questions or events using ‘cred,’ not real money, on the app, which is under development.",
+        "published": "2026-11-13T19:49:00.000Z",
+        "source": "WSJ",
+        "sourceKey": "wsj_tech",
+        "priority": 1,
+        "image": "https://images.wsj.net/im-96433340",
+        "baseScore": 5,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "meta"
+        ],
+        "category": "other",
+        "alsoIn": [
+          {
+            "source": "Techmeme",
+            "title": "Sources: Meta staffers are testing a prediction-market app called Takes, letting users wager on the outcome of questions or events using \"cred\", not real money",
+            "link": "https://www.techmeme.com/261113/p26#a261113p26"
+          },
+          {
+            "source": "The Block",
+            "title": "Meta tests prediction market app using ‘cred’ points instead of cash: WSJ",
+            "link": "https://www.theblock.co/news/markets/2026-11-13-meta-tests-prediction-market-app-using-cred-points-instead-cash-wsj-440215"
+          }
+        ]
       },
       {
         "title": "Widespread Microsoft Outage Roils Businesses, Governments",
@@ -3448,9 +4488,64 @@
         "priority": 1,
         "image": "https://images.wsj.net/im-48306555",
         "baseScore": 5,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "microsoft"
+        ],
+        "category": "other",
+        "alsoIn": [
+          {
+            "source": "Techmeme",
+            "title": "Microsoft says Microsoft 365 availability is improving as the outage stretches into a second day, disrupting governments, hospitals, and businesses globally",
+            "link": "https://www.techmeme.com/261113/p21#a261113p21"
+          }
+        ]
+      },
+      {
+        "title": "Microsoft outage wreaks havoc in Asia, exposing dependence risk",
+        "link": "https://asia.nikkei.com/business/technology/microsoft-outage-wreaks-havoc-in-asia-exposing-dependence-risk",
+        "description": "",
+        "published": "2026-11-13T23:37:01.039Z",
+        "source": "Nikkei Asia",
+        "sourceKey": "nikkei_asia",
+        "priority": 1,
+        "image": null,
+        "baseScore": 5,
         "relevanceScore": 5,
         "matchedKeywords": [
           "microsoft"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+        "link": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+        "description": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
+        "published": "2026-11-13T23:00:00.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "amazon"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Amazon Forced Into First North American Union Pact in Canada",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-13/amazon-s-first-north-american-union-contract-imposed-in-canada",
+        "description": "Hundreds of Amazon.com Inc. warehouse employees in western Canada are the company’s first North American logistics workers to be covered by a union contract after an independent arbitrator on Friday imposed terms between the online retailer and Unifor, one of the largest private-sector unions in the nation.",
+        "published": "2026-11-13T17:27:39.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "amazon"
         ],
         "category": "other"
       },
@@ -3515,6 +4610,22 @@
         "relevanceScore": 5,
         "matchedKeywords": [
           "meta"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Opinion | Jensen Huang and the World’s Information Chaos",
+        "link": "https://www.wsj.com/opinion/jensen-huang-and-the-worlds-information-chaos-f73f5d7e?mod=rss_Technology",
+        "description": "Was it a brilliant operation by Chinese intelligence or trivial gamesmanship that spun out of control?",
+        "published": "2026-11-13T20:15:00.000Z",
+        "source": "WSJ",
+        "sourceKey": "wsj_tech",
+        "priority": 1,
+        "image": "https://opinion-images.wsj.net/im-30250001",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "jensen huang"
         ],
         "category": "other"
       },
@@ -3595,6 +4706,38 @@
         "relevanceScore": 4,
         "matchedKeywords": [
           "jensen huang"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Apple details HomeView facial recognition, repair options, and more in new support guides",
+        "link": "https://9to5mac.com/2026/11/13/apple-details-homeview-facial-recognition-repair-options-and-more-in-new-support-guides/",
+        "description": "Coinciding with the launch of Apple HomeView, the company has been updating its support website with new guides covering everything from facial recognition and user profiles to troubleshooting and repairs. Here are the details. more…",
+        "published": "2026-11-13T21:59:21.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/homeview-hand-touch.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Disney's 3D movies shine on Meta's Quest 3, it's just a shame it took so long",
+        "link": "https://www.engadget.com/2316342/meta-quest-3-disney-plus-3d-movies-hands-on/",
+        "description": "Finally, you can watch Avatar in 3D HFR at home.",
+        "published": "2026-11-13T19:00:00.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/disneys-3d-movies-shine-on-metas-quest-3-its-just-a-shame-it-took-so-long/l-intro-1794595978.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "meta"
         ],
         "category": "other"
       },
@@ -3807,6 +4950,22 @@
         "category": "other"
       },
       {
+        "title": "Microsoft's massive M365 outage stretches past 27 hours as its fixes keep failing",
+        "link": "https://www.theregister.com/saas/2026/11/13/microsofts-massive-m365-outage-stretches-past-27-hours-as-its-fixes-keep-failing/5309609",
+        "description": "Hasn't completely ruled out cyberattack as cause of incident that's damaged Exchange Online and services that rely on it",
+        "published": "2026-11-13T06:40:06.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=5309709&width=800",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "microsoft"
+        ],
+        "category": "other"
+      },
+      {
         "title": "Google Sheets now lets others explore your data without accessing your spreadsheet",
         "link": "https://www.androidauthority.com/google-sheets-canvas-sharing-3734807/",
         "description": "Let your data do the talking, without revealing everything else.",
@@ -3903,6 +5062,22 @@
         "category": "other"
       },
       {
+        "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
+        "link": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
+        "description": "The CMF Speaker S comes in four colors: white, dark gray, orange, and turquoise. | Image: CMF by Nothing Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazon and Nothing for just $39. That’s a solid $20 discount and the lowest price we’ve seen on Nothing’s newfangled wireless speaker, which hit the market about a month ago. CMF by Nothing Speaker S",
+        "published": "2026-11-13T20:30:00.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/cmf-by-nothing-speaker-s-breakout.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "amazon"
+        ],
+        "category": "other"
+      },
+      {
         "title": "UK Gilts Head for Worst Weekly Drop Since September",
         "link": "https://www.bloomberg.com/news/newsletters/2026-11-13/uk-gilts-head-for-worst-weekly-drop-since-september",
         "description": "Plus, a protracted software outage at Microsoft",
@@ -3935,79 +5110,184 @@
         "category": "other"
       }
     ],
-    "crypto": [
+    "space": [
       {
-        "title": "Morning Minute: Crypto Plummets as Jensen Huang Exits Nvidia",
-        "link": "https://decrypt.co/383222/morning-minute-crypto-plummets-as-jensen-huang-exits-nvidia",
-        "description": "Bitcoin fell all the way to $68,000 overnight and hit a new three-month low. But are there reasons for hope?",
-        "published": "2026-11-13T13:03:40.000Z",
-        "source": "Decrypt",
-        "sourceKey": "decrypt",
-        "priority": 3,
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-down-decrypt-style-gID_7.png@png",
-        "baseScore": 8,
+        "title": "Elon Musk’s SpaceX Starship: Why the Rocket Is Critical to Its Future",
+        "link": "https://www.bloomberg.com/graphics/2026-spacex-starship-rocket-future/",
+        "description": "For the full experience visit: SpaceX’s Future Hinges on Starship. Can It Deliver?",
+        "published": "2026-11-13T13:30:23.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "spacex",
+          "elon musk",
+          "starship"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "SpaceX Starship Launches on Flight Test",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-13/spacex-starship-launches-on-flight-test-video",
+        "description": "SpaceX’s Starship rocket took off from the Starbase launch facility in South Texas on a flight test to bring both sections of the vehicle safely back to Earth. Ed Ludlow reports. (Source: Bloomberg)",
+        "published": "2026-11-13T23:28:02.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
         "relevanceScore": 8,
         "matchedKeywords": [
-          "nvidia",
-          "jensen huang",
-          "bitcoin"
+          "spacex",
+          "starship"
         ],
-        "category": "crypto"
+        "category": "space",
+        "alsoIn": [
+          {
+            "source": "CNBC",
+            "title": "SpaceX launches Starship in key test flight of massive rocket",
+            "link": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html"
+          },
+          {
+            "source": "Space.com",
+            "title": "'Don't panic': SpaceX pens familiar message on Starship ahead of historic double-catch test flight",
+            "link": "https://www.space.com/space-exploration/launches-spacecraft/dont-panic-spacex-pens-familiar-message-on-starship-ahead-of-historic-double-catch-test-flight"
+          },
+          {
+            "source": "Space.com",
+            "title": "Double-catch drama: Why Starship's Flight 15 is so important to SpaceX",
+            "link": "https://www.space.com/space-exploration/launches-spacecraft/double-catch-drama-why-starships-flight-15-is-so-important-to-spacex"
+          },
+          {
+            "source": "Space.com",
+            "title": "SpaceX launches Starship on ambitious 22-hour Flight 15 test, but aborts booster 'chopsticks' catch (video)",
+            "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship"
+          }
+        ]
       },
       {
-        "title": "Bitcoin falls to 12-week low, Strategy and Metaplanet to lose MSCI index membership, and more",
-        "link": "https://www.theblock.co/newsletters/the-daily/2026-11-12-bitcoin-12-week-low-strategy-metaplanet-msci-more-crypto-news-439049",
-        "description": "In today's newsletter, bitcoin falls to 12-week low as Jensen Huang's exit from Nvidia rattles markets; Strategy, Metaplanet to lose MSCI index membership on Nov. 30; and more.",
-        "published": "2026-11-13T04:20:00.000Z",
-        "source": "The Block",
-        "sourceKey": "theblock",
-        "priority": 3,
-        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/bitcoin-market.png",
-        "baseScore": 6,
-        "relevanceScore": 6,
+        "title": "Freitag: Störungen bei Microsoft-Diensten, Ukraine-Abwehr von Starlink gebremst",
+        "link": "https://www.heise.de/news/Freitag-Stoerungen-bei-Microsoft-Diensten-Ukraine-Abwehr-von-Starlink-gebremst-11523646.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "Serverausfälle bei Outlook & Co + Vorwürfe der Ukraine wegen Starlink + Nvidia-Ermittlungen & Jensen-Affären + Angriffe auf Webhoster + Datenschutz-Geschichte",
+        "published": "2026-11-13T05:15:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/0/8/4/9/friday-4dda6506d10d0f16.jpeg",
+        "baseScore": 7,
+        "relevanceScore": 7,
         "matchedKeywords": [
-          "bitcoin",
-          "nvidia",
-          "jensen huang"
+          "microsoft",
+          "starlink",
+          "nvidia"
         ],
-        "category": "crypto"
+        "category": "space"
       },
       {
-        "title": "U.S. seizes $1.2 billion in cryptocurrency stolen from Binance",
-        "link": "https://www.cnbc.com/2026/11/13/us-seizes-binance-hack-crypto.html",
-        "description": "The DOJ said it was taking action against the North Korean government's \"schemes to fund its regime through the massive theft of cryptocurrency.\"",
-        "published": "2026-11-13T12:03:24.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_tech",
-        "priority": 1,
+        "title": "Watch SpaceX attempt a historic Starship launch and double-catch landing today (Nov. 13)",
+        "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-historic-double-catch-starship-test-flight-today-watch-it-live",
+        "description": "SpaceX plans to launch its Starship megarocket on an unprecedented double-catch mission today (Nov. 13), and you can watch the action live.",
+        "published": "2026-11-13T05:05:00.000Z",
+        "source": "Space.com",
+        "sourceKey": "spacecom",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/2Bd2iSfNPm9ugmCJu55V3P-1920-80.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "spacex",
+          "starship"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "SpaceX Starship is going for a catch that could change spaceflight forever",
+        "link": "https://www.teslarati.com/spacex-starship-flight-15-double-catch/",
+        "description": "SpaceX will try to catch both Starship stages today, a first for any orbital rocket. The post SpaceX Starship is going for a catch that could change spaceflight forever appeared first on TESLARATI.",
+        "published": "2026-11-13T15:13:56.000Z",
+        "source": "Teslarati",
+        "sourceKey": "teslarati",
+        "priority": 3,
         "image": null,
         "baseScore": 5,
         "relevanceScore": 5,
         "matchedKeywords": [
-          "billion",
-          "doj"
+          "spacex",
+          "starship"
         ],
-        "category": "crypto"
+        "category": "space"
       },
       {
-        "title": "Bitcoin tumbles below $69,000 as Nvidia turmoil adds to Fed-driven market jitters",
-        "link": "https://www.theblock.co/news/markets/2026-11-13-bitcoin-tumbles-below-69000-439643",
-        "description": "A total of $798 million in crypto positions has been liquidated over the past four hours, including $718.5 million in long positions.",
-        "published": "2026-11-13T06:23:43.000Z",
-        "source": "The Block",
-        "sourceKey": "theblock",
-        "priority": 3,
-        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/bitcoin_nvidia_fed_1920x1080.jpg",
-        "baseScore": 5,
-        "relevanceScore": 5,
+        "title": "Rocket Lab launching 100th space mission early on Nov. 14: Watch it live",
+        "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-100th-launch-iqps-electron-sar-satellite",
+        "description": "Rocket Lab will launch its 100th space mission shortly after midnight on Saturday (Nov. 14), and you can watch the milestone liftoff live.",
+        "published": "2026-11-13T20:00:00.000Z",
+        "source": "Space.com",
+        "sourceKey": "spacecom",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/cFwdJn2eVKRuusYHDbMyRm-1920-80.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
         "matchedKeywords": [
-          "nvidia",
-          "bitcoin"
+          "rocket lab"
         ],
-        "category": "crypto"
+        "category": "space"
+      },
+      {
+        "title": "King Charles to Join Elton John's Apple Music Radio Show",
+        "link": "https://www.macrumors.com/2026/11/13/king-charles-to-join-apple-music-radio-show/",
+        "description": "King Charles III will join Elton John on Apple Music 1 this Saturday for a special episode of \"Rocket Hour\" marking 50 years of The King's Trust. The episode premieres at 9 a.m. GMT on November 14, the King's 78th birthday. Recorded during his October visit to ‌Apple Music‌'s London studios, the conversation covers the musicians and fundraising concerts associated with the charity throughout its history. Charles and John discuss performances at venues including Wembley Arena and the Royal Albert",
+        "published": "2026-11-13T14:28:41.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/11/rocket-hour-elton-john-king-charles.jpeg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "Powerful Vulcan Centaur rocket launching for 1st time in 9 months Nov. 14: Watch it live",
+        "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+        "description": "United Launch Alliance's Vulcan Centaur rocket will launch 40 Amazon internet satellites to orbit on Nov. 14. You can watch the liftoff — Vulcan's first since February —live here at Space.com.",
+        "published": "2026-11-13T11:00:00.000Z",
+        "source": "Space.com",
+        "sourceKey": "spacecom",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/vhvNRBhtiDYC4TYL6m5zpf-1920-80.jpg",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "amazon",
+          "satellite"
+        ],
+        "category": "space"
       }
     ],
     "devices": [
+      {
+        "title": "Apple TV 4K Launch Day Deal Arrives at Amazon",
+        "link": "https://www.macrumors.com/2026/11/13/apple-tv-4k-launch-day-deal/",
+        "description": "Amazon today is back with a discount on the brand new A19 Apple TV 4K for launch day, available for $289.99, down from $299.00. This is a match of the pre-order discount we saw last week. Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. Amazon provides an estimated delivery date of tomorrow, November 14. Although only a $9 discount, this is the best price we've trac",
+        "published": "2026-11-13T18:16:52.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/10/Apple-TV-4K-4th-Generation-Top-View3.jpg",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "apple",
+          "amazon"
+        ],
+        "category": "devices"
+      },
       {
         "title": "Apple announces release dates for the first Apple Home Collection smart devices",
         "link": "https://www.theverge.com/tech/1032920/apple-smart-home-collection-release-ship-dates-available-pricing",
@@ -4030,6 +5310,23 @@
             "link": "https://appleinsider.com/articles/26/11/13/first-apple-home-collection-devices-can-now-be-ordered?utm_source=rss"
           }
         ]
+      },
+      {
+        "title": "YouTube is having problems with the new Apple TV 4K",
+        "link": "https://www.androidauthority.com/youtube-apple-tv-4k-problems-3735158/",
+        "description": "YouTube won't work on Apple's Google TV Streamer rival.",
+        "published": "2026-11-13T19:45:19.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2024/08/YouTube-app-logo-scaled-e1724175112162.jpg",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "apple",
+          "google"
+        ],
+        "category": "devices"
       },
       {
         "title": "I’d rather use Android XR glasses over Meta Ray-Bans for the app alone",
@@ -4064,6 +5361,34 @@
           "google"
         ],
         "category": "devices"
+      },
+      {
+        "title": "tvOS 27.2.1 launching soon with Siri AI for older Apple TV 4K models",
+        "link": "https://9to5mac.com/2026/11/13/tvos-27-2-1-launching-soon-with-siri-ai-for-older-apple-tv-4k-models/",
+        "description": "Today the new Apple TV 4K has arrived (order here) with Siri AI as a major tentpole feature. But older Apple TV 4K models are about to get Siri AI too via a tvOS 27.2.1 software update. more…",
+        "published": "2026-11-13T14:15:56.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-tv-homepod-mini-siri-ai.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices",
+        "alsoIn": [
+          {
+            "source": "MacRumors",
+            "title": "Apple Releases tvOS 27.2.1 With Siri AI for Older Apple TVs",
+            "link": "https://www.macrumors.com/2026/11/13/apple-releases-tvos-27-2-1/"
+          },
+          {
+            "source": "9to5Mac",
+            "title": "Apple releases tvOS 27.2.1 and HomePod 27.2.1, here’s what’s new",
+            "link": "https://9to5mac.com/2026/11/13/apple-releases-tvos-27-2-1-and-homepod-27-2-1-heres-whats-new/"
+          }
+        ]
       },
       {
         "title": "PSA: YouTube app not working on your new Apple TV? Here’s the fix",
@@ -4159,6 +5484,55 @@
             "link": "https://www.androidauthority.com/nothing-headphone-1-deal-amazon-3735065/"
           }
         ]
+      },
+      {
+        "title": "Google Pixel bug reveals hidden Private Space when switching between light and dark mode",
+        "link": "https://www.androidauthority.com/google-pixel-private-space-persistent-bug-3735167/",
+        "description": "Google’s November update fixed plenty of bugs, but this Private Space issue wasn’t one of them.",
+        "published": "2026-11-13T21:17:51.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2025/02/android-15-pixel-private-space.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Google gets ready to kill off Pixel 10 Magic Cue in favor of Proactive Assistance",
+        "link": "https://www.androidauthority.com/google-kill-magic-cue-3735173/",
+        "description": "Google appears to be preparing to pull the plug on Magic Cue by the end of 2027.",
+        "published": "2026-11-13T21:10:02.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/pixel-10-pro-magic-cue-settings-app-hero-2-scaled.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Friday’s Android game and app deals: Echoes of Vatheria, Raiders of the North Sea, MEGA MAN, more",
+        "link": "https://9to5toys.com/2026/11/13/todays-highlight-google-play-deals-49/",
+        "description": "The early Black Friday sales are in full swing at Amazon, Walmart, and Best Buy has now launched a suite of new Doorbusters, but we also have Friday’s Google Play app and game deals: Echoes of Vatheria, Raiders of the North Sea, MEGA MAN X DiVE Offline, Streets of Rage 4, Ace Attorney Trilogy, Legend of Keepers, [Premium] RPG Onigo Hunter, Premium-RPG Wizards of Brandel, and more. Alongside the all-time low on the Google Home Speaker and the now available Google Pixel Tag, the Nothing early Blac",
+        "published": "2026-11-13T18:53:06.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Play-collage-508a5e.webp?w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google",
+          "amazon"
+        ],
+        "category": "devices"
       },
       {
         "title": "The MacRumors Show: HomeView and Apple TV 4K First Impressions",
@@ -4281,22 +5655,6 @@
         "sourceKey": "macrumors",
         "priority": 2,
         "image": "https://images.macrumors.com/article-new/2026/10/homeview-lifestyle.jpg",
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "devices"
-      },
-      {
-        "title": "tvOS 27.2.1 launching soon with Siri AI for older Apple TV 4K models",
-        "link": "https://9to5mac.com/2026/11/13/tvos-27-2-1-launching-soon-with-siri-ai-for-older-apple-tv-4k-models/",
-        "description": "Today the new Apple TV 4K has arrived (order here) with Siri AI as a major tentpole feature. But older Apple TV 4K models are about to get Siri AI too via a tvOS 27.2.1 software update. more…",
-        "published": "2026-11-13T14:15:56.000Z",
-        "source": "9to5Mac",
-        "sourceKey": "9to5mac",
-        "priority": 2,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-tv-homepod-mini-siri-ai.jpg?quality=82&#038;strip=all&#038;w=1600",
         "baseScore": 4,
         "relevanceScore": 4,
         "matchedKeywords": [
@@ -4434,5 +5792,5 @@
       }
     ]
   },
-  "totalArticles": 231
+  "totalArticles": 303
 }
