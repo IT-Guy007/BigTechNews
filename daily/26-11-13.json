@@ -4,7 +4,7 @@
   "title": "Friday, Nov 13",
   "dateRange": "November 13, 2026",
   "date": "2026-11-13",
-  "generatedAt": "2026-11-13T23:37:03.423Z",
+  "generatedAt": "2026-11-14T06:28:55.290Z",
   "highlights": [
     {
       "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
@@ -612,6 +612,23 @@
           "ceo",
           "nvidia",
           "jensen huang"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Nvidia’s Board CEO Hunt, Stocks Finish Week Higher, Retail in Focus",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-13/the-close-11-13-2026-video",
+        "description": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Franklin Templeton Institute’s Head Market Strategist Chris Galipeau, Pershing Square’s Founder and CEO Bill Ackman, London Business School Leadership Institute’s Founding Director Randall Peterson, Committee For A Responsible Federal Budget’s President Maya MacGuineas, Real Macro’s CEO and Founder Jeff Currie, Northwestern",
+        "published": "2026-11-13T23:48:58.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_markets",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "nvidia",
+          "ceo"
         ],
         "category": "business"
       },
@@ -1408,6 +1425,24 @@
         "category": "ai"
       },
       {
+        "title": "Amazon has a plan to index the world’s online shopping data",
+        "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+        "description": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their product research on Reddit or Google, and make it more likely shoppers end up at Amazon even if they're searching for a product sold elsewhere. The same goes for AI agents - if A",
+        "published": "2026-11-13T23:49:11.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "amazon",
+          "google",
+          "ai agent"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
         "link": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
         "description": "Researcher traces a path from AI reward hacking to potential human extinction.",
@@ -1473,6 +1508,22 @@
         "matchedKeywords": [
           "openai",
           "chatgpt"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+        "link": "https://openai.com/business/customer-stories/shield",
+        "description": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+        "published": "2026-11-13T08:00:00.000Z",
+        "source": "OpenAI",
+        "sourceKey": "openai_news",
+        "priority": 1,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "openai"
         ],
         "category": "ai"
       },
@@ -5792,5 +5843,5 @@
       }
     ]
   },
-  "totalArticles": 303
+  "totalArticles": 306
 }
