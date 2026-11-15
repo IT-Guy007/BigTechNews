@@ -4,7 +4,7 @@
   "title": "Saturday, Nov 14",
   "dateRange": "November 14, 2026",
   "date": "2026-11-14",
-  "generatedAt": "2026-11-15T01:57:27.229Z",
+  "generatedAt": "2026-11-15T09:29:42.232Z",
   "highlights": [
     {
       "title": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze",
@@ -453,6 +453,22 @@
           "apple",
           "elon musk",
           "starlink"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+        "link": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+        "description": "Article URL: https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax Comments URL: https://news.ycombinator.com/item?id=50497589 Points: 231 # Comments: 21",
+        "published": "2026-11-14T15:04:15.000Z",
+        "source": "Hacker News",
+        "sourceKey": "hackernews",
+        "priority": 2,
+        "image": null,
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "deepseek"
         ],
         "category": "ai"
       },
@@ -2238,6 +2254,22 @@
         "category": "other"
       },
       {
+        "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+        "link": "https://retrocomputing.stackexchange.com/questions/17957",
+        "description": "Article URL: https://retrocomputing.stackexchange.com/questions/17957 Comments URL: https://news.ycombinator.com/item?id=50501594 Points: 208 # Comments: 101",
+        "published": "2026-11-14T22:22:49.000Z",
+        "source": "Hacker News",
+        "sourceKey": "hackernews",
+        "priority": 2,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "other"
+      },
+      {
         "title": "Uber drivers' information stolen in a third-party hack",
         "link": "https://www.engadget.com/2316881/uber-drivers-information-stolen-in-a-third-party-hack/",
         "description": "Uber sends warning to drivers whose information was stolen in a data breach.",
@@ -2383,5 +2415,5 @@
       }
     ]
   },
-  "totalArticles": 122
+  "totalArticles": 124
 }
