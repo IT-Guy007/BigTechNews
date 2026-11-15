@@ -4,7 +4,7 @@
   "title": "Sunday, Nov 15",
   "dateRange": "November 15, 2026",
   "date": "2026-11-15",
-  "generatedAt": "2026-11-15T17:13:41.685Z",
+  "generatedAt": "2026-11-15T22:51:31.986Z",
   "highlights": [
     {
       "title": "Anthropic IPO Arrives at a Pivotal AI Moment",
@@ -51,6 +51,24 @@
           "link": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal"
         }
       ]
+    },
+    {
+      "title": "Anthropic’s IPO Makes Dario Amodei the New Face of the AI Boom",
+      "link": "https://www.bloomberg.com/news/features/2026-11-15/anthropic-s-ipo-makes-dario-amodei-the-new-face-of-the-ai-boom",
+      "description": "The startup is set for the biggest IPO of all time, putting AI investors’ hopes and dreams — and fears — onto a frontier model maker.",
+      "published": "2026-11-15T19:00:20.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_markets",
+      "priority": 1,
+      "image": null,
+      "baseScore": 14,
+      "relevanceScore": 14,
+      "matchedKeywords": [
+        "anthropic",
+        "ipo",
+        "dario amodei"
+      ],
+      "category": "ai"
     },
     {
       "title": "VC Firm Run by Madonna’s Manager Has $7 Billion Anthropic Stake",
@@ -172,6 +190,32 @@
       ]
     },
     {
+      "title": "Sources: Jensen Huang has discussed a comeback as Nvidia CEO with confidants, as allies form a \"war room\" to lobby for his return and seek White House support (Financial Times)",
+      "link": "https://www.techmeme.com/261115/p14#a261115p14",
+      "description": "Financial Times: Sources: Jensen Huang has discussed a comeback as Nvidia CEO with confidants, as allies form a “war room” to lobby for his return and seek White House support — Tech supporters lobby chipmaker's board to reinstate former CEO after he resigned following affair with alleged Chinese spy",
+      "published": "2026-11-15T19:20:00.000Z",
+      "source": "Techmeme",
+      "sourceKey": "techmeme",
+      "priority": 1,
+      "image": "http://www.techmeme.com/261115/i14.jpg",
+      "baseScore": 10,
+      "relevanceScore": 11,
+      "matchedKeywords": [
+        "nvidia",
+        "jensen huang",
+        "ceo",
+        "chipmaker"
+      ],
+      "category": "chips_cloud",
+      "alsoIn": [
+        {
+          "source": "Bloomberg",
+          "title": "Huang Discusses Comeback as Nvidia Chief With Allies, FT Says",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-15/huang-discusses-comeback-as-nvidia-chief-with-allies-ft-says"
+        }
+      ]
+    },
+    {
       "title": "Scott Bessent urges Nvidia to hire an outside CEO and wants answers within 10 days on whether it pushed \"seemingly illicit\" chip sales to China to boost revenue",
       "link": "https://www.techmeme.com/261115/p8#a261115p8",
       "description": "Scott Bessent urges Nvidia to hire an outside CEO and wants answers within 10 days on whether it pushed “seemingly illicit” chip sales to China to boost revenue — Treasury Secretary Scott Bessent said that Nvidia Corp. needs a “dramatic shakeup” in leadership after the ouster of Chief Executive Officer Jensen Huang.",
@@ -197,49 +241,6 @@
           "link": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html"
         }
       ]
-    },
-    {
-      "title": "How Jensen Huang built a multibillion-dollar business to let Chinese companies access Nvidia AI chips in SE Asian data centers, exploiting a gap in US sanctions (Wall Street Journal)",
-      "link": "https://www.techmeme.com/261115/p1#a261115p1",
-      "description": "Wall Street Journal: How Jensen Huang built a multibillion-dollar business to let Chinese companies access Nvidia AI chips in SE Asian data centers, exploiting a gap in US sanctions — Massive data centers in Southeast Asia exploited a gap in U.S. sanctions, providing crucial computing power for Chinese companies and a cover for alleged chip smuggling",
-      "published": "2026-11-15T05:55:03.000Z",
-      "source": "Techmeme",
-      "sourceKey": "techmeme",
-      "priority": 1,
-      "image": "http://www.techmeme.com/261115/i1.jpg",
-      "baseScore": 10,
-      "relevanceScore": 11,
-      "matchedKeywords": [
-        "nvidia",
-        "jensen huang",
-        "chip",
-        "data center"
-      ],
-      "category": "chips_cloud",
-      "alsoIn": [
-        {
-          "source": "WSJ",
-          "title": "How Jensen Huang Built a Business to Feed Chinese Appetite for American Chips",
-          "link": "https://www.wsj.com/articles/how-jensen-huang-built-a-business-to-feed-chinese-appetite-for-american-chips-6c88ecce?mod=rss_Technology"
-        }
-      ]
-    },
-    {
-      "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
-      "link": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
-      "description": "Anthropic's IPO has outsized importance in the tech industry, which is heavily invested in the AI lab and is desperate for some positive momentum.",
-      "published": "2026-11-15T12:00:01.000Z",
-      "source": "CNBC",
-      "sourceKey": "cnbc_tech",
-      "priority": 1,
-      "image": null,
-      "baseScore": 11,
-      "relevanceScore": 11,
-      "matchedKeywords": [
-        "anthropic",
-        "ipo"
-      ],
-      "category": "ai"
     }
   ],
   "byCategory": {
@@ -261,6 +262,24 @@
           "nvidia",
           "jensen huang",
           "valuation"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Anthropic’s IPO Makes Dario Amodei the New Face of the AI Boom",
+        "link": "https://www.bloomberg.com/news/features/2026-11-15/anthropic-s-ipo-makes-dario-amodei-the-new-face-of-the-ai-boom",
+        "description": "The startup is set for the biggest IPO of all time, putting AI investors’ hopes and dreams — and fears — onto a frontier model maker.",
+        "published": "2026-11-15T19:00:20.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_markets",
+        "priority": 1,
+        "image": null,
+        "baseScore": 14,
+        "relevanceScore": 14,
+        "matchedKeywords": [
+          "anthropic",
+          "ipo",
+          "dario amodei"
         ],
         "category": "ai"
       },
@@ -394,6 +413,39 @@
         "category": "ai"
       },
       {
+        "title": "Our new blog for science",
+        "link": "https://openai.com/index/our-new-blog-for-science",
+        "description": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+        "published": "2026-11-15T22:00:00.000Z",
+        "source": "OpenAI",
+        "sourceKey": "openai_news",
+        "priority": 1,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "You can now generate and edit GIFs with ChatGPT - here's how",
+        "link": "https://www.engadget.com/2313818/how-to-generate-edit-gifs-with-chatgpt/",
+        "description": "If you feel like Homer Simpson backing into the hedges has been overdone, OpenAI offers a new option for creating the right GIF for the moment.",
+        "published": "2026-11-15T19:00:00.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/you-can-now-generate-and-edit-gifs-with-chatgpt-heres-how/l-intro-1794264975.jpg",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "chatgpt",
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "Stopp von KI-Entwicklung per Klage gefordert",
         "link": "https://www.heise.de/news/Kalifornien-Klage-fordert-Stopp-der-KI-Entwicklung-wegen-katastrophaler-Risiken-11525487.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
         "description": "Verbraucherschützer und Sicherheitsinitiativen verklagen in den USA fünf Tech-Giganten wie OpenAI und Google, um den unkontrollierten KI-Fortschritt zu stoppen.",
@@ -406,6 +458,39 @@
         "relevanceScore": 7,
         "matchedKeywords": [
           "google",
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+        "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+        "description": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+        "published": "2026-11-15T21:56:35.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "jensen huang",
+          "nvidia"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "A step toward defining the Standard Model on a lattice",
+        "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+        "description": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+        "published": "2026-11-15T22:00:01.000Z",
+        "source": "OpenAI",
+        "sourceKey": "openai_news",
+        "priority": 1,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
           "openai"
         ],
         "category": "ai"
@@ -583,6 +668,32 @@
         "category": "chips_cloud"
       },
       {
+        "title": "Sources: Jensen Huang has discussed a comeback as Nvidia CEO with confidants, as allies form a \"war room\" to lobby for his return and seek White House support (Financial Times)",
+        "link": "https://www.techmeme.com/261115/p14#a261115p14",
+        "description": "Financial Times: Sources: Jensen Huang has discussed a comeback as Nvidia CEO with confidants, as allies form a “war room” to lobby for his return and seek White House support — Tech supporters lobby chipmaker's board to reinstate former CEO after he resigned following affair with alleged Chinese spy",
+        "published": "2026-11-15T19:20:00.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261115/i14.jpg",
+        "baseScore": 10,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang",
+          "ceo",
+          "chipmaker"
+        ],
+        "category": "chips_cloud",
+        "alsoIn": [
+          {
+            "source": "Bloomberg",
+            "title": "Huang Discusses Comeback as Nvidia Chief With Allies, FT Says",
+            "link": "https://www.bloomberg.com/news/articles/2026-11-15/huang-discusses-comeback-as-nvidia-chief-with-allies-ft-says"
+          }
+        ]
+      },
+      {
         "title": "How Jensen Huang built a multibillion-dollar business to let Chinese companies access Nvidia AI chips in SE Asian data centers, exploiting a gap in US sanctions (Wall Street Journal)",
         "link": "https://www.techmeme.com/261115/p1#a261115p1",
         "description": "Wall Street Journal: How Jensen Huang built a multibillion-dollar business to let Chinese companies access Nvidia AI chips in SE Asian data centers, exploiting a gap in US sanctions — Massive data centers in Southeast Asia exploited a gap in U.S. sanctions, providing crucial computing power for Chinese companies and a cover for alleged chip smuggling",
@@ -607,6 +718,26 @@
             "link": "https://www.wsj.com/articles/how-jensen-huang-built-a-business-to-feed-chinese-appetite-for-american-chips-6c88ecce?mod=rss_Technology"
           }
         ]
+      },
+      {
+        "title": "Analysis: Huawei's Horinger data center, among China's largest for AI, has ~7% of the compute of SpaceX's Colossus 2 and may stay far behind until at least 2028",
+        "link": "https://www.techmeme.com/261115/p16#a261115p16",
+        "description": "Analysis: Huawei's Horinger data center, among China's largest for AI, has ~7% of the compute of SpaceX's Colossus 2 and may stay far behind until at least 2028 — This is a condensed version of a longer report on our website — Huawei, China's biggest AI chip developer, is drawing on China's abundant energy to build data centers.",
+        "published": "2026-11-15T22:02:17.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261115/i16.jpg",
+        "via": "Epoch AI",
+        "baseScore": 11,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "spacex",
+          "huawei",
+          "data center",
+          "chip"
+        ],
+        "category": "chips_cloud"
       },
       {
         "title": "TSMC plans to set up a new $500M fund to invest in chip startups, suppliers, and other upstream partners, saying \"we also want to support the future's Nvidia\"",
@@ -711,6 +842,44 @@
         ]
       },
       {
+        "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+        "description": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority Leader Chuck Schumer has already said that Huang and the Trump administration need to answer to Congress. Senate Banking Comm",
+        "published": "2026-11-15T19:15:43.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25545717/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 10,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "nvidia",
+          "chip",
+          "jensen huang",
+          "ceo"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Sources: Nvidia appealed to Taiwanese officials after its manager was charged over chip smuggling, and sought advice from TSMC, which declined to get involved",
+        "link": "https://www.techmeme.com/261115/p13#a261115p13",
+        "description": "Sources: Nvidia appealed to Taiwanese officials after its manager was charged over chip smuggling, and sought advice from TSMC, which declined to get involved — Nvidia Corp. appealed to Taiwanese officials after prosecutors on the island accused an employee of helping to smuggle AI chips into China …",
+        "published": "2026-11-15T19:10:00.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261115/i13.jpg",
+        "via": "Bloomberg",
+        "baseScore": 10,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "nvidia",
+          "tsmc",
+          "chip"
+        ],
+        "category": "chips_cloud"
+      },
+      {
         "title": "Congress Presses Nvidia Over China Chip Access",
         "link": "https://www.bloomberg.com/news/videos/2026-11-15/congress-presses-nvidia-over-china-chip-access-video",
         "description": "Democratic Rep. Raja Krishnamoorthi is on Bloomberg This Weekend to discuss the national security questions surrounding former Nvidia CEO Jensen Huang, including what Huang knew about alleged Chinese intelligence activity and whether restricted Nvidia chips reached entities in China. Speaking with hosts David Gura and Christina Ruffini, Krishnamoorthi calls for stronger export controls and congressional oversight while raising questions about Commerce Secretary Howard Lutnick’s handling of Nvidi",
@@ -769,6 +938,42 @@
         "category": "chips_cloud"
       },
       {
+        "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+        "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+        "description": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a path back to CEO, and a statement from Megaspeed claiming that Alice Huang hasn't worked for the company since August of 2025, which raises more questions than it answers. Some big names, including El",
+        "published": "2026-11-15T20:43:49.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang",
+          "ceo"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Huang Weighs Nvidia Comeback as Bessent Pushes Board to Look Outside",
+        "link": "https://www.theinformation.com/briefings/huang-weighs-nvidia-comeback-bessent-pushes-board-look-outside",
+        "description": "Jensen Huang has discussed with confidants a return as Nvidia CEO, the Financial Times reported, days after he resigned over reports of affairs with a suspected Chinese spy and a subordinate. One Huang ally said they were assembling a “war room” of Silicon Valley executives to lobby the board ...",
+        "published": "2026-11-15T20:19:24.000Z",
+        "source": "The Information",
+        "sourceKey": "theinformation",
+        "priority": 1,
+        "image": null,
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang",
+          "ceo"
+        ],
+        "category": "chips_cloud"
+      },
+      {
         "title": "Nvidia Crisis Complicates Trump’s China Trip",
         "link": "https://www.bloomberg.com/news/videos/2026-11-15/nvidia-crisis-complicates-trump-s-china-trip-video",
         "description": "On Bloomberg This Weekend, co-host of Bloomberg Surveillance Annmarie Hordern examines how scrutiny surrounding Nvidia and Jensen Huang is shifting the focus of President Donald Trump’s China trip from trade toward chip export controls and questions about how restricted technology may have reached China. Speaking with host Christina Ruffini, Hordern also discusses mounting pressure on the Commerce Department and how the controversy could lead Congress to pursue tighter controls on advanced chips",
@@ -806,6 +1011,23 @@
         "category": "chips_cloud"
       },
       {
+        "title": "Nvidia Fallout, Next Mega IPO, FAA Router Failure",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-15/bloomberg-this-weekend-11-15-2026-video",
+        "description": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Fmr. TSA Administrator and Fmr. FBI Deputy Director John Pistole, Veda Partners Co-Founder and Director of Economic Policy Research Henrietta Treyz, Washington Post National Security Correspondent Tara Copp, “Embargo” Author and Journalist Philip Delves Broughton, PIMCO EVP, Market Strategist and G",
+        "published": "2026-11-15T16:53:51.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_markets",
+        "priority": 1,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "nvidia",
+          "ipo"
+        ],
+        "category": "chips_cloud"
+      },
+      {
         "title": "Bessent Says Nvidia Needs ‘Dramatic Shakeup’ With Huang Out",
         "link": "https://www.bloomberg.com/news/articles/2026-11-15/bessent-says-nvidia-needs-dramatic-shakeup-after-huang-ouster",
         "description": "Treasury Secretary Scott Bessent said that Nvidia Corp. needs a “dramatic shakeup” in leadership after the ouster of Chief Executive Officer Jensen Huang.",
@@ -819,6 +1041,42 @@
         "matchedKeywords": [
           "nvidia",
           "jensen huang"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Nvidia engineer leaves company over lack of transparency around Jensen Huang’s exit, details decision",
+        "link": "https://www.tomshardware.com/tech-industry/robotics-engineer-leaves-nvidia-over-lack-of-transparency-around-jensen-huangs-exit-details-decision-joins-chorus-of-disgruntled-staff-as-petition-to-reinstate-former-ceo-passes-150-000-signatures",
+        "description": "Dai's post shows how much Nvidia employees looked up to the former CEO.",
+        "published": "2026-11-15T17:56:15.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/V58pCYCTU9ChhLRLiLHMe5-1920-80.jpg",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang",
+          "ceo"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Bessent Urges Nvidia to Pick Outsider as Next CEO",
+        "link": "https://www.wsj.com/tech/ai/bessent-urges-nvidia-to-pick-outsider-as-next-ceo-f9d21a83?mod=rss_Technology",
+        "description": "The Treasury Secretary questioned whether the chip maker pushed illicit China sales to boost revenue.",
+        "published": "2026-11-15T18:44:00.000Z",
+        "source": "WSJ",
+        "sourceKey": "wsj_tech",
+        "priority": 1,
+        "image": "https://images.wsj.net/im-99468581",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "nvidia",
+          "ceo",
+          "chip"
         ],
         "category": "chips_cloud"
       },
@@ -873,6 +1131,24 @@
           "intel",
           "amd",
           "data center"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Sources: Howard Lutnick is expected to join Trump on Air Force One to China this week, after clashing with Scott Bessent and others over Nvidia chip curbs",
+        "link": "https://www.techmeme.com/261115/p11#a261115p11",
+        "description": "Sources: Howard Lutnick is expected to join Trump on Air Force One to China this week, after clashing with Scott Bessent and others over Nvidia chip curbs — Howard Lutnick is expected to travel on Air Force One with the president to China this week as the commerce secretary fights to regain …",
+        "published": "2026-11-15T17:15:01.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261115/i11.jpg",
+        "via": "Semafor",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "nvidia",
+          "chip"
         ],
         "category": "chips_cloud"
       },
@@ -976,6 +1252,24 @@
           "jensen huang",
           "chip",
           "data center"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Megaspeed says alleged Chinese spy, Alice Huang, left company last year",
+        "link": "https://www.euronews.com/2026/11/15/megaspeed-says-alleged-chinese-spy-alice-huang-left-company-last-year",
+        "description": "The cloud computing company with ties to Nvidia, Megaspeed, has said that Alice Huang, an alleged Chinese spy, left the company in 2025. Huang is at the heart of an international corporate scandal and alleged to have had an affair with former Nvidia CEO Jensen Huang",
+        "published": "2026-11-15T16:41:31.000Z",
+        "source": "Euronews Next",
+        "sourceKey": "euronews_next",
+        "priority": 2,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang",
+          "ceo"
         ],
         "category": "chips_cloud"
       },
@@ -1194,6 +1488,23 @@
         ]
       },
       {
+        "title": "Asian investors chase indirect access to Anthropic shares amid IPO fever",
+        "link": "https://asia.nikkei.com/business/markets/trading-asia/asian-investors-chase-indirect-access-to-anthropic-shares-amid-ipo-fever",
+        "description": "",
+        "published": "2026-11-15T22:51:29.827Z",
+        "source": "Nikkei Asia",
+        "sourceKey": "nikkei_asia",
+        "priority": 1,
+        "image": null,
+        "baseScore": 11,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "anthropic",
+          "ipo"
+        ],
+        "category": "business"
+      },
+      {
         "title": "23andMe's Anne Wojcicki, formerly married to Google co-founder Sergey Brin, says Jensen Huang's affair shows what happens when CEOs think they are \"untouchable\" (Bloomberg)",
         "link": "https://www.techmeme.com/261114/p22#a261114p22",
         "description": "Bloomberg: 23andMe's Anne Wojcicki, formerly married to Google co-founder Sergey Brin, says Jensen Huang's affair shows what happens when CEOs think they are “untouchable” — As the Nvidia drama unfolds, the tech community adds yet another geek-turned-billionaire to its list of flawed visionaries.",
@@ -1267,61 +1578,33 @@
         "category": "business"
       }
     ],
-    "ev_autonomous": [
+    "space": [
       {
-        "title": "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins",
-        "link": "https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html",
-        "description": "EV makers have had to contend with flip-flopping regulatory support from Washington over the years.",
-        "published": "2026-11-15T13:00:02.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_top",
+        "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+        "link": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+        "description": "ULA Vulcan rocket lifts off on November 15, 2026, carrying 40 Amazon Leo broadband satellites. | Photo: Manuel Mazzanti / NurPhoto via Getty Images United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit. Leo is Amazon's competitor to SpaceX's Starlink, but it has struggled to get off the ground so far, putting only a small portion of the necessary satellites to challenge Starlink into orbit.",
+        "published": "2026-11-15T21:05:02.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
         "priority": 1,
-        "image": null,
-        "baseScore": 10,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304790934.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 9,
         "relevanceScore": 10,
         "matchedKeywords": [
-          "rivian",
-          "lucid",
-          "ceo"
+          "amazon",
+          "satellite",
+          "spacex",
+          "starlink"
         ],
-        "category": "ev_autonomous"
+        "category": "space",
+        "alsoIn": [
+          {
+            "source": "Techmeme",
+            "title": "Amazon loses 40 Leo satellites after ULA's Vulcan rocket fails 10 minutes into flight, marking the first mission failure for the Boeing-Lockheed joint venture",
+            "link": "https://www.techmeme.com/261115/p17#a261115p17"
+          }
+        ]
       },
-      {
-        "title": "Is Tesla rushing out a half-baked Cybercab just to shave MKBHD’s head?",
-        "link": "https://electrek.co/2026/11/15/tesla-cybercab-mkbhd-bet-musk-chicken/",
-        "description": "Elon Musk called YouTuber Marques Brownlee “a chicken” early Saturday, hours after Tesla opened invite-only Cybercab orders at $29,990 and Brownlee argued that his famous head-shaving bet isn’t lost. Tesla has about seven weeks to get a Cybercab into a customer’s hands for under $30,000 before 2027, but the half-baked version of Cybercab that they opened orders for with delivery in December makes it look like it’s just to win this dumb bet. Surely Tesla isn’t down enough to deliver a half-baked",
-        "published": "2026-11-15T16:31:24.000Z",
-        "source": "Electrek",
-        "sourceKey": "electrek",
-        "priority": 2,
-        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/MKBHD-Tesla-Cybercan-Elon-Musk.jpg?quality=82&#038;strip=all&#038;w=1600",
-        "baseScore": 7,
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "tesla",
-          "elon musk"
-        ],
-        "category": "ev_autonomous"
-      },
-      {
-        "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
-        "link": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
-        "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-        "published": "2026-11-15T17:05:00.000Z",
-        "source": "TechCrunch",
-        "sourceKey": "techcrunch",
-        "priority": 1,
-        "image": null,
-        "baseScore": 6,
-        "relevanceScore": 6,
-        "matchedKeywords": [
-          "nvidia",
-          "self-driving"
-        ],
-        "category": "ev_autonomous"
-      }
-    ],
-    "space": [
       {
         "title": "Traders Turn to Kalshi Stock ‘Perps’ on Nvidia and SpaceX as Leverage Fears Grow",
         "link": "https://www.bloomberg.com/news/articles/2026-11-15/traders-turn-to-kalshi-stock-perps-on-nvidia-and-spacex-as-leverage-fears-grow",
@@ -1389,6 +1672,286 @@
           "starship"
         ],
         "category": "space"
+      },
+      {
+        "title": "SpaceX catches part of its Starship rocket in historic first",
+        "link": "https://www.euronews.com/2026/11/15/spacex-catches-part-of-its-starship-rocket-in-historic-first",
+        "description": "Crowds outside the Texas Starbase erupted into cheers as the mechanical arms closed around the spaceship for the first time, a moment SpaceX said \"changed everything.\"",
+        "published": "2026-11-15T08:32:33.000Z",
+        "source": "Euronews Next",
+        "sourceKey": "euronews_next",
+        "priority": 2,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "spacex",
+          "starship"
+        ],
+        "category": "space"
+      }
+    ],
+    "ev_autonomous": [
+      {
+        "title": "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins",
+        "link": "https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html",
+        "description": "EV makers have had to contend with flip-flopping regulatory support from Washington over the years.",
+        "published": "2026-11-15T13:00:02.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_top",
+        "priority": 1,
+        "image": null,
+        "baseScore": 10,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "rivian",
+          "lucid",
+          "ceo"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Is Tesla rushing out a half-baked Cybercab just to shave MKBHD’s head?",
+        "link": "https://electrek.co/2026/11/15/tesla-cybercab-mkbhd-bet-musk-chicken/",
+        "description": "Elon Musk called YouTuber Marques Brownlee “a chicken” early Saturday, hours after Tesla opened invite-only Cybercab orders at $29,990 and Brownlee argued that his famous head-shaving bet isn’t lost. Tesla has about seven weeks to get a Cybercab into a customer’s hands for under $30,000 before 2027, but the half-baked version of Cybercab that they opened orders for with delivery in December makes it look like it’s just to win this dumb bet. Surely Tesla isn’t down enough to deliver a half-baked",
+        "published": "2026-11-15T16:31:24.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/MKBHD-Tesla-Cybercan-Elon-Musk.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "tesla",
+          "elon musk"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
+        "link": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
+        "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+        "published": "2026-11-15T17:05:00.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "nvidia",
+          "self-driving"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "MKBHD just ordered the Tesla Cybercab with his hair on the line",
+        "link": "https://www.teslarati.com/mkbhd-tesla-cybercab-bet/",
+        "description": "MKBHD ordered a Tesla Cybercab, two years after betting his hair Tesla couldn't sell one. The post MKBHD just ordered the Tesla Cybercab with his hair on the line appeared first on TESLARATI.",
+        "published": "2026-11-15T17:25:07.000Z",
+        "source": "Teslarati",
+        "sourceKey": "teslarati",
+        "priority": 3,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "tesla"
+        ],
+        "category": "ev_autonomous"
+      }
+    ],
+    "robotics": [
+      {
+        "title": "Sunday Reboot: Unhinged robots and commentator curses",
+        "link": "https://appleinsider.com/articles/26/11/15/sunday-reboot-unhinged-robots-and-commentator-curses?utm_source=rss",
+        "description": "In this week's Sunday Reboot, iPhone Duo robots may change the reviewing process, and Murphy's Law is alive and well when anyone talks about tech CEOs. Jensen Huang during a demonstration at an Nvidia event - image credit: Nvidia. Sunday Reboot is a weekly column covering some of the lighter stories within the Apple reality distortion field from the past seven days. All to get next week underway with a good first step. Continue Reading on AppleInsider | Discuss on our Forums",
+        "published": "2026-11-15T20:52:46.000Z",
+        "source": "AppleInsider",
+        "sourceKey": "appleinsider",
+        "priority": 2,
+        "image": "https://media.appleinsider.com/gallery/69846-147242-69813-147156-000-lead-Jensen-Huang-2-xl-xl.jpg",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "apple",
+          "nvidia",
+          "jensen huang",
+          "ceo"
+        ],
+        "category": "robotics"
+      },
+      {
+        "title": "The Sony Aibo was a robot revolution dressed like a dog",
+        "link": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
+        "description": "In the 1990s, Sony was absolutely convinced that we were on the precipice of a robot takeover. Pretty soon, the company decided, we'd all be living among countless humanoid robots. Some would be our coworkers; others would be our friends; and at least one would be our pet. And \"pet\" was exactly what Sony was going for when it created the Aibo. It was supposed to be part of the family. On this episode of Version History, we go back in time and tell the story of the Aibo. David Pierce is joined by",
+        "published": "2026-11-15T13:57:30.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AIBO_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "humanoid robot",
+          "humanoid"
+        ],
+        "category": "robotics"
+      }
+    ],
+    "other": [
+      {
+        "title": "What happens to Facebook and Instagram accounts when the owner dies?",
+        "link": "https://www.engadget.com/2313815/facebook-instagram-meta-accounts-what-happens-when-owner-dies/",
+        "description": "Unless you delete them yourself, your Facebook and Instagram accounts will outlive you. But you can plan and set up what happens to them after you pass on.",
+        "published": "2026-11-15T18:45:00.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/what-happens-to-facebook-and-instagram-accounts-when-the-owner-dies/l-intro-1794308400.jpg",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "facebook",
+          "instagram"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+        "link": "https://www.tomshardware.com/tech-industry/data-centers/microsoft-365-outage-leads-to-chlorine-gas-poisoning-of-15-hotel-guests-email-warning-system-fails-40-first-responders-deployed-for-triage-four-hospitalized",
+        "description": "The 'maintenance safety system' relied on Microsoft Outlook to send warning messages to the operator.",
+        "published": "2026-11-15T15:41:13.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/LVU3kxMU42xw93Lbc2p2Wc-1920-80.jpg",
+        "baseScore": 4,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "microsoft"
+        ],
+        "category": "other",
+        "alsoIn": [
+          {
+            "source": "Hacker News",
+            "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+            "link": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html"
+          }
+        ]
+      },
+      {
+        "title": "Diamondback in Talks to Buy Double Eagle for About $5 Billion",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-15/diamondback-in-talks-to-buy-double-eagle-for-about-5-billion",
+        "description": "Diamondback Energy Inc. is in talks to acquire closely held oil driller Double Eagle V for about $5 billion, further expanding its position in the Permian Basin, the world’s most productive shale region, according to a person familiar with the matter.",
+        "published": "2026-11-15T21:49:10.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_markets",
+        "priority": 1,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "billion",
+          "acquire"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "The Backyard Battle Over Amazon Delivery Drones ‘Stealing the Sky’",
+        "link": "https://www.wsj.com/lifestyle/amazon-delivery-drones-4807e976?mod=rss_Technology",
+        "description": "Aerial package drops draw plenty of gawkers, but some say they’re destroying the neighborhood.",
+        "published": "2026-11-15T10:30:00.000Z",
+        "source": "WSJ",
+        "sourceKey": "wsj_tech",
+        "priority": 1,
+        "image": "https://images.wsj.net/im-29421732",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "amazon"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Opinion | Donald Trump and Jensen Huang Have the Same Tragic Flaw",
+        "link": "https://www.wsj.com/opinion/donald-trump-and-jensen-huang-have-the-same-tragic-flaw-5578e58b?mod=rss_Technology",
+        "description": "Both seemed unstoppable until success made them arrogant and hubris got the better of them.",
+        "published": "2026-11-15T17:00:00.000Z",
+        "source": "WSJ",
+        "sourceKey": "wsj_tech",
+        "priority": 1,
+        "image": "https://opinion-images.wsj.net/im-23601848",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "jensen huang"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Trump Heads to Asia With Trade, Security at Stake",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-15/trump-heads-to-asia-with-trade-security-at-stake-video",
+        "description": "Bloomberg’s Avril Hong is on Bloomberg This Weekend to preview President Donald Trump’s trip to Asia, where trade, security ties and China’s growing regional influence are expected to shape meetings with Philippine President Ferdinand Marcos Jr. and other Southeast Asian leaders. Speaking with hosts David Gura and Christina Ruffini, Hong also examines the business stakes surrounding the trip, including Elon Musk’s reported participation and the debate over US restrictions on China’s access to ad",
+        "published": "2026-11-15T12:52:36.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_markets",
+        "priority": 1,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "elon musk"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "You can control your other devices with this resourceful Apple feature",
+        "link": "https://www.engadget.com/2313890/apple-switch-control-feature-on-other-devices/",
+        "description": "There's a lot you can do with this accessibility feature.",
+        "published": "2026-11-15T20:45:00.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/you-can-control-your-other-devices-with-this-resourceful-apple-feature/l-intro-1794094398.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Amazon is reportedly working on a database for 'virtually every item for sale on Earth'",
+        "link": "https://www.engadget.com/2317210/amazon-is-reportedly-working-on-a-database-for-virtually-every-item-for-sale-on-earth/",
+        "description": "This would include products that the online commerce giant doesn't even sell.",
+        "published": "2026-11-15T20:19:05.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/amazon-is-reportedly-working-on-a-database-for-virtually-every-item-for-sale-on-earth/l-intro-1794770193.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "amazon"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "The hidden features every Apple Maps user should know about",
+        "link": "https://www.engadget.com/2313048/apple-maps-hidden-features-users-should-know/",
+        "description": "Apple Maps isn't just about the big-ticket features; it has a range of lesser-known features that are just as useful. Here are some of the most notable.",
+        "published": "2026-11-15T13:30:00.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/the-hidden-features-every-apple-maps-user-should-know-about/l-intro-1794373722.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "other"
       }
     ],
     "devices": [
@@ -1406,6 +1969,40 @@
         "matchedKeywords": [
           "apple",
           "amazon"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Apple's Smart Glasses Strategy Hinges on Siri and iPhone Apps",
+        "link": "https://www.macrumors.com/2026/11/15/apple-smart-glasses-hinge-on-siri/",
+        "description": "Apple plans to unveil its first smart glasses at WWDC in June 2027 and begin shipping them before the end of the year, according to Bloomberg's Mark Gurman. In the latest edition of his \"Power On\" newsletter, Gurman shared new details about the glasses' design, charging system, and Siri features. Current prototypes of the glasses, internally code-named \"N50,\" are reportedly slightly thinner than Meta's second-generation Ray-Bans. Some test units have oval camera openings integrated into the fram",
+        "published": "2026-11-15T17:55:32.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2021/01/Apple-Glasses-Blue-Feature.jpg",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "apple",
+          "meta"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Facebook-App las Fotogalerien von Millionen italienischen Nutzern ohne Erlaubnis",
+        "link": "https://www.heise.de/news/Datenschutzverstoss-Meta-soll-in-Italien-805-Millionen-Euro-Strafe-zahlen-11525635.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "Über die Facebook-App las Meta auf Android-Geräten Fotos von 20 Millionen Nutzern ohne Einwilligung aus. Nun verhängen Italiens Datenschützer eine Strafe.",
+        "published": "2026-11-15T17:08:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/1/8/5/2/shutterstock_2648970427-c02e2634f2ba04d9.jpeg",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "facebook",
+          "meta"
         ],
         "category": "devices"
       },
@@ -1457,6 +2054,54 @@
         "matchedKeywords": [
           "google",
           "chip"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Samsung is discontinuing these useful mobile apps in December",
+        "link": "https://www.engadget.com/2313930/samsung-is-discontinuing-these-useful-mobile-apps-in-december/",
+        "description": "You don't have long to grab the augmented reality tools for your Galaxy devices.",
+        "published": "2026-11-15T22:30:00.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/samsung-is-discontinuing-these-useful-mobile-apps-in-december/l-intro-1793998077.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "samsung"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "How you can give your old Apple TV new purpose",
+        "link": "https://www.engadget.com/2313873/give-old-apple-tv-device-new-purpose/",
+        "description": "There are a few other tasks your Apple TV can handle.",
+        "published": "2026-11-15T20:15:00.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/how-you-can-give-your-old-apple-tv-new-purpose/l-intro-1794166001.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Apple TV+ 'Slow Horses' faces the glue factory after eight seasons",
+        "link": "https://appleinsider.com/articles/26/11/15/apple-tv-slow-horses-faces-the-glue-factory-after-eight-seasons?utm_source=rss",
+        "description": "Fans of the Apple TV+ thriller \"Slow Horses\" may not continue past season 8, because it will have caught up with the book series. Gary Oldman in \"Slow Horses\" — image credit: Apple Apple confirmed back in September that there would be an eighth season of the Emmy and BAFTA Award-winning spy drama \"Slow Horses.\" However, it seems improbable that it will continue beyond that season for a long time, if at all. Speaking to The Times, Olivia Cooke said \"I am shooting the last season.\" Cooke, who play",
+        "published": "2026-11-15T18:38:06.000Z",
+        "source": "AppleInsider",
+        "sourceKey": "appleinsider",
+        "priority": 2,
+        "image": "https://media.appleinsider.com/gallery/69851-147243-63429-131799-000-lead-Slow-Horses-xl-xl.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
         ],
         "category": "devices"
       },
@@ -1541,107 +2186,6 @@
         "category": "devices"
       }
     ],
-    "robotics": [
-      {
-        "title": "The Sony Aibo was a robot revolution dressed like a dog",
-        "link": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
-        "description": "In the 1990s, Sony was absolutely convinced that we were on the precipice of a robot takeover. Pretty soon, the company decided, we'd all be living among countless humanoid robots. Some would be our coworkers; others would be our friends; and at least one would be our pet. And \"pet\" was exactly what Sony was going for when it created the Aibo. It was supposed to be part of the family. On this episode of Version History, we go back in time and tell the story of the Aibo. David Pierce is joined by",
-        "published": "2026-11-15T13:57:30.000Z",
-        "source": "The Verge",
-        "sourceKey": "theverge",
-        "priority": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AIBO_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "baseScore": 5,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "humanoid robot",
-          "humanoid"
-        ],
-        "category": "robotics"
-      }
-    ],
-    "other": [
-      {
-        "title": "The Backyard Battle Over Amazon Delivery Drones ‘Stealing the Sky’",
-        "link": "https://www.wsj.com/lifestyle/amazon-delivery-drones-4807e976?mod=rss_Technology",
-        "description": "Aerial package drops draw plenty of gawkers, but some say they’re destroying the neighborhood.",
-        "published": "2026-11-15T10:30:00.000Z",
-        "source": "WSJ",
-        "sourceKey": "wsj_tech",
-        "priority": 1,
-        "image": "https://images.wsj.net/im-29421732",
-        "baseScore": 5,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "amazon"
-        ],
-        "category": "other"
-      },
-      {
-        "title": "Opinion | Donald Trump and Jensen Huang Have the Same Tragic Flaw",
-        "link": "https://www.wsj.com/opinion/donald-trump-and-jensen-huang-have-the-same-tragic-flaw-5578e58b?mod=rss_Technology",
-        "description": "Both seemed unstoppable until success made them arrogant and hubris got the better of them.",
-        "published": "2026-11-15T17:00:00.000Z",
-        "source": "WSJ",
-        "sourceKey": "wsj_tech",
-        "priority": 1,
-        "image": "https://opinion-images.wsj.net/im-23601848",
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "jensen huang"
-        ],
-        "category": "other"
-      },
-      {
-        "title": "Trump Heads to Asia With Trade, Security at Stake",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-15/trump-heads-to-asia-with-trade-security-at-stake-video",
-        "description": "Bloomberg’s Avril Hong is on Bloomberg This Weekend to preview President Donald Trump’s trip to Asia, where trade, security ties and China’s growing regional influence are expected to shape meetings with Philippine President Ferdinand Marcos Jr. and other Southeast Asian leaders. Speaking with hosts David Gura and Christina Ruffini, Hong also examines the business stakes surrounding the trip, including Elon Musk’s reported participation and the debate over US restrictions on China’s access to ad",
-        "published": "2026-11-15T12:52:36.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_markets",
-        "priority": 1,
-        "image": null,
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "elon musk"
-        ],
-        "category": "other"
-      },
-      {
-        "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
-        "link": "https://www.tomshardware.com/tech-industry/data-centers/microsoft-365-outage-leads-to-chlorine-gas-poisoning-of-15-hotel-guests-email-warning-system-fails-40-first-responders-deployed-for-triage-four-hospitalized",
-        "description": "The 'maintenance safety system' relied on Microsoft Outlook to send warning messages to the operator.",
-        "published": "2026-11-15T15:41:13.000Z",
-        "source": "Tom's Hardware",
-        "sourceKey": "tomshardware",
-        "priority": 2,
-        "image": "https://cdn.mos.cms.futurecdn.net/LVU3kxMU42xw93Lbc2p2Wc-1920-80.jpg",
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "microsoft"
-        ],
-        "category": "other"
-      },
-      {
-        "title": "The hidden features every Apple Maps user should know about",
-        "link": "https://www.engadget.com/2313048/apple-maps-hidden-features-users-should-know/",
-        "description": "Apple Maps isn't just about the big-ticket features; it has a range of lesser-known features that are just as useful. Here are some of the most notable.",
-        "published": "2026-11-15T13:30:00.000Z",
-        "source": "Engadget",
-        "sourceKey": "engadget",
-        "priority": 2,
-        "image": "https://www.engadget.com/img/gallery/the-hidden-features-every-apple-maps-user-should-know-about/l-intro-1794373722.jpg",
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "apple"
-        ],
-        "category": "other"
-      }
-    ],
     "crypto": [
       {
         "title": "FBI disrupts North Korean FaceStealer campaign behind $5 billion Binance hack",
@@ -1662,5 +2206,5 @@
       }
     ]
   },
-  "totalArticles": 77
+  "totalArticles": 107
 }
