@@ -4,7 +4,7 @@
   "title": "Monday, Nov 16",
   "dateRange": "November 16, 2026",
   "date": "2026-11-16",
-  "generatedAt": "2026-11-17T02:57:34.119Z",
+  "generatedAt": "2026-11-17T13:29:58.317Z",
   "highlights": [
     {
       "title": "Sources: the Trump admin plans to name Nvidia, Amazon, Microsoft, OpenAI, and Anthropic among 24+ AI \"national champions\" to help them win overseas business (Wall Street Journal)",
@@ -1030,6 +1030,22 @@
         "matchedKeywords": [
           "openai",
           "chatgpt"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "How Revolut raises ambition without lowering the bar",
+        "link": "https://openai.com/business/customer-stories/revolut",
+        "description": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+        "published": "2026-11-16T09:30:00.000Z",
+        "source": "OpenAI",
+        "sourceKey": "openai_news",
+        "priority": 1,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "openai"
         ],
         "category": "ai"
       },
@@ -6159,5 +6175,5 @@
       }
     ]
   },
-  "totalArticles": 326
+  "totalArticles": 327
 }
