@@ -4,7 +4,7 @@
   "title": "Monday, Nov 16",
   "dateRange": "November 16, 2026",
   "date": "2026-11-16",
-  "generatedAt": "2026-11-17T13:29:58.317Z",
+  "generatedAt": "2026-11-17T22:26:43.398Z",
   "highlights": [
     {
       "title": "Sources: the Trump admin plans to name Nvidia, Amazon, Microsoft, OpenAI, and Anthropic among 24+ AI \"national champions\" to help them win overseas business (Wall Street Journal)",
@@ -2167,6 +2167,37 @@
         "category": "chips_cloud"
       },
       {
+        "title": "President Trump says he \"would not mind\" if Jensen Huang was reinstated as Nvidia's CEO and \"I don't know that she was a spy at all\" in reference to Alice Huang",
+        "link": "https://www.techmeme.com/261116/p31#a261116p31",
+        "description": "President Trump says he “would not mind” if Jensen Huang was reinstated as Nvidia's CEO and “I don't know that she was a spy at all” in reference to Alice Huang — WASHINGTON — President Donald Trump said Monday he “would not mind” if Jensen Huang was reinstated as Nvidia CEO …",
+        "published": "2026-11-16T14:55:00.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261116/i31.jpg",
+        "via": "New York Post",
+        "baseScore": 9,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang",
+          "ceo"
+        ],
+        "category": "chips_cloud",
+        "alsoIn": [
+          {
+            "source": "Tom's Hardware",
+            "title": "Trump calls for Jensen Huang reinstatement as Nvidia CEO",
+            "link": "https://www.tomshardware.com/tech-industry/trump-calls-for-jensen-huang-reinstatement-as-nvidia-ceo-nvidia-board-reportedly-refuses-to-reinstate-disgraced-ceo-due-to-ongoing-national-security-investigation-into-jensen"
+          },
+          {
+            "source": "Euronews Next",
+            "title": "President Trump says he 'wouldn't mind' Jensen Huang being reinstated as Nvidia CEO",
+            "link": "https://www.euronews.com/2026/11/16/president-trump-says-he-wouldnt-mind-jensen-huang-being-reinstated-as-nvidia-ceo"
+          }
+        ]
+      },
+      {
         "title": "What to Watch for in Nvidia Earnings",
         "link": "https://www.bloomberg.com/news/videos/2026-11-16/what-to-watch-for-in-nvidia-earnings-video",
         "description": "Nvidia is about to report earnings without Jensen Huang at the helm of the chipmaker. Colette Kress, the interim CEO will lead the call and certainly face questions about what direction she is taking the company in and how she will handle political and litigation risks. Bloomberg's Ed Ludlow reports. (Source: Bloomberg)",
@@ -2231,28 +2262,28 @@
         ]
       },
       {
-        "title": "President Trump says he \"would not mind\" if Jensen Huang was reinstated as Nvidia's CEO and \"I don't know that she was a spy at all\" in reference to Alice Huang",
-        "link": "https://www.techmeme.com/261116/p31#a261116p31",
-        "description": "President Trump says he “would not mind” if Jensen Huang was reinstated as Nvidia's CEO and “I don't know that she was a spy at all” in reference to Alice Huang — WASHINGTON — President Donald Trump said Monday he “would not mind” if Jensen Huang was reinstated as Nvidia CEO …",
-        "published": "2026-11-16T14:55:00.000Z",
-        "source": "Techmeme",
-        "sourceKey": "techmeme",
-        "priority": 1,
-        "image": "http://www.techmeme.com/261116/i31.jpg",
-        "via": "New York Post",
+        "title": "Elon Musk joins calls to bring back Jensen Huang as allies build 'war room' to lobby his return",
+        "link": "https://www.euronews.com/2026/11/16/elon-musk-joins-calls-to-bring-back-jensen-huang-as-allies-build-war-room-to-lobby-his-ret",
+        "description": "Silicon Valley is supporting the reinstatement of Jensen Huang as Nvidia's CEO, while Elon Musk joins a petition demanding that the company \"Bring Jensen Back\".",
+        "published": "2026-11-16T08:54:34.000Z",
+        "source": "Euronews Next",
+        "sourceKey": "euronews_next",
+        "priority": 2,
+        "image": null,
         "baseScore": 9,
         "relevanceScore": 10,
         "matchedKeywords": [
-          "nvidia",
+          "elon musk",
           "jensen huang",
+          "nvidia",
           "ceo"
         ],
         "category": "chips_cloud",
         "alsoIn": [
           {
-            "source": "Tom's Hardware",
-            "title": "Trump calls for Jensen Huang reinstatement as Nvidia CEO",
-            "link": "https://www.tomshardware.com/tech-industry/trump-calls-for-jensen-huang-reinstatement-as-nvidia-ceo-nvidia-board-reportedly-refuses-to-reinstate-disgraced-ceo-due-to-ongoing-national-security-investigation-into-jensen"
+            "source": "Ars Technica",
+            "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
+            "link": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/"
           }
         ]
       },
@@ -2504,23 +2535,6 @@
         "matchedKeywords": [
           "nvidia",
           "quantum computing"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
-        "link": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
-        "description": "Huang is weighing a return just days after resigning amid a deepening scandal.",
-        "published": "2026-11-16T14:06:16.000Z",
-        "source": "Ars Technica",
-        "sourceKey": "arstechnica",
-        "priority": 1,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/huang_computex_2024-1152x648.jpg",
-        "baseScore": 8,
-        "relevanceScore": 8,
-        "matchedKeywords": [
-          "nvidia",
-          "jensen huang"
         ],
         "category": "chips_cloud"
       },
@@ -3165,6 +3179,24 @@
         "category": "chips_cloud"
       },
       {
+        "title": "US clamps down on chip 'loophole' in foreign access to advanced AI chips",
+        "link": "https://www.euronews.com/2026/11/16/us-clamps-down-on-chip-loophole-in-foreign-access-to-advanced-ai-chips",
+        "description": "A new US Commerce Department rule targets foreign remote access to chips like Nvidia's Blackwell.",
+        "published": "2026-11-16T14:55:47.000Z",
+        "source": "Euronews Next",
+        "sourceKey": "euronews_next",
+        "priority": 2,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "chip",
+          "nvidia",
+          "blackwell"
+        ],
+        "category": "chips_cloud"
+      },
+      {
         "title": "Overlocker uses vibecoded BIOS modification to target Intel's non-K overclocking restrictions",
         "link": "https://www.tomshardware.com/pc-components/cpus/overlocker-uses-vibecoded-bios-modification-to-target-intels-non-k-overclocking-restrictions-attempts-to-revive-asrocks-discontinued-skyoc-technology",
         "description": "ASRock discontinued SkyOC following Intel's efforts to block non-K CPU overclocking, but an enthusiast is now using AI to see if the old workaround can be adapted for newer platforms.",
@@ -3622,6 +3654,25 @@
         "matchedKeywords": [
           "amazon",
           "acquisition"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Nvidia Earnings Are Sideshow as Huang’s Ouster Looms Over Stock",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-16/nvidia-earnings-are-sideshow-as-huang-s-ouster-looms-over-market",
+        "description": "Nvidia Corp.’s earnings arrive at perhaps the strangest time possible for the world’s most important artificial intelligence chipmaker.",
+        "published": "2026-11-16T21:31:41.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_markets",
+        "priority": 1,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "nvidia",
+          "earnings",
+          "artificial intelligence",
+          "chipmaker"
         ],
         "category": "business"
       },
@@ -5096,6 +5147,23 @@
         ]
       },
       {
+        "title": "Italy fines Meta €805m for accessing Facebook Android photos and videos without consent",
+        "link": "https://www.euronews.com/2026/11/16/italy-fines-meta-805m-for-accessing-facebook-android-photos-and-videos-without-consent",
+        "description": "The social media company has 60 days to disable the ‘Get tips from your gallery while browsing Facebook’ feature and introduce explicit consent.",
+        "published": "2026-11-16T10:34:52.000Z",
+        "source": "Euronews Next",
+        "sourceKey": "euronews_next",
+        "priority": 2,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "meta",
+          "facebook"
+        ],
+        "category": "devices"
+      },
+      {
         "title": "Google’s Pixel 11 Pro HiLight finally supports WhatsApp message notifications",
         "link": "https://www.androidauthority.com/pixel-11-pro-hilight-whatsapp-notifications-3735409/",
         "description": "Better late than never, but Google sure took its sweet time.",
@@ -5951,6 +6019,30 @@
         "category": "space"
       },
       {
+        "title": "ULA Vulcan rocket failure destroys 40 Amazon Leo satellites",
+        "link": "https://www.engadget.com/2317283/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites/",
+        "description": "United Launch Alliance is known for its ultra-dependable Atlas V, but its its latest rocket is off to a shaky start.",
+        "published": "2026-11-16T04:56:53.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites/l-intro-1794804851.jpg",
+        "baseScore": 5,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "amazon",
+          "satellite"
+        ],
+        "category": "space",
+        "alsoIn": [
+          {
+            "source": "Euronews Next",
+            "title": "Video shows rocket failure that destroys 40 Amazon satellites",
+            "link": "https://www.euronews.com/2026/11/16/video-shows-rocket-failure-that-destroys-40-amazon-satellites"
+          }
+        ]
+      },
+      {
         "title": "SpaceX catches Starship on the first try",
         "link": "https://www.theregister.com/science/2026/11/16/spacex-catches-starship-on-the-first-try/5310059",
         "description": "Double capture eludes company for now as booster fumbled",
@@ -5964,23 +6056,6 @@
         "matchedKeywords": [
           "spacex",
           "starship"
-        ],
-        "category": "space"
-      },
-      {
-        "title": "ULA Vulcan rocket failure destroys 40 Amazon Leo satellites",
-        "link": "https://www.engadget.com/2317283/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites/",
-        "description": "United Launch Alliance is known for its ultra-dependable Atlas V, but its its latest rocket is off to a shaky start.",
-        "published": "2026-11-16T04:56:53.000Z",
-        "source": "Engadget",
-        "sourceKey": "engadget",
-        "priority": 2,
-        "image": "https://www.engadget.com/img/gallery/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites/l-intro-1794804851.jpg",
-        "baseScore": 5,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "amazon",
-          "satellite"
         ],
         "category": "space"
       },
@@ -6175,5 +6250,5 @@
       }
     ]
   },
-  "totalArticles": 327
+  "totalArticles": 330
 }
