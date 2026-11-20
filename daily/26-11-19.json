@@ -4,7 +4,7 @@
   "title": "Thursday, Nov 19",
   "dateRange": "November 19, 2026",
   "date": "2026-11-19",
-  "generatedAt": "2026-11-20T03:20:32.875Z",
+  "generatedAt": "2026-11-20T12:57:38.153Z",
   "highlights": [
     {
       "title": "Nvidia, AMD, Micron Sink as Anthropic Closes 17% Above IPO Price",
@@ -209,23 +209,21 @@
       "category": "ai"
     },
     {
-      "title": "Anthropic’s record US$81.3 billion IPO arms US AI giant for price war with Chinese rivals",
-      "link": "https://www.scmp.com/tech/big-tech/article/3375005/anthropics-record-us813-billion-ipo-arms-us-ai-giant-price-war-chinese-rivals",
-      "description": "Anthropic’s record-shattering US$81.3 billion initial public offering (IPO) is handing the US artificial intelligence powerhouse a massive war chest to wage a global price war, piling fresh valuation and monetisation pressure on lower-cost Chinese rivals, according to analysts. The San Francisco-based creator of the Claude chatbot priced its shares at US$83 apiece on Wednesday, above its marketed range of US$70 to US$78, giving the firm a market capitalisation of around US$1.5 trillion ahead of.",
-      "published": "2026-11-19T05:30:07.000Z",
-      "source": "SCMP",
-      "sourceKey": "scmp_tech",
+      "title": "Meet the seven Anthropic founders whose fortunes could grow by billions",
+      "link": "https://www.euronews.com/2026/11/19/meet-the-seven-anthropic-founders-whose-fortunes-could-grow-by-billions",
+      "description": "From former OpenAI researchers to a British technology journalist, the people behind the Claude chatbot could each see their fortunes soar even further into the billions when the company goes public.",
+      "published": "2026-11-19T07:45:17.000Z",
+      "source": "Euronews Next",
+      "sourceKey": "euronews_next",
       "priority": 2,
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/fa3bdbd5-1f67-49ce-9e03-09cd5a7621e2_f88211c5.jpg?itok=2JoX-mXy&v=1795064221",
+      "image": null,
       "baseScore": 16,
       "relevanceScore": 16,
       "matchedKeywords": [
         "anthropic",
-        "ipo",
         "billion",
-        "claude",
-        "artificial intelligence",
-        "valuation"
+        "openai",
+        "claude"
       ],
       "category": "ai"
     }
@@ -1211,6 +1209,25 @@
         "category": "ai"
       },
       {
+        "title": "Meet the seven Anthropic founders whose fortunes could grow by billions",
+        "link": "https://www.euronews.com/2026/11/19/meet-the-seven-anthropic-founders-whose-fortunes-could-grow-by-billions",
+        "description": "From former OpenAI researchers to a British technology journalist, the people behind the Claude chatbot could each see their fortunes soar even further into the billions when the company goes public.",
+        "published": "2026-11-19T07:45:17.000Z",
+        "source": "Euronews Next",
+        "sourceKey": "euronews_next",
+        "priority": 2,
+        "image": null,
+        "baseScore": 16,
+        "relevanceScore": 16,
+        "matchedKeywords": [
+          "anthropic",
+          "billion",
+          "openai",
+          "claude"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "Anthropic’s record US$81.3 billion IPO arms US AI giant for price war with Chinese rivals",
         "link": "https://www.scmp.com/tech/big-tech/article/3375005/anthropics-record-us813-billion-ipo-arms-us-ai-giant-price-war-chinese-rivals",
         "description": "Anthropic’s record-shattering US$81.3 billion initial public offering (IPO) is handing the US artificial intelligence powerhouse a massive war chest to wage a global price war, piling fresh valuation and monetisation pressure on lower-cost Chinese rivals, according to analysts. The San Francisco-based creator of the Claude chatbot priced its shares at US$83 apiece on Wednesday, above its marketed range of US$70 to US$78, giving the firm a market capitalisation of around US$1.5 trillion ahead of.",
@@ -1986,6 +2003,25 @@
         "matchedKeywords": [
           "google",
           "gemini"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "SpaceX Wraps Up $32 Billion of AI Chip Debt at Yields Topping 8%",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-19/spacex-eyes-at-least-32-billion-ai-chip-debt-sale-on-thursday",
+        "description": "SpaceX’s $32 billion debt deal to fund its access to artificial intelligence chips may serve as a blueprint for similar transactions as the next wave of financing tied to the artificial intelligence boom gets underway. It is likely going to be costly for the companies borrowing.",
+        "published": "2026-11-19T15:07:20.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "spacex",
+          "chip",
+          "billion",
+          "artificial intelligence"
         ],
         "category": "ai"
       },
@@ -3440,6 +3476,23 @@
         "matchedKeywords": [
           "acquires",
           "acquire"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Lumentum CEO defends Marvell deal after stock plunge: 'We've got work to do' with shareholders",
+        "link": "https://www.cnbc.com/2026/11/19/lumentum-marvell-deal-ceo-shareholders-cramer.html",
+        "description": "Lumentum CEO defended the planned Marvell merger despite stock sell-off.",
+        "published": "2026-11-19T23:47:42.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_top",
+        "priority": 1,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "ceo",
+          "merger"
         ],
         "category": "business"
       },
@@ -6046,5 +6099,5 @@
       }
     ]
   },
-  "totalArticles": 324
+  "totalArticles": 327
 }
