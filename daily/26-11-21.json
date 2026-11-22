@@ -4,7 +4,7 @@
   "title": "Saturday, Nov 21",
   "dateRange": "November 21, 2026",
   "date": "2026-11-21",
-  "generatedAt": "2026-11-22T09:55:25.321Z",
+  "generatedAt": "2026-11-22T17:51:21.769Z",
   "highlights": [
     {
       "title": "Anthropic Makes Its Public Market Debut",
@@ -58,6 +58,24 @@
       "relevanceScore": 15,
       "matchedKeywords": [
         "bytedance",
+        "openai",
+        "anthropic",
+        "ai agent"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "OpenAI, Anthropic and rivals seek AI agent rules to prevent commerce chaos",
+      "link": "https://www.coindesk.com/tech/2026/11/21/openai-anthropic-and-rivals-seek-ai-agent-rules-to-prevent-commerce-chaos",
+      "description": "OpenAI, Anthropic, and other technology giants are backing standards designed to enable agents to work together without putting any one company in control.",
+      "published": "2026-11-21T14:00:00.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "priority": 3,
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/1bd48a3fe18062fee7cb925250ccc088b0e73dc9-2312x1264.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+      "baseScore": 15,
+      "relevanceScore": 15,
+      "matchedKeywords": [
         "openai",
         "anthropic",
         "ai agent"
@@ -188,25 +206,6 @@
         "jensen huang"
       ],
       "category": "ai"
-    },
-    {
-      "title": "Is the AI Bubble Finally Popping? Nvidia Crashes 48% as Wall Street Experts Sound the Alarm",
-      "link": "https://decrypt.co/383754/ai-bubble-finally-popping-nvidia-crashes-48-wall-street-alarm",
-      "description": "Tech stocks are buckling after Anthropic’s historic IPO and Nvidia’s leadership crisis, while Bitcoin has slipped below $60,000. Experts disagree on whether AI faces a correction or a dot-com-style bust.",
-      "published": "2026-11-21T14:01:06.000Z",
-      "source": "Decrypt",
-      "sourceKey": "decrypt",
-      "priority": 3,
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg@png",
-      "baseScore": 13,
-      "relevanceScore": 13,
-      "matchedKeywords": [
-        "nvidia",
-        "anthropic",
-        "ipo",
-        "bitcoin"
-      ],
-      "category": "ai"
     }
   ],
   "byCategory": {
@@ -263,6 +262,24 @@
         "relevanceScore": 15,
         "matchedKeywords": [
           "bytedance",
+          "openai",
+          "anthropic",
+          "ai agent"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "OpenAI, Anthropic and rivals seek AI agent rules to prevent commerce chaos",
+        "link": "https://www.coindesk.com/tech/2026/11/21/openai-anthropic-and-rivals-seek-ai-agent-rules-to-prevent-commerce-chaos",
+        "description": "OpenAI, Anthropic, and other technology giants are backing standards designed to enable agents to work together without putting any one company in control.",
+        "published": "2026-11-21T14:00:00.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/1bd48a3fe18062fee7cb925250ccc088b0e73dc9-2312x1264.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+        "baseScore": 15,
+        "relevanceScore": 15,
+        "matchedKeywords": [
           "openai",
           "anthropic",
           "ai agent"
@@ -1158,6 +1175,22 @@
         "category": "ev_autonomous"
       },
       {
+        "title": "‘It’s Like GTA’: Musk Touts Video Game-Like Update to Tesla FSD",
+        "link": "https://gizmodo.com/its-like-gta-musk-touts-video-game-like-update-to-tesla-fsd-2000843584",
+        "description": "FSD v15 was released to some vehicles on Saturday. Its visualization system may be the most remarkable part.",
+        "published": "2026-11-21T22:53:10.000Z",
+        "source": "Gizmodo",
+        "sourceKey": "gizmodo",
+        "priority": 2,
+        "image": "https://gizmodo.com/app/uploads/2026/11/tesla-fsd-gta-1280x719.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "tesla"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
         "title": "Tesla Cybertruck’s already impressive turning radius gets even tighter",
         "link": "https://electrek.co/2026/11/21/tesla-cybertruck-tighter-turning-radius-update/",
         "description": "Tesla is rolling out an update that makes the Cybertruck turn even tighter, improving on what was already one of the best turning radiuses you can get in a full-size pickup. But there’s a catch. It only works on 2027 model year Cybertrucks, and Tesla plans to stop building the truck by the end of next summer. more…",
@@ -1676,5 +1709,5 @@
       }
     ]
   },
-  "totalArticles": 82
+  "totalArticles": 84
 }
