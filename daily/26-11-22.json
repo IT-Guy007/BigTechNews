@@ -4,8 +4,29 @@
   "title": "Sunday, Nov 22",
   "dateRange": "November 22, 2026",
   "date": "2026-11-22",
-  "generatedAt": "2026-11-22T17:51:21.865Z",
+  "generatedAt": "2026-11-22T23:38:19.461Z",
   "highlights": [
+    {
+      "title": "AI Bubble Deflating? Dell, Workday on Deck",
+      "link": "https://www.theinformation.com/articles/ai-bubble-deflating-dell-workday-deck",
+      "description": "Friday’s tech stock bloodbath prompted much gnashing of teeth over the weekend. With stocks most exposed to AI—such as Nvidia, AMD, Broadcom, neoclouds such as CoreWeave, Nebius—falling in the 12-16% range, and Anthropic tanking on its second day of trading, it felt like the air has finally gone out of the AI bubble. Indeed, worries about AI financing are so intense that Oracle issued a statement late on Friday proclaiming that it had raised all the money it needed for its big OpenAI data center",
+      "published": "2026-11-22T23:01:12.000Z",
+      "source": "The Information",
+      "sourceKey": "theinformation",
+      "priority": 1,
+      "image": null,
+      "baseScore": 26,
+      "relevanceScore": 26,
+      "matchedKeywords": [
+        "dell",
+        "nvidia",
+        "openai",
+        "anthropic",
+        "amd",
+        "broadcom"
+      ],
+      "category": "chips_cloud"
+    },
     {
       "title": "What Comes Next After Anthropic’s Historic IPO",
       "link": "https://www.wsj.com/tech/ai/what-comes-next-after-anthropics-historic-ipo-464368c1?mod=rss_Technology",
@@ -60,6 +81,43 @@
         "claude",
         "openai",
         "anthropic"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "How Dario Amodei built Anthropic's tightly knit culture with essays, Slack memos, and \"Vision Quest\" talks, as Anthropic seeds his ideas with opinion-makers",
+      "link": "https://www.techmeme.com/261122/p12#a261122p12",
+      "description": "How Dario Amodei built Anthropic's tightly knit culture with essays, Slack memos, and “Vision Quest” talks, as Anthropic seeds his ideas with opinion-makers — Anthropic is worth more than $1 trillion. CEO Dario Amodei also wants to sell the world on his philosophy of the future.",
+      "published": "2026-11-22T23:20:08.000Z",
+      "source": "Techmeme",
+      "sourceKey": "techmeme",
+      "priority": 1,
+      "image": "http://www.techmeme.com/261122/i12.jpg",
+      "via": "Washington Post",
+      "baseScore": 12,
+      "relevanceScore": 12,
+      "matchedKeywords": [
+        "anthropic",
+        "dario amodei",
+        "ceo"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "OpenAI shares its models' perplexity, or how well they predict data, and urges pacing limits based on such metrics, citing a possible 2027 avalanche of AI gains",
+      "link": "https://www.techmeme.com/261122/p9#a261122p9",
+      "description": "OpenAI shares its models' perplexity, or how well they predict data, and urges pacing limits based on such metrics, citing a possible 2027 avalanche of AI gains — - Difficulty of comparison across labs. … - Detachment from actionable evaluations. … - Not accounting for advances outside of pretraining.",
+      "published": "2026-11-22T18:25:01.000Z",
+      "source": "Techmeme",
+      "sourceKey": "techmeme",
+      "priority": 1,
+      "image": "http://www.techmeme.com/261122/i9.jpg",
+      "via": "OpenAI",
+      "baseScore": 12,
+      "relevanceScore": 12,
+      "matchedKeywords": [
+        "openai",
+        "perplexity"
       ],
       "category": "ai"
     },
@@ -126,10 +184,10 @@
       ]
     },
     {
-      "title": "How Apple Got Caught Up in Google Search Ads Slowdown",
-      "link": "https://www.theinformation.com/articles/apple-got-caught-google-search-ads-slowdown",
-      "description": "Google’s shares have fallen 18% since the company reported a sharp slowdown in search advertising revenue growth stemming in part from the increased popularity of its AI features. Google isn’t the only tech company feeling the pain from that shift. Growth in Apple’s services revenue, which includes a cut of ad revenue Google makes when people search on Apple’s Safari web browser, slowed to 10% in the latest quarter from 12% in the prior quarter, and will cool further in the current quarter, exec",
-      "published": "2026-11-22T16:00:57.000Z",
+      "title": "OpenAI Calls For Leading AI Firms to Agree on AI Development Limits",
+      "link": "https://www.theinformation.com/briefings/openai-calls-leading-ai-firms-agree-ai-development-limits",
+      "description": "OpenAI’s chief scientist called for leading AI model developers to agree on limits that they won’t cross “until our ability to understand and monitor AI behavior achieve a certain concrete milestone.” “I’d like an industry standard that specifies a first limit on development, measured by some ...",
+      "published": "2026-11-22T21:08:15.000Z",
       "source": "The Information",
       "sourceKey": "theinformation",
       "priority": 1,
@@ -137,65 +195,274 @@
       "baseScore": 9,
       "relevanceScore": 9,
       "matchedKeywords": [
-        "google",
-        "apple"
-      ],
-      "category": "business"
-    },
-    {
-      "title": "Nvidia Board Faces a Governance Reckoning",
-      "link": "https://www.bloomberg.com/news/videos/2026-11-22/nvidia-board-faces-a-governance-reckoning-video",
-      "description": "On Bloomberg This Weekend, Bloomberg opinion columnist Gautam Mukunda tells hosts David Gura and Christina Ruffini that Jensen Huang’s departure from Nvidia has exposed broader corporate governance problems, as the board faces outside pressure to bring him back while investigations and potential shareholder litigation loom. Mukunda argues that Silicon Valley’s tendency to concentrate power around founder CEOs can weaken oversight, while Huang’s exit also complicates the debate over whether the U",
-      "published": "2026-11-22T14:11:25.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "baseScore": 9,
-      "relevanceScore": 9,
-      "matchedKeywords": [
-        "nvidia",
-        "jensen huang",
-        "ceo"
-      ],
-      "category": "chips_cloud"
-    },
-    {
-      "title": "Protesters storm Meta offices in India",
-      "link": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
-      "description": "Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN. Members of the party's youth wing are demanding the company restore accounts of party leaders and warned of more protests to come. The Congress party has criticized Meta for censoring speech that Prime Minister Narendra Modi and his BJP party disagree with, and has placed banners accusing Mark Zuckerberg of favoring BJP around the city. Wh",
-      "published": "2026-11-22T15:15:07.000Z",
-      "source": "The Verge",
-      "sourceKey": "theverge",
-      "priority": 1,
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_3_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "baseScore": 8,
-      "relevanceScore": 8,
-      "matchedKeywords": [
-        "meta",
-        "mark zuckerberg"
-      ],
-      "category": "regulation"
-    },
-    {
-      "title": "Jony Ive, ex-OpenAI product designer Joey Flynn, and others on Silicon Valley's obsession with \"taste\" as a moat against AI slop and whether AI can learn it",
-      "link": "https://www.techmeme.com/261122/p7#a261122p7",
-      "description": "Jony Ive, ex-OpenAI product designer Joey Flynn, and others on Silicon Valley's obsession with “taste” as a moat against AI slop and whether AI can learn it — To move through A.I.-era San Francisco as a relatively normal person is to confront the sheer volume of bewildering concepts that tech has lately thrust upon us.",
-      "published": "2026-11-22T15:00:34.000Z",
-      "source": "Techmeme",
-      "sourceKey": "techmeme",
-      "priority": 1,
-      "image": "http://www.techmeme.com/261122/i7.jpg",
-      "via": "New York Times",
-      "baseScore": 8,
-      "relevanceScore": 8,
-      "matchedKeywords": [
-        "openai"
+        "openai",
+        "ai model"
       ],
       "category": "ai"
     }
   ],
   "byCategory": {
+    "chips_cloud": [
+      {
+        "title": "AI Bubble Deflating? Dell, Workday on Deck",
+        "link": "https://www.theinformation.com/articles/ai-bubble-deflating-dell-workday-deck",
+        "description": "Friday’s tech stock bloodbath prompted much gnashing of teeth over the weekend. With stocks most exposed to AI—such as Nvidia, AMD, Broadcom, neoclouds such as CoreWeave, Nebius—falling in the 12-16% range, and Anthropic tanking on its second day of trading, it felt like the air has finally gone out of the AI bubble. Indeed, worries about AI financing are so intense that Oracle issued a statement late on Friday proclaiming that it had raised all the money it needed for its big OpenAI data center",
+        "published": "2026-11-22T23:01:12.000Z",
+        "source": "The Information",
+        "sourceKey": "theinformation",
+        "priority": 1,
+        "image": null,
+        "baseScore": 26,
+        "relevanceScore": 26,
+        "matchedKeywords": [
+          "dell",
+          "nvidia",
+          "openai",
+          "anthropic",
+          "amd",
+          "broadcom"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Lenders back SpaceX's $43 billion Nvidia GPU deal but worry the collateral could end up in orbit, making them impossible to reclaim if Musk defaults",
+        "link": "https://www.tomshardware.com/tech-industry/data-centers/lenders-back-spacexs-usd43-billion-nvidia-gpu-deal-but-worry-the-collateral-could-end-up-in-orbit-making-it-impossible-to-reclaim-if-musk-defaults-five-year-hell-or-high-water-lease-may-lack-a-written-earth-only-guarantee",
+        "description": "The $43 billion loan is structured as a unique arrangement in which a different company buys the Nvidia chips, while SpaceX makes quarterly payments to use them.",
+        "published": "2026-11-22T12:00:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/kpcmv7uS8rMeQdJP4KMMfG-1920-80.png",
+        "baseScore": 11,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "nvidia",
+          "spacex",
+          "gpu",
+          "billion",
+          "chip"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "The Alice Huang Associate Accused of Funneling Nvidia Chips to China",
+        "link": "https://www.wsj.com/tech/li-ming-megaspeed-nvidia-chips-china-6260d836?mod=rss_Technology",
+        "description": "The defendant in a case involving chip smuggling worked with Jensen Huang’s romantic partner.",
+        "published": "2026-11-22T02:00:00.000Z",
+        "source": "WSJ",
+        "sourceKey": "wsj_tech",
+        "priority": 1,
+        "image": "https://images.wsj.net/im-69232147",
+        "baseScore": 9,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "nvidia",
+          "chip",
+          "jensen huang"
+        ],
+        "category": "chips_cloud",
+        "alsoIn": [
+          {
+            "source": "Techmeme",
+            "title": "Sources: Alice Huang associate Li Ming, whom Singapore charged with fraud in 2025, was central to smuggling restricted AI chips from Southeast Asia to China",
+            "link": "https://www.techmeme.com/261122/p1#a261122p1"
+          }
+        ]
+      },
+      {
+        "title": "A week after urging an Nvidia shake-up, Scott Bessent says Jensen Huang's return should depend on probes of its China chip sales and presses Nvidia for answers",
+        "link": "https://www.techmeme.com/261122/p10#a261122p10",
+        "description": "A week after urging an Nvidia shake-up, Scott Bessent says Jensen Huang's return should depend on probes of its China chip sales and presses Nvidia for answers — The treasury secretary said on CBS that it was too soon to say if Jensen Huang should return as the company's chief executive.",
+        "published": "2026-11-22T19:50:01.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261122/i10.jpg",
+        "via": "New York Times",
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang",
+          "chip"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Nvidia Board Faces a Governance Reckoning",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-22/nvidia-board-faces-a-governance-reckoning-video",
+        "description": "On Bloomberg This Weekend, Bloomberg opinion columnist Gautam Mukunda tells hosts David Gura and Christina Ruffini that Jensen Huang’s departure from Nvidia has exposed broader corporate governance problems, as the board faces outside pressure to bring him back while investigations and potential shareholder litigation loom. Mukunda argues that Silicon Valley’s tendency to concentrate power around founder CEOs can weaken oversight, while Huang’s exit also complicates the debate over whether the U",
+        "published": "2026-11-22T14:11:25.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang",
+          "ceo"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "How Amazon Plays the Long, Expensive Data Center Game That Neoclouds Can’t",
+        "link": "https://www.theinformation.com/articles/amazon-plays-long-expensive-data-center-game-neoclouds",
+        "description": "INDIANA, Penn.—A visit this week to an Amazon data center project in Pennsylvania coal country gave me a glimpse of the era we all knew was coming: when tech giants lay claim to some of the hardest-to-secure AI infrastructure while smaller cloud providers, which Nvidia has propped up financially, are trying to hang on. The 4.4-gigawatt campus in Pennsylvania, once home to a 2-GW coal-fired power plant near the economically depressed borough of Homer City, could become one of the largest AI power",
+        "published": "2026-11-22T18:18:39.000Z",
+        "source": "The Information",
+        "sourceKey": "theinformation",
+        "priority": 1,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "amazon",
+          "data center",
+          "nvidia"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "17-year-old Windows 7 gets unofficial DirectX 12 and Vulkan 1.4 support",
+        "link": "https://www.tomshardware.com/software/windows/17-year-old-windows-7-gets-unofficial-directx-12-and-vulkan-1-4-support-enthusiasts-bring-nvidia-rtx-50-amd-rx-9000-and-intel-arc-gpus-to-the-aging-os",
+        "description": "A community-developed project brings DirectX 12 and Vulkan 1.4 support to Microsoft's retired operating system, allowing modern Nvidia, AMD, and Intel graphics cards to work with Windows 7.",
+        "published": "2026-11-22T20:03:52.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/MAS29A8ZaDyac63oybzR59-1920-80.jpg",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "microsoft",
+          "nvidia",
+          "intel",
+          "amd"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "SoftBank verkende overname van SK hynix voor ongeveer 1 biljoen dollar",
+        "link": "https://tweakers.net/nieuws/254806/softbank-verkende-overname-van-sk-hynix-voor-ongeveer-1-biljoen-dollar.html",
+        "description": "De grote Japanse techinvesteerder SoftBank overwoog de Zuid-Koreaanse geheugenchipmaker SK hynix over te nemen. Vermoedelijk had die overname ongeveer 1 biljoen dollar gekost. De overname is op dit moment niet in 'actieve overweging', zegt SoftBank.",
+        "published": "2026-11-22T08:57:13.000Z",
+        "source": "Tweakers",
+        "sourceKey": "tweakers",
+        "priority": 2,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "sk hynix",
+          "softbank"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Google's Quantum Chip Beats Classical Limits in 'Impossible' Game",
+        "link": "https://decrypt.co/383743/googles-quantum-chip-beats-classical-limits-in-impossible-game-tests-105-qubits",
+        "description": "Google’s Willow quantum processor beat the classical ceiling in a four-qubit coordination game, revealing a promising hardware test rather than commercial quantum computing.",
+        "published": "2026-11-22T14:01:02.000Z",
+        "source": "Decrypt",
+        "sourceKey": "decrypt",
+        "priority": 3,
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg@png",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "google",
+          "chip",
+          "quantum computing"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Trump's AI Chip Crackdown on China After Nvidia Crisis Squeezes Southeast Asia",
+        "link": "https://www.bloomberg.com/news/features/2026-11-22/trump-s-ai-chip-crackdown-on-china-after-nvidia-crisis-squeezes-southeast-asia",
+        "description": "Washington’s new rulebook spells trouble for a multibillion dollar cloud business helping to power the region’s data center boom.",
+        "published": "2026-11-22T22:00:13.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "nvidia",
+          "chip",
+          "data center"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Current and former officials from the US and other countries describe the Chinese spy agency MSS' campaign to help Chinese companies acquire advanced AI chips (New York Times)",
+        "link": "https://www.techmeme.com/261122/p5#a261122p5",
+        "description": "New York Times: Current and former officials from the US and other countries describe the Chinese spy agency MSS' campaign to help Chinese companies acquire advanced AI chips — China's espionage agency has been running a secret campaign to help the country's companies acquire advanced A.I. chips …",
+        "published": "2026-11-22T07:00:41.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261122/i5.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "acquire",
+          "chip"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "TSMC reportedly pauses shipments to Chinese designers after U.S. export rules flag decade-old 16nm and 14nm nodes",
+        "link": "https://www.tomshardware.com/tech-industry/policy/tsmc-reportedly-pauses-shipments-to-chinese-designers-after-u-s-export-rules-flag-decade-old-16nm-and-14nm-nodes-new-bis-controls-threaten-smartphone-tv-and-automotive-chips",
+        "description": "The BIS's IFR says that chip fabs can no longer assume a design's performance based on the specifications provided by their customer.",
+        "published": "2026-11-22T13:30:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/wPT2pgJDrMKWtsy78z2WnY-1920-80.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "tsmc",
+          "chip"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Nvidia gerät weiter unter Druck – und US-Tech-Aktien in den Bärenmarkt",
+        "link": "https://www.heise.de/news/Nvidia-geraet-weiter-unter-Druck-und-US-Tech-Aktien-in-den-Baerenmarkt-11533802.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "Ermittlungen gegen Nvidia und Skandale um Huang belasten die Kurse. US-Tech-Aktien rutschen nach herben Verlusten in den Bärenmarkt.",
+        "published": "2026-11-22T17:26:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/5/9/8/9/shutterstock_421955908-1a6f7635d0c7794f.jpeg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "nvidia"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "OLED gaming laptop with RTX 5060 and Intel Core Ultra 7 CPU price crashes by $650 in Black Friday offer — Lenovo Legion 5i laptop drops to $1,349 with free games at B&H",
+        "link": "https://www.tomshardware.com/laptops/gaming-laptops/oled-gaming-laptop-with-rtx-5060-and-intel-core-ultra-7-cpu-price-crashes-by-usd650-in-black-friday-offer-lenovo-legion-5i-laptop-drops-to-usd1-349-with-free-games-at-b-and-h",
+        "description": "Getting a gaming laptop this holiday season doesn't have to mean spending thousands of dollars, as this modestly priced Lenovo Legion 5i OLED gaming laptop has dropped to just $1,349 at B&H.",
+        "published": "2026-11-22T09:05:40.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/cTh3nz3Ucy6S4o2GLZ38Mb-1920-80.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "intel"
+        ],
+        "category": "chips_cloud"
+      }
+    ],
     "business": [
       {
         "title": "What Comes Next After Anthropic’s Historic IPO",
@@ -246,6 +513,24 @@
         "relevanceScore": 9,
         "matchedKeywords": [
           "google",
+          "apple"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Gurman: Siri Layoffs Spared Newer AI Systems, But Problems Persist",
+        "link": "https://www.macrumors.com/2026/11/22/siri-layoffs-spared-newer-ai-systems/",
+        "description": "Apple's recent Siri layoffs affected employees working on the assistant's older infrastructure rather than its newer AI systems, according to Bloomberg's Mark Gurman. In his latest \"Power On\" newsletter, Gurman said employees have yet to notice a major difference in how Apple operates despite efforts to accelerate development and spread significant releases throughout the year. He added that the company faces growing competition from AI developers that update their models and services far more f",
+        "published": "2026-11-22T20:29:51.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/11/Siri-AI-Icon.jpeg",
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "layoffs",
+          "layoff",
           "apple"
         ],
         "category": "business"
@@ -342,6 +627,94 @@
         "category": "ai"
       },
       {
+        "title": "How Dario Amodei built Anthropic's tightly knit culture with essays, Slack memos, and \"Vision Quest\" talks, as Anthropic seeds his ideas with opinion-makers",
+        "link": "https://www.techmeme.com/261122/p12#a261122p12",
+        "description": "How Dario Amodei built Anthropic's tightly knit culture with essays, Slack memos, and “Vision Quest” talks, as Anthropic seeds his ideas with opinion-makers — Anthropic is worth more than $1 trillion. CEO Dario Amodei also wants to sell the world on his philosophy of the future.",
+        "published": "2026-11-22T23:20:08.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261122/i12.jpg",
+        "via": "Washington Post",
+        "baseScore": 12,
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "anthropic",
+          "dario amodei",
+          "ceo"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "OpenAI shares its models' perplexity, or how well they predict data, and urges pacing limits based on such metrics, citing a possible 2027 avalanche of AI gains",
+        "link": "https://www.techmeme.com/261122/p9#a261122p9",
+        "description": "OpenAI shares its models' perplexity, or how well they predict data, and urges pacing limits based on such metrics, citing a possible 2027 avalanche of AI gains — - Difficulty of comparison across labs. … - Detachment from actionable evaluations. … - Not accounting for advances outside of pretraining.",
+        "published": "2026-11-22T18:25:01.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261122/i9.jpg",
+        "via": "OpenAI",
+        "baseScore": 12,
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "openai",
+          "perplexity"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "OpenAI Calls For Leading AI Firms to Agree on AI Development Limits",
+        "link": "https://www.theinformation.com/briefings/openai-calls-leading-ai-firms-agree-ai-development-limits",
+        "description": "OpenAI’s chief scientist called for leading AI model developers to agree on limits that they won’t cross “until our ability to understand and monitor AI behavior achieve a certain concrete milestone.” “I’d like an industry standard that specifies a first limit on development, measured by some ...",
+        "published": "2026-11-22T21:08:15.000Z",
+        "source": "The Information",
+        "sourceKey": "theinformation",
+        "priority": 1,
+        "image": null,
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "openai",
+          "ai model"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "OpenAI Chief Scientist Urges Industry Limits on AI Development",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-22/openai-chief-scientist-urges-industry-limits-on-ai-development",
+        "description": "OpenAI’s chief scientist proposed that artificial intelligence companies agree to limits on developing increasingly powerful models until researchers have better ways to understand and monitor their behavior.",
+        "published": "2026-11-22T19:40:54.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "openai",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Perplexity and Intelligence",
+        "link": "https://openai.com/index/perplexity-and-intelligence/",
+        "description": "Article URL: https://openai.com/index/perplexity-and-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50601525 Points: 439 # Comments: 298",
+        "published": "2026-11-22T17:06:27.000Z",
+        "source": "Hacker News",
+        "sourceKey": "hackernews",
+        "priority": 2,
+        "image": null,
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "perplexity",
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "Jony Ive, ex-OpenAI product designer Joey Flynn, and others on Silicon Valley's obsession with \"taste\" as a moat against AI slop and whether AI can learn it",
         "link": "https://www.techmeme.com/261122/p7#a261122p7",
         "description": "Jony Ive, ex-OpenAI product designer Joey Flynn, and others on Silicon Valley's obsession with “taste” as a moat against AI slop and whether AI can learn it — To move through A.I.-era San Francisco as a relatively normal person is to confront the sheer volume of bewildering concepts that tech has lately thrust upon us.",
@@ -393,6 +766,23 @@
         "category": "ai"
       },
       {
+        "title": "After FAA, Microsoft, and bank outages, DNI Jay Clayton says Americans should prepare for \"bumps in the road\" as systems are upgraded to adapt to the AI age",
+        "link": "https://www.techmeme.com/261122/p11#a261122p11",
+        "description": "After FAA, Microsoft, and bank outages, DNI Jay Clayton says Americans should prepare for “bumps in the road” as systems are upgraded to adapt to the AI age — Director of National Intelligence Jay Clayton warned Americans to prepare for “bumps in the road” …",
+        "published": "2026-11-22T20:35:00.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261122/i11.jpg",
+        "via": "CNBC",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "microsoft"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "Sources: AI server suppliers like Dell, HPE, Lenovo, and Supermicro are demanding substantially higher prices from buyers, months after contracts were signed (Financial Times)",
         "link": "https://www.techmeme.com/261122/p2#a261122p2",
         "description": "Financial Times: Sources: AI server suppliers like Dell, HPE, Lenovo, and Supermicro are demanding substantially higher prices from buyers, months after contracts were signed — Dell, HPE, Lenovo and Supermicro demand more for equipment, with the increased costs hitting trading firms",
@@ -405,6 +795,22 @@
         "relevanceScore": 5,
         "matchedKeywords": [
           "dell"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Opinion | America Hits the Brakes on AI",
+        "link": "https://www.wsj.com/opinion/america-hits-the-brakes-on-ai-84a63996?mod=rss_Technology",
+        "description": "From data-center ballot measures to the Jensen Huang scandal, it’s been a bad month for the accelerationists.",
+        "published": "2026-11-22T20:47:00.000Z",
+        "source": "WSJ",
+        "sourceKey": "wsj_tech",
+        "priority": 1,
+        "image": "https://opinion-images.wsj.net/im-25048098",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "jensen huang"
         ],
         "category": "ai"
       },
@@ -440,172 +846,6 @@
           "artificial intelligence"
         ],
         "category": "ai"
-      }
-    ],
-    "chips_cloud": [
-      {
-        "title": "Lenders back SpaceX's $43 billion Nvidia GPU deal but worry the collateral could end up in orbit, making them impossible to reclaim if Musk defaults",
-        "link": "https://www.tomshardware.com/tech-industry/data-centers/lenders-back-spacexs-usd43-billion-nvidia-gpu-deal-but-worry-the-collateral-could-end-up-in-orbit-making-it-impossible-to-reclaim-if-musk-defaults-five-year-hell-or-high-water-lease-may-lack-a-written-earth-only-guarantee",
-        "description": "The $43 billion loan is structured as a unique arrangement in which a different company buys the Nvidia chips, while SpaceX makes quarterly payments to use them.",
-        "published": "2026-11-22T12:00:00.000Z",
-        "source": "Tom's Hardware",
-        "sourceKey": "tomshardware",
-        "priority": 2,
-        "image": "https://cdn.mos.cms.futurecdn.net/kpcmv7uS8rMeQdJP4KMMfG-1920-80.png",
-        "baseScore": 11,
-        "relevanceScore": 11,
-        "matchedKeywords": [
-          "nvidia",
-          "spacex",
-          "gpu",
-          "billion",
-          "chip"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": "The Alice Huang Associate Accused of Funneling Nvidia Chips to China",
-        "link": "https://www.wsj.com/tech/li-ming-megaspeed-nvidia-chips-china-6260d836?mod=rss_Technology",
-        "description": "The defendant in a case involving chip smuggling worked with Jensen Huang’s romantic partner.",
-        "published": "2026-11-22T02:00:00.000Z",
-        "source": "WSJ",
-        "sourceKey": "wsj_tech",
-        "priority": 1,
-        "image": "https://images.wsj.net/im-69232147",
-        "baseScore": 9,
-        "relevanceScore": 10,
-        "matchedKeywords": [
-          "nvidia",
-          "chip",
-          "jensen huang"
-        ],
-        "category": "chips_cloud",
-        "alsoIn": [
-          {
-            "source": "Techmeme",
-            "title": "Sources: Alice Huang associate Li Ming, whom Singapore charged with fraud in 2025, was central to smuggling restricted AI chips from Southeast Asia to China",
-            "link": "https://www.techmeme.com/261122/p1#a261122p1"
-          }
-        ]
-      },
-      {
-        "title": "Nvidia Board Faces a Governance Reckoning",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-22/nvidia-board-faces-a-governance-reckoning-video",
-        "description": "On Bloomberg This Weekend, Bloomberg opinion columnist Gautam Mukunda tells hosts David Gura and Christina Ruffini that Jensen Huang’s departure from Nvidia has exposed broader corporate governance problems, as the board faces outside pressure to bring him back while investigations and potential shareholder litigation loom. Mukunda argues that Silicon Valley’s tendency to concentrate power around founder CEOs can weaken oversight, while Huang’s exit also complicates the debate over whether the U",
-        "published": "2026-11-22T14:11:25.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "baseScore": 9,
-        "relevanceScore": 9,
-        "matchedKeywords": [
-          "nvidia",
-          "jensen huang",
-          "ceo"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": "SoftBank verkende overname van SK hynix voor ongeveer 1 biljoen dollar",
-        "link": "https://tweakers.net/nieuws/254806/softbank-verkende-overname-van-sk-hynix-voor-ongeveer-1-biljoen-dollar.html",
-        "description": "De grote Japanse techinvesteerder SoftBank overwoog de Zuid-Koreaanse geheugenchipmaker SK hynix over te nemen. Vermoedelijk had die overname ongeveer 1 biljoen dollar gekost. De overname is op dit moment niet in 'actieve overweging', zegt SoftBank.",
-        "published": "2026-11-22T08:57:13.000Z",
-        "source": "Tweakers",
-        "sourceKey": "tweakers",
-        "priority": 2,
-        "image": null,
-        "baseScore": 8,
-        "relevanceScore": 8,
-        "matchedKeywords": [
-          "sk hynix",
-          "softbank"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": "Google's Quantum Chip Beats Classical Limits in 'Impossible' Game",
-        "link": "https://decrypt.co/383743/googles-quantum-chip-beats-classical-limits-in-impossible-game-tests-105-qubits",
-        "description": "Google’s Willow quantum processor beat the classical ceiling in a four-qubit coordination game, revealing a promising hardware test rather than commercial quantum computing.",
-        "published": "2026-11-22T14:01:02.000Z",
-        "source": "Decrypt",
-        "sourceKey": "decrypt",
-        "priority": 3,
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg@png",
-        "baseScore": 8,
-        "relevanceScore": 8,
-        "matchedKeywords": [
-          "google",
-          "chip",
-          "quantum computing"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": "Current and former officials from the US and other countries describe the Chinese spy agency MSS' campaign to help Chinese companies acquire advanced AI chips (New York Times)",
-        "link": "https://www.techmeme.com/261122/p5#a261122p5",
-        "description": "New York Times: Current and former officials from the US and other countries describe the Chinese spy agency MSS' campaign to help Chinese companies acquire advanced AI chips — China's espionage agency has been running a secret campaign to help the country's companies acquire advanced A.I. chips …",
-        "published": "2026-11-22T07:00:41.000Z",
-        "source": "Techmeme",
-        "sourceKey": "techmeme",
-        "priority": 1,
-        "image": "http://www.techmeme.com/261122/i5.jpg",
-        "baseScore": 5,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "acquire",
-          "chip"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": "TSMC reportedly pauses shipments to Chinese designers after U.S. export rules flag decade-old 16nm and 14nm nodes",
-        "link": "https://www.tomshardware.com/tech-industry/policy/tsmc-reportedly-pauses-shipments-to-chinese-designers-after-u-s-export-rules-flag-decade-old-16nm-and-14nm-nodes-new-bis-controls-threaten-smartphone-tv-and-automotive-chips",
-        "description": "The BIS's IFR says that chip fabs can no longer assume a design's performance based on the specifications provided by their customer.",
-        "published": "2026-11-22T13:30:00.000Z",
-        "source": "Tom's Hardware",
-        "sourceKey": "tomshardware",
-        "priority": 2,
-        "image": "https://cdn.mos.cms.futurecdn.net/wPT2pgJDrMKWtsy78z2WnY-1920-80.jpg",
-        "baseScore": 5,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "tsmc",
-          "chip"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": "Nvidia gerät weiter unter Druck – und US-Tech-Aktien in den Bärenmarkt",
-        "link": "https://www.heise.de/news/Nvidia-geraet-weiter-unter-Druck-und-US-Tech-Aktien-in-den-Baerenmarkt-11533802.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-        "description": "Ermittlungen gegen Nvidia und Skandale um Huang belasten die Kurse. US-Tech-Aktien rutschen nach herben Verlusten in den Bärenmarkt.",
-        "published": "2026-11-22T17:26:00.000Z",
-        "source": "heise online",
-        "sourceKey": "heise",
-        "priority": 2,
-        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/5/9/8/9/shutterstock_421955908-1a6f7635d0c7794f.jpeg",
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "nvidia"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": "OLED gaming laptop with RTX 5060 and Intel Core Ultra 7 CPU price crashes by $650 in Black Friday offer — Lenovo Legion 5i laptop drops to $1,349 with free games at B&H",
-        "link": "https://www.tomshardware.com/laptops/gaming-laptops/oled-gaming-laptop-with-rtx-5060-and-intel-core-ultra-7-cpu-price-crashes-by-usd650-in-black-friday-offer-lenovo-legion-5i-laptop-drops-to-usd1-349-with-free-games-at-b-and-h",
-        "description": "Getting a gaming laptop this holiday season doesn't have to mean spending thousands of dollars, as this modestly priced Lenovo Legion 5i OLED gaming laptop has dropped to just $1,349 at B&H.",
-        "published": "2026-11-22T09:05:40.000Z",
-        "source": "Tom's Hardware",
-        "sourceKey": "tomshardware",
-        "priority": 2,
-        "image": "https://cdn.mos.cms.futurecdn.net/cTh3nz3Ucy6S4o2GLZ38Mb-1920-80.jpg",
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "intel"
-        ],
-        "category": "chips_cloud"
       }
     ],
     "ev_autonomous": [
@@ -653,6 +893,23 @@
         "sourceKey": "tweakers",
         "priority": 2,
         "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "tesla",
+          "self-driving"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Tesla Full Self-Driving v15: Reality View review, new features explained",
+        "link": "https://www.teslarati.com/tesla-full-self-driving-v15-first-hand-look-at-reality-view-new-features/",
+        "description": "Tesla has officially started rolling out the Full Self-Driving version 15 update, and we were lucky enough to get it in the first wave on Saturday night. It comes with a lot of new features, but the biggest is Tesla Reality View, a real-time AI video generation of the outside world that uses less compute […] The post Tesla Full Self-Driving v15: Reality View review, new features explained appeared first on TESLARATI.",
+        "published": "2026-11-22T19:43:58.000Z",
+        "source": "Teslarati",
+        "sourceKey": "teslarati",
+        "priority": 3,
+        "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png",
         "baseScore": 5,
         "relevanceScore": 5,
         "matchedKeywords": [
@@ -759,6 +1016,38 @@
         "relevanceScore": 5,
         "matchedKeywords": [
           "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "5 Apple Watch settings that can help you save its battery life",
+        "link": "https://www.engadget.com/2319475/apple-watch-settings-help-save-battery-life/",
+        "description": "By giving up some of the Apple Watch's slick features, you can use its core functions for much longer before needing a charge.",
+        "published": "2026-11-22T19:00:00.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/5-apple-watch-settings-that-can-help-you-save-its-battery-life/l-intro-1794592644.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "What the little clock icon at the top of your Samsung phone means",
+        "link": "https://www.engadget.com/2319450/what-little-clock-icon-top-samsung-phone-means/",
+        "description": "A mystery clock in your Galaxy status bar can be confusing. Find out what the symbol could mean and the simple steps to make it disappear for good.",
+        "published": "2026-11-22T18:45:00.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/what-the-little-clock-icon-at-the-top-of-your-samsung-phone-means/l-intro-1794937166.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "samsung"
         ],
         "category": "devices"
       },
@@ -1023,6 +1312,23 @@
     ],
     "space": [
       {
+        "title": "Watch live on Nov. 23: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure",
+        "link": "https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch",
+        "description": "An Ariane 6 rocket will launch 36 Amazon broadband satellites to orbit early on Nov. 23, just eight days after a ULA Vulcan Centaur failed during its mission for Amazon. Watch it live here.",
+        "published": "2026-11-22T22:00:00.000Z",
+        "source": "Space.com",
+        "sourceKey": "spacecom",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/oWM29BHfjZMESxoHb6Cem9-1920-80.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "amazon",
+          "satellite"
+        ],
+        "category": "space"
+      },
+      {
         "title": "SpaceX sends classified US spy satellites to orbit in early-morning launch from California coast (video)",
         "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture",
         "description": "SpaceX launched a batch of classified spy satellites for the U.S. government's National Reconnaissance Office early on Sunday morning (Nov. 22).",
@@ -1060,5 +1366,5 @@
       }
     ]
   },
-  "totalArticles": 50
+  "totalArticles": 67
 }
