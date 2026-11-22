@@ -4,8 +4,26 @@
   "title": "Sunday, Nov 22",
   "dateRange": "November 22, 2026",
   "date": "2026-11-22",
-  "generatedAt": "2026-11-22T02:16:35.500Z",
+  "generatedAt": "2026-11-22T09:55:25.348Z",
   "highlights": [
+    {
+      "title": "GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude",
+      "link": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/",
+      "description": "OpenAI's GPT-6.2 Astra and Sol give much shorter, more direct answers than their predecessors, but they are also less willing to admit uncertainty. Anthropic's Claude models score well ahead on transparency. The article GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude appeared first on The Decoder.",
+      "published": "2026-11-22T09:41:37.000Z",
+      "source": "The Decoder",
+      "sourceKey": "thedecoder",
+      "priority": 2,
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/OpenAI-Logo.png",
+      "baseScore": 13,
+      "relevanceScore": 13,
+      "matchedKeywords": [
+        "claude",
+        "openai",
+        "anthropic"
+      ],
+      "category": "ai"
+    },
     {
       "title": "The Alice Huang Associate Accused of Funneling Nvidia Chips to China",
       "link": "https://www.wsj.com/tech/li-ming-megaspeed-nvidia-chips-china-6260d836?mod=rss_Technology",
@@ -16,13 +34,104 @@
       "priority": 1,
       "image": "https://images.wsj.net/im-69232147",
       "baseScore": 9,
-      "relevanceScore": 9,
+      "relevanceScore": 10,
       "matchedKeywords": [
         "nvidia",
         "chip",
         "jensen huang"
       ],
+      "category": "chips_cloud",
+      "alsoIn": [
+        {
+          "source": "Techmeme",
+          "title": "Sources: Alice Huang associate Li Ming, whom Singapore charged with fraud in 2025, was central to smuggling restricted AI chips from Southeast Asia to China",
+          "link": "https://www.techmeme.com/261122/p1#a261122p1"
+        }
+      ]
+    },
+    {
+      "title": "Tesla rolls out FSD v15, featuring a photorealistic rendering of car surroundings; Elon Musk says it is real-time AI video generation without using game engines",
+      "link": "https://www.techmeme.com/261122/p4#a261122p4",
+      "description": "Tesla rolls out FSD v15, featuring a photorealistic rendering of car surroundings; Elon Musk says it is real-time AI video generation without using game engines — FSD v15 was released to some vehicles on Saturday. Its visualization system may be the most remarkable part.",
+      "published": "2026-11-22T06:40:16.000Z",
+      "source": "Techmeme",
+      "sourceKey": "techmeme",
+      "priority": 1,
+      "image": "http://www.techmeme.com/261122/i4.jpg",
+      "via": "Gizmodo",
+      "baseScore": 8,
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "tesla",
+        "elon musk"
+      ],
+      "category": "ev_autonomous"
+    },
+    {
+      "title": "SoftBank verkende overname van SK hynix voor ongeveer 1 biljoen dollar",
+      "link": "https://tweakers.net/nieuws/254806/softbank-verkende-overname-van-sk-hynix-voor-ongeveer-1-biljoen-dollar.html",
+      "description": "De grote Japanse techinvesteerder SoftBank overwoog de Zuid-Koreaanse geheugenchipmaker SK hynix over te nemen. Vermoedelijk had die overname ongeveer 1 biljoen dollar gekost. De overname is op dit moment niet in 'actieve overweging', zegt SoftBank.",
+      "published": "2026-11-22T08:57:13.000Z",
+      "source": "Tweakers",
+      "sourceKey": "tweakers",
+      "priority": 2,
+      "image": null,
+      "baseScore": 8,
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "sk hynix",
+        "softbank"
+      ],
       "category": "chips_cloud"
+    },
+    {
+      "title": "Current and former officials from the US and other countries describe the Chinese spy agency MSS' campaign to help Chinese companies acquire advanced AI chips (New York Times)",
+      "link": "https://www.techmeme.com/261122/p5#a261122p5",
+      "description": "New York Times: Current and former officials from the US and other countries describe the Chinese spy agency MSS' campaign to help Chinese companies acquire advanced AI chips — China's espionage agency has been running a secret campaign to help the country's companies acquire advanced A.I. chips …",
+      "published": "2026-11-22T07:00:41.000Z",
+      "source": "Techmeme",
+      "sourceKey": "techmeme",
+      "priority": 1,
+      "image": "http://www.techmeme.com/261122/i5.jpg",
+      "baseScore": 5,
+      "relevanceScore": 5,
+      "matchedKeywords": [
+        "acquire",
+        "chip"
+      ],
+      "category": "chips_cloud"
+    },
+    {
+      "title": "Sources: AI server suppliers like Dell, HPE, Lenovo, and Supermicro are demanding substantially higher prices from buyers, months after contracts were signed (Financial Times)",
+      "link": "https://www.techmeme.com/261122/p2#a261122p2",
+      "description": "Financial Times: Sources: AI server suppliers like Dell, HPE, Lenovo, and Supermicro are demanding substantially higher prices from buyers, months after contracts were signed — Dell, HPE, Lenovo and Supermicro demand more for equipment, with the increased costs hitting trading firms",
+      "published": "2026-11-22T05:50:01.000Z",
+      "source": "Techmeme",
+      "sourceKey": "techmeme",
+      "priority": 1,
+      "image": "http://www.techmeme.com/261122/i2.jpg",
+      "baseScore": 5,
+      "relevanceScore": 5,
+      "matchedKeywords": [
+        "dell"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Quantum computing’s first real-world payoff may come in energy, not drug discovery",
+      "link": "https://www.cnbc.com/2026/11/22/quantum-computing-energy-applications.html",
+      "description": "Quantum computing firms are testing energy-grid optimization, solar materials and hydrogen catalysts as they pursue practical uses.",
+      "published": "2026-11-22T06:00:01.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "baseScore": 4,
+      "relevanceScore": 4,
+      "matchedKeywords": [
+        "quantum computing"
+      ],
+      "category": "other"
     },
     {
       "title": "Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches \"zero espionage\" executive girlfriends (Wired)",
@@ -41,39 +150,92 @@
       "category": "business"
     },
     {
-      "title": "Red wave: Xiaomi goes global with first overseas EV sales",
-      "link": "https://electrek.co/2026/11/21/red-wave-xiaomi-goes-global-with-first-overseas-ev-sales/",
-      "description": "As a red wave of Chinese-built electric vehicles breaks over Europe and Canada, Xiaomi is selling its electric cars outside of China for the first time ever – and its starting its push for global growth with the UAE in 2027. more…",
-      "published": "2026-11-22T01:02:38.000Z",
-      "source": "Electrek",
-      "sourceKey": "electrek",
+      "title": "OLED gaming laptop with RTX 5060 and Intel Core Ultra 7 CPU price crashes by $650 in Black Friday offer — Lenovo Legion 5i laptop drops to $1,349 with free games at B&H",
+      "link": "https://www.tomshardware.com/laptops/gaming-laptops/oled-gaming-laptop-with-rtx-5060-and-intel-core-ultra-7-cpu-price-crashes-by-usd650-in-black-friday-offer-lenovo-legion-5i-laptop-drops-to-usd1-349-with-free-games-at-b-and-h",
+      "description": "Getting a gaming laptop this holiday season doesn't have to mean spending thousands of dollars, as this modestly priced Lenovo Legion 5i OLED gaming laptop has dropped to just $1,349 at B&H.",
+      "published": "2026-11-22T09:05:40.000Z",
+      "source": "Tom's Hardware",
+      "sourceKey": "tomshardware",
       "priority": 2,
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/XIAOMI_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "image": "https://cdn.mos.cms.futurecdn.net/cTh3nz3Ucy6S4o2GLZ38Mb-1920-80.jpg",
       "baseScore": 4,
       "relevanceScore": 4,
       "matchedKeywords": [
-        "xiaomi"
+        "intel"
       ],
-      "category": "ev_autonomous"
+      "category": "chips_cloud"
     },
     {
-      "title": "Motorola Moto Tag 3 listed on Amazon",
-      "link": "https://www.gsmarena.com/motorola_moto_tag_3_features_design_amazon_listing-news-75585.php",
-      "description": "Motorola unveiled the Moto Tag in 2024 and followed up with the Moto Tag 2 in January this year. Considering the gap between the first and second-gen Moto Tags, we weren't expecting Motorola to launch Moto Tag 3 anytime soon, but it seems Motorola could launch it in a few months, or even weeks, as it is already listed on Amazon. Amazon UK has listed the Moto Tag in Pantone Lucent White color, while Amazon Italy has listed the Pantone Indigo Blue version. If both listings are to be believed, the",
-      "published": "2026-11-22T00:03:02.000Z",
-      "source": "GSMArena",
-      "sourceKey": "gsmarena",
-      "priority": 3,
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/motorola-tag-3-amazon-listing/-184x111/gsmarena_001.jpg",
+      "title": "Tesla FSD V15 Makes Your Drive Look Like Grand Theft Auto",
+      "link": "https://insideevs.com/news/816351/tesla-fsd-v15-new-features/",
+      "description": "The new follow camera shows where the car is going and what’s around. Tesla says FSD now handles critical safety situations 25 times better, too.",
+      "published": "2026-11-22T08:33:49.000Z",
+      "source": "InsideEVs",
+      "sourceKey": "insideevs",
+      "priority": 2,
+      "image": "https://cdn.motor1.com/images/mgl/P3V9w4/s3/tesla-fsd-v15.jpg",
       "baseScore": 4,
       "relevanceScore": 4,
       "matchedKeywords": [
-        "amazon"
+        "tesla"
       ],
-      "category": "other"
+      "category": "ev_autonomous"
     }
   ],
   "byCategory": {
+    "ai": [
+      {
+        "title": "GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude",
+        "link": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/",
+        "description": "OpenAI's GPT-6.2 Astra and Sol give much shorter, more direct answers than their predecessors, but they are also less willing to admit uncertainty. Anthropic's Claude models score well ahead on transparency. The article GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude appeared first on The Decoder.",
+        "published": "2026-11-22T09:41:37.000Z",
+        "source": "The Decoder",
+        "sourceKey": "thedecoder",
+        "priority": 2,
+        "image": "https://the-decoder.com/wp-content/uploads/2026/11/OpenAI-Logo.png",
+        "baseScore": 13,
+        "relevanceScore": 13,
+        "matchedKeywords": [
+          "claude",
+          "openai",
+          "anthropic"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Sources: AI server suppliers like Dell, HPE, Lenovo, and Supermicro are demanding substantially higher prices from buyers, months after contracts were signed (Financial Times)",
+        "link": "https://www.techmeme.com/261122/p2#a261122p2",
+        "description": "Financial Times: Sources: AI server suppliers like Dell, HPE, Lenovo, and Supermicro are demanding substantially higher prices from buyers, months after contracts were signed — Dell, HPE, Lenovo and Supermicro demand more for equipment, with the increased costs hitting trading firms",
+        "published": "2026-11-22T05:50:01.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261122/i2.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "dell"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Australia Spy Chief Warns of Data Center, AI Risks, Age Reports",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-22/australia-spy-chief-warns-of-data-center-ai-risks-age-reports",
+        "description": "Australia’s spy chief said that data centers and artificial intelligence risk exposing the nation to foreign interference and malicious state actors, according to an interview in The Age Sunday.",
+        "published": "2026-11-22T02:37:31.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "data center",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      }
+    ],
     "chips_cloud": [
       {
         "title": "The Alice Huang Associate Accused of Funneling Nvidia Chips to China",
@@ -85,34 +247,107 @@
         "priority": 1,
         "image": "https://images.wsj.net/im-69232147",
         "baseScore": 9,
-        "relevanceScore": 9,
+        "relevanceScore": 10,
         "matchedKeywords": [
           "nvidia",
           "chip",
           "jensen huang"
         ],
-        "category": "chips_cloud"
-      }
-    ],
-    "business": [
+        "category": "chips_cloud",
+        "alsoIn": [
+          {
+            "source": "Techmeme",
+            "title": "Sources: Alice Huang associate Li Ming, whom Singapore charged with fraud in 2025, was central to smuggling restricted AI chips from Southeast Asia to China",
+            "link": "https://www.techmeme.com/261122/p1#a261122p1"
+          }
+        ]
+      },
       {
-        "title": "Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches \"zero espionage\" executive girlfriends (Wired)",
-        "link": "https://www.techmeme.com/261121/p11#a261121p11",
-        "description": "Wired: Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches “zero espionage” executive girlfriends — The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers.",
-        "published": "2026-11-22T00:10:02.000Z",
+        "title": "SoftBank verkende overname van SK hynix voor ongeveer 1 biljoen dollar",
+        "link": "https://tweakers.net/nieuws/254806/softbank-verkende-overname-van-sk-hynix-voor-ongeveer-1-biljoen-dollar.html",
+        "description": "De grote Japanse techinvesteerder SoftBank overwoog de Zuid-Koreaanse geheugenchipmaker SK hynix over te nemen. Vermoedelijk had die overname ongeveer 1 biljoen dollar gekost. De overname is op dit moment niet in 'actieve overweging', zegt SoftBank.",
+        "published": "2026-11-22T08:57:13.000Z",
+        "source": "Tweakers",
+        "sourceKey": "tweakers",
+        "priority": 2,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "sk hynix",
+          "softbank"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Current and former officials from the US and other countries describe the Chinese spy agency MSS' campaign to help Chinese companies acquire advanced AI chips (New York Times)",
+        "link": "https://www.techmeme.com/261122/p5#a261122p5",
+        "description": "New York Times: Current and former officials from the US and other countries describe the Chinese spy agency MSS' campaign to help Chinese companies acquire advanced AI chips — China's espionage agency has been running a secret campaign to help the country's companies acquire advanced A.I. chips …",
+        "published": "2026-11-22T07:00:41.000Z",
         "source": "Techmeme",
         "sourceKey": "techmeme",
         "priority": 1,
-        "image": "http://www.techmeme.com/261121/i11.jpg",
+        "image": "http://www.techmeme.com/261122/i5.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "acquire",
+          "chip"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "OLED gaming laptop with RTX 5060 and Intel Core Ultra 7 CPU price crashes by $650 in Black Friday offer — Lenovo Legion 5i laptop drops to $1,349 with free games at B&H",
+        "link": "https://www.tomshardware.com/laptops/gaming-laptops/oled-gaming-laptop-with-rtx-5060-and-intel-core-ultra-7-cpu-price-crashes-by-usd650-in-black-friday-offer-lenovo-legion-5i-laptop-drops-to-usd1-349-with-free-games-at-b-and-h",
+        "description": "Getting a gaming laptop this holiday season doesn't have to mean spending thousands of dollars, as this modestly priced Lenovo Legion 5i OLED gaming laptop has dropped to just $1,349 at B&H.",
+        "published": "2026-11-22T09:05:40.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/cTh3nz3Ucy6S4o2GLZ38Mb-1920-80.jpg",
         "baseScore": 4,
         "relevanceScore": 4,
         "matchedKeywords": [
-          "jensen huang"
+          "intel"
         ],
-        "category": "business"
+        "category": "chips_cloud"
       }
     ],
     "ev_autonomous": [
+      {
+        "title": "Tesla rolls out FSD v15, featuring a photorealistic rendering of car surroundings; Elon Musk says it is real-time AI video generation without using game engines",
+        "link": "https://www.techmeme.com/261122/p4#a261122p4",
+        "description": "Tesla rolls out FSD v15, featuring a photorealistic rendering of car surroundings; Elon Musk says it is real-time AI video generation without using game engines — FSD v15 was released to some vehicles on Saturday. Its visualization system may be the most remarkable part.",
+        "published": "2026-11-22T06:40:16.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261122/i4.jpg",
+        "via": "Gizmodo",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "tesla",
+          "elon musk"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Tesla FSD V15 Makes Your Drive Look Like Grand Theft Auto",
+        "link": "https://insideevs.com/news/816351/tesla-fsd-v15-new-features/",
+        "description": "The new follow camera shows where the car is going and what’s around. Tesla says FSD now handles critical safety situations 25 times better, too.",
+        "published": "2026-11-22T08:33:49.000Z",
+        "source": "InsideEVs",
+        "sourceKey": "insideevs",
+        "priority": 2,
+        "image": "https://cdn.motor1.com/images/mgl/P3V9w4/s3/tesla-fsd-v15.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "tesla"
+        ],
+        "category": "ev_autonomous"
+      },
       {
         "title": "Red wave: Xiaomi goes global with first overseas EV sales",
         "link": "https://electrek.co/2026/11/21/red-wave-xiaomi-goes-global-with-first-overseas-ev-sales/",
@@ -132,6 +367,22 @@
     ],
     "other": [
       {
+        "title": "Quantum computing’s first real-world payoff may come in energy, not drug discovery",
+        "link": "https://www.cnbc.com/2026/11/22/quantum-computing-energy-applications.html",
+        "description": "Quantum computing firms are testing energy-grid optimization, solar materials and hydrogen catalysts as they pursue practical uses.",
+        "published": "2026-11-22T06:00:01.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "quantum computing"
+        ],
+        "category": "other"
+      },
+      {
         "title": "Motorola Moto Tag 3 listed on Amazon",
         "link": "https://www.gsmarena.com/motorola_moto_tag_3_features_design_amazon_listing-news-75585.php",
         "description": "Motorola unveiled the Moto Tag in 2024 and followed up with the Moto Tag 2 in January this year. Considering the gap between the first and second-gen Moto Tags, we weren't expecting Motorola to launch Moto Tag 3 anytime soon, but it seems Motorola could launch it in a few months, or even weeks, as it is already listed on Amazon. Amazon UK has listed the Moto Tag in Pantone Lucent White color, while Amazon Italy has listed the Pantone Indigo Blue version. If both listings are to be believed, the",
@@ -147,7 +398,25 @@
         ],
         "category": "other"
       }
+    ],
+    "business": [
+      {
+        "title": "Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches \"zero espionage\" executive girlfriends (Wired)",
+        "link": "https://www.techmeme.com/261121/p11#a261121p11",
+        "description": "Wired: Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches “zero espionage” executive girlfriends — The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers.",
+        "published": "2026-11-22T00:10:02.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261121/i11.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "jensen huang"
+        ],
+        "category": "business"
+      }
     ]
   },
-  "totalArticles": 4
+  "totalArticles": 13
 }
