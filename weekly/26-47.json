@@ -5,7 +5,7 @@
   "year": 2026,
   "title": "Week 47",
   "dateRange": "Nov 16 – Nov 22, 2026",
-  "generatedAt": "2026-11-23T07:43:53.505Z",
+  "generatedAt": "2026-11-23T20:16:10.596Z",
   "highlights": [
     {
       "title": "Asian tech stocks plunge as Anthropic's record IPO fails to stem an AI sell-off; SoftBank falls ~15%, TSMC falls 5%+, and Samsung and SK Hynix fall 6%+ (Financial Times)",
@@ -11069,6 +11069,23 @@
         ]
       },
       {
+        "title": "Treasuries Slip as Huang’s Nvidia Return Revives Risk Trade",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-22/treasury-futures-fall-as-rising-stock-futures-damp-haven-demand",
+        "description": "Short-term Treasuries fell as Jensen Huang’s return to the helm of Nvidia Corp. revived demand for risk assets, unwinding some of the haven bid that swept through the bond market during last week’s AI-fueled selloff.",
+        "published": "2026-11-22T23:59:06.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_markets",
+        "priority": 1,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang"
+        ],
+        "category": "chips_cloud"
+      },
+      {
         "title": "How Amazon Plays the Long, Expensive Data Center Game That Neoclouds Can’t",
         "link": "https://www.theinformation.com/articles/amazon-plays-long-expensive-data-center-game-neoclouds",
         "description": "INDIANA, Penn.—A visit this week to an Amazon data center project in Pennsylvania coal country gave me a glimpse of the era we all knew was coming: when tech giants lay claim to some of the hardest-to-secure AI infrastructure while smaller cloud providers, which Nvidia has propped up financially, are trying to hang on. The 4.4-gigawatt campus in Pennsylvania, once home to a 2-GW coal-fired power plant near the economically depressed borough of Homer City, could become one of the largest AI power",
@@ -17950,6 +17967,40 @@
             "link": "https://siliconangle.com/2026/11/19/intuit-sells-mailchimp-to-bending-spoons-for-3-68b-less-than-a-third-of-what-it-paid/"
           }
         ]
+      },
+      {
+        "title": "Wall Street Roars Back as Huang’s Shock Return Propels US Stocks",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-22/stock-traders-brace-for-more-volatility-after-tech-driven-rout",
+        "description": "US stocks rallied, recovering from last week’s brutal technology-led selloff, as the stunning return of Jensen Huang to lead Nvidia Corp. propelled Wall Street toward its best day since April 2025.",
+        "published": "2026-11-22T23:04:42.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_markets",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Stocks Jump Most Since April 2025 as Huang Is Back: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
+        "description": "An overnight bounce in stocks erupted into the biggest rally since April 2025 after Nvidia Corp.’s reinstatement of Jensen Huang as chief executive officer recharged artificial-intelligence bets.",
+        "published": "2026-11-22T22:02:27.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_markets",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang"
+        ],
+        "category": "business"
       },
       {
         "title": "Tech Outages Are Inevitable. Business Chaos Doesn’t Have to Be.",
@@ -30748,5 +30799,5 @@
       }
     ]
   },
-  "totalArticles": 1651
+  "totalArticles": 1654
 }
