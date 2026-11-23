@@ -4,7 +4,7 @@
   "title": "Sunday, Nov 22",
   "dateRange": "November 22, 2026",
   "date": "2026-11-22",
-  "generatedAt": "2026-11-22T23:38:19.461Z",
+  "generatedAt": "2026-11-23T07:43:53.168Z",
   "highlights": [
     {
       "title": "AI Bubble Deflating? Dell, Workday on Deck",
@@ -846,6 +846,22 @@
           "artificial intelligence"
         ],
         "category": "ai"
+      },
+      {
+        "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+        "link": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+        "description": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 216 # Comments: 159",
+        "published": "2026-11-22T23:12:10.000Z",
+        "source": "Hacker News",
+        "sourceKey": "hackernews",
+        "priority": 2,
+        "image": null,
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "claude"
+        ],
+        "category": "ai"
       }
     ],
     "ev_autonomous": [
@@ -1364,7 +1380,26 @@
         ],
         "category": "crypto"
       }
+    ],
+    "robotics": [
+      {
+        "title": "Ant Group Bets on Simplexity in China’s Humanoid Race",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-22/ant-group-bets-on-simplexity-to-thrive-in-china-s-humanoid-race",
+        "description": "Chinese physical AI startup Simplexity Robotics received $100 million in a funding round led by Jack Ma-backed Ant Group Co., betting that the startup can take on more established players in the country’s burgeoning robotics arena.",
+        "published": "2026-11-22T23:00:00.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "humanoid",
+          "funding round"
+        ],
+        "category": "robotics"
+      }
     ]
   },
-  "totalArticles": 67
+  "totalArticles": 69
 }

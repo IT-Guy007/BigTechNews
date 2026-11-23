@@ -1,13 +1,13 @@
 {
-  "checkedAt": "2026-11-22T23:38:18.826Z",
+  "checkedAt": "2026-11-23T07:43:52.849Z",
   "feeds": {
     "techcrunch": {
       "name": "TechCrunch",
       "group": "tech",
       "ok": true,
       "items": 20,
-      "ms": 236,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 136,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "theverge": {
@@ -15,8 +15,8 @@
       "group": "tech",
       "ok": true,
       "items": 10,
-      "ms": 194,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 330,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "engadget": {
@@ -24,8 +24,8 @@
       "group": "tech",
       "ok": true,
       "items": 20,
-      "ms": 272,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 136,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "arstechnica": {
@@ -33,8 +33,8 @@
       "group": "tech",
       "ok": true,
       "items": 20,
-      "ms": 256,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 186,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "wired": {
@@ -42,8 +42,8 @@
       "group": "tech",
       "ok": true,
       "items": 50,
-      "ms": 306,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 241,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "gizmodo": {
@@ -51,17 +51,17 @@
       "group": "tech",
       "ok": false,
       "error": "HTTP 403",
-      "ms": 321,
+      "ms": 296,
       "lastSuccess": "2026-11-22T17:51:21.420Z",
-      "consecutiveFailures": 1
+      "consecutiveFailures": 2
     },
     "404media": {
       "name": "404 Media",
       "group": "tech",
       "ok": true,
       "items": 15,
-      "ms": 524,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 418,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "euronews_next": {
@@ -69,17 +69,17 @@
       "group": "tech",
       "ok": false,
       "error": "HTTP 406",
-      "ms": 419,
+      "ms": 381,
       "lastSuccess": "2026-11-20T12:57:37.630Z",
-      "consecutiveFailures": 8
+      "consecutiveFailures": 9
     },
     "cnbc_tech": {
       "name": "CNBC",
       "group": "business",
       "ok": true,
       "items": 30,
-      "ms": 400,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 388,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "cnbc_top": {
@@ -87,17 +87,17 @@
       "group": "business",
       "ok": true,
       "items": 30,
-      "ms": 320,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 304,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "bloomberg_tech": {
       "name": "Bloomberg",
       "group": "business",
       "ok": true,
-      "items": 11,
-      "ms": 807,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "items": 20,
+      "ms": 811,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "bloomberg_markets": {
@@ -105,8 +105,8 @@
       "group": "business",
       "ok": true,
       "items": 20,
-      "ms": 784,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 729,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "wsj_tech": {
@@ -114,8 +114,8 @@
       "group": "business",
       "ok": true,
       "items": 40,
-      "ms": 390,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 481,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "theinformation": {
@@ -123,8 +123,8 @@
       "group": "business",
       "ok": true,
       "items": 20,
-      "ms": 399,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 279,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "siliconangle": {
@@ -132,8 +132,8 @@
       "group": "business",
       "ok": true,
       "items": 30,
-      "ms": 629,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 758,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "techmeme": {
@@ -141,17 +141,17 @@
       "group": "aggregator",
       "ok": true,
       "items": 15,
-      "ms": 350,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 637,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "hackernews": {
       "name": "Hacker News",
       "group": "aggregator",
       "ok": true,
-      "items": 6,
-      "ms": 1449,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "items": 10,
+      "ms": 449,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "techreview": {
@@ -159,8 +159,8 @@
       "group": "ai",
       "ok": true,
       "items": 10,
-      "ms": 256,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 352,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "thedecoder": {
@@ -168,8 +168,8 @@
       "group": "ai",
       "ok": true,
       "items": 10,
-      "ms": 1508,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 1456,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "9to5mac": {
@@ -177,8 +177,8 @@
       "group": "mobile",
       "ok": true,
       "items": 100,
-      "ms": 270,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 1262,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "macrumors": {
@@ -186,8 +186,8 @@
       "group": "mobile",
       "ok": true,
       "items": 20,
-      "ms": 205,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 210,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "appleinsider": {
@@ -195,8 +195,8 @@
       "group": "mobile",
       "ok": true,
       "items": 50,
-      "ms": 440,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 332,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "9to5google": {
@@ -204,8 +204,8 @@
       "group": "mobile",
       "ok": true,
       "items": 100,
-      "ms": 185,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 155,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "androidauthority": {
@@ -213,8 +213,8 @@
       "group": "mobile",
       "ok": true,
       "items": 80,
-      "ms": 154,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 140,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "gsmarena": {
@@ -222,8 +222,8 @@
       "group": "mobile",
       "ok": true,
       "items": 20,
-      "ms": 1064,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 971,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "tomshardware": {
@@ -231,8 +231,8 @@
       "group": "chips",
       "ok": true,
       "items": 50,
-      "ms": 445,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 391,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "theregister": {
@@ -240,8 +240,8 @@
       "group": "chips",
       "ok": true,
       "items": 50,
-      "ms": 539,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 419,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "dcd": {
@@ -249,8 +249,8 @@
       "group": "chips",
       "ok": true,
       "items": 20,
-      "ms": 249,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 216,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "eetimes": {
@@ -258,8 +258,8 @@
       "group": "chips",
       "ok": true,
       "items": 10,
-      "ms": 421,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 433,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "servethehome": {
@@ -267,8 +267,8 @@
       "group": "chips",
       "ok": true,
       "items": 6,
-      "ms": 348,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 488,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "electrek": {
@@ -276,8 +276,8 @@
       "group": "ev",
       "ok": true,
       "items": 150,
-      "ms": 164,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 180,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "insideevs": {
@@ -285,8 +285,8 @@
       "group": "ev",
       "ok": true,
       "items": 20,
-      "ms": 155,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 108,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "teslarati": {
@@ -294,8 +294,8 @@
       "group": "ev",
       "ok": true,
       "items": 10,
-      "ms": 877,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 604,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "spacenews": {
@@ -303,8 +303,8 @@
       "group": "space",
       "ok": true,
       "items": 16,
-      "ms": 116,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 136,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "spacecom": {
@@ -312,8 +312,8 @@
       "group": "space",
       "ok": true,
       "items": 50,
-      "ms": 346,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 333,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "nikkei_asia": {
@@ -321,8 +321,8 @@
       "group": "asia",
       "ok": true,
       "items": 50,
-      "ms": 179,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 187,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "scmp_tech": {
@@ -330,8 +330,8 @@
       "group": "asia",
       "ok": true,
       "items": 50,
-      "ms": 993,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 635,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "trendforce": {
@@ -339,17 +339,17 @@
       "group": "asia",
       "ok": true,
       "items": 20,
-      "ms": 1132,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 1103,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "heise": {
       "name": "heise online",
       "group": "europe",
       "ok": true,
-      "items": 153,
-      "ms": 1329,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "items": 154,
+      "ms": 808,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "tweakers": {
@@ -357,8 +357,8 @@
       "group": "europe",
       "ok": true,
       "items": 40,
-      "ms": 221,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 383,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "coindesk": {
@@ -366,8 +366,8 @@
       "group": "crypto",
       "ok": true,
       "items": 25,
-      "ms": 617,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 353,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "theblock": {
@@ -375,8 +375,8 @@
       "group": "crypto",
       "ok": true,
       "items": 20,
-      "ms": 164,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 222,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "decrypt": {
@@ -384,8 +384,8 @@
       "group": "crypto",
       "ok": true,
       "items": 37,
-      "ms": 144,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 222,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "openai_news": {
@@ -393,8 +393,8 @@
       "group": "official",
       "ok": true,
       "items": 1422,
-      "ms": 256,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 233,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "google_blog": {
@@ -402,8 +402,8 @@
       "group": "official",
       "ok": true,
       "items": 20,
-      "ms": 334,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 197,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "nvidia_news": {
@@ -411,8 +411,8 @@
       "group": "official",
       "ok": true,
       "items": 20,
-      "ms": 394,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 437,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "apple_news": {
@@ -420,8 +420,8 @@
       "group": "official",
       "ok": true,
       "items": 20,
-      "ms": 214,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 199,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "microsoft_blog": {
@@ -429,8 +429,8 @@
       "group": "official",
       "ok": true,
       "items": 10,
-      "ms": 326,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 430,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     },
     "meta_news": {
@@ -438,8 +438,8 @@
       "group": "official",
       "ok": true,
       "items": 10,
-      "ms": 308,
-      "lastSuccess": "2026-11-22T23:38:18.826Z",
+      "ms": 166,
+      "lastSuccess": "2026-11-23T07:43:52.849Z",
       "consecutiveFailures": 0
     }
   }
