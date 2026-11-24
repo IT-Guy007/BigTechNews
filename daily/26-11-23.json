@@ -4,8 +4,67 @@
   "title": "Monday, Nov 23",
   "dateRange": "November 23, 2026",
   "date": "2026-11-23",
-  "generatedAt": "2026-11-23T20:16:10.331Z",
+  "generatedAt": "2026-11-24T04:50:40.487Z",
   "highlights": [
+    {
+      "title": "Tech stocks rally as Jensen Huang returns as Nvidia CEO; the Nasdaq 100 jumped 7%, a Magnificent Seven basket rose 8%, CoreWeave 22%, Tesla 11%, and AMD 7%",
+      "link": "https://www.techmeme.com/261123/p42#a261123p42",
+      "description": "Tech stocks rally as Jensen Huang returns as Nvidia CEO; the Nasdaq 100 jumped 7%, a Magnificent Seven basket rose 8%, CoreWeave 22%, Tesla 11%, and AMD 7% — US stocks rallied, recovering from last week's brutal technology-led selloff, as the stunning return of Jensen Huang …",
+      "published": "2026-11-23T21:40:00.000Z",
+      "source": "Techmeme",
+      "sourceKey": "techmeme",
+      "priority": 1,
+      "image": "http://www.techmeme.com/261123/i42.jpg",
+      "via": "Bloomberg",
+      "baseScore": 21,
+      "relevanceScore": 24,
+      "matchedKeywords": [
+        "nvidia",
+        "tesla",
+        "amd",
+        "coreweave",
+        "jensen huang",
+        "ceo"
+      ],
+      "category": "chips_cloud",
+      "alsoIn": [
+        {
+          "source": "Bloomberg",
+          "title": "Nvidia Cannot Rely on Jensen Huang",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-23/opinion-nvidia-cannot-rely-on-jensen-huang-video"
+        },
+        {
+          "source": "Bloomberg",
+          "title": "Jensen Huang Returns as Nvidia Fuels Historic Rally",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-23/the-close-11-23-2026-video"
+        },
+        {
+          "source": "Bloomberg",
+          "title": "Why Did Nvidia Reinstate Jensen Huang as CEO?",
+          "link": "https://www.bloomberg.com/news/features/2026-11-23/why-did-nvidia-reinstate-jensen-huang-as-ceo"
+        },
+        {
+          "source": "WSJ",
+          "title": "Jensen Huang’s Return to Nvidia Draws Heavy Fire From Lawmakers",
+          "link": "https://www.wsj.com/politics/policy/jensen-huangs-return-to-nvidia-draws-heavy-fire-from-lawmakers-ae698d88?mod=rss_Technology"
+        },
+        {
+          "source": "Bloomberg",
+          "title": "Stocks Take Off After Nvidia Reinstates Jensen Huang",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-23/stocks-take-off-after-nvidia-reinstates-jensen-huang-video"
+        },
+        {
+          "source": "Tom's Hardware",
+          "title": "Jensen Huang returns to applause from employees at Nvidia HQ",
+          "link": "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-returns-to-applause-from-employees-at-nvidia-hq-some-employees-reportedly-disgruntled-by-return-saying-this-is-the-worst-outcome"
+        },
+        {
+          "source": "The Information",
+          "title": "Tech Stocks Rally Across the Board",
+          "link": "https://www.theinformation.com/briefings/tech-stocks-rally-across-board"
+        }
+      ]
+    },
     {
       "title": "Bitcoin Rallies, Anthropic Sinks as Nvidia Surges 35% on Jensen Huang’s Return",
       "link": "https://decrypt.co/383801/bitcoin-rallies-anthropic-sinks-as-nvidia-surges-35-on-jensen-huangs-return",
@@ -331,6 +390,11 @@
           "source": "TechCrunch",
           "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
           "link": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/"
+        },
+        {
+          "source": "Bloomberg",
+          "title": "Emily Kilcrease on Jensen Huang’s Return to Nvidia",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-23/emily-kilcrease-on-jensen-huang-s-return-to-nvidia-video"
         }
       ]
     },
@@ -424,6 +488,41 @@
       "category": "chips_cloud"
     },
     {
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "description": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "published": "2026-11-23T22:05:50.000Z",
+      "source": "TechCrunch",
+      "sourceKey": "techcrunch",
+      "priority": 1,
+      "image": null,
+      "baseScore": 12,
+      "relevanceScore": 15,
+      "matchedKeywords": [
+        "anthropic",
+        "claude",
+        "ai agent"
+      ],
+      "category": "ai",
+      "alsoIn": [
+        {
+          "source": "Techmeme",
+          "title": "Anthropic unveils Claude Ship, letting Claude review, fix, and approve GitHub pull requests based on team policies, in beta for Claude Team and Enterprise tiers",
+          "link": "https://www.techmeme.com/261123/p41#a261123p41"
+        },
+        {
+          "source": "9to5Mac",
+          "title": "Anthropic launches new Claude Ship feature for builders",
+          "link": "https://9to5mac.com/2026/11/23/anthropic-launches-new-claude-ship-feature-for-builders/"
+        },
+        {
+          "source": "The Verge",
+          "title": "Claude AI can review pull requests and ship fixes on its own now",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
+        }
+      ]
+    },
+    {
       "title": "Anthropic Shares Sink, Defying AI Trade Rally on Huang’s Return",
       "link": "https://www.bloomberg.com/news/articles/2026-11-23/anthropic-shares-churn-defying-ai-trade-rally-on-huang-s-return",
       "description": "Anthropic PBC shares turned negative on Monday, leaving the artificial intelligence lab out of step with the rest of the sector’s rebound following the reinstatement of Nvidia Corp.’s Jensen Huang.",
@@ -441,6 +540,30 @@
         "artificial intelligence"
       ],
       "category": "ai"
+    },
+    {
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "link": "https://openai.com/index/introducing-shirudo",
+      "description": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "published": "2026-11-23T21:20:00.000Z",
+      "source": "OpenAI",
+      "sourceKey": "openai_news",
+      "priority": 1,
+      "image": null,
+      "baseScore": 12,
+      "relevanceScore": 13,
+      "matchedKeywords": [
+        "openai",
+        "cisco"
+      ],
+      "category": "ai",
+      "alsoIn": [
+        {
+          "source": "SiliconANGLE",
+          "title": "Cisco and OpenAI launch Shirudo open-source infrastructure shield to prevent AI-driven cyberattacks",
+          "link": "https://siliconangle.com/2026/11/23/cisco-and-openai-launch-shirudo-an-open-source-infrastructure-shield-to-protect-against-ai-driven-cyberattacks/"
+        }
+      ]
     },
     {
       "title": "Amazon Acquires Chip Software Business from AI Startup Decart",
@@ -467,64 +590,69 @@
           "link": "https://www.cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html"
         }
       ]
-    },
-    {
-      "title": "China’s Next AI Deals Clouded by Selloff After Anthropic IPO",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-23/china-s-next-ai-deals-clouded-by-selloff-after-anthropic-ipo",
-      "description": "A selloff in global stocks that’s accelerated since the record US initial public offering of Anthropic PBC is clouding the outlook for the next wave of share sales by China’s artificial intelligence champions.",
-      "published": "2026-11-23T07:05:22.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "baseScore": 12,
-      "relevanceScore": 12,
-      "matchedKeywords": [
-        "anthropic",
-        "ipo",
-        "artificial intelligence"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": "Anthropic Committed to Spend $900 Billion. Wall Street Expects Its Debt to Be Junk.",
-      "link": "https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d?mod=rss_Technology",
-      "description": "After a turbulent IPO, the startup’s credit rating will affect its capital plans and the future of the AI industry.",
-      "published": "2026-11-23T03:00:00.000Z",
-      "source": "WSJ",
-      "sourceKey": "wsj_tech",
-      "priority": 1,
-      "image": "https://images.wsj.net/im-41873370",
-      "baseScore": 12,
-      "relevanceScore": 12,
-      "matchedKeywords": [
-        "anthropic",
-        "billion",
-        "ipo"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-      "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-      "description": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
-      "published": "2026-11-23T01:25:53.000Z",
-      "source": "TechCrunch",
-      "sourceKey": "techcrunch",
-      "priority": 1,
-      "image": null,
-      "baseScore": 12,
-      "relevanceScore": 12,
-      "matchedKeywords": [
-        "anthropic",
-        "ipo",
-        "billion"
-      ],
-      "category": "business"
     }
   ],
   "byCategory": {
     "chips_cloud": [
+      {
+        "title": "Tech stocks rally as Jensen Huang returns as Nvidia CEO; the Nasdaq 100 jumped 7%, a Magnificent Seven basket rose 8%, CoreWeave 22%, Tesla 11%, and AMD 7%",
+        "link": "https://www.techmeme.com/261123/p42#a261123p42",
+        "description": "Tech stocks rally as Jensen Huang returns as Nvidia CEO; the Nasdaq 100 jumped 7%, a Magnificent Seven basket rose 8%, CoreWeave 22%, Tesla 11%, and AMD 7% — US stocks rallied, recovering from last week's brutal technology-led selloff, as the stunning return of Jensen Huang …",
+        "published": "2026-11-23T21:40:00.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261123/i42.jpg",
+        "via": "Bloomberg",
+        "baseScore": 21,
+        "relevanceScore": 24,
+        "matchedKeywords": [
+          "nvidia",
+          "tesla",
+          "amd",
+          "coreweave",
+          "jensen huang",
+          "ceo"
+        ],
+        "category": "chips_cloud",
+        "alsoIn": [
+          {
+            "source": "Bloomberg",
+            "title": "Nvidia Cannot Rely on Jensen Huang",
+            "link": "https://www.bloomberg.com/news/videos/2026-11-23/opinion-nvidia-cannot-rely-on-jensen-huang-video"
+          },
+          {
+            "source": "Bloomberg",
+            "title": "Jensen Huang Returns as Nvidia Fuels Historic Rally",
+            "link": "https://www.bloomberg.com/news/videos/2026-11-23/the-close-11-23-2026-video"
+          },
+          {
+            "source": "Bloomberg",
+            "title": "Why Did Nvidia Reinstate Jensen Huang as CEO?",
+            "link": "https://www.bloomberg.com/news/features/2026-11-23/why-did-nvidia-reinstate-jensen-huang-as-ceo"
+          },
+          {
+            "source": "WSJ",
+            "title": "Jensen Huang’s Return to Nvidia Draws Heavy Fire From Lawmakers",
+            "link": "https://www.wsj.com/politics/policy/jensen-huangs-return-to-nvidia-draws-heavy-fire-from-lawmakers-ae698d88?mod=rss_Technology"
+          },
+          {
+            "source": "Bloomberg",
+            "title": "Stocks Take Off After Nvidia Reinstates Jensen Huang",
+            "link": "https://www.bloomberg.com/news/videos/2026-11-23/stocks-take-off-after-nvidia-reinstates-jensen-huang-video"
+          },
+          {
+            "source": "Tom's Hardware",
+            "title": "Jensen Huang returns to applause from employees at Nvidia HQ",
+            "link": "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-returns-to-applause-from-employees-at-nvidia-hq-some-employees-reportedly-disgruntled-by-return-saying-this-is-the-worst-outcome"
+          },
+          {
+            "source": "The Information",
+            "title": "Tech Stocks Rally Across the Board",
+            "link": "https://www.theinformation.com/briefings/tech-stocks-rally-across-board"
+          }
+        ]
+      },
       {
         "title": "Bitcoin Rallies, Anthropic Sinks as Nvidia Surges 35% on Jensen Huang’s Return",
         "link": "https://decrypt.co/383801/bitcoin-rallies-anthropic-sinks-as-nvidia-surges-35-on-jensen-huangs-return",
@@ -850,6 +978,11 @@
             "source": "TechCrunch",
             "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
             "link": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/"
+          },
+          {
+            "source": "Bloomberg",
+            "title": "Emily Kilcrease on Jensen Huang’s Return to Nvidia",
+            "link": "https://www.bloomberg.com/news/videos/2026-11-23/emily-kilcrease-on-jensen-huang-s-return-to-nvidia-video"
           }
         ]
       },
@@ -949,6 +1082,64 @@
         ]
       },
       {
+        "title": "Trump engineered a risky comeback for Jensen Huang",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+        "description": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Huang would \"end up on his feet.\" \"You know the expression, anybody can be replaced,\" Trump said, floating Apple's ex-CEO Tim Cook as a potential CEO candidate. It didn't take long for Trump to begin sof",
+        "published": "2026-11-23T22:25:12.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297774940.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 12,
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "jensen huang",
+          "apple",
+          "nvidia",
+          "tim cook",
+          "ceo"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+        "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+        "description": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+        "published": "2026-11-23T21:47:41.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "baseScore": 11,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "nvidia",
+          "elon musk",
+          "jensen huang"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Megaspeed Faces US Blacklist After Nvidia CEO Ouster, Sources Say",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-23/us-to-blacklist-megaspeed-the-firm-at-center-of-nvidia-scandal",
+        "description": "The Trump administration put Megaspeed International on a US trade blacklist that bars it from buying advanced artificial intelligence chips, targeting a Singapore-based firm at the heart of the scandal that briefly cost Jensen Huang his job at Nvidia Corp.",
+        "published": "2026-11-23T20:43:55.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 11,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "nvidia",
+          "ceo",
+          "jensen huang",
+          "artificial intelligence",
+          "chip"
+        ],
+        "category": "chips_cloud"
+      },
+      {
         "title": "Marlowe Hits $1.15B Valuation With Bet Beyond Nvidia",
         "link": "https://www.bloomberg.com/news/videos/2026-11-23/marlowe-hits-1-15b-valuation-with-bet-beyond-nvidia-video",
         "description": "Marlowe, a startup co-founded by two Microsoft vice presidents, has raised $277 million to pursue ways to boost computing power from chips that rival Nvidia’s processors. The seed round, valuing the company at $1.15 billion, was led by venture firm Accel. Co-founder and CEO Dan Lewis joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
@@ -989,6 +1180,45 @@
         "category": "chips_cloud"
       },
       {
+        "title": "John Belton: This Volatility Isn’t Healthy for the Market",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-23/belton-this-volatility-isn-t-healthy-for-the-market-video",
+        "description": "John Belton, Gabelli Funds Portfolio Manager, Growth Portfolios MD, discusses a sharp reversal in markets after last week’s broad selloff: Nvidia added about $950 billion in market value, the largest one-day increase for any stock, while the Philadelphia Semiconductor Index rose 13% and CoreWeave gained 21%. Investors treated Jensen Huang’s return as a pivotal event for the AI economy, with Nvidia’s outsized influence likened to that of a central bank. He speaks with Romaine Bostick on \"The Clos",
+        "published": "2026-11-23T22:20:29.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 10,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "nvidia",
+          "coreweave",
+          "jensen huang",
+          "semiconductor",
+          "billion"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Jensen Huang Is Back at Nvidia. Major Investigations Still Surround Him.",
+        "link": "https://www.wsj.com/tech/ai/jensen-huang-is-back-at-nvidia-major-investigations-still-surround-him-c904001c?mod=rss_Technology",
+        "description": "Several probes are examining the chip maker, its CEO and issues related to his initial ouster.",
+        "published": "2026-11-23T22:15:00.000Z",
+        "source": "WSJ",
+        "sourceKey": "wsj_tech",
+        "priority": 1,
+        "image": "https://images.wsj.net/im-87333679",
+        "baseScore": 10,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang",
+          "chip",
+          "ceo"
+        ],
+        "category": "chips_cloud"
+      },
+      {
         "title": "AMD’s Valuation is Getting Ahead of Its Fundamentals",
         "link": "https://www.theinformation.com/articles/amds-valuation-getting-ahead-fundamentals",
         "description": "AMD has been the darling of large-cap semiconductor investors this year, with its stock up 98% so far even after Friday’s big selloff. While some on Wall Street think the recent turmoil at Nvidia could be an opportunity for AMD to sell more of its AI chips to customers and steal market share, its valuation is already predicated on sky-high growth expectations and doesn’t reflect the geopolitical, financing and execution risks the company faces. AMD, whose chips many customers regard as cheaper,",
@@ -1005,6 +1235,42 @@
           "nvidia",
           "semiconductor",
           "chip"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Exclusive CNBC Transcript: See how Trump 'made the deal' to reinstate Huang as Nvidia CEO",
+        "link": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang-reinstatement-cnbc-interview-transcript.html",
+        "description": "Read CNBC’s exclusive interview with President Donald Trump on how he “made the deal” to reinstate Jensen Huang as Nvidia CEO.",
+        "published": "2026-11-23T21:53:49.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "nvidia",
+          "ceo",
+          "jensen huang"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+        "link": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+        "description": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+        "published": "2026-11-23T20:38:53.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang",
+          "ceo"
         ],
         "category": "chips_cloud"
       },
@@ -1153,6 +1419,78 @@
         "category": "chips_cloud"
       },
       {
+        "title": "Huang Comeback Ignites Limit-Up Frenzy in Battered Asia AI Trade",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-23/asian-chip-stocks-set-to-jump-as-huang-comeback-refires-ai-trade",
+        "description": "Asia’s AI trade came roaring back Tuesday, with chipmakers and data-center plays from Taiwan to Kuala Lumpur surging as Jensen Huang’s return to Nvidia unleashed a buying frenzy across a sector battered by weeks of doubts over the durability of the AI boom.",
+        "published": "2026-11-23T23:45:20.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_markets",
+        "priority": 1,
+        "image": null,
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang",
+          "chipmaker"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Stunning Reversal: Jensen's Second Act",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-23/stunning-reversal-jensen-s-second-act-video",
+        "description": "Jensen Huang is back at the helm of Nvidia following a stunning reversal by the chipmaker’s board. Bloomberg’s Ed Ludlow explains how the decision came together, the market’s euphoric response and why Huang’s return leaves some major questions unanswered. (Source: Bloomberg)",
+        "published": "2026-11-23T23:36:41.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang",
+          "chipmaker"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Welcome to elite impunity, Jensen Huang",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+        "description": "Too big to fail, the sequel. | Image: The Verge; Getty Images I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what a \"free market\" is might find it objectionable to have the American president strong-arming a major American company. But our billionaire tech overlords care",
+        "published": "2026-11-23T22:09:26.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_06.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "jensen huang",
+          "nvidia",
+          "ceo"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Jensen Owes His Job to Trump",
+        "link": "https://www.theinformation.com/articles/jensen-owes-job-trump",
+        "description": "If Jensen Huang was a tough taskmaster at Nvidia before, just imagine what he’s going to be like now! President Donald Trump has proclaimed Huang’s reinstatement, announced Monday morning, was vital to America’s “success and prosperity.” In other words, Huang may feel he’s untouchable. His only problem is that he now owes his job to Trump. Just imagine what the newly restored CEO’s relations with the president will be like in the future. What will Trump ask for in return? You know he’ll want his",
+        "published": "2026-11-23T22:00:44.000Z",
+        "source": "The Information",
+        "sourceKey": "theinformation",
+        "priority": 1,
+        "image": null,
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang",
+          "ceo"
+        ],
+        "category": "chips_cloud"
+      },
+      {
         "title": "‘Party Is Back On’: Roundhill’s Drew Pettit",
         "link": "https://www.bloomberg.com/news/videos/2026-11-23/-party-is-back-on-roundhill-s-drew-pettit-video",
         "description": "Drew Pettit, chief investment strategist at Roundhill Investments, joins Scarlet Fu and Eric Balchunas on “Bloomberg ETF IQ.” They discuss the shocking return of Jensen Huang as CEO of Nvidia. (Source: Bloomberg)",
@@ -1280,6 +1618,40 @@
         "category": "chips_cloud"
       },
       {
+        "title": "Trump Administration Adds Nvidia-linked Megaspeed to Trade Blacklist",
+        "link": "https://www.theinformation.com/briefings/trump-administration-will-add-nvidia-linked-megaspeed-trade-blacklist",
+        "description": "The Commerce Department added the Singapore-based cloud computing and AI infrastructure company Megaspeed to its entity list, a trade blacklist that designates organizations as national security risks and limits their ability to access advanced AI chips, according to a filing on Monday. Trump ...",
+        "published": "2026-11-23T21:04:06.000Z",
+        "source": "The Information",
+        "sourceKey": "theinformation",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "nvidia",
+          "chip"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China",
+        "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
+        "description": "Treasury Secretary Scott Bessent was becoming the face of an emerging harder line on Nvidia— until he reversed course",
+        "published": "2026-11-23T21:00:59.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_top",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "jensen huang",
+          "nvidia"
+        ],
+        "category": "chips_cloud"
+      },
+      {
         "title": "A Great Time To Diversify: Todd Sohn",
         "link": "https://www.bloomberg.com/news/videos/2026-11-23/a-great-time-to-diversify-todd-sohn-video",
         "description": "Todd Sohn, chief ETF strategist at Baird Strategas, joins Scarlet Fu and Eric Balchunas on “Bloomberg ETF IQ.” They discuss that Nvidia’s board reinstated Jensen Huang in one of the most startling corporate comebacks in history, sending the stock on its biggest rally in decades. (Source: Bloomberg)",
@@ -1401,6 +1773,22 @@
         "category": "chips_cloud"
       },
       {
+        "title": "RBC Has Ideas For Canada to Unlock Tech GDP Gains as NVIDIA Rallies",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-11-23/rbc-has-ideas-for-canada-to-unlock-tech-gdp-gains-as-nvidia-rallies",
+        "description": "Plus: Why COP talks failed",
+        "published": "2026-11-23T23:30:00.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "nvidia"
+        ],
+        "category": "chips_cloud"
+      },
+      {
         "title": "Nvidia breathes new life into the AI trade. Plus, Qnity inks a smart deal to get stronger",
         "link": "https://www.cnbc.com/investingclub/2026/11/23/nvidia-breathes-new-life-into-the-ai-trade-plus-qnity-inks-a-smart-deal-to-get-stronger.html",
         "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
@@ -1477,6 +1865,23 @@
         "relevanceScore": 5,
         "matchedKeywords": [
           "nvidia"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Amazon scoops up AI accelerator tech to keep chips busy at all times",
+        "link": "https://www.theregister.com/ai-and-ml/2026/11/23/amazon-scoops-up-ai-accelerator-tech-to-keep-chips-busy-at-all-times/5311754",
+        "description": "Not the whole startup - just its tech and the brains behind it",
+        "published": "2026-11-23T21:17:15.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=5222824&width=800",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "amazon",
+          "chip"
         ],
         "category": "chips_cloud"
       },
@@ -1581,6 +1986,22 @@
         "category": "chips_cloud"
       },
       {
+        "title": "Katy Kaminsky Reacts to NVDA Surge After Huang Returns",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-23/katy-kaminsky-reacts-to-nvda-surge-after-huang-returns-video",
+        "description": "Katy Kaminski, Chief Research Strategist and Portfolio Manager at AlphaSimplex Group, says Nvidia’s sharp jump underscored how concentrated and pervasive the AI trade has become. She notes that its influence extends beyond equities and that the scale of recent market moves shows how important the theme has become. She speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
+        "published": "2026-11-23T22:38:33.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "nvidia"
+        ],
+        "category": "chips_cloud"
+      },
+      {
         "title": "How Trump’s AI Chip Crackdown May Hit Southeast Asia",
         "link": "https://www.bloomberg.com/news/videos/2026-11-23/how-trump-s-ai-chip-crackdown-may-hit-southeast-asia-video",
         "description": "Washington’s AI chip crackdown spells trouble for a multibillion dollar cloud business helping to power Southeast Asia’s data center boom. The new rulebook applies to data centers in places like Singapore, Malaysia, Thailand and Indonesia. Newley Purnell has more. (Source: Bloomberg)",
@@ -1672,6 +2093,41 @@
         "category": "ai"
       },
       {
+        "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+        "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+        "description": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+        "published": "2026-11-23T22:05:50.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "baseScore": 12,
+        "relevanceScore": 15,
+        "matchedKeywords": [
+          "anthropic",
+          "claude",
+          "ai agent"
+        ],
+        "category": "ai",
+        "alsoIn": [
+          {
+            "source": "Techmeme",
+            "title": "Anthropic unveils Claude Ship, letting Claude review, fix, and approve GitHub pull requests based on team policies, in beta for Claude Team and Enterprise tiers",
+            "link": "https://www.techmeme.com/261123/p41#a261123p41"
+          },
+          {
+            "source": "9to5Mac",
+            "title": "Anthropic launches new Claude Ship feature for builders",
+            "link": "https://9to5mac.com/2026/11/23/anthropic-launches-new-claude-ship-feature-for-builders/"
+          },
+          {
+            "source": "The Verge",
+            "title": "Claude AI can review pull requests and ship fixes on its own now",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
+          }
+        ]
+      },
+      {
         "title": "Anthropic Shares Sink, Defying AI Trade Rally on Huang’s Return",
         "link": "https://www.bloomberg.com/news/articles/2026-11-23/anthropic-shares-churn-defying-ai-trade-rally-on-huang-s-return",
         "description": "Anthropic PBC shares turned negative on Monday, leaving the artificial intelligence lab out of step with the rest of the sector’s rebound following the reinstatement of Nvidia Corp.’s Jensen Huang.",
@@ -1687,6 +2143,65 @@
           "nvidia",
           "jensen huang",
           "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "OpenAI and Cisco introduce Shirudo",
+        "link": "https://openai.com/index/introducing-shirudo",
+        "description": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+        "published": "2026-11-23T21:20:00.000Z",
+        "source": "OpenAI",
+        "sourceKey": "openai_news",
+        "priority": 1,
+        "image": null,
+        "baseScore": 12,
+        "relevanceScore": 13,
+        "matchedKeywords": [
+          "openai",
+          "cisco"
+        ],
+        "category": "ai",
+        "alsoIn": [
+          {
+            "source": "SiliconANGLE",
+            "title": "Cisco and OpenAI launch Shirudo open-source infrastructure shield to prevent AI-driven cyberattacks",
+            "link": "https://siliconangle.com/2026/11/23/cisco-and-openai-launch-shirudo-an-open-source-infrastructure-shield-to-protect-against-ai-driven-cyberattacks/"
+          }
+        ]
+      },
+      {
+        "title": "The Chinese AI Aspirants Drawing Big Bets to Take on DeepSeek",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-23/the-chinese-ai-aspirants-drawing-big-bets-to-take-on-deepseek",
+        "description": "From Alibaba Group Holding Ltd.’s recently departed AI architect to a former intern at ByteDance Ltd., a new wave of Chinese researchers is starting their own specialist labs and drawing huge sums of venture capital to take on far larger players like DeepSeek.",
+        "published": "2026-11-23T23:00:00.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 12,
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "deepseek",
+          "bytedance",
+          "alibaba"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Cisco, OpenAI Launch Project to Safeguard Agentic AI",
+        "link": "https://www.wsj.com/tech/cisco-openai-launch-project-to-safeguard-agentic-ai-f48e6420?mod=rss_Technology",
+        "description": "The project, called Shirudo, helps protect running Linux systems without a reboot while teams roll out a patch.",
+        "published": "2026-11-23T22:12:00.000Z",
+        "source": "WSJ",
+        "sourceKey": "wsj_tech",
+        "priority": 1,
+        "image": "https://images.wsj.net/im-22818766",
+        "baseScore": 12,
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "openai",
+          "cisco"
         ],
         "category": "ai"
       },
@@ -1745,6 +2260,23 @@
         "category": "ai"
       },
       {
+        "title": "OpenAI Staffer Likely Captured Secrets on Hidden Bug, US Says",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-23/openai-staffer-likely-captured-secrets-on-hidden-bug-us-says",
+        "description": "US prosecutors say the former engineer at OpenAI charged with bugging an office conference room likely intercepted trade secrets and possessed a photograph of what appears to be a term sheet for a “strategic partnership” between the ChatGPT maker and another company.",
+        "published": "2026-11-23T23:56:35.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 11,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "openai",
+          "chatgpt"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "Anthropic Claude use by Japanese companies up 10-fold in 1 year",
         "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/anthropic-claude-use-by-japanese-companies-up-10-fold-in-1-year",
         "description": "",
@@ -1797,6 +2329,57 @@
         "category": "ai"
       },
       {
+        "title": "OpenAI Brings GPT-6.2 Sol to ChatGPT's Chat Tab",
+        "link": "https://www.macrumors.com/2026/11/23/openai-gpt-6-2-sol-chatgpt/",
+        "description": "A version of GPT–6.2 Sol made for the Chat tab is rolling out to Plus, Pro, Business, and Enterprise tiers, OpenAI said today. OpenAI says GPT–6.2 Sol has been tweaked for everyday conversation and can more easily handle complex requests involving detailed instructions or locating information online. Compared with GPT–6, GPT–6.2 Sol does a better job detecting fine details in photos, like symbols on a sign or text on a label. It has improved at choosing options online based on the user's priorit",
+        "published": "2026-11-23T23:52:41.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/11/gpt-6-2-openai.jpg",
+        "baseScore": 10,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "openai",
+          "chatgpt"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "ChatGPT expands GPT-6.2 Sol as OpenAI sets retirement date for two models",
+        "link": "https://9to5mac.com/2026/11/23/chatgpt-expands-gpt-6-2-sol-as-openai-sets-retirement-date-for-two-models/",
+        "description": "OpenAI is bringing GPT-6.2 Sol to the Chat tab in ChatGPT today, less than a week after the model debuted in Work and Codex. The company also set a retirement date for two older models. more…",
+        "published": "2026-11-23T21:51:18.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/chatgpt-app-icon-dark-openai.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 10,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "openai",
+          "chatgpt"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "OpenAI updates ChatGPT to handle complex everyday questions, web searches, and images more reliably",
+        "link": "https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/",
+        "description": "OpenAI is making GPT-6.2 Sol the new default model in ChatGPT's chat tab, rolling it out worldwide. In internal tests, image understanding jumped from 47.4 to 71.7 percent, and the model now handles difficult instructions correctly 78.1 percent of the time. It also sticks to safety policies more consistently. The article OpenAI updates ChatGPT to handle complex everyday questions, web searches, and images more reliably appeared first on The Decoder.",
+        "published": "2026-11-23T20:39:18.000Z",
+        "source": "The Decoder",
+        "sourceKey": "thedecoder",
+        "priority": 2,
+        "image": "https://the-decoder.com/wp-content/uploads/2026/11/openai_chatgpt_pattern.png",
+        "baseScore": 10,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "openai",
+          "chatgpt"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "Meta's Alexandr Wang warns the AI industry isn't ready for what's coming after Riemann breakthrough",
         "link": "https://the-decoder.com/metas-alexandr-wang-warns-the-ai-industry-isnt-ready-for-whats-coming-after-riemann-breakthrough/",
         "description": "Meta's Chief AI Officer Alexandr Wang sees the recent AI-assisted proof sketch of the Riemann Hypothesis as a clear sign that superintelligence is right around the corner. The article Meta's Alexandr Wang warns the AI industry isn't ready for what's coming after Riemann breakthrough appeared first on The Decoder.",
@@ -1815,21 +2398,45 @@
         "category": "ai"
       },
       {
-        "title": "Claude AI can review pull requests and ship fixes on its own now",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
-        "description": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review capabilities thanks to the Code Review feature, which was announced in March and became generally available in October. What's new alongside Claude Ship are the PR Steward and Claude Approvals agents, which are launching",
-        "published": "2026-11-23T20:00:00.000Z",
-        "source": "The Verge",
-        "sourceKey": "theverge",
-        "priority": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_C_96d15c-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "baseScore": 9,
-        "relevanceScore": 9,
+        "title": "OpenAI Will Pay You Up to $8K to Preach the AI Gospel to Small Businesses",
+        "link": "https://decrypt.co/383848/openai-will-pay-8k-preach-ai-gospel-small-businesses",
+        "description": "OpenAI wants local AI evangelists to bring ChatGPT to Main Street. Its new OpenWorks program pays up to $8,000 monthly, provided you can actually help businesses get things done locally.",
+        "published": "2026-11-23T21:46:03.000Z",
+        "source": "Decrypt",
+        "sourceKey": "decrypt",
+        "priority": 3,
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
+        "baseScore": 10,
+        "relevanceScore": 10,
         "matchedKeywords": [
-          "claude",
-          "anthropic"
+          "openai",
+          "chatgpt"
         ],
         "category": "ai"
+      },
+      {
+        "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+        "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+        "description": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+        "published": "2026-11-23T19:14:46.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "google",
+          "gemini"
+        ],
+        "category": "ai",
+        "alsoIn": [
+          {
+            "source": "Android Authority",
+            "title": "Google Search AI Mode adds Wallet Personal Intelligence, with Drive and Gemini coming soon",
+            "link": "https://www.androidauthority.com/personal-intelligence-ai-mode-3738563/"
+          }
+        ]
       },
       {
         "title": "Anthropic Rolls Out Zero Data Retention Policy for Advanced AI",
@@ -1902,14 +2509,14 @@
         "category": "ai"
       },
       {
-        "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-        "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-        "description": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
-        "published": "2026-11-23T19:14:46.000Z",
-        "source": "TechCrunch",
-        "sourceKey": "techcrunch",
+        "title": "See what 6 builders are making with Gemini 4 Hydrogen",
+        "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-hydrogen-builders/",
+        "description": "See six projects builders created with Gemini 4 Hydrogen, from rainy sci-fi skies and pixelated koi ponds to an interactive moth.",
+        "published": "2026-11-23T18:00:00.000Z",
+        "source": "Google",
+        "sourceKey": "google_blog",
         "priority": 1,
-        "image": null,
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/6_Builders_Hydrogen_herosocial_.max-600x600.format-webp.webp",
         "baseScore": 8,
         "relevanceScore": 8,
         "matchedKeywords": [
@@ -2002,6 +2609,23 @@
         "category": "ai"
       },
       {
+        "title": "AI just cracked the biggest maths problem of all time: what does it mean?",
+        "link": "https://www.euronews.com/2026/11/23/ai-just-cracked-the-biggest-maths-problem-of-all-time-what-does-it-mean",
+        "description": "Some wonder if the solving of the famous Riemann Hypothesis by Anthropic’s Claude model is the beginning of advanced super intelligence.",
+        "published": "2026-11-23T16:10:06.000Z",
+        "source": "Euronews Next",
+        "sourceKey": "euronews_next",
+        "priority": 2,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "anthropic",
+          "claude"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "Z.ai follows OpenAI into loop transformer territory with its new 750B flagship model",
         "link": "https://the-decoder.com/z-ai-follows-openai-into-loop-transformer-territory-with-its-new-750b-flagship-model/",
         "description": "Z.ai is moving its flagship GLM-5.4 model to a loop architecture in which 28 layers run twice, which the company says lets the 750-billion-parameter model match models with 2 to 3 trillion parameters. Benchmark scores are only available for a smaller 30B test model so far, and Z.ai is positioning GLM-5.4 as the start of \"Generalized Coding,\" where code also generates videos, games, and CAD models. The article Z.ai follows OpenAI into loop transformer territory with its new 750B flagship model ap",
@@ -2032,6 +2656,22 @@
         "matchedKeywords": [
           "whatsapp",
           "samsung"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Anthropic softens its data retention policy for Mythos and Fable model use",
+        "link": "https://www.engadget.com/2325684/anthropic-softens-its-data-retention-policy-for-mythos-and-fable-model-use/",
+        "description": "Enterprise customers can now keep prompts and responses on their own servers.",
+        "published": "2026-11-23T20:02:30.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/anthropic-softens-its-data-retention-policy-for-mythos-and-fable-model-use/l-intro-1795464099.jpg",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "anthropic"
         ],
         "category": "ai"
       },
@@ -2142,6 +2782,58 @@
         "category": "ai"
       },
       {
+        "title": "AI agent provider Sierra closes $1.75B investment amid rapid revenue growth",
+        "link": "https://siliconangle.com/2026/11/23/ai-agent-provider-sierra-closes-1-75b-investment-amid-rapid-revenue-growth/",
+        "description": "Six months after its last funding round, artificial intelligence startup Sierra Technologies Inc. today announced that it has closed a $1.75 billion late-stage investment. Greenoaks and Lightspeed led the Series F deal. They were joined by a group of returning backers that included Alphabet Inc.’s GV fund. Sierra sells a set of cloud services that […] The post AI agent provider Sierra closes $1.75B investment amid rapid revenue growth appeared first on SiliconANGLE.",
+        "published": "2026-11-23T23:49:50.000Z",
+        "source": "SiliconANGLE",
+        "sourceKey": "siliconangle",
+        "priority": 2,
+        "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Sierra.png",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "ai agent",
+          "alphabet",
+          "artificial intelligence",
+          "funding round",
+          "billion"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Richpanel helps companies automate 50% of support in 30 days",
+        "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+        "description": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+        "published": "2026-11-23T08:00:00.000Z",
+        "source": "OpenAI",
+        "sourceKey": "openai_news",
+        "priority": 1,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "VP ≠ VNP over Every Field",
+        "link": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+        "description": "Paper: https://github.com/anthropics/formal-math/blob/11b6c7e3c927d... Comments URL: https://news.ycombinator.com/item?id=50620102 Points: 298 # Comments: 256",
+        "published": "2026-11-23T22:09:10.000Z",
+        "source": "Hacker News",
+        "sourceKey": "hackernews",
+        "priority": 2,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "anthropic"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "As Apple works on AI agent features, banks are already blocking them",
         "link": "https://9to5mac.com/2026/11/23/as-apple-works-on-ai-agent-features-banks-are-already-blocking-them/",
         "description": "One of the most dramatic shifts in the AI landscape is the emergence of intelligent agents that can use iPhone and Mac apps in order to carry out tasks on our behalf. We can already use third-party chatbots in this way, and we know Apple is working hard to turn Siri AI into an agent. However, before the company even gets the chance, banks are already blocking them, and this may be just the start … more…",
@@ -2171,6 +2863,23 @@
         "relevanceScore": 5,
         "matchedKeywords": [
           "openai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "'We should not be okay with a handover of society to AI', warns Meta's AI boss",
+        "link": "https://www.euronews.com/2026/11/23/we-should-not-be-okay-with-a-handover-of-society-to-ai-warns-metas-ai-boss",
+        "description": "Alexandr Wang has raised concerns over the latest achievements of AI and the risk posed by super intelligent AI models to humanity.",
+        "published": "2026-11-23T11:15:48.000Z",
+        "source": "Euronews Next",
+        "sourceKey": "euronews_next",
+        "priority": 2,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "meta",
+          "ai model"
         ],
         "category": "ai"
       },
@@ -2225,6 +2934,23 @@
         "category": "ai"
       },
       {
+        "title": "Claude rolling out updated Android app with Material 3 Expressive redesign",
+        "link": "https://9to5google.com/2026/11/23/claude-android-material-3-update/",
+        "description": "Anthropic is rolling out a new Claude app for Android that picks up a Material 3 Expressive redesign. more…",
+        "published": "2026-11-23T22:15:00.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/claude-android-m3-3.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "claude",
+          "anthropic"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "Amazon koopt bedrijf Decart achter AI-modellen voor realtimesimulatie",
         "link": "https://tweakers.net/nieuws/254856/amazon-koopt-bedrijf-decart-achter-ai-modellen-voor-realtimesimulatie.html",
         "description": "Amazon koopt de Israëlische start-up Decart. Het bedrijf maakt AI-modellen voor realtimesimulaties en moet Amazon-klanten helpen bij AI-prestaties en het trainen van modellen. Het is onbekend wat Amazon voor Decart heeft betaald, al gaat het volgens bronnen van Bloomberg om 7,5 miljard dollar.",
@@ -2273,6 +2999,22 @@
         "category": "ai"
       },
       {
+        "title": "AI adoption grows in Asia, but measuring the gains remains tricky",
+        "link": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html",
+        "description": "Businesses across Asia-Pacific are seeing returns from AI investments, even as confidence in measuring those gains varies, according to an AWS survey.",
+        "published": "2026-11-23T23:42:27.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "aws"
+        ],
+        "category": "ai"
+      },
+      {
         "title": "Arva AI, which builds AI agents for banks' financial-crime compliance teams and counts Wise as a customer, raised a $20M Series A led by Arthur Ventures",
         "link": "https://www.techmeme.com/261122/p18#a261122p18",
         "description": "Arva AI, which builds AI agents for banks' financial-crime compliance teams and counts Wise as a customer, raised a $20M Series A led by Arthur Ventures — Arva AI, which builds AI agents for banks' financial-crime compliance teams, has raised $20 million in Series A funding, CEO Rhim Shah tells Axios Pro exclusively.",
@@ -2287,6 +3029,40 @@
         "matchedKeywords": [
           "ai agent",
           "ceo"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Google Search Gets Wallet Access, With Drive Coming Soon",
+        "link": "https://www.macrumors.com/2026/11/23/google-search-wallet-access/",
+        "description": "Google today said it is making Search \"more tailored\" with support for connecting Google Wallet to Personal Intelligence in AI Mode. According to Google, AI Mode will be able to map financial milestones, find ways to trim spending, and get the most from credit card benefits. The feature can read information from accounts included in Google Wallet, but it can't move, manage, or invest money. In the coming weeks, Google plans to add connections for Google Drive and Gemini to Google Search. Google",
+        "published": "2026-11-23T22:09:42.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/11/google-personal-intelligence.jpg",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "google",
+          "gemini"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Gemini 4 Carbon is now available in Google Antigravity for AI Pro",
+        "link": "https://9to5google.com/2026/11/23/antigravity-gemini-4-carbon/",
+        "description": "Following all the model launches this month, Google is bringing Gemini 4 Carbon to paid AI Pro subscribers in Antigravity. more…",
+        "published": "2026-11-23T21:16:33.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/Google-Antigravity.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "google",
+          "gemini"
         ],
         "category": "ai"
       },
@@ -2369,9 +3145,56 @@
           "claude"
         ],
         "category": "ai"
+      },
+      {
+        "title": "Why One Math Proof Has AI Experts Warning Humans Might Soon Lose Control",
+        "link": "https://decrypt.co/383846/why-one-math-proof-ai-experts-warning-humans-lose-control",
+        "description": "Alexandr Wang says Claude’s role in a verified Riemann Hypothesis proof signals a turning point, warning that powerful self-improving AI systems could advance faster than people can supervise them.",
+        "published": "2026-11-23T21:16:03.000Z",
+        "source": "Decrypt",
+        "sourceKey": "decrypt",
+        "priority": 3,
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/ai-artificial-intelligence-decrypt-style-1-scaled-gID_7.jpg@png",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "claude"
+        ],
+        "category": "ai"
       }
     ],
     "business": [
+      {
+        "title": "Jim Cramer sees more upside for Nvidia stock with Jensen Huang back as CEO",
+        "link": "https://www.cnbc.com/2026/11/23/jim-cramer-nvidia-jensen-huang-ceo-return.html",
+        "description": "CNBC's Jim Cramer said Jensen Huang's return as Nvidia CEO could help revive the chipmaker's battered stock.",
+        "published": "2026-11-23T23:14:34.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 10,
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang",
+          "ceo",
+          "chipmaker"
+        ],
+        "category": "business",
+        "alsoIn": [
+          {
+            "source": "The Verge",
+            "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
+          },
+          {
+            "source": "Bloomberg",
+            "title": "Why Nvidia CEO Jensen Huang Matters So Much to the Stock Market",
+            "link": "https://www.bloomberg.com/news/articles/2026-11-23/why-nvidia-ceo-jensen-huang-matters-so-much-to-the-stock-market"
+          }
+        ]
+      },
       {
         "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
         "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
@@ -2496,6 +3319,25 @@
         ]
       },
       {
+        "title": "Asian Stocks Jump as Huang’s Return Lifts AI Trade: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates",
+        "description": "Asian shares jumped the most since July as Jensen Huang’s return to lead Nvidia Corp. sparked a rebound in the artificial intelligence trade, sending the region’s major chipmakers surging after last week’s rout.",
+        "published": "2026-11-23T22:06:46.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_markets",
+        "priority": 1,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang",
+          "artificial intelligence",
+          "chipmaker"
+        ],
+        "category": "business"
+      },
+      {
         "title": "Nvidia surge: What investors should do with the stock and the AI trade now",
         "link": "https://www.cnbc.com/2026/11/23/nvidia-stock-jensen-huang-ai-trade.html",
         "description": "The market is loving the return of Jensen Huang, but investors and lawmakers have their guards up.",
@@ -2531,6 +3373,41 @@
         "category": "business"
       },
       {
+        "title": "CrowdStrike CEO defends Zscaler acquisition, calls it a 'winning combination'",
+        "link": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-deal-ceo-george-kurtz.html",
+        "description": "CrowdStrike CEO George Kurtz defended the company's $44 billion acquisition of Zscaler.",
+        "published": "2026-11-23T23:53:20.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "acquisition",
+          "ceo",
+          "billion"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Nvidia sets options-trading record after CEO comeback. Here are the big trades",
+        "link": "https://www.cnbc.com/2026/11/23/nvidia-sets-options-trading-record-after-ceo-comeback-here-are-the-big-trades.html",
+        "description": "Nvidia break record for single stock options volume",
+        "published": "2026-11-23T23:24:02.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_top",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "nvidia",
+          "ceo"
+        ],
+        "category": "business"
+      },
+      {
         "title": "Everyone Surprised by Huang’s Return: ProShares’ Kang",
         "link": "https://www.bloomberg.com/news/videos/2026-11-23/everyone-surprised-by-huang-s-return-proshares-kang-video",
         "description": "Inkoo Kang, executive director of tactical products at ProShares, joins Scarlet Fu and Eric Balchunas on “Bloomberg ETF IQ.” They discuss the ProShares Ultra NVDA ETF (ticker: NVDB) and the firm’s new Anthropic ETFs. (Source: Bloomberg)",
@@ -2543,6 +3420,23 @@
         "relevanceScore": 6,
         "matchedKeywords": [
           "anthropic"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Canadian Stocks Recover as Huang’s Return Fuels Metals, Tech",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-23/canadian-stocks-recover-as-huang-s-return-fuels-metals-tech",
+        "description": "Canada’s equity benchmark posted its biggest gain since April 2025, fueled by surging precious metals and technology stocks, after Nvidia Corp. reinstated Jensen Huang as its chief executive officer.",
+        "published": "2026-11-23T15:50:34.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_markets",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang"
         ],
         "category": "business"
       },
@@ -2583,6 +3477,23 @@
         "category": "business"
       },
       {
+        "title": "Peterson: Expect a Lot of Damage From Keeping Huang",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-23/peterson-expect-a-lot-of-damage-from-keeping-huang-video",
+        "description": "Randall Peterson, a Professor of Organizational Behavior and Founding Director of the London Business School Leadership Institute, discusses why markets have reacted so strongly both to the upside today and to the downside over the preceding weeks. He says comparable CEO-related market moves are difficult to find, even citing Steve Jobs’s return to Apple as a less immediate example. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
+        "published": "2026-11-23T22:26:10.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple",
+          "ceo"
+        ],
+        "category": "business"
+      },
+      {
         "title": "Bret Taylor’s Sierra Finalizing an Over $1.75 Billion Round",
         "link": "https://www.bloomberg.com/news/articles/2026-11-23/bret-taylor-s-sierra-finalizing-more-than-1-75-billion-round",
         "description": "Sierra Technologies Inc., a startup that makes artificial intelligence software to automate customer service, is finalizing a funding round of more than $1.75 billion that would value the company at $30 billion.",
@@ -2601,6 +3512,39 @@
         "category": "business"
       },
       {
+        "title": "CrowdStrike to buy Zscaler in record-setting $43.9B cybersecurity deal",
+        "link": "https://siliconangle.com/2026/11/23/crowdstrike-to-buy-zscaler-in-record-setting-43-9b-cybersecurity-deal/",
+        "description": "CrowdStrike Holdings Inc. today announced plans to acquire Zscaler Inc., a fellow provider of cybersecurity software, for about $43.9 billion. The all-stock deal values the latter company at $260.40 per share. That’s a 34% premium to Zscaler’s closing price on Friday, the day CrowdStrike’s takeover interest became public. The transaction would be the largest cybersecurity […] The post CrowdStrike to buy Zscaler in record-setting $43.9B cybersecurity deal appeared first on SiliconANGLE.",
+        "published": "2026-11-23T21:29:30.000Z",
+        "source": "SiliconANGLE",
+        "sourceKey": "siliconangle",
+        "priority": 2,
+        "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/George-Kurtz.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "acquire",
+          "billion"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "The $297 Meta Quest 3S deal is finally back in stock",
+        "link": "https://9to5google.com/2026/11/23/meta-quest-3s-black-friday-week-2026-deal/",
+        "description": "Black Friday week is already giving us lots of surprises, and the previously sold-out Meta Quest 3S deal is now back in stock. more…",
+        "published": "2026-11-23T20:27:51.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/meta-quest-3s-thanksgiving.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "meta"
+        ],
+        "category": "business"
+      },
+      {
         "title": "A Decade Later, Apple Remains Berkshire's Biggest Stock Bet",
         "link": "https://www.macrumors.com/2026/11/23/apple-remains-berkshires-biggest-stock-bet/",
         "description": "Berkshire Hathaway has stopped selling Apple shares, leaving the iPhone maker as its biggest stock investment, according to The Motley Fool. After selling shares in 2024 and 2025, Berkshire kept its Apple holding unchanged through September 2026. Apple's stock has risen 29% this year and now accounts for around a quarter of Berkshire's public stock portfolio. Berkshire first invested in Apple in 2016. Tags: AAPL, Berkshire Hathaway This article, \"A Decade Later, Apple Remains Berkshire's Biggest",
@@ -2613,6 +3557,23 @@
         "relevanceScore": 4,
         "matchedKeywords": [
           "apple"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "HPE’s stock slides despite record revenue growth and upbeat forecast",
+        "link": "https://siliconangle.com/2026/11/23/hpes-stock-slides-despite-record-revenue-growth-and-upbeat-forecast/",
+        "description": "Server maker Hewlett-Packard Enterprise Co. posted its fastest quarterly revenue growth on record and raised its full-year forecast, but it wasn’t enough to keep up the momentum of a broader Nvidia Corp.-fueled rally, and its stock was headed lower after-hours. The company reported fourth-quarter earnings before certain costs such as stock compensation of $1.43 per […] The post HPE’s stock slides despite record revenue growth and upbeat forecast appeared first on SiliconANGLE.",
+        "published": "2026-11-23T23:24:51.000Z",
+        "source": "SiliconANGLE",
+        "sourceKey": "siliconangle",
+        "priority": 2,
+        "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Neri.png",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "nvidia",
+          "earnings"
         ],
         "category": "business"
       }
@@ -2649,6 +3610,11 @@
             "source": "Engadget",
             "title": "Two states sue SpaceX over sexually explicit Grok deepfakes",
             "link": "https://www.engadget.com/2325111/two-states-sue-spacex-over-sexually-explicit-grok-deepfakes/"
+          },
+          {
+            "source": "Ars Technica",
+            "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+            "link": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/"
           }
         ]
       },
@@ -2769,6 +3735,51 @@
         "category": "devices"
       },
       {
+        "title": "Apple renews Ted Lasso for season 5",
+        "link": "https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv",
+        "description": "One of Apple's biggest shows is sticking around for at least one more season. The streamer announced today that Ted Lasso has been renewed for a fifth season on Apple TV, after what the company calls a \"record-breaking season four debut.\" There are currently no details about the new season nor when it might debut. Ted Lasso has proven to be one of the tentpole series for Apple TV, and it returned in 2026 after a three-year hiatus. While the season 3 finale seemed to mark the end for the show, se",
+        "published": "2026-11-23T20:56:00.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Ted_Lasso_Photo_041001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 5,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices",
+        "alsoIn": [
+          {
+            "source": "9to5Mac",
+            "title": "Apple announces Ted Lasso season 5 is coming",
+            "link": "https://9to5mac.com/2026/11/23/apple-announces-ted-lasso-season-5-is-coming/"
+          },
+          {
+            "source": "MacRumors",
+            "title": "Apple Announces 'Ted Lasso' Renewed for Fifth Season",
+            "link": "https://www.macrumors.com/2026/11/23/ted-lasso-season-five-renewal/"
+          }
+        ]
+      },
+      {
+        "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
+        "link": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
+        "description": "The Apple Watch Series 12 is on sale in multiple configurations. | Photo: Amelia Holowaty Krales / The Verge If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity, has dropped to a new all-time low of $299 ($100 off) at Amazon and Walmart, beating its most sale price by $30. If you prefer a larger size, the 46mm model is on sale for $349 ($100 off) at Ama",
+        "published": "2026-11-23T21:36:48.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268738_Apple_Watch_Series_12_AKrales_0280.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "apple",
+          "amazon"
+        ],
+        "category": "devices"
+      },
+      {
         "title": "Google integriert Nest-Geräte in Home-App und wechselt im Smart Home zu Gemini",
         "link": "https://www.heise.de/news/Google-integriert-Nest-Geraete-in-Home-App-und-wechselt-im-Smart-Home-zu-Gemini-11533916.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
         "description": "Änderungen in Googles Smart Home: Nest-App und Google Assistant werden eingestellt. Dafür gibt es künftig nur noch die Home-App mit Gemini als Sprachassistent.",
@@ -2872,6 +3883,38 @@
         "matchedKeywords": [
           "apple",
           "ceo"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Motorcyclists spot Google Maps on Android Auto showing routes for two-wheeled vehicles",
+        "link": "https://www.androidauthority.com/android-auto-motorcycle-mode-3738531/",
+        "description": "Google Maps on Android Auto quietly starts offering motorcycle-friendly routes.",
+        "published": "2026-11-23T21:37:37.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2024/10/KTM-TFT-Dashboard-with-Android-Automotive-OS_1.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Which 2026 Samsung Galaxy Tab should you buy?",
+        "link": "https://9to5google.com/2026/11/23/which-2026-samsung-galaxy-tab-should-you-buy/",
+        "description": "Samsung has a huge lineup of Galaxy tablets to choose from right now, and they’re all a little different. The Galaxy Tab S12+ is the Samsung tablet to choose for a premium mix of entertainment, creativity, and productivity. The Galaxy Tab S12 Ultra gives you an even bigger canvas, while the Galaxy Tab S11 brings flagship features to a more portable size. For everyday value, start with the Galaxy Tab S10 FE series or the affordable Galaxy Tab A11+. Samsung’s tablet lineup covers everything from w",
+        "published": "2026-11-23T21:00:00.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/09/galaxy-tab-s11-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "samsung"
         ],
         "category": "devices"
       },
@@ -3133,6 +4176,22 @@
         "category": "devices"
       },
       {
+        "title": "Samsung details the tech behind the Galaxy SmartTag3's longer finding range",
+        "link": "https://www.gsmarena.com/samsung_details_the_tech_behind_the_galaxy_smarttag3s_longer_finding_range-news-75596.php",
+        "description": "Samsung announced the Galaxy SmartTag3 back in late September, and the tracker went on sale in the US earlier this month. Today, the company has published a deep dive into the technology behind its finding features, and it has also revealed a small but useful new trick. The main upgrade is Compass View, which now uses Bluetooth 6.0 Channel Sounding to show you a tag's direction and distance from up to 60 meters away - around three times farther than with the SmartTag2. Regular Bluetooth Low Ener",
+        "published": "2026-11-23T22:59:02.000Z",
+        "source": "GSMArena",
+        "sourceKey": "gsmarena",
+        "priority": 3,
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/samsung-smarttag3-finding-details/-184x111/gsmarena_000.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "samsung"
+        ],
+        "category": "devices"
+      },
+      {
         "title": "The Samsung Galaxy A38 tipped to have a downgraded camera, the A58 stays the same",
         "link": "https://www.gsmarena.com/the_samsung_galaxy_a38_tipped_to_have_a_downgraded_camera_the_a58_stays_the_same-news-75598.php",
         "description": "According to the latest rumors, Samsung is planning to cut corners with the Galaxy A38 by using an inferior main camera. Previous reports also point to a downgraded OLED panel. While on the surface the Galaxy A38 seems to have the same 50MP main camera on the back, a deeper look at the specs reveals a smaller 1/1.95\" Sony IMX882 sensor, down from the 1/1.56\" Sony IMX906 used in the Galaxy A37. This decision to cut costs seems to be in line with the current market conditions. The rising memory ch",
@@ -3252,6 +4311,23 @@
         "category": "other"
       },
       {
+        "title": "Remodeled Apple The Oracle retail store reopens December 3",
+        "link": "https://appleinsider.com/articles/26/11/23/remodeled-apple-the-oracle-retail-store-reopens-december-3?utm_source=rss",
+        "description": "Apple The Oracle in Reading, Berkshire, England will reopen on December 3 after the old location closes on December 1. It is a remodeled Apple Store location inside of The Oracle shopping center. https://www.apple.com/uk/retail/theoracle/ Continue Reading on AppleInsider | Discuss on our Forums",
+        "published": "2026-11-23T21:43:08.000Z",
+        "source": "AppleInsider",
+        "sourceKey": "appleinsider",
+        "priority": 2,
+        "image": "https://media.appleinsider.com/gallery/69990-147479-remodeled_apple_the_oracle_retail_store_reopens_december_3-xl.jpg",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "apple",
+          "oracle"
+        ],
+        "category": "other"
+      },
+      {
         "title": "When Microsoft, Apple, and the FAA can't keep it up, it's a system of a down",
         "link": "https://www.theregister.com/columnists/2026/11/23/when-microsoft-apple-and-the-faa-cant-keep-it-up-its-a-system-of-a-down/5311363",
         "description": "Outage after outage after outage is a syndrome that needs radical treatment",
@@ -3265,6 +4341,23 @@
         "matchedKeywords": [
           "microsoft",
           "apple"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Apple Store With All-New Design Opening in UK Next Month",
+        "link": "https://www.macrumors.com/2026/11/23/new-apple-store-at-the-oracle/",
+        "description": "Apple today announced that it will be opening a new, modernized store at The Oracle in Reading, England on Thursday, December 3. Apple's existing store in the shopping center is permanently closing on December 1 as part of the transition. Apple Festival Place in nearby Basingstoke permanently closed on Saturday, so the UK has lost one store overall. Apple said all employees at the Festival Place store would have the opportunity to work at Apple The Oracle or elsewhere. Tags: Apple Store, United",
+        "published": "2026-11-23T21:13:46.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2025/07/Apple-Store-Wallpaper-Basic-Apple-Guy.jpg",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "apple",
+          "oracle"
         ],
         "category": "other"
       },
@@ -3374,6 +4467,22 @@
         "category": "other"
       },
       {
+        "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+        "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+        "description": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+        "published": "2026-11-23T21:25:42.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "jensen huang"
+        ],
+        "category": "other"
+      },
+      {
         "title": "Jensen Huang isn’t out of the woods yet",
         "link": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
         "description": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
@@ -3386,6 +4495,38 @@
         "relevanceScore": 4,
         "matchedKeywords": [
           "jensen huang"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+        "link": "https://stalw.art/blog/microsoft-exchange-replacement/",
+        "description": "Article URL: https://stalw.art/blog/microsoft-exchange-replacement/ Comments URL: https://news.ycombinator.com/item?id=50620349 Points: 316 # Comments: 147",
+        "published": "2026-11-23T22:32:29.000Z",
+        "source": "Hacker News",
+        "sourceKey": "hackernews",
+        "priority": 2,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "microsoft"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Google Chrome is working on 3 new filters to narrow down your browsing history",
+        "link": "https://www.androidauthority.com/google-chrome-history-filters-3738511/",
+        "description": "You should soon be able to filter browsing history by device, date, and ‘who browsed.’",
+        "published": "2026-11-23T20:17:10.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2022/02/Google-Chrome-logo-stock-photo-2.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
         ],
         "category": "other"
       },
@@ -3805,6 +4946,22 @@
           "google"
         ],
         "category": "other"
+      },
+      {
+        "title": "The hacker behind early GTA VI leaks has been sentenced — and released",
+        "link": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released",
+        "description": "Arion Kurtaj, who pleaded guilty last week to hacking Grand Theft Auto VI developer Rockstar Games and other companies, including Uber and Revolut, was sentenced to seven years in prison but released on license, the BBC reports. After hacking Rockstar, Kurtaj leaked 90 videos of GTA VI in 2022, years before the game's public release last week. Prior to his sentencing, Kurtaj had already spent time in a hospital because of his autism and in prison. \"You are obviously a very talented young man,\" t",
+        "published": "2026-11-23T23:25:01.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Jason_and_Lucia_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "uber"
+        ],
+        "category": "other"
       }
     ],
     "crypto": [
@@ -3984,6 +5141,24 @@
           "nvidia",
           "jensen huang",
           "ceo"
+        ],
+        "category": "regulation"
+      },
+      {
+        "title": "Circular Financing Will Now Be Under a Microscope After Jensen Huang’s Return, Warns Gary Marcus",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-23/expect-more-bearishness-after-nvidia-ceo-return-marcus-video",
+        "description": "Gary Marcus discusses whether Jensen Huang’s return to Nvidia - and the reported involvement of President Trump and the White House- has reinflated the AI bubble. Nvidia surged 31% in the session, but Marcus notes the stock had remained well below its peak. He argues Huang now faces greater scrutiny, including potential congressional investigations, shareholder lawsuits and questions about possible insider trading involving the White House. He speaks with Romaine Bostick on \"The Close.\" (Source:",
+        "published": "2026-11-23T22:50:51.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "jensen huang",
+          "nvidia",
+          "lawsuit"
         ],
         "category": "regulation"
       },
@@ -4248,5 +5423,5 @@
       }
     ]
   },
-  "totalArticles": 195
+  "totalArticles": 253
 }
