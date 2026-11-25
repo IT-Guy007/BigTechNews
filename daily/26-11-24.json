@@ -4,7 +4,7 @@
   "title": "Tuesday, Nov 24",
   "dateRange": "November 24, 2026",
   "date": "2026-11-24",
-  "generatedAt": "2026-11-25T02:32:16.712Z",
+  "generatedAt": "2026-11-25T14:27:04.164Z",
   "highlights": [
     {
       "title": "Why Anthropic could be the biggest loser from Jensen Huang’s return to Nvidia",
@@ -1226,6 +1226,22 @@
         "relevanceScore": 7,
         "matchedKeywords": [
           "openai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+        "link": "https://news.ycombinator.com/item?id=50630809",
+        "description": "Basically the title. Anthropic is accusing me and my company of using their API for distillation. We are not. We do not train our own models. Our only usage which I think could get us flagged is automated regression benchmarks whenever we change some AI settings. But this is not against their policy? Now I've got 24h to prove we didn't. Has anyone dealt with this too? How can you prove that you are not distilling Anthropic models without breaking your user's privacy? Comments URL: https://news.y",
+        "published": "2026-11-24T16:45:44.000Z",
+        "source": "Hacker News",
+        "sourceKey": "hackernews",
+        "priority": 2,
+        "image": null,
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "anthropic"
         ],
         "category": "ai"
       },
@@ -5397,5 +5413,5 @@
       }
     ]
   },
-  "totalArticles": 281
+  "totalArticles": 282
 }
