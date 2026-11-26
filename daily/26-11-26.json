@@ -4,141 +4,359 @@
   "title": "Thursday, Nov 26",
   "dateRange": "November 26, 2026",
   "date": "2026-11-26",
-  "generatedAt": "2026-11-26T00:23:36.571Z",
+  "generatedAt": "2026-11-26T10:57:09.307Z",
   "highlights": [
     {
-      "title": "Nvidia turmoil casts pall over high-flying global AI chip industry",
-      "link": "https://asia.nikkei.com/business/tech/semiconductors/nvidia-turmoil-casts-pall-over-high-flying-global-ai-chip-industry",
-      "description": "",
-      "published": "2026-11-26T00:23:34.442Z",
-      "source": "Nikkei Asia",
-      "sourceKey": "nikkei_asia",
-      "priority": 1,
-      "image": null,
-      "baseScore": 6,
-      "relevanceScore": 6,
+      "title": "Huawei advances home-grown chip design ecosystem while eyeing global push to rival Nvidia",
+      "link": "https://www.scmp.com/tech/big-tech/article/3375902/huawei-advances-home-grown-chip-design-ecosystem-while-eyeing-global-push-rival-nvidia",
+      "description": "Huawei Technologies and a local software partner claim to have made breakthroughs in domestic chip design tools built around the telecoms equipment giant’s Tau Scaling Law, marking the latest effort to cultivate a self-reliant semiconductor supply chain in China. Hangzhou-based Phlexing Technology said at Huawei’s annual intellectual property (IP) event in Beijing on Tuesday that it had partnered with the Shenzhen-based company to develop extraction and sign-off tools for electronic design...",
+      "published": "2026-11-26T09:00:15.000Z",
+      "source": "SCMP",
+      "sourceKey": "scmp_tech",
+      "priority": 2,
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/26/57207bb8-3db1-4af4-9585-235cac064260_1075bf2d.jpg?itok=rKh2F1nj&v=1795682501",
+      "baseScore": 13,
+      "relevanceScore": 13,
       "matchedKeywords": [
         "nvidia",
-        "chip"
+        "huawei",
+        "chip",
+        "breakthrough",
+        "semiconductor"
       ],
       "category": "chips_cloud"
     },
     {
-      "title": "Huang back at Nvidia as China builds own chip production system",
-      "link": "https://asia.nikkei.com/opinion/huang-back-at-nvidia-as-china-builds-own-chip-production-system",
-      "description": "",
-      "published": "2026-11-26T00:23:34.442Z",
-      "source": "Nikkei Asia",
-      "sourceKey": "nikkei_asia",
+      "title": "Huawei Teases Next-Gen AI Memory Chip to Take On Samsung, Hynix",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-26/huawei-teases-next-gen-ai-memory-chip-to-take-on-samsung-hynix",
+      "description": "Huawei Technologies Co. is preparing to release details of a new high-bandwidth memory chip that could potentially surpass current offerings from Samsung Electronics Co. and SK Hynix Inc., moving to launch Chinese production of a key AI component currently blocked by US sanctions.",
+      "published": "2026-11-26T04:06:10.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "baseScore": 6,
-      "relevanceScore": 6,
+      "baseScore": 12,
+      "relevanceScore": 12,
       "matchedKeywords": [
-        "nvidia",
-        "chip"
-      ],
-      "category": "chips_cloud"
-    },
-    {
-      "title": "Nvidia's shares drop, credit rating on watch two days after Huang's return",
-      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-s-shares-drop-credit-rating-on-watch-two-days-after-huang-s-return",
-      "description": "",
-      "published": "2026-11-26T00:23:34.442Z",
-      "source": "Nikkei Asia",
-      "sourceKey": "nikkei_asia",
-      "priority": 1,
-      "image": null,
-      "baseScore": 5,
-      "relevanceScore": 5,
-      "matchedKeywords": [
-        "nvidia"
-      ],
-      "category": "chips_cloud"
-    },
-    {
-      "title": "How a Bain-led deal made SK Hynix Kioxia's top shareholder",
-      "link": "https://asia.nikkei.com/business/tech/semiconductors/how-a-bain-led-deal-made-sk-hynix-kioxia-s-top-shareholder",
-      "description": "",
-      "published": "2026-11-26T00:23:34.442Z",
-      "source": "Nikkei Asia",
-      "sourceKey": "nikkei_asia",
-      "priority": 1,
-      "image": null,
-      "baseScore": 5,
-      "relevanceScore": 5,
-      "matchedKeywords": [
+        "samsung",
+        "huawei",
+        "chip",
         "sk hynix"
       ],
       "category": "chips_cloud"
     },
     {
-      "title": "Xiaomi's new EV models shine as company looks to beat smartphone dependence",
-      "link": "https://asia.nikkei.com/spotlight/electric-cars-in-china/xiaomi-s-new-ev-models-shine-as-company-looks-to-beat-smartphone-dependence",
-      "description": "",
-      "published": "2026-11-26T00:23:34.442Z",
-      "source": "Nikkei Asia",
-      "sourceKey": "nikkei_asia",
+      "title": "Trump to Lead TSMC Arizona Groundbreaking Ceremony After Bringing Huang Back to Nvidia",
+      "link": "https://www.theinformation.com/briefings/trump-lead-tsmc-arizona-groundbreaking-ceremony-bringing-huang-back-nvidia",
+      "description": "President Donald Trump will lead a groundbreaking ceremony on December 4 for the expansion of Taiwan Semiconductor Manufacturing Company‘s chip plant in Phoenix, Bloomberg reported, citing a White House official. TSMC executives, suppliers and customers are expected to attend. It isn’t clear ...",
+      "published": "2026-11-26T03:21:48.000Z",
+      "source": "The Information",
+      "sourceKey": "theinformation",
       "priority": 1,
       "image": null,
-      "baseScore": 5,
-      "relevanceScore": 5,
+      "baseScore": 11,
+      "relevanceScore": 11,
       "matchedKeywords": [
-        "xiaomi"
+        "nvidia",
+        "tsmc",
+        "semiconductor",
+        "chip"
       ],
-      "category": "ev_autonomous"
+      "category": "chips_cloud"
     },
     {
-      "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
-      "link": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
-      "description": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support to the $35 Onn Outdoor Camera Plug-In and $77 Onn Floodlight Camera Hardwired. However, a Google Home Premium subscription is still required to access the feature. Both cameras and Google's Nest Cam Outdoor (wired, 2nd gen) also have a new remote control in the Google Home app you can",
-      "published": "2026-11-26T00:04:34.000Z",
-      "source": "The Verge",
-      "sourceKey": "theverge",
+      "title": "OpenAI rolls out its merged ChatGPT Chat and Work tabs, with a shared usage meter, to a small group of Pro users, saying heavy users may hit their limits sooner",
+      "link": "https://www.techmeme.com/261125/p46#a261125p46",
+      "description": "OpenAI rolls out its merged ChatGPT Chat and Work tabs, with a shared usage meter, to a small group of Pro users, saying heavy users may hit their limits sooner — OpenAI has started rolling out a unified Chat and Work experience in ChatGPT to a few of its users, amid criticism from some subscribers …",
+      "published": "2026-11-26T02:55:02.000Z",
+      "source": "Techmeme",
+      "sourceKey": "techmeme",
       "priority": 1,
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23451196/acastro_220510_STK123_0002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "baseScore": 5,
-      "relevanceScore": 5,
+      "image": "http://www.techmeme.com/261125/i46.jpg",
+      "via": "TechCrunch",
+      "baseScore": 11,
+      "relevanceScore": 11,
       "matchedKeywords": [
-        "google"
+        "openai",
+        "chatgpt"
       ],
-      "category": "devices"
+      "category": "ai"
     },
     {
-      "title": "Japan arcade snags world record with 600 claw machines",
-      "link": "https://asia.nikkei.com/business/media-entertainment/japan-arcade-snags-world-record-with-600-claw-machines",
-      "description": "",
-      "published": "2026-11-26T00:23:34.442Z",
-      "source": "Nikkei Asia",
-      "sourceKey": "nikkei_asia",
+      "title": "US Chip Curbs Stall Asia Data Center Financing",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-26/us-chip-curbs-stall-asia-data-center-financing-video",
+      "description": "US chip curbs are putting the brakes on billions of dollars in AI data center financing across Asia, with lenders reassessing deals tied to Chinese tech firms including ByteDance, Alibaba and Tencent. Bloomberg’s Annabelle Droules says legal and compliance risks are weighing on banks as new rules on chip access take effect. (Source: Bloomberg)",
+      "published": "2026-11-26T02:49:31.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "baseScore": 4,
-      "relevanceScore": 4,
+      "baseScore": 10,
+      "relevanceScore": 10,
       "matchedKeywords": [
-        "world record"
+        "chip",
+        "data center",
+        "bytedance",
+        "alibaba",
+        "tencent",
+        "billion"
+      ],
+      "category": "chips_cloud"
+    },
+    {
+      "title": "China pushes brain-computer interface breakthroughs as Neuralink advances towards market",
+      "link": "https://www.scmp.com/business/china-business/article/3375858/china-pushes-brain-computer-interface-breakthroughs-neuralink-advances-towards-market",
+      "description": "Chinese firms are racing to claim brain-computer interface (BCI) breakthroughs as Elon Musk’s Neuralink advances towards commercialisation, with Beijing seeking to leapfrog the US by setting standards and expanding real-world applications in what it sees as a strategic industry. Neuralink said on Wednesday it would launch a late-stage trial to evaluate the safety and effectiveness of its implantable BCI device for adults living with amyotrophic lateral sclerosis (ALS), allowing them to control..",
+      "published": "2026-11-26T07:00:11.000Z",
+      "source": "SCMP",
+      "sourceKey": "scmp_tech",
+      "priority": 2,
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/26/81205e7e-9334-4423-96f1-09872c848795_e48a6620.jpg?itok=9dVMDJbA&v=1795667007",
+      "baseScore": 10,
+      "relevanceScore": 10,
+      "matchedKeywords": [
+        "neuralink",
+        "breakthrough",
+        "elon musk"
       ],
       "category": "other"
     },
     {
-      "title": "Apple is running macOS on iPads internally, new report claims",
-      "link": "https://www.gsmarena.com/apple_is_running_macos_on_ipads_internally_new_report_claims-news-75641.php",
-      "description": "Some iPad models have gotten plenty powerful in the last few years with the introduction of the in-house Apple M silicon, so users are now demanding a more powerful OS that can take advantage of the iPad's hardware capabilities. That doesn't mean Apple isn't improving iPadOS, but it's still not macOS-level. Well, according to one of Mark Gurman's inside sources, Apple is already running macOS on some iPads internally. But don't hold your breath. The source clarifies that it's only for internal t",
-      "published": "2026-11-26T00:02:02.000Z",
-      "source": "GSMArena",
-      "sourceKey": "gsmarena",
-      "priority": 3,
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/apple-upgrade-program-is-live/-184x111/gsmarena_000.jpg",
-      "baseScore": 4,
-      "relevanceScore": 4,
+      "title": "Musk Says Every US Kid to Get Two SpaceX Shares, Doubling Pledge",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-26/musk-says-every-us-kid-to-get-two-spacex-shares-doubling-pledge",
+      "description": "Elon Musk and SpaceX will give every child in the US two shares in the space exploration company, doubling a commitment the world’s richest person made just last month.",
+      "published": "2026-11-26T04:52:54.000Z",
+      "source": "Bloomberg",
+      "sourceKey": "bloomberg_tech",
+      "priority": 1,
+      "image": null,
+      "baseScore": 8,
+      "relevanceScore": 9,
       "matchedKeywords": [
-        "apple"
+        "spacex",
+        "elon musk"
+      ],
+      "category": "space",
+      "alsoIn": [
+        {
+          "source": "Techmeme",
+          "title": "Elon Musk says he and SpaceX plan to give every child in the US two SpaceX shares via Trump Accounts, doubling his pledge; the donation is worth ~$18.4B",
+          "link": "https://www.techmeme.com/261126/p9#a261126p9"
+        }
+      ]
+    },
+    {
+      "title": "Neuralink receives FDA approval for the LINK Pivotal Study, a US clinical trial to evaluate the safety and effectiveness of its BCI system in ALS patients",
+      "link": "https://www.techmeme.com/261125/p43#a261125p43",
+      "description": "Neuralink receives FDA approval for the LINK Pivotal Study, a US clinical trial to evaluate the safety and effectiveness of its BCI system in ALS patients — Elon Musk's startup Neuralink received US approval to start what it's calling a pivotal trial for its brain-computer implants.",
+      "published": "2026-11-26T01:00:13.000Z",
+      "source": "Techmeme",
+      "sourceKey": "techmeme",
+      "priority": 1,
+      "image": "http://www.techmeme.com/261125/i43.jpg",
+      "via": "Bloomberg",
+      "baseScore": 8,
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "neuralink",
+        "elon musk"
+      ],
+      "category": "other",
+      "alsoIn": [
+        {
+          "source": "Engadget",
+          "title": "Neuralink receives FDA approval for 'pivotal' brain implant trial in ALS patients",
+          "link": "https://www.engadget.com/2329008/neuralink-receives-fda-approval-for-brain-implant-trial-in-als-patients/"
+        }
+      ]
+    },
+    {
+      "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
+      "link": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html",
+      "description": "Denny's reaffirmed its longstanding ties with Jensen Huang following his return as Nvidia CEO, revealing that a plaque had been restored.",
+      "published": "2026-11-26T03:13:43.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "baseScore": 9,
+      "relevanceScore": 9,
+      "matchedKeywords": [
+        "nvidia",
+        "jensen huang",
+        "ceo"
+      ],
+      "category": "chips_cloud"
+    },
+    {
+      "title": "Apple's iPad 11-inch dips to $379 during Amazon's Black Friday sale",
+      "link": "https://appleinsider.com/articles/26/11/26/apples-ipad-11-inch-dips-to-379-during-amazons-black-friday-sale?utm_source=rss",
+      "description": "Amazon has slashed the price of Apple's 11-inch iPad further, delivering a Black Friday deal of $379. Grab Apple's iPad A16 for $379 for Black Friday. Apple's A16 11-inch iPad is the most affordable in the tablet lineup, but Amazon is taking it one step further by shaving $70 off the MSRP, bringing the price down to $379. Buy iPad 11 for $379 Continue Reading on AppleInsider | Discuss on our Forums",
+      "published": "2026-11-26T10:06:25.000Z",
+      "source": "AppleInsider",
+      "sourceKey": "appleinsider",
+      "priority": 2,
+      "image": "https://media.appleinsider.com/gallery/70025-147603-ipad-11-inch-black-friday-deal-xl.jpg",
+      "baseScore": 8,
+      "relevanceScore": 8,
+      "matchedKeywords": [
+        "apple",
+        "amazon"
       ],
       "category": "devices"
     }
   ],
   "byCategory": {
     "chips_cloud": [
+      {
+        "title": "Huawei advances home-grown chip design ecosystem while eyeing global push to rival Nvidia",
+        "link": "https://www.scmp.com/tech/big-tech/article/3375902/huawei-advances-home-grown-chip-design-ecosystem-while-eyeing-global-push-rival-nvidia",
+        "description": "Huawei Technologies and a local software partner claim to have made breakthroughs in domestic chip design tools built around the telecoms equipment giant’s Tau Scaling Law, marking the latest effort to cultivate a self-reliant semiconductor supply chain in China. Hangzhou-based Phlexing Technology said at Huawei’s annual intellectual property (IP) event in Beijing on Tuesday that it had partnered with the Shenzhen-based company to develop extraction and sign-off tools for electronic design...",
+        "published": "2026-11-26T09:00:15.000Z",
+        "source": "SCMP",
+        "sourceKey": "scmp_tech",
+        "priority": 2,
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/26/57207bb8-3db1-4af4-9585-235cac064260_1075bf2d.jpg?itok=rKh2F1nj&v=1795682501",
+        "baseScore": 13,
+        "relevanceScore": 13,
+        "matchedKeywords": [
+          "nvidia",
+          "huawei",
+          "chip",
+          "breakthrough",
+          "semiconductor"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Huawei Teases Next-Gen AI Memory Chip to Take On Samsung, Hynix",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-26/huawei-teases-next-gen-ai-memory-chip-to-take-on-samsung-hynix",
+        "description": "Huawei Technologies Co. is preparing to release details of a new high-bandwidth memory chip that could potentially surpass current offerings from Samsung Electronics Co. and SK Hynix Inc., moving to launch Chinese production of a key AI component currently blocked by US sanctions.",
+        "published": "2026-11-26T04:06:10.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 12,
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "samsung",
+          "huawei",
+          "chip",
+          "sk hynix"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Trump to Lead TSMC Arizona Groundbreaking Ceremony After Bringing Huang Back to Nvidia",
+        "link": "https://www.theinformation.com/briefings/trump-lead-tsmc-arizona-groundbreaking-ceremony-bringing-huang-back-nvidia",
+        "description": "President Donald Trump will lead a groundbreaking ceremony on December 4 for the expansion of Taiwan Semiconductor Manufacturing Company‘s chip plant in Phoenix, Bloomberg reported, citing a White House official. TSMC executives, suppliers and customers are expected to attend. It isn’t clear ...",
+        "published": "2026-11-26T03:21:48.000Z",
+        "source": "The Information",
+        "sourceKey": "theinformation",
+        "priority": 1,
+        "image": null,
+        "baseScore": 11,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "nvidia",
+          "tsmc",
+          "semiconductor",
+          "chip"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "US Chip Curbs Stall Asia Data Center Financing",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-26/us-chip-curbs-stall-asia-data-center-financing-video",
+        "description": "US chip curbs are putting the brakes on billions of dollars in AI data center financing across Asia, with lenders reassessing deals tied to Chinese tech firms including ByteDance, Alibaba and Tencent. Bloomberg’s Annabelle Droules says legal and compliance risks are weighing on banks as new rules on chip access take effect. (Source: Bloomberg)",
+        "published": "2026-11-26T02:49:31.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 10,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "chip",
+          "data center",
+          "bytedance",
+          "alibaba",
+          "tencent",
+          "billion"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
+        "link": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html",
+        "description": "Denny's reaffirmed its longstanding ties with Jensen Huang following his return as Nvidia CEO, revealing that a plaque had been restored.",
+        "published": "2026-11-26T03:13:43.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang",
+          "ceo"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
+        "link": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
+        "description": "S&P Global Ratings said Nvidia's credit rating could be cut by one notch as it flagged \"rising\" management and governance risk at the chipmaker.",
+        "published": "2026-11-26T03:19:44.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "nvidia",
+          "chipmaker"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "The Other Nvidia Romance With an Executive at a Company Linked to China",
+        "link": "https://www.wsj.com/finance/stocks/nvidia-china-executive-affair-jay-puri-cenly-chen-a42d733b?mod=rss_Technology",
+        "description": "Nvidia’s sales chief dated a Super Micro executive for years. Now they have married and her former company has been linked to chip smuggling.",
+        "published": "2026-11-26T02:00:00.000Z",
+        "source": "WSJ",
+        "sourceKey": "wsj_tech",
+        "priority": 1,
+        "image": "https://images.wsj.net/im-02809795",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "nvidia",
+          "chip"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Investigation: Nvidia sells its most advanced chips to at least two Chinese-owned California companies, which have leased or sold some of them to firms in Asia",
+        "link": "https://www.techmeme.com/261125/p45#a261125p45",
+        "description": "Investigation: Nvidia sells its most advanced chips to at least two Chinese-owned California companies, which have leased or sold some of them to firms in Asia — Nvidia is selling its most cutting-edge chips to at least two companies that are U.S.-based, but are actually controlled by Chinese-owned firms …",
+        "published": "2026-11-26T01:55:00.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261125/i45.jpg",
+        "via": "CBS News",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "nvidia",
+          "chip"
+        ],
+        "category": "chips_cloud"
+      },
       {
         "title": "Nvidia turmoil casts pall over high-flying global AI chip industry",
         "link": "https://asia.nikkei.com/business/tech/semiconductors/nvidia-turmoil-casts-pall-over-high-flying-global-ai-chip-industry",
@@ -174,6 +392,78 @@
         "category": "chips_cloud"
       },
       {
+        "title": "TSMC’s $22.6 billion Texas plan wouldn’t make 2nm-or-better chips until 2031",
+        "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-files-for-usd22-6-billion-texas-fab-campus-with-local-tax-breaks-just-one-county-over-from-musks-terafab-proposed-brazos-county-plant-wont-make-2nm-class-chips-until-2031",
+        "description": "TSMC’s Texas filing describes a $22.6 billion project in Brazos County for 2nm or more advanced chips, starting production in 2031.",
+        "published": "2026-11-26T10:30:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/xUdpMqnyvLoDXTGT2W4QpX-1920-80.jpg",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "tsmc",
+          "chip",
+          "billion"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "How US-China tech rivalry has been reset by Jensen Huang saga",
+        "link": "https://www.scmp.com/plus/tech/tech-war/article/3375892/how-us-china-tech-rivalry-has-been-reset-jensen-huang-saga",
+        "description": "Laila Khawaja is research director at Gavekal Technologies, the financial services and analytics firm’s tech wing. Before her current role, she worked at Gavekal Fathom China from its founding in 2009, developing broad expertise in China’s corporate landscape. A graduate of Beijing Foreign Studies University and Harvard University, she is currently based in Miami. In this interview, Khawaja discusses the whirlwind dismissal and restoration of Nvidia CEO Jensen Huang, how that saga and other...",
+        "published": "2026-11-26T07:57:45.000Z",
+        "source": "SCMP",
+        "sourceKey": "scmp_tech",
+        "priority": 2,
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/26/0ac66684-09e5-47d8-af10-b135675c4d1a_efeb4358.jpg?itok=el8IDiER&v=1795679498",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "jensen huang",
+          "nvidia",
+          "ceo"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Chinese AI chips to capture 88% of home market by 2028, UBS says, as Nvidia woes mount",
+        "link": "https://www.scmp.com/tech/tech-war/article/3375758/chinese-ai-chips-capture-88-home-market-2028-ubs-says-nvidia-woes-mount",
+        "description": "China’s annual domestic artificial intelligence accelerator shipments are set to jump nearly sixfold between 2025 and 2030 to more than 10 million units, with Cambricon Technologies and Biren Technology emerging as front runners, according to UBS. This comes as Beijing doubles down on technological self-reliance amid heightened scrutiny over US chip exports following the recent Nvidia saga. Shipments of locally made AI processors – rising from 1.7 million units in 2025 – would propel Chinese...",
+        "published": "2026-11-26T04:00:11.000Z",
+        "source": "SCMP",
+        "sourceKey": "scmp_tech",
+        "priority": 2,
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/25/d81b9e33-a5f9-4bb8-8491-c90e53348b10_bf2ddfdd.jpg?itok=4okIZR-7&v=1795599700",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "nvidia",
+          "chip",
+          "artificial intelligence"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Nvidia shipment freeze and U.S. chip curbs put AI stocks under pressure",
+        "link": "https://www.coindesk.com/markets/2026/11/26/nvidia-shipment-freeze-and-u-s-chip-curbs-put-ai-stocks-under-pressure",
+        "description": "U.S. export controls have halted Nvidia server shipments to four Southeast Asian countries and put billions in data centre financing under review.",
+        "published": "2026-11-26T10:56:08.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/6c262ffb248f38b82738fd0f2bad6b32172b1d0f-1900x1268.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "nvidia",
+          "chip",
+          "billion"
+        ],
+        "category": "chips_cloud"
+      },
+      {
         "title": "Nvidia's shares drop, credit rating on watch two days after Huang's return",
         "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-s-shares-drop-credit-rating-on-watch-two-days-after-huang-s-return",
         "description": "",
@@ -204,27 +494,544 @@
           "sk hynix"
         ],
         "category": "chips_cloud"
+      },
+      {
+        "title": "#heiseshow: Jensen ist zurück, Ladybird-Browser, GTA 6",
+        "link": "https://www.heise.de/news/heiseshow-Jensen-ist-zurueck-Ladybird-Browser-GTA-6-11538152.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "In der #heiseshow: Jensen Huang ist zurück an der Nvidia-Spitze, Ladybird fordert die großen Browser-Engines heraus und GTA 6 bricht Rekorde.",
+        "published": "2026-11-26T05:11:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/8/1/9/1/Generiertes_Bild_3-ae9ae227616ab302.png",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Video - Wout-reacties, GTA-sportscholen en Nvidia-meetings - Tweakers Podcast #454",
+        "link": "https://tweakers.net/video/20642/wout-reacties-gta-sportscholen-en-nvidia-meetings-tweakers-podcast-454.html",
+        "description": "Deze week praten we over Wout die Tweakers gaat verlaten, de terugkeer van Nvidia-ceo Jensen Huang, GTA VI en watermeters die niet tegen water kunnen.",
+        "published": "2026-11-26T05:00:00.000Z",
+        "source": "Tweakers",
+        "sourceKey": "tweakers",
+        "priority": 2,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang",
+          "ceo"
+        ],
+        "category": "chips_cloud",
+        "alsoIn": [
+          {
+            "source": "Tweakers",
+            "title": ".Geek - Wout-reacties, GTA-sportscholen en Nvidia-meetings - Tweakers Podcast #454",
+            "link": "https://tweakers.net/geek/254924/wout-reacties-gta-sportscholen-en-nvidia-meetings-tweakers-podcast-454.html"
+          }
+        ]
+      },
+      {
+        "title": "'Topmodel Intel Nova Lake-S krijgt 28 cores en 144MB L3-cache'",
+        "link": "https://tweakers.net/nieuws/254946/topmodel-intel-nova-lake-s-krijgt-28-cores-en-144mb-l3-cache.html",
+        "description": "De krachtigste Intel Core 4000-desktop-cpu krijgt 144MB L3-cache en 28 cores met een maximale kloksnelheid van 5,5GHz. Dat meldt VideoCardz. Het medium baseert zich op een specificatiedocument op basis van qualification samples van Intel.",
+        "published": "2026-11-26T08:20:43.000Z",
+        "source": "Tweakers",
+        "sourceKey": "tweakers",
+        "priority": 2,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "intel"
+        ],
+        "category": "chips_cloud"
       }
     ],
-    "ev_autonomous": [
+    "ai": [
       {
-        "title": "Xiaomi's new EV models shine as company looks to beat smartphone dependence",
-        "link": "https://asia.nikkei.com/spotlight/electric-cars-in-china/xiaomi-s-new-ev-models-shine-as-company-looks-to-beat-smartphone-dependence",
+        "title": "OpenAI rolls out its merged ChatGPT Chat and Work tabs, with a shared usage meter, to a small group of Pro users, saying heavy users may hit their limits sooner",
+        "link": "https://www.techmeme.com/261125/p46#a261125p46",
+        "description": "OpenAI rolls out its merged ChatGPT Chat and Work tabs, with a shared usage meter, to a small group of Pro users, saying heavy users may hit their limits sooner — OpenAI has started rolling out a unified Chat and Work experience in ChatGPT to a few of its users, amid criticism from some subscribers …",
+        "published": "2026-11-26T02:55:02.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261125/i46.jpg",
+        "via": "TechCrunch",
+        "baseScore": 11,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "openai",
+          "chatgpt"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Google says Gemini’s Chrome RAM-hogging issue is finally resolved",
+        "link": "https://www.androidauthority.com/google-gemini-chrome-ram-hogging-issue-fixed-3739606/",
+        "description": "Gemini in Chrome won't use too much of your RAM anymore.",
+        "published": "2026-11-26T07:41:31.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-2-scaled.jpg",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "google",
+          "gemini"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+        "link": "https://twitter.com/thsottiaux/status/2125784147889393806",
+        "description": "Article URL: https://twitter.com/thsottiaux/status/2125784147889393806 Comments URL: https://news.ycombinator.com/item?id=50651117 Points: 263 # Comments: 143",
+        "published": "2026-11-26T03:36:58.000Z",
+        "source": "Hacker News",
+        "sourceKey": "hackernews",
+        "priority": 2,
+        "image": null,
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple removes MiniMax's chatbot Talkie from the App Store worldwide over sexual content, after outlets showed it evidence of AI characters sexualizing children (TBIJ)",
+        "link": "https://www.techmeme.com/261125/p44#a261125p44",
+        "description": "TBIJ: Apple removes MiniMax's chatbot Talkie from the App Store worldwide over sexual content, after outlets showed it evidence of AI characters sexualizing children — Talkie's characters belittle and sexualise their young users - and its owners won't explain how it uses the data",
+        "published": "2026-11-26T01:30:01.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261125/i44.jpg",
+        "baseScore": 5,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai",
+        "alsoIn": [
+          {
+            "source": "AppleInsider",
+            "title": "AI chatbot companion app Talkie pulled from Apple App Store after investigation",
+            "link": "https://appleinsider.com/articles/26/11/26/ai-chatbot-companion-app-talkie-pulled-from-apple-app-store-after-investigation?utm_source=rss"
+          }
+        ]
+      },
+      {
+        "title": "Q&A with Signal's Moxie Marlinspike on AI and cryptography, his privacy-focused AI chat service Confer, surveilling AI models rather than users, and more",
+        "link": "https://www.techmeme.com/261126/p6#a261126p6",
+        "description": "Q&A with Signal's Moxie Marlinspike on AI and cryptography, his privacy-focused AI chat service Confer, surveilling AI models rather than users, and more — Moxie Marlinspike built Signal and designed the encryption protocol underneath it — the same protocol that also secures WhatsApp, Facebook Messenger, and Skype.",
+        "published": "2026-11-26T08:55:02.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261126/i6.jpg",
+        "via": "Conversations with Tyler",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "ai model",
+          "facebook",
+          "whatsapp"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "SoftBank Credit Risk Tops 500 Basis Points as AI Worries Mount",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-26/softbank-credit-risk-tops-500-basis-points-as-ai-worries-mount",
+        "description": "SoftBank Group Corp.’s credit risk surged above 500 basis points for the first time in about four years, raising the prospect of even higher funding costs as the company presses ahead with massive investments in artificial intelligence.",
+        "published": "2026-11-26T03:00:09.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "softbank",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Microsoft says state-backed hacking groups in China and North Korea, including Salt Typhoon, have added AI penetration testing tool ARTEX to their arsenals",
+        "link": "https://www.techmeme.com/261126/p3#a261126p3",
+        "description": "Microsoft says state-backed hacking groups in China and North Korea, including Salt Typhoon, have added AI penetration testing tool ARTEX to their arsenals — State-backed hacking groups in China and North Korea are using a powerful AI hacking tool in attacks, according to a new report from Microsoft.",
+        "published": "2026-11-26T06:00:48.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261126/i3.jpg",
+        "via": "The Record",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "microsoft"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "GPT-6.2-gebruikers bereiken limiet tot 40 procent sneller na 'herstelde fout'",
+        "link": "https://tweakers.net/nieuws/254954/gpt-62-gebruikers-bereiken-limiet-tot-40-procent-sneller-na-herstelde-fout.html",
+        "description": "Gebruikers van OpenAI's krachtigste GPT-6.2-modellen lopen sneller tegen de gebruikslimiet aan. Het bedrijf heeft bij de introductie van de modellen naar eigen zeggen een 'factureringsfout' gemaakt. Daardoor konden gebruikers GPT-6.2 Sol en Astra meer gebruiken dan bedoeld.",
+        "published": "2026-11-26T10:38:05.000Z",
+        "source": "Tweakers",
+        "sourceKey": "tweakers",
+        "priority": 2,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Sources: leading AI labs are sitting on major, unreleased algorithmic breakthroughs that could break deployed cryptosystems, but their exact nature is unknown",
+        "link": "https://www.techmeme.com/261126/p8#a261126p8",
+        "description": "Sources: leading AI labs are sitting on major, unreleased algorithmic breakthroughs that could break deployed cryptosystems, but their exact nature is unknown — I feel like my previous posts (and post titles), and podcasts, and talks, have failed to do full justice to the magnitude of what's now happening, so I'm trying again.",
+        "published": "2026-11-26T09:50:19.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261126/i8.jpg",
+        "via": "Shtetl-Optimized",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "breakthrough"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Marc Levinson on How UPS Created Modern Logistics",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-26/marc-levinson-on-how-ups-created-modern-logistics-video",
+        "description": "UPS was founded nearly a century ago in the basement of a Seattle saloon by James E. Casey and his business partner Claude Ryan. It is now hard to imagine modern, globalized life, and the logistics required to prop it up, without the innovations Casey and his partners at UPS cooked up during the company's early decades. Marc Levinson has just written a biography of Casey and the company he founded — UPS Man: James E. Casey and the Creation of Modern Logistics — which was a lot harder to do than",
+        "published": "2026-11-26T09:12:58.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "claude"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple pulls popular Chinese AI chatbot from the App Store amid child safety concerns",
+        "link": "https://9to5mac.com/2026/11/25/apple-pulls-popular-chinese-ai-chatbot-from-the-app-store-amid-child-safety-concerns/",
+        "description": "Following reports that its characters sent inappropriate messages to minors, Apple has removed the popular Chinese AI companion app Talkie from the App Store. Here are the details. more…",
+        "published": "2026-11-26T02:12:24.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/05/App-Store-fraud.webp?w=1500",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      }
+    ],
+    "other": [
+      {
+        "title": "China pushes brain-computer interface breakthroughs as Neuralink advances towards market",
+        "link": "https://www.scmp.com/business/china-business/article/3375858/china-pushes-brain-computer-interface-breakthroughs-neuralink-advances-towards-market",
+        "description": "Chinese firms are racing to claim brain-computer interface (BCI) breakthroughs as Elon Musk’s Neuralink advances towards commercialisation, with Beijing seeking to leapfrog the US by setting standards and expanding real-world applications in what it sees as a strategic industry. Neuralink said on Wednesday it would launch a late-stage trial to evaluate the safety and effectiveness of its implantable BCI device for adults living with amyotrophic lateral sclerosis (ALS), allowing them to control..",
+        "published": "2026-11-26T07:00:11.000Z",
+        "source": "SCMP",
+        "sourceKey": "scmp_tech",
+        "priority": 2,
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/26/81205e7e-9334-4423-96f1-09872c848795_e48a6620.jpg?itok=9dVMDJbA&v=1795667007",
+        "baseScore": 10,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "neuralink",
+          "breakthrough",
+          "elon musk"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Neuralink receives FDA approval for the LINK Pivotal Study, a US clinical trial to evaluate the safety and effectiveness of its BCI system in ALS patients",
+        "link": "https://www.techmeme.com/261125/p43#a261125p43",
+        "description": "Neuralink receives FDA approval for the LINK Pivotal Study, a US clinical trial to evaluate the safety and effectiveness of its BCI system in ALS patients — Elon Musk's startup Neuralink received US approval to start what it's calling a pivotal trial for its brain-computer implants.",
+        "published": "2026-11-26T01:00:13.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261125/i43.jpg",
+        "via": "Bloomberg",
+        "baseScore": 8,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "neuralink",
+          "elon musk"
+        ],
+        "category": "other",
+        "alsoIn": [
+          {
+            "source": "Engadget",
+            "title": "Neuralink receives FDA approval for 'pivotal' brain implant trial in ALS patients",
+            "link": "https://www.engadget.com/2329008/neuralink-receives-fda-approval-for-brain-implant-trial-in-als-patients/"
+          }
+        ]
+      },
+      {
+        "title": "Apple to Expand India Retail Network With New Store in Hyderabad",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-26/apple-to-expand-india-retail-network-with-new-store-in-hyderabad",
+        "description": "Apple Inc. is opening a new store in the southern Indian city of Hyderabad next month, continuing a drive to expand its retail network in one of its fastest-growing overseas markets.",
+        "published": "2026-11-26T05:38:03.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Sources: Trump's national security adviser, Secretary Marco Rubio, was not involved in efforts to reinstate Jensen Huang and expressed anger at his return",
+        "link": "https://www.techmeme.com/261125/p47#a261125p47",
+        "description": "Sources: Trump's national security adviser, Secretary Marco Rubio, was not involved in efforts to reinstate Jensen Huang and expressed anger at his return — Jennifer Jacobs is a senior White House reporter at CBS News. — National correspondent, “CBS News Sunday Morning;” Chief Washington analyst",
+        "published": "2026-11-26T03:50:00.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261125/i47.jpg",
+        "via": "CBS News",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "jensen huang"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Japan arcade snags world record with 600 claw machines",
+        "link": "https://asia.nikkei.com/business/media-entertainment/japan-arcade-snags-world-record-with-600-claw-machines",
         "description": "",
         "published": "2026-11-26T00:23:34.442Z",
         "source": "Nikkei Asia",
         "sourceKey": "nikkei_asia",
         "priority": 1,
         "image": null,
-        "baseScore": 5,
-        "relevanceScore": 5,
+        "baseScore": 4,
+        "relevanceScore": 4,
         "matchedKeywords": [
-          "xiaomi"
+          "world record"
         ],
-        "category": "ev_autonomous"
+        "category": "other"
+      },
+      {
+        "title": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+        "link": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+        "description": "The FCA warned against “another force of attack” from agents after the company declined a request to work on joint testing ahead of rolling out its personal agent in the UK on Tuesday.",
+        "published": "2026-11-26T10:51:27.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": "https://media.wired.com/photos/6b07201067745997b8ffd8ed/master/pass/Meta-Refused-to-Share-Muse-for-Testing-Business-2300550254.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "meta"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Samsung’s 27-inch Essential S3 curved monitor drops to a record low",
+        "link": "https://www.androidauthority.com/samsung-s3-essential-monitor-deal-3739491/",
+        "description": "Save $32 on Samsung's 27-inch 1800R curved monitor with a 100Hz refresh rate and Eye Saver Mode.",
+        "published": "2026-11-26T09:56:21.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/Samsung-Essential-S3-27-Inch-Curved-Monitor-Featured.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "samsung"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Sparkassen bringen Unterstützung für Google Pay",
+        "link": "https://www.heise.de/news/Sparkassen-bringen-Unterstuetzung-fuer-Google-Pay-11538771.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "In Updates der Sparkassen-App wurden Hinweise auf eine Google-Pay-Anbindung entdeckt. Der Sparkassenverband bestätigt die Funktion.",
+        "published": "2026-11-26T09:45:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/8/5/0/2/sparkasse-google-pay-9b05833b14db44c0.png",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Hey Google remains readers’ favorite wake word, but a new option is catching up fast",
+        "link": "https://www.androidauthority.com/hey-google-hey-gemini-poll-results-3739640/",
+        "description": "Three wake words, one surprisingly close reader poll.",
+        "published": "2026-11-26T09:28:05.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2019/01/hey-google-assistant-okay-google-ces-2019.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Neuralink darf zulassungsrelevante Studie mit Hirnimplantat starten",
+        "link": "https://www.heise.de/news/Neuralink-FDA-genehmigt-Zulassungsstudie-fuer-Hirnimplantat-11538687.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "Nach ersten Machbarkeitsstudien darf Neuralink nun mit Genehmigung der FDA klinische Daten für die Marktzulassung seines Hirnimplantats erheben.",
+        "published": "2026-11-26T08:45:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/8/4/6/0/shutterstock_2419404937-324b3f6fca9083c6.jpeg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "neuralink"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "WhatsApp: Nachrichten lassen sich jetzt im Voraus planen",
+        "link": "https://www.heise.de/news/WhatsApp-fuehrt-geplante-Nachrichten-ein-11538643.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "Bei WhatsApp lassen sich nun Geburtstagswünsche oder Neujahrsgrüße vorausplanen – laut dem Unternehmen eine der am häufigsten nachgefragten Funktionen.",
+        "published": "2026-11-26T08:35:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/8/4/3/8/whatsapp-geplante-nachrichten-1-668aa08f1bc8060c.png",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "whatsapp"
+        ],
+        "category": "other"
+      }
+    ],
+    "space": [
+      {
+        "title": "Musk Says Every US Kid to Get Two SpaceX Shares, Doubling Pledge",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-26/musk-says-every-us-kid-to-get-two-spacex-shares-doubling-pledge",
+        "description": "Elon Musk and SpaceX will give every child in the US two shares in the space exploration company, doubling a commitment the world’s richest person made just last month.",
+        "published": "2026-11-26T04:52:54.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "spacex",
+          "elon musk"
+        ],
+        "category": "space",
+        "alsoIn": [
+          {
+            "source": "Techmeme",
+            "title": "Elon Musk says he and SpaceX plan to give every child in the US two SpaceX shares via Trump Accounts, doubling his pledge; the donation is worth ~$18.4B",
+            "link": "https://www.techmeme.com/261126/p9#a261126p9"
+          }
+        ]
+      },
+      {
+        "title": "USA genehmigen 1 Million SpaceX-Satelliten für KI-Rechenzentren im Orbit",
+        "link": "https://www.heise.de/news/USA-genehmigen-1-Million-SpaceX-Satelliten-fuer-KI-Rechenzentren-im-Orbit-11538437.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "Das SpaceX-Projekt „Starmind“ ist von der US-Aufsicht offiziell genehmigt - in massivem Ausmaß. Der erste Rechenzentrum-Satellit soll bis 2033 im All sein.",
+        "published": "2026-11-26T04:03:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/8/3/3/5/shutterstock_2023520396-19873740cc76a070.jpeg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "spacex"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "Taking on Starlink: Europe’s largest satellite factory opens in push to rival Musk",
+        "link": "https://www.cnbc.com/2026/11/26/starlink-satellites-aerospacelab-factory-belgium.html",
+        "description": "The 20,000-square-meter mega factory will be able to produce up to 500 satellites annually, making it the world's third-largest satellite production site.",
+        "published": "2026-11-26T07:45:05.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "starlink",
+          "satellite"
+        ],
+        "category": "space"
       }
     ],
     "devices": [
+      {
+        "title": "Apple's iPad 11-inch dips to $379 during Amazon's Black Friday sale",
+        "link": "https://appleinsider.com/articles/26/11/26/apples-ipad-11-inch-dips-to-379-during-amazons-black-friday-sale?utm_source=rss",
+        "description": "Amazon has slashed the price of Apple's 11-inch iPad further, delivering a Black Friday deal of $379. Grab Apple's iPad A16 for $379 for Black Friday. Apple's A16 11-inch iPad is the most affordable in the tablet lineup, but Amazon is taking it one step further by shaving $70 off the MSRP, bringing the price down to $379. Buy iPad 11 for $379 Continue Reading on AppleInsider | Discuss on our Forums",
+        "published": "2026-11-26T10:06:25.000Z",
+        "source": "AppleInsider",
+        "sourceKey": "appleinsider",
+        "priority": 2,
+        "image": "https://media.appleinsider.com/gallery/70025-147603-ipad-11-inch-black-friday-deal-xl.jpg",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "apple",
+          "amazon"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Apple Watch Ultra 4 falls to best $649.99 price with Amazon's Thanksgiving deal",
+        "link": "https://appleinsider.com/articles/26/11/26/apple-watch-ultra-4-falls-to-best-64999-price-with-amazons-thanksgiving-deal?utm_source=rss",
+        "description": "Amazon has slashed $149.01 off the new Apple Watch Ultra 4, delivering the lowest price on record at $649.99. Grab the lowest price on record for the Apple Watch Ultra 4 - Image credit: Apple Save $149.01 on the newly released Apple Watch Ultra 4 at Amazon this Thanksgiving. The $649.99 promotion beats the previous record-low price by $50. Buy Apple Watch Ultra 4 for $649.99 Continue Reading on AppleInsider | Discuss on our Forums",
+        "published": "2026-11-26T07:56:13.000Z",
+        "source": "AppleInsider",
+        "sourceKey": "appleinsider",
+        "priority": 2,
+        "image": "https://media.appleinsider.com/gallery/70023-147601-apple-watch-ultra-4-black-friday-deal-xl.jpg",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "apple",
+          "amazon"
+        ],
+        "category": "devices"
+      },
       {
         "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
         "link": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
@@ -238,6 +1045,104 @@
         "relevanceScore": 5,
         "matchedKeywords": [
           "google"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Apple brengt in 2027 mogelijk MacBook Air met oledscherm uit",
+        "link": "https://tweakers.net/nieuws/254952/apple-brengt-in-2027-mogelijk-macbook-air-met-oledscherm-uit.html",
+        "description": "Apple komt in de tweede helft van 2027 mogelijk met een MacBook Air met een nieuw ontwerp en een oledscherm. Dat meldt Bloomberg-journalist Mark Gurman in de Power On-podcast. Apple heeft het huidige ontwerp van de MacBook Air sinds het M2-model in 2022 niet gewijzigd.",
+        "published": "2026-11-26T09:57:24.000Z",
+        "source": "Tweakers",
+        "sourceKey": "tweakers",
+        "priority": 2,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Samsung is killing Quick Share’s Private sharing, and it’s already gone in One UI 9.5 beta",
+        "link": "https://www.androidauthority.com/samsung-quick-share-private-sharing-shutdown-3739652/",
+        "description": "A Galaxy Store update warns of the upcoming shutdown, while One UI 9.5 Beta 1 removes the toggle and code entirely.",
+        "published": "2026-11-26T08:58:25.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2025/05/samsung-one-ui-8-beta-quick-share-new-interface-scaled.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "samsung"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Android 17 is getting a new setting to prevent unwanted Bluetooth audio switching",
+        "link": "https://www.androidauthority.com/android-17-keep-audio-in-headphones-3739645/",
+        "description": "Google looks set to borrow a handy feature from Apple's iOS 26 playbook.",
+        "published": "2026-11-26T08:45:41.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2024/04/YouTube-Music-logo-on-smartphone-next-to-headphones-and-Nest-Mini-1.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google",
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "New Apple Store Opening in India, Download the Special Wallpaper Now",
+        "link": "https://www.macrumors.com/2026/11/25/apple-store-kukatpally-hyderabad-india/",
+        "description": "Apple has announced it will be opening an all-new store at the Lake Shore shopping mall in Hyderabad, India on Thursday, December 10 at 5 p.m. local time. Apple Kukatpally will be the company's first store in Hyderabad and its seventh in India. special wallpaper for the Mac, iPad, and iPhone, as well as a set of stickers that can be used in apps like Messages. There is also an Apple Kukatpally playlist on Apple Music. Tags: Apple Store, India This article, \"New Apple Store Opening in India, Down",
+        "published": "2026-11-26T04:17:15.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/11/Apple-Kukatpally-Wallpaper.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Black Friday Mac Studio price war drives M5 Max desktop down to $2,299",
+        "link": "https://appleinsider.com/articles/26/11/26/black-friday-mac-studio-price-war-drives-m5-max-desktop-down-to-2299?utm_source=rss",
+        "description": "The M5 Max Mac Studio just hit $2,299 as rival retailers slash up to $300 off upgraded configurations in an aggressive Black Friday skirmish. Mac Studio Amazon and B&H are offering $200 discounts on the standard 2026 Mac Studio, matching the lowest price in our Price Guide. Expercom is matching the discount, too, bringing the desktop down to Apple's education pricing without the eligibility requirements. Get 2026 Mac Studio for $2,299 B&H Payboo cardholders can save even more with an instant dis",
+        "published": "2026-11-26T03:15:58.000Z",
+        "source": "AppleInsider",
+        "sourceKey": "appleinsider",
+        "priority": 2,
+        "image": "https://media.appleinsider.com/gallery/70015-147588-Mac-Studio-M5-desk-xl.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple",
+          "amazon"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Here's what the vanilla Huawei Osta O1 is rumored to bring",
+        "link": "https://www.gsmarena.com/heres_what_the_vanilla_huawei_osta_o1_is_rumored_to_bring-news-75642.php",
+        "description": "Huawei launched its Osta sub-brand last week with the Osta O1 Pro, which is essentially a rebadged Pura X View. That won't be the only phone in the lineup for long, though. Today Digital Chat Station on Weibo has shared some details about the vanilla Osta O1. According to DCS, the Osta O1 will have a 7-inch \"1.5K\" screen that's curved equally on all four sides, with a Kirin 9020-series chipset at the helm. He describes it as a slim, big-screen handset and says you can think of it as something li",
+        "published": "2026-11-26T09:52:02.000Z",
+        "source": "GSMArena",
+        "sourceKey": "gsmarena",
+        "priority": 3,
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/huawei-osta-o1-rumor/-184x111/gsmarena_000.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "huawei"
         ],
         "category": "devices"
       },
@@ -258,24 +1163,216 @@
         "category": "devices"
       }
     ],
-    "other": [
+    "ev_autonomous": [
       {
-        "title": "Japan arcade snags world record with 600 claw machines",
-        "link": "https://asia.nikkei.com/business/media-entertainment/japan-arcade-snags-world-record-with-600-claw-machines",
+        "title": "Donnerstag: Datenabfluss bei 1Password, 1 Million Rechenzentren im All erlaubt",
+        "link": "https://www.heise.de/news/Donnerstag-Datenabfluss-bei-1Password-1-Million-Rechenzentren-im-All-erlaubt-11538479.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "Datenraub ohne Kennwörter + Genehmigung für Rechenzentrum-Satelliten + Firmenzuschuss für Homeoffice + Quad9 ohne Frankreich + Robotaxis von Lucid + #heiseshow",
+        "published": "2026-11-26T05:15:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/8/3/5/6/thursday-9e1bf8e40eac8318.jpeg",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "lucid",
+          "robotaxi"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Xpeng Says Its Humanoid Robot Will Cost the Same as an EV",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-26/xpeng-says-its-humanoid-robot-will-cost-the-same-as-an-ev",
+        "description": "Xpeng Inc.’s humanoid robots will cost roughly the same as an electric vehicle when they go on sale to the public in the second quarter.",
+        "published": "2026-11-26T04:30:45.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "humanoid robot",
+          "humanoid"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Xiaomi's new EV models shine as company looks to beat smartphone dependence",
+        "link": "https://asia.nikkei.com/spotlight/electric-cars-in-china/xiaomi-s-new-ev-models-shine-as-company-looks-to-beat-smartphone-dependence",
         "description": "",
         "published": "2026-11-26T00:23:34.442Z",
         "source": "Nikkei Asia",
         "sourceKey": "nikkei_asia",
         "priority": 1,
         "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "xiaomi"
+        ],
+        "category": "ev_autonomous"
+      }
+    ],
+    "robotics": [
+      {
+        "title": "Humanoid robots meet factory reality on Toyota's home turf",
+        "link": "https://asia.nikkei.com/business/automobiles/humanoid-robots-meet-factory-reality-on-toyota-s-home-turf",
+        "description": "",
+        "published": "2026-11-26T10:57:05.971Z",
+        "source": "Nikkei Asia",
+        "sourceKey": "nikkei_asia",
+        "priority": 1,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "humanoid robot",
+          "humanoid"
+        ],
+        "category": "robotics"
+      },
+      {
+        "title": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
+        "link": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html",
+        "description": "Xpeng Co-President Brian Gu shared his humanoid robot predictions with CNBC in an interview Thursday.",
+        "published": "2026-11-26T07:30:11.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "humanoid robot",
+          "humanoid"
+        ],
+        "category": "robotics"
+      },
+      {
+        "title": "Volvo Is Bringing Humanoid Robots Into Its Factories. Here's When They'll Start Working",
+        "link": "https://insideevs.com/news/816850/volvo-cars-humanoid-robots-training-factory/",
+        "description": "The first Aeon units are already being trained at Volvo’s factory in Ghent, Belgium. The next step is giving them real work.",
+        "published": "2026-11-26T08:33:35.000Z",
+        "source": "InsideEVs",
+        "sourceKey": "insideevs",
+        "priority": 2,
+        "image": "https://cdn.motor1.com/images/mgl/0epk9j/s3/volvo-cars-is-training-aeon-humanoid-robots-for-future-work-in-factories.jpg",
         "baseScore": 4,
         "relevanceScore": 4,
         "matchedKeywords": [
-          "world record"
+          "humanoid robot",
+          "humanoid"
         ],
-        "category": "other"
+        "category": "robotics"
+      }
+    ],
+    "regulation": [
+      {
+        "title": "Sources: Nvidia tells its manufacturing partners to halt AI server shipments to Malaysia, Singapore, Thailand, and Indonesia, as the US steps up export controls (Financial Times)",
+        "link": "https://www.techmeme.com/261126/p2#a261126p2",
+        "description": "Financial Times: Sources: Nvidia tells its manufacturing partners to halt AI server shipments to Malaysia, Singapore, Thailand, and Indonesia, as the US steps up export controls — Move comes as US steps up export controls to prevent Chinese access to AI computing power — Nvidia has told its manufacturing partners …",
+        "published": "2026-11-26T05:45:02.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261126/i2.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "nvidia"
+        ],
+        "category": "regulation"
+      }
+    ],
+    "business": [
+      {
+        "title": "K-beauty stocks rally as Korean brands top Amazon bestseller lists globally ahead of Black Friday",
+        "link": "https://www.cnbc.com/2026/11/26/k-beauty-firms-amazon-sales-black-friday.html",
+        "description": "South Korean beauty stocks rose as K-beauty brands dominated Amazon's skincare rankings ahead of Black Friday.",
+        "published": "2026-11-26T03:09:47.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_top",
+        "priority": 1,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "amazon"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Alibaba sells US$482 million in ZTO Express shares as AI focus sharpens",
+        "link": "https://www.scmp.com/tech/big-tech/article/3375870/alibaba-sells-us482-million-zto-express-shares-ai-focus-sharpens",
+        "description": "Alibaba Group Holding has sharply reduced its stake in Chinese logistics giant ZTO Express, raising roughly US$482 million in its second major sell-off of the courier’s shares in two months. Alibaba and its three affiliates – Alibaba ZT Investment Limited, New Retail Strategic Opportunities Investments 2 Limited and Cainiao Smart Logistics Investment Limited – offloaded a combined 25 million Class A ordinary shares on Tuesday, according to a filing to the US Securities and Exchange Commission on",
+        "published": "2026-11-26T05:04:00.000Z",
+        "source": "SCMP",
+        "sourceKey": "scmp_tech",
+        "priority": 2,
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/26/2a758912-9996-4f2b-89d0-00d826fd1300_c4bce972.jpg?itok=Taj0jHCw&v=1795669438",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "alibaba"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Voice AI startup ElevenLabs reportedly seeking new funding at $33B valuation",
+        "link": "https://siliconangle.com/2026/11/25/voice-ai-startup-elevenlabs-reportedly-seeking-new-funding-at-33b-valuation/",
+        "description": "Artificial intelligence developer ElevenLabs Inc. is reportedly in early talks to raise capital at a $33 billion valuation. Bloomberg today cited sources as saying that the company plans to close the round in the first quarter of 2027. According to the report, some investors are pushing for the raise to happen sooner. That hints the […] The post Voice AI startup ElevenLabs reportedly seeking new funding at $33B valuation appeared first on SiliconANGLE.",
+        "published": "2026-11-26T01:42:07.000Z",
+        "source": "SiliconANGLE",
+        "sourceKey": "siliconangle",
+        "priority": 2,
+        "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/unsplash-1.png",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "valuation",
+          "artificial intelligence",
+          "billion"
+        ],
+        "category": "business"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "LayerZero adds Samsung Card, Kakao Pay, ZAN as validators for upcoming Zero blockchain",
+        "link": "https://www.theblock.co/news/business/2026-11-25-layerzero-kakaopay-samsung-446770",
+        "description": "Zero uses ZK proofs to separate execution from verification, removing a layer of redundancy by leaving validators to only verify the proofs.",
+        "published": "2026-11-26T02:22:43.000Z",
+        "source": "The Block",
+        "sourceKey": "theblock",
+        "priority": 3,
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/gettyimages-1642600681-170667a-e1795658386161.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "samsung"
+        ],
+        "category": "crypto"
+      },
+      {
+        "title": "New York Attorney General wins $1.4 billion ruling against founders of crypto trading firm NovaTech",
+        "link": "https://www.coindesk.com/policy/2026/11/26/new-york-attorney-general-wins-usd1-4-billion-ruling-against-founders-of-crypto-trading-firm-novatech",
+        "description": "AWS Mining and NovaTech founders Cynthia and Eddie Petion were ordered to pay $1.37 billion after defrauding hundreds of thousands of people, including 11,000 New Yorkers.",
+        "published": "2026-11-26T10:40:33.000Z",
+        "source": "CoinDesk",
+        "sourceKey": "coindesk",
+        "priority": 3,
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/0a3586cd61e30172e145dfc3a8aa574e5042c267-2306x1297.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "billion",
+          "aws"
+        ],
+        "category": "crypto"
       }
     ]
   },
-  "totalArticles": 8
+  "totalArticles": 66
 }

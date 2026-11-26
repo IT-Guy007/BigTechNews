@@ -4,7 +4,7 @@
   "title": "Wednesday, Nov 25",
   "dateRange": "November 25, 2026",
   "date": "2026-11-25",
-  "generatedAt": "2026-11-26T00:23:36.535Z",
+  "generatedAt": "2026-11-26T10:57:09.169Z",
   "highlights": [
     {
       "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
@@ -51,6 +51,34 @@
           "source": "Space.com",
           "title": "Green light for Starmind: SpaceX gets approval to deploy 1 million AI satellites",
           "link": "https://www.space.com/space-exploration/launches-spacecraft/green-light-for-starmind-spacex-gets-approval-to-deploy-1-million-ai-satellites"
+        }
+      ]
+    },
+    {
+      "title": "Sources: US chip curbs stall billions in data center loans tied to ByteDance, Alibaba, and Tencent, with some lenders delaying a $6.6B Bridge Data Centres loan (Bloomberg)",
+      "link": "https://www.techmeme.com/261125/p38#a261125p38",
+      "description": "Bloomberg: Sources: US chip curbs stall billions in data center loans tied to ByteDance, Alibaba, and Tencent, with some lenders delaying a $6.6B Bridge Data Centres loan — Lenders have hit the brakes on billions of dollars in loans tied to Chinese firms ByteDance, Alibaba and Tencent …",
+      "published": "2026-11-25T22:05:01.000Z",
+      "source": "Techmeme",
+      "sourceKey": "techmeme",
+      "priority": 1,
+      "image": "http://www.techmeme.com/261125/i38.jpg",
+      "baseScore": 16,
+      "relevanceScore": 17,
+      "matchedKeywords": [
+        "bytedance",
+        "alibaba",
+        "tencent",
+        "chip",
+        "data center",
+        "billion"
+      ],
+      "category": "chips_cloud",
+      "alsoIn": [
+        {
+          "source": "Bloomberg",
+          "title": "Billions in Data Center Deals Grind to Halt After Chip Curbs",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs"
         }
       ]
     },
@@ -113,27 +141,6 @@
         "baidu"
       ],
       "category": "ai"
-    },
-    {
-      "title": "Sources: US chip curbs stall billions in data center loans tied to ByteDance, Alibaba, and Tencent, with some lenders delaying a $6.6B Bridge Data Centres loan (Bloomberg)",
-      "link": "https://www.techmeme.com/261125/p38#a261125p38",
-      "description": "Bloomberg: Sources: US chip curbs stall billions in data center loans tied to ByteDance, Alibaba, and Tencent, with some lenders delaying a $6.6B Bridge Data Centres loan — Lenders have hit the brakes on billions of dollars in loans tied to Chinese firms ByteDance, Alibaba and Tencent …",
-      "published": "2026-11-25T22:05:01.000Z",
-      "source": "Techmeme",
-      "sourceKey": "techmeme",
-      "priority": 1,
-      "image": "http://www.techmeme.com/261125/i38.jpg",
-      "baseScore": 16,
-      "relevanceScore": 16,
-      "matchedKeywords": [
-        "bytedance",
-        "alibaba",
-        "tencent",
-        "chip",
-        "data center",
-        "billion"
-      ],
-      "category": "chips_cloud"
     },
     {
       "title": "Anthropic’s Claude Output Can Be Installed as Software",
@@ -395,6 +402,23 @@
         "category": "space"
       },
       {
+        "title": "The sky was once full of stars, kids; then the FCC let Elon Musk launch a million datacenter satellites",
+        "link": "https://www.theregister.com/off-prem/2026/11/25/the-sky-was-once-full-of-stars-kids-then-the-fcc-let-elon-musk-launch-a-million-datacenter-satellites/5312268",
+        "description": "Approval for ‘Starmind’ granted but it’s a long way from the launchpad, or making sense",
+        "published": "2026-11-25T22:54:07.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=229375&width=800",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "elon musk",
+          "satellite"
+        ],
+        "category": "space"
+      },
+      {
         "title": "SpaceX krijgt toestemming: 1 miljoen satellieten voor datacenters in de ruimte",
         "link": "https://tweakers.net/nieuws/254936/spacex-krijgt-toestemming-1-miljoen-satellieten-voor-datacenters-in-de-ruimte.html",
         "description": "De Amerikaanse Federal Communications Commission (FCC) geeft SpaceX toestemming om een miljoen satellieten en modules in een baan om de aarde te brengen voor een datacenter in de ruimte. Het is onduidelijk of SpaceX hiermee alle benodigde toestemming heeft om met het zogenoemde Starmind-project te starten.",
@@ -411,831 +435,35 @@
         "category": "space"
       }
     ],
-    "ai": [
+    "chips_cloud": [
       {
-        "title": "AI Safety Advocates Sour on Anthropic",
-        "link": "https://www.theinformation.com/articles/ai-safety-advocates-sour-anthropic",
-        "description": "Anthropic has built its brand in significant part around AI safety, presenting itself as a cautious foil to OpenAI. But the Claude developer has been losing loyalty lately from some safety advocates who say its rapid technological progress—sure to be aided by the funds raised in its blockbuster initial public offering last week—is increasing the chances that AI will run amok. While OpenAI has struggled with its own safety issues, it operates more like a normal tech startup, but “Anthropic seems",
-        "published": "2026-11-25T15:00:51.000Z",
-        "source": "The Information",
-        "sourceKey": "theinformation",
+        "title": "Sources: US chip curbs stall billions in data center loans tied to ByteDance, Alibaba, and Tencent, with some lenders delaying a $6.6B Bridge Data Centres loan (Bloomberg)",
+        "link": "https://www.techmeme.com/261125/p38#a261125p38",
+        "description": "Bloomberg: Sources: US chip curbs stall billions in data center loans tied to ByteDance, Alibaba, and Tencent, with some lenders delaying a $6.6B Bridge Data Centres loan — Lenders have hit the brakes on billions of dollars in loans tied to Chinese firms ByteDance, Alibaba and Tencent …",
+        "published": "2026-11-25T22:05:01.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
         "priority": 1,
-        "image": null,
-        "baseScore": 17,
-        "relevanceScore": 17,
-        "matchedKeywords": [
-          "anthropic",
-          "ai safety",
-          "openai",
-          "claude"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "China's Google Just Released Its Fast New AI Model for Free",
-        "link": "https://decrypt.co/384015/china-google-released-fast-new-ai-model-free-baidu-ernie",
-        "description": "Baidu has released the weights of its new high-speed reasoning model, giving developers a commercially usable alternative to proprietary AI services from OpenAI, Google, and Anthropic",
-        "published": "2026-11-25T22:38:09.000Z",
-        "source": "Decrypt",
-        "sourceKey": "decrypt",
-        "priority": 3,
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/01/shutterstock_7881566261-gID_7.jpg@png",
-        "baseScore": 17,
-        "relevanceScore": 17,
-        "matchedKeywords": [
-          "google",
-          "ai model",
-          "openai",
-          "anthropic",
-          "baidu"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Anthropic’s Claude Output Can Be Installed as Software",
-        "link": "https://www.wsj.com/cio-journal/anthropics-claude-output-can-be-installed-as-software-e840ac45?mod=rss_Technology",
-        "description": "Plus, Nvidia’s Jensen Huang pushes back on succession planning.",
-        "published": "2026-11-25T14:26:00.000Z",
-        "source": "WSJ",
-        "sourceKey": "wsj_tech",
-        "priority": 1,
-        "image": "https://images.wsj.net/im-30757736",
+        "image": "http://www.techmeme.com/261125/i38.jpg",
         "baseScore": 16,
-        "relevanceScore": 16,
+        "relevanceScore": 17,
         "matchedKeywords": [
-          "anthropic",
-          "claude",
-          "nvidia",
-          "jensen huang"
+          "bytedance",
+          "alibaba",
+          "tencent",
+          "chip",
+          "data center",
+          "billion"
         ],
-        "category": "ai"
-      },
-      {
-        "title": "Staff at Anthropic and Open AI sound alarm on advanced models too powerful to release",
-        "link": "https://siliconangle.com/2026/11/24/staff-at-anthropic-and-open-ai-sound-alarm-on-advanced-models-too-powerful-to-release/",
-        "description": "Employees working at frontier artificial intelligence model companies Anthropic PBC and OpenAI Group PBC have been butting heads with executives over advanced models whose reasoning is such that the models pose to danger to humanity, according to a report by Axios today based on more than two dozen sources familiar with the current standoff at […] The post Staff at Anthropic and Open AI sound alarm on advanced models too powerful to release appeared first on SiliconANGLE.",
-        "published": "2026-11-25T01:41:52.000Z",
-        "source": "SiliconANGLE",
-        "sourceKey": "siliconangle",
-        "priority": 2,
-        "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/steve-a-johnson-xfk7RcWERG0-unsplash.jpg",
-        "baseScore": 13,
-        "relevanceScore": 13,
-        "matchedKeywords": [
-          "anthropic",
-          "openai",
-          "artificial intelligence"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-        "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-        "description": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
-        "published": "2026-11-25T14:10:18.000Z",
-        "source": "TechCrunch",
-        "sourceKey": "techcrunch",
-        "priority": 1,
-        "image": null,
-        "baseScore": 10,
-        "relevanceScore": 12,
-        "matchedKeywords": [
-          "amazon",
-          "meta",
-          "ai agent"
-        ],
-        "category": "ai",
+        "category": "chips_cloud",
         "alsoIn": [
           {
-            "source": "The Decoder",
-            "title": "Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store.",
-            "link": "https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/"
-          },
-          {
-            "source": "The Verge",
-            "title": "Amazon is reportedly in talks to end Muse AI shopping block",
-            "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions"
+            "source": "Bloomberg",
+            "title": "Billions in Data Center Deals Grind to Halt After Chip Curbs",
+            "link": "https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs"
           }
         ]
       },
-      {
-        "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
-        "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
-        "description": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
-        "published": "2026-11-25T19:44:24.000Z",
-        "source": "TechCrunch",
-        "sourceKey": "techcrunch",
-        "priority": 1,
-        "image": null,
-        "baseScore": 12,
-        "relevanceScore": 12,
-        "matchedKeywords": [
-          "anthropic",
-          "dario amodei",
-          "ceo"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-        "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-        "description": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
-        "published": "2026-11-25T20:03:27.000Z",
-        "source": "TechCrunch",
-        "sourceKey": "techcrunch",
-        "priority": 1,
-        "image": null,
-        "baseScore": 11,
-        "relevanceScore": 11,
-        "matchedKeywords": [
-          "openai",
-          "chatgpt"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "There are 5,100 newly minted Anthropic millionaires — here’s all the stuff they don’t tell you about when you suddenly get rich",
-        "link": "https://www.cnbc.com/2026/11/25/anthropic-ipo-employee-millionaires-sudden-wealth.html",
-        "description": "Anthropic’s IPO made about 5,100 employees paper millionaires. Experts explain the risks of sudden wealth.",
-        "published": "2026-11-25T18:52:59.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_top",
-        "priority": 1,
-        "image": null,
-        "baseScore": 11,
-        "relevanceScore": 11,
-        "matchedKeywords": [
-          "anthropic",
-          "ipo"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Anthropic Expands in Zurich to Tap City’s AI Talent Pool",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-25/anthropic-expands-in-zurich-moving-to-tap-city-s-ai-talent-pool",
-        "description": "Anthropic PBC is moving into a bigger office in Zurich, as the Claude chatbot maker seeks to tap into the city’s talent pool in AI research and proximity to some of the biggest healthcare companies.",
-        "published": "2026-11-25T11:25:14.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "baseScore": 11,
-        "relevanceScore": 11,
-        "matchedKeywords": [
-          "anthropic",
-          "claude"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Anthropic CEO Dario Amodei says letting AI govern society would be \"a bad idea\"",
-        "link": "https://the-decoder.com/anthropic-ceo-dario-amodei-says-letting-ai-govern-society-would-be-a-bad-idea/",
-        "description": "Anthropic CEO Dario Amodei is pushing back on an Axios report saying some employees believe humanity will hand power to superintelligent systems. Amodei says \"turning over governance to AI is a bad idea.\" The article Anthropic CEO Dario Amodei says letting AI govern society would be \"a bad idea\" appeared first on The Decoder.",
-        "published": "2026-11-25T20:15:50.000Z",
-        "source": "The Decoder",
-        "sourceKey": "thedecoder",
-        "priority": 2,
-        "image": "https://the-decoder.com/wp-content/uploads/2026/09/anthropic_amodei.png",
-        "baseScore": 11,
-        "relevanceScore": 11,
-        "matchedKeywords": [
-          "anthropic",
-          "dario amodei",
-          "ceo"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Anthropic is trying to kill traditional desktop apps with Claude-generated desktop apps",
-        "link": "https://siliconangle.com/2026/11/24/anthropic-is-trying-to-kill-traditional-desktop-apps-with-claude-generated-desktop-apps/",
-        "description": "Rarely a day goes by that Anthropic PBC doesn’t announce some kind of new capability, feature or model, and today wasn’t any different. Today came the ability to use Claude to create fully functional desktop applications for Windows and Mac computers with a single prompt. It promises to be one of its more impactful updates, […] The post Anthropic is trying to kill traditional desktop apps with Claude-generated desktop apps appeared first on SiliconANGLE.",
-        "published": "2026-11-25T02:36:45.000Z",
-        "source": "SiliconANGLE",
-        "sourceKey": "siliconangle",
-        "priority": 2,
-        "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Screenshot-from-2026-11-25-09-34-15.png",
-        "baseScore": 10,
-        "relevanceScore": 10,
-        "matchedKeywords": [
-          "anthropic",
-          "claude"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "OpenAI’s Changes to ChatGPT Could Drastically Cut Usage Limits for Paying Subscribers",
-        "link": "https://decrypt.co/383963/openai-changes-chatgpt-drastically-cut-usage-limits",
-        "description": "OpenAI is merging ChatGPT’s Chat and Work modes, forcing advanced conversations to compete with coding tasks for usage and leaving paying subscribers wondering how much AI they will actually get.",
-        "published": "2026-11-25T17:46:02.000Z",
-        "source": "Decrypt",
-        "sourceKey": "decrypt",
-        "priority": 3,
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/02/greedy-kid-gID_7.png@png",
-        "baseScore": 10,
-        "relevanceScore": 10,
-        "matchedKeywords": [
-          "openai",
-          "chatgpt"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Franklin Templeton's Araghi Sees AI Selloff as Market Reset",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-25/franklin-templeton-s-araghi-sees-ai-selloff-as-market-reset",
-        "description": "Franklin Templeton portfolio manager Sara Araghi says the sharp tech selloff reflects an unwinding of earlier AI euphoria rather than a fundamental deterioration in demand. She discusses why AI infrastructure spending remains strong, the growing focus on proving returns from that investment and why she still views Anthropic’s record IPO as a success despite shares falling below their offering price. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-        "published": "2026-11-25T19:52:31.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "baseScore": 9,
-        "relevanceScore": 9,
-        "matchedKeywords": [
-          "anthropic",
-          "ipo"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Samsung quietly expands Modes and Routines with AI and 7 presets in One UI 9.5",
-        "link": "https://www.androidauthority.com/samsung-one-ui-9-5-modes-and-routines-ask-ai-presets-apk-teardown-3738354/",
-        "description": "You can ask Gemini or Perplexity, but only Perplexity answers automatically.",
-        "published": "2026-11-25T15:06:17.000Z",
-        "source": "Android Authority",
-        "sourceKey": "androidauthority",
-        "priority": 2,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-Ultra-Digital-AI-Assistants-Google-Perplexity.jpg",
-        "baseScore": 9,
-        "relevanceScore": 9,
-        "matchedKeywords": [
-          "samsung",
-          "perplexity",
-          "gemini"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "AI agents now control part of Deepmind's compute for Gemini experiments, but recursive self-improvement remains distant",
-        "link": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
-        "description": "Google Deepmind uses AI agents to run experiments on their own for upcoming Gemini models. Research chief Koray Kavukcuoglu says the lab is still far from recursive self-improvement. For oversight, Deepmind intentionally leaves the agents' internal chains of thought untrained so they can be reviewed. Kavukcuoglu measures AGI by everyday user trust rather than benchmarks. The article AI agents now control part of Deepmind's compute for Gemini experiments, but recursive self-improvement remains di",
-        "published": "2026-11-25T13:23:36.000Z",
-        "source": "The Decoder",
-        "sourceKey": "thedecoder",
-        "priority": 2,
-        "image": "https://the-decoder.com/wp-content/uploads/2026/11/gemini-4-neon__blog-header__sm.width-1600.format-webp.webp",
-        "baseScore": 9,
-        "relevanceScore": 9,
-        "matchedKeywords": [
-          "gemini",
-          "ai agent",
-          "google",
-          "agi"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Anthropic Rebounds From 10% Drop as Markets Stage Dramatic Recovery | Closing Bell",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-25/anthropic-rebounds-from-selloff-closing-bell-video",
-        "description": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Carol Massar and Lisa Mateo. (Source: Bloomberg)",
-        "published": "2026-11-25T21:38:39.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_markets",
-        "priority": 1,
-        "image": null,
-        "baseScore": 8,
-        "relevanceScore": 8,
-        "matchedKeywords": [
-          "anthropic"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "OpenAI publishes a preprint that claims to prove that the matrix multiplication exponent (ω) is exactly 9/4, addressing a major open problem in mathematics (alphaXiv)",
-        "link": "https://www.techmeme.com/261125/p21#a261125p21",
-        "description": "alphaXiv: OpenAI publishes a preprint that claims to prove that the matrix multiplication exponent (ω) is exactly 9/4, addressing a major open problem in mathematics — Multiplying two $n\\times n$ matrices produces $n^2$ output numbers, yet computing each one as a separate dot product costs on the order of $n^3$ operations.",
-        "published": "2026-11-25T13:23:06.000Z",
-        "source": "Techmeme",
-        "sourceKey": "techmeme",
-        "priority": 1,
-        "image": "http://www.techmeme.com/261125/i21.jpg",
-        "baseScore": 8,
-        "relevanceScore": 8,
-        "matchedKeywords": [
-          "openai"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Claude Now Lets You Install Artifacts as Desktop Apps",
-        "link": "https://www.macrumors.com/2026/11/25/claude-install-artifacts-desktop-apps/",
-        "description": "Anthropic has released a new feature for Claude that allows users to install artifacts as desktop apps on macOS and Windows. Artifacts are documents, designs, dashboards, and interactive tools that Claude creates in a panel alongside your chat, where you can view and edit them. When you ask Claude to create an artifact, you can now click \"Install as app\" in the Share menu, after which you'll be able to launch it in its own dedicated app window and see it in the Dock. Artifact-based apps don't ne",
-        "published": "2026-11-25T10:27:42.000Z",
-        "source": "MacRumors",
-        "sourceKey": "macrumors",
-        "priority": 2,
-        "image": "https://images.macrumors.com/article-new/2024/05/claude-ai.jpeg",
-        "baseScore": 8,
-        "relevanceScore": 8,
-        "matchedKeywords": [
-          "claude",
-          "anthropic"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Claude Ship soll Review-Engpässe bei Pull-Requests lösen",
-        "link": "https://www.heise.de/news/Claude-Ship-soll-Review-Engpaesse-bei-Pull-Requests-loesen-11536568.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-        "description": "Mit Claude Ship automatisiert Anthropic Pull-Requests, von der Codeprüfung über Korrekturen bis hin zur Freigabe.",
-        "published": "2026-11-25T08:13:00.000Z",
-        "source": "heise online",
-        "sourceKey": "heise",
-        "priority": 2,
-        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/7/3/8/9/shutterstock_2663445441-8ad9924503d705da.jpeg",
-        "baseScore": 8,
-        "relevanceScore": 8,
-        "matchedKeywords": [
-          "claude",
-          "anthropic"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "SoftBank drops 14% as Wall Street AI sell-off ripples across Asian tech names",
-        "link": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
-        "description": "Asian technology stocks tumbled Wednesday, led by a rout in Japanese semiconductor stocks, as renewed concerns over the artificial intelligence trade rattled investors.",
-        "published": "2026-11-25T01:57:29.000Z",
-        "source": "CNBC",
-        "sourceKey": "cnbc_top",
-        "priority": 1,
-        "image": null,
-        "baseScore": 7,
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "softbank",
-          "artificial intelligence",
-          "semiconductor"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Big Google Home update adds these new Nest Cam, app, and Gemini features",
-        "link": "https://9to5google.com/2026/11/25/google-home-update-nest-cam-thermostat-gemini-features/",
-        "description": "Google Home is rolling out another big update, this time adding features and bringing improvements across Nest Cam, Nest Thermostarts, Gemini, and more. more…",
-        "published": "2026-11-25T21:50:00.000Z",
-        "source": "9to5Google",
-        "sourceKey": "9to5google",
-        "priority": 2,
-        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/google-home-speaker-nest-hub-1.jpg?quality=82&#038;strip=all&#038;w=1600",
-        "baseScore": 7,
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "google",
-          "gemini"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Much shorter version of GRH Lean verification from Anthropic",
-        "link": "https://github.com/lsernau/grh-lean",
-        "description": "Article URL: https://github.com/lsernau/grh-lean Comments URL: https://news.ycombinator.com/item?id=50648050 Points: 205 # Comments: 91",
-        "published": "2026-11-25T21:48:10.000Z",
-        "source": "Hacker News",
-        "sourceKey": "hackernews",
-        "priority": 2,
-        "image": null,
-        "baseScore": 7,
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "anthropic"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "OpenAI wants companies to trust it with sensitive work by promising not to look at their data",
-        "link": "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/",
-        "description": "OpenAI is testing a new feature called \"Private Inference\" that lets companies run queries on its most powerful models without OpenAI being able to access the data. The article OpenAI wants companies to trust it with sensitive work by promising not to look at their data appeared first on The Decoder.",
-        "published": "2026-11-25T18:22:02.000Z",
-        "source": "The Decoder",
-        "sourceKey": "thedecoder",
-        "priority": 2,
-        "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_logo-1.png",
-        "baseScore": 7,
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "openai"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Anthropic study shows the hardest part of adopting AI at work has little to do with learning the tools",
-        "link": "https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools/",
-        "description": "Anthropic studied nearly 300 AI deployments across 58 US companies with sobering results. Nearly one in five still delivers no business value, held back by heavy review workloads, internal bottlenecks, and employee resistance. The researchers say the biggest hurdles stem from outdated company structures. The article Anthropic study shows the hardest part of adopting AI at work has little to do with learning the tools appeared first on The Decoder.",
-        "published": "2026-11-25T13:14:27.000Z",
-        "source": "The Decoder",
-        "sourceKey": "thedecoder",
-        "priority": 2,
-        "image": "https://the-decoder.com/wp-content/uploads/2026/11/ai_office_paper.png",
-        "baseScore": 7,
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "anthropic"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Hackersgroep steelt met DeepSeek ID-kaartgegevens van 1,2 miljoen Vlamingen",
-        "link": "https://tweakers.net/nieuws/254906/hackersgroep-steelt-met-deepseek-id-kaartgegevens-van-1-komma-2-miljoen-vlamingen.html",
-        "description": "Hackersgroep Ghost Hunters heeft gegevens van 1,2 miljoen Vlamingen gestolen. De hackers maakten namen, adressen, geboortedata, geslacht, rijksregister- en identiteitskaartnummers, IBAN-nummers en kentekens buit. Volgens cyberbeveiligingsbedrijf Secutec gebruikte de hackersgroep het Chinese AI-model DeepSeek voor de hack.",
-        "published": "2026-11-25T12:02:07.000Z",
-        "source": "Tweakers",
-        "sourceKey": "tweakers",
-        "priority": 2,
-        "image": null,
-        "baseScore": 7,
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "deepseek"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "KI-Experiment: Anthropic führt KI-Agenten in Versuchung",
-        "link": "https://www.heise.de/news/KI-Experiment-Anthropic-fuehrt-KI-Agenten-in-Versuchung-11537463.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-        "description": "Anthropic untersucht mit einem Experiment, wie leicht sich KI-Agenten dazu verleiten lassen, Sicherheitslücken auszunutzen.",
-        "published": "2026-11-25T10:38:00.000Z",
-        "source": "heise online",
-        "sourceKey": "heise",
-        "priority": 2,
-        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/7/8/4/1/shutterstock_2745004941-4c811e6f10025700.jpeg",
-        "baseScore": 7,
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "anthropic"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "VS: afluisterende ex-OpenAI-werknemer nam mogelijk bedrijfsgeheimen op",
-        "link": "https://tweakers.net/nieuws/254910/vs-afluisterende-ex-openai-werknemer-nam-mogelijk-bedrijfsgeheimen-op.html",
-        "description": "De voormalige OpenAI-werknemer die afluisterapparatuur zou hebben geplaatst in een vergaderzaal van het bedrijf, nam volgens Amerikaanse aanklagers mogelijk ook bedrijfsgeheimen op. De man zou honderden audio-opnames hebben. Dit staat in processtukken die Bloomberg heeft ingezien.",
-        "published": "2026-11-25T10:19:11.000Z",
-        "source": "Tweakers",
-        "sourceKey": "tweakers",
-        "priority": 2,
-        "image": null,
-        "baseScore": 7,
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "openai"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Euphorie verpufft: Anthropic-Papier fällt unter 83 Dollar",
-        "link": "https://www.heise.de/news/Anthropic-Aktie-faellt-unter-Ausgabepreis-11537185.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-        "description": "Anthropic startete an der Börse mit einem Kurssprung von 34 Prozent und einer Bewertung von zwei Billionen Dollar. Doch die Euphorie währte nur kurz.",
-        "published": "2026-11-25T08:21:00.000Z",
-        "source": "heise online",
-        "sourceKey": "heise",
-        "priority": 2,
-        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/7/7/0/0/shutterstock_2155610545-0e32ba903f2aa8c3.jpeg",
-        "baseScore": 7,
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "anthropic"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Google Messages gets Gemini Tasks integration for delivery updates, price alerts, and more",
-        "link": "https://www.androidauthority.com/google-messages-gemini-tasks-3739189/",
-        "description": "Finally, someone who texts you first and brings good news.",
-        "published": "2026-11-25T06:58:17.000Z",
-        "source": "Android Authority",
-        "sourceKey": "androidauthority",
-        "priority": 2,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-messages-app-icon-logo-pixel-11-pro-scaled.jpg",
-        "baseScore": 7,
-        "relevanceScore": 7,
-        "matchedKeywords": [
-          "google",
-          "gemini"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Still in Early Innings of AI Adoption: PSP’s Momei Qu",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-25/still-in-early-innings-of-ai-adoption-psp-s-momei-qu-video",
-        "description": "Momei Qu, Managing Director and Head of Venture at PSP Growth, says Anthropic is in a period of price discovery as public-market investors work out how to value a frontier AI company. Compared with SaaS predecessors, Anthropic may offer faster growth and a larger addressable market, but investors are weighing substantial capital expenditure, uncertain long-term margins and questions about its competitive moat. She speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
-        "published": "2026-11-25T22:39:03.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "baseScore": 6,
-        "relevanceScore": 6,
-        "matchedKeywords": [
-          "anthropic"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
-        "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
-        "description": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come to market. First spotted by Patentlyze, the patent - which was filed last May and published last week - describes how My Channel would use a pe",
-        "published": "2026-11-25T21:51:26.000Z",
-        "source": "The Verge",
-        "sourceKey": "theverge",
-        "priority": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&#038;strip=all&#038;crop=2.859375,3.7218027238494,93.788122558594,91.658221639303",
-        "baseScore": 5,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "google"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "MiniMax chatbot Talkie removed from Apple App Store over alleged sexual content",
-        "link": "https://www.scmp.com/tech/tech-trends/article/3375791/minimax-chatbot-talkie-removed-apple-app-store-over-alleged-sexual-content",
-        "description": "Talkie, the AI companion app developed by Chinese artificial intelligence company MiniMax, has been removed from Apple App Stores worldwide over its use of sexual content, following media reports that its AI-generated characters had allegedly sent inappropriate messages to minors. The development marks the latest controversy to hit the embattled Hong Kong-listed firm, which has seen its stock price fall 90 per cent from its peak in March. In a statement, Apple said it had removed the app from...",
-        "published": "2026-11-25T12:32:51.000Z",
-        "source": "SCMP",
-        "sourceKey": "scmp_tech",
-        "priority": 2,
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/25/e97778f9-b61d-459e-8846-bc8d1c5c3edb_08f9b1bb.jpg?itok=YP_mCtqs&v=1795609970",
-        "baseScore": 5,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "apple",
-          "artificial intelligence"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Epochal launches with $100M to help developers train predictive AI models",
-        "link": "https://siliconangle.com/2026/11/24/epochal-launches-with-100m-to-help-developers-train-predictive-ai-models/",
-        "description": "Artificial intelligence tooling startup Epochal AI Inc. launched today with $100 million in funding. The capital was provided by Chief Executive Officer Guodong Zhang, a machine learning researcher who earlier co-founded xAI Corp. He established Epochal earlier this year with two other xAI co-founders, Zihang Dai and Manuel Kroiss. The company’s staff also includes former […] The post Epochal launches with $100M to help developers train predictive AI models appeared first on SiliconANGLE.",
-        "published": "2026-11-25T01:30:32.000Z",
-        "source": "SiliconANGLE",
-        "sourceKey": "siliconangle",
-        "priority": 2,
-        "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/unsplash2-1.png",
-        "baseScore": 5,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "ai model",
-          "xai",
-          "artificial intelligence",
-          "machine learning"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
-        "link": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-        "description": "Article URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50637220 Points: 790 # Comments: 445",
-        "published": "2026-11-25T01:19:26.000Z",
-        "source": "Hacker News",
-        "sourceKey": "hackernews",
-        "priority": 2,
-        "image": null,
-        "baseScore": 5,
-        "relevanceScore": 5,
-        "matchedKeywords": [
-          "openai"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Dario Amodei rejects the idea of surrendering free will to AI and accuses rival AI execs of \"vibes-based\" positioning, rebutting a report on AI leaders' views",
-        "link": "https://www.techmeme.com/261125/p31#a261125p31",
-        "description": "Dario Amodei rejects the idea of surrendering free will to AI and accuses rival AI execs of “vibes-based” positioning, rebutting a report on AI leaders' views — - Amodei distinguished between handing over governance to AI, which he opposes, and automating specific tasks, on which he holds more nuanced views.",
-        "published": "2026-11-25T19:45:01.000Z",
-        "source": "Techmeme",
-        "sourceKey": "techmeme",
-        "priority": 1,
-        "image": "http://www.techmeme.com/261125/i31.jpg",
-        "via": "Axios",
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "dario amodei"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "US Genesis Mission Looks to AI to Accelerate Science",
-        "link": "https://www.bloomberg.com/news/videos/2026-11-25/us-genesis-mission-looks-to-ai-to-accelerate-science-video",
-        "description": "One year after the launch of the Genesis Mission, the US Department of Energy says the AI-driven initiative has grown to nearly 300 research projects spanning energy, biology, advanced manufacturing and national security. DOE Undersecretary for Science Dario Gil discusses using AI to simulate the power grid 1,000 times faster, efforts to accelerate nuclear and fusion development, and the goal of doubling the productivity and impact of US research and development within a decade. He joins Ed Ludl",
-        "published": "2026-11-25T18:30:27.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "fusion"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Has vibe coding made open source the new normal for synths?",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
-        "description": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community. In the last several weeks, as it's become clear that no piece of music gear is safe from Claude and a subreddit full of curious tinkerers, companies have begun making more and more of their devices open source. The",
-        "published": "2026-11-25T13:00:00.000Z",
-        "source": "The Verge",
-        "sourceKey": "theverge",
-        "priority": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/vibe_coding_synths_.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "claude"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Microsoft laat AI meeluisteren in Teams-gesprekken om phishing te herkennen",
-        "link": "https://tweakers.net/nieuws/254922/microsoft-laat-ai-meeluisteren-in-teams-gesprekken-om-phishing-te-herkennen.html",
-        "description": "Microsoft geeft Teams een AI-functie om in externe gesprekken phishing en fraude te detecteren. Deze spraakherkenning let op tekenen van social engineering en waarschuwt gebruikers dan. Hiervoor luistert de AI van Microsoft mee in Teams-gesprekken met iemand buiten de organisatie van de gebruiker.",
-        "published": "2026-11-25T13:54:54.000Z",
-        "source": "Tweakers",
-        "sourceKey": "tweakers",
-        "priority": 2,
-        "image": null,
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "microsoft"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Google DeepMind AI engineers conjure mathematical proof of Signal's encryption protocol",
-        "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-deepmind-ai-engineers-conjure-mathematical-proof-of-signals-encryption-protocol-alphaproof-code-framework-powered-human-bot-cooperation-for-speedy-work",
-        "description": "Google DeepMind AI engineers conjure mathematical proof of Signal's encryption protocol — AlphaProof Code framework powered human-bot cooperation for speedy work",
-        "published": "2026-11-25T12:00:00.000Z",
-        "source": "Tom's Hardware",
-        "sourceKey": "tomshardware",
-        "priority": 2,
-        "image": "https://cdn.mos.cms.futurecdn.net/ZZNtLfjyEWc5zZUk4vJ8ED-1920-80.png",
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "google"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "The ‘True Crime Community’ Is Inspiring Violent Attacks Through TikTok",
-        "link": "https://www.wired.com/story/the-true-crime-community-is-inspiring-violent-attacks-through-tiktok/",
-        "description": "Attacks linked to a network of young people obsessed with mass shooters are greatly increasing, research shared with WIRED shows, as the nihilistic group uses TikTok and AI to spread its message.",
-        "published": "2026-11-25T11:00:00.000Z",
-        "source": "Wired",
-        "sourceKey": "wired",
-        "priority": 2,
-        "image": "https://media.wired.com/photos/6b05e919e84f380c55f0e941/master/pass/Security_Fans%20of%20School%20Shooters%20Are%20Using%20AI%20to%20Lionize%20Their%20Heroes_v1.jpg",
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "tiktok"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Google’s AI Mode now lets you attach up to 10 photos at once",
-        "link": "https://www.androidauthority.com/ai-mode-camera-multiple-photo-support-rolling-out-3739263/",
-        "description": "You can finally attach multiple photos in AI Mode without opening the camera every time.",
-        "published": "2026-11-25T09:52:54.000Z",
-        "source": "Android Authority",
-        "sourceKey": "androidauthority",
-        "priority": 2,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2025/05/google-ai-mode-vs-google-search-hero-photo-5-scaled.jpg",
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "google"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Dell and HPE both say they’ve become ‘different companies’",
-        "link": "https://www.theregister.com/systems/2026/11/25/dell-and-hpe-both-say-theyve-become-different-companies/5312003",
-        "description": "Still slinging hardware – now with added AI and attendant risks or opportunities",
-        "published": "2026-11-25T01:17:30.000Z",
-        "source": "The Register",
-        "sourceKey": "theregister",
-        "priority": 2,
-        "image": "https://image.theregister.com/?imageId=262697&width=800",
-        "baseScore": 4,
-        "relevanceScore": 4,
-        "matchedKeywords": [
-          "dell"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "JPMorgan Sees $450 Billion AI Debt Blitz in 2027 Before Plateau",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-25/jpmorgan-sees-450-billion-ai-debt-blitz-in-2027-before-plateau",
-        "description": "Companies will tap public high-grade debt markets for $450 billion next year to finance their artificial intelligence-related capital expenditures, even as a growth plateau looms for the burgeoning industry further down the road, according to analysts at JPMorgan Chase & Co.",
-        "published": "2026-11-25T21:17:21.000Z",
-        "source": "Bloomberg",
-        "sourceKey": "bloomberg_tech",
-        "priority": 1,
-        "image": null,
-        "baseScore": 3,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "billion",
-          "artificial intelligence"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Gemini for Home gets faster responses, smoother chats, and fixes for follow-up and music bugs",
-        "link": "https://www.androidauthority.com/gemini-for-home-update-faster-commands-bug-fixes-3739481/",
-        "description": "Everyday voice commands should feel a little less frustrating.",
-        "published": "2026-11-25T20:15:58.000Z",
-        "source": "Android Authority",
-        "sourceKey": "androidauthority",
-        "priority": 2,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/google-home-speaker-review-12-scaled.jpg",
-        "baseScore": 3,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "gemini"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "ChatGPT and Codex will share usage limits for paid users starting in December",
-        "link": "https://www.androidauthority.com/chatgpt-codex-shared-usage-limits-3739254/",
-        "description": "Using one AI tool could limit how much you can use another.",
-        "published": "2026-11-25T09:37:20.000Z",
-        "source": "Android Authority",
-        "sourceKey": "androidauthority",
-        "priority": 2,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Open-AI-ChatGPT-logo-on-phone-stock-photo-9.jpg",
-        "baseScore": 3,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "chatgpt"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Gemini Notebook’s flashcards just got a lot better for studies with three new features",
-        "link": "https://www.androidauthority.com/gemini-notebook-flashcards-3739247/",
-        "description": "Your flashcards now have a better sense of time than you.",
-        "published": "2026-11-25T08:30:56.000Z",
-        "source": "Android Authority",
-        "sourceKey": "androidauthority",
-        "priority": 2,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Gemini-Notebook-app-opened-on-Galaxy-Z-Fold-8-Ultra.jpg",
-        "baseScore": 3,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "gemini"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "Gemini’s floating overlay now helps you compare prices, check warranty terms across shopping apps",
-        "link": "https://www.androidauthority.com/google-gemini-overlay-shopping-context-suggestions-3739210/",
-        "description": "Gemini overlay uses screen context and recommends actions while using shopping apps on Android.",
-        "published": "2026-11-25T08:13:40.000Z",
-        "source": "Android Authority",
-        "sourceKey": "androidauthority",
-        "priority": 2,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/gemini-overlay-sparkle-bubble-animation-ask-gemini-text-box-vivo-x300-ultra.jpg",
-        "baseScore": 3,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "gemini"
-        ],
-        "category": "ai"
-      },
-      {
-        "title": "What Is Artex? The AI Hacking Tool Linked to the US Spy Agency Breach",
-        "link": "https://decrypt.co/383997/what-is-artex-ai-hacking-tool-us-spy-agency-breach",
-        "description": "Microsoft says state-backed hackers and cybercriminals are using Artex to automate attacks with AI agents, exploiting familiar security flaws at speeds that leave defenders little time to respond or recover.",
-        "published": "2026-11-25T20:06:03.000Z",
-        "source": "Decrypt",
-        "sourceKey": "decrypt",
-        "priority": 3,
-        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png@png",
-        "baseScore": 3,
-        "relevanceScore": 3,
-        "matchedKeywords": [
-          "microsoft",
-          "ai agent"
-        ],
-        "category": "ai"
-      }
-    ],
-    "chips_cloud": [
       {
         "title": "AI Stocks’ Big Worry: a Chip Glut",
         "link": "https://www.theinformation.com/articles/ai-stocks-big-worry-chip-glut",
@@ -1254,27 +482,6 @@
           "coreweave",
           "ipo",
           "jensen huang"
-        ],
-        "category": "chips_cloud"
-      },
-      {
-        "title": "Sources: US chip curbs stall billions in data center loans tied to ByteDance, Alibaba, and Tencent, with some lenders delaying a $6.6B Bridge Data Centres loan (Bloomberg)",
-        "link": "https://www.techmeme.com/261125/p38#a261125p38",
-        "description": "Bloomberg: Sources: US chip curbs stall billions in data center loans tied to ByteDance, Alibaba, and Tencent, with some lenders delaying a $6.6B Bridge Data Centres loan — Lenders have hit the brakes on billions of dollars in loans tied to Chinese firms ByteDance, Alibaba and Tencent …",
-        "published": "2026-11-25T22:05:01.000Z",
-        "source": "Techmeme",
-        "sourceKey": "techmeme",
-        "priority": 1,
-        "image": "http://www.techmeme.com/261125/i38.jpg",
-        "baseScore": 16,
-        "relevanceScore": 16,
-        "matchedKeywords": [
-          "bytedance",
-          "alibaba",
-          "tencent",
-          "chip",
-          "data center",
-          "billion"
         ],
         "category": "chips_cloud"
       },
@@ -2329,6 +1536,830 @@
           "nvidia"
         ],
         "category": "chips_cloud"
+      }
+    ],
+    "ai": [
+      {
+        "title": "AI Safety Advocates Sour on Anthropic",
+        "link": "https://www.theinformation.com/articles/ai-safety-advocates-sour-anthropic",
+        "description": "Anthropic has built its brand in significant part around AI safety, presenting itself as a cautious foil to OpenAI. But the Claude developer has been losing loyalty lately from some safety advocates who say its rapid technological progress—sure to be aided by the funds raised in its blockbuster initial public offering last week—is increasing the chances that AI will run amok. While OpenAI has struggled with its own safety issues, it operates more like a normal tech startup, but “Anthropic seems",
+        "published": "2026-11-25T15:00:51.000Z",
+        "source": "The Information",
+        "sourceKey": "theinformation",
+        "priority": 1,
+        "image": null,
+        "baseScore": 17,
+        "relevanceScore": 17,
+        "matchedKeywords": [
+          "anthropic",
+          "ai safety",
+          "openai",
+          "claude"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "China's Google Just Released Its Fast New AI Model for Free",
+        "link": "https://decrypt.co/384015/china-google-released-fast-new-ai-model-free-baidu-ernie",
+        "description": "Baidu has released the weights of its new high-speed reasoning model, giving developers a commercially usable alternative to proprietary AI services from OpenAI, Google, and Anthropic",
+        "published": "2026-11-25T22:38:09.000Z",
+        "source": "Decrypt",
+        "sourceKey": "decrypt",
+        "priority": 3,
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/01/shutterstock_7881566261-gID_7.jpg@png",
+        "baseScore": 17,
+        "relevanceScore": 17,
+        "matchedKeywords": [
+          "google",
+          "ai model",
+          "openai",
+          "anthropic",
+          "baidu"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Anthropic’s Claude Output Can Be Installed as Software",
+        "link": "https://www.wsj.com/cio-journal/anthropics-claude-output-can-be-installed-as-software-e840ac45?mod=rss_Technology",
+        "description": "Plus, Nvidia’s Jensen Huang pushes back on succession planning.",
+        "published": "2026-11-25T14:26:00.000Z",
+        "source": "WSJ",
+        "sourceKey": "wsj_tech",
+        "priority": 1,
+        "image": "https://images.wsj.net/im-30757736",
+        "baseScore": 16,
+        "relevanceScore": 16,
+        "matchedKeywords": [
+          "anthropic",
+          "claude",
+          "nvidia",
+          "jensen huang"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Staff at Anthropic and Open AI sound alarm on advanced models too powerful to release",
+        "link": "https://siliconangle.com/2026/11/24/staff-at-anthropic-and-open-ai-sound-alarm-on-advanced-models-too-powerful-to-release/",
+        "description": "Employees working at frontier artificial intelligence model companies Anthropic PBC and OpenAI Group PBC have been butting heads with executives over advanced models whose reasoning is such that the models pose to danger to humanity, according to a report by Axios today based on more than two dozen sources familiar with the current standoff at […] The post Staff at Anthropic and Open AI sound alarm on advanced models too powerful to release appeared first on SiliconANGLE.",
+        "published": "2026-11-25T01:41:52.000Z",
+        "source": "SiliconANGLE",
+        "sourceKey": "siliconangle",
+        "priority": 2,
+        "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/steve-a-johnson-xfk7RcWERG0-unsplash.jpg",
+        "baseScore": 13,
+        "relevanceScore": 13,
+        "matchedKeywords": [
+          "anthropic",
+          "openai",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+        "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+        "description": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+        "published": "2026-11-25T14:10:18.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "baseScore": 10,
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "amazon",
+          "meta",
+          "ai agent"
+        ],
+        "category": "ai",
+        "alsoIn": [
+          {
+            "source": "The Decoder",
+            "title": "Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store.",
+            "link": "https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/"
+          },
+          {
+            "source": "The Verge",
+            "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+            "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions"
+          }
+        ]
+      },
+      {
+        "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+        "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+        "description": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+        "published": "2026-11-25T19:44:24.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "baseScore": 12,
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "anthropic",
+          "dario amodei",
+          "ceo"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+        "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+        "description": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+        "published": "2026-11-25T20:03:27.000Z",
+        "source": "TechCrunch",
+        "sourceKey": "techcrunch",
+        "priority": 1,
+        "image": null,
+        "baseScore": 11,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "openai",
+          "chatgpt"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "There are 5,100 newly minted Anthropic millionaires — here’s all the stuff they don’t tell you about when you suddenly get rich",
+        "link": "https://www.cnbc.com/2026/11/25/anthropic-ipo-employee-millionaires-sudden-wealth.html",
+        "description": "Anthropic’s IPO made about 5,100 employees paper millionaires. Experts explain the risks of sudden wealth.",
+        "published": "2026-11-25T18:52:59.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_top",
+        "priority": 1,
+        "image": null,
+        "baseScore": 11,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "anthropic",
+          "ipo"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Anthropic Expands in Zurich to Tap City’s AI Talent Pool",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-25/anthropic-expands-in-zurich-moving-to-tap-city-s-ai-talent-pool",
+        "description": "Anthropic PBC is moving into a bigger office in Zurich, as the Claude chatbot maker seeks to tap into the city’s talent pool in AI research and proximity to some of the biggest healthcare companies.",
+        "published": "2026-11-25T11:25:14.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 11,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "anthropic",
+          "claude"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Anthropic CEO Dario Amodei says letting AI govern society would be \"a bad idea\"",
+        "link": "https://the-decoder.com/anthropic-ceo-dario-amodei-says-letting-ai-govern-society-would-be-a-bad-idea/",
+        "description": "Anthropic CEO Dario Amodei is pushing back on an Axios report saying some employees believe humanity will hand power to superintelligent systems. Amodei says \"turning over governance to AI is a bad idea.\" The article Anthropic CEO Dario Amodei says letting AI govern society would be \"a bad idea\" appeared first on The Decoder.",
+        "published": "2026-11-25T20:15:50.000Z",
+        "source": "The Decoder",
+        "sourceKey": "thedecoder",
+        "priority": 2,
+        "image": "https://the-decoder.com/wp-content/uploads/2026/09/anthropic_amodei.png",
+        "baseScore": 11,
+        "relevanceScore": 11,
+        "matchedKeywords": [
+          "anthropic",
+          "dario amodei",
+          "ceo"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Anthropic is trying to kill traditional desktop apps with Claude-generated desktop apps",
+        "link": "https://siliconangle.com/2026/11/24/anthropic-is-trying-to-kill-traditional-desktop-apps-with-claude-generated-desktop-apps/",
+        "description": "Rarely a day goes by that Anthropic PBC doesn’t announce some kind of new capability, feature or model, and today wasn’t any different. Today came the ability to use Claude to create fully functional desktop applications for Windows and Mac computers with a single prompt. It promises to be one of its more impactful updates, […] The post Anthropic is trying to kill traditional desktop apps with Claude-generated desktop apps appeared first on SiliconANGLE.",
+        "published": "2026-11-25T02:36:45.000Z",
+        "source": "SiliconANGLE",
+        "sourceKey": "siliconangle",
+        "priority": 2,
+        "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Screenshot-from-2026-11-25-09-34-15.png",
+        "baseScore": 10,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "anthropic",
+          "claude"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "OpenAI’s Changes to ChatGPT Could Drastically Cut Usage Limits for Paying Subscribers",
+        "link": "https://decrypt.co/383963/openai-changes-chatgpt-drastically-cut-usage-limits",
+        "description": "OpenAI is merging ChatGPT’s Chat and Work modes, forcing advanced conversations to compete with coding tasks for usage and leaving paying subscribers wondering how much AI they will actually get.",
+        "published": "2026-11-25T17:46:02.000Z",
+        "source": "Decrypt",
+        "sourceKey": "decrypt",
+        "priority": 3,
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/02/greedy-kid-gID_7.png@png",
+        "baseScore": 10,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "openai",
+          "chatgpt"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Franklin Templeton's Araghi Sees AI Selloff as Market Reset",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-25/franklin-templeton-s-araghi-sees-ai-selloff-as-market-reset",
+        "description": "Franklin Templeton portfolio manager Sara Araghi says the sharp tech selloff reflects an unwinding of earlier AI euphoria rather than a fundamental deterioration in demand. She discusses why AI infrastructure spending remains strong, the growing focus on proving returns from that investment and why she still views Anthropic’s record IPO as a success despite shares falling below their offering price. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+        "published": "2026-11-25T19:52:31.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "anthropic",
+          "ipo"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Samsung quietly expands Modes and Routines with AI and 7 presets in One UI 9.5",
+        "link": "https://www.androidauthority.com/samsung-one-ui-9-5-modes-and-routines-ask-ai-presets-apk-teardown-3738354/",
+        "description": "You can ask Gemini or Perplexity, but only Perplexity answers automatically.",
+        "published": "2026-11-25T15:06:17.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-Ultra-Digital-AI-Assistants-Google-Perplexity.jpg",
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "samsung",
+          "perplexity",
+          "gemini"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "AI agents now control part of Deepmind's compute for Gemini experiments, but recursive self-improvement remains distant",
+        "link": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+        "description": "Google Deepmind uses AI agents to run experiments on their own for upcoming Gemini models. Research chief Koray Kavukcuoglu says the lab is still far from recursive self-improvement. For oversight, Deepmind intentionally leaves the agents' internal chains of thought untrained so they can be reviewed. Kavukcuoglu measures AGI by everyday user trust rather than benchmarks. The article AI agents now control part of Deepmind's compute for Gemini experiments, but recursive self-improvement remains di",
+        "published": "2026-11-25T13:23:36.000Z",
+        "source": "The Decoder",
+        "sourceKey": "thedecoder",
+        "priority": 2,
+        "image": "https://the-decoder.com/wp-content/uploads/2026/11/gemini-4-neon__blog-header__sm.width-1600.format-webp.webp",
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "gemini",
+          "ai agent",
+          "google",
+          "agi"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Anthropic Rebounds From 10% Drop as Markets Stage Dramatic Recovery | Closing Bell",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-25/anthropic-rebounds-from-selloff-closing-bell-video",
+        "description": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Carol Massar and Lisa Mateo. (Source: Bloomberg)",
+        "published": "2026-11-25T21:38:39.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_markets",
+        "priority": 1,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "anthropic"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "OpenAI publishes a preprint that claims to prove that the matrix multiplication exponent (ω) is exactly 9/4, addressing a major open problem in mathematics (alphaXiv)",
+        "link": "https://www.techmeme.com/261125/p21#a261125p21",
+        "description": "alphaXiv: OpenAI publishes a preprint that claims to prove that the matrix multiplication exponent (ω) is exactly 9/4, addressing a major open problem in mathematics — Multiplying two $n\\times n$ matrices produces $n^2$ output numbers, yet computing each one as a separate dot product costs on the order of $n^3$ operations.",
+        "published": "2026-11-25T13:23:06.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261125/i21.jpg",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Claude Now Lets You Install Artifacts as Desktop Apps",
+        "link": "https://www.macrumors.com/2026/11/25/claude-install-artifacts-desktop-apps/",
+        "description": "Anthropic has released a new feature for Claude that allows users to install artifacts as desktop apps on macOS and Windows. Artifacts are documents, designs, dashboards, and interactive tools that Claude creates in a panel alongside your chat, where you can view and edit them. When you ask Claude to create an artifact, you can now click \"Install as app\" in the Share menu, after which you'll be able to launch it in its own dedicated app window and see it in the Dock. Artifact-based apps don't ne",
+        "published": "2026-11-25T10:27:42.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2024/05/claude-ai.jpeg",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "claude",
+          "anthropic"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Claude Ship soll Review-Engpässe bei Pull-Requests lösen",
+        "link": "https://www.heise.de/news/Claude-Ship-soll-Review-Engpaesse-bei-Pull-Requests-loesen-11536568.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "Mit Claude Ship automatisiert Anthropic Pull-Requests, von der Codeprüfung über Korrekturen bis hin zur Freigabe.",
+        "published": "2026-11-25T08:13:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/7/3/8/9/shutterstock_2663445441-8ad9924503d705da.jpeg",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "claude",
+          "anthropic"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "SoftBank drops 14% as Wall Street AI sell-off ripples across Asian tech names",
+        "link": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
+        "description": "Asian technology stocks tumbled Wednesday, led by a rout in Japanese semiconductor stocks, as renewed concerns over the artificial intelligence trade rattled investors.",
+        "published": "2026-11-25T01:57:29.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_top",
+        "priority": 1,
+        "image": null,
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "softbank",
+          "artificial intelligence",
+          "semiconductor"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Big Google Home update adds these new Nest Cam, app, and Gemini features",
+        "link": "https://9to5google.com/2026/11/25/google-home-update-nest-cam-thermostat-gemini-features/",
+        "description": "Google Home is rolling out another big update, this time adding features and bringing improvements across Nest Cam, Nest Thermostarts, Gemini, and more. more…",
+        "published": "2026-11-25T21:50:00.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/google-home-speaker-nest-hub-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "google",
+          "gemini"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Much shorter version of GRH Lean verification from Anthropic",
+        "link": "https://github.com/lsernau/grh-lean",
+        "description": "Article URL: https://github.com/lsernau/grh-lean Comments URL: https://news.ycombinator.com/item?id=50648050 Points: 205 # Comments: 91",
+        "published": "2026-11-25T21:48:10.000Z",
+        "source": "Hacker News",
+        "sourceKey": "hackernews",
+        "priority": 2,
+        "image": null,
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "anthropic"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "OpenAI wants companies to trust it with sensitive work by promising not to look at their data",
+        "link": "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/",
+        "description": "OpenAI is testing a new feature called \"Private Inference\" that lets companies run queries on its most powerful models without OpenAI being able to access the data. The article OpenAI wants companies to trust it with sensitive work by promising not to look at their data appeared first on The Decoder.",
+        "published": "2026-11-25T18:22:02.000Z",
+        "source": "The Decoder",
+        "sourceKey": "thedecoder",
+        "priority": 2,
+        "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_logo-1.png",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Anthropic study shows the hardest part of adopting AI at work has little to do with learning the tools",
+        "link": "https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools/",
+        "description": "Anthropic studied nearly 300 AI deployments across 58 US companies with sobering results. Nearly one in five still delivers no business value, held back by heavy review workloads, internal bottlenecks, and employee resistance. The researchers say the biggest hurdles stem from outdated company structures. The article Anthropic study shows the hardest part of adopting AI at work has little to do with learning the tools appeared first on The Decoder.",
+        "published": "2026-11-25T13:14:27.000Z",
+        "source": "The Decoder",
+        "sourceKey": "thedecoder",
+        "priority": 2,
+        "image": "https://the-decoder.com/wp-content/uploads/2026/11/ai_office_paper.png",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "anthropic"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Hackersgroep steelt met DeepSeek ID-kaartgegevens van 1,2 miljoen Vlamingen",
+        "link": "https://tweakers.net/nieuws/254906/hackersgroep-steelt-met-deepseek-id-kaartgegevens-van-1-komma-2-miljoen-vlamingen.html",
+        "description": "Hackersgroep Ghost Hunters heeft gegevens van 1,2 miljoen Vlamingen gestolen. De hackers maakten namen, adressen, geboortedata, geslacht, rijksregister- en identiteitskaartnummers, IBAN-nummers en kentekens buit. Volgens cyberbeveiligingsbedrijf Secutec gebruikte de hackersgroep het Chinese AI-model DeepSeek voor de hack.",
+        "published": "2026-11-25T12:02:07.000Z",
+        "source": "Tweakers",
+        "sourceKey": "tweakers",
+        "priority": 2,
+        "image": null,
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "deepseek"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "KI-Experiment: Anthropic führt KI-Agenten in Versuchung",
+        "link": "https://www.heise.de/news/KI-Experiment-Anthropic-fuehrt-KI-Agenten-in-Versuchung-11537463.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "Anthropic untersucht mit einem Experiment, wie leicht sich KI-Agenten dazu verleiten lassen, Sicherheitslücken auszunutzen.",
+        "published": "2026-11-25T10:38:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/7/8/4/1/shutterstock_2745004941-4c811e6f10025700.jpeg",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "anthropic"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "VS: afluisterende ex-OpenAI-werknemer nam mogelijk bedrijfsgeheimen op",
+        "link": "https://tweakers.net/nieuws/254910/vs-afluisterende-ex-openai-werknemer-nam-mogelijk-bedrijfsgeheimen-op.html",
+        "description": "De voormalige OpenAI-werknemer die afluisterapparatuur zou hebben geplaatst in een vergaderzaal van het bedrijf, nam volgens Amerikaanse aanklagers mogelijk ook bedrijfsgeheimen op. De man zou honderden audio-opnames hebben. Dit staat in processtukken die Bloomberg heeft ingezien.",
+        "published": "2026-11-25T10:19:11.000Z",
+        "source": "Tweakers",
+        "sourceKey": "tweakers",
+        "priority": 2,
+        "image": null,
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Euphorie verpufft: Anthropic-Papier fällt unter 83 Dollar",
+        "link": "https://www.heise.de/news/Anthropic-Aktie-faellt-unter-Ausgabepreis-11537185.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "Anthropic startete an der Börse mit einem Kurssprung von 34 Prozent und einer Bewertung von zwei Billionen Dollar. Doch die Euphorie währte nur kurz.",
+        "published": "2026-11-25T08:21:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/7/7/0/0/shutterstock_2155610545-0e32ba903f2aa8c3.jpeg",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "anthropic"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Google Messages gets Gemini Tasks integration for delivery updates, price alerts, and more",
+        "link": "https://www.androidauthority.com/google-messages-gemini-tasks-3739189/",
+        "description": "Finally, someone who texts you first and brings good news.",
+        "published": "2026-11-25T06:58:17.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-messages-app-icon-logo-pixel-11-pro-scaled.jpg",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "google",
+          "gemini"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Still in Early Innings of AI Adoption: PSP’s Momei Qu",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-25/still-in-early-innings-of-ai-adoption-psp-s-momei-qu-video",
+        "description": "Momei Qu, Managing Director and Head of Venture at PSP Growth, says Anthropic is in a period of price discovery as public-market investors work out how to value a frontier AI company. Compared with SaaS predecessors, Anthropic may offer faster growth and a larger addressable market, but investors are weighing substantial capital expenditure, uncertain long-term margins and questions about its competitive moat. She speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
+        "published": "2026-11-25T22:39:03.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "anthropic"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+        "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+        "description": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come to market. First spotted by Patentlyze, the patent - which was filed last May and published last week - describes how My Channel would use a pe",
+        "published": "2026-11-25T21:51:26.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&#038;strip=all&#038;crop=2.859375,3.7218027238494,93.788122558594,91.658221639303",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "MiniMax chatbot Talkie removed from Apple App Store over alleged sexual content",
+        "link": "https://www.scmp.com/tech/tech-trends/article/3375791/minimax-chatbot-talkie-removed-apple-app-store-over-alleged-sexual-content",
+        "description": "Talkie, the AI companion app developed by Chinese artificial intelligence company MiniMax, has been removed from Apple App Stores worldwide over its use of sexual content, following media reports that its AI-generated characters had allegedly sent inappropriate messages to minors. The development marks the latest controversy to hit the embattled Hong Kong-listed firm, which has seen its stock price fall 90 per cent from its peak in March. In a statement, Apple said it had removed the app from...",
+        "published": "2026-11-25T12:32:51.000Z",
+        "source": "SCMP",
+        "sourceKey": "scmp_tech",
+        "priority": 2,
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/25/e97778f9-b61d-459e-8846-bc8d1c5c3edb_08f9b1bb.jpg?itok=YP_mCtqs&v=1795609970",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "apple",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Epochal launches with $100M to help developers train predictive AI models",
+        "link": "https://siliconangle.com/2026/11/24/epochal-launches-with-100m-to-help-developers-train-predictive-ai-models/",
+        "description": "Artificial intelligence tooling startup Epochal AI Inc. launched today with $100 million in funding. The capital was provided by Chief Executive Officer Guodong Zhang, a machine learning researcher who earlier co-founded xAI Corp. He established Epochal earlier this year with two other xAI co-founders, Zihang Dai and Manuel Kroiss. The company’s staff also includes former […] The post Epochal launches with $100M to help developers train predictive AI models appeared first on SiliconANGLE.",
+        "published": "2026-11-25T01:30:32.000Z",
+        "source": "SiliconANGLE",
+        "sourceKey": "siliconangle",
+        "priority": 2,
+        "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/unsplash2-1.png",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "ai model",
+          "xai",
+          "artificial intelligence",
+          "machine learning"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+        "link": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+        "description": "Article URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50637220 Points: 790 # Comments: 445",
+        "published": "2026-11-25T01:19:26.000Z",
+        "source": "Hacker News",
+        "sourceKey": "hackernews",
+        "priority": 2,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Dario Amodei rejects the idea of surrendering free will to AI and accuses rival AI execs of \"vibes-based\" positioning, rebutting a report on AI leaders' views",
+        "link": "https://www.techmeme.com/261125/p31#a261125p31",
+        "description": "Dario Amodei rejects the idea of surrendering free will to AI and accuses rival AI execs of “vibes-based” positioning, rebutting a report on AI leaders' views — - Amodei distinguished between handing over governance to AI, which he opposes, and automating specific tasks, on which he holds more nuanced views.",
+        "published": "2026-11-25T19:45:01.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261125/i31.jpg",
+        "via": "Axios",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "dario amodei"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "US Genesis Mission Looks to AI to Accelerate Science",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-25/us-genesis-mission-looks-to-ai-to-accelerate-science-video",
+        "description": "One year after the launch of the Genesis Mission, the US Department of Energy says the AI-driven initiative has grown to nearly 300 research projects spanning energy, biology, advanced manufacturing and national security. DOE Undersecretary for Science Dario Gil discusses using AI to simulate the power grid 1,000 times faster, efforts to accelerate nuclear and fusion development, and the goal of doubling the productivity and impact of US research and development within a decade. He joins Ed Ludl",
+        "published": "2026-11-25T18:30:27.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "fusion"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Has vibe coding made open source the new normal for synths?",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+        "description": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community. In the last several weeks, as it's become clear that no piece of music gear is safe from Claude and a subreddit full of curious tinkerers, companies have begun making more and more of their devices open source. The",
+        "published": "2026-11-25T13:00:00.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/vibe_coding_synths_.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "claude"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Microsoft laat AI meeluisteren in Teams-gesprekken om phishing te herkennen",
+        "link": "https://tweakers.net/nieuws/254922/microsoft-laat-ai-meeluisteren-in-teams-gesprekken-om-phishing-te-herkennen.html",
+        "description": "Microsoft geeft Teams een AI-functie om in externe gesprekken phishing en fraude te detecteren. Deze spraakherkenning let op tekenen van social engineering en waarschuwt gebruikers dan. Hiervoor luistert de AI van Microsoft mee in Teams-gesprekken met iemand buiten de organisatie van de gebruiker.",
+        "published": "2026-11-25T13:54:54.000Z",
+        "source": "Tweakers",
+        "sourceKey": "tweakers",
+        "priority": 2,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "microsoft"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Google DeepMind AI engineers conjure mathematical proof of Signal's encryption protocol",
+        "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-deepmind-ai-engineers-conjure-mathematical-proof-of-signals-encryption-protocol-alphaproof-code-framework-powered-human-bot-cooperation-for-speedy-work",
+        "description": "Google DeepMind AI engineers conjure mathematical proof of Signal's encryption protocol — AlphaProof Code framework powered human-bot cooperation for speedy work",
+        "published": "2026-11-25T12:00:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/ZZNtLfjyEWc5zZUk4vJ8ED-1920-80.png",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "The ‘True Crime Community’ Is Inspiring Violent Attacks Through TikTok",
+        "link": "https://www.wired.com/story/the-true-crime-community-is-inspiring-violent-attacks-through-tiktok/",
+        "description": "Attacks linked to a network of young people obsessed with mass shooters are greatly increasing, research shared with WIRED shows, as the nihilistic group uses TikTok and AI to spread its message.",
+        "published": "2026-11-25T11:00:00.000Z",
+        "source": "Wired",
+        "sourceKey": "wired",
+        "priority": 2,
+        "image": "https://media.wired.com/photos/6b05e919e84f380c55f0e941/master/pass/Security_Fans%20of%20School%20Shooters%20Are%20Using%20AI%20to%20Lionize%20Their%20Heroes_v1.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "tiktok"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Google’s AI Mode now lets you attach up to 10 photos at once",
+        "link": "https://www.androidauthority.com/ai-mode-camera-multiple-photo-support-rolling-out-3739263/",
+        "description": "You can finally attach multiple photos in AI Mode without opening the camera every time.",
+        "published": "2026-11-25T09:52:54.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2025/05/google-ai-mode-vs-google-search-hero-photo-5-scaled.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Dell and HPE both say they’ve become ‘different companies’",
+        "link": "https://www.theregister.com/systems/2026/11/25/dell-and-hpe-both-say-theyve-become-different-companies/5312003",
+        "description": "Still slinging hardware – now with added AI and attendant risks or opportunities",
+        "published": "2026-11-25T01:17:30.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=262697&width=800",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "dell"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "JPMorgan Sees $450 Billion AI Debt Blitz in 2027 Before Plateau",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-25/jpmorgan-sees-450-billion-ai-debt-blitz-in-2027-before-plateau",
+        "description": "Companies will tap public high-grade debt markets for $450 billion next year to finance their artificial intelligence-related capital expenditures, even as a growth plateau looms for the burgeoning industry further down the road, according to analysts at JPMorgan Chase & Co.",
+        "published": "2026-11-25T21:17:21.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "billion",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Gemini for Home gets faster responses, smoother chats, and fixes for follow-up and music bugs",
+        "link": "https://www.androidauthority.com/gemini-for-home-update-faster-commands-bug-fixes-3739481/",
+        "description": "Everyday voice commands should feel a little less frustrating.",
+        "published": "2026-11-25T20:15:58.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/google-home-speaker-review-12-scaled.jpg",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "gemini"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "ChatGPT and Codex will share usage limits for paid users starting in December",
+        "link": "https://www.androidauthority.com/chatgpt-codex-shared-usage-limits-3739254/",
+        "description": "Using one AI tool could limit how much you can use another.",
+        "published": "2026-11-25T09:37:20.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Open-AI-ChatGPT-logo-on-phone-stock-photo-9.jpg",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "chatgpt"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Gemini Notebook’s flashcards just got a lot better for studies with three new features",
+        "link": "https://www.androidauthority.com/gemini-notebook-flashcards-3739247/",
+        "description": "Your flashcards now have a better sense of time than you.",
+        "published": "2026-11-25T08:30:56.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Gemini-Notebook-app-opened-on-Galaxy-Z-Fold-8-Ultra.jpg",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "gemini"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Gemini’s floating overlay now helps you compare prices, check warranty terms across shopping apps",
+        "link": "https://www.androidauthority.com/google-gemini-overlay-shopping-context-suggestions-3739210/",
+        "description": "Gemini overlay uses screen context and recommends actions while using shopping apps on Android.",
+        "published": "2026-11-25T08:13:40.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/gemini-overlay-sparkle-bubble-animation-ask-gemini-text-box-vivo-x300-ultra.jpg",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "gemini"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "What Is Artex? The AI Hacking Tool Linked to the US Spy Agency Breach",
+        "link": "https://decrypt.co/383997/what-is-artex-ai-hacking-tool-us-spy-agency-breach",
+        "description": "Microsoft says state-backed hackers and cybercriminals are using Artex to automate attacks with AI agents, exploiting familiar security flaws at speeds that leave defenders little time to respond or recover.",
+        "published": "2026-11-25T20:06:03.000Z",
+        "source": "Decrypt",
+        "sourceKey": "decrypt",
+        "priority": 3,
+        "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png@png",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "microsoft",
+          "ai agent"
+        ],
+        "category": "ai"
       }
     ],
     "business": [
@@ -4366,5 +4397,5 @@
       }
     ]
   },
-  "totalArticles": 232
+  "totalArticles": 233
 }
