@@ -4,25 +4,175 @@
   "title": "Friday, Nov 27",
   "dateRange": "November 27, 2026",
   "date": "2026-11-27",
-  "generatedAt": "2026-11-27T04:17:30.625Z",
+  "generatedAt": "2026-11-27T16:43:07.743Z",
   "highlights": [
     {
-      "title": "Japan's JERA aims to build Anthropic, Meta data centers near power plants",
-      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-jera-aims-to-build-anthropic-meta-data-centers-near-power-plants",
-      "description": "",
-      "published": "2026-11-27T04:17:28.937Z",
-      "source": "Nikkei Asia",
-      "sourceKey": "nikkei_asia",
+      "title": "Sources: the US Air Force recently discovered a breach of Cloud One, which combines Microsoft, Amazon, Oracle, and Google clouds to power Air Force applications (Reuters)",
+      "link": "https://www.techmeme.com/261127/p4#a261127p4",
+      "description": "Reuters: Sources: the US Air Force recently discovered a breach of Cloud One, which combines Microsoft, Amazon, Oracle, and Google clouds to power Air Force applications — Hackers have breached the US Air Force's flagship cloud computing platform, three people familiar with the matter told Reuters …",
+      "published": "2026-11-27T12:10:01.000Z",
+      "source": "Techmeme",
+      "sourceKey": "techmeme",
       "priority": 1,
-      "image": null,
-      "baseScore": 13,
-      "relevanceScore": 13,
+      "image": "http://www.techmeme.com/261127/i4.jpg",
+      "baseScore": 17,
+      "relevanceScore": 17,
       "matchedKeywords": [
-        "meta",
-        "anthropic",
-        "data center"
+        "google",
+        "microsoft",
+        "amazon",
+        "oracle"
       ],
       "category": "chips_cloud"
+    },
+    {
+      "title": "Tesla aims to bolster Optimus with newest company acquisition",
+      "link": "https://www.teslarati.com/tesla-bolster-optimus-company-acquisition-emag-germany/",
+      "description": "Tesla is set to make a major acquisition as it plans to buy a more than a century-old German manufacturing systems supplier. The move targets EMAG, a specialist in precision machines used to produce drive systems for humanoid robots, according to a filing with Germany’s antitrust authority that surfaced Friday. Reuters first reported the news. […] The post Tesla aims to bolster Optimus with newest company acquisition appeared first on TESLARATI.",
+      "published": "2026-11-27T16:37:01.000Z",
+      "source": "Teslarati",
+      "sourceKey": "teslarati",
+      "priority": 3,
+      "image": null,
+      "baseScore": 17,
+      "relevanceScore": 17,
+      "matchedKeywords": [
+        "tesla",
+        "acquisition",
+        "optimus",
+        "antitrust",
+        "humanoid robot",
+        "humanoid"
+      ],
+      "category": "robotics"
+    },
+    {
+      "title": "This might be the real reason Elon Musk says Tesla’s AI5 chip is going to Optimus",
+      "link": "https://electrek.co/2026/11/27/tesla-ai5-optimus-real-reason-tsmc-3nm/",
+      "description": "Elon Musk says Tesla’s cars don’t need the next-generation AI5 chip, so it’s going to Optimus first. A new report from Taiwan’s chip supply chain gives a more practical reason: Tesla won’t have enough AI5 chips for its cars until 2028. According to Commercial Times, Tesla’s chip design partner Global Unichip (GUC) is giving its limited TSMC 3nm capacity for 2027 to Google and Microsoft data center chips first. That leaves Tesla with a relatively small AI5 allocation. more…",
+      "published": "2026-11-27T14:48:15.000Z",
+      "source": "Electrek",
+      "sourceKey": "electrek",
+      "priority": 2,
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/04/Tesla-AI5-chip-hero.jpeg?quality=82&#038;strip=all&#038;w=1600",
+      "baseScore": 16,
+      "relevanceScore": 16,
+      "matchedKeywords": [
+        "tesla",
+        "elon musk",
+        "chip",
+        "optimus",
+        "google",
+        "microsoft"
+      ],
+      "category": "chips_cloud"
+    },
+    {
+      "title": "Japan's Jera in talks with US hyperscalers to colocate data centers at thermal power plants in Japan",
+      "link": "https://www.datacenterdynamics.com/en/news/japans-jera-in-talks-with-us-hyperscalers-to-colocate-data-centers-at-thermal-power-plants-in-japan/",
+      "description": "In talks with Meta, Anthropic, Google, Microsoft, and Amazon",
+      "published": "2026-11-27T12:20:29.000Z",
+      "source": "DataCenterDynamics",
+      "sourceKey": "dcd",
+      "priority": 2,
+      "image": "https://media.datacenterdynamics.com/media/images/img-article-image-01-1.2e16d0ba.fill-750x500.jpg",
+      "baseScore": 14,
+      "relevanceScore": 15,
+      "matchedKeywords": [
+        "data center",
+        "google",
+        "microsoft",
+        "amazon",
+        "meta",
+        "anthropic"
+      ],
+      "category": "chips_cloud",
+      "alsoIn": [
+        {
+          "source": "Nikkei Asia",
+          "title": "Japan's JERA aims to build Anthropic, Meta data centers near power plants",
+          "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-jera-aims-to-build-anthropic-meta-data-centers-near-power-plants"
+        },
+        {
+          "source": "Nikkei Asia",
+          "title": "Japan's JERA aims to build data centers for Anthropic, other AI players near power plants",
+          "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-jera-aims-to-build-data-centers-for-anthropic-other-ai-players-near-power-plants"
+        }
+      ]
+    },
+    {
+      "title": "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork",
+      "link": "https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/",
+      "description": "OpenAI's data agent in ChatGPT Work still isn't accurate enough. Under the codename \"Athena,\" the company is building a semantic layer that gives agents standardized definitions for business metrics. The tool could also put OpenAI in direct competition with Snowflake and Databricks. The article OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork appeared first on The Decoder.",
+      "published": "2026-11-27T16:05:23.000Z",
+      "source": "The Decoder",
+      "sourceKey": "thedecoder",
+      "priority": 2,
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_logo-1.png",
+      "baseScore": 15,
+      "relevanceScore": 15,
+      "matchedKeywords": [
+        "openai",
+        "ai agent",
+        "snowflake",
+        "databricks",
+        "chatgpt"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
+      "link": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html",
+      "description": "AI shopping agents from OpenAI, Meta, Google and Instinct promise to help users shop, but they're hitting roadblocks at Amazon and other retailers.",
+      "published": "2026-11-27T15:27:11.000Z",
+      "source": "CNBC",
+      "sourceKey": "cnbc_tech",
+      "priority": 1,
+      "image": null,
+      "baseScore": 14,
+      "relevanceScore": 14,
+      "matchedKeywords": [
+        "amazon",
+        "google",
+        "meta",
+        "openai"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Verbraucherzentrale mahnt OpenAI und Anthropic ab",
+      "link": "https://www.heise.de/news/Verbraucherzentrale-mahnt-OpenAI-und-Anthropic-ab-11540670.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "description": "Die Verbraucherzentrale Niedersachsen wirft OpenAI und Anthropic unzulässige Preisänderungsklauseln und intransparente Tarife vor.",
+      "published": "2026-11-27T12:13:00.000Z",
+      "source": "heise online",
+      "sourceKey": "heise",
+      "priority": 2,
+      "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/9/4/5/8/shutterstock_2745004941-4c811e6f10025700.jpeg",
+      "baseScore": 14,
+      "relevanceScore": 14,
+      "matchedKeywords": [
+        "openai",
+        "anthropic"
+      ],
+      "category": "ai"
+    },
+    {
+      "title": "Amazon main event Black Friday sale now live! Apple, Google, Anker, LEGO, TVs, more",
+      "link": "https://9to5toys.com/2026/11/27/amazon-official-black-friday-sale-live-2026/",
+      "description": "The official main event Amazon Black Friday sale is now live! Millions of deals, all-new discounts in the Today’s Big Deals section, and a fresh collection of Doorbusters now up for grabs. The wild discounts on AirPods Pro 3 at an insane $100 off, the crazy M5 MacBook Air deals at $400 off, and MacBook Neo models at $100 off starting at $599 are all still live, alongside the even lower prices on Anker’s popular charging gear from $16, and a whole lot more are now at the ready in the official Ama",
+      "published": "2026-11-27T08:02:08.000Z",
+      "source": "9to5Mac",
+      "sourceKey": "9to5mac",
+      "priority": 2,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Amazon-Black-Friday-Main-Event-2026-now-live.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "baseScore": 12,
+      "relevanceScore": 12,
+      "matchedKeywords": [
+        "google",
+        "apple",
+        "amazon"
+      ],
+      "category": "devices"
     },
     {
       "title": "Huawei guilty on 10 counts in US trial; Nvidia’s Jensen Huang returns: SCMP’s 7 highlights",
@@ -43,157 +193,113 @@
       "category": "chips_cloud"
     },
     {
-      "title": "They Pledged to Give Away 10% of Their Income. Now They’re AI Billionaires.",
-      "link": "https://www.wsj.com/tech/ai/giving-pledge-anthropic-charity-effective-altruism-fef947b2?mod=rss_Technology",
-      "description": "A promise that began with 23 people has become a global movement with influence across the AI industry—especially Anthropic.",
-      "published": "2026-11-27T02:00:00.000Z",
-      "source": "WSJ",
-      "sourceKey": "wsj_tech",
-      "priority": 1,
-      "image": "https://images.wsj.net/im-43912598",
-      "baseScore": 6,
-      "relevanceScore": 6,
-      "matchedKeywords": [
-        "anthropic"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": "Nifty’s Sharp November Rally Gives India’s IPO Hopefuls a Tailwind",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-11-27/nifty-s-sharp-november-rally-gives-india-s-ipo-hopefuls-a-tailwind",
-      "description": "Firms have raised about $18.6 billion through IPOs this year, with a flurry of deals expected in December.",
-      "published": "2026-11-27T02:30:22.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_markets",
-      "priority": 1,
-      "image": null,
-      "baseScore": 5,
-      "relevanceScore": 5,
-      "matchedKeywords": [
-        "ipo",
-        "billion"
-      ],
-      "category": "business"
-    },
-    {
-      "title": "Counterpoint on China's AI Progress Under Chip Curbs",
-      "link": "https://www.bloomberg.com/news/videos/2026-11-27/counterpoint-on-china-s-ai-progress-under-chip-curbs-video",
-      "description": "Wei Sun, Principal Analyst for AI at Counterpoint Research, discusses the outlook for Chinese internet giants and leading AI labs as updated US chip controls further restrict access to the advanced semiconductors needed to train frontier AI models. She speaks with Annabelle Droulers on Bloomberg: Tech Asia. (Source: Bloomberg)",
-      "published": "2026-11-27T02:17:51.000Z",
+      "title": "Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-video",
+      "description": "A pair of Chinese firms installed Nvidia Corp.’s powerful Blackwell semiconductors in a Shanghai data center linked to Alice Huang, the woman at the heart of a controversy surrounding the US chipmaker. The gear installed at the Yangtze River Delta Project included a GB300 NVL72 rack, among Nvidia’s most powerful products, according to a serial number specified in documents submitted to Chinese regulators in November. Shanghai Shuoyao offered the hardware as collateral to obtain a 96 million yuan",
+      "published": "2026-11-27T12:43:02.000Z",
       "source": "Bloomberg",
       "sourceKey": "bloomberg_tech",
       "priority": 1,
       "image": null,
-      "baseScore": 4,
-      "relevanceScore": 4,
+      "baseScore": 10,
+      "relevanceScore": 10,
       "matchedKeywords": [
+        "nvidia",
         "chip",
-        "ai model",
-        "semiconductor"
+        "blackwell",
+        "semiconductor",
+        "chipmaker",
+        "data center"
       ],
-      "category": "chips_cloud"
-    },
-    {
-      "title": "Mahanadi Coalfields Set for Mumbai Debut After $969 Million IPO",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-27/mahanadi-coalfields-set-for-mumbai-debut-after-969-million-ipo",
-      "description": "Mahanadi Coalfields Ltd., a unit of state-owned Coal India Ltd., is set to start trading Friday after its initial public offering in the first listing since India’s market regulator barred publishing so-called gray-market prices for IPO shares.",
-      "published": "2026-11-27T02:00:00.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_markets",
-      "priority": 1,
-      "image": null,
-      "baseScore": 4,
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "ipo"
-      ],
-      "category": "business"
-    },
-    {
-      "title": "Android just had one of its worst quarters, and Apple is benefiting",
-      "link": "https://www.androidauthority.com/android-global-sales-share-q3-2026-counterpoint-3740661/",
-      "description": "Android just recorded its lowest-ever share for a third quarter, with Apple's iOS bucking the trend.",
-      "published": "2026-11-27T03:41:19.000Z",
-      "source": "Android Authority",
-      "sourceKey": "androidauthority",
-      "priority": 2,
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/iphone-17-pro-max-pixel-11-pro-xl-scaled.jpg",
-      "baseScore": 4,
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "apple"
-      ],
-      "category": "devices"
-    },
-    {
-      "title": "Samsung Galaxy A38 runs Geekbench, confirms its chipset",
-      "link": "https://www.gsmarena.com/samsung_galaxy_a38_runs_geekbench_confirms_its_chipset-news-75662.php",
-      "description": "Samsung launched the Galaxy A37 in March and released it in April, so the company is now almost wrapping up the development of its successor, the A38, for a plausible early 2027 launch. The device has now been spotted in the Geekbench online database with the model number SM-A386B. This is the global model, and it's powered by the MediaTek Dimensity 7500 SoC, which in the specific prototype which ran the benchmark was paired with 6GB of RAM. The phone will unsurprisingly run Android 17 when it l",
-      "published": "2026-11-27T03:31:02.000Z",
-      "source": "GSMArena",
-      "sourceKey": "gsmarena",
-      "priority": 3,
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/samsung-galaxy-a38-geekbench/-184x111/gsmarena_000.jpg",
-      "baseScore": 4,
-      "relevanceScore": 4,
-      "matchedKeywords": [
-        "samsung"
-      ],
-      "category": "devices"
-    },
-    {
-      "title": "The AI Boom Looks Alive and Well in Asia",
-      "link": "https://www.wsj.com/tech/ai/the-ai-boom-looks-alive-and-well-in-asia-59841697?mod=rss_Technology",
-      "description": "Stocks are having a wild ride thanks to the Nvidia affair, but AI-linked exports and investment are still driving growth—for now.",
-      "published": "2026-11-27T03:00:00.000Z",
-      "source": "WSJ",
-      "sourceKey": "wsj_tech",
-      "priority": 1,
-      "image": "https://images.wsj.net/im-75707582",
-      "baseScore": 3,
-      "relevanceScore": 3,
-      "matchedKeywords": [
-        "nvidia"
-      ],
-      "category": "ai"
-    },
-    {
-      "title": "China’s Industrial Profits Jump at Fastest Pace in Five Months",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-27/china-s-industrial-profits-jump-at-fastest-pace-in-five-months",
-      "description": "Earnings growth at China’s industrial enterprises hit a five-month high in October, as higher commodity costs and demand for artificial intelligence products continued to prop up prices.",
-      "published": "2026-11-27T02:18:43.000Z",
-      "source": "Bloomberg",
-      "sourceKey": "bloomberg_tech",
-      "priority": 1,
-      "image": null,
-      "baseScore": 3,
-      "relevanceScore": 3,
-      "matchedKeywords": [
-        "artificial intelligence",
-        "earnings"
-      ],
-      "category": "business"
+      "category": "chips_cloud",
+      "alsoIn": [
+        {
+          "source": "Bloomberg",
+          "title": "Nvidia Blackwell Tech Used at China Site Tied to Alice Huang",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang"
+        },
+        {
+          "source": "Bloomberg",
+          "title": "Blackwell Chips Found at Alice Huang-Linked China Site",
+          "link": "https://www.bloomberg.com/news/videos/2026-11-27/blackwell-chips-found-at-alice-huang-linked-china-site-video"
+        }
+      ]
     }
   ],
   "byCategory": {
     "chips_cloud": [
       {
-        "title": "Japan's JERA aims to build Anthropic, Meta data centers near power plants",
-        "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-jera-aims-to-build-anthropic-meta-data-centers-near-power-plants",
-        "description": "",
-        "published": "2026-11-27T04:17:28.937Z",
-        "source": "Nikkei Asia",
-        "sourceKey": "nikkei_asia",
+        "title": "Sources: the US Air Force recently discovered a breach of Cloud One, which combines Microsoft, Amazon, Oracle, and Google clouds to power Air Force applications (Reuters)",
+        "link": "https://www.techmeme.com/261127/p4#a261127p4",
+        "description": "Reuters: Sources: the US Air Force recently discovered a breach of Cloud One, which combines Microsoft, Amazon, Oracle, and Google clouds to power Air Force applications — Hackers have breached the US Air Force's flagship cloud computing platform, three people familiar with the matter told Reuters …",
+        "published": "2026-11-27T12:10:01.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
         "priority": 1,
-        "image": null,
-        "baseScore": 13,
-        "relevanceScore": 13,
+        "image": "http://www.techmeme.com/261127/i4.jpg",
+        "baseScore": 17,
+        "relevanceScore": 17,
         "matchedKeywords": [
-          "meta",
-          "anthropic",
-          "data center"
+          "google",
+          "microsoft",
+          "amazon",
+          "oracle"
         ],
         "category": "chips_cloud"
+      },
+      {
+        "title": "This might be the real reason Elon Musk says Tesla’s AI5 chip is going to Optimus",
+        "link": "https://electrek.co/2026/11/27/tesla-ai5-optimus-real-reason-tsmc-3nm/",
+        "description": "Elon Musk says Tesla’s cars don’t need the next-generation AI5 chip, so it’s going to Optimus first. A new report from Taiwan’s chip supply chain gives a more practical reason: Tesla won’t have enough AI5 chips for its cars until 2028. According to Commercial Times, Tesla’s chip design partner Global Unichip (GUC) is giving its limited TSMC 3nm capacity for 2027 to Google and Microsoft data center chips first. That leaves Tesla with a relatively small AI5 allocation. more…",
+        "published": "2026-11-27T14:48:15.000Z",
+        "source": "Electrek",
+        "sourceKey": "electrek",
+        "priority": 2,
+        "image": "https://electrek.co/wp-content/uploads/sites/3/2026/04/Tesla-AI5-chip-hero.jpeg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 16,
+        "relevanceScore": 16,
+        "matchedKeywords": [
+          "tesla",
+          "elon musk",
+          "chip",
+          "optimus",
+          "google",
+          "microsoft"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Japan's Jera in talks with US hyperscalers to colocate data centers at thermal power plants in Japan",
+        "link": "https://www.datacenterdynamics.com/en/news/japans-jera-in-talks-with-us-hyperscalers-to-colocate-data-centers-at-thermal-power-plants-in-japan/",
+        "description": "In talks with Meta, Anthropic, Google, Microsoft, and Amazon",
+        "published": "2026-11-27T12:20:29.000Z",
+        "source": "DataCenterDynamics",
+        "sourceKey": "dcd",
+        "priority": 2,
+        "image": "https://media.datacenterdynamics.com/media/images/img-article-image-01-1.2e16d0ba.fill-750x500.jpg",
+        "baseScore": 14,
+        "relevanceScore": 15,
+        "matchedKeywords": [
+          "data center",
+          "google",
+          "microsoft",
+          "amazon",
+          "meta",
+          "anthropic"
+        ],
+        "category": "chips_cloud",
+        "alsoIn": [
+          {
+            "source": "Nikkei Asia",
+            "title": "Japan's JERA aims to build Anthropic, Meta data centers near power plants",
+            "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-jera-aims-to-build-anthropic-meta-data-centers-near-power-plants"
+          },
+          {
+            "source": "Nikkei Asia",
+            "title": "Japan's JERA aims to build data centers for Anthropic, other AI players near power plants",
+            "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-jera-aims-to-build-data-centers-for-anthropic-other-ai-players-near-power-plants"
+          }
+        ]
       },
       {
         "title": "Huawei guilty on 10 counts in US trial; Nvidia’s Jensen Huang returns: SCMP’s 7 highlights",
@@ -214,6 +320,254 @@
         "category": "chips_cloud"
       },
       {
+        "title": "Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-video",
+        "description": "A pair of Chinese firms installed Nvidia Corp.’s powerful Blackwell semiconductors in a Shanghai data center linked to Alice Huang, the woman at the heart of a controversy surrounding the US chipmaker. The gear installed at the Yangtze River Delta Project included a GB300 NVL72 rack, among Nvidia’s most powerful products, according to a serial number specified in documents submitted to Chinese regulators in November. Shanghai Shuoyao offered the hardware as collateral to obtain a 96 million yuan",
+        "published": "2026-11-27T12:43:02.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 10,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "nvidia",
+          "chip",
+          "blackwell",
+          "semiconductor",
+          "chipmaker",
+          "data center"
+        ],
+        "category": "chips_cloud",
+        "alsoIn": [
+          {
+            "source": "Bloomberg",
+            "title": "Nvidia Blackwell Tech Used at China Site Tied to Alice Huang",
+            "link": "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang"
+          },
+          {
+            "source": "Bloomberg",
+            "title": "Blackwell Chips Found at Alice Huang-Linked China Site",
+            "link": "https://www.bloomberg.com/news/videos/2026-11-27/blackwell-chips-found-at-alice-huang-linked-china-site-video"
+          }
+        ]
+      },
+      {
+        "title": "Interviews with Huawei CEO Ren Zhengfei and others on how Trump's restrictions pushed Huawei toward self-reliance, making it central to China's AI ambitions (New York Times)",
+        "link": "https://www.techmeme.com/261127/p7#a261127p7",
+        "description": "New York Times: Interviews with Huawei CEO Ren Zhengfei and others on how Trump's restrictions pushed Huawei toward self-reliance, making it central to China's AI ambitions — As China's access to Nvidia's advanced chips shrinks, Huawei is becoming increasingly indispensable to Beijing despite a wide technological gap with its American rival.",
+        "published": "2026-11-27T14:20:01.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261127/i7.jpg",
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "huawei",
+          "ceo",
+          "nvidia",
+          "chip"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Serial numbers in Chinese filings reveal that Nvidia's restricted Blackwell chips were installed at a Shanghai data center linked to Alice Huang and Megaspeed (Bloomberg)",
+        "link": "https://www.techmeme.com/261127/p6#a261127p6",
+        "description": "Bloomberg: Serial numbers in Chinese filings reveal that Nvidia's restricted Blackwell chips were installed at a Shanghai data center linked to Alice Huang and Megaspeed — A pair of Chinese firms installed Nvidia Corp.'s powerful Blackwell semiconductors in a Shanghai data center linked to Alice Huang …",
+        "published": "2026-11-27T13:05:01.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261127/i6.jpg",
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "nvidia",
+          "chip",
+          "data center",
+          "blackwell",
+          "semiconductor"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "'Nvidia Blackwell-chips duiken op in Chinees datacenter gelinkt aan Alice Huang'",
+        "link": "https://tweakers.net/nieuws/255012/nvidia-blackwell-chips-duiken-op-in-chinees-datacenter-gelinkt-aan-alice-huang.html",
+        "description": "Chinese bedrijven installeerden Nvidia Blackwell-chips in een datacenter in Shanghai. Dat meldt persbureau Bloomberg. Die chips mogen niet geleverd worden aan China. Het datacenter heeft banden met Alice Huang, een van de vrouwen met wie Nvidia-baas Jensen Huang een affaire had.",
+        "published": "2026-11-27T15:29:07.000Z",
+        "source": "Tweakers",
+        "sourceKey": "tweakers",
+        "priority": 2,
+        "image": null,
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "nvidia",
+          "chip",
+          "blackwell",
+          "jensen huang"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Nvidia Pares Gains on Blackwell Report; Altria Lower | Stock Movers",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-27/nvidia-pares-gains-altria-moves-lower-stock-movers-video",
+        "description": "Today's biggest winners and losers in the stock market. On this episode of Stock Movers: - Nvidia (NVDA) shares are higher even though news broke this morning that a pair of Chinese firms installed Nvidia Corp's powerful Blackwell semiconductors in a Shanghai data center linked to Alice Huang. The gear installed at the Yangtze River Delta Project included a GB300 NVL72 rack, among Nvidia's most powerful products, according to a serial number specified in documents submitted to Chinese regulators",
+        "published": "2026-11-27T14:33:01.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_markets",
+        "priority": 1,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "nvidia",
+          "blackwell",
+          "semiconductor",
+          "data center"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Jensen Huang returns, but controversies keep growing around Nvidia",
+        "link": "https://siliconangle.com/2026/11/27/jensen-huang-returns-but-controversies-keep-growing-around-nvidia/",
+        "description": "Jensen Huang’s back, and not everyone is happy with that. Nvidia’s board reversed the resignation of its former and current-again CEO Monday, apparently under pressure from the well-known business genius and lame-duck President Donald Trump, who worried that the stock market and the AI trade would suffer without him at the helm. Huang (pictured) clearly […] The post Jensen Huang returns, but controversies keep growing around Nvidia appeared first on SiliconANGLE.",
+        "published": "2026-11-27T15:00:56.000Z",
+        "source": "SiliconANGLE",
+        "sourceKey": "siliconangle",
+        "priority": 2,
+        "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/jensenhuang.jpg",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang",
+          "ceo"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "The Savvy Showmanship That Helps Jensen Huang Always Come Out on Top",
+        "link": "https://www.wsj.com/business/jensen-huang-nvidia-ping-pong-rise-and-fall-bfd13000?mod=rss_Technology",
+        "description": "As a longtime friend of the Nvidia CEO puts it, “Jensen will always pull a rabbit out of a hat.”",
+        "published": "2026-11-27T02:00:00.000Z",
+        "source": "WSJ",
+        "sourceKey": "wsj_tech",
+        "priority": 1,
+        "image": "https://images.wsj.net/im-94798287",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "jensen huang",
+          "nvidia",
+          "ceo"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Intel faced a choice: Give Trump 10% or face the consequences",
+        "link": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/",
+        "description": "Intel faced pressure to surrender a 10% stake to unlock billions in promised grants.",
+        "published": "2026-11-27T12:05:01.000Z",
+        "source": "Ars Technica",
+        "sourceKey": "arstechnica",
+        "priority": 1,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/intel-card-1536x864-1-1152x648.jpg",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "intel",
+          "billion"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Nvidia stoppt offenbar Lieferungen von KI-Servern an einige Länder Südostasiens",
+        "link": "https://www.heise.de/news/Nvidia-stoppt-offenbar-Lieferungen-von-KI-Servern-an-einige-Laender-Suedostasiens-11539931.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "Nach dem gegen Chinas KI-Branche gerichteten US-Exportverbot sollen Dell und Supermicro auf Geheiß Nvidias keine Server mehr nach Südostasien verschicken.",
+        "published": "2026-11-27T04:34:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/9/0/8/6/shutterstock_2815368747-7fcb878bba4f4691.jpeg",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "nvidia",
+          "dell"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Linux 7.5 voegt vroege ondersteuning toe voor AMD RDNA 5-gpu's",
+        "link": "https://tweakers.net/nieuws/255002/linux-75-voegt-vroege-ondersteuning-toe-voor-amd-rdna-5-gpus.html",
+        "description": "AMD voegt vroege RDNA 5-ondersteuning toe aan de aanstaande Linux 7.5-kernel. Het bedrijf werkt aan ondersteuning voor 'GC13', de gpu-core die de basis vormt voor RDNA 5-gpu's. Linux 7.5 verschijnt begin 2027, maar AMD's RDNA 5-gpu's zelf laten nog wat langer op zich wachten.",
+        "published": "2026-11-27T13:53:37.000Z",
+        "source": "Tweakers",
+        "sourceKey": "tweakers",
+        "priority": 2,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "amd",
+          "gpu"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "TSMC gives a sneap peak at AI Design Kit: Agentic AI with foundry expertise",
+        "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-gives-a-sneap-peak-at-ai-design-kit-agentic-ai-with-foundry-expertise",
+        "description": "TSMC brings agentic AI to chip design as A14 design rule count hits 3.6X that of N5 while customers demand 33% shorter development cycle.",
+        "published": "2026-11-27T13:00:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/zr4jtQdQr2Ewa8sDbKneqF-1920-80.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "tsmc",
+          "chip"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Nvidia agrees to $290 million settlement over 2018 crypto mining GPU sales",
+        "link": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-agrees-to-usd290-million-settlement-over-2018-crypto-mining-gpu-sales-ends-eight-year-investor-lawsuit-without-admitting-wrongdoing",
+        "description": "Nvidia agrees to pay $290 million settlement for class action allegedly misleading investors that much of gaming GPU sales were actually driven by cryptocurrency mining demand.",
+        "published": "2026-11-27T11:30:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/vZTixu9pzvdLkseqLS3M4b-1920-80.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "nvidia",
+          "gpu"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Huawei’s Next Big AI Move: HBM Workaround",
+        "link": "https://www.eetimes.com/huawei-next-big-ai-move-hbm-workaround/",
+        "description": "The Shenzhen-based tech firm will provide details about its custom HBM design at ISSCC 2027 in San Francisco early next year. The post Huawei’s Next Big AI Move: HBM Workaround appeared first on EE Times.",
+        "published": "2026-11-27T08:56:46.000Z",
+        "source": "EE Times",
+        "sourceKey": "eetimes",
+        "priority": 2,
+        "image": "https://www.eetimes.com/wp-content/uploads/Huawei_HBM.jpg",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "huawei",
+          "hbm"
+        ],
+        "category": "chips_cloud"
+      },
+      {
         "title": "Counterpoint on China's AI Progress Under Chip Curbs",
         "link": "https://www.bloomberg.com/news/videos/2026-11-27/counterpoint-on-china-s-ai-progress-under-chip-curbs-video",
         "description": "Wei Sun, Principal Analyst for AI at Counterpoint Research, discusses the outlook for Chinese internet giants and leading AI labs as updated US chip controls further restrict access to the advanced semiconductors needed to train frontier AI models. She speaks with Annabelle Droulers on Bloomberg: Tech Asia. (Source: Bloomberg)",
@@ -230,9 +584,460 @@
           "semiconductor"
         ],
         "category": "chips_cloud"
+      },
+      {
+        "title": "VZMore IX9 Max im Test: Mini-PC mit starker Intel-Arc-Grafik, aber Lüfterbrummen",
+        "link": "https://www.heise.de/bestenlisten/testbericht/vzmore-ix9-max-im-test-mini-pc-mit-starker-intel-arc-grafik-aber-luefterbrummen/tbyzkf4?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "Der Mini-PC VZMore IX9 Max punktet mit zweimal USB4, Wifi 7 und zwei 2,5-Gigabit-LAN-Ports. Auch preislich ist er überraschend gut aufgestellt.",
+        "published": "2026-11-27T15:00:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "intel"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Gerucht: Intel Razor Lake-AX krijgt versies met en zonder geïntegreerd ram",
+        "link": "https://tweakers.net/nieuws/254996/gerucht-intel-razor-lake-ax-krijgt-versies-met-en-zonder-geintegreerd-ram.html",
+        "description": "Intel werkt naar verluidt aan twee productseries op basis van de toekomstige Razor Lake-AX-processors. De fabrikant komt volgens de bekende leaker Jaykihn met een versie met geïntegreerd werkgeheugen, naast een versie waarbij het ram gewoon op het moederbord zit.",
+        "published": "2026-11-27T13:18:03.000Z",
+        "source": "Tweakers",
+        "sourceKey": "tweakers",
+        "priority": 2,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "intel"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "AMD and Winbond vulnerabilities let attackers brute-force BitLocker PINs on millions of PCs",
+        "link": "https://www.tomshardware.com/tech-industry/cyber-security/amd-and-winbond-vulnerabilities-let-attackers-brute-force-bitlocker-pins-on-millions-of-pcs-cracking-a-six-digit-pin-drops-from-19-years-to-20-days",
+        "description": "AMD and Winbond vulnerabilities let hacks let malfeasants guess Bitlocker PINs on millions of machines — brute-forcing a six-digit PIN takes 20 days instead of 19 years, at most.",
+        "published": "2026-11-27T12:30:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/9GmGZwJtZ3PNZW253znm59-1920-80.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "amd"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "2027 product launches and beyond on the AppleInsider Podcast",
+        "link": "https://appleinsider.com/articles/26/11/27/2027-product-launches-and-beyond-on-the-appleinsider-podcast?utm_source=rss",
+        "description": "Nvidia is still in turmoil, but Apple's future is bright as it embraces a near-constant product release schedule. Your hosts discuss what's coming next for Apple on the AppleInsider Podcast. Apple HomeView powered by a battery on display in the AppleInsider Podcast Jensen Huang is back as the CEO of Nvidia after the US President intervened with the board's decision. While it's a company completely divorced from Apple, all of these controversies will directly impact Apple. The iPhone 18, iPhone 1",
+        "published": "2026-11-27T12:04:04.000Z",
+        "source": "AppleInsider",
+        "sourceKey": "appleinsider",
+        "priority": 2,
+        "image": "https://media.appleinsider.com/gallery/70020-147599-IMG_5559-xl.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple",
+          "nvidia",
+          "jensen huang",
+          "ceo"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "SAP bleibt Vertragspartner: Databricks-Funktionen wandern in Business Data Cloud",
+        "link": "https://www.heise.de/news/SAP-bleibt-Vertragspartner-Databricks-Funktionen-wandern-in-Business-Data-Cloud-11540369.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "Genie, Lakeflow, Unity Gateway und Lakebase kommen in SAPs Business Data Cloud, eine Kopplung von Genie und Joule ist geplant.",
+        "published": "2026-11-27T10:26:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/9/3/0/7/Gross__Databricks_Worldtour_2026_Munich_-249_-ef69a792e7021d1c.jpeg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "databricks"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "We tested Samsung’s private Galaxy AI cloud on One UI 9.5 beta, and it made AI select smarter",
+        "link": "https://www.androidauthority.com/samsung-spac-galaxy-ai-select-demo-apk-teardown-3740749/",
+        "description": "Running AI select through Samsung SPAC on a Galaxy S26 Ultra produced an accurate calendar entry that didn't need edits.",
+        "published": "2026-11-27T09:02:29.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S24-Ultra-Galaxy-AI-scaled.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "samsung"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Match Act: Niederlande kündigen Widerstand gegen neue US-Sanktionen für ASML an",
+        "link": "https://www.heise.de/news/Match-Act-Niederlande-kuendigen-Widerstand-gegen-neue-US-Sanktionen-fuer-ASML-an-11539961.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "ASML durfte seine leistungsfähigsten Lithografie-Systeme nie nach China verkaufen. Die zugrunde liegenden US-Sanktionen könnten nun ausgeweitet werden.",
+        "published": "2026-11-27T06:54:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/9/1/0/1/shutterstock_2233154229-c9903ef1dba02922.jpeg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "asml"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "AWS adds virtual iPhones to its cloud",
+        "link": "https://www.theregister.com/off-prem/2026/11/27/aws-adds-virtual-iphones-to-its-cloud/5312457",
+        "description": "Emulating Android, too, but offers just two handsets and one tablet",
+        "published": "2026-11-27T05:13:32.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=5312462&width=800",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "aws"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Chip Stocks Look 'Very Attractive,' State Street Says",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-27/chip-stocks-look-very-attractive-state-street-says-video",
+        "description": "Marija Veitmane of State Street says technology industry fundamentals have not weakened as much as the recent market selloff and outflows might suggest, and sees signs that sentiment is \"normalizing.\" Speaking on Bloomberg Television, she says the pullback is an opportunity for bargain hunting, especially in semiconductors. (Source: Bloomberg)",
+        "published": "2026-11-27T11:16:20.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "chip",
+          "semiconductor"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Singapore in Talks With U.S. to Keep AI Chip Access",
+        "link": "https://www.theinformation.com/briefings/singapore-talks-u-s-keep-ai-chip-access",
+        "description": "Singapore is talking to the U.S. about retaining access to advanced semiconductors following tighter export restrictions imposed by Washington, Singapore’s Deputy Prime Minister Gan Kim Yong said at a local event on Friday. The Southeast Asian city-state is reviewing its processes to guard ...",
+        "published": "2026-11-27T10:23:12.000Z",
+        "source": "The Information",
+        "sourceKey": "theinformation",
+        "priority": 1,
+        "image": null,
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "chip",
+          "semiconductor"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "This $619 PowerColor Radeon RX 9070 GRE is the cheapest around this Black Friday",
+        "link": "https://www.tomshardware.com/pc-components/gpus/this-usd619-powercolor-radeon-rx-9070-gre-is-the-cheapest-around-this-black-friday-grab-a-great-1080p-or-1440p-gaming-upgrade-for-a-great-price",
+        "description": "PowerColor's Radeon RX 9070 GRE is just $619 at Amazon this Black Friday — a rare midrange gaming GPU deal in today's tough market.",
+        "published": "2026-11-27T16:41:32.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/TEjDjaSBNGN5SUqtCharqj-1920-80.jpg",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "amazon",
+          "gpu"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Beijing’s AI ambitions are under threat as models may fall behind by up to nine months versus competitors — Chinese AI labs are under heavy fire from export controls, maturing chip stacks and a distillation crackdown",
+        "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/beijings-ai-ambitions-are-under-threat-as-models-may-fall-behind-by-up-to-nine-months-versus-competitors-chinese-ai-labs-are-under-heavy-fire-from-export-controls-maturing-chip-stacks-and-a-distillation-crackdown",
+        "description": "This week, several reports have detailed how closing GPU rental loopholes across Asia may have had an impact on the development of Chinese AI models.",
+        "published": "2026-11-27T15:00:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/72RfazhH7UiPwPYLuGp2yh-1920-80.jpg",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "chip",
+          "ai model",
+          "gpu"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Beyond Lithography: The Battle for Semiconductor Manufacturing Yield",
+        "link": "https://www.eetimes.com/beyond-lithography-the-battle-for-semiconductor-manufacturing-yield/",
+        "description": "The proposed MATCH Act exposes a strategic vulnerability extending beyond ASML to the technologies that determine manufacturing productivity and yield. The post Beyond Lithography: The Battle for Semiconductor Manufacturing Yield appeared first on EE Times.",
+        "published": "2026-11-27T14:22:45.000Z",
+        "source": "EE Times",
+        "sourceKey": "eetimes",
+        "priority": 2,
+        "image": "https://www.eetimes.com/wp-content/uploads/Silicon-wafers_EE-Times-Europe.jpg",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "semiconductor",
+          "asml"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Galaxy Digital files for next phase of development at Helios data center campus in Texas",
+        "link": "https://www.datacenterdynamics.com/en/news/galaxy-digital-files-for-next-phase-of-development-at-helios-data-center-campus-in-texas/",
+        "description": "Company looks to build another building at CoreWeave-leased campus",
+        "published": "2026-11-27T13:40:40.000Z",
+        "source": "DataCenterDynamics",
+        "sourceKey": "dcd",
+        "priority": 2,
+        "image": "https://media.datacenterdynamics.com/media/images/galaxy_digital_helios.2e16d0ba.fill-750x500.png",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "data center",
+          "coreweave"
+        ],
+        "category": "chips_cloud"
+      },
+      {
+        "title": "Netherlands ‘will not be dictated to’, trade chief says in fight against US Match Act",
+        "link": "https://www.scmp.com/economy/global-economy/article/3376024/netherlands-will-not-be-dictated-trade-chief-says-fight-against-us-match-act",
+        "description": "Days after the Dutch foreign minister sent similar messages during his visit to China, the country’s trade minister has vowed that the government would do “everything in its power” to stop the US’ Multilateral Alignment of Technology Controls on Hardware (Match) Act from being adopted, but acknowledged that the Nvidia saga had made the battle more difficult. Addressing the Dutch lower house on Thursday, Trade Minister Sjoerd Sjoerdsma said the cabinet shared the concerns raised by lawmakers...",
+        "published": "2026-11-27T09:00:13.000Z",
+        "source": "SCMP",
+        "sourceKey": "scmp_tech",
+        "priority": 2,
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/27/ecffccc3-37fb-4879-b145-fc13cf684ba1_9752140c.jpg?itok=vYZb7jqr&v=1795766088",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "nvidia",
+          "alignment"
+        ],
+        "category": "chips_cloud"
+      }
+    ],
+    "robotics": [
+      {
+        "title": "Tesla aims to bolster Optimus with newest company acquisition",
+        "link": "https://www.teslarati.com/tesla-bolster-optimus-company-acquisition-emag-germany/",
+        "description": "Tesla is set to make a major acquisition as it plans to buy a more than a century-old German manufacturing systems supplier. The move targets EMAG, a specialist in precision machines used to produce drive systems for humanoid robots, according to a filing with Germany’s antitrust authority that surfaced Friday. Reuters first reported the news. […] The post Tesla aims to bolster Optimus with newest company acquisition appeared first on TESLARATI.",
+        "published": "2026-11-27T16:37:01.000Z",
+        "source": "Teslarati",
+        "sourceKey": "teslarati",
+        "priority": 3,
+        "image": null,
+        "baseScore": 17,
+        "relevanceScore": 17,
+        "matchedKeywords": [
+          "tesla",
+          "acquisition",
+          "optimus",
+          "antitrust",
+          "humanoid robot",
+          "humanoid"
+        ],
+        "category": "robotics"
+      },
+      {
+        "title": "Why Goldman Sachs gives Unitree Robotics a sell rating and sees 48% downside",
+        "link": "https://www.scmp.com/tech/big-tech/article/3376095/why-goldman-sachs-gives-unitree-robotics-sell-rating-and-sees-48-downside",
+        "description": "Goldman Sachs has initiated coverage of Unitree Robotics with a sell rating, warning that the Chinese humanoid robot maker’s valuation may have run ahead of its ability to turn an early hardware lead into lasting industrial adoption and profits. In a report published on Thursday evening, the US investment bank set a 12-month price target of 347.10 yuan (US$52), about 48 per cent below Unitree’s closing share price of 666 yuan on the same day. “While we remain structurally constructive on its...",
+        "published": "2026-11-27T14:15:58.000Z",
+        "source": "SCMP",
+        "sourceKey": "scmp_tech",
+        "priority": 2,
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/27/837897c3-1e13-4b4a-ab90-e47bcfa97b9f_260fb7e6.jpg?itok=s81hJ6kH&v=1795788956",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "humanoid robot",
+          "humanoid",
+          "valuation"
+        ],
+        "category": "robotics"
       }
     ],
     "ai": [
+      {
+        "title": "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork",
+        "link": "https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/",
+        "description": "OpenAI's data agent in ChatGPT Work still isn't accurate enough. Under the codename \"Athena,\" the company is building a semantic layer that gives agents standardized definitions for business metrics. The tool could also put OpenAI in direct competition with Snowflake and Databricks. The article OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork appeared first on The Decoder.",
+        "published": "2026-11-27T16:05:23.000Z",
+        "source": "The Decoder",
+        "sourceKey": "thedecoder",
+        "priority": 2,
+        "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_logo-1.png",
+        "baseScore": 15,
+        "relevanceScore": 15,
+        "matchedKeywords": [
+          "openai",
+          "ai agent",
+          "snowflake",
+          "databricks",
+          "chatgpt"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
+        "link": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html",
+        "description": "AI shopping agents from OpenAI, Meta, Google and Instinct promise to help users shop, but they're hitting roadblocks at Amazon and other retailers.",
+        "published": "2026-11-27T15:27:11.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 14,
+        "relevanceScore": 14,
+        "matchedKeywords": [
+          "amazon",
+          "google",
+          "meta",
+          "openai"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Verbraucherzentrale mahnt OpenAI und Anthropic ab",
+        "link": "https://www.heise.de/news/Verbraucherzentrale-mahnt-OpenAI-und-Anthropic-ab-11540670.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "Die Verbraucherzentrale Niedersachsen wirft OpenAI und Anthropic unzulässige Preisänderungsklauseln und intransparente Tarife vor.",
+        "published": "2026-11-27T12:13:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/9/4/5/8/shutterstock_2745004941-4c811e6f10025700.jpeg",
+        "baseScore": 14,
+        "relevanceScore": 14,
+        "matchedKeywords": [
+          "openai",
+          "anthropic"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Nvidia, AI Fears Jolt Markets: Market Snapshot",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-27/nvidia-ai-fears-jolt-markets-market-snapshot-video",
+        "description": "Nvidia reinstated Jensen Huang as CEO, sending tech stocks soaring. But it wasn't enough to quell jitters in the artificial intelligence trade. Bloomberg's \"The Opening Trade\" spoke to global strategists and tech leaders about whether recent volatility signals a new era for AI investment. (Source: Bloomberg)",
+        "published": "2026-11-27T08:26:29.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 10,
+        "relevanceScore": 10,
+        "matchedKeywords": [
+          "nvidia",
+          "jensen huang",
+          "artificial intelligence",
+          "ceo"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "China’s Tencent makes AI drug discovery breakthrough with Nature paper",
+        "link": "https://www.scmp.com/tech/tech-trends/article/3376082/chinas-tencent-makes-ai-drug-discovery-breakthrough-nature-paper",
+        "description": "Tencent Holdings has published a paper on using artificial intelligence to automate drug discovery in the leading science journal Nature, marking a breakthrough for the Chinese tech giant as it accelerates AI-enabled scientific research. The paper, submitted to the British journal in June 2025 but published on Wednesday, outlines the Shenzhen-based company’s efforts to design novel treatments for obesity, diabetes and cancer with the help of AI. According to the paper, researchers from Tencent’s",
+        "published": "2026-11-27T12:30:08.000Z",
+        "source": "SCMP",
+        "sourceKey": "scmp_tech",
+        "priority": 2,
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/27/f3199eb5-ba49-480e-bcd6-a91e82249dc4_74257071.jpg?itok=2gQgO70y&v=1795780324",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "tencent",
+          "breakthrough",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Google says it has fixed Gemini’s RAM usage error in Chrome",
+        "link": "https://9to5google.com/2026/11/27/google-gemini-chrome-ram-usage-error/",
+        "description": "Google has fixed an issue that caused excessive RAM use by Gemini for Chrome users. more…",
+        "published": "2026-11-27T14:35:00.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/07/gemini-new-logo-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "google",
+          "gemini"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "KI-Update kompakt: Anthropic Siren, AMPEL, Mathe-Beweise, Skizzenbuch",
+        "link": "https://www.heise.de/news/KI-Update-kompakt-Anthropic-Siren-AMPEL-Mathe-Beweise-Skizzenbuch-11538569.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "Das „KI-Update“ liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
+        "published": "2026-11-27T14:11:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/8/4/0/1/heise_Podcasts_KIUpdate_ho_16_9-e43012251deae576.jpeg",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "anthropic"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Activists enter third day of hunger strike outside Anthropic's San Francisco HQ over recursive AI self-improvement",
+        "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/activists-enter-third-day-of-hunger-strike-outside-anthropics-san-francisco-hq-over-recursive-ai-self-improvement-protester-threatens-to-go-40-days-and-target-openai-next",
+        "description": "Anti-RSI activists go into third day of hunger strike at Anthropic offices — acceleration of AI development creates growing concerns",
+        "published": "2026-11-27T10:30:00.000Z",
+        "source": "Tom's Hardware",
+        "sourceKey": "tomshardware",
+        "priority": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/WajiaySxDXQ9zLYDDsZvPg-1920-80.png",
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "anthropic"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Poland Signs $300 Million Palantir Deal to Use AI in Defense",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-27/poland-signs-300-million-palantir-deal-to-use-ai-for-defense",
+        "description": "Poland will use artificial intelligence-based software from Palantir Technologies Inc. to analyze battlefield data, bucking a push by some European allies to reduce their reliance on US technology for critical defense capabilities.",
+        "published": "2026-11-27T12:30:04.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "palantir",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
       {
         "title": "They Pledged to Give Away 10% of Their Income. Now They’re AI Billionaires.",
         "link": "https://www.wsj.com/tech/ai/giving-pledge-anthropic-charity-effective-altruism-fef947b2?mod=rss_Technology",
@@ -246,6 +1051,143 @@
         "relevanceScore": 6,
         "matchedKeywords": [
           "anthropic"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "The Information’s 2026 Gift Guide",
+        "link": "https://www.theinformation.com/articles/informations-2026-gift-guide",
+        "description": "In a twisted version of future Christmases, perhaps AIs will carry out all the tasks involved in gift giving. But lucky for us, Andy Jassy still has all the bots blocked! So here once again is The Information’s annual Gift Guide, a project that we pursue with as much consideration and rigor as our everyday reporting. None of these items come via a publicist’s pitch, and none of the suggestions contain affiliate links. These are all things that we genuinely love and can picture wrapping up oursel",
+        "published": "2026-11-27T14:41:19.000Z",
+        "source": "The Information",
+        "sourceKey": "theinformation",
+        "priority": 1,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "andy jassy"
+        ],
+        "category": "ai",
+        "alsoIn": [
+          {
+            "source": "9to5Mac",
+            "title": "2026 tech gift guide for Apple users",
+            "link": "https://9to5mac.com/2026/11/27/2026-tech-gift-guide-for-apple-users-personally-tested-and-recommended/"
+          }
+        ]
+      },
+      {
+        "title": "AI Data-Center Developer LIAN Picks London for $500 Million IPO",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-27/ai-data-center-developer-lian-picks-london-for-500-million-ipo",
+        "description": "LIAN Group, a developer of infrastructure for artificial intelligence and computing, has chosen London as the venue for a potential initial public offering next year, in what would be a boost to the city’s lackluster market for new listings.",
+        "published": "2026-11-27T11:49:21.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "ipo",
+          "artificial intelligence"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple Pulls MiniMax Chatbot from App Store After Report of Sexualized Content",
+        "link": "https://www.theinformation.com/briefings/apple-pulls-minimax-chatbot-app-store-report-sexualized-content",
+        "description": "Apple has pulled popular chatbot app Talkie, developed by Chinese AI company MiniMax, from its App Store worldwide after a media report alleged the product was using sexualized content to hook young users. MiniMax’s Talkie is an AI companion service that allows users to talk or text with a range ...",
+        "published": "2026-11-27T10:27:17.000Z",
+        "source": "The Information",
+        "sourceKey": "theinformation",
+        "priority": 1,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Google app’s Images tab may get a major redesign with more control over your feed",
+        "link": "https://www.androidauthority.com/google-app-images-tab-collections-ai-mode-apk-teardown-3740851/",
+        "description": "Google is also working on a new AI Mode experience called ‘Ask Anything’ to answer questions about a collection.",
+        "published": "2026-11-27T16:17:13.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2024/05/Google-or-Google-Search-logo-on-smartphone-stock-photo-3.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Google’s AI Mode could soon get a dedicated Library, pinned chats, and thread renaming",
+        "link": "https://www.androidauthority.com/google-ai-mode-library-pin-rename-threads-3740893/",
+        "description": "AI Mode could soon be much easier to navigate.",
+        "published": "2026-11-27T16:04:15.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2025/05/google-ai-mode-vs-google-search-hero-photo-4-scaled.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Rockstar's AI dilemma: Can GTA 6's staggered release model survive coding agents?",
+        "link": "https://the-decoder.com/rockstars-ai-dilemma-can-gta-6s-staggered-release-model-survive-coding-agents/",
+        "description": "More than 40 projects are working to bring a leaked Xbox build of GTA 6 to PC through reverse engineering just days after its $3.79 billion record console launch. AI coding agents like Claude Code are speeding up the process so much that an early unofficial multiplayer mode is already running. Rockstar's delayed PC business model is coming under pressure. The article Rockstar's AI dilemma: Can GTA 6's staggered release model survive coding agents? appeared first on The Decoder.",
+        "published": "2026-11-27T15:37:47.000Z",
+        "source": "The Decoder",
+        "sourceKey": "thedecoder",
+        "priority": 2,
+        "image": "https://the-decoder.com/wp-content/uploads/2026/11/Rockstar-logo-reihe.png",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "claude",
+          "billion"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Apple Black Friday, Siri AI usage limits, more on HomeView",
+        "link": "https://9to5mac.com/2026/11/27/happy-hour-618/",
+        "description": "Happy Thanksgiving! Benjamin and Chance talk about Apple’s typically underwhelming Black Friday shopping event, the apparent return of PRODUCT(RED), and Apple’s confusing ambitions for the future of the HomeView. Also, Apple starts enforcing limits on Siri AI and other Apple Intelligence features, without telling users exactly what those limits are. And in Happy Hour Plus, the duo speculate on what other software enhancements Apple could bring to the iPhone Duo. Subscribe at 9to5mac.com/join, an",
+        "published": "2026-11-27T13:26:05.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Black Friday Shoppers Turn to AI Bots to Find Deals",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-27/black-friday-shoppers-turn-to-ai-bots-to-find-deals-video",
+        "description": "AI-assisted traffic to US retail sites this holiday season will more than double last year’s, according to Adobe, demonstrating consumers are shifting from search engines to digital assistants. Bloomberg Intelligence's Abigail Gilmartin has the details. (Source: Bloomberg)",
+        "published": "2026-11-27T12:12:23.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "adobe"
         ],
         "category": "ai"
       },
@@ -281,9 +1223,510 @@
           "ai agent"
         ],
         "category": "ai"
+      },
+      {
+        "title": ".Geek - Claude kort code met bewijs van Riemann-hypothese met 99 procent in",
+        "link": "https://tweakers.net/geek/255004/claude-kort-code-met-bewijs-van-riemann-hypothese-met-99-procent-in.html",
+        "description": "Claudes bevestiging van de Riemann-hypothese lijkt voorlopig stand te houden. Meerdere onderzoekers hebben bevestigd dat de belangrijke wiskundige doorbraak klopt. Inmiddels is het bewijs van de oplossing ook met meer dan 99 procent ingekort, zodat andere wiskundigen het ook veel makkelijker kunnen begrijpen.",
+        "published": "2026-11-27T13:54:53.000Z",
+        "source": "Tweakers",
+        "sourceKey": "tweakers",
+        "priority": 2,
+        "image": null,
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "claude"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Gemini Live is testing a new Activity tab for all your agentic tasks",
+        "link": "https://www.androidauthority.com/google-gemini-live-tasks-scheduled-compose-box-apk-teardown-3740800/",
+        "description": "Additionally, Gemini Live could get a brand-new text box to type your request.",
+        "published": "2026-11-27T13:18:35.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/Nothing-Phone-1-showing-welcome-screen-of-Gemini-Android-app-2-scaled.jpg",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "gemini"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "Claude sabotaging ML research tasks?",
+        "link": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+        "description": "Article URL: https://twitter.com/RealAstropulse/status/2126119408997466389 Comments URL: https://news.ycombinator.com/item?id=50664325 Points: 237 # Comments: 131",
+        "published": "2026-11-27T08:28:08.000Z",
+        "source": "Hacker News",
+        "sourceKey": "hackernews",
+        "priority": 2,
+        "image": null,
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "claude"
+        ],
+        "category": "ai"
+      },
+      {
+        "title": "TCL CSOT unveils APEX and IJP OLED breakthroughs for the AI era at DTC 2026",
+        "link": "https://www.androidauthority.com/tcl-csot-dtc-2026-3736005/",
+        "description": "TCL CSOT showed off the future of display tech at DTC 2026.",
+        "published": "2026-11-27T07:56:56.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/tcl-csot-featured.jpg",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "breakthrough"
+        ],
+        "category": "ai"
+      }
+    ],
+    "devices": [
+      {
+        "title": "Amazon main event Black Friday sale now live! Apple, Google, Anker, LEGO, TVs, more",
+        "link": "https://9to5toys.com/2026/11/27/amazon-official-black-friday-sale-live-2026/",
+        "description": "The official main event Amazon Black Friday sale is now live! Millions of deals, all-new discounts in the Today’s Big Deals section, and a fresh collection of Doorbusters now up for grabs. The wild discounts on AirPods Pro 3 at an insane $100 off, the crazy M5 MacBook Air deals at $400 off, and MacBook Neo models at $100 off starting at $599 are all still live, alongside the even lower prices on Anker’s popular charging gear from $16, and a whole lot more are now at the ready in the official Ama",
+        "published": "2026-11-27T08:02:08.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Amazon-Black-Friday-Main-Event-2026-now-live.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 12,
+        "relevanceScore": 12,
+        "matchedKeywords": [
+          "google",
+          "apple",
+          "amazon"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "ChatGPT for Android could soon make calls and send texts",
+        "link": "https://www.gsmarena.com/chatgpt_for_android_could_soon_make_calls_and_send_texts-news-75677.php",
+        "description": "You can already set ChatGPT as your default digital assistant on Android, but so far it's been limited to voice conversations and text replies. Today, strings found in version 1.2026.328 of the Android app suggest OpenAI is working on giving it much deeper control over your phone. The leftover permission prompts mention letting ChatGPT look up your contacts, read recent calls, place phone calls when you ask, and read and send text messages. All of this would require you to grant the relevant per",
+        "published": "2026-11-27T15:34:02.000Z",
+        "source": "GSMArena",
+        "sourceKey": "gsmarena",
+        "priority": 3,
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/chatgpt-android-more-control/-184x111/gsmarena_000.jpg",
+        "baseScore": 8,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "chatgpt",
+          "openai"
+        ],
+        "category": "devices",
+        "alsoIn": [
+          {
+            "source": "Android Authority",
+            "title": "ChatGPT is eyeing Gemini’s job on Android, with ability to make calls, send texts, and more",
+            "link": "https://www.androidauthority.com/chatgpt-android-call-text-view-screen-3740765/"
+          }
+        ]
+      },
+      {
+        "title": "US smartphone shipments fell 9% YoY in Q3 as memory costs hit Android OEMs, especially at the low end; Apple's share rose from 50% to 57%, Samsung held at 25%",
+        "link": "https://www.techmeme.com/261127/p1#a261127p1",
+        "description": "US smartphone shipments fell 9% YoY in Q3 as memory costs hit Android OEMs, especially at the low end; Apple's share rose from 50% to 57%, Samsung held at 25% — - US smartphone shipments fell 9% YoY in Q3 as rising memory costs weighed on Android OEMs, especially at the low end.",
+        "published": "2026-11-27T05:45:01.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/img/pml.png",
+        "via": "Counterpoint Research",
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "apple",
+          "samsung"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Samsung’s LTE Galaxy Watch 8 hits a record low of $249.99",
+        "link": "https://www.androidauthority.com/galaxy-watch-8-lte-deal-black-friday-3740623/",
+        "description": "The 40mm LTE Galaxy Watch 8 is $100 off on Amazon, letting you take calls and stream without your phone nearby.",
+        "published": "2026-11-27T14:48:52.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/samsung-galaxy-watch-8-third-party-watch-face-roundup-4-scaled.jpg",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "samsung",
+          "amazon"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Apple launches Black Friday Shopping Event: Here’s how much you can save",
+        "link": "https://9to5mac.com/2026/11/27/apple-black-friday-shopping-event-deals/",
+        "description": "Apple has officially kicked off its Black Friday Shopping Event in the United States and other countries. You can score an Apple gift card of up to $300 with an eligible product. Apple’s offer comes as Black Friday deals at Amazon continue, with more lucrative cash savings than Apple’s gift card offer. You can score $100 off AirPods Pro 3, $100 off MacBook Neo, up to $400 off MacBook Air, and much more. Here are a few highlights, thanks to our friends over at 9to5Toys. AirPods Pro 3 $149 (Reg. $",
+        "published": "2026-11-27T08:10:50.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-gifts.webp?w=1500",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "apple",
+          "amazon"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "WhatsApp announces the Travel eSIM feature",
+        "link": "https://www.gsmarena.com/whatsapp_travel_esim_feature-news-75665.php",
+        "description": "We recently learned that WhatsApp was testing a new feature called \"Travel eSIM,\" and the Meta-owned company has now officially announced it. WhatsApp says it's \"a new way to buy and install a data e-SIM when traveling internationally in just a few taps without leaving the app,\" and that the entire process will be \"as effortless as sending a message.\" When you land at a new destination, it will let you keep using WhatsApp on your same phone number as usual, without connecting to local Wi-Fi or b",
+        "published": "2026-11-27T07:51:02.000Z",
+        "source": "GSMArena",
+        "sourceKey": "gsmarena",
+        "priority": 3,
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/whatsapp-travel-esim/-184x111/gsmarena_001.jpg",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "whatsapp",
+          "meta"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Google Pixel prepares new ‘Priority Notifications’ feature – here’s what it will do",
+        "link": "https://9to5google.com/2026/11/27/google-pixel-prepares-new-priority-notifications-feature-heres-what-it-will-do/",
+        "description": "Google has a new “Priority Notifications” feature in the works for Pixel phones with the ability to pull your most important information to the top of the screen and even highlight it with a bit of color. more…",
+        "published": "2026-11-27T16:30:00.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Pixel-11-Pro-Canyon-11.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Samsung is holding back these 30+ Galaxy AI features for the Galaxy S27",
+        "link": "https://www.androidauthority.com/samsung-galaxy-s27-galaxy-ai-features-20271-one-ui-9-5-apk-teardown-3740860/",
+        "description": "One UI 9.5 beta code ties about three dozen features to a Galaxy AI version the Galaxy S26 doesn't have.",
+        "published": "2026-11-27T16:26:00.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/S26-in-hand-showing-One-UI-9.5-welcome-screen-scaled.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "samsung"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Apple’s new ‘HomeView’ is exactly the home product I’ve been waiting for",
+        "link": "https://9to5mac.com/2026/11/27/apples-new-homeview-is-exactly-the-home-product-ive-been-waiting-for/",
+        "description": "Apple has launched several exciting new products in the last month, including iPhone Duo and the redesigned MacBook Pro. But my personal favorite new product is Apple’s HomeView. Here’s how I’ve been using it. more…",
+        "published": "2026-11-27T16:14:17.000Z",
+        "source": "9to5Mac",
+        "sourceKey": "9to5mac",
+        "priority": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-facetime.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "GTA VI Now (Barely) Running on Apple Silicon Macs",
+        "link": "https://www.macrumors.com/2026/11/27/gta-vi-on-apple-silicon-macs/",
+        "description": "\"Grand Theft Auto VI\" can theoretically now run on Apple silicon Macs via unofficial community projects, despite Rockstar Games offering no official Mac version. Developers have adapted the Xbox Series version of the game to work on macOS unofficially, with some reporting that they can explore scenes and control the camera. Unfortunately, the projects remain experimental and performance is too slow for normal play. Mac owners can already play GTA VI through Remote Play from a compatible console.",
+        "published": "2026-11-27T15:46:16.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/11/grand-theft-auto-iv-scaled.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Apple TV's 'Carême' Wins International Emmy for Best Drama",
+        "link": "https://www.macrumors.com/2026/11/27/careme-wins-emmy/",
+        "description": "Apple TV's French-language drama \"Carême\" won the Drama Series award at the 54th International Emmy Awards earlier this week, marking Apple's second win in the category following \"Drops of God\" in 2024. The series follows a chef whose culinary ambitions draw him into espionage in Napoleon's France. The first season is available to stream on Apple TV. A second season is currently in production. Related Roundup: Apple TV Tag: Apple TV Shows Buyer's Guide: Apple TV (Buy Now) Related Forum: Apple TV",
+        "published": "2026-11-27T14:30:59.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/11/careme.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "iPhone 18 Production Delay Leaves Apple Little Time Before Launch",
+        "link": "https://www.macrumors.com/2026/11/27/iphone-18-production-delay/",
+        "description": "Apple's upcoming iPhone 18 and iPhone 18e models are reportedly suffering from another production delay. In a new post on Weibo, the leaker known as \"Fixed Focus Digital\" claimed that neither model has entered mass production, with the start pushed back from late October to around New Year's Day in 2027. pointed to late November as the production target for the standard ‌iPhone 18‌ and suggested Apple was preparing to build a large inventory. The latest claim cites a different earlier deadline,",
+        "published": "2026-11-27T13:48:42.000Z",
+        "source": "MacRumors",
+        "sourceKey": "macrumors",
+        "priority": 2,
+        "image": "https://images.macrumors.com/article-new/2026/03/Apple-iPhone-17e-feature.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Samsung is building a Siri-style Vision mode for its Camera app, along with Auto portrait",
+        "link": "https://www.androidauthority.com/samsung-one-ui-9-5-camera-vision-mode-auto-portrait-apk-teardown-3740793/",
+        "description": "Both features are likely bound for the Galaxy S27 series.",
+        "published": "2026-11-27T12:53:55.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Galaxy-S26-Ultra-cameras-scaled.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "samsung"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Schwindel und Übelkeit: Einige Nutzer haben mit Apples OLED-MacBook ein Problem",
+        "link": "https://www.heise.de/news/Schwindel-und-Uebelkeit-Einige-Nutzer-haben-mit-Apples-OLED-MacBook-ein-Problem-11539819.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "Es gibt Menschen, die reagieren auf die Pulsweitenmodulation von OLEDs sensibel. Auch einige Käufer von Apples neuen Notebooks sollen betroffen sein.",
+        "published": "2026-11-27T11:13:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/9/0/3/0/aufmacher-1795726963789-fef10f5644c4994c.png",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "iPhone Duo: Diese neuen Features plant Apple angeblich für Generation 2",
+        "link": "https://www.heise.de/news/iPhone-Duo-Diese-neuen-Features-plant-Apple-angeblich-fuer-Generation-2-11539839.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "Trotz des hohen Preises gilt das iPhone Duo als technischer Kompromiss. Apple soll aber bereits an Verbesserungen für das nächste Modell arbeiten.",
+        "published": "2026-11-27T10:57:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/9/0/4/0/sstk-4215453729-bangkok-thailand-23-oktober-2026-mehrere-neue-ap-55b62d6b7199a1ff.jpeg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "macOS auf dem iPad: Bei Apple läuft es intern schon",
+        "link": "https://www.heise.de/news/macOS-auf-dem-iPad-Bei-Apple-laeuft-es-intern-schon-11539647.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "Technisch dürfte es ein kleines Problem sein, auf iPads ein echtes macOS auszuführen. Einem Bericht zufolge experimentiert Apple damit.",
+        "published": "2026-11-27T09:59:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/8/9/4/3/shutterstock_2547952905_ausschnitt-2af415f335f9aa1e.jpeg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Samsung (accidentally) sold the Galaxy S26 Ultra for just $125 in Japan",
+        "link": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-amazon-japan-deal-3740755/",
+        "description": "How does a 92% discount on a Galaxy S26 Ultra sound?",
+        "published": "2026-11-27T09:52:21.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-Galaxy-S26-Ultras-design-and-camera-module.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "samsung"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Google will soon share Android developers' addresses publicly",
+        "link": "https://www.engadget.com/2329389/google-will-soon-share-android-developers-addresses-publicly/",
+        "description": "Google is getting flak for its decision to publish Android developers' identifying information around the world to comply with European laws.",
+        "published": "2026-11-27T09:38:33.000Z",
+        "source": "Engadget",
+        "sourceKey": "engadget",
+        "priority": 2,
+        "image": "https://www.engadget.com/img/gallery/google-will-soon-share-android-developers-addresses-publicly/l-intro-1795772169.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Morphe v2.4.0 beats Google to bringing YouTube videos to your Android Auto screen",
+        "link": "https://www.androidauthority.com/youtube-video-android-auto-morphe-3740722/",
+        "description": "It only shows up when your vehicle is parked.",
+        "published": "2026-11-27T08:50:50.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/01/Morphe-app-for-YouTube-on-phone-scaled.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Samsung phones can soon nudge you when you miss your usual charging window",
+        "link": "https://www.androidauthority.com/samsung-missed-charging-window-3740683/",
+        "description": "This charging reminder feature could even refer to your calendar entries for more personalized alerts.",
+        "published": "2026-11-27T08:11:50.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2022/09/samsung-galaxy-s22-ultra-charging.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "samsung"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Android just had one of its worst quarters, and Apple is benefiting",
+        "link": "https://www.androidauthority.com/android-global-sales-share-q3-2026-counterpoint-3740661/",
+        "description": "Android just recorded its lowest-ever share for a third quarter, with Apple's iOS bucking the trend.",
+        "published": "2026-11-27T03:41:19.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/iphone-17-pro-max-pixel-11-pro-xl-scaled.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Samsung Galaxy A38 runs Geekbench, confirms its chipset",
+        "link": "https://www.gsmarena.com/samsung_galaxy_a38_runs_geekbench_confirms_its_chipset-news-75662.php",
+        "description": "Samsung launched the Galaxy A37 in March and released it in April, so the company is now almost wrapping up the development of its successor, the A38, for a plausible early 2027 launch. The device has now been spotted in the Geekbench online database with the model number SM-A386B. This is the global model, and it's powered by the MediaTek Dimensity 7500 SoC, which in the specific prototype which ran the benchmark was paired with 6GB of RAM. The phone will unsurprisingly run Android 17 when it l",
+        "published": "2026-11-27T03:31:02.000Z",
+        "source": "GSMArena",
+        "sourceKey": "gsmarena",
+        "priority": 3,
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/samsung-galaxy-a38-geekbench/-184x111/gsmarena_000.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "samsung"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Android app developers will have to publicly post address, phone number in 2027",
+        "link": "https://9to5google.com/2026/11/27/android-app-developers-will-have-to-publicly-post-address-phone-number-in-2027/",
+        "description": "Following new regulations, Google Play will require Android app developers to publicly post a business address starting in 2027 and, while there are workarounds, it’s not going to be the easiest thing. more…",
+        "published": "2026-11-27T15:35:00.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/android-figures-mwc-2026-14.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "google",
+          "regulation"
+        ],
+        "category": "devices"
+      },
+      {
+        "title": "Gemini ran my errands on the Pixel 10 like I was in a sci-fi movie",
+        "link": "https://www.androidauthority.com/gemini-screen-automation-pixel-10-test-3740565/",
+        "description": "Want to spend your time watching Gemini use your phone?",
+        "published": "2026-11-27T11:30:20.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/The-Gemini-app-on-a-smartphone-screen-scaled.jpg",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "gemini"
+        ],
+        "category": "devices"
       }
     ],
     "business": [
+      {
+        "title": "Top 10 things to watch in the stock market on Black Friday",
+        "link": "https://www.cnbc.com/investingclub/2026/11/27/top-10-things-to-watch-in-the-stock-market-on-black-friday.html",
+        "description": "Stocks are on pace for a record Black Friday as Anthropic tries to regain its IPO price.",
+        "published": "2026-11-27T15:08:31.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_top",
+        "priority": 1,
+        "image": null,
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "anthropic",
+          "ipo"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "Meituan logs second straight quarterly profit as it fends off Alibaba, JD in instant retail",
+        "link": "https://www.scmp.com/tech/big-tech/article/3376041/meituan-logs-second-straight-quarterly-profit-it-fends-alibaba-jd-instant-retail",
+        "description": "Chinese food-delivery giant Meituan reported a second consecutive profitable quarter on Friday, as the company navigates intensifying competition from Alibaba Group Holding and JD.com while seeking to sustain its earnings recovery. The Beijing-based firm’s adjusted net profit for the three months ended September came in at 1.9 billion yuan (US$285.1 million), slightly missing analysts’ expectations of 2.2 billion yuan, marking a second straight quarterly profit after the company returned to the.",
+        "published": "2026-11-27T09:18:29.000Z",
+        "source": "SCMP",
+        "sourceKey": "scmp_tech",
+        "priority": 2,
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/27/c4a80a6e-a528-41b8-a0f0-bada993ba2d2_cc6c2579.jpg?itok=ZoErWMj9&v=1795770604",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "alibaba",
+          "earnings",
+          "billion"
+        ],
+        "category": "business"
+      },
       {
         "title": "Nifty’s Sharp November Rally Gives India’s IPO Hopefuls a Tailwind",
         "link": "https://www.bloomberg.com/news/newsletters/2026-11-27/nifty-s-sharp-november-rally-gives-india-s-ipo-hopefuls-a-tailwind",
@@ -298,6 +1741,22 @@
         "matchedKeywords": [
           "ipo",
           "billion"
+        ],
+        "category": "business"
+      },
+      {
+        "title": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
+        "link": "https://www.cnbc.com/2026/11/27/tech-download-jensen-huang-ai-market.html",
+        "description": "AI stocks have fallen in recent times as investors question the sustainability of the AI boom.",
+        "published": "2026-11-27T12:00:22.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "jensen huang"
         ],
         "category": "business"
       },
@@ -333,42 +1792,511 @@
           "earnings"
         ],
         "category": "business"
+      },
+      {
+        "title": "Why did an AI chip frenzy send a Chinese blender maker’s stock soaring 370%?",
+        "link": "https://www.scmp.com/tech/tech-trends/article/3376026/why-did-ai-chip-frenzy-send-chinese-blender-makers-stock-soaring-390",
+        "description": "China’s artificial intelligence boom has sent retail investors scrambling for exposure to graphics processing units (GPUs) – even if it means settling for “grain processing units” instead. Shares of Joyoung, a Chinese home appliance maker best known for its soy milk makers, surged to an all-time high of 45.54 yuan during Friday trading, extending a five-day winning streak. The Shenzhen-listed stock later gave back some of the gains to close 0.6 per cent higher at 42.15 yuan. The rally caps an...",
+        "published": "2026-11-27T08:01:50.000Z",
+        "source": "SCMP",
+        "sourceKey": "scmp_tech",
+        "priority": 2,
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/27/6bb8d5cc-66e4-4949-87c6-5f329e92b00e_e6d9cd00.jpg?itok=VGFnZNY6&v=1795767271",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "chip",
+          "artificial intelligence",
+          "gpu"
+        ],
+        "category": "business"
       }
     ],
-    "devices": [
+    "ev_autonomous": [
       {
-        "title": "Android just had one of its worst quarters, and Apple is benefiting",
-        "link": "https://www.androidauthority.com/android-global-sales-share-q3-2026-counterpoint-3740661/",
-        "description": "Android just recorded its lowest-ever share for a third quarter, with Apple's iOS bucking the trend.",
-        "published": "2026-11-27T03:41:19.000Z",
-        "source": "Android Authority",
-        "sourceKey": "androidauthority",
+        "title": "SpaceX installs $250m worth of Tesla Megapack batteries at Starbase data center site in Texas - report",
+        "link": "https://www.datacenterdynamics.com/en/news/spacex-installs-250m-worth-of-tesla-megapack-batteries-at-starbase-data-center-site-in-texas-report/",
+        "description": "Company seeking to develop up to $24bn data center and natural gas power plant at the site",
+        "published": "2026-11-27T14:00:38.000Z",
+        "source": "DataCenterDynamics",
+        "sourceKey": "dcd",
         "priority": 2,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/iphone-17-pro-max-pixel-11-pro-xl-scaled.jpg",
+        "image": "https://media.datacenterdynamics.com/media/images/Megapack-Building-a-Sustainable-V1.2e16d0ba.fill-750x500.png",
+        "baseScore": 9,
+        "relevanceScore": 9,
+        "matchedKeywords": [
+          "tesla",
+          "spacex",
+          "data center"
+        ],
+        "category": "ev_autonomous"
+      },
+      {
+        "title": "Rivian's Winter Sale Is Live: Save on Chargers, Accessories, And More",
+        "link": "https://insideevs.com/news/816974/rivian-winter-sale-2026-discounts-chargers-accessories-apparel/",
+        "description": "The startup’s home chargers are $120 off, while the external travel kitchen can be had for $210 less than usual.",
+        "published": "2026-11-27T08:37:25.000Z",
+        "source": "InsideEVs",
+        "sourceKey": "insideevs",
+        "priority": 2,
+        "image": "https://cdn.motor1.com/images/mgl/G3Qm48/s3/rivian-r2-charging.jpg",
         "baseScore": 4,
         "relevanceScore": 4,
         "matchedKeywords": [
-          "apple"
+          "rivian"
         ],
-        "category": "devices"
+        "category": "ev_autonomous"
+      }
+    ],
+    "space": [
+      {
+        "title": "SpaceX shares jump 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
+        "link": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+        "description": "SpaceX shares jumped in premarket trading after Elon Musk said on X that he would donate shares to American children every year.",
+        "published": "2026-11-27T10:20:39.000Z",
+        "source": "CNBC",
+        "sourceKey": "cnbc_tech",
+        "priority": 1,
+        "image": null,
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "spacex",
+          "elon musk"
+        ],
+        "category": "space"
       },
       {
-        "title": "Samsung Galaxy A38 runs Geekbench, confirms its chipset",
-        "link": "https://www.gsmarena.com/samsung_galaxy_a38_runs_geekbench_confirms_its_chipset-news-75662.php",
-        "description": "Samsung launched the Galaxy A37 in March and released it in April, so the company is now almost wrapping up the development of its successor, the A38, for a plausible early 2027 launch. The device has now been spotted in the Geekbench online database with the model number SM-A386B. This is the global model, and it's powered by the MediaTek Dimensity 7500 SoC, which in the specific prototype which ran the benchmark was paired with 6GB of RAM. The phone will unsurprisingly run Android 17 when it l",
-        "published": "2026-11-27T03:31:02.000Z",
-        "source": "GSMArena",
-        "sourceKey": "gsmarena",
+        "title": "Elon Musk will give every American kid a SpaceX share every year",
+        "link": "https://www.teslarati.com/elon-musk-gift-spacex-share-kid/",
+        "description": "Elon Musk's SpaceX stock giveaway to American kids just became something that repeats every year. The post Elon Musk will give every American kid a SpaceX share every year appeared first on TESLARATI.",
+        "published": "2026-11-27T08:58:23.000Z",
+        "source": "Teslarati",
+        "sourceKey": "teslarati",
         "priority": 3,
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/samsung-galaxy-a38-geekbench/-184x111/gsmarena_000.jpg",
+        "image": null,
+        "baseScore": 7,
+        "relevanceScore": 7,
+        "matchedKeywords": [
+          "spacex",
+          "elon musk"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "FCC approves SpaceX application to deploy one million satellites for data centers in space",
+        "link": "https://www.datacenterdynamics.com/en/news/fcc-approves-spacex-application-to-deploy-one-million-satellites-for-data-centers-in-space/",
+        "description": "Regulator gives green light for massive constellation",
+        "published": "2026-11-27T13:00:53.000Z",
+        "source": "DataCenterDynamics",
+        "sourceKey": "dcd",
+        "priority": 2,
+        "image": "https://media.datacenterdynamics.com/media/images/AI1_satellite.573d4e54.fill-750x500.png",
+        "baseScore": 6,
+        "relevanceScore": 6,
+        "matchedKeywords": [
+          "spacex",
+          "data center",
+          "satellite"
+        ],
+        "category": "space"
+      },
+      {
+        "title": "Anterix Could Be SpaceX’s Next Deal for Mobile Network Access",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-27/anterix-could-be-spacex-s-next-deal-for-mobile-network-access",
+        "description": "In SpaceX’s insatiable hunt for wireless spectrum as it marches toward becoming a full-fledged mobile service provider, there’s a likely motherlode in its sights: Anterix Inc.",
+        "published": "2026-11-27T15:58:46.000Z",
+        "source": "Bloomberg",
+        "sourceKey": "bloomberg_markets",
+        "priority": 1,
+        "image": null,
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "spacex"
+        ],
+        "category": "space"
+      }
+    ],
+    "other": [
+      {
+        "title": "Google Docs can now do more with Microsoft Word documents without converting the file",
+        "link": "https://9to5google.com/2026/11/27/google-docs-microsoft-word-compare-documents/",
+        "description": "Google Docs is getting an update in how it handles Microsoft Word documents, adding the ability to compare revisions without converting the file. more…",
+        "published": "2026-11-27T15:55:00.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/google-docs-3.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "google",
+          "microsoft"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "The CMA says Meta made changes to Muse's ToS in the UK to reflect the country's consumer law; the terms give users far more protections than in the US",
+        "link": "https://www.techmeme.com/261127/p8#a261127p8",
+        "description": "The CMA says Meta made changes to Muse's ToS in the UK to reflect the country's consumer law; the terms give users far more protections than in the US — The U.K. terms of service for Muse give consumers far more protection than in the U.S. — LONDON — Meta will be on the hook …",
+        "published": "2026-11-27T15:25:00.000Z",
+        "source": "Techmeme",
+        "sourceKey": "techmeme",
+        "priority": 1,
+        "image": "http://www.techmeme.com/261127/i8.jpg",
+        "via": "Politico",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "meta"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Instagram for TV Comes to India, Introducing New Ways to Watch Reels Together",
+        "link": "https://about.fb.com/news/2026/11/instagram-for-tv-comes-to-india-introducing-new-ways-to-watch-reels-together/",
+        "description": "Instagram for TV will soon be available in India, bringing content from your favorite creators to the big screen in your home so you can enjoy watching them with friends. The post Instagram for TV Comes to India, Introducing New Ways to Watch Reels Together appeared first on Meta Newsroom.",
+        "published": "2026-11-27T12:33:00.000Z",
+        "source": "Meta Newsroom",
+        "sourceKey": "meta_news",
+        "priority": 1,
+        "image": "https://about.fb.com/wp-content/uploads/2026/11/Horizontal-Video.png?fit=1920%2C1080",
+        "baseScore": 5,
+        "relevanceScore": 5,
+        "matchedKeywords": [
+          "meta",
+          "instagram"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Samsung Display rettet Ams-Osrams Mikro-LED-Werk",
+        "link": "https://www.heise.de/news/Samsung-Display-rettet-Ams-Osrams-Mikro-LED-Werk-11541296.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "Samsung wagt einen neuen Anlauf bei Bildschirmen mit Mikro-LEDs. Zusammen mit Ams-Osram aus Österreich sollen die Kosten sinken.",
+        "published": "2026-11-27T16:28:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/9/7/7/6/R95H_FRONT.jpg-5ffe3f34b81e88c9.jpeg",
         "baseScore": 4,
         "relevanceScore": 4,
         "matchedKeywords": [
           "samsung"
         ],
-        "category": "devices"
+        "category": "other"
+      },
+      {
+        "title": "WhatsApp is adding travel eSIMs",
+        "link": "https://9to5google.com/2026/11/27/whatsapp-is-adding-travel-esims/",
+        "description": "WhatsApp is adding support for eSIMs in its app, designed for keeping you connected while traveling, though details are not fully clear. more…",
+        "published": "2026-11-27T14:45:00.000Z",
+        "source": "9to5Google",
+        "sourceKey": "9to5google",
+        "priority": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/WhatsApp-logo-1.jpg?quality=82&#038;strip=all&#038;w=1600",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "whatsapp"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "PSA: Amazon’s 2026 Kindle back panels are popping off when owners remove their cases",
+        "link": "https://www.androidauthority.com/amazon-kindle-2026-back-panel-issue-3740856/",
+        "description": "Taking off a protective case shouldn't double as a teardown.",
+        "published": "2026-11-27T14:36:26.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/kindle-remote-click.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "amazon"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Shokz OpenFit 2 Plus open-ear earbuds are half off on Amazon",
+        "link": "https://www.androidauthority.com/shokz-openfit-2-plus-deal-3740882/",
+        "description": "Shokz's open-ear earbuds with Dolby Audio and wireless charging are 50% off, matching their lowest price.",
+        "published": "2026-11-27T14:28:44.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/Shokz-OpenFit-2-Plus-Lifestyle-Featured.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "amazon"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Bill for Birmingham's Oracle debacle reaches £128M",
+        "link": "https://www.theregister.com/public-sector/2026/11/27/bill-for-birminghams-oracle-debacle-reaches-128m/5312563",
+        "description": "True cost may be much higher for delayed SAP replacement that helped bankrupt the city",
+        "published": "2026-11-27T14:03:00.000Z",
+        "source": "The Register",
+        "sourceKey": "theregister",
+        "priority": 2,
+        "image": "https://image.theregister.com/?imageId=226632&width=800",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "oracle"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "GrapheneOS: Proof of Concept für RCS-Messenger ohne Google Messages",
+        "link": "https://www.heise.de/news/Proof-of-Concept-GrapheneOS-zeigt-RCS-Messenger-ohne-Google-Messages-11540974.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "GrapheneOS arbeitet an einer RCS-Messenger-App ohne Google-Dienste. Nun hat das Team einen Proof of Concept gezeigt.",
+        "published": "2026-11-27T13:39:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/9/6/1/2/grapheneOS_pixel-41ff8bb4d4d644cf-dad9903e5bf5558a.png",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Watch our Black Friday livestream for a chance to WIN a $250 Amazon gift card!",
+        "link": "https://www.androidauthority.com/black-friday-livestream-amazon-gift-card-giveaway-2026-3740849/",
+        "description": "Tune in to our Black Friday livestream on YouTube today and you could win a $250 Amazon gift card.",
+        "published": "2026-11-27T13:23:05.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2021/11/Android-Authority-Best-Black-Friday-Deals-Green-Image.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "amazon"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Google Health won’t let users manually add rests between workout sets",
+        "link": "https://www.androidauthority.com/google-health-custom-workout-rest-intervals-issues-3740812/",
+        "description": "The Health Coach can do something the manual workout builder can't.",
+        "published": "2026-11-27T13:13:27.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/fitbit-edge-review-google-health-app-scaled.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Amazon’s eero 7 Wi-Fi 7 mesh router drops to $139.99",
+        "link": "https://www.androidauthority.com/eero-7-router-deal-3740622/",
+        "description": "The eero 7 dual-band Wi-Fi 7 router is $30 off for Black Friday, close to its lowest price ever.",
+        "published": "2026-11-27T12:53:15.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2022/07/Amazon-Eero-Mesh-Wi-Fi-System-stock-photo-5.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "amazon"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "First look: Google Play Store’s new ‘Today’ feed could pull content from your favorite apps",
+        "link": "https://www.androidauthority.com/google-play-store-today-feed-collections-apk-teardown-3740786/",
+        "description": "It could make Collections even more useful.",
+        "published": "2026-11-27T11:37:41.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2023/09/Google-Play-Store-app-next-to-other-Google-Apps-stock-photo.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Wegen problematischer Siri-Werbung: Apple-Ärger auch in Südkorea",
+        "link": "https://www.heise.de/news/Wegen-problematischer-Siri-Werbung-Apple-Aerger-auch-in-Suedkorea-11539787.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "In den USA soll Apple bereits einen größeren Millionenbetrag nach einer Sammelklage zahlen. Nun knüpfen sich südkoreanische Marktschützer die Siri-Reklame vor.",
+        "published": "2026-11-27T10:49:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/9/0/1/4/aufmacher-1795724456358-66e7529eae3f5937.png",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "apple"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "WhatsApp gaat e-simabonnementen vanuit de app aanbieden",
+        "link": "https://tweakers.net/nieuws/254992/whatsapp-gaat-e-simabonnementen-vanuit-de-app-aanbieden.html",
+        "description": "WhatsApp werkt aan de mogelijkheid om e-simabonnementen direct vanuit de app te kopen. Het bedrijf werkt daarvoor samen met verschillende providers. WhatsApp startte onlangs een test en wil de functie definitief uitbrengen in 'bepaalde landen'.",
+        "published": "2026-11-27T10:13:43.000Z",
+        "source": "Tweakers",
+        "sourceKey": "tweakers",
+        "priority": 2,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "whatsapp"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Waals Gewest legt bouw van Google-datacenter stil na verlopen vergunning",
+        "link": "https://tweakers.net/nieuws/254990/waals-gewest-legt-bouw-van-google-datacenter-stil-na-verlopen-vergunning.html",
+        "description": "Het Waals Gewest heeft de bouw van een datacenter van Google stilgelegd. Google heeft niet meer de juiste vergunning voor die bouw, maar lijkt er wel mee door te gaan. Greenpeace startte eerder deze week al een gerechtelijke procedure om de bouw stil te leggen.",
+        "published": "2026-11-27T09:33:16.000Z",
+        "source": "Tweakers",
+        "sourceKey": "tweakers",
+        "priority": 2,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "google"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Microsoft schickt Telnet und MTP über Bluetooth aufs Abstellgleis",
+        "link": "https://www.heise.de/news/Microsoft-schickt-Telnet-und-MTP-ueber-Bluetooth-aufs-Abstellgleis-11540069.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "description": "Microsoft erklärt Windows-Funktionen für veraltet: Media Transfer Protocol (MTP) über Bluetooth und Telnet müssen dran glauben.",
+        "published": "2026-11-27T08:54:00.000Z",
+        "source": "heise online",
+        "sourceKey": "heise",
+        "priority": 2,
+        "image": "https://www.heise.de/scale/geometry/450/q80//imgs/18/5/2/0/9/1/5/5/Windows11-7e0d89f9f0b20be0.jpeg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "microsoft"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Achtergrond - Hoe de VS kan zorgen dat OPPO en Xiaomi geen telefoonchips meer krijgen",
+        "link": "https://tweakers.net/reviews/15672/hoe-de-vs-kan-zorgen-dat-oppo-en-xiaomi-geen-telefoonchips-meer-krijgen.html",
+        "description": "De VS heeft de exportrestricties strenger gemaakt en daardoor komen OPPO en Xiaomi mogelijk in de knel.",
+        "published": "2026-11-27T08:00:00.000Z",
+        "source": "Tweakers",
+        "sourceKey": "tweakers",
+        "priority": 2,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "xiaomi"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Microsoft repareert met nieuwe hotpatch crashbug uit eigen eerdere hotpatch",
+        "link": "https://tweakers.net/nieuws/254988/microsoft-repareert-met-nieuwe-hotpatch-crashbug-uit-eigen-eerdere-hotpatch.html",
+        "description": "Microsoft heeft een update uitgebracht voor Windows Server 2025 die voorkomt dat servers crashen als een tijdelijke IPv6-route verloopt. Opvallend is dat het om een out-of-bandupdate, ofwel een hotpatch, gaat voor een fout die door een eerdere hotpatch in Windows Server is ontstaan.",
+        "published": "2026-11-27T07:29:23.000Z",
+        "source": "Tweakers",
+        "sourceKey": "tweakers",
+        "priority": 2,
+        "image": null,
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "microsoft"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "Samsung Messages could soon find, send, and forward texts for you",
+        "link": "https://www.androidauthority.com/samsung-messages-hands-free-texting-update-3740679/",
+        "description": "The app's development is far from over.",
+        "published": "2026-11-27T05:45:34.000Z",
+        "source": "Android Authority",
+        "sourceKey": "androidauthority",
+        "priority": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/samsung-messages-app-logo-2026-1-scaled.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "samsung"
+        ],
+        "category": "other"
+      },
+      {
+        "title": "You can grab a 12-pack of Zepath’s rechargeable AA batteries for just $24",
+        "link": "https://www.theverge.com/gadgets/1043272/zepath-rechargeable-aa-batteries-black-friday-2026-deal-sale",
+        "description": "It’s time to say goodbye to your multi-headed USB-C cable. | Photo: Sean Hollister / The Verge If you’re picking up any gifts that require AA batteries, it’s not a bad idea to buy a set you can keep using long after the holidays. Thankfully, you can currently get a 12-pack of Zepath’s rechargeable 3,000mWh AAs on Amazon with a charger for $23.99 ($8 off) for Black Friday, which is a new low. If you don’t need as many, Amazon is also selling an eight-pack under a different name for just $15.99 ($",
+        "published": "2026-11-27T15:30:00.000Z",
+        "source": "The Verge",
+        "sourceKey": "theverge",
+        "priority": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/usb-aa-sean-hollister-verge-331A1632.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "baseScore": 3,
+        "relevanceScore": 3,
+        "matchedKeywords": [
+          "amazon"
+        ],
+        "category": "other"
+      }
+    ],
+    "regulation": [
+      {
+        "title": "Apple faces another App Store antitrust fight, this time in Chile",
+        "link": "https://appleinsider.com/articles/26/11/27/apple-faces-another-app-store-antitrust-fight-this-time-in-chile?utm_source=rss",
+        "description": "Apple is facing renewed pressure to open its iOS ecosystem as Chile pushes for alternative app stores and payment systems. Chile seeks $80 million fine over Apple's iOS restrictions On Friday, Chile's competition regulator asked the country's antitrust court to fine Apple approximately $80 million over alleged anticompetitive practices. The regulator also seeks corrective measures addressing Apple's restrictions on app distribution and in-app payments on iOS. Reuters reports Chile's National Eco",
+        "published": "2026-11-27T15:30:18.000Z",
+        "source": "AppleInsider",
+        "sourceKey": "appleinsider",
+        "priority": 2,
+        "image": "https://media.appleinsider.com/gallery/70038-147619-appstore-xl.jpg",
+        "baseScore": 8,
+        "relevanceScore": 8,
+        "matchedKeywords": [
+          "apple",
+          "antitrust"
+        ],
+        "category": "regulation"
+      }
+    ],
+    "crypto": [
+      {
+        "title": "AI math breakthroughs revive Bitcoin security fears, but practical threat remains unproven: K33",
+        "link": "https://www.theblock.co/news/ecosystems/2026-11-27-ai-math-breakthroughs-revive-bitcoin-security-fears-but-practical-threat-remains-unproven-k33-447549",
+        "description": "K33 said recent mathematical advances had not demonstrated a compromise of Bitcoin's cryptography, while urging closer attention to AI.",
+        "published": "2026-11-27T14:24:21.000Z",
+        "source": "The Block",
+        "sourceKey": "theblock",
+        "priority": 3,
+        "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-1341874258-scaled-e1795787607657.jpg",
+        "baseScore": 4,
+        "relevanceScore": 4,
+        "matchedKeywords": [
+          "breakthrough",
+          "bitcoin"
+        ],
+        "category": "crypto"
       }
     ]
   },
-  "totalArticles": 11
+  "totalArticles": 119
 }
